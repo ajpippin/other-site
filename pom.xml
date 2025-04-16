@@ -41,6 +41,12 @@
     </dependency>
   </dependencies>
 
+<!--  <resources>-->
+<!--    <resource>-->
+<!--      <directory>src/main/html</directory>-->
+<!--    </resource>-->
+<!--  </resources>-->
+
   <build>
     <pluginManagement><!-- lock down plugins versions to avoid using Maven defaults (may be moved to parent pom) -->
       <plugins>
@@ -75,6 +81,26 @@
         </plugin>
       </plugins>
     </pluginManagement>
+
     <defaultGoal>install</defaultGoal>
+
+    <filters>
+      <filter>src/main/html/site.properties</filter>
+    </filters>
+    <resources>
+      <resource>
+        <directory>src/main/html/indices</directory>
+        <filtering>true</filtering>
+        <targetPath>../html</targetPath>
+        <includes>
+          <include>**/*.html</include>
+        </includes>
+      </resource>
+      <resource>
+        <directory>src/main/html/include</directory>
+        <filtering>false</filtering>
+        <targetPath>../html/.include</targetPath>
+      </resource>
+    </resources>
   </build>
 </project>
