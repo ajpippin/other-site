@@ -1,0 +1,1590 @@
+#--------------------------------------------------------------------------------------------------#
+@type Movies
+@site MetArt
+@section 2008
+#--------------------------------------------------------------------------------------------------#
+
+title: Fidikeia
+type: movie
+site: MetArt
+cast: n:Lusi A; u:https://www.metart.com/model/lusi-a; g:f
+released: 2008-10-20
+director: Leocont
+fileprefix: MetArt-20081020-fidikeia-
+rating: 94
+url: https://www.metart.com/model/lusi-a/movie/20081020/FIDIKEIA
+files:  # add-files-here
+
+description: xxx
+
+
+---
+title: Bacche
+type: movie
+site: MetArt
+cast: n:Kelly D; u:https://www.metart.com/model/kelly-d; g:f
+released: 2008-10-17
+director: Luca Simoni
+fileprefix: MetArt-20081017-bacche-
+rating: 92
+url: https://www.metart.com/model/kelly-d/movie/20081017/BACCHE
+files:  # add-files-here
+
+description: xxx
+
+
+---
+title: Lidi
+type: movie
+site: MetArt
+cast: n:Nikky Case; u:https://www.metart.com/model/nikky-case; g:f
+released: 2008-10-15
+director: Erro
+fileprefix: MetArt-20081015-lidi-
+rating: 94
+url: https://www.metart.com/model/nikky-case/movie/20081015/LIDI
+files:  # add-files-here
+
+description: xxx
+
+
+---
+title: Tranquil
+type: movie
+site: MetArt
+cast: n:Ksucha C; u:https://www.metart.com/model/ksucha-c; g:f
+released: 2008-10-12
+director: Goncharov
+fileprefix: MetArt-20081012-tranquil-
+rating: 94
+url: https://www.metart.com/model/ksucha-c/movie/20081012/TRANQUIL
+files:  # add-files-here
+
+description: xxx
+
+
+---
+title: Pond
+type: movie
+site: MetArt
+cast: n:Uma B; u:https://www.metart.com/model/uma-b; g:f
+released: 2008-10-10
+director: Goncharov
+fileprefix: MetArt-20081010-pond-
+rating: 92
+url: https://www.metart.com/model/uma-b/movie/20081010/POND
+files:  # add-files-here
+
+description: xxx
+
+
+---
+title: Uniche
+type: movie
+site: MetArt
+cast: n:Chiara A; u:https://www.metart.com/model/chiara-a; g:f
+cast: n:Lilly A; u:https://www.metart.com/model/lilly-a; g:f
+released: 2008-10-03
+director: Luca Helios
+fileprefix: MetArt-20081003-uniche-
+rating: 94
+url: https://www.metart.com/model/chiara-a-and-lilly-a/movie/20081003/UNICHE
+files:  # add-files-here
+
+description: xxx
+
+
+---
+title: Enchanting
+type: movie
+site: MetArt
+cast: n:Sofi A; u:https://www.metart.com/model/sofi-a; g:f
+released: 2008-10-02
+director: Goncharov
+fileprefix: MetArt-20081002-enchanting-
+rating: 95
+url: https://www.metart.com/model/sofi-a/movie/20081002/ENCHANTING
+files:  # add-files-here
+
+description: xxx
+
+
+---
+title: Selixa
+type: movie
+site: MetArt
+cast: n:Jenni A; u:https://www.metart.com/model/jenni-a; g:f
+released: 2008-10-01
+director: Tim Fox
+fileprefix: MetArt-20081001-selixa-
+rating: 93
+url: https://www.metart.com/model/jenni-a/movie/20081001/SELIXA
+files:  # add-files-here
+
+description: xxx
+
+
+---
+title: Presenting Darina
+type: movie
+site: MetArt
+cast: n:Darina C; u:https://www.metart.com/model/darina-c; g:f
+released: 2008-09-29
+director: Goncharov
+fileprefix: MetArt-20080929-presenting-darina-
+rating: 93
+url: https://www.metart.com/model/darina-c/movie/20080929/PRESENTING_DARINA
+files:  # add-files-here
+
+description: xxx
+
+
+---
+title: Hispania
+type: movie
+site: MetArt
+cast: n:Chiara A; u:https://www.metart.com/model/chiara-a; g:f
+released: 2008-09-23
+director: Luca Helios
+fileprefix: MetArt-20080923-hispania-
+rating: 93
+url: https://www.metart.com/model/chiara-a/movie/20080923/HISPANIA
+files:  # add-files-here
+
+description: xxx
+
+
+---
+title: Ice Cream
+type: movie
+site: MetArt
+cast: n:Sonia C; u:https://www.metart.com/model/sonia-c; g:f
+released: 2008-09-22
+director: Luca Helios
+fileprefix: MetArt-20080922-ice-cream-
+rating: 94
+url: https://www.metart.com/model/sonia-c/movie/20080922/ICE_CREAM
+files:  # add-files-here
+
+description: xxx
+
+
+---
+title: Jolly's First Movie
+type: movie
+site: MetArt
+cast: n:Jolly A; u:https://www.metart.com/model/jolly-a; g:f
+released: 2008-09-21
+director: Volkov
+fileprefix: MetArt-20080921-jolly-s-first-movie-
+rating: 92
+url: https://www.metart.com/model/jolly-a/movie/20080921/JOLLY_S_FIRST_MOVIE
+files:  # add-files-here
+
+description: xxx
+
+
+---
+title: Cowgirl
+type: movie
+site: MetArt
+cast: n:Lera B; u:https://www.metart.com/model/lera-b; g:f
+released: 2008-09-06
+director: Goncharov
+fileprefix: MetArt-20080906-cowgirl-
+rating: 91
+url: https://www.metart.com/model/lera-b/movie/20080906/COWGIRL
+files:  # add-files-here
+
+description: xxx
+
+
+---
+title: Libitis
+type: movie
+site: MetArt
+cast: n:Vera C; u:https://www.metart.com/model/vera-c; g:f
+released: 2008-09-05
+director: Goncharov
+fileprefix: MetArt-20080905-libitis-
+rating: 93
+url: https://www.metart.com/model/vera-c/movie/20080905/LIBITIS
+files:  # add-files-here
+
+description: xxx
+
+
+---
+title: Sorprese
+type: movie
+site: MetArt
+cast: n:Lilly A; u:https://www.metart.com/model/lilly-a; g:f
+released: 2008-09-04
+director: Luca Helios
+fileprefix: MetArt-20080904-sorprese-
+rating: 95
+url: https://www.metart.com/model/lilly-a/movie/20080904/SORPRESE
+files:  # add-files-here
+
+description: xxx
+
+
+---
+title: Paseia
+type: movie
+site: MetArt
+cast: n:Demi A; u:https://www.metart.com/model/demi-a; g:f
+released: 2008-09-03
+director: Luca Helios
+fileprefix: MetArt-20080903-paseia-
+rating: 94
+url: https://www.metart.com/model/demi-a/movie/20080903/PASEIA
+files:  # add-files-here
+
+description: xxx
+
+
+---
+title: Verdes
+type: movie
+site: MetArt
+cast: n:Sibyl A; u:https://www.metart.com/model/sibyl-a; g:f
+released: 2008-09-02
+director: Volkov
+fileprefix: MetArt-20080902-verdes-
+rating: 91
+url: https://www.metart.com/model/sibyl-a/movie/20080902/VERDES
+files:  # add-files-here
+
+description: xxx
+
+
+---
+title: Salute
+type: movie
+site: MetArt
+cast: n:Olga K; u:https://www.metart.com/model/olga-k; g:f
+released: 2008-09-01
+director: Goncharov
+fileprefix: MetArt-20080901-salute-
+rating: 93
+url: https://www.metart.com/model/olga-k/movie/20080901/SALUTE
+files:  # add-files-here
+
+description: xxx
+
+
+---
+title: Lenix
+type: movie
+site: MetArt
+cast: n:Tinka A; u:https://www.metart.com/model/tinka-a; g:f
+released: 2008-08-29
+director: Volkov
+fileprefix: MetArt-20080829-lenix-
+rating: 94
+url: https://www.metart.com/model/tinka-a/movie/20080829/LENIX
+files:  # add-files-here
+
+description: xxx
+
+
+---
+title: Smiles
+type: movie
+site: MetArt
+cast: n:Irena B; u:https://www.metart.com/model/irena-b; g:f
+released: 2008-08-26
+director: Goncharov
+fileprefix: MetArt-20080826-smiles-
+rating: 91
+url: https://www.metart.com/model/irena-b/movie/20080826/SMILES
+files:  # add-files-here
+
+description: xxx
+
+
+---
+title: Solania
+type: movie
+site: MetArt
+cast: n:Gwen A; u:https://www.metart.com/model/gwen-a; g:f
+released: 2008-08-19
+director: Luca Helios
+fileprefix: MetArt-20080819-solania-
+rating: 94
+url: https://www.metart.com/model/gwen-a/movie/20080819/SOLANIA
+files:  # add-files-here
+
+description: xxx
+
+
+---
+title: Salinas
+type: movie
+site: MetArt
+cast: n:Lilly B; u:https://www.metart.com/model/lilly-b; g:f
+released: 2008-08-16
+director: Paromov
+fileprefix: MetArt-20080816-salinas-
+rating: 92
+url: https://www.metart.com/model/lilly-b/movie/20080816/SALINAS
+files:  # add-files-here
+
+description: xxx
+
+
+---
+title: Planetaria
+type: movie
+site: MetArt
+cast: n:Eufrat A; u:https://www.metart.com/model/eufrat-a; g:f
+released: 2008-08-14
+director: Luca Helios
+fileprefix: MetArt-20080814-planetaria-
+rating: 94
+url: https://www.metart.com/model/eufrat-a/movie/20080814/PLANETARIA
+files:  # add-files-here
+
+description: xxx
+
+
+---
+title: Turchesi
+type: movie
+site: MetArt
+cast: n:Lilly A; u:https://www.metart.com/model/lilly-a; g:f
+released: 2008-08-12
+director: Luca Helios
+fileprefix: MetArt-20080812-turchesi-
+rating: 95
+url: https://www.metart.com/model/lilly-a/movie/20080812/TURCHESI
+files:  # add-files-here
+
+description: xxx
+
+
+---
+title: Country
+type: movie
+site: MetArt
+cast: n:Vika Z; u:https://www.metart.com/model/vika-z; g:f
+released: 2008-08-08
+director: Goncharov
+fileprefix: MetArt-20080808-country-
+rating: 91
+url: https://www.metart.com/model/vika-z/movie/20080808/COUNTRY
+files:  # add-files-here
+
+description: xxx
+
+
+---
+title: Intenxa
+type: movie
+site: MetArt
+cast: n:Jade A; u:https://www.metart.com/model/jade-a; g:f
+released: 2008-08-05
+director: Gubin
+fileprefix: MetArt-20080805-intenxa-
+rating: 96
+url: https://www.metart.com/model/jade-a/movie/20080805/INTENXA
+files:  # add-files-here
+
+description: xxx
+
+
+---
+title: Occhi
+type: movie
+site: MetArt
+cast: n:Uma B; u:https://www.metart.com/model/uma-b; g:f
+released: 2008-08-01
+director: Goncharov
+fileprefix: MetArt-20080801-occhi-
+rating: 90
+url: https://www.metart.com/model/uma-b/movie/20080801/OCCHI
+files:  # add-files-here
+
+description: xxx
+
+
+---
+title: Denx
+type: movie
+site: MetArt
+cast: n:Natasha D; u:https://www.metart.com/model/natasha-d; g:f
+released: 2008-07-31
+director: Voronin
+fileprefix: MetArt-20080731-denx-
+rating: 93
+url: https://www.metart.com/model/natasha-d/movie/20080731/DENX
+files:  # add-files-here
+
+description: xxx
+
+
+---
+title: Eternalis
+type: movie
+site: MetArt
+cast: n:Danae A; u:https://www.metart.com/model/danae-a; g:f
+released: 2008-07-30
+director: Luca Helios
+fileprefix: MetArt-20080730-eternalis-
+rating: 95
+url: https://www.metart.com/model/danae-a/movie/20080730/ETERNALIS
+files:  # add-files-here
+
+description: xxx
+
+
+---
+title: Stanza
+type: movie
+site: MetArt
+cast: n:Iveta B; u:https://www.metart.com/model/iveta-b; g:f
+released: 2008-07-29
+director: Luca Helios
+fileprefix: MetArt-20080729-stanza-
+rating: 95
+url: https://www.metart.com/model/iveta-b/movie/20080729/STANZA
+files:  # add-files-here
+
+description: xxx
+
+
+---
+title: Explore
+type: movie
+site: MetArt
+cast: n:Katya T; u:https://www.metart.com/model/katya-t; g:f
+released: 2008-07-21
+director: Volkov
+fileprefix: MetArt-20080721-explore-
+rating: 93
+url: https://www.metart.com/model/katya-t/movie/20080721/EXPLORE
+files:  # add-files-here
+
+description: xxx
+
+
+---
+title: Porto
+type: movie
+site: MetArt
+cast: n:Eufrat A; u:https://www.metart.com/model/eufrat-a; g:f
+cast: n:Carina A; u:https://www.metart.com/model/carina-a; g:f
+released: 2008-07-20
+director: Luca Helios
+fileprefix: MetArt-20080720-porto-
+rating: 92
+url: https://www.metart.com/model/eufrat-a-and-carina-a/movie/20080720/PORTO
+files:  # add-files-here
+
+description: xxx
+
+
+---
+title: Hilix
+type: movie
+site: MetArt
+cast: n:Steorra A; u:https://www.metart.com/model/steorra-a; g:f
+cast: n:Raylene A; u:https://www.metart.com/model/raylene-a; g:f
+released: 2008-07-17
+director: Tim Fox
+fileprefix: MetArt-20080717-hilix-
+rating: 94
+url: https://www.metart.com/model/steorra-a-and-raylene-a/movie/20080717/HILIX
+files:  # add-files-here
+
+description: xxx
+
+
+---
+title: Gallitia
+type: movie
+site: MetArt
+cast: n:Bijou A; u:https://www.metart.com/model/bijou-a; g:f
+released: 2008-07-14
+director: Luca Helios
+fileprefix: MetArt-20080714-gallitia-
+rating: 94
+url: https://www.metart.com/model/bijou-a/movie/20080714/GALLITIA
+files:  # add-files-here
+
+description: xxx
+
+
+---
+title: Tei
+type: movie
+site: MetArt
+cast: n:Mika A; u:https://www.metart.com/model/mika-a; g:f
+released: 2008-07-13
+director: Goncharov
+fileprefix: MetArt-20080713-tei-
+rating: 93
+url: https://www.metart.com/model/mika-a/movie/20080713/TEI
+files:  # add-files-here
+
+description: xxx
+
+
+---
+title: Tanx
+type: movie
+site: MetArt
+cast: n:Altea B; u:https://www.metart.com/model/altea-b; g:f
+released: 2008-07-10
+director: Erro
+fileprefix: MetArt-20080710-tanx-
+rating: 95
+url: https://www.metart.com/model/altea-b/movie/20080710/TANX
+files:  # add-files-here
+
+description: xxx
+
+
+---
+title: Salinia
+type: movie
+site: MetArt
+cast: n:Vita C; u:https://www.metart.com/model/vita-c; g:f
+released: 2008-07-08
+director: Goncharov
+fileprefix: MetArt-20080708-salinia-
+rating: 92
+url: https://www.metart.com/model/vita-c/movie/20080708/SALINIA
+files:  # add-files-here
+
+description: xxx
+
+
+---
+title: Onde
+type: movie
+site: MetArt
+cast: n:Kati A; u:https://www.metart.com/model/kati-a; g:f
+released: 2008-07-06
+director: Goncharov
+fileprefix: MetArt-20080706-onde-
+rating: 91
+url: https://www.metart.com/model/kati-a/movie/20080706/ONDE
+files:  # add-files-here
+
+description: xxx
+
+
+---
+title: Marea
+type: movie
+site: MetArt
+cast: n:Mira A; u:https://www.metart.com/model/mira-a; g:f
+released: 2008-07-05
+director: Goncharov
+fileprefix: MetArt-20080705-marea-
+rating: 93
+url: https://www.metart.com/model/mira-a/movie/20080705/MAREA
+files:  # add-files-here
+
+description: xxx
+
+
+---
+title: Vestale
+type: movie
+site: MetArt
+cast: n:Chiara A; u:https://www.metart.com/model/chiara-a; g:f
+released: 2008-07-03
+director: Luca Helios
+fileprefix: MetArt-20080703-vestale-
+rating: 95
+url: https://www.metart.com/model/chiara-a/movie/20080703/VESTALE
+files:  # add-files-here
+
+description: xxx
+
+
+---
+title: Luce
+type: movie
+site: MetArt
+cast: n:Ada A; u:https://www.metart.com/model/ada-a; g:f
+released: 2008-07-01
+director: Goncharov
+fileprefix: MetArt-20080701-luce-
+rating: 93
+url: https://www.metart.com/model/ada-a/movie/20080701/LUCE
+files:  # add-files-here
+
+description: xxx
+
+
+---
+title: Fontana
+type: movie
+site: MetArt
+cast: n:Lilly A; u:https://www.metart.com/model/lilly-a; g:f
+released: 2008-06-27
+director: Luca Helios
+fileprefix: MetArt-20080627-fontana-
+rating: 95
+url: https://www.metart.com/model/lilly-a/movie/20080627/FONTANA
+files:  # add-files-here
+
+description: xxx
+
+
+---
+title: Sistante
+type: movie
+site: MetArt
+cast: n:Jenni A; u:https://www.metart.com/model/jenni-a; g:f
+released: 2008-06-26
+director: Erro
+fileprefix: MetArt-20080626-sistante-
+rating: 92
+url: https://www.metart.com/model/jenni-a/movie/20080626/SISTANTE
+files:  # add-files-here
+
+description: xxx
+
+
+---
+title: Selikan
+type: movie
+site: MetArt
+cast: n:Nikky Case; u:https://www.metart.com/model/nikky-case; g:f
+released: 2008-06-24
+director: Luca Helios
+fileprefix: MetArt-20080624-selikan-
+rating: 94
+url: https://www.metart.com/model/nikky-case/movie/20080624/SELIKAN
+files:  # add-files-here
+
+description: xxx
+
+
+---
+title: Consika
+type: movie
+site: MetArt
+cast: n:Sharon E; u:https://www.metart.com/model/sharon-e; g:f
+released: 2008-06-23
+director: Voronin
+fileprefix: MetArt-20080623-consika-
+rating: 94
+url: https://www.metart.com/model/sharon-e/movie/20080623/CONSIKA
+files:  # add-files-here
+
+description: xxx
+
+
+---
+title: Nass
+type: movie
+site: MetArt
+cast: n:Ulya I; u:https://www.metart.com/model/ulya-i; g:f
+released: 2008-06-19
+director: Goncharov
+fileprefix: MetArt-20080619-nass-
+rating: 94
+url: https://www.metart.com/model/ulya-i/movie/20080619/NASS
+files:  # add-files-here
+
+description: xxx
+
+
+---
+title: Spirito
+type: movie
+site: MetArt
+cast: n:Lilly A; u:https://www.metart.com/model/lilly-a; g:f
+released: 2008-06-18
+director: Luca Helios
+fileprefix: MetArt-20080618-spirito-
+rating: 95
+url: https://www.metart.com/model/lilly-a/movie/20080618/SPIRITO
+files:  # add-files-here
+
+description: xxx
+
+
+---
+title: Roccia
+type: movie
+site: MetArt
+cast: n:Liza D; u:https://www.metart.com/model/liza-d; g:f
+released: 2008-06-16
+director: Goncharov
+fileprefix: MetArt-20080616-roccia-
+rating: 91
+url: https://www.metart.com/model/liza-d/movie/20080616/ROCCIA
+files:  # add-files-here
+
+description: xxx
+
+
+---
+title: Fiera
+type: movie
+site: MetArt
+cast: n:Vera C; u:https://www.metart.com/model/vera-c; g:f
+released: 2008-06-11
+director: Goncharov
+fileprefix: MetArt-20080611-fiera-
+rating: 93
+url: https://www.metart.com/model/vera-c/movie/20080611/FIERA
+files:  # add-files-here
+
+description: xxx
+
+
+---
+title: Marinan
+type: movie
+site: MetArt
+cast: n:Alina H; u:https://www.metart.com/model/alina-h; g:f
+cast: n:Atena A; u:https://www.metart.com/model/atena-a; g:f
+cast: n:Felisia A; u:https://www.metart.com/model/felisia-a; g:f
+released: 2008-06-09
+director: Goncharov
+fileprefix: MetArt-20080609-marinan-
+rating: 93
+url: https://www.metart.com/model/alina-h-atena-a-and-felisia-a/movie/20080609/MARINAN
+files:  # add-files-here
+
+description: xxx
+
+
+---
+title: Belika
+type: movie
+site: MetArt
+cast: n:Mika A; u:https://www.metart.com/model/mika-a; g:f
+released: 2008-06-06
+director: Goncharov
+fileprefix: MetArt-20080606-belika-
+rating: 92
+url: https://www.metart.com/model/mika-a/movie/20080606/BELIKA
+files:  # add-files-here
+
+description: xxx
+
+
+---
+title: Presenting Margarita
+type: movie
+site: MetArt
+cast: n:Margarita A; u:https://www.metart.com/model/margarita-a; g:f
+released: 2008-06-01
+director: Goncharov
+fileprefix: MetArt-20080601-presenting-margarita-
+rating: 89
+url: https://www.metart.com/model/margarita-a/movie/20080601/PRESENTING_MARGARITA
+files:  # add-files-here
+
+description: xxx
+
+
+---
+title: Welians
+type: movie
+site: MetArt
+cast: n:Lena D; u:https://www.metart.com/model/lena-d; g:f
+released: 2008-05-29
+director: Volkov
+fileprefix: MetArt-20080529-welians-
+rating: 92
+url: https://www.metart.com/model/lena-d/movie/20080529/WELIANS
+files:  # add-files-here
+
+description: xxx
+
+
+---
+title: Kalen
+type: movie
+site: MetArt
+cast: n:Anya D; u:https://www.metart.com/model/anya-d; g:f
+released: 2008-05-27
+director: Voronin
+fileprefix: MetArt-20080527-kalen-
+rating: 89
+url: https://www.metart.com/model/anya-d/movie/20080527/KALEN
+files:  # add-files-here
+
+description: xxx
+
+
+---
+title: Elatis
+type: movie
+site: MetArt
+cast: n:Iveta B; u:https://www.metart.com/model/iveta-b; g:f
+released: 2008-05-22
+director: Luca Helios
+fileprefix: MetArt-20080522-elatis-
+rating: 95
+url: https://www.metart.com/model/iveta-b/movie/20080522/ELATIS
+files:  # add-files-here
+
+description: xxx
+
+
+---
+title: Egoias
+type: movie
+site: MetArt
+cast: n:Demi A; u:https://www.metart.com/model/demi-a; g:f
+released: 2008-05-10
+director: Luca Helios
+fileprefix: MetArt-20080510-egoias-
+rating: 94
+url: https://www.metart.com/model/demi-a/movie/20080510/EGOIAS
+files:  # add-files-here
+
+description: xxx
+
+
+---
+title: Spiritique
+type: movie
+site: MetArt
+cast: n:Jade A; u:https://www.metart.com/model/jade-a; g:f
+released: 2008-05-08
+director: Gubin
+fileprefix: MetArt-20080508-spiritique-
+rating: 93
+url: https://www.metart.com/model/jade-a/movie/20080508/SPIRITIQUE
+files:  # add-files-here
+
+description: xxx
+
+
+---
+title: Bithius
+type: movie
+site: MetArt
+cast: n:Bijou A; u:https://www.metart.com/model/bijou-a; g:f
+released: 2008-05-07
+director: Luca Helios
+fileprefix: MetArt-20080507-bithius-
+rating: 94
+url: https://www.metart.com/model/bijou-a/movie/20080507/BITHIUS
+files:  # add-files-here
+
+description: xxx
+
+
+---
+title: Paxioni
+type: movie
+site: MetArt
+cast: n:Olga K; u:https://www.metart.com/model/olga-k; g:f
+cast: n:Rita E; u:https://www.metart.com/model/rita-e; g:f
+released: 2008-05-06
+director: Goncharov
+fileprefix: MetArt-20080506-paxioni-
+rating: 89
+url: https://www.metart.com/model/olga-k-and-rita-e/movie/20080506/PAXIONI
+files:  # add-files-here
+
+description: xxx
+
+
+---
+title: Didas
+type: movie
+site: MetArt
+cast: n:Ksucha C; u:https://www.metart.com/model/ksucha-c; g:f
+released: 2008-05-03
+director: Goncharov
+fileprefix: MetArt-20080503-didas-
+rating: 93
+url: https://www.metart.com/model/ksucha-c/movie/20080503/DIDAS
+files:  # add-files-here
+
+description: xxx
+
+
+---
+title: Tekiara
+type: movie
+site: MetArt
+cast: n:Irishka A; u:https://www.metart.com/model/irishka-a; g:f
+released: 2008-05-01
+director: Goncharov
+fileprefix: MetArt-20080501-tekiara-
+rating: 92
+url: https://www.metart.com/model/irishka-a/movie/20080501/TEKIARA
+files:  # add-files-here
+
+description: xxx
+
+
+---
+title: Bonita
+type: movie
+site: MetArt
+cast: n:Inna A; u:https://www.metart.com/model/inna-a; g:f
+released: 2008-04-30
+director: Goncharov
+fileprefix: MetArt-20080430-bonita-
+rating: 90
+url: https://www.metart.com/model/inna-a/movie/20080430/BONITA
+files:  # add-files-here
+
+description: xxx
+
+
+---
+title: Aeterna
+type: movie
+site: MetArt
+cast: n:Chiara A; u:https://www.metart.com/model/chiara-a; g:f
+released: 2008-04-27
+director: Luca Helios
+fileprefix: MetArt-20080427-aeterna-
+rating: 95
+url: https://www.metart.com/model/chiara-a/movie/20080427/AETERNA
+files:  # add-files-here
+
+description: xxx
+
+
+---
+title: Tempio
+type: movie
+site: MetArt
+cast: n:Ulya I; u:https://www.metart.com/model/ulya-i; g:f
+released: 2008-04-26
+director: Goncharov
+fileprefix: MetArt-20080426-tempio-
+rating: 93
+url: https://www.metart.com/model/ulya-i/movie/20080426/TEMPIO
+files:  # add-files-here
+
+description: xxx
+
+
+---
+title: Soavitia
+type: movie
+site: MetArt
+cast: n:Nikky Case; u:https://www.metart.com/model/nikky-case; g:f
+released: 2008-04-25
+director: Luca Helios
+fileprefix: MetArt-20080425-soavitia-
+rating: 94
+url: https://www.metart.com/model/nikky-case/movie/20080425/SOAVITIA
+files:  # add-files-here
+
+description: xxx
+
+
+---
+title: Libellula
+type: movie
+site: MetArt
+cast: n:Vera C; u:https://www.metart.com/model/vera-c; g:f
+released: 2008-04-13
+director: Goncharov
+fileprefix: MetArt-20080413-libellula-
+rating: 93
+url: https://www.metart.com/model/vera-c/movie/20080413/LIBELLULA
+files:  # add-files-here
+
+description: xxx
+
+
+---
+title: Lena
+type: movie
+site: MetArt
+cast: n:Lena U; u:https://www.metart.com/model/lena-u; g:f
+released: 2008-04-11
+director: Goncharov
+fileprefix: MetArt-20080411-lena-
+rating: 91
+url: https://www.metart.com/model/lena-u/movie/20080411/LENA
+files:  # add-files-here
+
+description: xxx
+
+
+---
+title: Ellinis
+type: movie
+site: MetArt
+cast: n:Danae A; u:https://www.metart.com/model/danae-a; g:f
+released: 2008-04-09
+director: Erro
+fileprefix: MetArt-20080409-ellinis-
+rating: 93
+url: https://www.metart.com/model/danae-a/movie/20080409/ELLINIS
+files:  # add-files-here
+
+description: xxx
+
+
+---
+title: Cuddling
+type: movie
+site: MetArt
+cast: n:Yana B; u:https://www.metart.com/model/yana-b; g:f
+cast: n:Katya N; u:https://www.metart.com/model/katya-n; g:f
+released: 2008-04-08
+director: Slastyonoff
+fileprefix: MetArt-20080408-cuddling-
+rating: 93
+url: https://www.metart.com/model/yana-b-and-katya-n/movie/20080408/CUDDLING
+files:  # add-files-here
+
+description: xxx
+
+
+---
+title: Giochi D Acqua
+type: movie
+site: MetArt
+cast: n:Natalia E; u:https://www.metart.com/model/natalia-e; g:f
+cast: n:Narkiss; u:https://www.metart.com/model/narkiss; g:f
+released: 2008-04-01
+director: Slastyonoff
+fileprefix: MetArt-20080401-giochi-d-acqua-
+rating: 93
+url: https://www.metart.com/model/natalia-e-and-narkiss/movie/20080401/GIOCHI_D_ACQUA
+files:  # add-files-here
+
+description: xxx
+
+
+---
+title: Falizia
+type: movie
+site: MetArt
+cast: n:Julia F; u:https://www.metart.com/model/julia-f; g:f
+released: 2008-03-30
+director: Slastyonoff
+fileprefix: MetArt-20080330-falizia-
+rating: 89
+url: https://www.metart.com/model/julia-f/movie/20080330/FALIZIA
+files:  # add-files-here
+
+description: xxx
+
+
+---
+title: Latitude
+type: movie
+site: MetArt
+cast: n:Koika; u:https://www.metart.com/model/koika; g:f
+released: 2008-03-29
+director: Slastyonoff
+fileprefix: MetArt-20080329-latitude-
+rating: 95
+url: https://www.metart.com/model/koika/movie/20080329/LATITUDE
+files:  # add-files-here
+
+description: xxx
+
+
+---
+title: Gisias
+type: movie
+site: MetArt
+cast: n:Nikky Case; u:https://www.metart.com/model/nikky-case; g:f
+released: 2008-03-22
+director: Tim Fox
+fileprefix: MetArt-20080322-gisias-
+rating: 92
+url: https://www.metart.com/model/nikky-case/movie/20080322/GISIAS
+files:  # add-files-here
+
+description: xxx
+
+
+---
+title: Palazzo The Movie
+type: movie
+site: MetArt
+cast: n:Carina A; u:https://www.metart.com/model/carina-a; g:f
+released: 2008-03-21
+director: Erro
+fileprefix: MetArt-20080321-palazzo-the-movie-
+rating: 94
+url: https://www.metart.com/model/carina-a/movie/20080321/PALAZZO_THE_MOVIE
+files:  # add-files-here
+
+description: xxx
+
+
+---
+title: Ecos The Movie
+type: movie
+site: MetArt
+cast: n:Altea B; u:https://www.metart.com/model/altea-b; g:f
+released: 2008-03-19
+director: Erro
+fileprefix: MetArt-20080319-ecos-the-movie-
+rating: 95
+url: https://www.metart.com/model/altea-b/movie/20080319/ECOS_THE_MOVIE
+files:  # add-files-here
+
+description: xxx
+
+
+---
+title: Palmas The Movie
+type: movie
+site: MetArt
+cast: n:Iveta B; u:https://www.metart.com/model/iveta-b; g:f
+released: 2008-03-17
+director: Erro
+fileprefix: MetArt-20080317-palmas-the-movie-
+rating: 96
+url: https://www.metart.com/model/iveta-b/movie/20080317/PALMAS_THE_MOVIE
+files:  # add-files-here
+
+description: xxx
+
+
+---
+title: Trident
+type: movie
+site: MetArt
+cast: n:Tamila A; u:https://www.metart.com/model/tamila-a; g:f
+released: 2008-03-10
+director: Goncharov
+fileprefix: MetArt-20080310-trident-
+rating: 91
+url: https://www.metart.com/model/tamila-a/movie/20080310/TRIDENT
+files:  # add-files-here
+
+description: xxx
+
+
+---
+title: Xempra
+type: movie
+site: MetArt
+cast: n:Ariel Piper Fawn; u:https://www.sexart.com/model/ariel-piper-fawn; s:SexArt; g:f
+released: 2008-03-09
+director: Luca Helios
+fileprefix: MetArt-20080309-xempra-
+rating: 95
+url: https://www.metart.com/model/ariel-piper-fawn/movie/20080309/XEMPRA
+files:  # add-files-here
+
+description: xxx
+
+
+---
+title: Artista
+type: movie
+site: MetArt
+cast: n:Nadin A; u:https://www.metart.com/model/nadin-a; g:f
+released: 2008-03-01
+director: Goncharov
+fileprefix: MetArt-20080301-artista-
+rating: 94
+url: https://www.metart.com/model/nadin-a/movie/20080301/ARTISTA
+files:  # add-files-here
+
+description: xxx
+
+
+---
+title: Vitio
+type: movie
+site: MetArt
+cast: n:Katya V; u:https://www.metart.com/model/katya-v; g:f
+released: 2008-02-29
+director: Voronin
+fileprefix: MetArt-20080229-vitio-
+rating: 93
+url: https://www.metart.com/model/katya-v/movie/20080229/VITIO
+files:  # add-files-here
+
+description: xxx
+
+
+---
+title: Eternian
+type: movie
+site: MetArt
+cast: n:Vera E; u:https://www.metart.com/model/vera-e; g:f
+released: 2008-02-23
+director: Goncharov
+fileprefix: MetArt-20080223-eternian-
+rating: 93
+url: https://www.metart.com/model/vera-e/movie/20080223/ETERNIAN
+files:  # add-files-here
+
+description: xxx
+
+
+---
+title: Imaculas
+type: movie
+site: MetArt
+cast: n:Irishka A; u:https://www.metart.com/model/irishka-a; g:f
+released: 2008-02-21
+director: Goncharov
+fileprefix: MetArt-20080221-imaculas-
+rating: 93
+url: https://www.metart.com/model/irishka-a/movie/20080221/IMACULAS
+files:  # add-files-here
+
+description: xxx
+
+
+---
+title: Fennixia
+type: movie
+site: MetArt
+cast: n:Nikky Case; u:https://www.metart.com/model/nikky-case; g:f
+released: 2008-02-19
+director: Luca Helios
+fileprefix: MetArt-20080219-fennixia-
+rating: 94
+url: https://www.metart.com/model/nikky-case/movie/20080219/FENNIXIA
+files:  # add-files-here
+
+description: xxx
+
+
+---
+title: Diligenis
+type: movie
+site: MetArt
+cast: n:Demi A; u:https://www.metart.com/model/demi-a; g:f
+released: 2008-02-12
+director: Luca Helios
+fileprefix: MetArt-20080212-diligenis-
+rating: 94
+url: https://www.metart.com/model/demi-a/movie/20080212/DILIGENIS
+files:  # add-files-here
+
+description: xxx
+
+
+---
+title: Avant
+type: movie
+site: MetArt
+cast: n:Lidiya A; u:https://www.metart.com/model/lidiya-a; g:f
+released: 2008-02-10
+director: Goncharov
+fileprefix: MetArt-20080210-avant-
+rating: 92
+url: https://www.metart.com/model/lidiya-a/movie/20080210/AVANT
+files:  # add-files-here
+
+description: xxx
+
+
+---
+title: Goldea
+type: movie
+site: MetArt
+cast: n:Olga K; u:https://www.metart.com/model/olga-k; g:f
+released: 2008-02-08
+director: Goncharov
+fileprefix: MetArt-20080208-goldea-
+rating: 92
+url: https://www.metart.com/model/olga-k/movie/20080208/GOLDEA
+files:  # add-files-here
+
+description: xxx
+
+
+---
+title: Ikon
+type: movie
+site: MetArt
+cast: n:Peaches A; u:https://www.metart.com/model/peaches-a; g:f
+released: 2008-02-06
+director: Majoly
+fileprefix: MetArt-20080206-ikon-
+rating: 93
+url: https://www.metart.com/model/peaches-a/movie/20080206/IKON
+files:  # add-files-here
+
+description: xxx
+
+
+---
+title: Unnianis
+type: movie
+site: MetArt
+cast: n:Chiara A; u:https://www.metart.com/model/chiara-a; g:f
+released: 2008-02-02
+director: Luca Helios
+fileprefix: MetArt-20080202-unnianis-
+rating: 93
+url: https://www.metart.com/model/chiara-a/movie/20080202/UNNIANIS
+files:  # add-files-here
+
+description: xxx
+
+
+---
+title: Mistiya
+type: movie
+site: MetArt
+cast: n:Jenni A; u:https://www.metart.com/model/jenni-a; g:f
+released: 2008-02-01
+director: Luca Helios
+fileprefix: MetArt-20080201-mistiya-
+rating: 94
+url: https://www.metart.com/model/jenni-a/movie/20080201/MISTIYA
+files:  # add-files-here
+
+description: xxx
+
+
+---
+title: Spotlight
+type: movie
+site: MetArt
+cast: n:Natasha G; u:https://www.metart.com/model/natasha-g; g:f
+released: 2008-01-29
+director: Voronin
+fileprefix: MetArt-20080129-spotlight-
+rating: 93
+url: https://www.metart.com/model/natasha-g/movie/20080129/SPOTLIGHT
+files:  # add-files-here
+
+description: xxx
+
+
+---
+title: Pajixian
+type: movie
+site: MetArt
+cast: n:Nikky A; u:https://www.metart.com/model/nikky-a; g:f
+released: 2008-01-26
+director: Volkov
+fileprefix: MetArt-20080126-pajixian-
+rating: 91
+url: https://www.metart.com/model/nikky-a/movie/20080126/PAJIXIAN
+files:  # add-files-here
+
+description: xxx
+
+
+---
+title: Canadesi
+type: movie
+site: MetArt
+cast: n:Jewel A; u:https://www.metart.com/model/jewel-a; g:f
+released: 2008-01-23
+director: Emslie
+fileprefix: MetArt-20080123-canadesi-
+rating: 94
+url: https://www.metart.com/model/jewel-a/movie/20080123/CANADESI
+files:  # add-files-here
+
+description: xxx
+
+
+---
+title: Papaveri
+type: movie
+site: MetArt
+cast: n:Lidiya A; u:https://www.metart.com/model/lidiya-a; g:f
+released: 2008-01-22
+director: Goncharov
+fileprefix: MetArt-20080122-papaveri-
+rating: 93
+url: https://www.metart.com/model/lidiya-a/movie/20080122/PAPAVERI
+files:  # add-files-here
+
+description: xxx
+
+
+---
+title: Advertia
+type: movie
+site: MetArt
+cast: n:Dana A; u:https://www.metart.com/model/dana-a; g:f
+released: 2008-01-20
+director: Goncharov
+fileprefix: MetArt-20080120-advertia-
+rating: 91
+url: https://www.metart.com/model/dana-a/movie/20080120/ADVERTIA
+files:  # add-files-here
+
+description: xxx
+
+
+---
+title: Presenting Donna
+type: movie
+site: MetArt
+cast: n:Donna A; u:https://www.metart.com/model/donna-a; g:f
+released: 2008-01-19
+director: Goncharov
+fileprefix: MetArt-20080119-presenting-donna-
+rating: 92
+url: https://www.metart.com/model/donna-a/movie/20080119/PRESENTING_DONNA
+files:  # add-files-here
+
+description: xxx
+
+
+---
+title: Nillox
+type: movie
+site: MetArt
+cast: n:Chiara A; u:https://www.metart.com/model/chiara-a; g:f
+released: 2008-01-15
+director: Luca Helios
+fileprefix: MetArt-20080115-nillox-
+rating: 95
+url: https://www.metart.com/model/chiara-a/movie/20080115/NILLOX
+files:  # add-files-here
+
+description: xxx
+
+
+---
+title: Noxiania
+type: movie
+site: MetArt
+cast: n:Iris A; u:https://www.metart.com/model/iris-a; g:f
+released: 2008-01-12
+director: Goncharov
+fileprefix: MetArt-20080112-noxiania-
+rating: 90
+url: https://www.metart.com/model/iris-a/movie/20080112/NOXIANIA
+files:  # add-files-here
+
+description: xxx
+
+
+---
+title: Yakilia
+type: movie
+site: MetArt
+cast: n:Natasha S; u:https://www.metart.com/model/natasha-s; g:f
+released: 2008-01-09
+director: Maria Kenig
+fileprefix: MetArt-20080109-yakilia-
+rating: 94
+url: https://www.metart.com/model/natasha-s/movie/20080109/YAKILIA
+files:  # add-files-here
+
+description: xxx
+
+
+---
+title: Mithiani
+type: movie
+site: MetArt
+cast: n:Inna A; u:https://www.metart.com/model/inna-a; g:f
+released: 2008-01-07
+director: Goncharov
+fileprefix: MetArt-20080107-mithiani-
+rating: 91
+url: https://www.metart.com/model/inna-a/movie/20080107/MITHIANI
+files:  # add-files-here
+
+description: xxx
+
+
+---
+title: Sensibles
+type: movie
+site: MetArt
+cast: n:Atena A; u:https://www.metart.com/model/atena-a; g:f
+cast: n:Dana A; u:https://www.metart.com/model/dana-a; g:f
+released: 2008-01-06
+director: Voronin
+fileprefix: MetArt-20080106-sensibles-
+rating: 91
+url: https://www.metart.com/model/atena-a-and-dana-a/movie/20080106/SENSIBLES
+files:  # add-files-here
+
+description: xxx
+
+
+---
+title: Fantasias
+type: movie
+site: MetArt
+cast: n:Irena B; u:https://www.metart.com/model/irena-b; g:f
+released: 2008-01-05
+director: Goncharov
+fileprefix: MetArt-20080105-fantasias-
+rating: 91
+url: https://www.metart.com/model/irena-b/movie/20080105/FANTASIAS
+files:  # add-files-here
+
+description: xxx
+
+
+---
+title: Kabiria
+type: movie
+site: MetArt
+cast: n:Lena L; u:https://www.metart.com/model/lena-l; g:f
+released: 2008-01-04
+director: Pasha
+fileprefix: MetArt-20080104-kabiria-
+rating: 92
+url: https://www.metart.com/model/lena-l/movie/20080104/KABIRIA
+files:  # add-files-here
+
+description: xxx
+
+
+---
+title: Sagami
+type: movie
+site: MetArt
+cast: n:Jenni A; u:https://www.metart.com/model/jenni-a; g:f
+released: 2008-01-03
+director: Luca Helios
+fileprefix: MetArt-20080103-sagami-
+rating: 93
+url: https://www.metart.com/model/jenni-a/movie/20080103/SAGAMI
+files:  # add-files-here
+
+description: xxx
+
+
+---
+title: Novitas
+type: movie
+site: MetArt
+cast: n:Lora A; u:https://www.metart.com/model/lora-a; g:f
+released: 2008-01-01
+director: Goncharov
+fileprefix: MetArt-20080101-novitas-
+rating: 93
+url: https://www.metart.com/model/lora-a/movie/20080101/NOVITAS
+files:  # add-files-here
+
+description: xxx
+
+
+---
+title: Bascule
+type: movie
+site: MetArt
+cast: n:Gwen A; u:https://www.metart.com/model/gwen-a; g:f
+released: 2008-01-01
+director: Jan Kruml
+fileprefix: MetArt-20080101-bascule-
+rating: 93
+url: https://www.metart.com/model/gwen-a/movie/20080101/BASCULE
+files:  # add-files-here
+
+description: xxx
+
+
+---

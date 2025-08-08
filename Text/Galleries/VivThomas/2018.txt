@@ -9,7 +9,7 @@ type: gallery
 site: vt
 url: https://www.vivthomas.com/model/nicole-d/gallery/20181229/VIRTUOUS
 cast: Nicole D; https://www.vivthomas.com/model/nicole-d; f
-releasedate: 2018-12-29
+released: 2018-12-29
 photographer: Flora
 rating: 9.1
 fileprefix: VivThomas-20181229-virtuous
@@ -24,7 +24,7 @@ site: vt
 url: https://www.vivthomas.com/model/talia-mint-and-alyssa-reece/gallery/20181227/DOLLED_UP
 cast: Talia Mint; https://www.vivthomas.com/model/talia-mint; f
 cast: Alyssa Reece; https://www.vivthomas.com/model/alyssa-reece; f
-releasedate: 2018-12-27
+released: 2018-12-27
 photographer: Sandra Shine
 rating: 9.4
 fileprefix: VivThomas-20181227-dolled-up
@@ -39,7 +39,7 @@ site: vt
 url: https://www.vivthomas.com/model/dominica-a-and-lilu-moon/gallery/20181225/DEVOTION
 cast: Dominica A; https://www.vivthomas.com/model/dominica-a; f
 cast: Lilu Moon; https://www.vivthomas.com/model/lilu-moon; f
-releasedate: 2018-12-25
+released: 2018-12-25
 photographer: Nik Fox
 rating: 9.2
 fileprefix: VivThomas-20181225-devotion
@@ -54,7 +54,7 @@ site: vt
 url: https://www.vivthomas.com/model/kleo-and-macy/gallery/20181222/FORBIDDEN_FRUIT
 cast: Kleo; https://www.vivthomas.com/model/kleo; f
 cast: Macy; https://www.vivthomas.com/model/macy; f
-releasedate: 2018-12-22
+released: 2018-12-22
 photographer: Albert Varin
 rating: 9.4
 fileprefix: VivThomas-20181222-forbidden-fruit
@@ -69,7 +69,7 @@ site: vt
 url: https://www.vivthomas.com/model/alyssa-reece-and-angelika-grays/gallery/20181220/BLISSFUL_ENCOUNTER
 cast: Alyssa Reece; https://www.vivthomas.com/model/alyssa-reece; f
 cast: Angelika Grays; https://www.vivthomas.com/model/angelika-grays; f
-releasedate: 2018-12-20
+released: 2018-12-20
 photographer: Sandra Shine
 rating: 9.2
 fileprefix: VivThomas-20181220-blissful-encounter
@@ -84,7 +84,7 @@ site: vt
 url: https://www.vivthomas.com/model/angel-princess-and-sabrisse/gallery/20181218/SLIPPERY_NIPPLE
 cast: Angel Princess; https://www.vivthomas.com/model/angel-princess; f
 cast: Sabrisse; https://www.vivthomas.com/model/sabrisse; f
-releasedate: 2018-12-18
+released: 2018-12-18
 photographer: Nik Fox
 rating: 9.4
 fileprefix: VivThomas-20181218-slippery-nipple
@@ -98,7 +98,7 @@ type: gallery
 site: vt
 url: https://www.vivthomas.com/model/eos/gallery/20181215/IRRESISTIBLE
 cast: Eos; https://www.vivthomas.com/model/eos; f
-releasedate: 2018-12-15
+released: 2018-12-15
 photographer: Flora
 rating: 9.3
 fileprefix: VivThomas-20181215-irresistible
@@ -113,7 +113,7 @@ site: vt
 url: https://www.vivthomas.com/model/alyssa-reece-and-lena-reif/gallery/20181213/SENSUAL_TOUCH
 cast: Alyssa Reece; https://www.vivthomas.com/model/alyssa-reece; f
 cast: Lena Reif; https://www.vivthomas.com/model/lena-reif; f
-releasedate: 2018-12-13
+released: 2018-12-13
 photographer: Sandra Shine
 rating: 9.3
 fileprefix: VivThomas-20181213-sensual-touch
@@ -128,7 +128,7 @@ site: vt
 url: https://www.vivthomas.com/model/sabrisse-and-petra-f/gallery/20181211/SHINE_ON
 cast: Sabrisse; https://www.vivthomas.com/model/sabrisse; f
 cast: Petra F; https://www.vivthomas.com/model/petra-f; f
-releasedate: 2018-12-11
+released: 2018-12-11
 photographer: Nik Fox
 rating: 9.4
 fileprefix: VivThomas-20181211-shine-on
@@ -142,7 +142,7 @@ type: gallery
 site: vt
 url: https://www.vivthomas.com/model/niemira/gallery/20181208/RADIANT
 cast: Niemira; https://www.vivthomas.com/model/niemira; f
-releasedate: 2018-12-08
+released: 2018-12-08
 photographer: Nudero
 rating: 9.7
 fileprefix: VivThomas-20181208-radiant
@@ -157,7 +157,7 @@ site: vt
 url: https://www.vivthomas.com/model/aislin-and-alyssa-reece/gallery/20181206/HOT_HOOK_UP
 cast: Aislin; https://www.vivthomas.com/model/aislin; f
 cast: Alyssa Reece; https://www.vivthomas.com/model/alyssa-reece; f
-releasedate: 2018-12-06
+released: 2018-12-06
 photographer: Sandra Shine
 rating: 9.4
 fileprefix: VivThomas-20181206-hot-hook-up
@@ -172,7 +172,7 @@ site: vt
 url: https://www.vivthomas.com/model/alexis-crystal-and-cindy-shine/gallery/20181204/HOT_TOUCH
 cast: Alexis Crystal; https://www.vivthomas.com/model/alexis-crystal; f
 cast: Cindy Shine; https://www.vivthomas.com/model/cindy-shine; f
-releasedate: 2018-12-04
+released: 2018-12-04
 photographer: Nik Fox
 rating: 9.4
 fileprefix: VivThomas-20181204-hot-touch
@@ -186,7 +186,7 @@ type: gallery
 site: vt
 url: https://www.vivthomas.com/model/jasmine-jazz/gallery/20181201/RED_HOT
 cast: Jasmine Jazz; https://www.vivthomas.com/model/jasmine-jazz; f
-releasedate: 2018-12-01
+released: 2018-12-01
 photographer: Nudero
 rating: 9.7
 fileprefix: VivThomas-20181201-red-hot
@@ -201,7 +201,7 @@ site: vt
 url: https://www.vivthomas.com/model/stefany-moon-and-tina-kay/gallery/20181129/PARTNERS
 cast: Stefany Moon; https://www.vivthomas.com/model/stefany-moon; f
 cast: Tina Kay; https://www.vivthomas.com/model/tina-kay; f
-releasedate: 2018-11-29
+released: 2018-11-29
 photographer: Sandra Shine
 rating: 9.1
 fileprefix: VivThomas-20181129-partners
@@ -216,7 +216,7 @@ site: vt
 url: https://www.vivthomas.com/model/arian-and-lovita-fate/gallery/20181127/HAPPY_ENDING
 cast: Arian; https://www.vivthomas.com/model/arian; f
 cast: Lovita Fate; https://www.vivthomas.com/model/lovita-fate; f
-releasedate: 2018-11-27
+released: 2018-11-27
 photographer: Nik Fox
 rating: 9.0
 fileprefix: VivThomas-20181127-happy-ending
@@ -230,7 +230,7 @@ type: gallery
 site: vt
 url: https://www.vivthomas.com/model/ginger-frost/gallery/20181124/IM-PURE
 cast: Ginger Frost; https://www.vivthomas.com/model/ginger-frost; f
-releasedate: 2018-11-24
+released: 2018-11-24
 photographer: Nudero
 rating: 9.2
 fileprefix: VivThomas-20181124-im-pure
@@ -245,7 +245,7 @@ site: vt
 url: https://www.vivthomas.com/model/sarah-cute-and-katana/gallery/20181122/FREE_SPIRITS
 cast: Sarah Cute; https://www.vivthomas.com/model/sarah-cute; f
 cast: Katana; https://www.vivthomas.com/model/katana; f
-releasedate: 2018-11-22
+released: 2018-11-22
 photographer: Sandra Shine
 rating: 9.2
 fileprefix: VivThomas-20181122-free-spirits
@@ -260,7 +260,7 @@ site: vt
 url: https://www.vivthomas.com/model/emma-button-and-luna-corazon/gallery/20181120/AROUSED
 cast: Emma Button; https://www.vivthomas.com/model/emma-button; f
 cast: Luna Corazon; https://www.vivthomas.com/model/luna-corazon; f
-releasedate: 2018-11-20
+released: 2018-11-20
 photographer: Nik Fox
 rating: 9.1
 fileprefix: VivThomas-20181120-aroused
@@ -274,7 +274,7 @@ type: gallery
 site: vt
 url: https://www.vivthomas.com/model/niemira/gallery/20181117/STUNNING
 cast: Niemira; https://www.vivthomas.com/model/niemira; f
-releasedate: 2018-11-17
+released: 2018-11-17
 photographer: Nudero
 rating: 9.7
 fileprefix: VivThomas-20181117-stunning
@@ -289,7 +289,7 @@ site: vt
 url: https://www.vivthomas.com/model/vicky-love-and-amaris/gallery/20181115/PERKY
 cast: Vicky Love; https://www.vivthomas.com/model/vicky-love; f
 cast: Amaris; https://www.vivthomas.com/model/amaris; f
-releasedate: 2018-11-15
+released: 2018-11-15
 photographer: Sandra Shine
 rating: 9.3
 fileprefix: VivThomas-20181115-perky
@@ -304,7 +304,7 @@ site: vt
 url: https://www.vivthomas.com/model/emylia-argan-and-linda-sweet/gallery/20181113/BUXOM_BEAUTIES
 cast: Emylia Argan; https://www.vivthomas.com/model/emylia-argan; f
 cast: Linda Sweet; https://www.vivthomas.com/model/linda-sweet; f
-releasedate: 2018-11-13
+released: 2018-11-13
 photographer: Nik Fox
 rating: 9.3
 fileprefix: VivThomas-20181113-buxom-beauties
@@ -318,7 +318,7 @@ type: gallery
 site: vt
 url: https://www.vivthomas.com/model/sofia-lia/gallery/20181110/TANTALIZING_NIPPLES
 cast: Sofia Lia; https://www.vivthomas.com/model/sofia-lia; f
-releasedate: 2018-11-10
+released: 2018-11-10
 photographer: Flora
 rating: 9.0
 fileprefix: VivThomas-20181110-tantalizing-nipples
@@ -333,7 +333,7 @@ site: vt
 url: https://www.vivthomas.com/model/rebecca-volpetti-and-tina-kay/gallery/20181108/TRYST
 cast: Rebecca Volpetti; https://www.vivthomas.com/model/rebecca-volpetti; f
 cast: Tina Kay; https://www.vivthomas.com/model/tina-kay; f
-releasedate: 2018-11-08
+released: 2018-11-08
 photographer: Sandra Shine
 rating: 9.2
 fileprefix: VivThomas-20181108-tryst
@@ -348,7 +348,7 @@ site: vt
 url: https://www.vivthomas.com/model/nata-ocean-and-luna-corazon/gallery/20181106/NIGHTCAP
 cast: Nata Ocean; https://www.vivthomas.com/model/nata-ocean; f
 cast: Luna Corazon; https://www.vivthomas.com/model/luna-corazon; f
-releasedate: 2018-11-06
+released: 2018-11-06
 photographer: Nik Fox
 rating: 9.2
 fileprefix: VivThomas-20181106-nightcap
@@ -362,7 +362,7 @@ type: gallery
 site: vt
 url: https://www.vivthomas.com/model/mandy-a/gallery/20181103/CHASTE
 cast: Mandy A; https://www.vivthomas.com/model/mandy-a; f
-releasedate: 2018-11-03
+released: 2018-11-03
 photographer: Flora
 rating: 9.4
 fileprefix: VivThomas-20181103-chaste
@@ -377,7 +377,7 @@ site: vt
 url: https://www.vivthomas.com/model/luna-corazon-and-lady-dee/gallery/20181101/MOIST
 cast: Luna Corazon; https://www.vivthomas.com/model/luna-corazon; f
 cast: Lady Dee; https://www.vivthomas.com/model/lady-dee; f
-releasedate: 2018-11-01
+released: 2018-11-01
 photographer: Sandra Shine
 rating: 9.3
 fileprefix: VivThomas-20181101-moist
@@ -392,7 +392,7 @@ site: vt
 url: https://www.vivthomas.com/model/amirah-adara-and-lola-a/gallery/20181030/STEP_TO_IT
 cast: Amirah Adara; https://www.vivthomas.com/model/amirah-adara; f
 cast: Lola A; https://www.vivthomas.com/model/lola-a; f
-releasedate: 2018-10-30
+released: 2018-10-30
 photographer: Nik Fox
 rating: 9.4
 fileprefix: VivThomas-20181030-step-to-it
@@ -406,7 +406,7 @@ type: gallery
 site: vt
 url: https://www.vivthomas.com/model/nicole-d/gallery/20181027/SWEET_TOUCH
 cast: Nicole D; https://www.vivthomas.com/model/nicole-d; f
-releasedate: 2018-10-27
+released: 2018-10-27
 photographer: Flora
 rating: 9.0
 fileprefix: VivThomas-20181027-sweet-touch
@@ -421,7 +421,7 @@ site: vt
 url: https://www.vivthomas.com/model/talia-mint-and-sarah-cute/gallery/20181025/GARDEN_CUTIES
 cast: Talia Mint; https://www.vivthomas.com/model/talia-mint; f
 cast: Sarah Cute; https://www.vivthomas.com/model/sarah-cute; f
-releasedate: 2018-10-25
+released: 2018-10-25
 photographer: Sandra Shine
 rating: 9.0
 fileprefix: VivThomas-20181025-garden-cuties
@@ -436,7 +436,7 @@ site: vt
 url: https://www.vivthomas.com/model/amirah-adara-and-cristal-caitlin/gallery/20181023/SERENITY
 cast: Amirah Adara; https://www.vivthomas.com/model/amirah-adara; f
 cast: Cristal Caitlin; https://www.vivthomas.com/model/cristal-caitlin; f
-releasedate: 2018-10-23
+released: 2018-10-23
 photographer: Nik Fox
 rating: 9.3
 fileprefix: VivThomas-20181023-serenity
@@ -450,7 +450,7 @@ type: gallery
 site: vt
 url: https://www.vivthomas.com/model/sofia-lia/gallery/20181020/BOHEMIAN_BEAUTY
 cast: Sofia Lia; https://www.vivthomas.com/model/sofia-lia; f
-releasedate: 2018-10-20
+released: 2018-10-20
 photographer: Flora
 rating: 9.3
 fileprefix: VivThomas-20181020-bohemian-beauty
@@ -465,7 +465,7 @@ site: vt
 url: https://www.vivthomas.com/model/lexi-dona-and-karol-lilien/gallery/20181018/CRUISING
 cast: Lexi Dona; https://www.vivthomas.com/model/lexi-dona; f
 cast: Karol Lilien; https://www.vivthomas.com/model/karol-lilien; f
-releasedate: 2018-10-18
+released: 2018-10-18
 photographer: Sandra Shine
 rating: 9.5
 fileprefix: VivThomas-20181018-cruising
@@ -480,7 +480,7 @@ site: vt
 url: https://www.vivthomas.com/model/linda-sweet-and-nata-ocean/gallery/20181016/TANTRIC
 cast: Linda Sweet; https://www.vivthomas.com/model/linda-sweet; f
 cast: Nata Ocean; https://www.vivthomas.com/model/nata-ocean; f
-releasedate: 2018-10-16
+released: 2018-10-16
 photographer: Nik Fox
 rating: 9.3
 fileprefix: VivThomas-20181016-tantric
@@ -494,7 +494,7 @@ type: gallery
 site: vt
 url: https://www.vivthomas.com/model/leona-a/gallery/20181013/EXPLORING_MY_BODY
 cast: Leona A; https://www.vivthomas.com/model/leona-a; f
-releasedate: 2018-10-13
+released: 2018-10-13
 photographer: Flora
 rating: 9.5
 fileprefix: VivThomas-20181013-exploring-my-body
@@ -509,7 +509,7 @@ site: vt
 url: https://www.vivthomas.com/model/verona-sky-and-hannah-vivienne/gallery/20181011/BIKINI_BABES
 cast: Verona Sky; https://www.vivthomas.com/model/verona-sky; f
 cast: Hannah Vivienne; https://www.vivthomas.com/model/hannah-vivienne; f
-releasedate: 2018-10-11
+released: 2018-10-11
 photographer: Sandra Shine
 rating: 9.1
 fileprefix: VivThomas-20181011-bikini-babes
@@ -524,7 +524,7 @@ site: vt
 url: https://www.vivthomas.com/model/nata-ocean-and-katy-rose/gallery/20181009/NIRVANA
 cast: Nata Ocean; https://www.vivthomas.com/model/nata-ocean; f
 cast: Katy Rose; https://www.vivthomas.com/model/katy-rose; f
-releasedate: 2018-10-09
+released: 2018-10-09
 photographer: Nik Fox
 rating: 9.5
 fileprefix: VivThomas-20181009-nirvana
@@ -538,7 +538,7 @@ type: gallery
 site: vt
 url: https://www.vivthomas.com/model/nicole-d/gallery/20181006/CURING_THE_BLUES
 cast: Nicole D; https://www.vivthomas.com/model/nicole-d; f
-releasedate: 2018-10-06
+released: 2018-10-06
 photographer: Flora
 rating: 8.8
 fileprefix: VivThomas-20181006-curing-the-blues
@@ -553,7 +553,7 @@ site: vt
 url: https://www.vivthomas.com/model/luna-corazon-and-talia-mint/gallery/20181004/INSATIABLE
 cast: Luna Corazon; https://www.vivthomas.com/model/luna-corazon; f
 cast: Talia Mint; https://www.vivthomas.com/model/talia-mint; f
-releasedate: 2018-10-04
+released: 2018-10-04
 photographer: Sandra Shine
 rating: 9.4
 fileprefix: VivThomas-20181004-insatiable
@@ -568,7 +568,7 @@ site: vt
 url: https://www.vivthomas.com/model/jennifer-jane-and-emylia-argan/gallery/20181002/WORKING_UP_A_SWEAT
 cast: Jennifer Jane; https://www.vivthomas.com/model/jennifer-jane; f
 cast: Emylia Argan; https://www.vivthomas.com/model/emylia-argan; f
-releasedate: 2018-10-02
+released: 2018-10-02
 photographer: Nik Fox
 rating: 9.2
 fileprefix: VivThomas-20181002-working-up-a-sweat
@@ -582,7 +582,7 @@ type: gallery
 site: vt
 url: https://www.vivthomas.com/model/eos/gallery/20180929/LEGS_&_LACE
 cast: Eos; https://www.vivthomas.com/model/eos; f
-releasedate: 2018-09-29
+released: 2018-09-29
 photographer: Flora
 rating: 9.0
 fileprefix: VivThomas-20180929-legs-&-lace
@@ -597,7 +597,7 @@ site: vt
 url: https://www.vivthomas.com/model/lexi-dona-and-arteya/gallery/20180927/BACKPACKERS
 cast: Lexi Dona; https://www.vivthomas.com/model/lexi-dona; f
 cast: Arteya; https://www.vivthomas.com/model/arteya; f
-releasedate: 2018-09-27
+released: 2018-09-27
 photographer: Sandra Shine
 rating: 9.3
 fileprefix: VivThomas-20180927-backpackers
@@ -612,7 +612,7 @@ site: vt
 url: https://www.vivthomas.com/model/victoria-puppy-and-lovita-fate/gallery/20180925/DIRTY_BLONDES
 cast: Victoria Puppy; https://www.vivthomas.com/model/victoria-puppy; f
 cast: Lovita Fate; https://www.vivthomas.com/model/lovita-fate; f
-releasedate: 2018-09-25
+released: 2018-09-25
 photographer: Nik Fox
 rating: 9.1
 fileprefix: VivThomas-20180925-dirty-blondes
@@ -626,7 +626,7 @@ type: gallery
 site: vt
 url: https://www.vivthomas.com/model/victoria-puppy/gallery/20180922/HONEYBEE
 cast: Victoria Puppy; https://www.vivthomas.com/model/victoria-puppy; f
-releasedate: 2018-09-22
+released: 2018-09-22
 photographer: Nik Fox
 rating: 9.3
 fileprefix: VivThomas-20180922-honeybee
@@ -641,7 +641,7 @@ site: vt
 url: https://www.vivthomas.com/model/kira-queen-and-alice-wayne/gallery/20180920/QUICK_STOP
 cast: Kira Queen; https://www.vivthomas.com/model/kira-queen; f
 cast: Alice Wayne; https://www.vivthomas.com/model/alice-wayne; f
-releasedate: 2018-09-20
+released: 2018-09-20
 photographer: Sandra Shine
 rating: 9.2
 fileprefix: VivThomas-20180920-quick-stop
@@ -656,7 +656,7 @@ site: vt
 url: https://www.vivthomas.com/model/lee-anne-and-emylia-argan/gallery/20180918/SEXUAL_EXPLORATION
 cast: Lee Anne; https://www.vivthomas.com/model/lee-anne; f
 cast: Emylia Argan; https://www.vivthomas.com/model/emylia-argan; f
-releasedate: 2018-09-18
+released: 2018-09-18
 photographer: Nik Fox
 rating: 9.1
 fileprefix: VivThomas-20180918-sexual-exploration
@@ -670,7 +670,7 @@ type: gallery
 site: vt
 url: https://www.vivthomas.com/model/sofia-lia/gallery/20180915/SEDUCTRESS
 cast: Sofia Lia; https://www.vivthomas.com/model/sofia-lia; f
-releasedate: 2018-09-15
+released: 2018-09-15
 photographer: Flora
 rating: 9.2
 fileprefix: VivThomas-20180915-seductress
@@ -685,7 +685,7 @@ site: vt
 url: https://www.vivthomas.com/model/nicole-love-and-sofia-curly/gallery/20180913/LAKESIDE_LOVE
 cast: Nicole Love; https://www.vivthomas.com/model/nicole-love; f
 cast: Sofia Curly; https://www.vivthomas.com/model/sofia-curly; f
-releasedate: 2018-09-13
+released: 2018-09-13
 photographer: Sandra Shine
 rating: 9.2
 fileprefix: VivThomas-20180913-lakeside-love
@@ -700,7 +700,7 @@ site: vt
 url: https://www.vivthomas.com/model/sasha-sparrow-and-violette-pink/gallery/20180911/FUN_IN_THE_SUN
 cast: Sasha Sparrow; https://www.vivthomas.com/model/sasha-sparrow; f
 cast: Violette Pink; https://www.vivthomas.com/model/violette-pink; f
-releasedate: 2018-09-11
+released: 2018-09-11
 photographer: Nik Fox
 rating: 9.1
 fileprefix: VivThomas-20180911-fun-in-the-sun
@@ -714,7 +714,7 @@ type: gallery
 site: vt
 url: https://www.vivthomas.com/model/alise-moreno/gallery/20180908/RADIANT
 cast: Alise Moreno; https://www.vivthomas.com/model/alise-moreno; f
-releasedate: 2018-09-08
+released: 2018-09-08
 photographer: Flora
 rating: 9.3
 fileprefix: VivThomas-20180908-radiant
@@ -729,7 +729,7 @@ site: vt
 url: https://www.vivthomas.com/model/jia-lissa-and-kalisy/gallery/20180906/HARD_AT_PLAY
 cast: Jia Lissa; https://www.vivthomas.com/model/jia-lissa; f
 cast: Kalisy; https://www.vivthomas.com/model/kalisy; f
-releasedate: 2018-09-06
+released: 2018-09-06
 photographer: Sandra Shine
 rating: 9.4
 fileprefix: VivThomas-20180906-hard-at-play
@@ -744,7 +744,7 @@ site: vt
 url: https://www.vivthomas.com/model/lola-a-and-emylia-argan/gallery/20180904/PRIVATE_ENCLOSURE
 cast: Lola A; https://www.vivthomas.com/model/lola-a; f
 cast: Emylia Argan; https://www.vivthomas.com/model/emylia-argan; f
-releasedate: 2018-09-04
+released: 2018-09-04
 photographer: Nik Fox
 rating: 9.4
 fileprefix: VivThomas-20180904-private-enclosure
@@ -758,7 +758,7 @@ type: gallery
 site: vt
 url: https://www.vivthomas.com/model/leona-a/gallery/20180901/VIVID
 cast: Leona A; https://www.vivthomas.com/model/leona-a; f
-releasedate: 2018-09-01
+released: 2018-09-01
 photographer: Flora
 rating: 9.4
 fileprefix: VivThomas-20180901-vivid
@@ -773,7 +773,7 @@ site: vt
 url: https://www.vivthomas.com/model/kira-queen-and-zazie-s/gallery/20180830/BUDDING_RELATIONSHIP
 cast: Kira Queen; https://www.vivthomas.com/model/kira-queen; f
 cast: Zazie S; https://www.vivthomas.com/model/zazie-s; f
-releasedate: 2018-08-30
+released: 2018-08-30
 photographer: Sandra Shine
 rating: 9.1
 fileprefix: VivThomas-20180830-budding-relationship
@@ -788,7 +788,7 @@ site: vt
 url: https://www.vivthomas.com/model/adel-morel-and-jia-lissa/gallery/20180828/DISTRACT
 cast: Adel Morel; https://www.vivthomas.com/model/adel-morel; f
 cast: Jia Lissa; https://www.vivthomas.com/model/jia-lissa; f
-releasedate: 2018-08-28
+released: 2018-08-28
 photographer: Don Caravaggio
 rating: 9.5
 fileprefix: VivThomas-20180828-distract
@@ -802,7 +802,7 @@ type: gallery
 site: vt
 url: https://www.vivthomas.com/model/polly/gallery/20180825/STYLISH
 cast: Polly; https://www.vivthomas.com/model/polly; f
-releasedate: 2018-08-25
+released: 2018-08-25
 photographer: Albert Varin
 rating: 9.3
 fileprefix: VivThomas-20180825-stylish
@@ -817,7 +817,7 @@ site: vt
 url: https://www.vivthomas.com/model/sofia-curly-and-miranda-miller/gallery/20180823/ELATE
 cast: Sofia Curly; https://www.vivthomas.com/model/sofia-curly; f
 cast: Miranda Miller; https://www.vivthomas.com/model/miranda-miller; f
-releasedate: 2018-08-23
+released: 2018-08-23
 photographer: Sandra Shine
 rating: 9.3
 fileprefix: VivThomas-20180823-elate
@@ -832,7 +832,7 @@ site: vt
 url: https://www.vivthomas.com/model/arya-and-anie-darling/gallery/20180821/PLAYFUL
 cast: Arya; https://www.vivthomas.com/model/arya; f
 cast: Anie Darling; https://www.vivthomas.com/model/anie-darling; f
-releasedate: 2018-08-21
+released: 2018-08-21
 photographer: Don Caravaggio
 rating: 9.5
 fileprefix: VivThomas-20180821-playful
@@ -846,7 +846,7 @@ type: gallery
 site: vt
 url: https://www.vivthomas.com/model/natalya-a/gallery/20180818/DESIRE
 cast: Natalya A; https://www.vivthomas.com/model/natalya-a; f
-releasedate: 2018-08-18
+released: 2018-08-18
 photographer: Albert Varin
 rating: 9.0
 fileprefix: VivThomas-20180818-desire
@@ -861,7 +861,7 @@ site: vt
 url: https://www.vivthomas.com/model/amaris-and-adel-morel/gallery/20180816/ENJOY
 cast: Amaris; https://www.vivthomas.com/model/amaris; f
 cast: Adel Morel; https://www.vivthomas.com/model/adel-morel; f
-releasedate: 2018-08-16
+released: 2018-08-16
 photographer: Sandra Shine
 rating: 9.2
 fileprefix: VivThomas-20180816-enjoy
@@ -876,7 +876,7 @@ site: vt
 url: https://www.vivthomas.com/model/kathy-anderson-and-shona-river/gallery/20180814/BASK
 cast: Kathy Anderson; https://www.vivthomas.com/model/kathy-anderson; f
 cast: Shona River; https://www.vivthomas.com/model/shona-river; f
-releasedate: 2018-08-14
+released: 2018-08-14
 photographer: Andrej Lupin
 rating: 9.2
 fileprefix: VivThomas-20180814-bask
@@ -890,7 +890,7 @@ type: gallery
 site: vt
 url: https://www.vivthomas.com/model/nedda-a/gallery/20180811/STREAM
 cast: Nedda A; https://www.vivthomas.com/model/nedda-a; f
-releasedate: 2018-08-11
+released: 2018-08-11
 photographer: Albert Varin
 rating: 9.5
 fileprefix: VivThomas-20180811-stream
@@ -905,7 +905,7 @@ site: vt
 url: https://www.vivthomas.com/model/kalisy-and-charli-red/gallery/20180809/FLATTERING
 cast: Kalisy; https://www.vivthomas.com/model/kalisy; f
 cast: Charli Red; https://www.vivthomas.com/model/charli-red; f
-releasedate: 2018-08-09
+released: 2018-08-09
 photographer: Sandra Shine
 rating: 9.1
 fileprefix: VivThomas-20180809-flattering
@@ -920,7 +920,7 @@ site: vt
 url: https://www.vivthomas.com/model/kathy-anderson-and-vanessa-hell/gallery/20180807/ZEST
 cast: Kathy Anderson; https://www.vivthomas.com/model/kathy-anderson; f
 cast: Vanessa Hell; https://www.vivthomas.com/model/vanessa-hell; f
-releasedate: 2018-08-07
+released: 2018-08-07
 photographer: Andrej Lupin
 rating: 9.4
 fileprefix: VivThomas-20180807-zest
@@ -934,7 +934,7 @@ type: gallery
 site: vt
 url: https://www.vivthomas.com/model/amorett/gallery/20180804/UNDRESS
 cast: Amorett; https://www.vivthomas.com/model/amorett; f
-releasedate: 2018-08-04
+released: 2018-08-04
 photographer: Albert Varin
 rating: 9.0
 fileprefix: VivThomas-20180804-undress
@@ -949,7 +949,7 @@ site: vt
 url: https://www.vivthomas.com/model/talia-mint-and-stefany-moon/gallery/20180802/ENTHRALL
 cast: Talia Mint; https://www.vivthomas.com/model/talia-mint; f
 cast: Stefany Moon; https://www.vivthomas.com/model/stefany-moon; f
-releasedate: 2018-08-02
+released: 2018-08-02
 photographer: Sandra Shine
 rating: 9.4
 fileprefix: VivThomas-20180802-enthrall
@@ -964,7 +964,7 @@ site: vt
 url: https://www.vivthomas.com/model/kathy-anderson-and-terra-twain/gallery/20180731/GUSTO
 cast: Kathy Anderson; https://www.vivthomas.com/model/kathy-anderson; f
 cast: Terra Twain; https://www.vivthomas.com/model/terra-twain; f
-releasedate: 2018-07-31
+released: 2018-07-31
 photographer: Andrej Lupin
 rating: 9.0
 fileprefix: VivThomas-20180731-gusto
@@ -978,7 +978,7 @@ type: gallery
 site: vt
 url: https://www.vivthomas.com/model/alise-moreno/gallery/20180728/REVEALING
 cast: Alise Moreno; https://www.vivthomas.com/model/alise-moreno; f
-releasedate: 2018-07-28
+released: 2018-07-28
 photographer: Flora
 rating: 9.4
 fileprefix: VivThomas-20180728-revealing
@@ -993,7 +993,7 @@ site: vt
 url: https://www.vivthomas.com/model/lilu-moon-and-tina-kay/gallery/20180726/WET
 cast: Lilu Moon; https://www.vivthomas.com/model/lilu-moon; f
 cast: Tina Kay; https://www.vivthomas.com/model/tina-kay; f
-releasedate: 2018-07-26
+released: 2018-07-26
 photographer: Sandra Shine
 rating: 9.2
 fileprefix: VivThomas-20180726-wet
@@ -1008,7 +1008,7 @@ site: vt
 url: https://www.vivthomas.com/model/kathy-anderson-and-niki-sweet/gallery/20180724/RELISH
 cast: Kathy Anderson; https://www.vivthomas.com/model/kathy-anderson; f
 cast: Niki Sweet; https://www.vivthomas.com/model/niki-sweet; f
-releasedate: 2018-07-24
+released: 2018-07-24
 photographer: Andrej Lupin
 rating: 9.3
 fileprefix: VivThomas-20180724-relish
@@ -1022,7 +1022,7 @@ type: gallery
 site: vt
 url: https://www.vivthomas.com/model/veronica-snezna/gallery/20180721/MILK
 cast: Veronica Snezna; https://www.vivthomas.com/model/veronica-snezna; f
-releasedate: 2018-07-21
+released: 2018-07-21
 photographer: Stan Macias
 rating: 8.8
 fileprefix: VivThomas-20180721-milk
@@ -1037,7 +1037,7 @@ site: vt
 url: https://www.vivthomas.com/model/lucy-heart-and-verona-sky/gallery/20180719/CHARM
 cast: Lucy Heart; https://www.vivthomas.com/model/lucy-heart; f
 cast: Verona Sky; https://www.vivthomas.com/model/verona-sky; f
-releasedate: 2018-07-19
+released: 2018-07-19
 photographer: Alis Locanta
 rating: 9.2
 fileprefix: VivThomas-20180719-charm
@@ -1052,7 +1052,7 @@ site: vt
 url: https://www.vivthomas.com/model/cristal-caitlin-and-katy-sky/gallery/20180717/TEMPTING
 cast: Cristal Caitlin; https://www.vivthomas.com/model/cristal-caitlin; f
 cast: Katy Sky; https://www.vivthomas.com/model/katy-sky; f
-releasedate: 2018-07-17
+released: 2018-07-17
 photographer: Sandra Shine
 rating: 9.4
 fileprefix: VivThomas-20180717-tempting
@@ -1066,7 +1066,7 @@ type: gallery
 site: vt
 url: https://www.vivthomas.com/model/alise-moreno/gallery/20180714/PERT
 cast: Alise Moreno; https://www.vivthomas.com/model/alise-moreno; f
-releasedate: 2018-07-14
+released: 2018-07-14
 photographer: Flora
 rating: 9.3
 fileprefix: VivThomas-20180714-pert
@@ -1081,7 +1081,7 @@ site: vt
 url: https://www.vivthomas.com/model/lucy-heart-and-gina-gerson/gallery/20180712/PASSION
 cast: Lucy Heart; https://www.vivthomas.com/model/lucy-heart; f
 cast: Gina Gerson; https://www.vivthomas.com/model/gina-gerson; f
-releasedate: 2018-07-12
+released: 2018-07-12
 photographer: Alis Locanta
 rating: 9.6
 fileprefix: VivThomas-20180712-passion
@@ -1096,7 +1096,7 @@ site: vt
 url: https://www.vivthomas.com/model/verona-sky-and-gina-gerson/gallery/20180710/DARLING
 cast: Verona Sky; https://www.vivthomas.com/model/verona-sky; f
 cast: Gina Gerson; https://www.vivthomas.com/model/gina-gerson; f
-releasedate: 2018-07-10
+released: 2018-07-10
 photographer: Alis Locanta
 rating: 9.4
 fileprefix: VivThomas-20180710-darling
@@ -1110,7 +1110,7 @@ type: gallery
 site: vt
 url: https://www.vivthomas.com/model/leona-a/gallery/20180707/AQUAMARINE
 cast: Leona A; https://www.vivthomas.com/model/leona-a; f
-releasedate: 2018-07-07
+released: 2018-07-07
 photographer: Flora
 rating: 9.6
 fileprefix: VivThomas-20180707-aquamarine
@@ -1125,7 +1125,7 @@ site: vt
 url: https://www.vivthomas.com/model/zazie-s-and-tatalila-shi/gallery/20180705/PERKY
 cast: Zazie S; https://www.vivthomas.com/model/zazie-s; f
 cast: Tatalila Shi; https://www.vivthomas.com/model/tatalila-shi; f
-releasedate: 2018-07-05
+released: 2018-07-05
 photographer: Sandra Shine
 rating: 9.5
 fileprefix: VivThomas-20180705-perky
@@ -1140,7 +1140,7 @@ site: vt
 url: https://www.vivthomas.com/model/gina-ferocious-and-katy-sky/gallery/20180703/UNWIND
 cast: Gina Ferocious; https://www.vivthomas.com/model/gina-ferocious; f
 cast: Katy Sky; https://www.vivthomas.com/model/katy-sky; f
-releasedate: 2018-07-03
+released: 2018-07-03
 photographer: Sandra Shine
 rating: 9.1
 fileprefix: VivThomas-20180703-unwind
@@ -1154,7 +1154,7 @@ type: gallery
 site: vt
 url: https://www.vivthomas.com/model/sofia-lia/gallery/20180630/STRIKING
 cast: Sofia Lia; https://www.vivthomas.com/model/sofia-lia; f
-releasedate: 2018-06-30
+released: 2018-06-30
 photographer: Flora
 rating: 9.3
 fileprefix: VivThomas-20180630-striking
@@ -1169,7 +1169,7 @@ site: vt
 url: https://www.vivthomas.com/model/monica-brown-and-cristal-caitlin/gallery/20180628/DISTURB
 cast: Monica Brown; https://www.vivthomas.com/model/monica-brown; f
 cast: Cristal Caitlin; https://www.vivthomas.com/model/cristal-caitlin; f
-releasedate: 2018-06-28
+released: 2018-06-28
 photographer: Sandra Shine
 rating: 9.2
 fileprefix: VivThomas-20180628-disturb
@@ -1184,7 +1184,7 @@ site: vt
 url: https://www.vivthomas.com/model/alexis-crystal-and-cherry-kiss/gallery/20180626/RHAPSODY
 cast: Alexis Crystal; https://www.vivthomas.com/model/alexis-crystal; f
 cast: Cherry Kiss; https://www.vivthomas.com/model/cherry-kiss; f
-releasedate: 2018-06-26
+released: 2018-06-26
 photographer: Alis Locanta
 rating: 9.4
 fileprefix: VivThomas-20180626-rhapsody
@@ -1198,7 +1198,7 @@ type: gallery
 site: vt
 url: https://www.vivthomas.com/model/mirabella/gallery/20180623/MY_TURN
 cast: Mirabella; https://www.vivthomas.com/model/mirabella; f
-releasedate: 2018-06-23
+released: 2018-06-23
 photographer: Nick Twin
 rating: 9.2
 fileprefix: VivThomas-20180623-my-turn
@@ -1213,7 +1213,7 @@ site: vt
 url: https://www.vivthomas.com/model/kaia-katava-and-sofi-golfinger/gallery/20180621/ALFRESCO
 cast: Kaia Katava; https://www.vivthomas.com/model/kaia-katava; f
 cast: Sofi Golfinger; https://www.vivthomas.com/model/sofi-golfinger; f
-releasedate: 2018-06-21
+released: 2018-06-21
 photographer: Sandra Shine
 rating: 9.3
 fileprefix: VivThomas-20180621-alfresco
@@ -1228,7 +1228,7 @@ site: vt
 url: https://www.vivthomas.com/model/gina-gerson-and-verona-sky/gallery/20180619/FOND
 cast: Gina Gerson; https://www.vivthomas.com/model/gina-gerson; f
 cast: Verona Sky; https://www.vivthomas.com/model/verona-sky; f
-releasedate: 2018-06-19
+released: 2018-06-19
 photographer: Alis Locanta
 rating: 9.4
 fileprefix: VivThomas-20180619-fond
@@ -1242,7 +1242,7 @@ type: gallery
 site: vt
 url: https://www.vivthomas.com/model/cindy-hope/gallery/20180616/MIDNIGHT
 cast: Cindy Hope; https://www.vivthomas.com/model/cindy-hope; f
-releasedate: 2018-06-16
+released: 2018-06-16
 photographer: Sandra Shine
 rating: 9.0
 fileprefix: VivThomas-20180616-midnight
@@ -1257,7 +1257,7 @@ site: vt
 url: https://www.vivthomas.com/model/lady-dee-and-lexi-dona/gallery/20180614/FLIRT
 cast: Lady Dee; https://www.vivthomas.com/model/lady-dee; f
 cast: Lexi Dona; https://www.vivthomas.com/model/lexi-dona; f
-releasedate: 2018-06-14
+released: 2018-06-14
 photographer: Nik Fox
 rating: 9.2
 fileprefix: VivThomas-20180614-flirt
@@ -1272,7 +1272,7 @@ site: vt
 url: https://www.vivthomas.com/model/nelly-kent-and-gisha/gallery/20180612/ADVANCE
 cast: Nelly Kent; https://www.vivthomas.com/model/nelly-kent; f
 cast: Gisha; https://www.vivthomas.com/model/gisha; f
-releasedate: 2018-06-12
+released: 2018-06-12
 photographer: Alis Locanta
 rating: 8.9
 fileprefix: VivThomas-20180612-advance
@@ -1286,7 +1286,7 @@ type: gallery
 site: vt
 url: https://www.vivthomas.com/model/alise-moreno/gallery/20180609/IMBIBE
 cast: Alise Moreno; https://www.vivthomas.com/model/alise-moreno; f
-releasedate: 2018-06-09
+released: 2018-06-09
 photographer: Flora
 rating: 9.3
 fileprefix: VivThomas-20180609-imbibe
@@ -1301,7 +1301,7 @@ site: vt
 url: https://www.vivthomas.com/model/lilu-moon-and-angel-piaf/gallery/20180607/DAWN
 cast: Lilu Moon; https://www.vivthomas.com/model/lilu-moon; f
 cast: Angel Piaf; https://www.vivthomas.com/model/angel-piaf; f
-releasedate: 2018-06-07
+released: 2018-06-07
 photographer: Nik Fox
 rating: 9.3
 fileprefix: VivThomas-20180607-dawn
@@ -1316,7 +1316,7 @@ site: vt
 url: https://www.vivthomas.com/model/cherry-kiss-and-lucy-heart/gallery/20180605/CHARM
 cast: Cherry Kiss; https://www.vivthomas.com/model/cherry-kiss; f
 cast: Lucy Heart; https://www.vivthomas.com/model/lucy-heart; f
-releasedate: 2018-06-05
+released: 2018-06-05
 photographer: Alis Locanta
 rating: 9.1
 fileprefix: VivThomas-20180605-charm
@@ -1330,7 +1330,7 @@ type: gallery
 site: vt
 url: https://www.vivthomas.com/model/black-fox/gallery/20180602/VOLUPTUOUS
 cast: Black Fox; https://www.vivthomas.com/model/black-fox; f
-releasedate: 2018-06-02
+released: 2018-06-02
 photographer: Flora
 rating: 9.1
 fileprefix: VivThomas-20180602-voluptuous
@@ -1345,7 +1345,7 @@ site: vt
 url: https://www.vivthomas.com/model/miki-torrez-and-emylia-argan/gallery/20180531/TOGETHER
 cast: Miki Torrez; https://www.vivthomas.com/model/miki-torrez; f
 cast: Emylia Argan; https://www.vivthomas.com/model/emylia-argan; f
-releasedate: 2018-05-31
+released: 2018-05-31
 photographer: Nik Fox
 rating: 9.4
 fileprefix: VivThomas-20180531-together
@@ -1360,7 +1360,7 @@ site: vt
 url: https://www.vivthomas.com/model/lucy-heart-and-alexis-crystal/gallery/20180529/PRETTY
 cast: Lucy Heart; https://www.vivthomas.com/model/lucy-heart; f
 cast: Alexis Crystal; https://www.vivthomas.com/model/alexis-crystal; f
-releasedate: 2018-05-29
+released: 2018-05-29
 photographer: Alis Locanta
 rating: 9.2
 fileprefix: VivThomas-20180529-pretty
@@ -1374,7 +1374,7 @@ type: gallery
 site: vt
 url: https://www.vivthomas.com/model/leona-a/gallery/20180526/JUBILANT
 cast: Leona A; https://www.vivthomas.com/model/leona-a; f
-releasedate: 2018-05-26
+released: 2018-05-26
 photographer: Flora
 rating: 9.5
 fileprefix: VivThomas-20180526-jubilant
@@ -1389,7 +1389,7 @@ site: vt
 url: https://www.vivthomas.com/model/lilu-moon-and-cristal-caitlin/gallery/20180524/DELICATE
 cast: Lilu Moon; https://www.vivthomas.com/model/lilu-moon; f
 cast: Cristal Caitlin; https://www.vivthomas.com/model/cristal-caitlin; f
-releasedate: 2018-05-24
+released: 2018-05-24
 photographer: Nik Fox
 rating: 9.4
 fileprefix: VivThomas-20180524-delicate
@@ -1404,7 +1404,7 @@ site: vt
 url: https://www.vivthomas.com/model/shrima-malati-and-aislin/gallery/20180522/CAPTIVATE
 cast: Shrima Malati; https://www.vivthomas.com/model/shrima-malati; f
 cast: Aislin; https://www.vivthomas.com/model/aislin; f
-releasedate: 2018-05-22
+released: 2018-05-22
 photographer: Sandra Shine
 rating: 9.4
 fileprefix: VivThomas-20180522-captivate
@@ -1418,7 +1418,7 @@ type: gallery
 site: vt
 url: https://www.vivthomas.com/model/kira-d/gallery/20180519/LADY
 cast: Kira D; https://www.vivthomas.com/model/kira-d; f
-releasedate: 2018-05-19
+released: 2018-05-19
 photographer: Flora
 rating: 9.1
 fileprefix: VivThomas-20180519-lady
@@ -1433,7 +1433,7 @@ site: vt
 url: https://www.vivthomas.com/model/luna-corazon-and-rebecca-volpetti/gallery/20180517/ENTICING
 cast: Luna Corazon; https://www.vivthomas.com/model/luna-corazon; f
 cast: Rebecca Volpetti; https://www.vivthomas.com/model/rebecca-volpetti; f
-releasedate: 2018-05-17
+released: 2018-05-17
 photographer: Sandra Shine
 rating: 9.3
 fileprefix: VivThomas-20180517-enticing
@@ -1448,7 +1448,7 @@ site: vt
 url: https://www.vivthomas.com/model/zazie-s-and-daphne-klyde/gallery/20180515/EXCITING
 cast: Zazie S; https://www.vivthomas.com/model/zazie-s; f
 cast: Daphne Klyde; https://www.vivthomas.com/model/daphne-klyde; f
-releasedate: 2018-05-15
+released: 2018-05-15
 photographer: Sandra Shine
 rating: 9.4
 fileprefix: VivThomas-20180515-exciting
@@ -1462,7 +1462,7 @@ type: gallery
 site: vt
 url: https://www.vivthomas.com/model/alise-moreno/gallery/20180512/ROUGE
 cast: Alise Moreno; https://www.vivthomas.com/model/alise-moreno; f
-releasedate: 2018-05-12
+released: 2018-05-12
 photographer: Flora
 rating: 9.2
 fileprefix: VivThomas-20180512-rouge
@@ -1477,7 +1477,7 @@ site: vt
 url: https://www.vivthomas.com/model/sybil-a-and-jia-lissa/gallery/20180510/BEAUTIFUL
 cast: Sybil A; https://www.vivthomas.com/model/sybil-a; f
 cast: Jia Lissa; https://www.vivthomas.com/model/jia-lissa; f
-releasedate: 2018-05-10
+released: 2018-05-10
 photographer: Sandra Shine
 rating: 9.5
 fileprefix: VivThomas-20180510-beautiful
@@ -1492,7 +1492,7 @@ site: vt
 url: https://www.vivthomas.com/model/tera-link-and-linda-sweet/gallery/20180508/LURE
 cast: Tera Link; https://www.vivthomas.com/model/tera-link; f
 cast: Linda Sweet; https://www.vivthomas.com/model/linda-sweet; f
-releasedate: 2018-05-08
+released: 2018-05-08
 photographer: Andrej Lupin
 rating: 9.4
 fileprefix: VivThomas-20180508-lure
@@ -1506,7 +1506,7 @@ type: gallery
 site: vt
 url: https://www.vivthomas.com/model/leona-a/gallery/20180505/CHEERY
 cast: Leona A; https://www.vivthomas.com/model/leona-a; f
-releasedate: 2018-05-05
+released: 2018-05-05
 photographer: Flora
 rating: 9.6
 fileprefix: VivThomas-20180505-cheery
@@ -1521,7 +1521,7 @@ site: vt
 url: https://www.vivthomas.com/model/lucy-heart-and-cherry-kiss/gallery/20180503/INFLAME
 cast: Lucy Heart; https://www.vivthomas.com/model/lucy-heart; f
 cast: Cherry Kiss; https://www.vivthomas.com/model/cherry-kiss; f
-releasedate: 2018-05-03
+released: 2018-05-03
 photographer: Alis Locanta
 rating: 9.3
 fileprefix: VivThomas-20180503-inflame
@@ -1536,7 +1536,7 @@ site: vt
 url: https://www.vivthomas.com/model/stacy-sommers-and-ally-style/gallery/20180501/SUGGESTIVE
 cast: Stacy Sommers; https://www.vivthomas.com/model/stacy-sommers; f
 cast: Ally Style; https://www.vivthomas.com/model/ally-style; f
-releasedate: 2018-05-01
+released: 2018-05-01
 photographer: Andrej Lupin
 rating: 9.2
 fileprefix: VivThomas-20180501-suggestive
@@ -1550,7 +1550,7 @@ type: gallery
 site: vt
 url: https://www.vivthomas.com/model/black-fox/gallery/20180428/PURE
 cast: Black Fox; https://www.vivthomas.com/model/black-fox; f
-releasedate: 2018-04-28
+released: 2018-04-28
 photographer: Flora
 rating: 9.3
 fileprefix: VivThomas-20180428-pure
@@ -1565,7 +1565,7 @@ site: vt
 url: https://www.vivthomas.com/model/baby-nicols-and-nelly-kent/gallery/20180426/FONDLING
 cast: Baby Nicols; https://www.vivthomas.com/model/baby-nicols; f
 cast: Nelly Kent; https://www.vivthomas.com/model/nelly-kent; f
-releasedate: 2018-04-26
+released: 2018-04-26
 photographer: Alis Locanta
 rating: 9.2
 fileprefix: VivThomas-20180426-fondling
@@ -1580,7 +1580,7 @@ site: vt
 url: https://www.vivthomas.com/model/dominica-phoenix-and-angel-princess/gallery/20180424/ARRIVE
 cast: Dominica Phoenix; https://www.vivthomas.com/model/dominica-phoenix; f
 cast: Angel Princess; https://www.vivthomas.com/model/angel-princess; f
-releasedate: 2018-04-24
+released: 2018-04-24
 photographer: Andrej Lupin
 rating: 9.3
 fileprefix: VivThomas-20180424-arrive
@@ -1594,7 +1594,7 @@ type: gallery
 site: vt
 url: https://www.vivthomas.com/model/kira-d/gallery/20180421/MAJESTIC
 cast: Kira D; https://www.vivthomas.com/model/kira-d; f
-releasedate: 2018-04-21
+released: 2018-04-21
 photographer: Flora
 rating: 9.0
 fileprefix: VivThomas-20180421-majestic
@@ -1609,7 +1609,7 @@ site: vt
 url: https://www.vivthomas.com/model/baby-nicols-and-gisha/gallery/20180419/ALERT
 cast: Baby Nicols; https://www.vivthomas.com/model/baby-nicols; f
 cast: Gisha; https://www.vivthomas.com/model/gisha; f
-releasedate: 2018-04-19
+released: 2018-04-19
 photographer: Alis Locanta
 rating: 9.1
 fileprefix: VivThomas-20180419-alert
@@ -1624,7 +1624,7 @@ site: vt
 url: https://www.vivthomas.com/model/francys-belle-and-jenny-ferri/gallery/20180417/ALERT
 cast: Francys Belle; https://www.vivthomas.com/model/francys-belle; f
 cast: Jenny Ferri; https://www.vivthomas.com/model/jenny-ferri; f
-releasedate: 2018-04-17
+released: 2018-04-17
 photographer: Andrej Lupin
 rating: 9.5
 fileprefix: VivThomas-20180417-alert
@@ -1638,7 +1638,7 @@ type: gallery
 site: vt
 url: https://www.vivthomas.com/model/alise-moreno/gallery/20180414/BUBBLY
 cast: Alise Moreno; https://www.vivthomas.com/model/alise-moreno; f
-releasedate: 2018-04-14
+released: 2018-04-14
 photographer: Flora
 rating: 9.3
 fileprefix: VivThomas-20180414-bubbly
@@ -1653,7 +1653,7 @@ site: vt
 url: https://www.vivthomas.com/model/nelly-kent-and-gisha/gallery/20180412/KINDLE
 cast: Nelly Kent; https://www.vivthomas.com/model/nelly-kent; f
 cast: Gisha; https://www.vivthomas.com/model/gisha; f
-releasedate: 2018-04-12
+released: 2018-04-12
 photographer: Alis Locanta
 rating: 8.9
 fileprefix: VivThomas-20180412-kindle
@@ -1668,7 +1668,7 @@ site: vt
 url: https://www.vivthomas.com/model/tina-kay-and-shelley-bliss/gallery/20180410/AWAIT
 cast: Tina Kay; https://www.vivthomas.com/model/tina-kay; f
 cast: Shelley Bliss; https://www.vivthomas.com/model/shelley-bliss; f
-releasedate: 2018-04-10
+released: 2018-04-10
 photographer: Sandra Shine
 rating: 9.3
 fileprefix: VivThomas-20180410-await
@@ -1682,7 +1682,7 @@ type: gallery
 site: vt
 url: https://www.vivthomas.com/model/samantha-shain/gallery/20180407/SPANK_ME
 cast: Samantha Shain; https://www.vivthomas.com/model/samantha-shain; f
-releasedate: 2018-04-07
+released: 2018-04-07
 photographer: Higinio Domingo
 rating: 9.0
 fileprefix: VivThomas-20180407-spank-me
@@ -1697,7 +1697,7 @@ site: vt
 url: https://www.vivthomas.com/model/briana-banderas-and-lara-west/gallery/20180405/EAGER
 cast: Briana Banderas; https://www.vivthomas.com/model/briana-banderas; f
 cast: Lara West; https://www.vivthomas.com/model/lara-west; f
-releasedate: 2018-04-05
+released: 2018-04-05
 photographer: Alis Locanta
 rating: 9.1
 fileprefix: VivThomas-20180405-eager
@@ -1712,7 +1712,7 @@ site: vt
 url: https://www.vivthomas.com/model/cindy-hope-and-dolly-diore/gallery/20180403/YEARNING
 cast: Cindy Hope; https://www.vivthomas.com/model/cindy-hope; f
 cast: Dolly Diore; https://www.vivthomas.com/model/dolly-diore; f
-releasedate: 2018-04-03
+released: 2018-04-03
 photographer: Sandra Shine
 rating: 9.2
 fileprefix: VivThomas-20180403-yearning
@@ -1726,7 +1726,7 @@ type: gallery
 site: vt
 url: https://www.vivthomas.com/model/lilu-moon/gallery/20180331/EROTIC_REFLECTION
 cast: Lilu Moon; https://www.vivthomas.com/model/lilu-moon; f
-releasedate: 2018-03-31
+released: 2018-03-31
 photographer: Sandra Shine
 rating: 9.1
 fileprefix: VivThomas-20180331-erotic-reflection
@@ -1741,7 +1741,7 @@ site: vt
 url: https://www.vivthomas.com/model/alyssia-kent-and-aruna-aghora/gallery/20180329/COMMAND
 cast: Alyssia Kent; https://www.vivthomas.com/model/alyssia-kent; f
 cast: Aruna Aghora; https://www.vivthomas.com/model/aruna-aghora; f
-releasedate: 2018-03-29
+released: 2018-03-29
 photographer: Alis Locanta
 rating: 9.2
 fileprefix: VivThomas-20180329-command
@@ -1756,7 +1756,7 @@ site: vt
 url: https://www.vivthomas.com/model/miki-torrez-and-violetta/gallery/20180327/REGALE
 cast: Miki Torrez; https://www.vivthomas.com/model/miki-torrez; f
 cast: Violetta; https://www.vivthomas.com/model/violetta; f
-releasedate: 2018-03-27
+released: 2018-03-27
 photographer: Sandra Shine
 rating: 9.2
 fileprefix: VivThomas-20180327-regale
@@ -1770,7 +1770,7 @@ type: gallery
 site: vt
 url: https://www.vivthomas.com/model/alise-moreno/gallery/20180324/LISSOME
 cast: Alise Moreno; https://www.vivthomas.com/model/alise-moreno; f
-releasedate: 2018-03-24
+released: 2018-03-24
 photographer: Flora
 rating: 9.4
 fileprefix: VivThomas-20180324-lissome
@@ -1785,7 +1785,7 @@ site: vt
 url: https://www.vivthomas.com/model/briana-banderas-and-julia-roca/gallery/20180322/URGE
 cast: Briana Banderas; https://www.vivthomas.com/model/briana-banderas; f
 cast: Julia Roca; https://www.vivthomas.com/model/julia-roca; f
-releasedate: 2018-03-22
+released: 2018-03-22
 photographer: Alis Locanta
 rating: 9.5
 fileprefix: VivThomas-20180322-urge
@@ -1800,7 +1800,7 @@ site: vt
 url: https://www.vivthomas.com/model/aysha-and-zazie-s/gallery/20180320/DELECTABLE
 cast: Aysha; https://www.vivthomas.com/model/aysha; f
 cast: Zazie S; https://www.vivthomas.com/model/zazie-s; f
-releasedate: 2018-03-20
+released: 2018-03-20
 photographer: Sandra Shine
 rating: 9.2
 fileprefix: VivThomas-20180320-delectable
@@ -1814,7 +1814,7 @@ type: gallery
 site: vt
 url: https://www.vivthomas.com/model/jia-lissa/gallery/20180317/RAVEN
 cast: Jia Lissa; https://www.vivthomas.com/model/jia-lissa; f
-releasedate: 2018-03-17
+released: 2018-03-17
 photographer: Flora
 rating: 9.4
 fileprefix: VivThomas-20180317-raven
@@ -1829,7 +1829,7 @@ site: vt
 url: https://www.vivthomas.com/model/julia-roca-and-lara-west/gallery/20180315/COPULATION
 cast: Julia Roca; https://www.vivthomas.com/model/julia-roca; f
 cast: Lara West; https://www.vivthomas.com/model/lara-west; f
-releasedate: 2018-03-15
+released: 2018-03-15
 photographer: Alis Locanta
 rating: 8.9
 fileprefix: VivThomas-20180315-copulation
@@ -1844,7 +1844,7 @@ site: vt
 url: https://www.vivthomas.com/model/jenny-ferri-and-shrima-malati/gallery/20180313/DOTING
 cast: Jenny Ferri; https://www.vivthomas.com/model/jenny-ferri; f
 cast: Shrima Malati; https://www.vivthomas.com/model/shrima-malati; f
-releasedate: 2018-03-13
+released: 2018-03-13
 photographer: Sandra Shine
 rating: 9.4
 fileprefix: VivThomas-20180313-doting
@@ -1858,7 +1858,7 @@ type: gallery
 site: vt
 url: https://www.vivthomas.com/model/black-fox/gallery/20180310/KIMONO
 cast: Black Fox; https://www.vivthomas.com/model/black-fox; f
-releasedate: 2018-03-10
+released: 2018-03-10
 photographer: Flora
 rating: 9.1
 fileprefix: VivThomas-20180310-kimono
@@ -1873,7 +1873,7 @@ site: vt
 url: https://www.vivthomas.com/model/jenny-manson-and-anie-darling/gallery/20180308/LUST
 cast: Jenny Manson; https://www.vivthomas.com/model/jenny-manson; f
 cast: Anie Darling; https://www.vivthomas.com/model/anie-darling; f
-releasedate: 2018-03-08
+released: 2018-03-08
 photographer: Andrej Lupin
 rating: 9.5
 fileprefix: VivThomas-20180308-lust
@@ -1888,7 +1888,7 @@ site: vt
 url: https://www.vivthomas.com/model/aislin-and-rebecca-volpetti/gallery/20180306/AFFECTION
 cast: Aislin; https://www.vivthomas.com/model/aislin; f
 cast: Rebecca Volpetti; https://www.vivthomas.com/model/rebecca-volpetti; f
-releasedate: 2018-03-06
+released: 2018-03-06
 photographer: Sandra Shine
 rating: 9.3
 fileprefix: VivThomas-20180306-affection
@@ -1902,7 +1902,7 @@ type: gallery
 site: vt
 url: https://www.vivthomas.com/model/leona-a/gallery/20180303/CHARMING
 cast: Leona A; https://www.vivthomas.com/model/leona-a; f
-releasedate: 2018-03-03
+released: 2018-03-03
 photographer: Flora
 rating: 9.6
 fileprefix: VivThomas-20180303-charming
@@ -1917,7 +1917,7 @@ site: vt
 url: https://www.vivthomas.com/model/cristal-caitlin-and-linda-brugal/gallery/20180301/ENTICE
 cast: Cristal Caitlin; https://www.vivthomas.com/model/cristal-caitlin; f
 cast: Linda Brugal; https://www.vivthomas.com/model/linda-brugal; f
-releasedate: 2018-03-01
+released: 2018-03-01
 photographer: Andrej Lupin
 rating: 9.3
 fileprefix: VivThomas-20180301-entice
@@ -1932,7 +1932,7 @@ site: vt
 url: https://www.vivthomas.com/model/zazie-s-and-ally-style/gallery/20180227/CONTACT
 cast: Zazie S; https://www.vivthomas.com/model/zazie-s; f
 cast: Ally Style; https://www.vivthomas.com/model/ally-style; f
-releasedate: 2018-02-27
+released: 2018-02-27
 photographer: Sandra Shine
 rating: 9.2
 fileprefix: VivThomas-20180227-contact
@@ -1946,7 +1946,7 @@ type: gallery
 site: vt
 url: https://www.vivthomas.com/model/jia-lissa/gallery/20180224/LACE
 cast: Jia Lissa; https://www.vivthomas.com/model/jia-lissa; f
-releasedate: 2018-02-24
+released: 2018-02-24
 photographer: Flora
 rating: 9.5
 fileprefix: VivThomas-20180224-lace
@@ -1961,7 +1961,7 @@ site: vt
 url: https://www.vivthomas.com/model/cristal-caitlin-and-anie-darling/gallery/20180222/FRISKY
 cast: Cristal Caitlin; https://www.vivthomas.com/model/cristal-caitlin; f
 cast: Anie Darling; https://www.vivthomas.com/model/anie-darling; f
-releasedate: 2018-02-22
+released: 2018-02-22
 photographer: Andrej Lupin
 rating: 9.5
 fileprefix: VivThomas-20180222-frisky
@@ -1977,7 +1977,7 @@ url: https://www.vivthomas.com/model/paulina-soul-and-sasha-colibri-and-candy-be
 cast: Paulina Soul; https://www.vivthomas.com/model/paulina-soul; f
 cast: Sasha Colibri; https://www.vivthomas.com/model/sasha-colibri; f
 cast: Candy Bell; https://www.vivthomas.com/model/candy-bell; f
-releasedate: 2018-02-20
+released: 2018-02-20
 photographer: Sandra Shine
 rating: 9.3
 fileprefix: VivThomas-20180220-touch
@@ -1991,7 +1991,7 @@ type: gallery
 site: vt
 url: https://www.vivthomas.com/model/black-fox/gallery/20180217/SUNFLOWER
 cast: Black Fox; https://www.vivthomas.com/model/black-fox; f
-releasedate: 2018-02-17
+released: 2018-02-17
 photographer: Flora
 rating: 9.2
 fileprefix: VivThomas-20180217-sunflower
@@ -2006,7 +2006,7 @@ site: vt
 url: https://www.vivthomas.com/model/jenny-manson-and-linda-brugal/gallery/20180215/POISED
 cast: Jenny Manson; https://www.vivthomas.com/model/jenny-manson; f
 cast: Linda Brugal; https://www.vivthomas.com/model/linda-brugal; f
-releasedate: 2018-02-15
+released: 2018-02-15
 photographer: Andrej Lupin
 rating: 9.4
 fileprefix: VivThomas-20180215-poised
@@ -2021,7 +2021,7 @@ site: vt
 url: https://www.vivthomas.com/model/cindy-hope-and-zafira-a/gallery/20180213/GRIND
 cast: Cindy Hope; https://www.vivthomas.com/model/cindy-hope; f
 cast: Zafira A; https://www.vivthomas.com/model/zafira-a; f
-releasedate: 2018-02-13
+released: 2018-02-13
 photographer: Sandra Shine
 rating: 9.5
 fileprefix: VivThomas-20180213-grind
@@ -2035,7 +2035,7 @@ type: gallery
 site: vt
 url: https://www.vivthomas.com/model/leona-a/gallery/20180210/HAPPY
 cast: Leona A; https://www.vivthomas.com/model/leona-a; f
-releasedate: 2018-02-10
+released: 2018-02-10
 photographer: Flora
 rating: 9.5
 fileprefix: VivThomas-20180210-happy
@@ -2050,7 +2050,7 @@ site: vt
 url: https://www.vivthomas.com/model/tindra-frost-and-rachel-adjani/gallery/20180208/INCITE
 cast: Tindra Frost; https://www.vivthomas.com/model/tindra-frost; f
 cast: Rachel Adjani; https://www.vivthomas.com/model/rachel-adjani; f
-releasedate: 2018-02-08
+released: 2018-02-08
 photographer: Sandra Shine
 rating: 9.3
 fileprefix: VivThomas-20180208-incite
@@ -2065,7 +2065,7 @@ site: vt
 url: https://www.vivthomas.com/model/alyssia-kent-and-aruna-aghora/gallery/20180206/STIMULATE
 cast: Alyssia Kent; https://www.vivthomas.com/model/alyssia-kent; f
 cast: Aruna Aghora; https://www.vivthomas.com/model/aruna-aghora; f
-releasedate: 2018-02-06
+released: 2018-02-06
 photographer: Alis Locanta
 rating: 9.3
 fileprefix: VivThomas-20180206-stimulate
@@ -2079,7 +2079,7 @@ type: gallery
 site: vt
 url: https://www.vivthomas.com/model/seny/gallery/20180203/CHEEKY
 cast: Seny; https://www.vivthomas.com/model/seny; f
-releasedate: 2018-02-03
+released: 2018-02-03
 photographer: Flora
 rating: 9.3
 fileprefix: VivThomas-20180203-cheeky
@@ -2094,7 +2094,7 @@ site: vt
 url: https://www.vivthomas.com/model/paulina-soul-and-patritcy/gallery/20180201/ARRANGE
 cast: Paulina Soul; https://www.vivthomas.com/model/paulina-soul; f
 cast: Patritcy; https://www.vivthomas.com/model/patritcy; f
-releasedate: 2018-02-01
+released: 2018-02-01
 photographer: Sandra Shine
 rating: 9.3
 fileprefix: VivThomas-20180201-arrange
@@ -2109,7 +2109,7 @@ site: vt
 url: https://www.vivthomas.com/model/amirah-adara-and-luna-rival/gallery/20180130/PLEASURE
 cast: Amirah Adara; https://www.vivthomas.com/model/amirah-adara; f
 cast: Luna Rival; https://www.vivthomas.com/model/luna-rival; f
-releasedate: 2018-01-30
+released: 2018-01-30
 photographer: Alis Locanta
 rating: 9.4
 fileprefix: VivThomas-20180130-pleasure
@@ -2123,7 +2123,7 @@ type: gallery
 site: vt
 url: https://www.vivthomas.com/model/mandy-a/gallery/20180127/DELIGHTFUL
 cast: Mandy A; https://www.vivthomas.com/model/mandy-a; f
-releasedate: 2018-01-27
+released: 2018-01-27
 photographer: Flora
 rating: 9.6
 fileprefix: VivThomas-20180127-delightful
@@ -2138,7 +2138,7 @@ site: vt
 url: https://www.vivthomas.com/model/sandra-w-and-lilu-moon/gallery/20180125/AROUSAL
 cast: Sandra W; https://www.vivthomas.com/model/sandra-w; f
 cast: Lilu Moon; https://www.vivthomas.com/model/lilu-moon; f
-releasedate: 2018-01-25
+released: 2018-01-25
 photographer: Sandra Shine
 rating: 9.4
 fileprefix: VivThomas-20180125-arousal
@@ -2153,7 +2153,7 @@ site: vt
 url: https://www.vivthomas.com/model/aruna-aghora-and-alyssia-kent/gallery/20180123/FRIVOLOUS
 cast: Aruna Aghora; https://www.vivthomas.com/model/aruna-aghora; f
 cast: Alyssia Kent; https://www.vivthomas.com/model/alyssia-kent; f
-releasedate: 2018-01-23
+released: 2018-01-23
 photographer: Alis Locanta
 rating: 9.3
 fileprefix: VivThomas-20180123-frivolous
@@ -2167,7 +2167,7 @@ type: gallery
 site: vt
 url: https://www.vivthomas.com/model/jia-lissa/gallery/20180120/PIXIE
 cast: Jia Lissa; https://www.vivthomas.com/model/jia-lissa; f
-releasedate: 2018-01-20
+released: 2018-01-20
 photographer: Flora
 rating: 9.5
 fileprefix: VivThomas-20180120-pixie
@@ -2183,7 +2183,7 @@ url: https://www.vivthomas.com/model/cindy-hope-and-luna-corazon-and-liza-kolt/g
 cast: Cindy Hope; https://www.vivthomas.com/model/cindy-hope; f
 cast: Luna Corazon; https://www.vivthomas.com/model/luna-corazon; f
 cast: Liza Kolt; https://www.vivthomas.com/model/liza-kolt; f
-releasedate: 2018-01-18
+released: 2018-01-18
 photographer: Sandra Shine
 rating: 9.5
 fileprefix: VivThomas-20180118-revenge
@@ -2198,7 +2198,7 @@ site: vt
 url: https://www.vivthomas.com/model/luna-rival-and-amirah-adara/gallery/20180116/PACE
 cast: Luna Rival; https://www.vivthomas.com/model/luna-rival; f
 cast: Amirah Adara; https://www.vivthomas.com/model/amirah-adara; f
-releasedate: 2018-01-16
+released: 2018-01-16
 photographer: Alis Locanta
 rating: 9.3
 fileprefix: VivThomas-20180116-pace
@@ -2212,7 +2212,7 @@ type: gallery
 site: vt
 url: https://www.vivthomas.com/model/black-fox/gallery/20180113/VIVID
 cast: Black Fox; https://www.vivthomas.com/model/black-fox; f
-releasedate: 2018-01-13
+released: 2018-01-13
 photographer: Albert Varin
 rating: 9.5
 fileprefix: VivThomas-20180113-vivid
@@ -2228,7 +2228,7 @@ url: https://www.vivthomas.com/model/cindy-hope-and-francys-belle-and-suzi-star/
 cast: Cindy Hope; https://www.vivthomas.com/model/cindy-hope; f
 cast: Francys Belle; https://www.vivthomas.com/model/francys-belle; f
 cast: Suzi Star; https://www.vivthomas.com/model/suzi-star; f
-releasedate: 2018-01-11
+released: 2018-01-11
 photographer: Sandra Shine
 rating: 9.4
 fileprefix: VivThomas-20180111-experience
@@ -2243,7 +2243,7 @@ site: vt
 url: https://www.vivthomas.com/model/cristal-caitlin-and-silvia-dellai/gallery/20180109/EMANATE
 cast: Cristal Caitlin; https://www.vivthomas.com/model/cristal-caitlin; f
 cast: Silvia Dellai; https://www.vivthomas.com/model/silvia-dellai; f
-releasedate: 2018-01-09
+released: 2018-01-09
 photographer: Alis Locanta
 rating: 9.2
 fileprefix: VivThomas-20180109-emanate
@@ -2257,7 +2257,7 @@ type: gallery
 site: vt
 url: https://www.vivthomas.com/model/veel/gallery/20180106/BREEZY
 cast: Veel; https://www.vivthomas.com/model/veel; f
-releasedate: 2018-01-06
+released: 2018-01-06
 photographer: Albert Varin
 rating: 9.2
 fileprefix: VivThomas-20180106-breezy
@@ -2272,7 +2272,7 @@ site: vt
 url: https://www.vivthomas.com/model/cindy-hope-and-ellen-betsy/gallery/20180104/IMAGINATION
 cast: Cindy Hope; https://www.vivthomas.com/model/cindy-hope; f
 cast: Ellen Betsy; https://www.vivthomas.com/model/ellen-betsy; f
-releasedate: 2018-01-04
+released: 2018-01-04
 photographer: Sandra Shine
 rating: 9.3
 fileprefix: VivThomas-20180104-imagination
@@ -2287,7 +2287,7 @@ site: vt
 url: https://www.vivthomas.com/model/cassie-del-isla-and-ena-sweet/gallery/20180102/EMIT
 cast: Cassie Del Isla; https://www.vivthomas.com/model/cassie-del-isla; f
 cast: Ena Sweet; https://www.vivthomas.com/model/ena-sweet; f
-releasedate: 2018-01-02
+released: 2018-01-02
 photographer: Alis Locanta
 rating: 9.4
 fileprefix: VivThomas-20180102-emit

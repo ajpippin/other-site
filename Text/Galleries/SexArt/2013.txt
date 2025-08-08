@@ -10,7 +10,7 @@ site: sa
 url: https://www.sexart.com/model/patritcy-a-and-beata-b/gallery/20131231/CENTAURI
 cast: Patritcy A; https://www.sexart.com/model/patritcy-a;
 cast: Beata B; https://www.sexart.com/model/beata-b;
-releasedate: 2013-12-31
+released: 2013-12-31
 photographer: Koenart
 rating: 9.2
 files:  # add-files-here
@@ -25,7 +25,7 @@ type: gallery
 site: sa
 url: https://www.sexart.com/model/lorena-b/gallery/20131230/FIBRASE
 cast: Lorena B; https://www.sexart.com/model/lorena-b;
-releasedate: 2013-12-30
+released: 2013-12-30
 photographer: Don Caravaggio
 rating: 9.7
 files:  # add-files-here
@@ -41,7 +41,7 @@ site: sa
 url: https://www.sexart.com/model/verona-a-and-kleo-a/gallery/20131228/GAMMA_ARIETIS
 cast: Verona A; https://www.sexart.com/model/verona-a;
 cast: Kleo A; https://www.sexart.com/model/kleo-a;
-releasedate: 2013-12-28
+released: 2013-12-28
 photographer: Matt Hathaway
 rating: 8.8
 files:  # add-files-here
@@ -56,7 +56,7 @@ type: gallery
 site: sa
 url: https://www.sexart.com/model/emily-bloom/gallery/20131226/PAROLA
 cast: Emily Bloom; https://www.sexart.com/model/emily-bloom;
-releasedate: 2013-12-26
+released: 2013-12-26
 photographer: Antares
 rating: 9.5
 files:  # add-files-here
@@ -71,7 +71,7 @@ type: gallery
 site: sa
 url: https://www.sexart.com/model/melena-a/gallery/20131224/PROTA
 cast: Melena A; https://www.sexart.com/model/melena-a;
-releasedate: 2013-12-24
+released: 2013-12-24
 photographer: Walter Schotten
 rating: 9.5
 files:  # add-files-here
@@ -86,7 +86,7 @@ type: gallery
 site: sa
 url: https://www.sexart.com/model/ennu-a/gallery/20131223/ANAMONI
 cast: Ennu A; https://www.sexart.com/model/ennu-a;
-releasedate: 2013-12-23
+released: 2013-12-23
 photographer: Albert Varin
 rating: 9.2
 files:  # add-files-here
@@ -101,7 +101,7 @@ type: gallery
 site: sa
 url: https://www.sexart.com/model/aprilia-a/gallery/20131221/RALMENTE
 cast: Aprilia A; https://www.sexart.com/model/aprilia-a;
-releasedate: 2013-12-21
+released: 2013-12-21
 photographer: Koenart
 rating: 9.3
 files:  # add-files-here
@@ -117,7 +117,7 @@ site: sa
 url: https://www.sexart.com/model/kelly-g-and-piper-a/gallery/20131219/CANELA
 cast: Kelly G; https://www.sexart.com/model/kelly-g;
 cast: Piper A; https://www.sexart.com/model/piper-a;
-releasedate: 2013-12-19
+released: 2013-12-19
 photographer: Albert Varin
 rating: 8.8
 files:  # add-files-here
@@ -132,7 +132,7 @@ type: gallery
 site: sa
 url: https://www.sexart.com/model/milena-d/gallery/20131217/SELUE
 cast: Milena D; https://www.sexart.com/model/milena-d;
-releasedate: 2013-12-17
+released: 2013-12-17
 photographer: Antares
 rating: 9.6
 files:  # add-files-here
@@ -147,7 +147,7 @@ type: gallery
 site: sa
 url: https://www.sexart.com/model/loretta-a/gallery/20131216/LAURIE
 cast: Loretta A; https://www.sexart.com/model/loretta-a;
-releasedate: 2013-12-16
+released: 2013-12-16
 photographer: Vicente Silva
 rating: 9.6
 files:  # add-files-here
@@ -162,7 +162,7 @@ type: gallery
 site: sa
 url: https://www.sexart.com/model/candy-wais/gallery/20131214/CARYUM
 cast: Candy Wais; https://www.sexart.com/model/candy-wais;
-releasedate: 2013-12-14
+released: 2013-12-14
 photographer: Deltagamma
 rating: 9.3
 files:  # add-files-here
@@ -178,7 +178,7 @@ site: sa
 url: https://www.sexart.com/model/brandy-a-and-tracy-a/gallery/20131212/LIME_KISSES
 cast: Brandy A; https://www.sexart.com/model/brandy-a;
 cast: Tracy A; https://www.sexart.com/model/tracy-a;
-releasedate: 2013-12-12
+released: 2013-12-12
 photographer: Koenart
 rating: 9.1
 files:  # add-files-here
@@ -193,7 +193,7 @@ type: gallery
 site: sa
 url: https://www.sexart.com/model/cathleen-a/gallery/20131210/PERSEA
 cast: Cathleen A; https://www.sexart.com/model/cathleen-a;
-releasedate: 2013-12-10
+released: 2013-12-10
 photographer: Vicente Silva
 rating: 9.3
 files:  # add-files-here
@@ -208,7 +208,7 @@ type: gallery
 site: sa
 url: https://www.sexart.com/model/connie-carter/gallery/20131209/AMARILLEA
 cast: Connie Carter; https://www.sexart.com/model/connie-carter;
-releasedate: 2013-12-09
+released: 2013-12-09
 photographer: Deltagamma
 rating: 9.4
 files:  # add-files-here
@@ -223,7 +223,7 @@ type: gallery
 site: sa
 url: https://www.sexart.com/model/dido-a/gallery/20131207/PICANDICO
 cast: Dido A; https://www.sexart.com/model/dido-a;
-releasedate: 2013-12-07
+released: 2013-12-07
 photographer: Walter Schotten
 rating: 9.3
 files:  # add-files-here
@@ -238,7 +238,7 @@ type: gallery
 site: sa
 url: https://www.sexart.com/model/linden-a/gallery/20131205/TAMBIEN
 cast: Linden A; https://www.sexart.com/model/linden-a;
-releasedate: 2013-12-05
+released: 2013-12-05
 photographer: Vicente Silva
 rating: 9.2
 files:  # add-files-here
@@ -253,7 +253,7 @@ type: gallery
 site: sa
 url: https://www.sexart.com/model/simona-a/gallery/20131203/KADANGI
 cast: Simona A; https://www.sexart.com/model/simona-a;
-releasedate: 2013-12-03
+released: 2013-12-03
 photographer: Albert Varin
 rating: 8.9
 files:  # add-files-here
@@ -268,7 +268,7 @@ type: gallery
 site: sa
 url: https://www.sexart.com/model/susana-c/gallery/20131202/VICARO
 cast: Susana C; https://www.sexart.com/model/susana-c;
-releasedate: 2013-12-02
+released: 2013-12-02
 photographer: Catherine
 rating: 9.3
 files:  # add-files-here
@@ -284,7 +284,7 @@ site: sa
 url: https://www.sexart.com/model/soko-a-and-york-a/gallery/20131130/SARALA
 cast: Soko A; https://www.sexart.com/model/soko-a;
 cast: York A; https://www.sexart.com/model/york-a;
-releasedate: 2013-11-30
+released: 2013-11-30
 photographer: Matt Hathaway
 rating: 8.7
 files:  # add-files-here
@@ -299,7 +299,7 @@ type: gallery
 site: sa
 url: https://www.sexart.com/model/marica-a/gallery/20131128/DINILAI
 cast: Marica A; https://www.sexart.com/model/marica-a;
-releasedate: 2013-11-28
+released: 2013-11-28
 photographer: Antares
 rating: 9.0
 files:  # add-files-here
@@ -314,7 +314,7 @@ type: gallery
 site: sa
 url: https://www.sexart.com/model/blue-angel/gallery/20131126/DARIPADA
 cast: Blue Angel; https://www.sexart.com/model/blue-angel;
-releasedate: 2013-11-26
+released: 2013-11-26
 photographer: Koenart
 rating: 9.2
 files:  # add-files-here
@@ -329,7 +329,7 @@ type: gallery
 site: sa
 url: https://www.sexart.com/model/lauren-crist/gallery/20131125/AFESIE
 cast: Lauren Crist; https://www.sexart.com/model/lauren-crist;
-releasedate: 2013-11-25
+released: 2013-11-25
 photographer: Deltagamma
 rating: 9.2
 files:  # add-files-here
@@ -344,7 +344,7 @@ type: gallery
 site: sa
 url: https://www.sexart.com/model/subil-a/gallery/20131123/PUDRA
 cast: Subil A; https://www.sexart.com/model/subil-a;
-releasedate: 2013-11-23
+released: 2013-11-23
 photographer: Albert Varin
 rating: 9.1
 files:  # add-files-here
@@ -360,7 +360,7 @@ site: sa
 url: https://www.sexart.com/model/jon-and-michelle-h/gallery/20131121/EFIKO
 cast: Jon; https://www.sexart.com/model/jon;
 cast: Michelle H; https://www.sexart.com/model/michelle-h;
-releasedate: 2013-11-21
+released: 2013-11-21
 photographer: Koenart
 rating: 9.2
 files:  # add-files-here
@@ -375,7 +375,7 @@ type: gallery
 site: sa
 url: https://www.sexart.com/model/candice-luka/gallery/20131119/STARENIA
 cast: Candice Luka; https://www.sexart.com/model/candice-luka;
-releasedate: 2013-11-19
+released: 2013-11-19
 photographer: Don Caravaggio
 rating: 9.3
 files:  # add-files-here
@@ -391,7 +391,7 @@ site: sa
 url: https://www.sexart.com/model/david-and-talinka-a/gallery/20131118/TORITO
 cast: David; https://www.sexart.com/model/david;
 cast: Talinka A; https://www.sexart.com/model/talinka-a;
-releasedate: 2013-11-18
+released: 2013-11-18
 photographer: Albert Varin
 rating: 9.2
 files:  # add-files-here
@@ -406,7 +406,7 @@ type: gallery
 site: sa
 url: https://www.sexart.com/model/nika-n/gallery/20131116/CARA
 cast: Nika N; https://www.sexart.com/model/nika-n;
-releasedate: 2013-11-16
+released: 2013-11-16
 photographer: Antares
 rating: 9.3
 files:  # add-files-here
@@ -421,7 +421,7 @@ type: gallery
 site: sa
 url: https://www.sexart.com/model/nastya-k/gallery/20131114/WELLE
 cast: Nastya K; https://www.sexart.com/model/nastya-k;
-releasedate: 2013-11-14
+released: 2013-11-14
 photographer: Catherine
 rating: 9.3
 files:  # add-files-here
@@ -436,7 +436,7 @@ type: gallery
 site: sa
 url: https://www.sexart.com/model/mia-sollis/gallery/20131112/AGADO
 cast: Mia Sollis; https://www.sexart.com/model/mia-sollis;
-releasedate: 2013-11-12
+released: 2013-11-12
 photographer: Koenart
 rating: 9.2
 files:  # add-files-here
@@ -451,7 +451,7 @@ type: gallery
 site: sa
 url: https://www.sexart.com/model/melena-a/gallery/20131111/OMORFI
 cast: Melena A; https://www.sexart.com/model/melena-a;
-releasedate: 2013-11-11
+released: 2013-11-11
 photographer: Walter Schotten
 rating: 9.4
 files:  # add-files-here
@@ -466,7 +466,7 @@ type: gallery
 site: sa
 url: https://www.sexart.com/model/ryanel-a/gallery/20131109/NOMOLA
 cast: Ryanel A; https://www.sexart.com/model/ryanel-a;
-releasedate: 2013-11-09
+released: 2013-11-09
 photographer: Vicente Silva
 rating: 9.3
 files:  # add-files-here
@@ -481,7 +481,7 @@ type: gallery
 site: sa
 url: https://www.sexart.com/model/emily-bloom/gallery/20131107/SANO
 cast: Emily Bloom; https://www.sexart.com/model/emily-bloom;
-releasedate: 2013-11-07
+released: 2013-11-07
 photographer: Antares
 rating: 9.5
 files:  # add-files-here
@@ -497,7 +497,7 @@ site: sa
 url: https://www.sexart.com/model/macy-b-and-tofana-a/gallery/20131105/MELEGITI
 cast: Macy B; https://www.sexart.com/model/macy-b;
 cast: Tofana A; https://www.sexart.com/model/tofana-a;
-releasedate: 2013-11-05
+released: 2013-11-05
 photographer: Albert Varin
 rating: 9.2
 files:  # add-files-here
@@ -512,7 +512,7 @@ type: gallery
 site: sa
 url: https://www.sexart.com/model/vanda-b/gallery/20131104/VEDI
 cast: Vanda B; https://www.sexart.com/model/vanda-b;
-releasedate: 2013-11-04
+released: 2013-11-04
 photographer: Catherine
 rating: 9.3
 files:  # add-files-here
@@ -528,7 +528,7 @@ site: sa
 url: https://www.sexart.com/model/kleo-a-and-verona-a/gallery/20131102/NOITE
 cast: Kleo A; https://www.sexart.com/model/kleo-a;
 cast: Verona A; https://www.sexart.com/model/verona-a;
-releasedate: 2013-11-02
+released: 2013-11-02
 photographer: Matt Hathaway
 rating: 8.6
 files:  # add-files-here
@@ -543,7 +543,7 @@ type: gallery
 site: sa
 url: https://www.sexart.com/model/milena-d/gallery/20131031/ELETET
 cast: Milena D; https://www.sexart.com/model/milena-d;
-releasedate: 2013-10-31
+released: 2013-10-31
 photographer: Antares
 rating: 9.4
 files:  # add-files-here
@@ -559,7 +559,7 @@ site: sa
 url: https://www.sexart.com/model/dido-a-and-tess-b/gallery/20131029/STOMA
 cast: Dido A; https://www.sexart.com/model/dido-a;
 cast: Tess B; https://www.sexart.com/model/tess-b;
-releasedate: 2013-10-29
+released: 2013-10-29
 photographer: Walter Schotten
 rating: 9.1
 files:  # add-files-here
@@ -574,7 +574,7 @@ type: gallery
 site: sa
 url: https://www.sexart.com/model/mango-a/gallery/20131028/KAUNSE
 cast: Mango A; https://www.sexart.com/model/mango-a;
-releasedate: 2013-10-28
+released: 2013-10-28
 photographer: Vlad Kleverov
 rating: 9.5
 files:  # add-files-here
@@ -590,7 +590,7 @@ site: sa
 url: https://www.sexart.com/model/malena-morgan-and-elle-alexandra/gallery/20131026/STENI
 cast: Malena Morgan; https://www.sexart.com/model/malena-morgan;
 cast: Elle Alexandra; https://www.sexart.com/model/elle-alexandra;
-releasedate: 2013-10-26
+released: 2013-10-26
 photographer: Kaden
 rating: 9.3
 files:  # add-files-here
@@ -605,7 +605,7 @@ type: gallery
 site: sa
 url: https://www.sexart.com/model/brandy-a/gallery/20131024/ANTARA
 cast: Brandy A; https://www.sexart.com/model/brandy-a;
-releasedate: 2013-10-24
+released: 2013-10-24
 photographer: Koenart
 rating: 9.0
 files:  # add-files-here
@@ -620,7 +620,7 @@ type: gallery
 site: sa
 url: https://www.sexart.com/model/tristana-a/gallery/20131022/KELIMA
 cast: Tristana A; https://www.sexart.com/model/tristana-a;
-releasedate: 2013-10-22
+released: 2013-10-22
 photographer: Vicente Silva
 rating: 9.3
 files:  # add-files-here
@@ -635,7 +635,7 @@ type: gallery
 site: sa
 url: https://www.sexart.com/model/subil-a/gallery/20131021/AVATUD
 cast: Subil A; https://www.sexart.com/model/subil-a;
-releasedate: 2013-10-21
+released: 2013-10-21
 photographer: Albert Varin
 rating: 9.2
 files:  # add-files-here
@@ -650,7 +650,7 @@ type: gallery
 site: sa
 url: https://www.sexart.com/model/miela-a/gallery/20131019/FIDDA
 cast: Miela A; https://www.sexart.com/model/miela-a;
-releasedate: 2013-10-19
+released: 2013-10-19
 photographer: Koenart
 rating: 9.3
 files:  # add-files-here
@@ -666,7 +666,7 @@ site: sa
 url: https://www.sexart.com/model/lorena-b-and-charlise-bella/gallery/20131017/LUSCIOUS_DEUX_-_AN_ENCORE
 cast: Lorena B; https://www.sexart.com/model/lorena-b;
 cast: Charlise Bella; https://www.sexart.com/model/charlise-bella;
-releasedate: 2013-10-17
+released: 2013-10-17
 photographer: Don Caravaggio
 rating: 9.4
 files:  # add-files-here
@@ -681,7 +681,7 @@ type: gallery
 site: sa
 url: https://www.sexart.com/model/caprice-a/gallery/20131015/FERMO
 cast: Caprice A; https://www.sexart.com/model/caprice-a;
-releasedate: 2013-10-15
+released: 2013-10-15
 photographer: Deltagamma
 rating: 9.6
 files:  # add-files-here
@@ -697,7 +697,7 @@ site: sa
 url: https://www.sexart.com/model/soko-a-and-york-a/gallery/20131014/METRATE
 cast: Soko A; https://www.sexart.com/model/soko-a;
 cast: York A; https://www.sexart.com/model/york-a;
-releasedate: 2013-10-14
+released: 2013-10-14
 photographer: Matt Hathaway
 rating: 8.9
 files:  # add-files-here
@@ -712,7 +712,7 @@ type: gallery
 site: sa
 url: https://www.sexart.com/model/lorena-b/gallery/20131012/ALISTRO
 cast: Lorena B; https://www.sexart.com/model/lorena-b;
-releasedate: 2013-10-12
+released: 2013-10-12
 photographer: Don Caravaggio
 rating: 9.3
 files:  # add-files-here
@@ -727,7 +727,7 @@ type: gallery
 site: sa
 url: https://www.sexart.com/model/candy-wais/gallery/20131010/LIRULO
 cast: Candy Wais; https://www.sexart.com/model/candy-wais;
-releasedate: 2013-10-10
+released: 2013-10-10
 photographer: Deltagamma
 rating: 9.2
 files:  # add-files-here
@@ -742,7 +742,7 @@ type: gallery
 site: sa
 url: https://www.sexart.com/model/vanda-b/gallery/20131008/HENKEA
 cast: Vanda B; https://www.sexart.com/model/vanda-b;
-releasedate: 2013-10-08
+released: 2013-10-08
 photographer: Catherine
 rating: 9.0
 files:  # add-files-here
@@ -757,7 +757,7 @@ type: gallery
 site: sa
 url: https://www.sexart.com/model/katya-ac/gallery/20131007/NEMEN
 cast: Katya AC; https://www.sexart.com/model/katya-ac;
-releasedate: 2013-10-07
+released: 2013-10-07
 photographer: Marco Simoncelli
 rating: 8.9
 files:  # add-files-here
@@ -773,7 +773,7 @@ site: sa
 url: https://www.sexart.com/model/nastya-k-and-susana-c/gallery/20131005/ERVARE
 cast: Nastya K; https://www.sexart.com/model/nastya-k;
 cast: Susana C; https://www.sexart.com/model/susana-c;
-releasedate: 2013-10-05
+released: 2013-10-05
 photographer: Catherine
 rating: 9.4
 files:  # add-files-here
@@ -789,7 +789,7 @@ site: sa
 url: https://www.sexart.com/model/david-and-talinka-a/gallery/20131003/ECHTE
 cast: David; https://www.sexart.com/model/david;
 cast: Talinka A; https://www.sexart.com/model/talinka-a;
-releasedate: 2013-10-03
+released: 2013-10-03
 photographer: Albert Varin
 rating: 9.1
 files:  # add-files-here
@@ -804,7 +804,7 @@ type: gallery
 site: sa
 url: https://www.sexart.com/model/tess-b/gallery/20131001/ERIVENATE
 cast: Tess B; https://www.sexart.com/model/tess-b;
-releasedate: 2013-10-01
+released: 2013-10-01
 photographer: Koenart
 rating: 9.1
 files:  # add-files-here
@@ -820,7 +820,7 @@ site: sa
 url: https://www.sexart.com/model/delfina-a-and-verona-a/gallery/20130930/ESIMENE
 cast: Delfina A; https://www.sexart.com/model/delfina-a;
 cast: Verona A; https://www.sexart.com/model/verona-a;
-releasedate: 2013-09-30
+released: 2013-09-30
 photographer: Matt Hathaway
 rating: 8.8
 files:  # add-files-here
@@ -835,7 +835,7 @@ type: gallery
 site: sa
 url: https://www.sexart.com/model/emily-bloom/gallery/20130928/AMACE
 cast: Emily Bloom; https://www.sexart.com/model/emily-bloom;
-releasedate: 2013-09-28
+released: 2013-09-28
 photographer: Marco Simoncelli
 rating: 9.5
 files:  # add-files-here
@@ -850,7 +850,7 @@ type: gallery
 site: sa
 url: https://www.sexart.com/model/melena-a/gallery/20130926/KATIKA
 cast: Melena A; https://www.sexart.com/model/melena-a;
-releasedate: 2013-09-26
+released: 2013-09-26
 photographer: Walter Schotten
 rating: 9.4
 files:  # add-files-here
@@ -866,7 +866,7 @@ site: sa
 url: https://www.sexart.com/model/patritcy-a-and-beata-b/gallery/20130924/FORBEDRE
 cast: Patritcy A; https://www.sexart.com/model/patritcy-a;
 cast: Beata B; https://www.sexart.com/model/beata-b;
-releasedate: 2013-09-24
+released: 2013-09-24
 photographer: Koenart
 rating: 9.3
 files:  # add-files-here
@@ -881,7 +881,7 @@ type: gallery
 site: sa
 url: https://www.sexart.com/model/lauren-crist/gallery/20130923/THAMAN
 cast: Lauren Crist; https://www.sexart.com/model/lauren-crist;
-releasedate: 2013-09-23
+released: 2013-09-23
 photographer: Deltagamma
 rating: 9.2
 files:  # add-files-here
@@ -897,7 +897,7 @@ site: sa
 url: https://www.sexart.com/model/paula-shy-and-casey-jordan/gallery/20130921/SUMMER_PLAY
 cast: Paula Shy; https://www.sexart.com/model/paula-shy;
 cast: Casey Jordan; https://www.sexart.com/model/casey-jordan;
-releasedate: 2013-09-21
+released: 2013-09-21
 photographer: David Jones
 rating: 9.0
 files:  # add-files-here
@@ -912,7 +912,7 @@ type: gallery
 site: sa
 url: https://www.sexart.com/model/dido-a/gallery/20130919/PLEJE
 cast: Dido A; https://www.sexart.com/model/dido-a;
-releasedate: 2013-09-19
+released: 2013-09-19
 photographer: Don Caravaggio
 rating: 9.7
 files:  # add-files-here
@@ -927,7 +927,7 @@ type: gallery
 site: sa
 url: https://www.sexart.com/model/macy-b/gallery/20130917/AFYA
 cast: Macy B; https://www.sexart.com/model/macy-b;
-releasedate: 2013-09-17
+released: 2013-09-17
 photographer: Vicente Silva
 rating: 9.4
 files:  # add-files-here
@@ -942,7 +942,7 @@ type: gallery
 site: sa
 url: https://www.sexart.com/model/diana-g/gallery/20130916/BEREAN
 cast: Diana G; https://www.sexart.com/model/diana-g;
-releasedate: 2013-09-16
+released: 2013-09-16
 photographer: Koenart
 rating: 9.0
 files:  # add-files-here
@@ -958,7 +958,7 @@ site: sa
 url: https://www.sexart.com/model/lorena-b-and-alexis-brill/gallery/20130914/PASSION_RISES
 cast: Lorena B; https://www.sexart.com/model/lorena-b;
 cast: Alexis Brill; https://www.sexart.com/model/alexis-brill;
-releasedate: 2013-09-14
+released: 2013-09-14
 photographer: Duliamo Ergacia
 rating: 9.3
 files:  # add-files-here
@@ -974,7 +974,7 @@ site: sa
 url: https://www.sexart.com/model/kayla-lyon-and-jenny-appach/gallery/20130912/SWIMMING_POOL
 cast: Kayla Lyon; https://www.sexart.com/model/kayla-lyon;
 cast: Jenny Appach; https://www.sexart.com/model/jenny-appach;
-releasedate: 2013-09-12
+released: 2013-09-12
 photographer: David Jones
 rating: 8.4
 files:  # add-files-here
@@ -989,7 +989,7 @@ type: gallery
 site: sa
 url: https://www.sexart.com/model/tofana-a/gallery/20130910/LOTUTA
 cast: Tofana A; https://www.sexart.com/model/tofana-a;
-releasedate: 2013-09-10
+released: 2013-09-10
 photographer: Albert Varin
 rating: 9.1
 files:  # add-files-here
@@ -1004,7 +1004,7 @@ type: gallery
 site: sa
 url: https://www.sexart.com/model/candice-luka/gallery/20130909/IGARO
 cast: Candice Luka; https://www.sexart.com/model/candice-luka;
-releasedate: 2013-09-09
+released: 2013-09-09
 photographer: Deltagamma
 rating: 9.4
 files:  # add-files-here
@@ -1020,7 +1020,7 @@ site: sa
 url: https://www.sexart.com/model/lorena-b-and-alexis-brill/gallery/20130907/AGE_OF_INNOCENCE
 cast: Lorena B; https://www.sexart.com/model/lorena-b;
 cast: Alexis Brill; https://www.sexart.com/model/alexis-brill;
-releasedate: 2013-09-07
+released: 2013-09-07
 photographer: Duliamo Ergacia
 rating: 9.2
 files:  # add-files-here
@@ -1036,7 +1036,7 @@ site: sa
 url: https://www.sexart.com/model/nika-n-and-milena-d/gallery/20130905/FUNTZIO
 cast: Nika N; https://www.sexart.com/model/nika-n;
 cast: Milena D; https://www.sexart.com/model/milena-d;
-releasedate: 2013-09-05
+released: 2013-09-05
 photographer: Antares
 rating: 9.4
 files:  # add-files-here
@@ -1051,7 +1051,7 @@ type: gallery
 site: sa
 url: https://www.sexart.com/model/grace-c/gallery/20130903/ESATEN
 cast: Grace C; https://www.sexart.com/model/grace-c;
-releasedate: 2013-09-03
+released: 2013-09-03
 photographer: Koenart
 rating: 9.2
 files:  # add-files-here
@@ -1066,7 +1066,7 @@ type: gallery
 site: sa
 url: https://www.sexart.com/model/ryanel-a/gallery/20130902/LORIDA
 cast: Ryanel A; https://www.sexart.com/model/ryanel-a;
-releasedate: 2013-09-02
+released: 2013-09-02
 photographer: Vicente Silva
 rating: 9.3
 files:  # add-files-here
@@ -1082,7 +1082,7 @@ site: sa
 url: https://www.sexart.com/model/dido-a-and-eufrat-mai/gallery/20130831/VERTIGO
 cast: Dido A; https://www.sexart.com/model/dido-a;
 cast: Eufrat Mai; https://www.sexart.com/model/eufrat-mai;
-releasedate: 2013-08-31
+released: 2013-08-31
 photographer: Duliamo Ergacia
 rating: 9.3
 files:  # add-files-here
@@ -1097,7 +1097,7 @@ type: gallery
 site: sa
 url: https://www.sexart.com/model/paula-shy/gallery/20130829/MINA
 cast: Paula Shy; https://www.sexart.com/model/paula-shy;
-releasedate: 2013-08-29
+released: 2013-08-29
 photographer: Deltagamma
 rating: 9.2
 files:  # add-files-here
@@ -1113,7 +1113,7 @@ site: sa
 url: https://www.sexart.com/model/michelle-h-and-jon/gallery/20130827/BATENDO
 cast: Michelle H; https://www.sexart.com/model/michelle-h;
 cast: Jon; https://www.sexart.com/model/jon;
-releasedate: 2013-08-27
+released: 2013-08-27
 photographer: Koenart
 rating: 9.3
 files:  # add-files-here
@@ -1128,7 +1128,7 @@ type: gallery
 site: sa
 url: https://www.sexart.com/model/caprice-a/gallery/20130826/CONLIDO
 cast: Caprice A; https://www.sexart.com/model/caprice-a;
-releasedate: 2013-08-26
+released: 2013-08-26
 photographer: Koenart
 rating: 9.4
 files:  # add-files-here
@@ -1144,7 +1144,7 @@ site: sa
 url: https://www.sexart.com/model/milana-j-and-vanda-b/gallery/20130824/PRAVDA
 cast: Milana J; https://www.sexart.com/model/milana-j;
 cast: Vanda B; https://www.sexart.com/model/vanda-b;
-releasedate: 2013-08-24
+released: 2013-08-24
 photographer: Catherine
 rating: 9.1
 files:  # add-files-here
@@ -1160,7 +1160,7 @@ site: sa
 url: https://www.sexart.com/model/ennu-a-and-arian/gallery/20130822/PRESENTING_GRETA
 cast: Ennu A; https://www.sexart.com/model/ennu-a;
 cast: Arian; https://www.sexart.com/model/arian;
-releasedate: 2013-08-22
+released: 2013-08-22
 photographer: Matt Hathaway
 rating: 9.0
 files:  # add-files-here
@@ -1176,7 +1176,7 @@ site: sa
 url: https://www.sexart.com/model/talinka-a-and-david/gallery/20130820/PRESENTING_TALINKA
 cast: Talinka A; https://www.sexart.com/model/talinka-a;
 cast: David; https://www.sexart.com/model/david;
-releasedate: 2013-08-20
+released: 2013-08-20
 photographer: Albert Varin
 rating: 9.1
 files:  # add-files-here
@@ -1191,7 +1191,7 @@ type: gallery
 site: sa
 url: https://www.sexart.com/model/nadira-a/gallery/20130819/GYNEKA
 cast: Nadira A; https://www.sexart.com/model/nadira-a;
-releasedate: 2013-08-19
+released: 2013-08-19
 photographer: Marco Simoncelli
 rating: 9.1
 files:  # add-files-here
@@ -1206,7 +1206,7 @@ type: gallery
 site: sa
 url: https://www.sexart.com/model/marica-a/gallery/20130817/HIGH_HEELED
 cast: Marica A; https://www.sexart.com/model/marica-a;
-releasedate: 2013-08-17
+released: 2013-08-17
 photographer: Vicente Silva
 rating: 9.2
 files:  # add-files-here
@@ -1221,7 +1221,7 @@ type: gallery
 site: sa
 url: https://www.sexart.com/model/lauren-crist/gallery/20130815/RUBINIA
 cast: Lauren Crist; https://www.sexart.com/model/lauren-crist;
-releasedate: 2013-08-15
+released: 2013-08-15
 photographer: Don Caravaggio
 rating: 9.2
 files:  # add-files-here
@@ -1236,7 +1236,7 @@ type: gallery
 site: sa
 url: https://www.sexart.com/model/dido-a/gallery/20130813/LEITA
 cast: Dido A; https://www.sexart.com/model/dido-a;
-releasedate: 2013-08-13
+released: 2013-08-13
 photographer: Walter Schotten
 rating: 9.4
 files:  # add-files-here
@@ -1251,7 +1251,7 @@ type: gallery
 site: sa
 url: https://www.sexart.com/model/emily-bloom/gallery/20130812/EPOCH
 cast: Emily Bloom; https://www.sexart.com/model/emily-bloom;
-releasedate: 2013-08-12
+released: 2013-08-12
 photographer: Antares
 rating: 9.3
 files:  # add-files-here
@@ -1266,7 +1266,7 @@ type: gallery
 site: sa
 url: https://www.sexart.com/model/aprilia-b/gallery/20130810/PRINTEMPS
 cast: Aprilia B; https://www.sexart.com/model/aprilia-b;
-releasedate: 2013-08-10
+released: 2013-08-10
 photographer: Marco Simoncelli
 rating: 9.0
 files:  # add-files-here
@@ -1281,7 +1281,7 @@ type: gallery
 site: sa
 url: https://www.sexart.com/model/taissia-a/gallery/20130808/VITROE
 cast: Taissia A; https://www.sexart.com/model/taissia-a;
-releasedate: 2013-08-08
+released: 2013-08-08
 photographer: Alan Forza
 rating: 9.4
 files:  # add-files-here
@@ -1296,7 +1296,7 @@ type: gallery
 site: sa
 url: https://www.sexart.com/model/tess-b/gallery/20130806/TANGIBLE
 cast: Tess B; https://www.sexart.com/model/tess-b;
-releasedate: 2013-08-06
+released: 2013-08-06
 photographer: Koenart
 rating: 9.2
 files:  # add-files-here
@@ -1312,7 +1312,7 @@ site: sa
 url: https://www.sexart.com/model/beata-b-and-denis-a/gallery/20130805/FANDADO
 cast: Beata B; https://www.sexart.com/model/beata-b;
 cast: Denis A; https://www.sexart.com/model/denis-a;
-releasedate: 2013-08-05
+released: 2013-08-05
 photographer: Koenart
 rating: 8.9
 files:  # add-files-here
@@ -1327,7 +1327,7 @@ type: gallery
 site: sa
 url: https://www.sexart.com/model/milena-d/gallery/20130803/LISTRADO
 cast: Milena D; https://www.sexart.com/model/milena-d;
-releasedate: 2013-08-03
+released: 2013-08-03
 photographer: Antares
 rating: 9.6
 files:  # add-files-here
@@ -1342,7 +1342,7 @@ type: gallery
 site: sa
 url: https://www.sexart.com/model/loretta-a/gallery/20130801/CARICIA
 cast: Loretta A; https://www.sexart.com/model/loretta-a;
-releasedate: 2013-08-01
+released: 2013-08-01
 photographer: Vicente Silva
 rating: 9.5
 files:  # add-files-here
@@ -1358,7 +1358,7 @@ site: sa
 url: https://www.sexart.com/model/soko-a-and-york-a/gallery/20130730/POTENCA
 cast: Soko A; https://www.sexart.com/model/soko-a;
 cast: York A; https://www.sexart.com/model/york-a;
-releasedate: 2013-07-30
+released: 2013-07-30
 photographer: Matt Hathaway
 rating: 8.8
 files:  # add-files-here
@@ -1373,7 +1373,7 @@ type: gallery
 site: sa
 url: https://www.sexart.com/model/kitana-a/gallery/20130729/NEPUETT
 cast: Kitana A; https://www.sexart.com/model/kitana-a;
-releasedate: 2013-07-29
+released: 2013-07-29
 photographer: Albert Varin
 rating: 9.2
 files:  # add-files-here
@@ -1388,7 +1388,7 @@ type: gallery
 site: sa
 url: https://www.sexart.com/model/lorena-b/gallery/20130727/VIRIDE
 cast: Lorena B; https://www.sexart.com/model/lorena-b;
-releasedate: 2013-07-27
+released: 2013-07-27
 photographer: Don Caravaggio
 rating: 9.6
 files:  # add-files-here
@@ -1403,7 +1403,7 @@ type: gallery
 site: sa
 url: https://www.sexart.com/model/miela-a/gallery/20130725/LIGNEAM
 cast: Miela A; https://www.sexart.com/model/miela-a;
-releasedate: 2013-07-25
+released: 2013-07-25
 photographer: Koenart
 rating: 9.4
 files:  # add-files-here
@@ -1418,7 +1418,7 @@ type: gallery
 site: sa
 url: https://www.sexart.com/model/katya-ac/gallery/20130723/RED_ROSE
 cast: Katya AC; https://www.sexart.com/model/katya-ac;
-releasedate: 2013-07-23
+released: 2013-07-23
 photographer: Marco Simoncelli
 rating: 9.2
 files:  # add-files-here
@@ -1434,7 +1434,7 @@ site: sa
 url: https://www.sexart.com/model/salomja-a-and-kloffina-a/gallery/20130722/PRESENTING_SALOMJA
 cast: Salomja A; https://www.sexart.com/model/salomja-a;
 cast: Kloffina A; https://www.sexart.com/model/kloffina-a;
-releasedate: 2013-07-22
+released: 2013-07-22
 photographer: Matt Hathaway
 rating: 9.0
 files:  # add-files-here
@@ -1449,7 +1449,7 @@ type: gallery
 site: sa
 url: https://www.sexart.com/model/bella-c/gallery/20130720/CREACIO
 cast: Bella C; https://www.sexart.com/model/bella-c;
-releasedate: 2013-07-20
+released: 2013-07-20
 photographer: Koenart
 rating: 9.2
 files:  # add-files-here
@@ -1465,7 +1465,7 @@ site: sa
 url: https://www.sexart.com/model/vanda-b-and-milana-j/gallery/20130718/AROMATA
 cast: Vanda B; https://www.sexart.com/model/vanda-b;
 cast: Milana J; https://www.sexart.com/model/milana-j;
-releasedate: 2013-07-18
+released: 2013-07-18
 photographer: Catherine
 rating: 9.1
 files:  # add-files-here
@@ -1480,7 +1480,7 @@ type: gallery
 site: sa
 url: https://www.sexart.com/model/ennu-a/gallery/20130716/SPIRANTE
 cast: Ennu A; https://www.sexart.com/model/ennu-a;
-releasedate: 2013-07-16
+released: 2013-07-16
 photographer: Albert Varin
 rating: 9.1
 files:  # add-files-here
@@ -1496,7 +1496,7 @@ site: sa
 url: https://www.sexart.com/model/tracy-a-and-michelle-h/gallery/20130715/AMBRE
 cast: Tracy A; https://www.sexart.com/model/tracy-a;
 cast: Michelle H; https://www.sexart.com/model/michelle-h;
-releasedate: 2013-07-15
+released: 2013-07-15
 photographer: Koenart
 rating: 9.3
 files:  # add-files-here
@@ -1511,7 +1511,7 @@ type: gallery
 site: sa
 url: https://www.sexart.com/model/paula-shy/gallery/20130714/SOULFUL
 cast: Paula Shy; https://www.sexart.com/model/paula-shy;
-releasedate: 2013-07-14
+released: 2013-07-14
 photographer: Deltagamma
 rating: 9.4
 files:  # add-files-here
@@ -1527,7 +1527,7 @@ site: sa
 url: https://www.sexart.com/model/verona-a-and-delfina-a/gallery/20130711/TOCCARE
 cast: Verona A; https://www.sexart.com/model/verona-a;
 cast: Delfina A; https://www.sexart.com/model/delfina-a;
-releasedate: 2013-07-11
+released: 2013-07-11
 photographer: Matt Hathaway
 rating: 8.8
 files:  # add-files-here
@@ -1542,7 +1542,7 @@ type: gallery
 site: sa
 url: https://www.sexart.com/model/katherine-a/gallery/20130709/FYSIKA
 cast: Katherine A; https://www.sexart.com/model/katherine-a;
-releasedate: 2013-07-09
+released: 2013-07-09
 photographer: Walter Schotten
 rating: 9.5
 files:  # add-files-here
@@ -1557,7 +1557,7 @@ type: gallery
 site: sa
 url: https://www.sexart.com/model/grace-c/gallery/20130708/APORRITO
 cast: Grace C; https://www.sexart.com/model/grace-c;
-releasedate: 2013-07-08
+released: 2013-07-08
 photographer: Don Caravaggio
 rating: 9.4
 files:  # add-files-here
@@ -1572,7 +1572,7 @@ type: gallery
 site: sa
 url: https://www.sexart.com/model/diana-g/gallery/20130707/ORISMO
 cast: Diana G; https://www.sexart.com/model/diana-g;
-releasedate: 2013-07-07
+released: 2013-07-07
 photographer: Koenart
 rating: 9.1
 files:  # add-files-here
@@ -1587,7 +1587,7 @@ type: gallery
 site: sa
 url: https://www.sexart.com/model/lauren-crist/gallery/20130705/CLASSY
 cast: Lauren Crist; https://www.sexart.com/model/lauren-crist;
-releasedate: 2013-07-05
+released: 2013-07-05
 photographer: Deltagamma
 rating: 9.3
 files:  # add-files-here
@@ -1602,7 +1602,7 @@ type: gallery
 site: sa
 url: https://www.sexart.com/model/blue-angel/gallery/20130703/EMPELLA
 cast: Blue Angel; https://www.sexart.com/model/blue-angel;
-releasedate: 2013-07-03
+released: 2013-07-03
 photographer: Koenart
 rating: 9.1
 files:  # add-files-here
@@ -1618,7 +1618,7 @@ site: sa
 url: https://www.sexart.com/model/patritcy-a-and-beata-b/gallery/20130701/NECTAR
 cast: Patritcy A; https://www.sexart.com/model/patritcy-a;
 cast: Beata B; https://www.sexart.com/model/beata-b;
-releasedate: 2013-07-01
+released: 2013-07-01
 photographer: Koenart
 rating: 9.4
 files:  # add-files-here
@@ -1633,7 +1633,7 @@ type: gallery
 site: sa
 url: https://www.sexart.com/model/candice-luka/gallery/20130630/RIMONTA
 cast: Candice Luka; https://www.sexart.com/model/candice-luka;
-releasedate: 2013-06-30
+released: 2013-06-30
 photographer: Don Caravaggio
 rating: 9.4
 files:  # add-files-here
@@ -1648,7 +1648,7 @@ type: gallery
 site: sa
 url: https://www.sexart.com/model/nastya-k/gallery/20130628/SFERA
 cast: Nastya K; https://www.sexart.com/model/nastya-k;
-releasedate: 2013-06-28
+released: 2013-06-28
 photographer: Catherine
 rating: 9.4
 files:  # add-files-here
@@ -1663,7 +1663,7 @@ type: gallery
 site: sa
 url: https://www.sexart.com/model/melena-a/gallery/20130626/GORGONA
 cast: Melena A; https://www.sexart.com/model/melena-a;
-releasedate: 2013-06-26
+released: 2013-06-26
 photographer: Walter Schotten
 rating: 9.5
 files:  # add-files-here
@@ -1679,7 +1679,7 @@ site: sa
 url: https://www.sexart.com/model/michelle-h-and-jon/gallery/20130624/ERETHIZO
 cast: Michelle H; https://www.sexart.com/model/michelle-h;
 cast: Jon; https://www.sexart.com/model/jon;
-releasedate: 2013-06-24
+released: 2013-06-24
 photographer: Koenart
 rating: 9.3
 files:  # add-files-here
@@ -1694,7 +1694,7 @@ type: gallery
 site: sa
 url: https://www.sexart.com/model/margo-g/gallery/20130623/ANASA
 cast: Margo G; https://www.sexart.com/model/margo-g;
-releasedate: 2013-06-23
+released: 2013-06-23
 photographer: Catherine
 rating: 9.0
 files:  # add-files-here
@@ -1710,7 +1710,7 @@ site: sa
 url: https://www.sexart.com/model/nika-n-and-milena-d/gallery/20130621/EMPREGO
 cast: Nika N; https://www.sexart.com/model/nika-n;
 cast: Milena D; https://www.sexart.com/model/milena-d;
-releasedate: 2013-06-21
+released: 2013-06-21
 photographer: Antares
 rating: 9.3
 files:  # add-files-here
@@ -1725,7 +1725,7 @@ type: gallery
 site: sa
 url: https://www.sexart.com/model/mia-sollis/gallery/20130619/DEVOTED
 cast: Mia Sollis; https://www.sexart.com/model/mia-sollis;
-releasedate: 2013-06-19
+released: 2013-06-19
 photographer: Koenart
 rating: 9.3
 files:  # add-files-here
@@ -1740,7 +1740,7 @@ type: gallery
 site: sa
 url: https://www.sexart.com/model/dido-a/gallery/20130617/VELLAMO
 cast: Dido A; https://www.sexart.com/model/dido-a;
-releasedate: 2013-06-17
+released: 2013-06-17
 photographer: Don Caravaggio
 rating: 9.6
 files:  # add-files-here
@@ -1755,7 +1755,7 @@ type: gallery
 site: sa
 url: https://www.sexart.com/model/caprice-a/gallery/20130616/PROPORTZIO
 cast: Caprice A; https://www.sexart.com/model/caprice-a;
-releasedate: 2013-06-16
+released: 2013-06-16
 photographer: Koenart
 rating: 9.4
 files:  # add-files-here
@@ -1770,7 +1770,7 @@ type: gallery
 site: sa
 url: https://www.sexart.com/model/miela-a/gallery/20130614/MENANDE
 cast: Miela A; https://www.sexart.com/model/miela-a;
-releasedate: 2013-06-14
+released: 2013-06-14
 photographer: Don Caravaggio
 rating: 9.5
 files:  # add-files-here
@@ -1786,7 +1786,7 @@ site: sa
 url: https://www.sexart.com/model/kleo-a-and-mark-a/gallery/20130611/ENTICE
 cast: Kleo A; https://www.sexart.com/model/kleo-a;
 cast: Mark A; https://www.sexart.com/model/mark-a;
-releasedate: 2013-06-11
+released: 2013-06-11
 photographer: Matt Hathaway
 rating: 9.1
 files:  # add-files-here
@@ -1801,7 +1801,7 @@ type: gallery
 site: sa
 url: https://www.sexart.com/model/jaime-a/gallery/20130610/DROSERO
 cast: Jaime A; https://www.sexart.com/model/jaime-a;
-releasedate: 2013-06-10
+released: 2013-06-10
 photographer: Alan Forza
 rating: 9.4
 files:  # add-files-here
@@ -1816,7 +1816,7 @@ type: gallery
 site: sa
 url: https://www.sexart.com/model/loretta-a/gallery/20130609/NERAIDA
 cast: Loretta A; https://www.sexart.com/model/loretta-a;
-releasedate: 2013-06-09
+released: 2013-06-09
 photographer: Vicente Silva
 rating: 9.5
 files:  # add-files-here
@@ -1831,7 +1831,7 @@ type: gallery
 site: sa
 url: https://www.sexart.com/model/aprilia-a/gallery/20130607/AGERIAN
 cast: Aprilia A; https://www.sexart.com/model/aprilia-a;
-releasedate: 2013-06-07
+released: 2013-06-07
 photographer: Koenart
 rating: 9.2
 files:  # add-files-here
@@ -1846,7 +1846,7 @@ type: gallery
 site: sa
 url: https://www.sexart.com/model/marica-a/gallery/20130605/SENTIDO
 cast: Marica A; https://www.sexart.com/model/marica-a;
-releasedate: 2013-06-05
+released: 2013-06-05
 photographer: Antares
 rating: 8.9
 files:  # add-files-here
@@ -1861,7 +1861,7 @@ type: gallery
 site: sa
 url: https://www.sexart.com/model/susana-c/gallery/20130603/POTESTAS
 cast: Susana C; https://www.sexart.com/model/susana-c;
-releasedate: 2013-06-03
+released: 2013-06-03
 photographer: Catherine
 rating: 9.1
 files:  # add-files-here
@@ -1876,7 +1876,7 @@ type: gallery
 site: sa
 url: https://www.sexart.com/model/lorena-b/gallery/20130602/COURANT
 cast: Lorena B; https://www.sexart.com/model/lorena-b;
-releasedate: 2013-06-02
+released: 2013-06-02
 photographer: Don Caravaggio
 rating: 9.6
 files:  # add-files-here
@@ -1892,7 +1892,7 @@ site: sa
 url: https://www.sexart.com/model/delfina-a-and-verona-a/gallery/20130531/PRESENTING_DELFINA
 cast: Delfina A; https://www.sexart.com/model/delfina-a;
 cast: Verona A; https://www.sexart.com/model/verona-a;
-releasedate: 2013-05-31
+released: 2013-05-31
 photographer: Matt Hathaway
 rating: 9.0
 files:  # add-files-here
@@ -1907,7 +1907,7 @@ type: gallery
 site: sa
 url: https://www.sexart.com/model/diana-g/gallery/20130529/FLOVIOS
 cast: Diana G; https://www.sexart.com/model/diana-g;
-releasedate: 2013-05-29
+released: 2013-05-29
 photographer: Koenart
 rating: 9.3
 files:  # add-files-here
@@ -1922,7 +1922,7 @@ type: gallery
 site: sa
 url: https://www.sexart.com/model/tess-b/gallery/20130527/PRINCEZA
 cast: Tess B; https://www.sexart.com/model/tess-b;
-releasedate: 2013-05-27
+released: 2013-05-27
 photographer: Koenart
 rating: 9.1
 files:  # add-files-here
@@ -1938,7 +1938,7 @@ site: sa
 url: https://www.sexart.com/model/michelle-h-and-norma-joel/gallery/20130524/INMERGO
 cast: Michelle H; https://www.sexart.com/model/michelle-h;
 cast: Norma Joel; https://www.sexart.com/model/norma-joel;
-releasedate: 2013-05-24
+released: 2013-05-24
 photographer: Marco Simoncelli
 rating: 9.1
 files:  # add-files-here
@@ -1954,7 +1954,7 @@ site: sa
 url: https://www.sexart.com/model/allan-a-and-kloffina-a/gallery/20130522/PRESENTING_KLOFFINA
 cast: Allan A; https://www.sexart.com/model/allan-a;
 cast: Kloffina A; https://www.sexart.com/model/kloffina-a;
-releasedate: 2013-05-22
+released: 2013-05-22
 photographer: Matt Hathaway
 rating: 9.1
 files:  # add-files-here
@@ -1969,7 +1969,7 @@ type: gallery
 site: sa
 url: https://www.sexart.com/model/nika-n/gallery/20130520/KALIMERA
 cast: Nika N; https://www.sexart.com/model/nika-n;
-releasedate: 2013-05-20
+released: 2013-05-20
 photographer: Antares
 rating: 9.3
 files:  # add-files-here
@@ -1984,7 +1984,7 @@ type: gallery
 site: sa
 url: https://www.sexart.com/model/candice-luka/gallery/20130519/GENTAR
 cast: Candice Luka; https://www.sexart.com/model/candice-luka;
-releasedate: 2013-05-19
+released: 2013-05-19
 photographer: Deltagamma
 rating: 9.5
 files:  # add-files-here
@@ -2000,7 +2000,7 @@ site: sa
 url: https://www.sexart.com/model/milena-d-and-emily-bloom/gallery/20130517/ESCULPIDO
 cast: Milena D; https://www.sexart.com/model/milena-d;
 cast: Emily Bloom; https://www.sexart.com/model/emily-bloom;
-releasedate: 2013-05-17
+released: 2013-05-17
 photographer: Antares
 rating: 9.5
 files:  # add-files-here
@@ -2015,7 +2015,7 @@ type: gallery
 site: sa
 url: https://www.sexart.com/model/bella-c/gallery/20130515/POLTRONA
 cast: Bella C; https://www.sexart.com/model/bella-c;
-releasedate: 2013-05-15
+released: 2013-05-15
 photographer: Koenart
 rating: 9.2
 files:  # add-files-here
@@ -2030,7 +2030,7 @@ type: gallery
 site: sa
 url: https://www.sexart.com/model/ryanel-a/gallery/20130513/KRISTALO
 cast: Ryanel A; https://www.sexart.com/model/ryanel-a;
-releasedate: 2013-05-13
+released: 2013-05-13
 photographer: Arkisi
 rating: 9.3
 files:  # add-files-here
@@ -2046,7 +2046,7 @@ site: sa
 url: https://www.sexart.com/model/vanda-b-and-milana-j/gallery/20130512/AFECTO
 cast: Vanda B; https://www.sexart.com/model/vanda-b;
 cast: Milana J; https://www.sexart.com/model/milana-j;
-releasedate: 2013-05-12
+released: 2013-05-12
 photographer: Catherine
 rating: 9.2
 files:  # add-files-here
@@ -2061,7 +2061,7 @@ type: gallery
 site: sa
 url: https://www.sexart.com/model/katherine-a/gallery/20130510/ONIRO
 cast: Katherine A; https://www.sexart.com/model/katherine-a;
-releasedate: 2013-05-10
+released: 2013-05-10
 photographer: Walter Schotten
 rating: 9.5
 files:  # add-files-here
@@ -2076,7 +2076,7 @@ type: gallery
 site: sa
 url: https://www.sexart.com/model/brandy-a/gallery/20130508/MONACHO
 cast: Brandy A; https://www.sexart.com/model/brandy-a;
-releasedate: 2013-05-08
+released: 2013-05-08
 photographer: Koenart
 rating: 9.1
 files:  # add-files-here
@@ -2091,7 +2091,7 @@ type: gallery
 site: sa
 url: https://www.sexart.com/model/silvie-deluxe/gallery/20130506/APPELLO
 cast: Silvie Deluxe; https://www.sexart.com/model/silvie-deluxe;
-releasedate: 2013-05-06
+released: 2013-05-06
 photographer: Don Caravaggio
 rating: 9.5
 files:  # add-files-here
@@ -2107,7 +2107,7 @@ site: sa
 url: https://www.sexart.com/model/verona-a-and-kleo-a/gallery/20130505/CUIDAR
 cast: Verona A; https://www.sexart.com/model/verona-a;
 cast: Kleo A; https://www.sexart.com/model/kleo-a;
-releasedate: 2013-05-05
+released: 2013-05-05
 photographer: Matt Hathaway
 rating: 8.8
 files:  # add-files-here
@@ -2122,7 +2122,7 @@ type: gallery
 site: sa
 url: https://www.sexart.com/model/denisa-heaven/gallery/20130503/SKALES
 cast: Denisa Heaven; https://www.sexart.com/model/denisa-heaven;
-releasedate: 2013-05-03
+released: 2013-05-03
 photographer: Koenart
 rating: 9.1
 files:  # add-files-here
@@ -2137,7 +2137,7 @@ type: gallery
 site: sa
 url: https://www.sexart.com/model/galina-a/gallery/20130501/VOLONTE
 cast: Galina A; https://www.sexart.com/model/galina-a;
-releasedate: 2013-05-01
+released: 2013-05-01
 photographer: Walter Schotten
 rating: 9.1
 files:  # add-files-here
@@ -2152,7 +2152,7 @@ type: gallery
 site: sa
 url: https://www.sexart.com/model/connie-carter/gallery/20130429/FINIKA
 cast: Connie Carter; https://www.sexart.com/model/connie-carter;
-releasedate: 2013-04-29
+released: 2013-04-29
 photographer: Don Caravaggio
 rating: 9.4
 files:  # add-files-here
@@ -2168,7 +2168,7 @@ site: sa
 url: https://www.sexart.com/model/lily-e-and-denis-a/gallery/20130428/PROTHIMO
 cast: Lily E; https://www.sexart.com/model/lily-e;
 cast: Denis A; https://www.sexart.com/model/denis-a;
-releasedate: 2013-04-28
+released: 2013-04-28
 photographer: Koenart
 rating: 8.8
 files:  # add-files-here
@@ -2183,7 +2183,7 @@ type: gallery
 site: sa
 url: https://www.sexart.com/model/night-a/gallery/20130426/PERSONAL
 cast: Night A; https://www.sexart.com/model/night-a;
-releasedate: 2013-04-26
+released: 2013-04-26
 photographer: Alan Forza
 rating: 9.4
 files:  # add-files-here
@@ -2198,7 +2198,7 @@ type: gallery
 site: sa
 url: https://www.sexart.com/model/valeria-a/gallery/20130424/SCANDAL
 cast: Valeria A; https://www.sexart.com/model/valeria-a;
-releasedate: 2013-04-24
+released: 2013-04-24
 photographer: Koenart
 rating: 9.4
 files:  # add-files-here
@@ -2213,7 +2213,7 @@ type: gallery
 site: sa
 url: https://www.sexart.com/model/ennu-a/gallery/20130422/PENETRADO
 cast: Ennu A; https://www.sexart.com/model/ennu-a;
-releasedate: 2013-04-22
+released: 2013-04-22
 photographer: Albert Varin
 rating: 9.4
 files:  # add-files-here
@@ -2228,7 +2228,7 @@ type: gallery
 site: sa
 url: https://www.sexart.com/model/blue-angel/gallery/20130421/INTENTIONS
 cast: Blue Angel; https://www.sexart.com/model/blue-angel;
-releasedate: 2013-04-21
+released: 2013-04-21
 photographer: Koenart
 rating: 9.2
 files:  # add-files-here
@@ -2244,7 +2244,7 @@ site: sa
 url: https://www.sexart.com/model/lorena-b-and-whitney-conroy/gallery/20130419/SEXUELLE
 cast: Lorena B; https://www.sexart.com/model/lorena-b;
 cast: Whitney Conroy; https://www.sexart.com/model/whitney-conroy;
-releasedate: 2013-04-19
+released: 2013-04-19
 photographer: Don Caravaggio
 rating: 9.5
 files:  # add-files-here
@@ -2259,7 +2259,7 @@ type: gallery
 site: sa
 url: https://www.sexart.com/model/margo-g/gallery/20130417/PRESENTING_MARGO
 cast: Margo G; https://www.sexart.com/model/margo-g;
-releasedate: 2013-04-17
+released: 2013-04-17
 photographer: Catherine
 rating: 9.2
 files:  # add-files-here
@@ -2275,7 +2275,7 @@ site: sa
 url: https://www.sexart.com/model/tofana-a-and-subil-a/gallery/20130415/SOLACE
 cast: Tofana A; https://www.sexart.com/model/tofana-a;
 cast: Subil A; https://www.sexart.com/model/subil-a;
-releasedate: 2013-04-15
+released: 2013-04-15
 photographer: Albert Varin
 rating: 8.9
 files:  # add-files-here
@@ -2290,7 +2290,7 @@ type: gallery
 site: sa
 url: https://www.sexart.com/model/bansari-a/gallery/20130414/PROVOKE
 cast: Bansari A; https://www.sexart.com/model/bansari-a;
-releasedate: 2013-04-14
+released: 2013-04-14
 photographer: Antares
 rating: 9.3
 files:  # add-files-here
@@ -2305,7 +2305,7 @@ type: gallery
 site: sa
 url: https://www.sexart.com/model/sinia-a/gallery/20130412/MAVROS
 cast: Sinia A; https://www.sexart.com/model/sinia-a;
-releasedate: 2013-04-12
+released: 2013-04-12
 photographer: Vicente Silva
 rating: 9.3
 files:  # add-files-here
@@ -2320,7 +2320,7 @@ type: gallery
 site: sa
 url: https://www.sexart.com/model/miela-a/gallery/20130410/CONTENIDO
 cast: Miela A; https://www.sexart.com/model/miela-a;
-releasedate: 2013-04-10
+released: 2013-04-10
 photographer: Don Caravaggio
 rating: 9.5
 files:  # add-files-here
@@ -2335,7 +2335,7 @@ type: gallery
 site: sa
 url: https://www.sexart.com/model/marica-a/gallery/20130408/LEGATO
 cast: Marica A; https://www.sexart.com/model/marica-a;
-releasedate: 2013-04-08
+released: 2013-04-08
 photographer: Vicente Silva
 rating: 9.2
 files:  # add-files-here
@@ -2350,7 +2350,7 @@ type: gallery
 site: sa
 url: https://www.sexart.com/model/grace-c/gallery/20130407/DOMATIO
 cast: Grace C; https://www.sexart.com/model/grace-c;
-releasedate: 2013-04-07
+released: 2013-04-07
 photographer: Deltagamma
 rating: 9.4
 files:  # add-files-here
@@ -2365,7 +2365,7 @@ type: gallery
 site: sa
 url: https://www.sexart.com/model/loretta-a/gallery/20130405/SALON
 cast: Loretta A; https://www.sexart.com/model/loretta-a;
-releasedate: 2013-04-05
+released: 2013-04-05
 photographer: Vicente Silva
 rating: 9.5
 files:  # add-files-here
@@ -2380,7 +2380,7 @@ type: gallery
 site: sa
 url: https://www.sexart.com/model/mia-sollis/gallery/20130403/SONNETTS
 cast: Mia Sollis; https://www.sexart.com/model/mia-sollis;
-releasedate: 2013-04-03
+released: 2013-04-03
 photographer: Deltagamma
 rating: 9.5
 files:  # add-files-here
@@ -2396,7 +2396,7 @@ site: sa
 url: https://www.sexart.com/model/nastya-k-and-susana-c/gallery/20130401/TENEUR
 cast: Nastya K; https://www.sexart.com/model/nastya-k;
 cast: Susana C; https://www.sexart.com/model/susana-c;
-releasedate: 2013-04-01
+released: 2013-04-01
 photographer: Catherine
 rating: 9.3
 files:  # add-files-here
@@ -2411,7 +2411,7 @@ type: gallery
 site: sa
 url: https://www.sexart.com/model/caprice-a/gallery/20130331/BEREZIA
 cast: Caprice A; https://www.sexart.com/model/caprice-a;
-releasedate: 2013-03-31
+released: 2013-03-31
 photographer: Don Caravaggio
 rating: 9.6
 files:  # add-files-here
@@ -2427,7 +2427,7 @@ site: sa
 url: https://www.sexart.com/model/kleo-a-and-mark-a/gallery/20130329/SAULE
 cast: Kleo A; https://www.sexart.com/model/kleo-a;
 cast: Mark A; https://www.sexart.com/model/mark-a;
-releasedate: 2013-03-29
+released: 2013-03-29
 photographer: Matt Hathaway
 rating: 8.9
 files:  # add-files-here
@@ -2442,7 +2442,7 @@ type: gallery
 site: sa
 url: https://www.sexart.com/model/candice-luka/gallery/20130327/JACINTO
 cast: Candice Luka; https://www.sexart.com/model/candice-luka;
-releasedate: 2013-03-27
+released: 2013-03-27
 photographer: Deltagamma
 rating: 9.4
 files:  # add-files-here
@@ -2457,7 +2457,7 @@ type: gallery
 site: sa
 url: https://www.sexart.com/model/dido-a/gallery/20130325/CANDELA
 cast: Dido A; https://www.sexart.com/model/dido-a;
-releasedate: 2013-03-25
+released: 2013-03-25
 photographer: Walter Schotten
 rating: 9.5
 files:  # add-files-here
@@ -2473,7 +2473,7 @@ site: sa
 url: https://www.sexart.com/model/verona-a-and-harry-a/gallery/20130324/PRESENTING_VERONA
 cast: Verona A; https://www.sexart.com/model/verona-a;
 cast: Harry A; https://www.sexart.com/model/harry-a;
-releasedate: 2013-03-24
+released: 2013-03-24
 photographer: Matt Hathaway
 rating: 8.9
 files:  # add-files-here
@@ -2488,7 +2488,7 @@ type: gallery
 site: sa
 url: https://www.sexart.com/model/melena-a/gallery/20130322/TIGRESS
 cast: Melena A; https://www.sexart.com/model/melena-a;
-releasedate: 2013-03-22
+released: 2013-03-22
 photographer: Walter Schotten
 rating: 9.5
 files:  # add-files-here
@@ -2503,7 +2503,7 @@ type: gallery
 site: sa
 url: https://www.sexart.com/model/lara-d/gallery/20130320/PAVANA
 cast: Lara D; https://www.sexart.com/model/lara-d;
-releasedate: 2013-03-20
+released: 2013-03-20
 photographer: Antares
 rating: 9.1
 files:  # add-files-here
@@ -2518,7 +2518,7 @@ type: gallery
 site: sa
 url: https://www.sexart.com/model/silvie-deluxe/gallery/20130318/LAGNO
 cast: Silvie Deluxe; https://www.sexart.com/model/silvie-deluxe;
-releasedate: 2013-03-18
+released: 2013-03-18
 photographer: Don Caravaggio
 rating: 9.5
 files:  # add-files-here
@@ -2533,7 +2533,7 @@ type: gallery
 site: sa
 url: https://www.sexart.com/model/katherine-a/gallery/20130317/EROMENI
 cast: Katherine A; https://www.sexart.com/model/katherine-a;
-releasedate: 2013-03-17
+released: 2013-03-17
 photographer: Walter Schotten
 rating: 9.5
 files:  # add-files-here
@@ -2548,7 +2548,7 @@ type: gallery
 site: sa
 url: https://www.sexart.com/model/vanda-b/gallery/20130315/PEARLS
 cast: Vanda B; https://www.sexart.com/model/vanda-b;
-releasedate: 2013-03-15
+released: 2013-03-15
 photographer: Catherine
 rating: 9.5
 files:  # add-files-here
@@ -2563,7 +2563,7 @@ type: gallery
 site: sa
 url: https://www.sexart.com/model/macy-b/gallery/20130313/RUMORS
 cast: Macy B; https://www.sexart.com/model/macy-b;
-releasedate: 2013-03-13
+released: 2013-03-13
 photographer: Vicente Silva
 rating: 9.5
 files:  # add-files-here
@@ -2578,7 +2578,7 @@ type: gallery
 site: sa
 url: https://www.sexart.com/model/whitney-conroy/gallery/20130311/PRESENTING_NESSY
 cast: Whitney Conroy; https://www.sexart.com/model/whitney-conroy;
-releasedate: 2013-03-11
+released: 2013-03-11
 photographer: Deltagamma
 rating: 9.2
 files:  # add-files-here
@@ -2593,7 +2593,7 @@ type: gallery
 site: sa
 url: https://www.sexart.com/model/milena-d/gallery/20130310/AKTINES
 cast: Milena D; https://www.sexart.com/model/milena-d;
-releasedate: 2013-03-10
+released: 2013-03-10
 photographer: Antares
 rating: 9.6
 files:  # add-files-here
@@ -2608,7 +2608,7 @@ type: gallery
 site: sa
 url: https://www.sexart.com/model/diana-g/gallery/20130308/ESNATU
 cast: Diana G; https://www.sexart.com/model/diana-g;
-releasedate: 2013-03-08
+released: 2013-03-08
 photographer: Koenart
 rating: 9.2
 files:  # add-files-here
@@ -2623,7 +2623,7 @@ type: gallery
 site: sa
 url: https://www.sexart.com/model/lorena-b/gallery/20130306/SURPRISE
 cast: Lorena B; https://www.sexart.com/model/lorena-b;
-releasedate: 2013-03-06
+released: 2013-03-06
 photographer: Don Caravaggio
 rating: 9.7
 files:  # add-files-here
@@ -2639,7 +2639,7 @@ site: sa
 url: https://www.sexart.com/model/york-a-and-soko-a/gallery/20130304/REVERIE
 cast: York A; https://www.sexart.com/model/york-a;
 cast: Soko A; https://www.sexart.com/model/soko-a;
-releasedate: 2013-03-04
+released: 2013-03-04
 photographer: Matt Hathaway
 rating: 8.9
 files:  # add-files-here
@@ -2654,7 +2654,7 @@ type: gallery
 site: sa
 url: https://www.sexart.com/model/bella-c/gallery/20130303/ELPIDA
 cast: Bella C; https://www.sexart.com/model/bella-c;
-releasedate: 2013-03-03
+released: 2013-03-03
 photographer: Koenart
 rating: 9.4
 files:  # add-files-here
@@ -2669,7 +2669,7 @@ type: gallery
 site: sa
 url: https://www.sexart.com/model/ennu-a/gallery/20130301/MUTARE
 cast: Ennu A; https://www.sexart.com/model/ennu-a;
-releasedate: 2013-03-01
+released: 2013-03-01
 photographer: Albert Varin
 rating: 9.4
 files:  # add-files-here
@@ -2684,7 +2684,7 @@ type: gallery
 site: sa
 url: https://www.sexart.com/model/mia-sollis/gallery/20130227/MONIMO
 cast: Mia Sollis; https://www.sexart.com/model/mia-sollis;
-releasedate: 2013-02-27
+released: 2013-02-27
 photographer: Koenart
 rating: 9.5
 files:  # add-files-here
@@ -2700,7 +2700,7 @@ site: sa
 url: https://www.sexart.com/model/nastya-k-and-susana-c/gallery/20130225/CLARTE
 cast: Nastya K; https://www.sexart.com/model/nastya-k;
 cast: Susana C; https://www.sexart.com/model/susana-c;
-releasedate: 2013-02-25
+released: 2013-02-25
 photographer: Catherine
 rating: 9.4
 files:  # add-files-here
@@ -2715,7 +2715,7 @@ type: gallery
 site: sa
 url: https://www.sexart.com/model/candice-luka/gallery/20130224/STUNNING
 cast: Candice Luka; https://www.sexart.com/model/candice-luka;
-releasedate: 2013-02-24
+released: 2013-02-24
 photographer: Deltagamma
 rating: 9.5
 files:  # add-files-here
@@ -2730,7 +2730,7 @@ type: gallery
 site: sa
 url: https://www.sexart.com/model/kloe-kane/gallery/20130222/ACUTO
 cast: Kloe Kane; https://www.sexart.com/model/kloe-kane;
-releasedate: 2013-02-22
+released: 2013-02-22
 photographer: Don Caravaggio
 rating: 9.3
 files:  # add-files-here
@@ -2745,7 +2745,7 @@ type: gallery
 site: sa
 url: https://www.sexart.com/model/beatrice-d/gallery/20130220/PRESENTING_BEATRICE
 cast: Beatrice D; https://www.sexart.com/model/beatrice-d;
-releasedate: 2013-02-20
+released: 2013-02-20
 photographer: Albert Varin
 rating: 9.0
 files:  # add-files-here
@@ -2761,7 +2761,7 @@ site: sa
 url: https://www.sexart.com/model/denis-a-and-lily-e/gallery/20130218/DEVOTE
 cast: Denis A; https://www.sexart.com/model/denis-a;
 cast: Lily E; https://www.sexart.com/model/lily-e;
-releasedate: 2013-02-18
+released: 2013-02-18
 photographer: Koenart
 rating: 8.9
 files:  # add-files-here
@@ -2776,7 +2776,7 @@ type: gallery
 site: sa
 url: https://www.sexart.com/model/monika-f/gallery/20130217/DIAFORA
 cast: Monika F; https://www.sexart.com/model/monika-f;
-releasedate: 2013-02-17
+released: 2013-02-17
 photographer: Koenart
 rating: 9.3
 files:  # add-files-here
@@ -2792,7 +2792,7 @@ site: sa
 url: https://www.sexart.com/model/dido-a-and-tess-b/gallery/20130215/NOTIO
 cast: Dido A; https://www.sexart.com/model/dido-a;
 cast: Tess B; https://www.sexart.com/model/tess-b;
-releasedate: 2013-02-15
+released: 2013-02-15
 photographer: Walter Schotten
 rating: 9.3
 files:  # add-files-here
@@ -2807,7 +2807,7 @@ type: gallery
 site: sa
 url: https://www.sexart.com/model/malena-morgan/gallery/20130213/PURIFY
 cast: Malena Morgan; https://www.sexart.com/model/malena-morgan;
-releasedate: 2013-02-13
+released: 2013-02-13
 photographer: Don Caravaggio
 rating: 9.6
 files:  # add-files-here
@@ -2822,7 +2822,7 @@ type: gallery
 site: sa
 url: https://www.sexart.com/model/katya-ac/gallery/20130211/DOMNA
 cast: Katya AC; https://www.sexart.com/model/katya-ac;
-releasedate: 2013-02-11
+released: 2013-02-11
 photographer: Marco Simoncelli
 rating: 9.2
 files:  # add-files-here
@@ -2837,7 +2837,7 @@ type: gallery
 site: sa
 url: https://www.sexart.com/model/sinia-a/gallery/20130209/MELETI
 cast: Sinia A; https://www.sexart.com/model/sinia-a;
-releasedate: 2013-02-09
+released: 2013-02-09
 photographer: Vicente Silva
 rating: 9.4
 files:  # add-files-here
@@ -2852,7 +2852,7 @@ type: gallery
 site: sa
 url: https://www.sexart.com/model/vanda-b/gallery/20130208/EPONIMO
 cast: Vanda B; https://www.sexart.com/model/vanda-b;
-releasedate: 2013-02-08
+released: 2013-02-08
 photographer: Catherine
 rating: 9.4
 files:  # add-files-here
@@ -2867,7 +2867,7 @@ type: gallery
 site: sa
 url: https://www.sexart.com/model/lara-d/gallery/20130206/SOMETHING_TO_STARE
 cast: Lara D; https://www.sexart.com/model/lara-d;
-releasedate: 2013-02-06
+released: 2013-02-06
 photographer: Antares
 rating: 9.0
 files:  # add-files-here
@@ -2883,7 +2883,7 @@ site: sa
 url: https://www.sexart.com/model/andy-a-and-deja-move/gallery/20130205/PRESENTING_DEJA_MOVE
 cast: Andy A; https://www.sexart.com/model/andy-a;
 cast: Deja Move; https://www.sexart.com/model/deja-move;
-releasedate: 2013-02-05
+released: 2013-02-05
 photographer: Matt Hathaway
 rating: 8.8
 files:  # add-files-here
@@ -2898,7 +2898,7 @@ type: gallery
 site: sa
 url: https://www.sexart.com/model/helen-h/gallery/20130204/ACHTIDA
 cast: Helen H; https://www.sexart.com/model/helen-h;
-releasedate: 2013-02-04
+released: 2013-02-04
 photographer: Albert Varin
 rating: 9.1
 files:  # add-files-here
@@ -2913,7 +2913,7 @@ type: gallery
 site: sa
 url: https://www.sexart.com/model/caprice-a/gallery/20130202/PASARELA
 cast: Caprice A; https://www.sexart.com/model/caprice-a;
-releasedate: 2013-02-02
+released: 2013-02-02
 photographer: Koenart
 rating: 9.5
 files:  # add-files-here
@@ -2928,7 +2928,7 @@ type: gallery
 site: sa
 url: https://www.sexart.com/model/leo-a/gallery/20130201/PRESENTING_LEO
 cast: Leo A; https://www.sexart.com/model/leo-a;
-releasedate: 2013-02-01
+released: 2013-02-01
 photographer: Albert Varin
 rating: 9.0
 files:  # add-files-here
@@ -2943,7 +2943,7 @@ type: gallery
 site: sa
 url: https://www.sexart.com/model/aprilia-a/gallery/20130130/KVALITO
 cast: Aprilia A; https://www.sexart.com/model/aprilia-a;
-releasedate: 2013-01-30
+released: 2013-01-30
 photographer: Koenart
 rating: 9.4
 files:  # add-files-here
@@ -2959,7 +2959,7 @@ site: sa
 url: https://www.sexart.com/model/artur-a-and-susana-c/gallery/20130130/AROUSE
 cast: Artur A; https://www.sexart.com/model/artur-a;
 cast: Susana C; https://www.sexart.com/model/susana-c;
-releasedate: 2013-01-30
+released: 2013-01-30
 photographer: Catherine
 rating: 8.6
 files:  # add-files-here
@@ -2974,7 +2974,7 @@ type: gallery
 site: sa
 url: https://www.sexart.com/model/emily-bloom/gallery/20130129/FRAULEIN
 cast: Emily Bloom; https://www.sexart.com/model/emily-bloom;
-releasedate: 2013-01-29
+released: 2013-01-29
 photographer: Antares
 rating: 9.5
 files:  # add-files-here
@@ -2990,7 +2990,7 @@ site: sa
 url: https://www.sexart.com/model/tracy-a-and-brandy-a/gallery/20130128/CLOSER
 cast: Tracy A; https://www.sexart.com/model/tracy-a;
 cast: Brandy A; https://www.sexart.com/model/brandy-a;
-releasedate: 2013-01-28
+released: 2013-01-28
 photographer: Koenart
 rating: 9.1
 files:  # add-files-here
@@ -3005,7 +3005,7 @@ type: gallery
 site: sa
 url: https://www.sexart.com/model/milania-a/gallery/20130126/EMMONES
 cast: Milania A; https://www.sexart.com/model/milania-a;
-releasedate: 2013-01-26
+released: 2013-01-26
 photographer: Marco Simoncelli
 rating: 9.1
 files:  # add-files-here
@@ -3021,7 +3021,7 @@ site: sa
 url: https://www.sexart.com/model/kari-a-and-grace-c/gallery/20130125/KITRO
 cast: Kari A; https://www.sexart.com/model/kari-a;
 cast: Grace C; https://www.sexart.com/model/grace-c;
-releasedate: 2013-01-25
+released: 2013-01-25
 photographer: Koenart
 rating: 9.3
 files:  # add-files-here
@@ -3037,7 +3037,7 @@ site: sa
 url: https://www.sexart.com/model/subil-a-and-tobias-a/gallery/20130123/SPOONING
 cast: Subil A; https://www.sexart.com/model/subil-a;
 cast: Tobias A; https://www.sexart.com/model/tobias-a;
-releasedate: 2013-01-23
+released: 2013-01-23
 photographer: Albert Varin
 rating: 8.8
 files:  # add-files-here
@@ -3052,7 +3052,7 @@ type: gallery
 site: sa
 url: https://www.sexart.com/model/nika-n/gallery/20130122/PROFUNDA
 cast: Nika N; https://www.sexart.com/model/nika-n;
-releasedate: 2013-01-22
+released: 2013-01-22
 photographer: Antares
 rating: 9.1
 files:  # add-files-here
@@ -3068,7 +3068,7 @@ site: sa
 url: https://www.sexart.com/model/rilee-marks-and-lexi-bloom/gallery/20130121/SILIQUA
 cast: Rilee Marks; https://www.sexart.com/model/rilee-marks;
 cast: Lexi Bloom; https://www.sexart.com/model/lexi-bloom;
-releasedate: 2013-01-21
+released: 2013-01-21
 photographer: Kaden
 rating: 9.1
 files:  # add-files-here
@@ -3083,7 +3083,7 @@ type: gallery
 site: sa
 url: https://www.sexart.com/model/alana-a/gallery/20130119/INTIMITET
 cast: Alana A; https://www.sexart.com/model/alana-a;
-releasedate: 2013-01-19
+released: 2013-01-19
 photographer: Catherine
 rating: 9.4
 files:  # add-files-here
@@ -3098,7 +3098,7 @@ type: gallery
 site: sa
 url: https://www.sexart.com/model/samantha-e/gallery/20130118/PRESENTING_SAMANTHA
 cast: Samantha E; https://www.sexart.com/model/samantha-e;
-releasedate: 2013-01-18
+released: 2013-01-18
 photographer: Koenart
 rating: 9.2
 files:  # add-files-here
@@ -3113,7 +3113,7 @@ type: gallery
 site: sa
 url: https://www.sexart.com/model/nastya-k/gallery/20130116/DATIVO
 cast: Nastya K; https://www.sexart.com/model/nastya-k;
-releasedate: 2013-01-16
+released: 2013-01-16
 photographer: Catherine
 rating: 9.4
 files:  # add-files-here
@@ -3129,7 +3129,7 @@ site: sa
 url: https://www.sexart.com/model/denis-a-and-beata-b/gallery/20130115/ENFOQUE
 cast: Denis A; https://www.sexart.com/model/denis-a;
 cast: Beata B; https://www.sexart.com/model/beata-b;
-releasedate: 2013-01-15
+released: 2013-01-15
 photographer: Koenart
 rating: 8.9
 files:  # add-files-here
@@ -3144,7 +3144,7 @@ type: gallery
 site: sa
 url: https://www.sexart.com/model/elisa-a/gallery/20130114/ANEMELO
 cast: Elisa A; https://www.sexart.com/model/elisa-a;
-releasedate: 2013-01-14
+released: 2013-01-14
 photographer: Albert Varin
 rating: 9.1
 files:  # add-files-here
@@ -3160,7 +3160,7 @@ site: sa
 url: https://www.sexart.com/model/milena-d-and-lyala-a/gallery/20130112/EROTAS
 cast: Milena D; https://www.sexart.com/model/milena-d;
 cast: Lyala A; https://www.sexart.com/model/lyala-a;
-releasedate: 2013-01-12
+released: 2013-01-12
 photographer: Antares
 rating: 9.5
 files:  # add-files-here
@@ -3175,7 +3175,7 @@ type: gallery
 site: sa
 url: https://www.sexart.com/model/margot-a/gallery/20130111/EXPLOSIVA
 cast: Margot A; https://www.sexart.com/model/margot-a;
-releasedate: 2013-01-11
+released: 2013-01-11
 photographer: Don Caravaggio
 rating: 9.3
 files:  # add-files-here
@@ -3190,7 +3190,7 @@ type: gallery
 site: sa
 url: https://www.sexart.com/model/ennu-a/gallery/20130109/ORGASMO
 cast: Ennu A; https://www.sexart.com/model/ennu-a;
-releasedate: 2013-01-09
+released: 2013-01-09
 photographer: Albert Varin
 rating: 9.0
 files:  # add-files-here
@@ -3205,7 +3205,7 @@ type: gallery
 site: sa
 url: https://www.sexart.com/model/wanda-a/gallery/20130108/JUTEUX
 cast: Wanda A; https://www.sexart.com/model/wanda-a;
-releasedate: 2013-01-08
+released: 2013-01-08
 photographer: Alan Forza
 rating: 9.2
 files:  # add-files-here
@@ -3220,7 +3220,7 @@ type: gallery
 site: sa
 url: https://www.sexart.com/model/macy-b/gallery/20130107/EXQUISITE
 cast: Macy B; https://www.sexart.com/model/macy-b;
-releasedate: 2013-01-07
+released: 2013-01-07
 photographer: Vicente Silva
 rating: 9.6
 files:  # add-files-here
@@ -3236,7 +3236,7 @@ site: sa
 url: https://www.sexart.com/model/bob-a-and-simona-a/gallery/20130105/PASIO
 cast: Bob A; https://www.sexart.com/model/bob-a;
 cast: Simona A; https://www.sexart.com/model/simona-a;
-releasedate: 2013-01-05
+released: 2013-01-05
 photographer: Albert Varin
 rating: 8.9
 files:  # add-files-here
@@ -3252,7 +3252,7 @@ site: sa
 url: https://www.sexart.com/model/mark-a-and-kleo-a/gallery/20130104/CHARMER
 cast: Mark A; https://www.sexart.com/model/mark-a;
 cast: Kleo A; https://www.sexart.com/model/kleo-a;
-releasedate: 2013-01-04
+released: 2013-01-04
 photographer: Matt Hathaway
 rating: 8.7
 files:  # add-files-here
@@ -3267,7 +3267,7 @@ type: gallery
 site: sa
 url: https://www.sexart.com/model/tracy-a/gallery/20130102/SYNTHESI
 cast: Tracy A; https://www.sexart.com/model/tracy-a;
-releasedate: 2013-01-02
+released: 2013-01-02
 photographer: Koenart
 rating: 9.2
 files:  # add-files-here
@@ -3282,7 +3282,7 @@ type: gallery
 site: sa
 url: https://www.sexart.com/model/lorena-b/gallery/20130101/ANAPNEO
 cast: Lorena B; https://www.sexart.com/model/lorena-b;
-releasedate: 2013-01-01
+released: 2013-01-01
 photographer: Don Caravaggio
 rating: 9.6
 files:  # add-files-here

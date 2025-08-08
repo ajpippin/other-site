@@ -9,7 +9,7 @@ type: gallery
 site: sa
 url: https://www.sexart.com/model/usha/gallery/20221231/RED_VELVET
 cast: Usha; https://www.sexart.com/model/usha;
-releasedate: 2022-12-31
+released: 2022-12-31
 photographer: Tora Ness
 rating: 9.6
 fileprefix: SexArt-20221231-Red-Velvet
@@ -45,7 +45,7 @@ type: gallery
 site: sa
 url: https://www.sexart.com/model/oxi-bendini/gallery/20221229/WILD_LOVE
 cast: Oxi Bendini; https://www.sexart.com/model/oxi-bendini;
-releasedate: 2022-12-29
+released: 2022-12-29
 photographer: Nudero
 rating: 9.3
 fileprefix: SexArt-20221229-Wild-Love
@@ -81,7 +81,7 @@ type: gallery
 site: sa
 url: https://www.sexart.com/model/nancy-a/gallery/20221227/GLAMOROUS
 cast: Nancy A; https://www.sexart.com/model/nancy-a;
-releasedate: 2022-12-27
+released: 2022-12-27
 photographer: Erro
 rating: 9.6
 fileprefix: SexArt-20221227-Glamorous
@@ -117,7 +117,7 @@ type: gallery
 site: sa
 url: https://www.sexart.com/model/olivia-lust/gallery/20221226/SPARKLE_SEASON
 cast: Olivia Lust; https://www.sexart.com/model/olivia-lust;
-releasedate: 2022-12-26
+released: 2022-12-26
 photographer: Walter Schotten
 rating: 9.3
 fileprefix: SexArt-20221226-Sparkle-Season
@@ -130,7 +130,7 @@ type: gallery
 site: sa
 url: https://www.sexart.com/model/aleksandrina/gallery/20221224/FESTIVE_JOY
 cast: Aleksandrina; https://www.sexart.com/model/aleksandrina;
-releasedate: 2022-12-24
+released: 2022-12-24
 photographer: Nudero
 rating: 9.4
 fileprefix: SexArt-20221224-Festive-Joy
@@ -165,7 +165,7 @@ type: gallery
 site: sa
 url: https://www.sexart.com/model/sveltelana/gallery/20221222/HOLIDAY_FUN
 cast: Sveltelana; https://www.sexart.com/model/sveltelana;
-releasedate: 2022-12-22
+released: 2022-12-22
 photographer: Alex Lynn
 rating: 9.4
 fileprefix: SexArt-20221222-Holiday-Fun
@@ -202,7 +202,7 @@ type: gallery
 site: sa
 url: https://www.sexart.com/model/ariana-reychers/gallery/20221220/NATURAL_DESIRE
 cast: Ariana Reychers; https://www.sexart.com/model/ariana-reychers;
-releasedate: 2022-12-20
+released: 2022-12-20
 photographer: Walter Schotten
 rating: 9.1
 fileprefix: SexArt-20221220-Natural-Desire
@@ -238,7 +238,7 @@ type: gallery
 site: sa
 url: https://www.sexart.com/model/ivy-rein/gallery/20221219/MORNING_BLISS
 cast: Ivy Rein; https://www.sexart.com/model/ivy-rein;
-releasedate: 2022-12-19
+released: 2022-12-19
 photographer: Arkisi
 rating: 9.4
 fileprefix: SexArt-20221219-Morning-Bliss
@@ -275,7 +275,7 @@ type: gallery
 site: sa
 url: https://www.sexart.com/model/alaya/gallery/20221217/ON_DISPLAY
 cast: Alaya; https://www.sexart.com/model/alaya;
-releasedate: 2022-12-17
+released: 2022-12-17
 photographer: Tora Ness
 rating: 9.2
 fileprefix: SexArt-20221217-On-Display
@@ -311,7 +311,7 @@ type: gallery
 site: sa
 url: https://www.sexart.com/model/ellie-luna/gallery/20221215/MAKE_IT_FUN
 cast: Ellie Luna; https://www.sexart.com/model/ellie-luna;
-releasedate: 2022-12-15
+released: 2022-12-15
 photographer: Vicente Silva
 rating: 9.5
 fileprefix: SexArt-20221215-Make-It-Fun
@@ -351,7 +351,7 @@ type: gallery
 site: sa
 url: https://www.sexart.com/model/eratica/gallery/20221213/HOURGLASS_CURVES
 cast: Eratica; https://www.sexart.com/model/eratica;
-releasedate: 2022-12-13
+released: 2022-12-13
 photographer: Flora
 rating: 9.4
 fileprefix: SexArt-20221213-Hourglass-Curves
@@ -389,7 +389,7 @@ type: gallery
 site: sa
 url: https://www.sexart.com/model/tutsi/gallery/20221212/APPETITE
 cast: Tutsi; https://www.sexart.com/model/tutsi;
-releasedate: 2022-12-12
+released: 2022-12-12
 photographer: Arkisi
 rating: 9.6
 fileprefix: SexArt-20221212-Appetite
@@ -426,7 +426,7 @@ type: gallery
 site: sa
 url: https://www.sexart.com/model/alice-nekrasova/gallery/20221210/PLEASURE_TIME
 cast: Alice Nekrasova; https://www.sexart.com/model/alice-nekrasova;
-releasedate: 2022-12-10
+released: 2022-12-10
 photographer: Blake Jasper
 rating: 9.5
 fileprefix: SexArt-20221210-Pleasure-Time
@@ -460,7 +460,7 @@ type: gallery
 site: sa
 url: https://www.sexart.com/model/astrid-herrara/gallery/20221208/SHEER_GLAMOUR
 cast: Astrid Herrara; https://www.sexart.com/model/astrid-herrara;
-releasedate: 2022-12-08
+released: 2022-12-08
 photographer: Flora
 rating: 9.0
 fileprefix: SexArt-20221208-Sheer-Glamour
@@ -496,7 +496,7 @@ type: gallery
 site: sa
 url: https://www.sexart.com/model/nora-roam/gallery/20221206/SOFT_FUR
 cast: Nora Roam; https://www.sexart.com/model/nora-roam;
-releasedate: 2022-12-06
+released: 2022-12-06
 photographer: Vicente Silva
 rating: 9.3
 fileprefix: SexArt-20221206-Soft-Fur
@@ -527,7 +527,7 @@ site: sa
 url: https://www.sexart.com/model/kiere-and-kata-fire/gallery/20221205/SENSUAL_MASSAGE
 cast: Kiere; https://www.sexart.com/model/kiere;
 cast: Kata Fire; https://www.sexart.com/model/kata-fire;
-releasedate: 2022-12-05
+released: 2022-12-05
 photographer: Tora Ness
 rating: 9.4
 fileprefix: SexArt-20221205-Sensual-Massage
@@ -571,7 +571,7 @@ type: gallery
 site: sa
 url: https://www.sexart.com/model/nikta/gallery/20221203/LUSH_LIPS
 cast: Nikta; https://www.sexart.com/model/nikta;
-releasedate: 2022-12-03
+released: 2022-12-03
 photographer: Blake Jasper
 rating: 9.3
 fileprefix: SexArt-20221203-Lush-Lips
@@ -606,7 +606,7 @@ type: gallery
 site: sa
 url: https://www.sexart.com/model/kinsley/gallery/20221201/NATURAL_URGE
 cast: Kinsley; https://www.sexart.com/model/kinsley;
-releasedate: 2022-12-01
+released: 2022-12-01
 photographer: Flora
 rating: 9.4
 fileprefix: SexArt-20221201-Natural-Urge
@@ -651,7 +651,7 @@ type: gallery
 site: sa
 url: https://www.sexart.com/model/oxana-chic/gallery/20221129/BRAINIAC
 cast: Oxana Chic; https://www.sexart.com/model/oxana-chic;
-releasedate: 2022-11-29
+released: 2022-11-29
 photographer: Tora Ness
 rating: 9.5
 fileprefix: SexArt-20221129-Brainiac
@@ -690,7 +690,7 @@ type: gallery
 site: sa
 url: https://www.sexart.com/model/alice-mido/gallery/20221128/ALL_YOURS
 cast: Alice Mido; https://www.sexart.com/model/alice-mido;
-releasedate: 2022-11-28
+released: 2022-11-28
 photographer: Nudero
 rating: 9.4
 fileprefix: SexArt-20221128-All-Yours
@@ -726,7 +726,7 @@ type: gallery
 site: sa
 url: https://www.sexart.com/model/amber-plume/gallery/20221126/SPARKLING
 cast: Amber Plume; https://www.sexart.com/model/amber-plume;
-releasedate: 2022-11-26
+released: 2022-11-26
 photographer: Flora
 rating: 9.4
 fileprefix: SexArt-20221126-Sparkling
@@ -759,7 +759,7 @@ type: gallery
 site: sa
 url: https://www.sexart.com/model/sailor/gallery/20221124/WINNING_HAND
 cast: Sailor; https://www.sexart.com/model/sailor;
-releasedate: 2022-11-24
+released: 2022-11-24
 photographer: Vicente Silva
 rating: 9.5
 fileprefix: SexArt-20221124-Winning-Hand
@@ -795,7 +795,7 @@ type: gallery
 site: sa
 url: https://www.sexart.com/model/bjorg-larson/gallery/20221122/JADE_LACE
 cast: Bjorg Larson; https://www.sexart.com/model/bjorg-larson;
-releasedate: 2022-11-22
+released: 2022-11-22
 photographer: Alex Lynn
 rating: 9.4
 fileprefix: SexArt-20221122-Jade-Lace
@@ -835,7 +835,7 @@ type: gallery
 site: sa
 url: https://www.sexart.com/model/bernie/gallery/20221121/INDULGE
 cast: Bernie; https://www.sexart.com/model/bernie;
-releasedate: 2022-11-21
+released: 2022-11-21
 photographer: Tora Ness
 rating: 9.4
 fileprefix: SexArt-20221121-Indulge
@@ -870,7 +870,7 @@ type: gallery
 site: sa
 url: https://www.sexart.com/model/serina-gomez/gallery/20221119/STIMULATION
 cast: Serina Gomez; https://www.sexart.com/model/serina-gomez;
-releasedate: 2022-11-19
+released: 2022-11-19
 photographer: Erro
 rating: 9.5
 fileprefix: SexArt-20221119-Stimulation
@@ -906,7 +906,7 @@ type: gallery
 site: sa
 url: https://www.sexart.com/model/elza/gallery/20221117/MY_TIME
 cast: Elza; https://www.sexart.com/model/elza;
-releasedate: 2022-11-17
+released: 2022-11-17
 photographer: Alex Lynn
 rating: 9.1
 fileprefix: SexArt-20221117-My-Time
@@ -938,7 +938,7 @@ type: gallery
 site: sa
 url: https://www.sexart.com/model/neesa/gallery/20221115/PASSIONATE
 cast: Neesa; https://www.sexart.com/model/neesa;
-releasedate: 2022-11-15
+released: 2022-11-15
 photographer: Blake Jasper
 rating: 9.4
 fileprefix: SexArt-20221115-Passionate
@@ -976,7 +976,7 @@ type: gallery
 site: sa
 url: https://www.sexart.com/model/amanda-fine/gallery/20221114/SO_FINE
 cast: Amanda Fine; https://www.sexart.com/model/amanda-fine;
-releasedate: 2022-11-14
+released: 2022-11-14
 photographer: Flora
 rating: 9.2
 fileprefix: SexArt-20221114-So-Fine
@@ -1013,7 +1013,7 @@ site: sa
 url: https://www.sexart.com/model/casey-and-simon/gallery/20221112/DESIRE_YOU
 cast: Casey; https://www.sexart.com/model/casey;
 cast: Simon; https://www.sexart.com/model/simon; f
-releasedate: 2022-11-12
+released: 2022-11-12
 photographer: Tora Ness
 rating: 9.5
 fileprefix: SexArt-20221112-Desire-You
@@ -1057,7 +1057,7 @@ type: gallery
 site: sa
 url: https://www.sexart.com/model/kelly-collins/gallery/20221110/BLISSFUL
 cast: Kelly Collins; https://www.sexart.com/model/kelly-collins;
-releasedate: 2022-11-10
+released: 2022-11-10
 photographer: Vicente Silva
 rating: 9.6
 fileprefix: SexArt-20221110-Blissful
@@ -1095,7 +1095,7 @@ type: gallery
 site: sa
 url: https://www.sexart.com/model/rebecca-volpetti/gallery/20221108/GRATIFY
 cast: Rebecca Volpetti; https://www.sexart.com/model/rebecca-volpetti;
-releasedate: 2022-11-08
+released: 2022-11-08
 photographer: Alex Lynn
 rating: 9.4
 fileprefix: SexArt-20221108-Gratify
@@ -1131,7 +1131,7 @@ type: gallery
 site: sa
 url: https://www.sexart.com/model/alice-reign/gallery/20221107/ACTION_NOT_WORDS
 cast: Alice Reign; https://www.sexart.com/model/alice-reign;
-releasedate: 2022-11-07
+released: 2022-11-07
 photographer: Koenart
 rating: 9.5
 fileprefix: SexArt-20221107-Action-Not-Words
@@ -1167,7 +1167,7 @@ type: gallery
 site: sa
 url: https://www.sexart.com/model/deepika/gallery/20221105/LICK_IT
 cast: Deepika; https://www.sexart.com/model/deepika;
-releasedate: 2022-11-05
+released: 2022-11-05
 photographer: Tora Ness
 rating: 9.4
 fileprefix: SexArt-20221105-Lick-It
@@ -1202,7 +1202,7 @@ type: gallery
 site: sa
 url: https://www.sexart.com/model/jia-lissa/gallery/20221103/MESH_TEASE
 cast: Jia Lissa; https://www.sexart.com/model/jia-lissa;
-releasedate: 2022-11-03
+released: 2022-11-03
 photographer: Flora
 rating: 9.5
 fileprefix: SexArt-20221103-Mesh-Tease
@@ -1238,7 +1238,7 @@ type: gallery
 site: sa
 url: https://www.sexart.com/model/leni-doll/gallery/20221101/MAID_SERVICE
 cast: Leni Doll; https://www.sexart.com/model/leni-doll;
-releasedate: 2022-11-01
+released: 2022-11-01
 photographer: Vicente Silva
 rating: 9.5
 fileprefix: SexArt-20221101-Maid-Service
@@ -1288,7 +1288,7 @@ type: gallery
 site: sa
 url: https://www.sexart.com/model/mary-rock/gallery/20221031/SEDUCE_YOU
 cast: Mary Rock; https://www.sexart.com/model/mary-rock;
-releasedate: 2022-10-31
+released: 2022-10-31
 photographer: Erro
 rating: 9.6
 fileprefix: SexArt-20221031-Seduce-You
@@ -1328,7 +1328,7 @@ type: gallery
 site: sa
 url: https://www.sexart.com/model/eleonora-conte/gallery/20221029/MY_TOUCH
 cast: Eleonora Conte; https://www.sexart.com/model/eleonora-conte;
-releasedate: 2022-10-29
+released: 2022-10-29
 photographer: Blake Jasper
 rating: 9.4
 fileprefix: SexArt-20221029-My-Touch
@@ -1367,7 +1367,7 @@ site: sa
 url: https://www.sexart.com/model/dexter-and-matty/gallery/20221027/SWEET_LOVING
 cast: Dexter; https://www.sexart.com/model/dexter;
 cast: Matty; https://www.sexart.com/model/matty;
-releasedate: 2022-10-27
+released: 2022-10-27
 photographer: Tora Ness
 rating: 9.3
 fileprefix: SexArt-20221027-Sweet-Loving
@@ -1406,7 +1406,7 @@ type: gallery
 site: sa
 url: https://www.sexart.com/model/sonya-blaze/gallery/20221025/AWAKEN
 cast: Sonya Blaze; https://www.sexart.com/model/sonya-blaze;
-releasedate: 2022-10-25
+released: 2022-10-25
 photographer: Vicente Silva
 rating: 9.5
 fileprefix: SexArt-20221025-Awaken
@@ -1442,7 +1442,7 @@ type: gallery
 site: sa
 url: https://www.sexart.com/model/marta-saint/gallery/20221024/PRETTY_PINK
 cast: Marta Saint; https://www.sexart.com/model/marta-saint;
-releasedate: 2022-10-24
+released: 2022-10-24
 photographer: Nudero
 rating: 9.4
 fileprefix: SexArt-20221024-Pretty-Pink
@@ -1476,7 +1476,7 @@ type: gallery
 site: sa
 url: https://www.sexart.com/model/alin-luxe/gallery/20221022/SO_LUXE
 cast: Alin Luxe; https://www.sexart.com/model/alin-luxe;
-releasedate: 2022-10-22
+released: 2022-10-22
 photographer: Vicente Silva
 rating: 9.4
 fileprefix: SexArt-20221022-So-Luxe
@@ -1509,7 +1509,7 @@ type: gallery
 site: sa
 url: https://www.sexart.com/model/viva-fleur/gallery/20221020/ROLE_PLAY
 cast: Viva Fleur; https://www.sexart.com/model/viva-fleur; f
-releasedate: 2022-10-20
+released: 2022-10-20
 photographer: Koenart
 rating: 9.5
 fileprefix: SexArt-20221020-Role-Play
@@ -1545,7 +1545,7 @@ type: gallery
 site: sa
 url: https://www.sexart.com/model/alice-kelly/gallery/20221018/LILAC_LOVE
 cast: Alice Kelly; https://www.sexart.com/model/alice-kelly;
-releasedate: 2022-10-18
+released: 2022-10-18
 photographer: Nudero
 rating: 9.5
 fileprefix: SexArt-20221018-Lilac-Love
@@ -1579,7 +1579,7 @@ type: gallery
 site: sa
 url: https://www.sexart.com/model/eve-sweet/gallery/20221017/BIKINI_BABE
 cast: Eve Sweet; https://www.sexart.com/model/eve-sweet;
-releasedate: 2022-10-17
+released: 2022-10-17
 photographer: Vicente Silva
 rating: 9.5
 fileprefix: SexArt-20221017-Bikini-Babe
@@ -1617,7 +1617,7 @@ site: sa
 url: https://www.sexart.com/model/ruth-and-diamond/gallery/20221015/HOT_KISSES
 cast: Ruth; https://www.sexart.com/model/ruth;
 cast: Diamond; https://www.sexart.com/model/diamond;
-releasedate: 2022-10-15
+released: 2022-10-15
 photographer: Tora Ness
 rating: 9.3
 fileprefix: SexArt-20221015-Hot-Kisses
@@ -1657,7 +1657,7 @@ type: gallery
 site: sa
 url: https://www.sexart.com/model/nimfa/gallery/20221013/MY_THRONE
 cast: Nimfa; https://www.sexart.com/model/nimfa;
-releasedate: 2022-10-13
+released: 2022-10-13
 photographer: Walter Schotten
 rating: 9.3
 fileprefix: SexArt-20221013-My-Throne
@@ -1695,7 +1695,7 @@ type: gallery
 site: sa
 url: https://www.sexart.com/model/marcela/gallery/20221011/UNTIED
 cast: Marcela; https://www.sexart.com/model/marcela;
-releasedate: 2022-10-11
+released: 2022-10-11
 photographer: Tora Ness
 rating: 9.1
 fileprefix: SexArt-20221011-Untied
@@ -1733,7 +1733,7 @@ type: gallery
 site: sa
 url: https://www.sexart.com/model/felice/gallery/20221010/SOFT_BLUE
 cast: Felice; https://www.sexart.com/model/felice;
-releasedate: 2022-10-10
+released: 2022-10-10
 photographer: Vicente Silva
 rating: 9.4
 fileprefix: SexArt-20221010-Soft-Blue
@@ -1765,7 +1765,7 @@ type: gallery
 site: sa
 url: https://www.sexart.com/model/loren-sun/gallery/20221008/PRETTY_THINGS
 cast: Loren Sun; https://www.sexart.com/model/loren-sun;
-releasedate: 2022-10-08
+released: 2022-10-08
 photographer: Alex Lynn
 rating: 9.5
 fileprefix: SexArt-20221008-Pretty-Things
@@ -1796,7 +1796,7 @@ type: gallery
 site: sa
 url: https://www.sexart.com/model/eratica/gallery/20221006/CURVACEOUS
 cast: Eratica; https://www.sexart.com/model/eratica;
-releasedate: 2022-10-06
+released: 2022-10-06
 photographer: Flora
 rating: 9.3
 fileprefix: SexArt-20221006-Curvaceous
@@ -1831,7 +1831,7 @@ type: gallery
 site: sa
 url: https://www.sexart.com/model/freya-mayer/gallery/20221004/BLUE_GAZE
 cast: Freya Mayer; https://www.sexart.com/model/freya-mayer;
-releasedate: 2022-10-04
+released: 2022-10-04
 photographer: Erro
 rating: 9.6
 fileprefix: SexArt-20221004-Blue-Gaze
@@ -1862,7 +1862,7 @@ type: gallery
 site: sa
 url: https://www.sexart.com/model/olivia-myers/gallery/20221003/FLUSH
 cast: Olivia Myers; https://www.sexart.com/model/olivia-myers;
-releasedate: 2022-10-03
+released: 2022-10-03
 photographer: Flora
 rating: 9.4
 fileprefix: SexArt-20221003-Flush
@@ -1898,7 +1898,7 @@ type: gallery
 site: sa
 url: https://www.sexart.com/model/eliness/gallery/20221001/THINK_ABOUT_IT
 cast: Eliness; https://www.sexart.com/model/eliness;
-releasedate: 2022-10-01
+released: 2022-10-01
 photographer: Walter Schotten
 rating: 9.2
 fileprefix: SexArt-20221001-Think-About-It
@@ -1937,7 +1937,7 @@ type: gallery
 site: sa
 url: https://www.sexart.com/model/nora-roam/gallery/20220929/HAPPIEST_HOUR
 cast: Nora Roam; https://www.sexart.com/model/nora-roam;
-releasedate: 2022-09-29
+released: 2022-09-29
 photographer: Vicente Silva
 rating: 9.3
 fileprefix: SexArt-20220929-Happiest-Hour
@@ -1974,7 +1974,7 @@ type: gallery
 site: sa
 url: https://www.sexart.com/model/hayli-sanders/gallery/20220927/LACE
 cast: Hayli Sanders; https://www.sexart.com/model/hayli-sanders;
-releasedate: 2022-09-27
+released: 2022-09-27
 photographer: Blake Jasper
 rating: 9.5
 fileprefix: SexArt-20220927-Lace
@@ -2012,7 +2012,7 @@ type: gallery
 site: sa
 url: https://www.sexart.com/model/giselle/gallery/20220926/PURE_ALLURE
 cast: Giselle; https://www.sexart.com/model/giselle;
-releasedate: 2022-09-26
+released: 2022-09-26
 photographer: Albert Varin
 rating: 9.4
 fileprefix: SexArt-20220926-Pure-Allure
@@ -2049,7 +2049,7 @@ type: gallery
 site: sa
 url: https://www.sexart.com/model/kinsley/gallery/20220924/SMILE
 cast: Kinsley; https://www.sexart.com/model/kinsley;
-releasedate: 2022-09-24
+released: 2022-09-24
 photographer: Flora
 rating: 9.4
 fileprefix: SexArt-20220924-Smile
@@ -2084,7 +2084,7 @@ type: gallery
 site: sa
 url: https://www.sexart.com/model/alecia-fox/gallery/20220922/COME_HERE
 cast: Alecia Fox; https://www.sexart.com/model/alecia-fox;
-releasedate: 2022-09-22
+released: 2022-09-22
 photographer: Nudero
 rating: 9.4
 fileprefix: SexArt-20220922-Come-Here
@@ -2116,7 +2116,7 @@ type: gallery
 site: sa
 url: https://www.sexart.com/model/adriana-fawn/gallery/20220920/WONDERFUL
 cast: Adriana Fawn; https://www.sexart.com/model/adriana-fawn;
-releasedate: 2022-09-20
+released: 2022-09-20
 photographer: Flora
 rating: 9.2
 fileprefix: SexArt-20220920-Wonderful
@@ -2153,7 +2153,7 @@ type: gallery
 site: sa
 url: https://www.sexart.com/model/serina-gomez/gallery/20220919/SWEETNESS
 cast: Serina Gomez; https://www.sexart.com/model/serina-gomez;
-releasedate: 2022-09-19
+released: 2022-09-19
 photographer: Erro
 rating: 9.5
 fileprefix: SexArt-20220919-Sweetness
@@ -2190,7 +2190,7 @@ type: gallery
 site: sa
 url: https://www.sexart.com/model/ryana/gallery/20220917/STUDY_ME
 cast: Ryana; https://www.sexart.com/model/ryana;
-releasedate: 2022-09-17
+released: 2022-09-17
 photographer: Blake Jasper
 rating: 9.4
 fileprefix: SexArt-20220917-Study-Me
@@ -2233,7 +2233,7 @@ type: gallery
 site: sa
 url: https://www.sexart.com/model/bianca-bell/gallery/20220915/KISSABLE
 cast: Bianca Bell; https://www.sexart.com/model/bianca-bell;
-releasedate: 2022-09-15
+released: 2022-09-15
 photographer: Albert Varin
 rating: 9.5
 fileprefix: SexArt-20220915-Kissable
@@ -2268,7 +2268,7 @@ type: gallery
 site: sa
 url: https://www.sexart.com/model/anna-delos/gallery/20220913/ORDER_UP
 cast: Anna Delos; https://www.sexart.com/model/anna-delos;
-releasedate: 2022-09-13
+released: 2022-09-13
 photographer: Walter Schotten
 rating: 9.5
 fileprefix: SexArt-20220913-Order-Up
@@ -2308,7 +2308,7 @@ type: gallery
 site: sa
 url: https://www.sexart.com/model/aleksandrina/gallery/20220912/ALL_DAY
 cast: Aleksandrina; https://www.sexart.com/model/aleksandrina;
-releasedate: 2022-09-12
+released: 2022-09-12
 photographer: Nudero
 rating: 9.6
 fileprefix: SexArt-20220912-All-Day
@@ -2347,7 +2347,7 @@ site: sa
 url: https://www.sexart.com/model/simon-and-kiere/gallery/20220910/FONDLY
 cast: Simon; https://www.sexart.com/model/simon; f
 cast: Kiere; https://www.sexart.com/model/kiere;
-releasedate: 2022-09-10
+released: 2022-09-10
 photographer: Tora Ness
 rating: 9.5
 fileprefix: SexArt-20220910-Fondly
@@ -2391,7 +2391,7 @@ type: gallery
 site: sa
 url: https://www.sexart.com/model/eratica/gallery/20220908/DOWN_TO_BUSINESS
 cast: Eratica; https://www.sexart.com/model/eratica;
-releasedate: 2022-09-08
+released: 2022-09-08
 photographer: Flora
 rating: 9.5
 fileprefix: SexArt-20220908-Down-to-Business
@@ -2428,7 +2428,7 @@ type: gallery
 site: sa
 url: https://www.sexart.com/model/stella-cardo/gallery/20220906/SOFT_&_WARM
 cast: Stella Cardo; https://www.sexart.com/model/stella-cardo;
-releasedate: 2022-09-06
+released: 2022-09-06
 photographer: Erro
 rating: 9.6
 fileprefix: SexArt-20220906-Soft-and-Warm
@@ -2471,7 +2471,7 @@ type: gallery
 site: sa
 url: https://www.sexart.com/model/purr-simona/gallery/20220905/QUIETLY
 cast: Purr Simona; https://www.sexart.com/model/purr-simona;
-releasedate: 2022-09-05
+released: 2022-09-05
 photographer: Deltagamma
 rating: 9.1
 fileprefix: SexArt-20220905-Quietly
@@ -2507,7 +2507,7 @@ type: gallery
 site: sa
 url: https://www.sexart.com/model/alice-nekrasova/gallery/20220903/SURPRISES
 cast: Alice Nekrasova; https://www.sexart.com/model/alice-nekrasova;
-releasedate: 2022-09-03
+released: 2022-09-03
 photographer: Alex Lynn
 rating: 9.3
 fileprefix: SexArt-20220903-Surprises
@@ -2543,7 +2543,7 @@ type: gallery
 site: sa
 url: https://www.sexart.com/model/neesa/gallery/20220901/TICKLED_PINK
 cast: Neesa; https://www.sexart.com/model/neesa;
-releasedate: 2022-09-01
+released: 2022-09-01
 photographer: Albert Varin
 rating: 9.5
 fileprefix: SexArt-20220901-Tickled-Pink
@@ -2577,7 +2577,7 @@ type: gallery
 site: sa
 url: https://www.sexart.com/model/mercia-francis/gallery/20220830/SOLO_STYLE
 cast: Mercia Francis; https://www.sexart.com/model/mercia-francis;
-releasedate: 2022-08-30
+released: 2022-08-30
 photographer: Nudero
 rating: 9.4
 fileprefix: SexArt-20220830-Solo-Style
@@ -2610,7 +2610,7 @@ type: gallery
 site: sa
 url: https://www.sexart.com/model/ivy-rein/gallery/20220829/JACUZZI_FOR_TWO
 cast: Ivy Rein; https://www.sexart.com/model/ivy-rein;
-releasedate: 2022-08-29
+released: 2022-08-29
 photographer: Erro
 rating: 9.5
 fileprefix: SexArt-20220829-Jacuzzi-for-Two
@@ -2644,7 +2644,7 @@ type: gallery
 site: sa
 url: https://www.sexart.com/model/keira-blue/gallery/20220827/LIGHT
 cast: Keira Blue; https://www.sexart.com/model/keira-blue;
-releasedate: 2022-08-27
+released: 2022-08-27
 photographer: Deltagamma
 rating: 9.4
 fileprefix: SexArt-20220827-Light
@@ -2678,7 +2678,7 @@ type: gallery
 site: sa
 url: https://www.sexart.com/model/hayli-sanders/gallery/20220825/LOVESEAT
 cast: Hayli Sanders; https://www.sexart.com/model/hayli-sanders;
-releasedate: 2022-08-25
+released: 2022-08-25
 photographer: Blake Jasper
 rating: 9.4
 fileprefix: SexArt-20220825-Loveseat
@@ -2715,7 +2715,7 @@ type: gallery
 site: sa
 url: https://www.sexart.com/model/ryana/gallery/20220823/MINT
 cast: Ryana; https://www.sexart.com/model/ryana;
-releasedate: 2022-08-23
+released: 2022-08-23
 photographer: Alex Lynn
 rating: 9.4
 fileprefix: SexArt-20220823-Mint
@@ -2752,7 +2752,7 @@ type: gallery
 site: sa
 url: https://www.sexart.com/model/madelina/gallery/20220822/PEACEFUL_MORNING
 cast: Madelina; https://www.sexart.com/model/madelina;
-releasedate: 2022-08-22
+released: 2022-08-22
 photographer: Albert Varin
 rating: 9.3
 fileprefix: SexArt-20220822-Peaceful-Morning
@@ -2790,7 +2790,7 @@ type: gallery
 site: sa
 url: https://www.sexart.com/model/nikki-hill/gallery/20220820/SWEET_HOME
 cast: Nikki Hill; https://www.sexart.com/model/nikki-hill;
-releasedate: 2022-08-20
+released: 2022-08-20
 photographer: Vicente Silva
 rating: 9.4
 fileprefix: SexArt-20220820-Sweet-Home
@@ -2824,7 +2824,7 @@ type: gallery
 site: sa
 url: https://www.sexart.com/model/bernie/gallery/20220818/LUNCH_HOUR
 cast: Bernie; https://www.sexart.com/model/bernie;
-releasedate: 2022-08-18
+released: 2022-08-18
 photographer: Tora Ness
 rating: 9.5
 fileprefix: SexArt-20220818-Lunch-Hour
@@ -2866,7 +2866,7 @@ type: gallery
 site: sa
 url: https://www.sexart.com/model/olivia-honey/gallery/20220816/IRIDESCENT
 cast: Olivia Honey; https://www.sexart.com/model/olivia-honey;
-releasedate: 2022-08-16
+released: 2022-08-16
 photographer: Albert Varin
 rating: 8.9
 fileprefix: SexArt-20220816-Iridescent
@@ -2900,7 +2900,7 @@ type: gallery
 site: sa
 url: https://www.sexart.com/model/sarah-kay/gallery/20220815/PERCH
 cast: Sarah Kay; https://www.sexart.com/model/sarah-kay;
-releasedate: 2022-08-15
+released: 2022-08-15
 photographer: Erro
 rating: 9.4
 fileprefix: SexArt-20220815-Perch
@@ -2933,7 +2933,7 @@ type: gallery
 site: sa
 url: https://www.sexart.com/model/holly-molly/gallery/20220813/SANDBOX
 cast: Holly Molly; https://www.sexart.com/model/holly-molly;
-releasedate: 2022-08-13
+released: 2022-08-13
 photographer: Walter Schotten
 rating: 9.3
 fileprefix: SexArt-20220813-Sandbox
@@ -2966,7 +2966,7 @@ type: gallery
 site: sa
 url: https://www.sexart.com/model/foxy-alissa/gallery/20220811/APPETIZER
 cast: Foxy Alissa; https://www.sexart.com/model/foxy-alissa;
-releasedate: 2022-08-11
+released: 2022-08-11
 photographer: Vicente Silva
 rating: 9.4
 fileprefix: SexArt-20220811-Appetizer
@@ -3003,7 +3003,7 @@ type: gallery
 site: sa
 url: https://www.sexart.com/model/aimee-rox/gallery/20220809/FLIRTY_SKIRT
 cast: Aimee Rox; https://www.sexart.com/model/aimee-rox;
-releasedate: 2022-08-09
+released: 2022-08-09
 photographer: Blake Jasper
 rating: 9.5
 fileprefix: SexArt-20220809-Flirty-Skirt
@@ -3043,7 +3043,7 @@ type: gallery
 site: sa
 url: https://www.sexart.com/model/adriana-fawn/gallery/20220808/RITUAL
 cast: Adriana Fawn; https://www.sexart.com/model/adriana-fawn;
-releasedate: 2022-08-08
+released: 2022-08-08
 photographer: Flora
 rating: 9.4
 fileprefix: SexArt-20220808-Ritual
@@ -3077,7 +3077,7 @@ type: gallery
 site: sa
 url: https://www.sexart.com/model/viviann/gallery/20220806/LILAC
 cast: Viviann; https://www.sexart.com/model/viviann;
-releasedate: 2022-08-06
+released: 2022-08-06
 photographer: Nudero
 rating: 9.2
 fileprefix: SexArt-20220806-Lilac
@@ -3114,7 +3114,7 @@ type: gallery
 site: sa
 url: https://www.sexart.com/model/tutsi/gallery/20220804/EXCLUSIVE_GAME
 cast: Tutsi; https://www.sexart.com/model/tutsi;
-releasedate: 2022-08-04
+released: 2022-08-04
 photographer: Vicente Silva
 rating: 9.6
 fileprefix: SexArt-20220804-Exclusive-Game
@@ -3151,7 +3151,7 @@ type: gallery
 site: sa
 url: https://www.sexart.com/model/scarlett-queen/gallery/20220802/TENDRILS
 cast: Scarlett Queen; https://www.sexart.com/model/scarlett-queen;
-releasedate: 2022-08-02
+released: 2022-08-02
 photographer: Nudero
 rating: 9.4
 fileprefix: SexArt-20220802-Tendrils
@@ -3190,7 +3190,7 @@ type: gallery
 site: sa
 url: https://www.sexart.com/model/eve-sweet/gallery/20220801/DISCOVER
 cast: Eve Sweet; https://www.sexart.com/model/eve-sweet;
-releasedate: 2022-08-01
+released: 2022-08-01
 photographer: Vicente Silva
 rating: 9.4
 fileprefix: SexArt-20220801-Discover
@@ -3230,7 +3230,7 @@ type: gallery
 site: sa
 url: https://www.sexart.com/model/paulina-pace/gallery/20220730/PULSING
 cast: Paulina Pace; https://www.sexart.com/model/paulina-pace;
-releasedate: 2022-07-30
+released: 2022-07-30
 photographer: Albert Varin
 rating: 9.1
 fileprefix: SexArt-20220730-Pulsing
@@ -3267,7 +3267,7 @@ type: gallery
 site: sa
 url: https://www.sexart.com/model/amber-pearl/gallery/20220728/HONEY
 cast: Amber Pearl; https://www.sexart.com/model/amber-pearl;
-releasedate: 2022-07-28
+released: 2022-07-28
 photographer: Nudero
 rating: 9.3
 fileprefix: SexArt-20220728-Honey
@@ -3300,7 +3300,7 @@ type: gallery
 site: sa
 url: https://www.sexart.com/model/mary-rock/gallery/20220726/PERSONAL_PASSION
 cast: Mary Rock; https://www.sexart.com/model/mary-rock;
-releasedate: 2022-07-26
+released: 2022-07-26
 photographer: Erro
 rating: 9.5
 fileprefix: SexArt-20220726-Personal-Passion
@@ -3335,7 +3335,7 @@ type: gallery
 site: sa
 url: https://www.sexart.com/model/ivory/gallery/20220725/THE_SPOT
 cast: Ivory; https://www.sexart.com/model/ivory;
-releasedate: 2022-07-25
+released: 2022-07-25
 photographer: Tora Ness
 rating: 9.4
 fileprefix: SexArt-20220725-The-Spot
@@ -3372,7 +3372,7 @@ type: gallery
 site: sa
 url: https://www.sexart.com/model/stella-cardo/gallery/20220723/PLEASURE
 cast: Stella Cardo; https://www.sexart.com/model/stella-cardo;
-releasedate: 2022-07-23
+released: 2022-07-23
 photographer: Erro
 rating: 9.6
 fileprefix: SexArt-20220723-Pleasure
@@ -3411,7 +3411,7 @@ type: gallery
 site: sa
 url: https://www.sexart.com/model/ella-mira/gallery/20220721/FREE_SPIRIT
 cast: Ella Mira; https://www.sexart.com/model/ella-mira;
-releasedate: 2022-07-21
+released: 2022-07-21
 photographer: Walter Schotten
 rating: 9.3
 fileprefix: SexArt-20220721-Free-Spirit
@@ -3450,7 +3450,7 @@ type: gallery
 site: sa
 url: https://www.sexart.com/model/amber-plume/gallery/20220719/ART_WITH_AMBER
 cast: Amber Plume; https://www.sexart.com/model/amber-plume;
-releasedate: 2022-07-19
+released: 2022-07-19
 photographer: Flora
 rating: 9.5
 fileprefix: SexArt-20220719-Art-With-Amber
@@ -3485,7 +3485,7 @@ type: gallery
 site: sa
 url: https://www.sexart.com/model/adel-morel/gallery/20220718/ENTICE_YOU
 cast: Adel Morel; https://www.sexart.com/model/adel-morel;
-releasedate: 2022-07-18
+released: 2022-07-18
 photographer: Alex Lynn
 rating: 9.4
 fileprefix: SexArt-20220718-Entice-You
@@ -3521,7 +3521,7 @@ type: gallery
 site: sa
 url: https://www.sexart.com/model/nancy-a/gallery/20220716/BEGUILE
 cast: Nancy A; https://www.sexart.com/model/nancy-a;
-releasedate: 2022-07-16
+released: 2022-07-16
 photographer: Erro
 rating: 9.7
 fileprefix: SexArt-20220716-Beguile
@@ -3556,7 +3556,7 @@ type: gallery
 site: sa
 url: https://www.sexart.com/model/flamy-nika/gallery/20220714/SHY
 cast: Flamy Nika; https://www.sexart.com/model/flamy-nika;
-releasedate: 2022-07-14
+released: 2022-07-14
 photographer: Marlene
 rating: 9.5
 fileprefix: SexArt-20220714-Shy
@@ -3589,7 +3589,7 @@ type: gallery
 site: sa
 url: https://www.sexart.com/model/serina-gomez/gallery/20220712/SHINE
 cast: Serina Gomez; https://www.sexart.com/model/serina-gomez;
-releasedate: 2022-07-12
+released: 2022-07-12
 photographer: Erro
 rating: 9.4
 fileprefix: SexArt-20220712-Shine
@@ -3627,7 +3627,7 @@ type: gallery
 site: sa
 url: https://www.sexart.com/model/flaca/gallery/20220711/FLIRTATION
 cast: Flaca; https://www.sexart.com/model/flaca;
-releasedate: 2022-07-11
+released: 2022-07-11
 photographer: Blake Jasper
 rating: 9.4
 fileprefix: SexArt-20220711-Flirtation
@@ -3662,7 +3662,7 @@ type: gallery
 site: sa
 url: https://www.sexart.com/model/hayli-sanders/gallery/20220709/JULY_WINTER
 cast: Hayli Sanders; https://www.sexart.com/model/hayli-sanders;
-releasedate: 2022-07-09
+released: 2022-07-09
 photographer: Blake Jasper
 rating: 9.3
 fileprefix: SexArt-20220709-July-Winter
@@ -3699,7 +3699,7 @@ type: gallery
 site: sa
 url: https://www.sexart.com/model/alice-reign/gallery/20220707/TABLE_FOR_ONE
 cast: Alice Reign; https://www.sexart.com/model/alice-reign;
-releasedate: 2022-07-07
+released: 2022-07-07
 photographer: Koenart
 rating: 9.5
 fileprefix: SexArt-20220707-Table-For-One
@@ -3736,7 +3736,7 @@ type: gallery
 site: sa
 url: https://www.sexart.com/model/freya-mayer/gallery/20220705/BENCHMARK
 cast: Freya Mayer; https://www.sexart.com/model/freya-mayer;
-releasedate: 2022-07-05
+released: 2022-07-05
 photographer: Erro
 rating: 9.6
 fileprefix: SexArt-20220705-Benchmark
@@ -3768,7 +3768,7 @@ type: gallery
 site: sa
 url: https://www.sexart.com/model/ivy-rein/gallery/20220704/DACHA
 cast: Ivy Rein; https://www.sexart.com/model/ivy-rein;
-releasedate: 2022-07-04
+released: 2022-07-04
 photographer: Vicente Silva
 rating: 9.5
 fileprefix: SexArt-20220704-Dacha
@@ -3805,7 +3805,7 @@ type: gallery
 site: sa
 url: https://www.sexart.com/model/evelin-elle/gallery/20220702/PINK_VELVET
 cast: Evelin Elle; https://www.sexart.com/model/evelin-elle;
-releasedate: 2022-07-02
+released: 2022-07-02
 photographer: Flora
 rating: 9.3
 fileprefix: SexArt-20220702-Pink-Velvet
@@ -3842,7 +3842,7 @@ type: gallery
 site: sa
 url: https://www.sexart.com/model/lisa-dawn/gallery/20220630/GLOWING
 cast: Lisa Dawn; https://www.sexart.com/model/lisa-dawn;
-releasedate: 2022-06-30
+released: 2022-06-30
 photographer: Vicente Silva
 rating: 9.3
 fileprefix: SexArt-20220630-Glowing
@@ -3880,7 +3880,7 @@ type: gallery
 site: sa
 url: https://www.sexart.com/model/viva-fleur/gallery/20220628/HOT_TEA
 cast: Viva Fleur; https://www.sexart.com/model/viva-fleur;
-releasedate: 2022-06-28
+released: 2022-06-28
 photographer: Koenart
 rating: 9.5
 fileprefix: SexArt-20220628-Hot-Tea
@@ -3915,7 +3915,7 @@ type: gallery
 site: sa
 url: https://www.sexart.com/model/kinsley/gallery/20220627/TELL_ME
 cast: Kinsley; https://www.sexart.com/model/kinsley;
-releasedate: 2022-06-27
+released: 2022-06-27
 photographer: Flora
 rating: 9.5
 fileprefix: SexArt-20220627-Tell-Me
@@ -3949,7 +3949,7 @@ type: gallery
 site: sa
 url: https://www.sexart.com/model/nicol-wild/gallery/20220625/GRAND_TOUR
 cast: Nicol Wild; https://www.sexart.com/model/nicol-wild;
-releasedate: 2022-06-25
+released: 2022-06-25
 photographer: Erro
 rating: 9.4
 fileprefix: SexArt-20220625-Grand-Tour
@@ -3987,7 +3987,7 @@ type: gallery
 site: sa
 url: https://www.sexart.com/model/ryana/gallery/20220623/SILKY
 cast: Ryana; https://www.sexart.com/model/ryana;
-releasedate: 2022-06-23
+released: 2022-06-23
 photographer: Blake Jasper
 rating: 9.5
 fileprefix: SexArt-20220623-Silky
@@ -4024,7 +4024,7 @@ type: gallery
 site: sa
 url: https://www.sexart.com/model/emily-swan/gallery/20220621/DRESS_UP
 cast: Emily Swan; https://www.sexart.com/model/emily-swan;
-releasedate: 2022-06-21
+released: 2022-06-21
 photographer: Alex Lynn
 rating: 9.3
 fileprefix: SexArt-20220621-Dress-Up
@@ -4064,7 +4064,7 @@ type: gallery
 site: sa
 url: https://www.sexart.com/model/tutsi/gallery/20220620/EMERGE
 cast: Tutsi; https://www.sexart.com/model/tutsi;
-releasedate: 2022-06-20
+released: 2022-06-20
 photographer: Vicente Silva
 rating: 9.5
 fileprefix: SexArt-20220620-Emerge
@@ -4097,7 +4097,7 @@ type: gallery
 site: sa
 url: https://www.sexart.com/model/eratica/gallery/20220618/INSPIRED
 cast: Eratica; https://www.sexart.com/model/eratica;
-releasedate: 2022-06-18
+released: 2022-06-18
 photographer: Flora
 rating: 9.4
 fileprefix: SexArt-20220618-Inspired
@@ -4134,7 +4134,7 @@ type: gallery
 site: sa
 url: https://www.sexart.com/model/ruth/gallery/20220616/SWEET_TART
 cast: Ruth; https://www.sexart.com/model/ruth;
-releasedate: 2022-06-16
+released: 2022-06-16
 photographer: Tora Ness
 rating: 9.5
 fileprefix: SexArt-20220616-Sweet-Tart
@@ -4175,7 +4175,7 @@ type: gallery
 site: sa
 url: https://www.sexart.com/model/foxy-alissa/gallery/20220614/WARM_GLOW
 cast: Foxy Alissa; https://www.sexart.com/model/foxy-alissa;
-releasedate: 2022-06-14
+released: 2022-06-14
 photographer: Erro
 rating: 9.5
 fileprefix: SexArt-20220614-Warm-Glow
@@ -4211,7 +4211,7 @@ type: gallery
 site: sa
 url: https://www.sexart.com/model/neesa/gallery/20220613/WILD_ONE
 cast: Neesa; https://www.sexart.com/model/neesa;
-releasedate: 2022-06-13
+released: 2022-06-13
 photographer: Albert Varin
 rating: 9.4
 fileprefix: SexArt-20220613-Wild-One
@@ -4247,7 +4247,7 @@ type: gallery
 site: sa
 url: https://www.sexart.com/model/sarah-kay/gallery/20220611/DREAM_GIRL
 cast: Sarah Kay; https://www.sexart.com/model/sarah-kay;
-releasedate: 2022-06-11
+released: 2022-06-11
 photographer: Erro
 rating: 9.5
 fileprefix: SexArt-20220611-Dream-Girl
@@ -4283,7 +4283,7 @@ site: sa
 url: https://www.sexart.com/model/ricardo-luis-and-simon/gallery/20220609/ANTICIPATION
 cast: Ricardo Luis; https://www.sexart.com/model/ricardo-luis; m
 cast: Simon; https://www.sexart.com/model/simon; f
-releasedate: 2022-06-09
+released: 2022-06-09
 photographer: Tora Ness
 rating: 9.4
 fileprefix: SexArt-20220609-Anticipation
@@ -4324,7 +4324,7 @@ type: gallery
 site: sa
 url: https://www.sexart.com/model/eva-tali/gallery/20220607/PREPPY
 cast: Eva Tali; https://www.sexart.com/model/eva-tali;
-releasedate: 2022-06-07
+released: 2022-06-07
 photographer: Blake Jasper
 rating: 9.1
 fileprefix: SexArt-20220607-Preppy
@@ -4361,7 +4361,7 @@ type: gallery
 site: sa
 url: https://www.sexart.com/model/eve-sweet/gallery/20220606/PINK_PAIR
 cast: Eve Sweet; https://www.sexart.com/model/eve-sweet;
-releasedate: 2022-06-06
+released: 2022-06-06
 photographer: Vicente Silva
 rating: 9.4
 fileprefix: SexArt-20220606-Pink-Pair
@@ -4396,7 +4396,7 @@ type: gallery
 site: sa
 url: https://www.sexart.com/model/oxana-chic/gallery/20220604/PROFESSIONAL
 cast: Oxana Chic; https://www.sexart.com/model/oxana-chic;
-releasedate: 2022-06-04
+released: 2022-06-04
 photographer: Tora Ness
 rating: 9.4
 fileprefix: SexArt-20220604-Professional
@@ -4433,7 +4433,7 @@ type: gallery
 site: sa
 url: https://www.sexart.com/model/kassie/gallery/20220602/SNACK
 cast: Kassie; https://www.sexart.com/model/kassie;
-releasedate: 2022-06-02
+released: 2022-06-02
 photographer: Marlene
 rating: 9.4
 fileprefix: SexArt-20220602-Snack
@@ -4470,7 +4470,7 @@ type: gallery
 site: sa
 url: https://www.sexart.com/model/isabele/gallery/20220531/SUNLIT
 cast: Isabele; https://www.sexart.com/model/isabele;
-releasedate: 2022-05-31
+released: 2022-05-31
 photographer: Albert Varin
 rating: 9.3
 fileprefix: SexArt-20220531-Sunlit
@@ -4505,7 +4505,7 @@ type: gallery
 site: sa
 url: https://www.sexart.com/model/jia-lissa/gallery/20220530/AROUND_THE_WORLD
 cast: Jia Lissa; https://www.sexart.com/model/jia-lissa;
-releasedate: 2022-05-30
+released: 2022-05-30
 photographer: Flora
 rating: 9.3
 fileprefix: SexArt-20220530-Around-the-World
@@ -4542,7 +4542,7 @@ type: gallery
 site: sa
 url: https://www.sexart.com/model/ella-mira/gallery/20220528/TACTILE
 cast: Ella Mira; https://www.sexart.com/model/ella-mira;
-releasedate: 2022-05-28
+released: 2022-05-28
 photographer: Walter Schotten
 rating: 9.4
 fileprefix: SexArt-20220528-Tactile
@@ -4578,7 +4578,7 @@ type: gallery
 site: sa
 url: https://www.sexart.com/model/aimee-rox/gallery/20220526/HEATING_UP
 cast: Aimee Rox; https://www.sexart.com/model/aimee-rox;
-releasedate: 2022-05-26
+released: 2022-05-26
 photographer: Blake Jasper
 rating: 9.4
 fileprefix: SexArt-20220526-Heating-Up
@@ -4616,7 +4616,7 @@ type: gallery
 site: sa
 url: https://www.sexart.com/model/felice/gallery/20220524/SET_THE_STAGE
 cast: Felice; https://www.sexart.com/model/felice;
-releasedate: 2022-05-24
+released: 2022-05-24
 photographer: Albert Varin
 rating: 9.3
 fileprefix: SexArt-20220524-Set-the-Stage
@@ -4650,7 +4650,7 @@ type: gallery
 site: sa
 url: https://www.sexart.com/model/mila-azul/gallery/20220523/INNOCENT_FUN
 cast: Mila Azul; https://www.sexart.com/model/mila-azul;
-releasedate: 2022-05-23
+released: 2022-05-23
 photographer: Alex Lynn
 rating: 9.5
 fileprefix: SexArt-20220523-Innocent-Fun
@@ -4687,7 +4687,7 @@ site: sa
 url: https://www.sexart.com/model/corinna-and-bernie/gallery/20220521/GIRL_S_NIGHT_IN
 cast: Corinna; https://www.sexart.com/model/corinna;
 cast: Bernie; https://www.sexart.com/model/bernie;
-releasedate: 2022-05-21
+released: 2022-05-21
 photographer: Tora Ness
 rating: 9.4
 fileprefix: SexArt-20220521-Girls-Night-In
@@ -4732,7 +4732,7 @@ type: gallery
 site: sa
 url: https://www.sexart.com/model/kalisy/gallery/20220519/ALOHA
 cast: Kalisy; https://www.sexart.com/model/kalisy;
-releasedate: 2022-05-19
+released: 2022-05-19
 photographer: Alex Lynn
 rating: 9.2
 fileprefix: SexArt-20220519-Aloha
@@ -4764,7 +4764,7 @@ type: gallery
 site: sa
 url: https://www.sexart.com/model/olivia-honey/gallery/20220517/MY_DAY_OFF
 cast: Olivia Honey; https://www.sexart.com/model/olivia-honey;
-releasedate: 2022-05-17
+released: 2022-05-17
 photographer: Albert Varin
 rating: 9.1
 fileprefix: SexArt-20220517-My-Day-Off
@@ -4805,7 +4805,7 @@ type: gallery
 site: sa
 url: https://www.sexart.com/model/sonya-blaze/gallery/20220516/SPA_BATH
 cast: Sonya Blaze; https://www.sexart.com/model/sonya-blaze;
-releasedate: 2022-05-16
+released: 2022-05-16
 photographer: Vicente Silva
 rating: 9.5
 fileprefix: SexArt-20220516-Spa-Bath
@@ -4842,7 +4842,7 @@ type: gallery
 site: sa
 url: https://www.sexart.com/model/adriana-fawn/gallery/20220514/GAZE
 cast: Adriana Fawn; https://www.sexart.com/model/adriana-fawn;
-releasedate: 2022-05-14
+released: 2022-05-14
 photographer: Flora
 rating: 9.5
 fileprefix: SexArt-20220514-Gaze
@@ -4878,7 +4878,7 @@ type: gallery
 site: sa
 url: https://www.sexart.com/model/flaca/gallery/20220512/RED_MESH
 cast: Flaca; https://www.sexart.com/model/flaca;
-releasedate: 2022-05-12
+released: 2022-05-12
 photographer: Blake Jasper
 rating: 9.2
 fileprefix: SexArt-20220512-Red-Mesh
@@ -4909,7 +4909,7 @@ type: gallery
 site: sa
 url: https://www.sexart.com/model/adel-morel/gallery/20220510/BEDROOM_BEAUTY
 cast: Adel Morel; https://www.sexart.com/model/adel-morel;
-releasedate: 2022-05-10
+released: 2022-05-10
 photographer: Alex Lynn
 rating: 9.4
 fileprefix: SexArt-20220510-Bedroom-Beauty
@@ -4944,7 +4944,7 @@ type: gallery
 site: sa
 url: https://www.sexart.com/model/serina-gomez/gallery/20220509/MORNING
 cast: Serina Gomez; https://www.sexart.com/model/serina-gomez;
-releasedate: 2022-05-09
+released: 2022-05-09
 photographer: Erro
 rating: 9.4
 fileprefix: SexArt-20220509-Morning
@@ -4983,7 +4983,7 @@ type: gallery
 site: sa
 url: https://www.sexart.com/model/adeline/gallery/20220507/DREAMY
 cast: Adeline; https://www.sexart.com/model/adeline;
-releasedate: 2022-05-07
+released: 2022-05-07
 photographer: Albert Varin
 rating: 9.1
 fileprefix: SexArt-20220507-Dreamy
@@ -5019,7 +5019,7 @@ type: gallery
 site: sa
 url: https://www.sexart.com/model/hayli-sanders/gallery/20220505/FANTASY_FRIEND
 cast: Hayli Sanders; https://www.sexart.com/model/hayli-sanders;
-releasedate: 2022-05-05
+released: 2022-05-05
 photographer: Blake Jasper
 rating: 9.4
 fileprefix: SexArt-20220505-Fantasy-Friend
@@ -5059,7 +5059,7 @@ type: gallery
 site: sa
 url: https://www.sexart.com/model/alice-kelly/gallery/20220503/SEXPOT
 cast: Alice Kelly; https://www.sexart.com/model/alice-kelly;
-releasedate: 2022-05-03
+released: 2022-05-03
 photographer: Nudero
 rating: 9.4
 fileprefix: SexArt-20220503-SexpotSexArt-20220503-Sexpot
@@ -5096,7 +5096,7 @@ site: sa
 url: https://www.sexart.com/model/matty-and-dexter/gallery/20220502/SUMMER_ROMANCE
 cast: Matty; https://www.sexart.com/model/matty;
 cast: Dexter; https://www.sexart.com/model/dexter;
-releasedate: 2022-05-02
+released: 2022-05-02
 photographer: Tora Ness
 rating: 9.3
 fileprefix: SexArt-20220502-Summer-Romance
@@ -5133,7 +5133,7 @@ type: gallery
 site: sa
 url: https://www.sexart.com/model/nicol-wild/gallery/20220430/AFTERNOON
 cast: Nicol Wild; https://www.sexart.com/model/nicol-wild;
-releasedate: 2022-04-30
+released: 2022-04-30
 photographer: Erro
 rating: 9.4
 fileprefix: SexArt-20220430-Afternoon
@@ -5170,7 +5170,7 @@ type: gallery
 site: sa
 url: https://www.sexart.com/model/monika-may/gallery/20220428/NEW_JOY
 cast: Monika May; https://www.sexart.com/model/monika-may;
-releasedate: 2022-04-28
+released: 2022-04-28
 photographer: Vicente Silva
 rating: 9.5
 fileprefix: SexArt-20220428-New-Joy
@@ -5211,7 +5211,7 @@ type: gallery
 site: sa
 url: https://www.sexart.com/model/foxy-alissa/gallery/20220426/LOVER
 cast: Foxy Alissa; https://www.sexart.com/model/foxy-alissa;
-releasedate: 2022-04-26
+released: 2022-04-26
 photographer: Blake Jasper
 rating: 9.5
 fileprefix: SexArt-20220426-Lover
@@ -5252,7 +5252,7 @@ type: gallery
 site: sa
 url: https://www.sexart.com/model/bianca-bell/gallery/20220425/PLATINUM
 cast: Bianca Bell; https://www.sexart.com/model/bianca-bell;
-releasedate: 2022-04-25
+released: 2022-04-25
 photographer: Albert Varin
 rating: 9.5
 fileprefix: SexArt-20220425-Platinum
@@ -5287,7 +5287,7 @@ type: gallery
 site: sa
 url: https://www.sexart.com/model/ryana/gallery/20220423/PETAL
 cast: Ryana; https://www.sexart.com/model/ryana;
-releasedate: 2022-04-23
+released: 2022-04-23
 photographer: Blake Jasper
 rating: 9.5
 fileprefix: SexArt-20220423-Petal
@@ -5325,7 +5325,7 @@ type: gallery
 site: sa
 url: https://www.sexart.com/model/isabela-de-laa/gallery/20220421/SKYLIGHT
 cast: Isabela De Laa; https://www.sexart.com/model/isabela-de-laa;
-releasedate: 2022-04-21
+released: 2022-04-21
 photographer: Erro
 rating: 9.6
 fileprefix: SexArt-20220421-Skylight
@@ -5362,7 +5362,7 @@ type: gallery
 site: sa
 url: https://www.sexart.com/model/jessica-blank/gallery/20220419/PLAY
 cast: Jessica Blank; https://www.sexart.com/model/jessica-blank;
-releasedate: 2022-04-19
+released: 2022-04-19
 photographer: Nudero
 rating: 9.3
 fileprefix: SexArt-20220419-Play
@@ -5398,7 +5398,7 @@ type: gallery
 site: sa
 url: https://www.sexart.com/model/eve-sweet/gallery/20220418/CHECK
 cast: Eve Sweet; https://www.sexart.com/model/eve-sweet;
-releasedate: 2022-04-18
+released: 2022-04-18
 photographer: Vicente Silva
 rating: 9.5
 fileprefix: SexArt-20220418-Check
@@ -5434,7 +5434,7 @@ type: gallery
 site: sa
 url: https://www.sexart.com/model/marciana/gallery/20220416/LONG_TIME
 cast: Marciana; https://www.sexart.com/model/marciana;
-releasedate: 2022-04-16
+released: 2022-04-16
 photographer: Tora Ness
 rating: 9.4
 fileprefix: SexArt-20220416-Long-Time
@@ -5470,7 +5470,7 @@ type: gallery
 site: sa
 url: https://www.sexart.com/model/ivy-rein/gallery/20220414/SWEET_TOOTH
 cast: Ivy Rein; https://www.sexart.com/model/ivy-rein;
-releasedate: 2022-04-14
+released: 2022-04-14
 photographer: Vicente Silva
 rating: 9.4
 fileprefix: SexArt-20220414-Sweet-Tooth
@@ -5509,7 +5509,7 @@ type: gallery
 site: sa
 url: https://www.sexart.com/model/amber-pearl/gallery/20220412/DESIRE
 cast: Amber Pearl; https://www.sexart.com/model/amber-pearl;
-releasedate: 2022-04-12
+released: 2022-04-12
 photographer: Nudero
 rating: 9.4
 fileprefix: SexArt-20220412-Desire
@@ -5544,7 +5544,7 @@ type: gallery
 site: sa
 url: https://www.sexart.com/model/eratica/gallery/20220411/STYLE
 cast: Eratica; https://www.sexart.com/model/eratica;
-releasedate: 2022-04-11
+released: 2022-04-11
 photographer: Flora
 rating: 9.4
 fileprefix: SexArt-20220411-Style
@@ -5583,7 +5583,7 @@ type: gallery
 site: sa
 url: https://www.sexart.com/model/lucretia-k/gallery/20220409/TENDERNESS
 cast: Lucretia K; https://www.sexart.com/model/lucretia-k;
-releasedate: 2022-04-09
+released: 2022-04-09
 photographer: Blake Jasper
 rating: 9.3
 fileprefix: SexArt-20220409-Tenderness
@@ -5620,7 +5620,7 @@ type: gallery
 site: sa
 url: https://www.sexart.com/model/nancy-a/gallery/20220407/INSPIRE
 cast: Nancy A; https://www.sexart.com/model/nancy-a;
-releasedate: 2022-04-07
+released: 2022-04-07
 photographer: Erro
 rating: 9.7
 fileprefix: SexArt-20220407-Inspire
@@ -5656,7 +5656,7 @@ type: gallery
 site: sa
 url: https://www.sexart.com/model/aimee-rox/gallery/20220405/QUENCH
 cast: Aimee Rox; https://www.sexart.com/model/aimee-rox;
-releasedate: 2022-04-05
+released: 2022-04-05
 photographer: Blake Jasper
 rating: 9.2
 fileprefix: SexArt-20220405-Quench
@@ -5691,7 +5691,7 @@ type: gallery
 site: sa
 url: https://www.sexart.com/model/leni-doll/gallery/20220404/BEJEWELED
 cast: Leni Doll; https://www.sexart.com/model/leni-doll;
-releasedate: 2022-04-04
+released: 2022-04-04
 photographer: Vicente Silva
 rating: 9.5
 fileprefix: SexArt-20220404-Bejeweled
@@ -5729,7 +5729,7 @@ type: gallery
 site: sa
 url: https://www.sexart.com/model/scarlett-queen/gallery/20220402/CABIN_FEVER
 cast: Scarlett Queen; https://www.sexart.com/model/scarlett-queen;
-releasedate: 2022-04-02
+released: 2022-04-02
 photographer: Nudero
 rating: 9.3
 fileprefix: SexArt-20220402-Cabin-Fever
@@ -5761,7 +5761,7 @@ type: gallery
 site: sa
 url: https://www.sexart.com/model/sonya-blaze/gallery/20220331/PREPARATION
 cast: Sonya Blaze; https://www.sexart.com/model/sonya-blaze;
-releasedate: 2022-03-31
+released: 2022-03-31
 photographer: Vicente Silva
 rating: 9.6
 fileprefix: SexArt-20220331-Preparation
@@ -5799,7 +5799,7 @@ site: sa
 url: https://www.sexart.com/model/ricardo-luis-and-deepika/gallery/20220329/MYSTERY_LOVE
 cast: Ricardo Luis; https://www.sexart.com/model/ricardo-luis; m
 cast: Deepika; https://www.sexart.com/model/deepika;
-releasedate: 2022-03-29
+released: 2022-03-29
 photographer: Tora Ness
 rating: 9.4
 fileprefix: SexArt-20220329-Mystery-Love
@@ -5839,7 +5839,7 @@ type: gallery
 site: sa
 url: https://www.sexart.com/model/foxy-alissa/gallery/20220328/SUITE_VIEW
 cast: Foxy Alissa; https://www.sexart.com/model/foxy-alissa; f
-releasedate: 2022-03-28
+released: 2022-03-28
 photographer: Blake Jasper
 rating: 9.5
 fileprefix: SexArt-20220328-Suite-View
@@ -5874,7 +5874,7 @@ type: gallery
 site: sa
 url: https://www.sexart.com/model/maria-mendoza/gallery/20220326/LONG_DISTANCE
 cast: Maria Mendoza; https://www.sexart.com/model/maria-mendoza; f
-releasedate: 2022-03-26
+released: 2022-03-26
 photographer: Koenart
 rating: 9.4
 fileprefix: SexArt-20220326-Long-Distance
@@ -5913,7 +5913,7 @@ type: gallery
 site: sa
 url: https://www.sexart.com/model/mercia-francis/gallery/20220324/GRACE
 cast: Mercia Francis; https://www.sexart.com/model/mercia-francis; f
-releasedate: 2022-03-24
+released: 2022-03-24
 photographer: Nudero
 rating: 9.4
 fileprefix: SexArt-20220324-Grace
@@ -5948,7 +5948,7 @@ type: gallery
 site: sa
 url: https://www.sexart.com/model/emilia-hops/gallery/20220322/SOPHISTICATED
 cast: Emilia Hops; https://www.sexart.com/model/emilia-hops; f
-releasedate: 2022-03-22
+released: 2022-03-22
 photographer: Blake Jasper
 rating: 9.4
 fileprefix: SexArt-20220322-Sophisticated
@@ -5984,7 +5984,7 @@ site: sa
 url: https://www.sexart.com/model/kiere-and-simon/gallery/20220321/TOGETHER
 cast: Kiere; https://www.sexart.com/model/kiere; f
 cast: Simon; https://www.sexart.com/model/simon; f
-releasedate: 2022-03-21
+released: 2022-03-21
 photographer: Tora Ness
 rating: 9.4
 fileprefix: SexArt-20220321-Together
@@ -6028,7 +6028,7 @@ type: gallery
 site: sa
 url: https://www.sexart.com/model/casey/gallery/20220319/EVENING_ALONE
 cast: Casey; https://www.sexart.com/model/casey; f
-releasedate: 2022-03-19
+released: 2022-03-19
 photographer: Vicente Silva
 rating: 9.5
 fileprefix: SexArt-20220319-Evening-Alone
@@ -6065,7 +6065,7 @@ type: gallery
 site: sa
 url: https://www.sexart.com/model/madelina/gallery/20220317/MADELINA
 cast: Madelina; https://www.sexart.com/model/madelina; f
-releasedate: 2022-03-17
+released: 2022-03-17
 photographer: Albert Varin
 rating: 9.4
 fileprefix: SexArt-20220317-Madelina
@@ -6102,7 +6102,7 @@ type: gallery
 site: sa
 url: https://www.sexart.com/model/lisa-dawn/gallery/20220315/SENSUAL_HAZE
 cast: Lisa Dawn; https://www.sexart.com/model/lisa-dawn; f
-releasedate: 2022-03-15
+released: 2022-03-15
 photographer: Blake Jasper
 rating: 9.1
 fileprefix: SexArt-20220315-Sensual-Haze
@@ -6135,7 +6135,7 @@ type: gallery
 site: sa
 url: https://www.sexart.com/model/ivory/gallery/20220314/IVORY
 cast: Ivory; https://www.sexart.com/model/ivory; f
-releasedate: 2022-03-14
+released: 2022-03-14
 photographer: Tora Ness
 rating: 9.5
 fileprefix: SexArt-20220314-Ivory
@@ -6172,7 +6172,7 @@ type: gallery
 site: sa
 url: https://www.sexart.com/model/lila-nova/gallery/20220312/WOVEN
 cast: Lila Nova; https://www.sexart.com/model/lila-nova; f
-releasedate: 2022-03-12
+released: 2022-03-12
 photographer: Walter Schotten
 rating: 8.9
 fileprefix: SexArt-20220312-Woven
@@ -6206,7 +6206,7 @@ type: gallery
 site: sa
 url: https://www.sexart.com/model/hayli-sanders/gallery/20220310/SHOWGIRL
 r: Hayli Sanders; https://www.sexart.com/model/hayli-sanders; f
-releasedate: 2022-03-10
+released: 2022-03-10
 photographer: Blake Jasper
 rating: 9.3
 fileprefix: SexArt-20220310-Showgirl
@@ -6244,7 +6244,7 @@ type: gallery
 site: sa
 url: https://www.sexart.com/model/nora-roam/gallery/20220308/SMOOTHIE
 cast: Nora Roam; https://www.sexart.com/model/nora-roam; f
-releasedate: 2022-03-08
+released: 2022-03-08
 photographer: Vicente Silva
 rating: 9.4
 fileprefix: SexArt-20220308-Smoothie
@@ -6280,7 +6280,7 @@ type: gallery
 site: sa
 url: https://www.sexart.com/model/freya-mayer/gallery/20220307/GOLDEN
 cast: Freya Mayer; https://www.sexart.com/model/freya-mayer; f
-releasedate: 2022-03-07
+released: 2022-03-07
 photographer: Erro
 rating: 9.7
 fileprefix: SexArt-20220307-Golden
@@ -6315,7 +6315,7 @@ site: sa
 url: https://www.sexart.com/model/corinna-and-bernie/gallery/20220305/DISTRACTION
 cast: Corinna; https://www.sexart.com/model/corinna; f
 cast: Bernie; https://www.sexart.com/model/bernie; f
-releasedate: 2022-03-05
+released: 2022-03-05
 photographer: Tora Ness
 rating: 9.5
 fileprefix: SexArt-20220305-Distraction
@@ -6359,7 +6359,7 @@ type: gallery
 site: sa
 url: https://www.sexart.com/model/eva-tali/gallery/20220303/LIKE_CHOCOLATE
 cast: Eva Tali; https://www.sexart.com/model/eva-tali; f
-releasedate: 2022-03-03
+released: 2022-03-03
 photographer: Blake Jasper
 rating: 9.3
 fileprefix: SexArt-20220303-Like-Chocolate
@@ -6394,7 +6394,7 @@ type: gallery
 site: sa
 url: https://www.sexart.com/model/mila-azul/gallery/20220301/STUNNER
 cast: Mila Azul; https://www.sexart.com/model/mila-azul; f
-releasedate: 2022-03-01
+released: 2022-03-01
 photographer: Deltagamma
 rating: 9.7
 fileprefix: SexArt-20220301-Stunner
@@ -6432,7 +6432,7 @@ type: gallery
 site: sa
 url: https://www.sexart.com/model/monika-may/gallery/20220228/BLUE_PASSION
 cast: Monika May; https://www.sexart.com/model/monika-may; f
-releasedate: 2022-02-28
+released: 2022-02-28
 photographer: Vicente Silva
 rating: 9.5
 fileprefix: SexArt-20220228-Blue-Passion
@@ -6471,7 +6471,7 @@ type: gallery
 site: sa
 url: https://www.sexart.com/model/amanda-fine/gallery/20220226/AMANDA
 cast: Amanda Fine; https://www.sexart.com/model/amanda-fine; f
-releasedate: 2022-02-26
+released: 2022-02-26
 photographer: Flora
 rating: 9.3
 fileprefix: SexArt-20220226-Amanda
@@ -6511,7 +6511,7 @@ site: sa
 url: https://www.sexart.com/model/kiere-and-simon/gallery/20220224/SWEETHEART
 cast: Kiere; https://www.sexart.com/model/kiere; f
 cast: Simon; https://www.sexart.com/model/simon; f
-releasedate: 2022-02-24
+released: 2022-02-24
 photographer: Tora Ness
 rating: 9.5
 fileprefix: SexArt-20220224-Sweetheart
@@ -6555,7 +6555,7 @@ type: gallery
 site: sa
 url: https://www.sexart.com/model/amber-pearl/gallery/20220222/DEEP_THOUGHTS
 cast: Amber Pearl; https://www.sexart.com/model/amber-pearl; f
-releasedate: 2022-02-22
+released: 2022-02-22
 photographer: Nudero
 rating: 9.4
 fileprefix: SexArt-20220222-Deep-Thoughts
@@ -6591,7 +6591,7 @@ type: gallery
 site: sa
 url: https://www.sexart.com/model/matty/gallery/20220221/PARK_VIEW
 cast: Matty; https://www.sexart.com/model/matty; f
-releasedate: 2022-02-21
+released: 2022-02-21
 photographer: Tora Ness
 rating: 9.4
 fileprefix: SexArt-20220221-Park-View
@@ -6627,7 +6627,7 @@ type: gallery
 site: sa
 url: https://www.sexart.com/model/aleksandrina/gallery/20220219/DREAMING
 cast: Aleksandrina; https://www.sexart.com/model/aleksandrina; f
-releasedate: 2022-02-19
+released: 2022-02-19
 photographer: Nudero
 rating: 9.5
 fileprefix: SexArt-20220219-Dreaming
@@ -6664,7 +6664,7 @@ type: gallery
 site: sa
 url: https://www.sexart.com/model/stella-cardo/gallery/20220217/FEELING
 cast: Stella Cardo; https://www.sexart.com/model/stella-cardo; f
-releasedate: 2022-02-17
+released: 2022-02-17
 photographer: Erro
 rating: 9.7
 fileprefix: SexArt-20220217-Feeling
@@ -6703,7 +6703,7 @@ type: gallery
 site: sa
 url: https://www.sexart.com/model/foxy-alissa/gallery/20220215/SENSUAL_SUDS
 cast: Foxy Alissa; https://www.sexart.com/model/foxy-alissa; f
-releasedate: 2022-02-15
+released: 2022-02-15
 photographer: Blake Jasper
 rating: 9.4
 fileprefix: SexArt-20220215-Sensual-Suds
@@ -6739,7 +6739,7 @@ type: gallery
 site: sa
 url: https://www.sexart.com/model/ella-mira/gallery/20220214/FANTASY
 cast: Ella Mira; https://www.sexart.com/model/ella-mira; f
-releasedate: 2022-02-14
+released: 2022-02-14
 photographer: Walter Schotten
 rating: 9.4
 fileprefix: SexArt-20220214-Fantasy
@@ -6779,7 +6779,7 @@ type: gallery
 site: sa
 url: https://www.sexart.com/model/jia-lissa/gallery/20220212/FLAIR
 cast: Jia Lissa; https://www.sexart.com/model/jia-lissa; f
-releasedate: 2022-02-12
+released: 2022-02-12
 photographer: Flora
 rating: 9.4
 fileprefix: SexArt-20220212-Flair
@@ -6815,7 +6815,7 @@ type: gallery
 site: sa
 url: https://www.sexart.com/model/gerda-rubia/gallery/20220210/FRESH_SHAVE
 cast: Gerda Rubia; https://www.sexart.com/model/gerda-rubia; f
-releasedate: 2022-02-10
+released: 2022-02-10
 photographer: Deltagamma
 rating: 9.4
 fileprefix: SexArt-20220210-Fresh-Shave
@@ -6856,7 +6856,7 @@ type: gallery
 site: sa
 url: https://www.sexart.com/model/ryana/gallery/20220208/STRAPPED_IN
 cast: Ryana; https://www.sexart.com/model/ryana; f
-releasedate: 2022-02-08
+released: 2022-02-08
 photographer: Blake Jasper
 rating: 9.4
 fileprefix: SexArt-20220208-Strapped-In
@@ -6898,7 +6898,7 @@ type: gallery
 site: sa
 url: https://www.sexart.com/model/paulina-pace/gallery/20220207/PACE_YOURSELF
 cast: Paulina Pace; https://www.sexart.com/model/paulina-pace; f
-releasedate: 2022-02-07
+released: 2022-02-07
 photographer: Albert Varin
 rating: 9.1
 fileprefix: SexArt-20220207-Pace-Yourself
@@ -6943,7 +6943,7 @@ type: gallery
 site: sa
 url: https://www.sexart.com/model/kinsley/gallery/20220205/FRECKLE
 cast: Kinsley; https://www.sexart.com/model/kinsley; f
-releasedate: 2022-02-05
+released: 2022-02-05
 photographer: Flora
 rating: 9.5
 fileprefix: SexArt-20220205-Freckle
@@ -6979,7 +6979,7 @@ type: gallery
 site: sa
 url: https://www.sexart.com/model/alice-kelly/gallery/20220203/BITE
 cast: Alice Kelly; https://www.sexart.com/model/alice-kelly; f
-releasedate: 2022-02-03
+released: 2022-02-03
 photographer: Nudero
 rating: 9.5
 fileprefix: SexArt-20220203-Bite
@@ -7016,7 +7016,7 @@ site: sa
 url: https://www.sexart.com/model/ricardo-luis-and-deepika/gallery/20220201/MELODY
 cast: Ricardo Luis; https://www.sexart.com/model/ricardo-luis; f
 cast: Deepika; https://www.sexart.com/model/deepika; f
-releasedate: 2022-02-01
+released: 2022-02-01
 photographer: Tora Ness
 rating: 9.4
 fileprefix: SexArt-20220201-Melody
@@ -7061,7 +7061,7 @@ type: gallery
 site: sa
 url: https://www.sexart.com/model/mishel-dark/gallery/20220131/RAVEN_BEAUTY
 cast: Mishel Dark; https://www.sexart.com/model/mishel-dark; f
-releasedate: 2022-01-31
+released: 2022-01-31
 photographer: Erro
 rating: 9.4
 fileprefix: SexArt-20220131-Raven-Beauty
@@ -7096,7 +7096,7 @@ type: gallery
 site: sa
 url: https://www.sexart.com/model/vetra/gallery/20220129/VETRA
 cast: Vetra; https://www.sexart.com/model/vetra; f
-releasedate: 2022-01-29
+released: 2022-01-29
 photographer: Blake Jasper
 rating: 9.3
 fileprefix: SexArt-20220129-Vetra
@@ -7134,7 +7134,7 @@ type: gallery
 site: sa
 url: https://www.sexart.com/model/eve-sweet/gallery/20220127/THE_MOMENT
 cast: Eve Sweet; https://www.sexart.com/model/eve-sweet; f
-releasedate: 2022-01-27
+released: 2022-01-27
 photographer: Vicente Silva
 rating: 9.6
 fileprefix: SexArt-20220127-The-Moment
@@ -7169,7 +7169,7 @@ type: gallery
 site: sa
 url: https://www.sexart.com/model/amber-pearl/gallery/20220125/READY
 cast: Amber Pearl; https://www.sexart.com/model/amber-pearl; f
-releasedate: 2022-01-25
+released: 2022-01-25
 photographer: Nudero
 rating: 9.5
 fileprefix: SexArt-20220125-Ready
@@ -7208,7 +7208,7 @@ type: gallery
 site: sa
 url: https://www.sexart.com/model/nessie-blue/gallery/20220124/HEART
 cast: Nessie Blue; https://www.sexart.com/model/nessie-blue; f
-releasedate: 2022-01-24
+released: 2022-01-24
 photographer: Erro
 rating: 9.4
 fileprefix: SexArt-20220124-Heart
@@ -7243,7 +7243,7 @@ type: gallery
 site: sa
 url: https://www.sexart.com/model/simon/gallery/20220122/TEMPTRESS
 cast: Simon; https://www.sexart.com/model/simon; f
-releasedate: 2022-01-22
+released: 2022-01-22
 photographer: Tora Ness
 rating: 9.6
 fileprefix: SexArt-20220122-Temptress
@@ -7284,7 +7284,7 @@ type: gallery
 site: sa
 url: https://www.sexart.com/model/mia-sollis/gallery/20220120/GINGERLY
 cast: Mia Sollis; https://www.sexart.com/model/mia-sollis; f
-releasedate: 2022-01-20
+released: 2022-01-20
 photographer: Deltagamma
 rating: 9.4
 fileprefix: SexArt-20220120-Gingerly
@@ -7322,7 +7322,7 @@ type: gallery
 site: sa
 url: https://www.sexart.com/model/emilia-hops/gallery/20220118/INTRODUCE
 cast: Emilia Hops; https://www.sexart.com/model/emilia-hops; f
-releasedate: 2022-01-18
+released: 2022-01-18
 photographer: Blake Jasper
 rating: 9.6
 fileprefix: SexArt-20220118-Introduce
@@ -7361,7 +7361,7 @@ type: gallery
 site: sa
 url: https://www.sexart.com/model/leni-doll/gallery/20220117/POETRY
 cast: Leni Doll; https://www.sexart.com/model/leni-doll; f
-releasedate: 2022-01-17
+released: 2022-01-17
 photographer: Vicente Silva
 rating: 9.6
 fileprefix: SexArt-20220117-Poetry
@@ -7406,7 +7406,7 @@ type: gallery
 site: sa
 url: https://www.sexart.com/model/alecia-fox/gallery/20220115/DREAMS
 cast: Alecia Fox; https://www.sexart.com/model/alecia-fox; f
-releasedate: 2022-01-15
+released: 2022-01-15
 photographer: Nudero
 rating: 9.5
 fileprefix: SexArt-20220115-Dreams
@@ -7440,7 +7440,7 @@ site: sa
 url: https://www.sexart.com/model/dexter-and-matty/gallery/20220113/TRUE_ROMANCE
 cast: Dexter; https://www.sexart.com/model/dexter; f
 cast: Matty; https://www.sexart.com/model/matty; f
-releasedate: 2022-01-13
+released: 2022-01-13
 photographer: Tora Ness
 rating: 9.4
 fileprefix: SexArt-20220113-True-Romance
@@ -7480,7 +7480,7 @@ type: gallery
 site: sa
 url: https://www.sexart.com/model/lilly-bella/gallery/20220111/BEDSIDE_MANNER
 cast: Lilly Bella; https://www.sexart.com/model/lilly-bella; f
-releasedate: 2022-01-11
+released: 2022-01-11
 photographer: Erro
 rating: 9.6
 fileprefix: SexArt-20220111-Bedside-Manner
@@ -7513,7 +7513,7 @@ type: gallery
 site: sa
 url: https://www.sexart.com/model/mary-rock/gallery/20220110/SEDUCE
 cast: Mary Rock; https://www.sexart.com/model/mary-rock; f
-releasedate: 2022-01-10
+released: 2022-01-10
 photographer: Nudero
 rating: 9.4
 fileprefix: SexArt-20220110-Seduce
@@ -7548,7 +7548,7 @@ type: gallery
 site: sa
 url: https://www.sexart.com/model/olivia-myers/gallery/20220108/OLIVIA
 cast: Olivia Myers; https://www.sexart.com/model/olivia-myers; f
-releasedate: 2022-01-08
+released: 2022-01-08
 photographer: Flora
 rating: 9.2
 fileprefix: SexArt-20220108-Olivia
@@ -7581,7 +7581,7 @@ type: gallery
 site: sa
 url: https://www.sexart.com/model/sarah-kay/gallery/20220106/ENVY
 cast: Sarah Kay; https://www.sexart.com/model/sarah-kay; f
-releasedate: 2022-01-06
+released: 2022-01-06
 photographer: Erro
 rating: 9.5
 fileprefix: SexArt-20220106-Envy
@@ -7618,7 +7618,7 @@ type: gallery
 site: sa
 url: https://www.sexart.com/model/sonya-blaze/gallery/20220104/SVELTE
 cast: Sonya Blaze; https://www.sexart.com/model/sonya-blaze; f
-releasedate: 2022-01-04
+released: 2022-01-04
 photographer: Vicente Silva
 rating: 9.6
 fileprefix: SexArt-20220104-Svelte
@@ -7655,7 +7655,7 @@ type: gallery
 site: sa
 url: https://www.sexart.com/model/scarlett-queen/gallery/20220103/NAVY_LACE
 cast: Scarlett Queen; https://www.sexart.com/model/scarlett-queen; f
-releasedate: 2022-01-03
+released: 2022-01-03
 photographer: Nudero
 rating: 9.4
 fileprefix: SexArt-20220103-Navy-Lace
@@ -7694,7 +7694,7 @@ type: gallery
 site: sa
 url: https://www.sexart.com/model/aimee-rox/gallery/20220101/CLEVER
 cast: Aimee Rox; https://www.sexart.com/model/aimee-rox; f
-releasedate: 2022-01-01
+released: 2022-01-01
 photographer: Blake Jasper
 rating: 9.3
 fileprefix: SexArt-20220101-Clever
