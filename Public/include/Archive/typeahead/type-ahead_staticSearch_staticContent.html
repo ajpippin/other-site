@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Static/Static</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <link rel="stylesheet" href="css/autocomplete.css" />
+    <link rel="stylesheet" href="css/details.css" />
+    <script src="js/autocomplete.js">//</script>
+</head>
+<body>
+
+[ <a href="type-ahead_staticSearch_staticContent.html">refresh</a>
+| <a href="type-ahead_staticSearch_dynamicContent.html">static/dynamic</a>
+| <a href="type-ahead_multistate.html">multistate</a>
+]<br/>
+
+<h2>Static search &amp; Static content</h2>
+
+<table id="details">
+    <tbody>
+    <tr>
+        <td class="keyword">Country</td>
+        <td class="autocomplete" style="width:300px;"><input id="country" type="text" name="myCountry" placeholder=""/></td>
+    </tr>
+    <tr>
+        <td class="keyword">State</td>
+        <td class="autocomplete" style="width:300px;"><input id="state" type="text" name="myState" placeholder=""/></td>
+    </tr>
+    </tbody>
+    <tfoot>
+    <tr>
+        <td>&nbsp;</td>
+        <td style="text-align: center; padding-top: 10px;"><input value="Update" type="submit"></td>
+    </tr>
+    </tfoot>
+</table>
+
+<script src="js/countries.js">//</script>
+<script src="js/states.js">//</script>
+
+<script>
+    /*initiate the autocomplete function on the "myInput" element, and pass along the countries array as possible autocomplete values:*/
+    autocomplete(document.getElementById("country"), countries);
+    autocomplete(document.getElementById("state"), states);
+</script>
+
+</body>
+</html>
