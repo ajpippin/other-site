@@ -41,6 +41,19 @@ file: p:VivThomas-20250826-our-project-2160.mp4; k:7094464; t:mp4; r:2160p;
 file: p:VivThomas-20250826-our-project-tall.jpg; k:72; t:jpg; o:portrait;
 file: p:VivThomas-20250826-our-project-wide.jpg; k:128; t:jpg; o:landscape;
 
+file: p:MetArt-20250828-hot-sessions-01.jpg; k:116; t:jpg; o:portrait;
+file: p:MetArt-20250828-hot-sessions-01.zip; k:852752; n:116; t:zip;
+file: p:MetArt-20250828-jewel-tones.jpg; k:96; t:jpg; o:portrait;
+file: p:MetArt-20250828-jewel-tones.zip; k:262800; n:120; t:zip;
+file: p:MetArt-20250828-soft-sweetness.jpg; k:88; t:jpg; o:portrait;
+file: p:MetArt-20250828-soft-sweetness.zip; k:443312; n:120; t:zip;
+file: p:MetArt-20250828-vibrant-glow.jpg; k:104; t:jpg; o:portrait;
+file: p:MetArt-20250828-vibrant-glow.zip; k:279312; n:123; t:zip;
+file: p:SexArt-20250828-unique-beauty.jpg; k:80; t:jpg; o:portrait;
+file: p:SexArt-20250828-unique-beauty.zip; k:393872; n:133; t:zip;
+file: p:VivThomas-20250828-hit-the-spot.jpg; k:88; t:jpg; o:portrait;
+file: p:VivThomas-20250828-hit-the-spot.zip; k:639024; n:120; t:zip;
+
 file: p:MetArt-20240101-blissful-beach.jpg; k:76; t:jpg; o:portrait;
 file: p:MetArt-20240101-blissful-beach.zip; k:168607; n:83; t:zip;
 file: p:MetArt-20240101-cozy-night.jpg; k:98; t:jpg; o:portrait;
