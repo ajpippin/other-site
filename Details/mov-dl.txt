@@ -1,21 +1,9 @@
-#@ Movies/Links/keyval.txt ------------------------------------------------------------------------#
+#--------------------------------------------------------------------------------------------------#
+@type Movies
+@site Downloaded
 #--------------------------------------------------------------------------------------------------#
 
-title:
-type: 
-site: downloaded
-source:
-url: 
-rating: 85
-cast: 
-releasedate: 
-adddate: 
-producer: 
-rating: 
-description: xxx
-tag: 
 ---
-
 title: Widower Destroys Teens Pussy At His Wife's Funeral
 type: movie
 site: downloaded
