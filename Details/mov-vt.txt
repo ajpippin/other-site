@@ -4,6 +4,25 @@
 @year 2025
 #--------------------------------------------------------------------------------------------------#
 
+title: Playroom 2
+type: movie
+site: VivThomas
+cast: n:Casey Nohrman; u:https://www.vivthomas.com/model/casey-nohrman
+cast: n:Nikoleta; u:https://www.vivthomas.com/model/nikoleta
+released: 2025-10-02
+director: MetArt Films
+fileprefix: VivThomas-20251002-playroom-02-
+rating: 96
+url: https://www.vivthomas.com/model/casey-nohrman-and-nikoleta/movie/20251002/THE_PLAYROOM_2
+file: p:VivThomas-20251002-playroom-02-1080.mp4; k:1327600; t:mp4; r:1080p;
+file: p:VivThomas-20251002-playroom-02-2160.mp4; k:16040576; t:mp4; r:2160p;
+file: p:VivThomas-20251002-playroom-02-tall.jpg; k:564; t:jpg; o:portrait;
+file: p:VivThomas-20251002-playroom-02-wide.jpg; k:1224; t:jpg; o:landscape;
+description: (StrapLez bonus film)
+runtime: 0:35
+seconds: 2116
+duration: 35m16s
+---
 title: Julia's New Experience (Vol 2)
 type: movie
 site: VivThomas
