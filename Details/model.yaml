@@ -1,4 +1,11 @@
 @type Model
+
+#  @type movie
+#  @type gallery
+
+#  @site MetArt
+#  @site VivThomas
+#  @site SexArt
 ---
 name: Luise
 url: https://www.metart.com/model/luise
@@ -16,6 +23,8 @@ breasts: medium
 shaved: yes
 ethnicity: Caucasian
 bio: I am a student from Estonia. I love everything related to nature. Early walks in the chill mornings, watching the sunrise while listening to birds waking up. It just makes me so happy. Modeling started out as a fun hobby, now I feel like this was my calling. I love posing and trying out new things. It makes me feel very good about myself and my body. And who knows, maybe someday I could become a really good actress?
+tags:
+    fit
 galleries:
     MetArt-20251016-sheer-temptation
     MetArt-20250905-delicate-dare
@@ -38,5 +47,52 @@ galleries:
 movies:
     MetArt-20250608-on-the-couch-02
     MetArt-20241229-early-summer-morning-02
+indexed: 2025-10-16
+---
+name: n:Bonnie Dolce
+url: https://www.vivthomas.com/model/bonnie-dolce
+eye: blue
+hair: blonde
+height: 5'2"
+weight: 46
+measurements: 33/24/34
+heightCM: 157
+weightKG: 101
+measurementsCM: 83/61/86
+breasts: medium
+shaved: shaved
+ethnicity: Caucasian
+county: Hungary
+debutAge: 28
+tags:
+  fit
+movies:
+  VivThomas-20251016-focus-on-me
+  VivThomas-20250812-hot-cooldown
+  VivThomas-20250617-early-start
+  VivThomas-20250417-our-date
+galleries:
+  VivThomas-20250916-study-me
+  VivThomas-20250708-high-energy
+  VivThomas-20250519-your-touch
+  VivThomas-20250318-blonde-desire
+---
+cast: Sarah Heizel
+url: https://www.vivthomas.com/model/sarah-heizel
+Eyes: brown
+Hair: black
+Height: 5'6"
+Weight: 115
+Measurements: 33/24/34
+HeightCM: 167
+WeightKG: 52
+MeasurementsCM: 83/61/86
+Breasts: medium
+Shaved: shaved
+Ethnicity: Caucasian
+movies:
+  VivThomas-20251016-focus-on-me
+galleries:
+  VivThomas-20250916-study-me
 ---
 
