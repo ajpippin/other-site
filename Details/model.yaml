@@ -49,7 +49,7 @@ movies:
     MetArt-20241229-early-summer-morning-02
 indexed: 2025-10-16
 ---
-name: n:Bonnie Dolce
+name: Bonnie Dolce
 url: https://www.vivthomas.com/model/bonnie-dolce
 eye: blue
 hair: blonde
@@ -79,7 +79,7 @@ galleries:
   VivThomas-20250519-your-touch
   VivThomas-20250318-blonde-desire
 ---
-cast: Sarah Heizel
+name: Sarah Heizel
 url: https://www.vivthomas.com/model/sarah-heizel
 Eyes: brown
 Hair: black
@@ -97,4 +97,66 @@ movies:
 galleries:
   VivThomas-20250916-study-me
 ---
+name: Josephine Jane
+url: https://www.metart.com/model/josephine-jane
+country: Russian Federation
+Debut Age: 23
+Eye color: blue
+Hair color: brown
+Height: 5'6"
+Weight: 106 lbs
+Measurements: 32/22/32
+Breasts: medium
+Shaved: shaved
+galleries:
+  MetArt-20251018-forest-embrace
+  MetArt-20250403-grove-goddess
+  MetArt-20241203-adventuring
+  MetArt-20240912-scenic-view
+  MetArt-20240717-feeling-free
+  MetArt-20240423-field-of-flowers
+  MetArt-20240131-woodland-surprise
+  MetArt-20231030-presenting-josephine-jane
+---
+name: Hannah Le
+url: https://www.metart.com/model/hannah-le
+country: United States
+Debut Age: 23
+Eye color: brown
+Hair color: brown
+Height: 5'8''
+Weight: 119 lbs
+Breasts: small
+Measurements: 32/23/33
+Shaved: shaved
+Ethnicity: Asian
+galleries:
+  SexArt-20250706-snapshot-2
+  SexArt-20250311-lollygag-2
+  SexArt-20240618-double-trouble
+  SexArt-20240312-perfect-measure
+  SexArt-20210509-smoke-over-water
+  SexArt-20210216-takeoff
+  SexArt-20200830-on-the-spot
+movies:
+  SexArt-20251018-high-heat-01
+  SexArt-20250528-snapshot-01
+  SexArt-20250405-good-measure
+  SexArt-20250216-lollygag-01
+  SexArt-20240519-double-trouble
+  SexArt-20201209-on-the-spot
+  SexArt-20201103-jean-overalls
+  SexArt-20201001-cigarro
 
+---
+===
+
+#  @type movie
+#  @site SexArt
+#  @type gallery
+#  @site SexArt
+
+#  @type movie
+#  @site VivThomas
+#  @type gallery
+#  @site VivThomas
