@@ -11,18 +11,19 @@ name: Luise
 url: https://www.metart.com/model/luise
 type: Model
 site: MetArt
-eyes: blue
-hair: blonde
-height: 5'7"
-heightCM: 107
-weight: 106
-weightKG: 48
-measurements: 31/26/35
-measurementsCM: 78/66/89
-breasts: medium
-shaved: yes
-ethnicity: Caucasian
-bio: I am a student from Estonia. I love everything related to nature. Early walks in the chill mornings, watching the sunrise while listening to birds waking up. It just makes me so happy. Modeling started out as a fun hobby, now I feel like this was my calling. I love posing and trying out new things. It makes me feel very good about myself and my body. And who knows, maybe someday I could become a really good actress?
+details:
+  eyes: blue
+  hair: blonde
+  height: 5'7"
+  heightCM: 107
+  weight: 106
+  weightKG: 48
+  measurements: 31/26/35
+  measurementsCM: 78/66/89
+  breasts: medium
+  shaved: yes
+  ethnicity: Caucasian
+  bio: I am a student from Estonia. I love everything related to nature. Early walks in the chill mornings, watching the sunrise while listening to birds waking up. It just makes me so happy. Modeling started out as a fun hobby, now I feel like this was my calling. I love posing and trying out new things. It makes me feel very good about myself and my body. And who knows, maybe someday I could become a really good actress?
 tags:
     fit
 galleries:
@@ -51,19 +52,22 @@ indexed: 2025-10-16
 ---
 name: Bonnie Dolce
 url: https://www.vivthomas.com/model/bonnie-dolce
-eye: blue
-hair: blonde
-height: 5'2"
-weight: 46
-measurements: 33/24/34
-heightCM: 157
-weightKG: 101
-measurementsCM: 83/61/86
-breasts: medium
-shaved: shaved
-ethnicity: Caucasian
-county: Hungary
-debutAge: 28
+type: Model
+site: MetArt
+details:
+  eye: blue
+  hair: blonde
+  height: 5'2"
+  weight: 46
+  measurements: 33/24/34
+  heightCM: 157
+  weightKG: 101
+  measurementsCM: 83/61/86
+  breasts: medium
+  shaved: shaved
+  ethnicity: Caucasian
+  county: Hungary
+  debutAge: 28
 files:
   "p:Model-bonnie-dolce.jpg; k:36; t:jpg; o:portrait;"
 tags:
@@ -81,17 +85,20 @@ galleries:
 ---
 name: Sarah Heizel
 url: https://www.vivthomas.com/model/sarah-heizel
-Eyes: brown
-Hair: black
-Height: 5'6"
-Weight: 115
-Measurements: 33/24/34
-HeightCM: 167
-WeightKG: 52
-MeasurementsCM: 83/61/86
-Breasts: medium
-Shaved: shaved
-Ethnicity: Caucasian
+type: Model
+site: MetArt
+details:
+  Eyes: brown
+  Hair: black
+  Height: 5'6"
+  Weight: 115
+  Measurements: 33/24/34
+  HeightCM: 167
+  WeightKG: 52
+  MeasurementsCM: 83/61/86
+  Breasts: medium
+  Shaved: shaved
+  Ethnicity: Caucasian
 movies:
   VivThomas-20251016-focus-on-me
 galleries:
@@ -99,15 +106,18 @@ galleries:
 ---
 name: Josephine Jane
 url: https://www.metart.com/model/josephine-jane
-country: Russian Federation
-Debut Age: 23
-Eye color: blue
-Hair color: brown
-Height: 5'6"
-Weight: 106 lbs
-Measurements: 32/22/32
-Breasts: medium
-Shaved: shaved
+type: Model
+site: MetArt
+details:
+  country: Russian Federation
+  Debut Age: 23
+  Eye color: blue
+  Hair color: brown
+  Height: 5'6"
+  Weight: 106 lbs
+  Measurements: 32/22/32
+  Breasts: medium
+  Shaved: shaved
 galleries:
   MetArt-20251018-forest-embrace
   MetArt-20250403-grove-goddess
@@ -120,16 +130,19 @@ galleries:
 ---
 name: Hannah Le
 url: https://www.metart.com/model/hannah-le
-country: United States
-Debut Age: 23
-Eye color: brown
-Hair color: brown
-Height: 5'8''
-Weight: 119 lbs
-Breasts: small
-Measurements: 32/23/33
-Shaved: shaved
-Ethnicity: Asian
+type: Model
+site: MetArt
+details:
+  country: United States
+  Debut Age: 23
+  Eye color: brown
+  Hair color: brown
+  Height: 5'8''
+  Weight: 119 lbs
+  Breasts: small
+  Measurements: 32/23/33
+  Shaved: shaved
+  Ethnicity: Asian
 galleries:
   SexArt-20250706-snapshot-2
   SexArt-20250311-lollygag-2
@@ -147,8 +160,54 @@ movies:
   SexArt-20201209-on-the-spot
   SexArt-20201103-jean-overalls
   SexArt-20201001-cigarro
-
 ---
+name: Liby Nicole
+url: https://www.metart.com/model/liby-nicole
+type: Model
+site: MetArt
+details:
+  country: Belarus
+  type: Model
+  site: MetArt
+  details:
+  Debut Age: 18
+  Eye color: green
+  Hair color: blonde
+  Height: 5'6"
+  Weight: 108
+  Measurements: 32/24/33
+  Breasts: medium
+  Shaved: shaved
+  Ethnicity: Caucasian
+  bio: Hi, my name is Liby. I am an 18 yo student and coffee lover. I laugh too loud, take too many photos, and never say no to ice cream. Love to be around me friends to share silly moments with.
+galleries:
+  MetArt-20251022-presenting-liby-nicole
+---
+name: Mila Ex
+url: https://www.metart.com/model/mila-ex
+type: Model
+site: MetArt
+details:
+  country: Russian Federation
+  Debut Age: 27
+  Eyes: blue
+  Hair: blonde
+  Height: 5'6"
+  Weight: 119 lbs
+  Measurements: 36/28/36
+  Breasts: medium
+  Shaved: trimmed
+  Ethnicity: Caucasian
+  Bio: By day, I’m just your average blonde college student, hitting the books and trying to survive art history classes. But in between lectures, you can find me striking a pose—nude, of course. They say you should study what you love, and well, I’ve always appreciated the human form. Why not start with my own? Balancing school and modeling isn’t easy, but hey, who says you can’t have brains and beauty? When I’m not in front of the camera, I’m probably trying to figure out if that ancient statue was a god or just another naked guy. Life’s a balancing act, and I’m nailing it—one pose at a time!
+galleries:
+  SexArt-20251022-flamboyant-style
+  SexArt-20250721-bow-tied
+  SexArt-20250507-private-invitation
+  SexArt-20250104-my-study
+  SexArt-20241118-flower-shop
+  SexArt-20240919-presenting-mila-ex
+---
+
 ===
 
 #  @type movie
