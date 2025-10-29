@@ -207,15 +207,112 @@ galleries:
   SexArt-20241118-flower-shop
   SexArt-20240919-presenting-mila-ex
 ---
+name: Putri Cinta
+url: https://www.metart.com/model/putri-cinta
+type: Model
+site: MetArt
+details:
+  country: Indonesia
+  Debut Age: 23
+  Eye color: brown
+  Hair color: brown
+  Height: 5'3"
+  Weight: 88
+  Breasts: large
+  Measurements: 32/28/32
+  Shaved: shaved
+  Ethnicity: Asian
+  Bio: I love traveling, working out and being in the sun. I love to explore new places and also enjoying biking every day when I'm home in Bali. I'm a fun, free spirited adventurer who also enjoys my quiet time. I'm an island girl that is happiest being on the beach with the sand between my toes, sipping coconut and eating fresh fruit.
+galleries:
+  MetArt-20250904-delightfulness-01
+  MetArt-20250620-naked-sheets-01
+  MetArt-20250228-taste-my-fruit-01
+  MetArt-20241208-naja-01
+  MetArt-20201113-butterflys-dream
+  MetArt-20200812-presenting-putri-cinta
+movies:
+  MetArt-20251028-delightfulness-02
+  MetArt-20250727-naked-sheets-02
+  MetArt-20250323-taste-my-fruit-02
+  MetArt-20250119-naja-02
+  MetArt-20240820-stranded-siren
+  MetArt-20240625-heart-landscape
+  MetArt-20201018-my-shadows-journey
+  MetArt-20200922-butterflys-dream
+---
+name: Ambar Lapiedra
+url: https://www.sexart.com/model/ambar-lapiedra
+type: Model
+site: MetArt
+details:
+  country: Spain
+  Age When Published: 21
+  Eye color: blue
+  Hair color: blonde
+  Height: 5'6"
+  Weight: 115
+  Breasts: large
+  Measurements: 35/23/35
+  Shaved: shaved
+  Ethnicity: Caucasian
+movies:  
+  SexArt-20251029-close-to-your-heart
+  SexArt-20250831-just-give-up
+  SexArt-20250815-perfect-future
+  SexArt-20250720-resist
+  SexArt-20250326-state-of-bliss
+  SexArt-20250131-midnight-mystique
+  SexArt-20250108-first-touch
+---
+url: https://www.metartnetwork.com/model/viksi
+name: Viksi
+type: Model
+site: MetArt
+details:
+  country: Ukraine
+  Debut Age: 26
+  Eye color: blue
+  Hair color: blonde
+  Height: 5'6"
+  Weight: 119
+  Breasts: small
+  Measurements: 32/25/32
+  Shaved: shaved
+  Ethnicity: Caucasian
+galleries:
+  MetArt-20251015-frilly-flirt
+  MetArt-20250915-make-me-wet
+  MetArt-20250831-elevate
+  MetArt-20250825-naughty-summer
+  MetArt-20240617-beautiful-roses
+  MetArt-20240324-presenting-viksi
+  MetArt-20210518-sexy-surprise
+movies:
+  MetArt-20250923-summer-kisses-
+  MetArt-20240716-seductive-roses-
+  MetArt-20210520-birthday-kisses-
+
+---
 
 ===
 
-#  @type movie
-#  @site SexArt
-#  @type gallery
-#  @site SexArt
-
-#  @type movie
-#  @site VivThomas
-#  @type gallery
-#  @site VivThomas
+# galleries:
+@type gallery
+@site MetArt
+# movies:
+@type movie
+@site MetArt
+  
+# galleries:
+@type gallery
+@site SexArt
+  # movies:
+@type movie
+@site SexArt
+  
+# galleries:
+@type gallery
+@site VivThomas
+  # movies:
+@type movie
+@site VivThomas
