@@ -139,6 +139,14 @@ file: p:MetArt-20251116-shelenas-interview-02-1080.mp4; k:557248; t:mp4; r:1080p
 file: p:MetArt-20251116-shelenas-interview-02-2160.mp4; k:5554464; t:mp4; r:2160p;
 file: p:MetArt-20251116-shelenas-interview-02-tall.jpg; k:56; t:jpg; o:portrait;
 file: p:MetArt-20251116-shelenas-interview-02-wide.jpg; k:96; t:jpg; o:landscape;
+file: p:MetArt-20251117-floral-morning.jpg; k:80; t:jpg; o:portrait;
+file: p:MetArt-20251117-floral-morning.zip; k:312208; n:107; t:zip;
+file: p:MetArt-20251117-lively-mood.jpg; k:80; t:jpg; o:portrait;
+file: p:MetArt-20251117-lively-mood.zip; k:213200; n:103; t:zip;
+file: p:MetArt-20251117-taste-of-pleasure.jpg; k:96; t:jpg; o:portrait;
+file: p:MetArt-20251117-taste-of-pleasure.zip; k:328448; n:121; t:zip;
+file: p:MetArt-20251117-untold-beauty.jpg; k:84; t:jpg; o:portrait;
+file: p:MetArt-20251117-untold-beauty.zip; k:295392; n:132; t:zip;
 file: p:Model-lalli.jpg; k:40; t:jpg; o:portrait
 file: p:SexArt-20251101-pink-fantasy.jpg; k:100; t:jpg; o:portrait;
 file: p:SexArt-20251101-pink-fantasy.zip; k:655504; n:124; t:zip;
@@ -194,6 +202,8 @@ file: p:SexArt-20251116-read-in-you-2160.mp4; k:17335232; t:mp4; r:2160p;
 file: p:SexArt-20251116-read-in-you-high.zip; k:197376; n:113; t:zip;
 file: p:SexArt-20251116-read-in-you-tall.jpg; k:100; t:jpg; o:portrait;
 file: p:SexArt-20251116-read-in-you-wide.jpg; k:144; t:jpg; o:landscape;
+file: p:SexArt-20251117-fiery-allure.jpg; k:64; t:jpg; o:portrait;
+file: p:SexArt-20251117-fiery-allure.zip; k:344560; n:152; t:zip;
 file: p:VivThomas-20251103-special-helper.jpg; k:96; t:jpg; o:portrait;
 file: p:VivThomas-20251103-special-helper.zip; k:180800; n:124; t:zip;
 file: p:VivThomas-20251104-dream-kiss-1080.mp4; k:2175926; t:mp4; r:1080p;
@@ -216,3 +226,5 @@ file: p:VivThomas-20251113-goddess-unleashed-01-tall.jpg; k:84; t:jpg; o:portrai
 file: p:VivThomas-20251113-goddess-unleashed-01-wide.jpg; k:144; t:jpg; o:landscape;
 file: p:VivThomas-20251115-lovely-smile.jpg; k:80; t:jpg; o:portrait;
 file: p:VivThomas-20251115-lovely-smile.zip; k:426528; n:114; t:zip;
+file: p:VivThomas-20251117-close-quarters.jpg; k:80; t:jpg; o:portrait;
+file: p:VivThomas-20251117-close-quarters.zip; k:295184; n:137; t:zip;
