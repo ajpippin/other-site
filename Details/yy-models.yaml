@@ -1,11 +1,4 @@
 @type Model
-
-#  @type movie
-#  @type gallery
-
-#  @site MetArt
-#  @site VivThomas
-#  @site SexArt
 ---
 name: Luise
 url: https://www.metart.com/model/luise
@@ -26,29 +19,6 @@ details:
   bio: I am a student from Estonia. I love everything related to nature. Early walks in the chill mornings, watching the sunrise while listening to birds waking up. It just makes me so happy. Modeling started out as a fun hobby, now I feel like this was my calling. I love posing and trying out new things. It makes me feel very good about myself and my body. And who knows, maybe someday I could become a really good actress?
 tags:
     fit
-galleries:
-    MetArt-20251016-sheer-temptation
-    MetArt-20250905-delicate-dare
-    MetArt-20250809-my-escape
-    MetArt-20250707-harvest-heart
-    MetArt-20250428-on-the-couch-01
-    MetArt-20250330-playful-spark
-    MetArt-20250228-lemon-tree
-    MetArt-20250126-pajama-party
-    MetArt-20241129-early-summer-morning-01
-    MetArt-20241014-patio-swing
-    MetArt-20240916-clear-contrast
-    MetArt-20240816-four-pillars
-    MetArt-20240712-sand-and-sea
-    MetArt-20240611-perfect-morning
-    MetArt-20240510-velvet-sofa
-    MetArt-20240403-fishnet-frenzy
-    MetArt-20240219-private-note
-    MetArt-20231201-presenting-luise
-movies:
-    MetArt-20250608-on-the-couch-02
-    MetArt-20241229-early-summer-morning-02
-indexed: 2025-10-16
 ---
 name: Bonnie Dolce
 url: https://www.vivthomas.com/model/bonnie-dolce
@@ -69,19 +39,12 @@ details:
   county: Hungary
   debutAge: 28
 files:
-  "p:Model-bonnie-dolce.jpg; k:36; t:jpg; o:portrait;"
+  - path: Model-bonnie-dolce.jpg
+    kib: 36
+    type: jpg
+    orientation: portrait
 tags:
   fit
-movies:
-  VivThomas-20251016-focus-on-me
-  VivThomas-20250812-hot-cooldown
-  VivThomas-20250617-early-start
-  VivThomas-20250417-our-date
-galleries:
-  VivThomas-20250916-study-me
-  VivThomas-20250708-high-energy
-  VivThomas-20250519-your-touch
-  VivThomas-20250318-blonde-desire
 ---
 name: Sarah Heizel
 url: https://www.vivthomas.com/model/sarah-heizel
@@ -99,10 +62,6 @@ details:
   Breasts: medium
   Shaved: shaved
   Ethnicity: Caucasian
-movies:
-  VivThomas-20251016-focus-on-me
-galleries:
-  VivThomas-20250916-study-me
 ---
 name: Josephine Jane
 url: https://www.metart.com/model/josephine-jane
@@ -118,15 +77,6 @@ details:
   Measurements: 32/22/32
   Breasts: medium
   Shaved: shaved
-galleries:
-  MetArt-20251018-forest-embrace
-  MetArt-20250403-grove-goddess
-  MetArt-20241203-adventuring
-  MetArt-20240912-scenic-view
-  MetArt-20240717-feeling-free
-  MetArt-20240423-field-of-flowers
-  MetArt-20240131-woodland-surprise
-  MetArt-20231030-presenting-josephine-jane
 ---
 name: Hannah Le
 url: https://www.metart.com/model/hannah-le
@@ -143,23 +93,6 @@ details:
   Measurements: 32/23/33
   Shaved: shaved
   Ethnicity: Asian
-galleries:
-  SexArt-20250706-snapshot-2
-  SexArt-20250311-lollygag-2
-  SexArt-20240618-double-trouble
-  SexArt-20240312-perfect-measure
-  SexArt-20210509-smoke-over-water
-  SexArt-20210216-takeoff
-  SexArt-20200830-on-the-spot
-movies:
-  SexArt-20251018-high-heat-01
-  SexArt-20250528-snapshot-01
-  SexArt-20250405-good-measure
-  SexArt-20250216-lollygag-01
-  SexArt-20240519-double-trouble
-  SexArt-20201209-on-the-spot
-  SexArt-20201103-jean-overalls
-  SexArt-20201001-cigarro
 ---
 name: Liby Nicole
 url: https://www.metart.com/model/liby-nicole
@@ -180,8 +113,6 @@ details:
   Shaved: shaved
   Ethnicity: Caucasian
   bio: Hi, my name is Liby. I am an 18 yo student and coffee lover. I laugh too loud, take too many photos, and never say no to ice cream. Love to be around me friends to share silly moments with.
-galleries:
-  MetArt-20251022-presenting-liby-nicole
 ---
 name: Mila Ex
 url: https://www.metart.com/model/mila-ex
@@ -199,13 +130,6 @@ details:
   Shaved: trimmed
   Ethnicity: Caucasian
   Bio: By day, I’m just your average blonde college student, hitting the books and trying to survive art history classes. But in between lectures, you can find me striking a pose—nude, of course. They say you should study what you love, and well, I’ve always appreciated the human form. Why not start with my own? Balancing school and modeling isn’t easy, but hey, who says you can’t have brains and beauty? When I’m not in front of the camera, I’m probably trying to figure out if that ancient statue was a god or just another naked guy. Life’s a balancing act, and I’m nailing it—one pose at a time!
-galleries:
-  SexArt-20251022-flamboyant-style
-  SexArt-20250721-bow-tied
-  SexArt-20250507-private-invitation
-  SexArt-20250104-my-study
-  SexArt-20241118-flower-shop
-  SexArt-20240919-presenting-mila-ex
 ---
 name: Putri Cinta
 url: https://www.metart.com/model/putri-cinta
@@ -223,22 +147,6 @@ details:
   Shaved: shaved
   Ethnicity: Asian
   Bio: I love traveling, working out and being in the sun. I love to explore new places and also enjoying biking every day when I'm home in Bali. I'm a fun, free spirited adventurer who also enjoys my quiet time. I'm an island girl that is happiest being on the beach with the sand between my toes, sipping coconut and eating fresh fruit.
-galleries:
-  MetArt-20250904-delightfulness-01
-  MetArt-20250620-naked-sheets-01
-  MetArt-20250228-taste-my-fruit-01
-  MetArt-20241208-naja-01
-  MetArt-20201113-butterflys-dream
-  MetArt-20200812-presenting-putri-cinta
-movies:
-  MetArt-20251028-delightfulness-02
-  MetArt-20250727-naked-sheets-02
-  MetArt-20250323-taste-my-fruit-02
-  MetArt-20250119-naja-02
-  MetArt-20240820-stranded-siren
-  MetArt-20240625-heart-landscape
-  MetArt-20201018-my-shadows-journey
-  MetArt-20200922-butterflys-dream
 ---
 name: Ambar Lapiedra
 url: https://www.sexart.com/model/ambar-lapiedra
@@ -255,14 +163,6 @@ details:
   Measurements: 35/23/35
   Shaved: shaved
   Ethnicity: Caucasian
-movies:  
-  SexArt-20251029-close-to-your-heart
-  SexArt-20250831-just-give-up
-  SexArt-20250815-perfect-future
-  SexArt-20250720-resist
-  SexArt-20250326-state-of-bliss
-  SexArt-20250131-midnight-mystique
-  SexArt-20250108-first-touch
 ---
 url: https://www.metartnetwork.com/model/viksi
 name: Viksi
@@ -279,18 +179,6 @@ details:
   Measurements: 32/25/32
   Shaved: shaved
   Ethnicity: Caucasian
-galleries:
-  MetArt-20251015-frilly-flirt
-  MetArt-20250915-make-me-wet
-  MetArt-20250831-elevate
-  MetArt-20250825-naughty-summer
-  MetArt-20240617-beautiful-roses
-  MetArt-20240324-presenting-viksi
-  MetArt-20210518-sexy-surprise
-movies:
-  MetArt-20250923-summer-kisses
-  MetArt-20240716-seductive-roses
-  MetArt-20210520-birthday-kisses
 ---
 url: https://www.metart.com/model/lalli
 name: Lalli
@@ -312,28 +200,6 @@ files:
     kib: 40
     type: jpg
     orientation: portrait
-galleries:
-  MetArt-20251105-radiant-beauty
-  MetArt-20251002-enchanted-moment
-  MetArt-20250901-softly-sexy
-  MetArt-20250714-laced-intention
-  MetArt-20250618-dreaming
-  MetArt-20250504-intimate-desires
-  MetArt-20250325-jean-tease
-  MetArt-20250307-floral-essence
-  MetArt-20250203-my-fantasy
-  MetArt-20250104-guiding-light
-  MetArt-20241201-green-seductress
-  MetArt-20241029-fall-is-here
-  MetArt-20240907-warm-and-cozy
-  MetArt-20240805-in-the-study
-  MetArt-20240708-pink-mood
-  MetArt-20240605-in-my-study
-  MetArt-20240418-cozy-cottage
-  MetArt-20240302-so-lovely
-  MetArt-20240202-all-play
-  MetArt-20231225-perfect-christmas
-  MetArt-20230928-presenting-lalli
 ---
 url: https://www.metart.com/model/lalli
 name: Maia Wixx
@@ -352,11 +218,6 @@ details:
   Shaved: shaved
   Ethnicity: Caucasian
   bio: My name is Maia! I grew up in a small town and I'm very close with my family. I like to sing...mostly in the shower. I'm interested in fashion and technology. My favourite food is popcorn.
-galleries:
-  MetArt-20251107-daybreak-desire
-  MetArt-20250719-easy-morning
-  MetArt-20250515-flirty-floral
-  MetArt-20250224-presenting-maia-wixx
 ---
 url: https://www.metart.com/model/barbie-brill
 name: Barbie Brill
@@ -373,12 +234,6 @@ details:
   Measurements: 33/23/34
   Shaved: shaved
   Ethnicity: Caucasian
-galleries:
-  MetArt-20251108-evening-wind-down
-  MetArt-20250619-crimson-crush
-  MetArt-20250410-nature-s-candy
-  MetArt-20250224-polishing
-  MetArt-20250102-presenting-barbie-brill
 ---
 
 ===
