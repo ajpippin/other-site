@@ -1,10 +1,10 @@
 @type Model
 ---
 name: Luise
-url: https://www.metart.com/model/luise
 type: Model
 site: MetArt
 details:
+  url: https://www.metart.com/model/luise
   eyes: blue
   hair: blonde
   height: 5'7"
@@ -21,10 +21,10 @@ tags:
     fit
 ---
 name: Bonnie Dolce
-url: https://www.vivthomas.com/model/bonnie-dolce
 type: Model
 site: MetArt
 details:
+  url: https://www.vivthomas.com/model/bonnie-dolce
   eye: blue
   hair: blonde
   height: 5'2"
@@ -47,10 +47,10 @@ tags:
   fit
 ---
 name: Sarah Heizel
-url: https://www.vivthomas.com/model/sarah-heizel
 type: Model
 site: MetArt
 details:
+  url: https://www.vivthomas.com/model/sarah-heizel
   Eyes: brown
   Hair: black
   Height: 5'6"
@@ -64,10 +64,10 @@ details:
   Ethnicity: Caucasian
 ---
 name: Josephine Jane
-url: https://www.metart.com/model/josephine-jane
 type: Model
 site: MetArt
 details:
+  url: https://www.metart.com/model/josephine-jane
   country: Russian Federation
   Debut Age: 23
   Eye color: blue
@@ -79,10 +79,10 @@ details:
   Shaved: shaved
 ---
 name: Hannah Le
-url: https://www.metart.com/model/hannah-le
 type: Model
 site: MetArt
 details:
+  url: https://www.metart.com/model/hannah-le
   country: United States
   Debut Age: 23
   Eye color: brown
@@ -95,10 +95,10 @@ details:
   Ethnicity: Asian
 ---
 name: Liby Nicole
-url: https://www.metart.com/model/liby-nicole
 type: Model
 site: MetArt
 details:
+  url: https://www.metart.com/model/liby-nicole
   country: Belarus
   type: Model
   site: MetArt
@@ -115,10 +115,10 @@ details:
   bio: Hi, my name is Liby. I am an 18 yo student and coffee lover. I laugh too loud, take too many photos, and never say no to ice cream. Love to be around me friends to share silly moments with.
 ---
 name: Mila Ex
-url: https://www.metart.com/model/mila-ex
 type: Model
 site: MetArt
 details:
+  url: https://www.metart.com/model/mila-ex
   country: Russian Federation
   Debut Age: 27
   Eyes: blue
@@ -132,10 +132,10 @@ details:
   Bio: By day, I’m just your average blonde college student, hitting the books and trying to survive art history classes. But in between lectures, you can find me striking a pose—nude, of course. They say you should study what you love, and well, I’ve always appreciated the human form. Why not start with my own? Balancing school and modeling isn’t easy, but hey, who says you can’t have brains and beauty? When I’m not in front of the camera, I’m probably trying to figure out if that ancient statue was a god or just another naked guy. Life’s a balancing act, and I’m nailing it—one pose at a time!
 ---
 name: Putri Cinta
-url: https://www.metart.com/model/putri-cinta
 type: Model
 site: MetArt
 details:
+  url: https://www.metart.com/model/putri-cinta
   country: Indonesia
   Debut Age: 23
   Eye color: brown
@@ -149,10 +149,10 @@ details:
   Bio: I love traveling, working out and being in the sun. I love to explore new places and also enjoying biking every day when I'm home in Bali. I'm a fun, free spirited adventurer who also enjoys my quiet time. I'm an island girl that is happiest being on the beach with the sand between my toes, sipping coconut and eating fresh fruit.
 ---
 name: Ambar Lapiedra
-url: https://www.sexart.com/model/ambar-lapiedra
 type: Model
 site: MetArt
 details:
+  url: https://www.sexart.com/model/ambar-lapiedra
   country: Spain
   Age When Published: 21
   Eye color: blue
@@ -164,11 +164,11 @@ details:
   Shaved: shaved
   Ethnicity: Caucasian
 ---
-url: https://www.metartnetwork.com/model/viksi
 name: Viksi
 type: Model
 site: MetArt
 details:
+  url: https://www.metartnetwork.com/model/viksi
   country: Ukraine
   Debut Age: 26
   Eye color: blue
@@ -180,12 +180,12 @@ details:
   Shaved: shaved
   Ethnicity: Caucasian
 ---
-url: https://www.metart.com/model/lalli
 name: Lalli
 type: Model
 site: MetArt
 details:
   country: Russian Federation
+  url: https://www.metart.com/model/lalli
   Age: 23
   Eyes: blue
   Hair: blonde
@@ -201,7 +201,6 @@ files:
     type: jpg
     orientation: portrait
 ---
-url: https://www.metart.com/model/lalli
 name: Maia Wixx
 type: Model
 site: MetArt
@@ -219,11 +218,11 @@ details:
   Ethnicity: Caucasian
   bio: My name is Maia! I grew up in a small town and I'm very close with my family. I like to sing...mostly in the shower. I'm interested in fashion and technology. My favourite food is popcorn.
 ---
-url: https://www.metart.com/model/barbie-brill
 name: Barbie Brill
 type: Model
 site: MetArt
 details:
+  url: https://www.metart.com/model/barbie-brill
   country: Hungary
   Age When Published: 23
   Eye color: blue
@@ -235,26 +234,24 @@ details:
   Shaved: shaved
   Ethnicity: Caucasian
 ---
-
-===
-
-# galleries:
-@type gallery
-@site MetArt
-# movies:
-@type movie
-@site MetArt
-  
-# galleries:
-@type gallery
-@site SexArt
-  # movies:
-@type movie
-@site SexArt
-  
-# galleries:
-@type gallery
-@site VivThomas
-  # movies:
-@type movie
-@site VivThomas
+name: Era
+type: Model
+site: MetArt
+details:
+  url: https://www.metart.com/model/era
+  Eye color: brown
+  Hair color: brown
+  Height: 5'9"
+  Weight: 119
+  Breasts: medium
+  Measurements: 36/24/36
+  Shaved: shaved
+  Ethnicity: Caucasian
+  Bio: I like to stay fit in unconventional ways. Most of the time you can find me roller blading or playing beach volleyball. Every Sunday night, I have dinner with my entire family. My parents don't give us the option not to come, even though we are all adults. The meals are delicious and I am happy make time for my family.
+files:
+  - path: Model-lalli.jpg
+    kib: 158
+    type: jpg
+    orientation: portrait
+    md5: 6874844d621c9cef684996f1372e28a1
+---
