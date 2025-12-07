@@ -5,6 +5,8 @@ type: Model
 site: MetArt
 details:
   url: https://www.metart.com/model/luise
+  nationality: Estonia
+  Debut Age: 20
   eyes: blue
   hair: blonde
   height: 5'7"
@@ -17,8 +19,11 @@ details:
   shaved: yes
   ethnicity: Caucasian
   bio: I am a student from Estonia. I love everything related to nature. Early walks in the chill mornings, watching the sunrise while listening to birds waking up. It just makes me so happy. Modeling started out as a fun hobby, now I feel like this was my calling. I love posing and trying out new things. It makes me feel very good about myself and my body. And who knows, maybe someday I could become a really good actress?
-tags:
-    fit
+files:
+  - path: Model-MetArt-luise.jpg
+    sizeKiB: 36
+    type: jpg
+    orientation: portrait
 ---
 name: Bonnie Dolce
 type: Model
@@ -36,21 +41,21 @@ details:
   breasts: medium
   shaved: shaved
   ethnicity: Caucasian
-  county: Hungary
+  nationality: Hungary
   debutAge: 28
 files:
   - path: Model-bonnie-dolce.jpg
-    kib: 36
+    sizeKiB: 36
     type: jpg
     orientation: portrait
-tags:
-  fit
 ---
 name: Sarah Heizel
 type: Model
-site: MetArt
+site: VivThomas
 details:
   url: https://www.vivthomas.com/model/sarah-heizel
+  nationality: Ukraine
+  Debut Age: 22
   Eyes: brown
   Hair: black
   Height: 5'6"
@@ -62,13 +67,18 @@ details:
   Breasts: medium
   Shaved: shaved
   Ethnicity: Caucasian
+files:
+  - path: Model-MetArt-sarah-heizel.jpg
+    sizeKiB: 84
+    type: jpg
+    orientation: portrait
 ---
 name: Josephine Jane
 type: Model
 site: MetArt
 details:
   url: https://www.metart.com/model/josephine-jane
-  country: Russian Federation
+  nationality: Russian Federation
   Debut Age: 23
   Eye color: blue
   Hair color: brown
@@ -77,13 +87,18 @@ details:
   Measurements: 32/22/32
   Breasts: medium
   Shaved: shaved
+files:
+  - path: Model-MetArt-josephine-jane.jpg
+    sizeKiB: 52
+    type: jpg
+    orientation: portrait
 ---
 name: Hannah Le
 type: Model
 site: MetArt
 details:
   url: https://www.metart.com/model/hannah-le
-  country: United States
+  nationality: United States
   Debut Age: 23
   Eye color: brown
   Hair color: brown
@@ -93,16 +108,18 @@ details:
   Measurements: 32/23/33
   Shaved: shaved
   Ethnicity: Asian
+files:
+  - path: Model-MetArt-hannah-le.jpg
+    sizeKiB: 88
+    type: jpg
+    orientation: portrait
 ---
 name: Liby Nicole
 type: Model
 site: MetArt
 details:
   url: https://www.metart.com/model/liby-nicole
-  country: Belarus
-  type: Model
-  site: MetArt
-  details:
+  nationality: Belarus
   Debut Age: 18
   Eye color: green
   Hair color: blonde
@@ -113,13 +130,18 @@ details:
   Shaved: shaved
   Ethnicity: Caucasian
   bio: Hi, my name is Liby. I am an 18 yo student and coffee lover. I laugh too loud, take too many photos, and never say no to ice cream. Love to be around me friends to share silly moments with.
+files:
+  - path: Model-MetArt-liby-nicole.jpg
+    sizeKiB: 124
+    type: jpg
+    orientation: portrait
 ---
 name: Mila Ex
 type: Model
 site: MetArt
 details:
   url: https://www.metart.com/model/mila-ex
-  country: Russian Federation
+  nationality: Russian Federation
   Debut Age: 27
   Eyes: blue
   Hair: blonde
@@ -130,13 +152,18 @@ details:
   Shaved: trimmed
   Ethnicity: Caucasian
   Bio: By day, I’m just your average blonde college student, hitting the books and trying to survive art history classes. But in between lectures, you can find me striking a pose—nude, of course. They say you should study what you love, and well, I’ve always appreciated the human form. Why not start with my own? Balancing school and modeling isn’t easy, but hey, who says you can’t have brains and beauty? When I’m not in front of the camera, I’m probably trying to figure out if that ancient statue was a god or just another naked guy. Life’s a balancing act, and I’m nailing it—one pose at a time!
+files:
+  - path: Model-MetArt-mila-ex.jpg
+    sizeKiB: 40
+    type: jpg
+    orientation: portrait
 ---
 name: Putri Cinta
 type: Model
 site: MetArt
 details:
   url: https://www.metart.com/model/putri-cinta
-  country: Indonesia
+  nationality: Indonesia
   Debut Age: 23
   Eye color: brown
   Hair color: brown
@@ -147,13 +174,18 @@ details:
   Shaved: shaved
   Ethnicity: Asian
   Bio: I love traveling, working out and being in the sun. I love to explore new places and also enjoying biking every day when I'm home in Bali. I'm a fun, free spirited adventurer who also enjoys my quiet time. I'm an island girl that is happiest being on the beach with the sand between my toes, sipping coconut and eating fresh fruit.
+files:
+  - path: ppp
+    sizeKiB: nnn
+    type: jpg
+    orientation: portrait
 ---
 name: Ambar Lapiedra
 type: Model
 site: MetArt
 details:
   url: https://www.sexart.com/model/ambar-lapiedra
-  country: Spain
+  nationality: Spain
   Age When Published: 21
   Eye color: blue
   Hair color: blonde
@@ -163,13 +195,18 @@ details:
   Measurements: 35/23/35
   Shaved: shaved
   Ethnicity: Caucasian
+files:
+  - path: Model-MetArt-ambar-lapiedra.jpg
+    sizeKiB: 40
+    type: jpg
+    orientation: portrait
 ---
 name: Viksi
 type: Model
 site: MetArt
 details:
   url: https://www.metartnetwork.com/model/viksi
-  country: Ukraine
+  nationality: Ukraine
   Debut Age: 26
   Eye color: blue
   Hair color: blonde
@@ -179,12 +216,17 @@ details:
   Measurements: 32/25/32
   Shaved: shaved
   Ethnicity: Caucasian
+files:
+  - path: Model-MetArt-viksi.jpg
+    sizeKiB: 48
+    type: jpg
+    orientation: portrait
 ---
 name: Lalli
 type: Model
 site: MetArt
 details:
-  country: Russian Federation
+  nationality: Russian Federation
   url: https://www.metart.com/model/lalli
   Age: 23
   Eyes: blue
@@ -205,7 +247,7 @@ name: Maia Wixx
 type: Model
 site: MetArt
 details:
-  country: Ukraine
+  nationality: Ukraine
   Age When Published: 29
   url: https://www.metart.com/model/maia-wixx
   Eye color: hazel
@@ -217,13 +259,18 @@ details:
   Shaved: shaved
   Ethnicity: Caucasian
   bio: My name is Maia! I grew up in a small town and I'm very close with my family. I like to sing...mostly in the shower. I'm interested in fashion and technology. My favourite food is popcorn.
+files:
+  - path: Model-MetArt-maia-wixx.jpg
+    sizeKiB: 40
+    type: jpg
+    orientation: portrait
 ---
 name: Barbie Brill
 type: Model
 site: MetArt
 details:
   url: https://www.metart.com/model/barbie-brill
-  country: Hungary
+  nationality: Hungary
   Age When Published: 23
   Eye color: blue
   Hair color: blonde
@@ -233,12 +280,18 @@ details:
   Measurements: 33/23/34
   Shaved: shaved
   Ethnicity: Caucasian
+files:
+  - path: Model-MetArt-barbie-brill.jpg
+    sizeKiB: 36
+    type: jpg
+    orientation: portrait
 ---
 name: Era
 type: Model
 site: MetArt
 details:
   url: https://www.metart.com/model/era
+  nationality: Russian Federation
   Eye color: brown
   Hair color: brown
   Height: 5'9"
@@ -254,4 +307,150 @@ files:
     type: jpg
     orientation: portrait
     md5: 6874844d621c9cef684996f1372e28a1
+---
+name: Jessy Alma
+type: Model
+site: MetArt
+details:
+  url: https://www.metart.com/model/jessy-alma
+  Eye color: brown
+  Hair color: brown
+  Height: 5'8''
+  Weight: 110 lbs
+  Breasts: small
+  Measurements: 34/24/36
+  Shaved: shaved
+  Ethnicity: Caucasian
+  nationality: Republic of Moldova
+  Age When Published: 24
+files:
+  - path: Model-MetArt-jessy-alma.jpg
+    sizeKiB: 44
+    type: jpg
+    orientation: portrait
+---
+name: Nika
+type: Model
+site: MetArt
+details:
+  nationality: Russian Federation
+  url: https://www.metart.com/model/nika
+  Age When Published: 23
+  Eye color: brown
+  Hair color: brown
+  Height: 5'4''
+  Weight: 112 lbs
+  Breasts: small
+  Measurements: 33/22/34
+  Shaved: shaved
+  Ethnicity: Caucasian
+files:
+  - path: Model-MetArt-nika.jpg
+    sizeKiB: 48
+    type: jpg
+    orientation: portrait;
+---
+name: Marion Rose
+type: Model
+site: MetArt
+details:
+  url: https://www.metart.com/model/marion-rose
+  Eye color: green
+  Hair color: brown
+  Height: 5'5''
+  Weight: 108 lbs
+  Breasts: small
+  Measurements: 33/24/36
+  Shaved: not trimmed
+  Ethnicity: Caucasian
+  nationality: Ukraine
+  Debut Age: 25
+files:
+  - path: Model-MetArt-marion-rose.jpg
+    sizeKiB: 48
+    type: jpg
+    orientation: portrait;
+---
+name: Aisha Vale
+type: Model
+site: SexArt
+details:
+  nationality: Hungary
+  url: https://www.sexart.com/model/aisha-vale
+  Age When Published: 26
+  Eye color: brown
+  Hair color: brown
+  Height: 5'5''
+  Weight: 106 lbs
+  Breasts: small
+  Measurements: 33/26/31
+  Shaved: shaved
+  Ethnicity: Caucasian
+files:
+  - path: Model-SexArt-aisha-vale.jpg
+    sizeKiB: 112
+    type: jpg
+    orientation: portrait
+---
+name: Azzurra Moretti
+type: Model
+site: VivThomas
+details:
+  url: https://www.vivthomas.com/model/azzurra-moretti
+  nationality: Ukraine
+  Age When Published: 25
+  Eye color: blue
+  Hair color: brown
+  Height: 5'6''
+  Weight: 130 lbs
+  Breasts: large
+  Measurements: 37/24/36
+  Shaved: shaved
+files:
+  - path: Model-SexArt-azzurra-moretti.jpg
+    sizeKiB: 44
+    type: jpg
+    orientation: portrait;
+---
+name: Toree
+type: Model
+site: MetArt
+details:
+  url: https://www.metart.com/model/toree
+  nationality: Ukraine
+  Debut Age: 21
+  Eye color: blue
+  Hair color: brown
+  Height: 5'4''
+  Weight: 99 lbs
+  Breasts: medium
+  Measurements: 31/23/30
+  Shaved: shaved
+  Bio: My dream in live is to become a famous actress. I love animals and have 2 dogs. When I'm not is school, I like to go to the movies and hang out with my friends. I love to go to nice restaurants and flirt with boys.
+files:
+  - path: Model-MetArt-toree.jpg
+    sizeKiB: 116
+    type: jpg
+    orientation: portrait;
+---
+name: Amalia Davis
+type: Model
+site: SexArt
+details:
+  nationality: Russian Federation
+  Debut Age: 22
+  url: https://www.sexart.com/model/amalia-davis
+  Eye color: brown
+  Hair color: brown
+  Height: 5'1''
+  Weight: 110 lbs
+  Breasts: large
+  Measurements: 34/24/34
+  Shaved: shaved
+  Ethnicity: Caucasian
+files:
+  - path: Model-SexArt-amalia-davis.jpg
+    sizeKiB: 44
+    type: jpg
+    orientation: portrait;
 ---
