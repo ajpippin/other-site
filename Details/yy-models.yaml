@@ -6,7 +6,7 @@ site: MetArt
 details:
   url: https://www.metart.com/model/luise
   nationality: Estonia
-  Debut Age: 20
+  debutAge: 20
   eyes: blue
   hair: blonde
   height: 5'7"
@@ -30,7 +30,7 @@ type: Model
 site: MetArt
 details:
   url: https://www.vivthomas.com/model/bonnie-dolce
-  eye: blue
+  eyes: blue
   hair: blonde
   height: 5'2"
   weight: 46
@@ -55,18 +55,15 @@ site: VivThomas
 details:
   url: https://www.vivthomas.com/model/sarah-heizel
   nationality: Ukraine
-  Debut Age: 22
-  Eyes: brown
+  debutAge: 22
+  eyes: brown
   Hair: black
-  Height: 5'6"
-  Weight: 115
-  Measurements: 33/24/34
-  HeightCM: 167
-  WeightKG: 52
-  MeasurementsCM: 83/61/86
-  Breasts: medium
-  Shaved: shaved
-  Ethnicity: Caucasian
+  height: 5'6"
+  weight: 115
+  measurements: 33/24/34
+  breasts: medium
+  shaved: shaved
+  ethnicity: Caucasian
 files:
   - path: Model-MetArt-sarah-heizel.jpg
     sizeKiB: 84
@@ -79,14 +76,14 @@ site: MetArt
 details:
   url: https://www.metart.com/model/josephine-jane
   nationality: Russian Federation
-  Debut Age: 23
-  Eye color: blue
-  Hair color: brown
-  Height: 5'6"
-  Weight: 106 lbs
-  Measurements: 32/22/32
-  Breasts: medium
-  Shaved: shaved
+  debutAge: 23
+  eyes: blue
+  hair: brown
+  height: 5'6"
+  weight: 106
+  measurements: 32/22/32
+  breasts: medium
+  shaved: shaved
 files:
   - path: Model-MetArt-josephine-jane.jpg
     sizeKiB: 52
@@ -99,15 +96,15 @@ site: MetArt
 details:
   url: https://www.metart.com/model/hannah-le
   nationality: United States
-  Debut Age: 23
-  Eye color: brown
-  Hair color: brown
-  Height: 5'8''
-  Weight: 119 lbs
-  Breasts: small
-  Measurements: 32/23/33
-  Shaved: shaved
-  Ethnicity: Asian
+  debutAge: 23
+  eyes: brown
+  hair: brown
+  height: 5'8"
+  weight: 119
+  breasts: small
+  measurements: 32/23/33
+  shaved: shaved
+  ethnicity: Asian
 files:
   - path: Model-MetArt-hannah-le.jpg
     sizeKiB: 88
@@ -120,15 +117,15 @@ site: MetArt
 details:
   url: https://www.metart.com/model/liby-nicole
   nationality: Belarus
-  Debut Age: 18
-  Eye color: green
-  Hair color: blonde
-  Height: 5'6"
-  Weight: 108
-  Measurements: 32/24/33
-  Breasts: medium
-  Shaved: shaved
-  Ethnicity: Caucasian
+  debutAge: 18
+  eyes: green
+  hair: blonde
+  height: 5'6"
+  weight: 108
+  measurements: 32/24/33
+  breasts: medium
+  shaved: shaved
+  ethnicity: Caucasian
   bio: Hi, my name is Liby. I am an 18 yo student and coffee lover. I laugh too loud, take too many photos, and never say no to ice cream. Love to be around me friends to share silly moments with.
 files:
   - path: Model-MetArt-liby-nicole.jpg
@@ -142,15 +139,15 @@ site: MetArt
 details:
   url: https://www.metart.com/model/mila-ex
   nationality: Russian Federation
-  Debut Age: 27
-  Eyes: blue
+  debutAge: 27
+  eyes: blue
   Hair: blonde
-  Height: 5'6"
-  Weight: 119 lbs
-  Measurements: 36/28/36
-  Breasts: medium
-  Shaved: trimmed
-  Ethnicity: Caucasian
+  height: 5'6"
+  weight: 119
+  measurements: 36/28/36
+  breasts: medium
+  shaved: trimmed
+  ethnicity: Caucasian
   Bio: By day, I’m just your average blonde college student, hitting the books and trying to survive art history classes. But in between lectures, you can find me striking a pose—nude, of course. They say you should study what you love, and well, I’ve always appreciated the human form. Why not start with my own? Balancing school and modeling isn’t easy, but hey, who says you can’t have brains and beauty? When I’m not in front of the camera, I’m probably trying to figure out if that ancient statue was a god or just another naked guy. Life’s a balancing act, and I’m nailing it—one pose at a time!
 files:
   - path: Model-MetArt-mila-ex.jpg
@@ -164,15 +161,15 @@ site: MetArt
 details:
   url: https://www.metart.com/model/putri-cinta
   nationality: Indonesia
-  Debut Age: 23
-  Eye color: brown
-  Hair color: brown
-  Height: 5'3"
-  Weight: 88
-  Breasts: large
-  Measurements: 32/28/32
-  Shaved: shaved
-  Ethnicity: Asian
+  debutAge: 23
+  eyes: brown
+  hair: brown
+  height: 5'3"
+  weight: 88
+  breasts: large
+  measurements: 32/28/32
+  shaved: shaved
+  ethnicity: Asian
   Bio: I love traveling, working out and being in the sun. I love to explore new places and also enjoying biking every day when I'm home in Bali. I'm a fun, free spirited adventurer who also enjoys my quiet time. I'm an island girl that is happiest being on the beach with the sand between my toes, sipping coconut and eating fresh fruit.
 files:
   - path: ppp
@@ -186,15 +183,15 @@ site: MetArt
 details:
   url: https://www.sexart.com/model/ambar-lapiedra
   nationality: Spain
-  Age When Published: 21
-  Eye color: blue
-  Hair color: blonde
-  Height: 5'6"
-  Weight: 115
-  Breasts: large
-  Measurements: 35/23/35
-  Shaved: shaved
-  Ethnicity: Caucasian
+  debutAge: 21
+  eyes: blue
+  hair: blonde
+  height: 5'6"
+  weight: 115
+  breasts: large
+  measurements: 35/23/35
+  shaved: shaved
+  ethnicity: Caucasian
 files:
   - path: Model-MetArt-ambar-lapiedra.jpg
     sizeKiB: 40
@@ -207,15 +204,15 @@ site: MetArt
 details:
   url: https://www.metartnetwork.com/model/viksi
   nationality: Ukraine
-  Debut Age: 26
-  Eye color: blue
-  Hair color: blonde
-  Height: 5'6"
-  Weight: 119
-  Breasts: small
-  Measurements: 32/25/32
-  Shaved: shaved
-  Ethnicity: Caucasian
+  debutAge: 26
+  eyes: blue
+  hair: blonde
+  height: 5'6"
+  weight: 119
+  breasts: small
+  measurements: 32/25/32
+  shaved: shaved
+  ethnicity: Caucasian
 files:
   - path: Model-MetArt-viksi.jpg
     sizeKiB: 48
@@ -229,14 +226,14 @@ details:
   nationality: Russian Federation
   url: https://www.metart.com/model/lalli
   Age: 23
-  Eyes: blue
+  eyes: blue
   Hair: blonde
-  Height: 5'2"
-  Weight: 110 lbs
-  Breasts: medium
-  Measurements: 33/23/33
-  Shaved: shaved
-  Ethnicity: Caucasian
+  height: 5'2"
+  weight: 110
+  breasts: medium
+  measurements: 33/23/33
+  shaved: shaved
+  ethnicity: Caucasian
 files:
   - path: Model-lalli.jpg
     kib: 40
@@ -248,16 +245,16 @@ type: Model
 site: MetArt
 details:
   nationality: Ukraine
-  Age When Published: 29
+  debutAge: 29
   url: https://www.metart.com/model/maia-wixx
-  Eye color: hazel
-  Hair color: brown
-  Height: 5'5"
-  Weight: 101 lbs
-  Breasts: small
-  Measurements: 31/24/33
-  Shaved: shaved
-  Ethnicity: Caucasian
+  eyes: hazel
+  hair: brown
+  height: 5'5"
+  weight: 101
+  breasts: small
+  measurements: 31/24/33
+  shaved: shaved
+  ethnicity: Caucasian
   bio: My name is Maia! I grew up in a small town and I'm very close with my family. I like to sing...mostly in the shower. I'm interested in fashion and technology. My favourite food is popcorn.
 files:
   - path: Model-MetArt-maia-wixx.jpg
@@ -271,15 +268,15 @@ site: MetArt
 details:
   url: https://www.metart.com/model/barbie-brill
   nationality: Hungary
-  Age When Published: 23
-  Eye color: blue
-  Hair color: blonde
-  Height: 5'6"
-  Weight: 112 lbs
-  Breasts: medium
-  Measurements: 33/23/34
-  Shaved: shaved
-  Ethnicity: Caucasian
+  debutAge: 23
+  eyes: blue
+  hair: blonde
+  height: 5'6"
+  weight: 112
+  breasts: medium
+  measurements: 33/23/34
+  shaved: shaved
+  ethnicity: Caucasian
 files:
   - path: Model-MetArt-barbie-brill.jpg
     sizeKiB: 36
@@ -292,14 +289,14 @@ site: MetArt
 details:
   url: https://www.metart.com/model/era
   nationality: Russian Federation
-  Eye color: brown
-  Hair color: brown
-  Height: 5'9"
-  Weight: 119
-  Breasts: medium
-  Measurements: 36/24/36
-  Shaved: shaved
-  Ethnicity: Caucasian
+  eyes: brown
+  hair: brown
+  height: 5'9"
+  weight: 119
+  breasts: medium
+  measurements: 36/24/36
+  shaved: shaved
+  ethnicity: Caucasian
   Bio: I like to stay fit in unconventional ways. Most of the time you can find me roller blading or playing beach volleyball. Every Sunday night, I have dinner with my entire family. My parents don't give us the option not to come, even though we are all adults. The meals are delicious and I am happy make time for my family.
 files:
   - path: Model-MetArt-era.jpg
@@ -313,16 +310,16 @@ type: Model
 site: MetArt
 details:
   url: https://www.metart.com/model/jessy-alma
-  Eye color: brown
-  Hair color: brown
-  Height: 5'8''
-  Weight: 110 lbs
-  Breasts: small
-  Measurements: 34/24/36
-  Shaved: shaved
-  Ethnicity: Caucasian
+  eyes: brown
+  hair: brown
+  height: 5'8"
+  weight: 110
+  breasts: small
+  measurements: 34/24/36
+  shaved: shaved
+  ethnicity: Caucasian
   nationality: Republic of Moldova
-  Age When Published: 24
+  debutAge: 24
 files:
   - path: Model-MetArt-jessy-alma.jpg
     sizeKiB: 44
@@ -335,15 +332,15 @@ site: MetArt
 details:
   nationality: Russian Federation
   url: https://www.metart.com/model/nika
-  Age When Published: 23
-  Eye color: brown
-  Hair color: brown
-  Height: 5'4''
-  Weight: 112 lbs
-  Breasts: small
-  Measurements: 33/22/34
-  Shaved: shaved
-  Ethnicity: Caucasian
+  debutAge: 23
+  eyes: brown
+  hair: brown
+  height: 5'4"
+  weight: 112
+  breasts: small
+  measurements: 33/22/34
+  shaved: shaved
+  ethnicity: Caucasian
 files:
   - path: Model-MetArt-nika.jpg
     sizeKiB: 48
@@ -355,16 +352,16 @@ type: Model
 site: MetArt
 details:
   url: https://www.metart.com/model/marion-rose
-  Eye color: green
-  Hair color: brown
-  Height: 5'5''
-  Weight: 108 lbs
-  Breasts: small
-  Measurements: 33/24/36
-  Shaved: not trimmed
-  Ethnicity: Caucasian
+  eyes: green
+  hair: brown
+  height: 5'5"
+  weight: 108
+  breasts: small
+  measurements: 33/24/36
+  shaved: not trimmed
+  ethnicity: Caucasian
   nationality: Ukraine
-  Debut Age: 25
+  debutAge: 25
 files:
   - path: Model-MetArt-marion-rose.jpg
     sizeKiB: 48
@@ -377,15 +374,15 @@ site: SexArt
 details:
   nationality: Hungary
   url: https://www.sexart.com/model/aisha-vale
-  Age When Published: 26
-  Eye color: brown
-  Hair color: brown
-  Height: 5'5''
-  Weight: 106 lbs
-  Breasts: small
-  Measurements: 33/26/31
-  Shaved: shaved
-  Ethnicity: Caucasian
+  debutAge: 26
+  eyes: brown
+  hair: brown
+  height: 5'5"
+  weight: 106
+  breasts: small
+  measurements: 33/26/31
+  shaved: shaved
+  ethnicity: Caucasian
 files:
   - path: Model-SexArt-aisha-vale.jpg
     sizeKiB: 112
@@ -398,14 +395,14 @@ site: VivThomas
 details:
   url: https://www.vivthomas.com/model/azzurra-moretti
   nationality: Ukraine
-  Age When Published: 25
-  Eye color: blue
-  Hair color: brown
-  Height: 5'6''
-  Weight: 130 lbs
-  Breasts: large
-  Measurements: 37/24/36
-  Shaved: shaved
+  debutAge: 25
+  eyes: blue
+  hair: brown
+  height: 5'6"
+  weight: 130
+  breasts: large
+  measurements: 37/24/36
+  shaved: shaved
 files:
   - path: Model-SexArt-azzurra-moretti.jpg
     sizeKiB: 44
@@ -418,14 +415,14 @@ site: MetArt
 details:
   url: https://www.metart.com/model/toree
   nationality: Ukraine
-  Debut Age: 21
-  Eye color: blue
-  Hair color: brown
-  Height: 5'4''
-  Weight: 99 lbs
-  Breasts: medium
-  Measurements: 31/23/30
-  Shaved: shaved
+  debutAge: 21
+  eyes: blue
+  hair: brown
+  height: 5'4"
+  weight: 99
+  breasts: medium
+  measurements: 31/23/30
+  shaved: shaved
   Bio: My dream in live is to become a famous actress. I love animals and have 2 dogs. When I'm not is school, I like to go to the movies and hang out with my friends. I love to go to nice restaurants and flirt with boys.
 files:
   - path: Model-MetArt-toree.jpg
@@ -438,19 +435,123 @@ type: Model
 site: SexArt
 details:
   nationality: Russian Federation
-  Debut Age: 22
+  debutAge: 22
   url: https://www.sexart.com/model/amalia-davis
-  Eye color: brown
-  Hair color: brown
-  Height: 5'1''
-  Weight: 110 lbs
-  Breasts: large
-  Measurements: 34/24/34
-  Shaved: shaved
-  Ethnicity: Caucasian
+  eyes: brown
+  hair: brown
+  height: 5'1"
+  weight: 110
+  breasts: large
+  measurements: 34/24/34
+  shaved: shaved
+  ethnicity: Caucasian
 files:
   - path: Model-SexArt-amalia-davis.jpg
     sizeKiB: 44
     type: jpg
     orientation: portrait;
 ---
+name: Betzz
+type: Model
+site: MetArt
+details:
+  nationality: Czech Republic
+  debutAge: 25
+  eyes: green
+  hair: brown
+  height: 5'6"
+  weight: 110
+  breasts: medium
+  measurements: 33/23/33
+  shaved: shaved
+  ethnicity: Caucasian
+  url: https://www.metart.com/model/betzz
+files:
+    - path: Model-MetArt-betzz.jpg
+      sizeKiB: 36
+      type: jpg
+      orientation: portrait;
+---
+name: Liby Nicole
+type: Model
+site: MetArt
+details:
+  nationality: Belarus
+  debutAge: 18
+  eyes: green
+  hair: blonde
+  height: 5'6"
+  weight: 108
+  breasts: medium
+  measurements: 32/24/33
+  shaved: shaved
+  ethnicity: Caucasian
+files:
+  - path: Model-MetArt-liby-nicole.jpg
+    sizeKiB: 76
+    type: jpg
+    orientation: portrait;
+---
+name: Val Eriia
+type: Model
+site: MetArt
+details:
+  nationality: Ukraine
+  debutAge: 26
+  url: https://www.metart.com/model/val-eriia
+  eyes: brown
+  hair: brown
+  height: 5'3"
+  weight: 99
+  breasts: small
+  measurements: 32/24/33
+  shaved: shaved
+  ethnicity: Caucasian
+  Bio: My name is Val Eriia, and modeling is a way for me to express both beauty and inner balance. Alongside my career, I'm passionate about osteopathy, different physical practices, and psychology - they help me stay connected with myself and with others on a deeper level. For eight years I lived as a vegan, and even now my taste remains the same - I truly enjoy fresh, simple, and juicy food like fruits, vegetables, and greens. Sports have always been part of my life. I've tried everything from badminton to weightlifting, and today Pilates is my main practice - it keeps me strong, flexible, and mindful. I consider myself a person of mood&colon; sometimes I choose cozy evenings at home or quality time with loved ones, and other times I love to dive into the energy of a vibrant party. I also adore traveling, especially to warm countries like Spain and Portugal, where I would love to live for a few months. Music is my daily fuel. My playlist is diverse, but I usually prefer tracks that move me, inspire me to dance, and give me energy for the whole day. For me, modeling is not only about appearance - it's about living in harmony, staying true to myself, and sharing that energy with the world.
+files:
+  - path: Model-MetArt-val-eriia.jpg
+    sizeKiB: 120
+    type: jpg
+    orientation: portrait;
+---
+name: Shelena
+type: Model
+site: MetArt
+details:
+  nationality: Ukraine
+  url: https://www.metart.com/model/shelena
+  eyes: brown
+  hair: brown
+  height: 5'4"
+  weight: 119
+  breasts: medium
+  measurements: 34/25/35
+  shaved: shaved
+  ethnicity: Caucasian
+files:
+  - path: Model-MetArt-shelena.jpg
+    sizeKiB: 32
+    type: jpg
+    orientation: portrait;
+---
+name: Lucianna Lucci
+type: Model
+site: SexArt
+details:
+  nationality: Czech Republic
+  url: https://www.sexart.com/model/lucianna-lucci
+  debutAge: 26
+  eyes: hazel
+  hair: red
+  height: 5'5"
+  weight: 119
+  breasts: medium
+  measurements: 33/23/34
+  shaved: shaved
+  ethnicity: Caucasian
+files:
+  - path: Model-SexArt-lucianna-lucci.jpg
+    sizeKiB: 40
+    type: jpg
+    orientation: portrait;
+
