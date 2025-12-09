@@ -554,4 +554,66 @@ files:
     sizeKiB: 40
     type: jpg
     orientation: portrait;
-
+---
+name: Milkavi
+type: Model
+site: SexArt
+details:
+  nationality: Ukraine
+  url: https://www.metart.com/model/milkavi
+  debutAge: 28
+  eyes: blue
+  hair: red
+  Height: 5'3"
+  Weight: 99
+  Breasts: small
+  Measurements: 33/24/35
+  Shaved: shaved
+  Ethnicity: Caucasian
+files:
+  - path: Model-MetArt-20251209-milkavi.jpg
+    sizeKiB: 128
+    type: jpg
+    orientation: portrait;
+---
+name: Delizi
+type: Model
+site: SexArt
+details:
+  nationality: Russian Federation
+  url: https://www.metart.com/model/delizi
+  debutAge: 25
+  eyes: blue
+  hair: blonde
+  Height: 5'4"
+  Weight: 99
+  Breasts: large
+  Measurements: 37/26/35
+  Shaved: trimmed
+  Ethnicity: Caucasian
+files:
+  - path: Model-MetArt-20251209-delizi.jpg
+    sizeKiB: 48
+    type: jpg
+    orientation: portrait;
+---
+name: Dakota Doll
+type: Model
+site: SexArt
+details:
+  url: https://www.metart.com/model/dakota-doll
+  nationality: Russian Federation
+  debutAge: 19
+  eyes: hazel
+  hair: brown
+  Height: 5'5"
+  Weight: 101
+  Breasts: small
+  Measurements: 30/23/34
+  Shaved: shaved
+  Ethnicity: Caucasian
+files:
+  - path: Model-MetArt-20251209-dakota-doll
+    sizeKiB: 36
+    type: jpg
+    orientation: portrait;
