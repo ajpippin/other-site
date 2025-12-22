@@ -1,0 +1,32 @@
+#--------------------------------------------------------------------------------------------------#
+#-- Movies / MetArt / 2002 ------------------------------------------------------------------------#
+#--------------------------------------------------------------------------------------------------#
+
+title: Morning Glory
+type: movie
+site: MetArt
+cast: n:Tanya F; u:https://www.metart.com/model/tanya-f; g:f
+released: 2002-12-28
+director: Voronin
+fileprefix: MetArt-20021228-morning-glory-
+rating: 88
+url: https://www.metart.com/model/tanya-f/movie/20021228/MORNING_GLORY
+files:  # add-files-here
+
+description: xxx
+
+
+---
+title: Andrea The First Video
+type: movie
+site: MetArt
+cast: n:Andrea C; u:https://www.metart.com/model/andrea-c; g:f
+released: 2002-12-20
+director: Voronin
+fileprefix: MetArt-20021220-andrea-the-first-video-
+rating: 93
+url: https://www.metart.com/model/andrea-c/movie/20021220/ANDREA_THE_FIRST_VIDEO
+files:  # add-files-here
+
+description: xxx
+
