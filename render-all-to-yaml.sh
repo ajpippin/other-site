@@ -4,7 +4,7 @@ SITE_D=${HOME}/Developer/AJPippin/Other/Site
 SRC_D=${SITE_D}/KeyValue
 DST_D=${SITE_D}/YAML
 
-for f in $(find ${SRC_D} -mindepth 3 -maxdepth 3 -type f -name \*.txt | sort); do
+for f in $(find ${SRC_D} -mindepth 3 -maxdepth 3 -type f -or -type l -name \*.txt | sort); do
   type=$(basename $(dirname $(dirname $f)))
   site=$(basename $(dirname $f))
   year=$(basename $f .txt)

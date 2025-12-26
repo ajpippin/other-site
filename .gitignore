@@ -1,4 +1,5 @@
 /Details/*.kv
+/Details/*.yml
 
 /KeyValue/web-files-export.json.gz
 /KeyValue/web-ssd-public.json.gz
