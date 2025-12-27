@@ -3,3 +3,5 @@
 
 /KeyValue/web-files-export.json.gz
 /KeyValue/web-ssd-public.json.gz
+
+/YAML/**
