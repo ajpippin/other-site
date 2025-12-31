@@ -1,5 +1,7 @@
-  @type Model
-  ---
+---
+site: MetArt
+type: Model
+items:
 - name: Luise
   type: Model
   site: MetArt
@@ -45,26 +47,6 @@
   files:
     - path: Model-bonnie-dolce.jpg
       sizeKiB: 36
-      type: jpg
-      orientation: portrait
-- name: Sarah Heizel
-  type: Model
-  site: VivThomas
-  details:
-    url: https://www.vivthomas.com/model/sarah-heizel
-    nationality: Ukraine
-    debutAge: 22
-    eyes: brown
-    Hair: black
-    height: 5'6"
-    weight: 115
-    measurements: 33/24/34
-    breasts: medium
-    shaved: shaved
-    ethnicity: Caucasian
-  files:
-    - path: Model-MetArt-sarah-heizel.jpg
-      sizeKiB: 84
       type: jpg
       orientation: portrait
 - name: Josephine Jane
@@ -351,45 +333,6 @@
       sizeKiB: 48
       type: jpg
       orientation: portrait;
-- name: Aisha Vale
-  type: Model
-  site: SexArt
-  details:
-    nationality: Hungary
-    url: https://www.sexart.com/model/aisha-vale
-    debutAge: 26
-    eyes: brown
-    hair: brown
-    height: 5'5"
-    weight: 106
-    breasts: small
-    measurements: 33/26/31
-    shaved: shaved
-    ethnicity: Caucasian
-  files:
-    - path: Model-SexArt-aisha-vale.jpg
-      sizeKiB: 112
-      type: jpg
-      orientation: portrait
-- name: Azzurra Moretti
-  type: Model
-  site: VivThomas
-  details:
-    url: https://www.vivthomas.com/model/azzurra-moretti
-    nationality: Ukraine
-    debutAge: 25
-    eyes: blue
-    hair: brown
-    height: 5'6"
-    weight: 130
-    breasts: large
-    measurements: 37/24/36
-    shaved: shaved
-  files:
-    - path: Model-SexArt-azzurra-moretti.jpg
-      sizeKiB: 44
-      type: jpg
-      orientation: portrait;
 - name: Toree
   type: Model
   site: MetArt
@@ -408,26 +351,6 @@
   files:
     - path: Model-MetArt-toree.jpg
       sizeKiB: 116
-      type: jpg
-      orientation: portrait;
-- name: Amalia Davis
-  type: Model
-  site: SexArt
-  details:
-    nationality: Russian Federation
-    debutAge: 22
-    url: https://www.sexart.com/model/amalia-davis
-    eyes: brown
-    hair: brown
-    height: 5'1"
-    weight: 110
-    breasts: large
-    measurements: 34/24/34
-    shaved: shaved
-    ethnicity: Caucasian
-  files:
-    - path: Model-SexArt-amalia-davis.jpg
-      sizeKiB: 44
       type: jpg
       orientation: portrait;
 - name: Betzz
@@ -509,26 +432,6 @@
       sizeKiB: 32
       type: jpg
       orientation: portrait;
-- name: Lucianna Lucci
-  type: Model
-  site: SexArt
-  details:
-    nationality: Czech Republic
-    url: https://www.sexart.com/model/lucianna-lucci
-    debutAge: 26
-    eyes: hazel
-    hair: red
-    height: 5'5"
-    weight: 119
-    breasts: medium
-    measurements: 33/23/34
-    shaved: shaved
-    ethnicity: Caucasian
-  files:
-    - path: Model-SexArt-lucianna-lucci.jpg
-      sizeKiB: 40
-      type: jpg
-      orientation: portrait;
 - name: Milkavi
   type: Model
   site: SexArt
@@ -547,26 +450,6 @@
   files:
     - path: Model-MetArt-20251209-milkavi.jpg
       sizeKiB: 128
-      type: jpg
-      orientation: portrait;
-- name: Delizi
-  type: Model
-  site: SexArt
-  details:
-    nationality: Russian Federation
-    url: https://www.metart.com/model/delizi
-    debutAge: 25
-    eyes: blue
-    hair: blonde
-    height: 5'4"
-    weight: 99
-    Breasts: large
-    Measurements: 37/26/35
-    Shaved: trimmed
-    Ethnicity: Caucasian
-  files:
-    - path: Model-MetArt-20251209-delizi.jpg
-      sizeKiB: 48
       type: jpg
       orientation: portrait;
 - name: Dakota Doll
