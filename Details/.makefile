@@ -29,6 +29,7 @@ JSON	= $(MaGalJson) $(MaMovJson) $(SaGalJson) $(SaMovJson) $(VtGalJson) $(VtMovJ
 YAML	= $(MaGalYaml) $(MaMovYaml) $(SaGalYaml) $(SaMovYaml) $(VtGalYaml) $(VtMovYaml)
 
 
+default:	$(JSON) $(YAML)
 json:	$(JSON)
 yaml:	$(YAML)
 
@@ -89,11 +90,11 @@ $(VtMovJson): $(VtMovKeyVal) .makefile
 
 .PHONY: clean
 clean:
-	@echo "Removing all $(YEAR).yaml files."
-	@rm -f $(YAML)
+	@echo "Removing all $(YEAR).yaml and $(YEAR).json files."
+	@rm -f $(YAML) $(JSON)
 
 .PHONY: all
 all:
 	@echo "Rendering all..."
-	@../render-all-to-yaml.sh
+	@../render-all.sh
 
