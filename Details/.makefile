@@ -1,35 +1,96 @@
-YEAR	= 2025
+YEAR	= 2026
 
-default: ../YAML/Galleries/MetArt/$(YEAR).yaml ../YAML/Galleries/SexArt/$(YEAR).yaml ../YAML/Galleries/VivThomas/$(YEAR).yaml ../YAML/Movies/MetArt/$(YEAR).yaml ../YAML/Movies/SexArt/$(YEAR).yaml ../YAML/Movies/VivThomas/$(YEAR).yaml
+# Note: Since the destination is six different directories, there is no clean way
+#       to make a generic `%.txt: %.yaml` rule.  So don't bother trying.  :)
 
-../YAML/Galleries/MetArt/$(YEAR).yaml: gal-ma.txt .makefile
+MaGalKeyVal	= ma-gal-keyval.txt
+MaGalJson	= ../JSON/MetArt/Galleries/$(YEAR).json
+MaGalYaml	= ../YAML/MetArt/Galleries/$(YEAR).yaml
+MaMovKeyVal	= ma-gal-keyval.txt
+MaMovJson	= ../JSON/MetArt/Movies/$(YEAR).json
+MaMovYaml	= ../YAML/MetArt/Movies/$(YEAR).yaml
+
+SaGalKeyVal	= sa-gal-keyval.txt
+SaGalJson	= ../JSON/SexArt/Galleries/$(YEAR).json
+SaGalYaml	= ../YAML/SexArt/Galleries/$(YEAR).yaml
+SaMovKeyVal	= sa-gal-keyval.txt
+SaMovJson	= ../JSON/SexArt/Movies/$(YEAR).json
+SaMovYaml	= ../YAML/SexArt/Movies/$(YEAR).yaml
+
+VtGalKeyVal	= vt-gal-keyval.txt
+VtGalJson	= ../JSON/VivThomas/Galleries/$(YEAR).json
+VtGalYaml	= ../YAML/VivThomas/Galleries/$(YEAR).yaml
+VtMovKeyVal	= vt-gal-keyval.txt
+VtMovJson	= ../JSON/VivThomas/Movies/$(YEAR).json
+VtMovYaml	= ../YAML/VivThomas/Movies/$(YEAR).yaml
+
+KEYVAL	= $(MaGalKeyVal) $(MaMovKeyVal) $(SaGalKeyVal) $(SaMovKeyVal) $(VtGalKeyVal) $(VtMovKeyVal)
+JSON	= $(MaGalJson) $(MaMovJson) $(SaGalJson) $(SaMovJson) $(VtGalJson) $(VtMovJson)
+YAML	= $(MaGalYaml) $(MaMovYaml) $(SaGalYaml) $(SaMovYaml) $(VtGalYaml) $(VtMovYaml)
+
+
+json:	$(JSON)
+yaml:	$(YAML)
+
+
+# Individual YAML files.
+
+$(MaGalYaml): $(MaGalKeyVal) .makefile
 	@echo "Rendering $< --> $@"
-	@nnma kv $< > $@
+	@nnma kv --yaml $< > $@
 
-../YAML/Galleries/SexArt/$(YEAR).yaml: gal-sa.txt .makefile
+$(MaMovYaml): $(MaMovKeyVal) .makefile
 	@echo "Rendering $< --> $@"
-	@nnma kv $< > $@
+	@nnma kv --yaml $< > $@
 
-../YAML/Galleries/VivThomas/$(YEAR).yaml: gal-vt.txt .makefile
+$(SaGalYaml): $(SaGalKeyVal) .makefile
 	@echo "Rendering $< --> $@"
-	@nnma kv $< > $@
+	@nnma kv --yaml $< > $@
 
-../YAML/Movies/MetArt/$(YEAR).yaml: mov-ma.txt .makefile
+$(SaMovYaml): $(SaMovKeyVal) .makefile
 	@echo "Rendering $< --> $@"
-	@nnma kv $< > $@
+	@nnma kv --yaml $< > $@
 
-../YAML/Movies/SexArt/$(YEAR).yaml: mov-sa.txt .makefile
+$(VtGalYaml): $(VtGalKeyVal) .makefile
 	@echo "Rendering $< --> $@"
-	@nnma kv $< > $@
+	@nnma kv --yaml $< > $@
 
-../YAML/Movies/VivThomas/$(YEAR).yaml: mov-vt.txt .makefile
+$(VtMovYaml): $(VtMovKeyVal) .makefile
 	@echo "Rendering $< --> $@"
-	@nnma kv $< > $@
+	@nnma kv --yaml $< > $@
+
+
+# Individual JSON files.
+
+$(MaGalJson): $(MaGalKeyVal) .makefile
+	@echo "Rendering $< --> $@"
+	@nnma kv --yaml $< > $@
+
+$(MaMovJson): $(MaMovKeyVal) .makefile
+	@echo "Rendering $< --> $@"
+	@nnma kv --yaml $< > $@
+
+$(SaGalJson): $(SaGalKeyVal) .makefile
+	@echo "Rendering $< --> $@"
+	@nnma kv --yaml $< > $@
+
+$(SaMovJson): $(SaMovKeyVal) .makefile
+	@echo "Rendering $< --> $@"
+	@nnma kv --yaml $< > $@
+
+$(VtGalJson): $(VtGalKeyVal) .makefile
+	@echo "Rendering $< --> $@"
+	@nnma kv --yaml $< > $@
+
+$(VtMovJson): $(VtMovKeyVal) .makefile
+	@echo "Rendering $< --> $@"
+	@nnma kv --yaml $< > $@
+
 
 .PHONY: clean
 clean:
 	@echo "Removing all $(YEAR).yaml files."
-	@rm -f ../YAML/*/*/$(YEAR).yaml
+	@rm -f $(YAML)
 
 .PHONY: all
 all:

@@ -4,4 +4,5 @@
 /Archive/web-files-export.json.gz
 /Archive/web-ssd-public.json.gz
 
+/JSON/**
 /YAML/**
