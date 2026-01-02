@@ -3,5 +3,10 @@
 #--------------------------------------------------------------------------------------------------#
 
 @site MetArt
-@type Movies
+@type Movie
 
+Ryana 07 - Ryana
+Ryana 07
+Released: Jan 02, 2026
+Featuring: Ryana
+Rating: 9.6
