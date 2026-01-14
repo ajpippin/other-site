@@ -22,7 +22,7 @@ JSON	= $(MaJson) $(SaJson) $(VtJson)
 YAML	= $(MaYaml) $(SaYaml) $(VtYaml) 
 
 
-default: json
+default: json push
 json:	 $(JSON)
 yaml:    $(YAML)
 
@@ -65,3 +65,12 @@ clean:
 	@echo "Removing all $(YEAR).yaml and $(YEAR).json files."
 	@rm -f $(YAML) $(JSON)
 
+.PHONY: push
+push:
+	@echo ""
+	@echo "Copying MA files."
+	@ma push
+
+.PHONY: ping
+	@echo "Waking up goofy."
+	@ssh goofy ls /Volumes/Big6/Web/Public
