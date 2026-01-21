@@ -10,9 +10,10 @@ cast: Carmen A; https://www.vivthomas.com/model/carmen-a; f
 released: 2001-01-06
 director:   Viv Thomas
 rating: 9.0
-fileprefix: VivThomas-20010106-carmen-06-
-files:  # add-files-here
-
+fileprefix: VivThomas-20010106-carmen-6-
+file: p:VivThomas-20010106-carmen-6-0360.mp4; k:50048; t:mp4; r:360p;
+file: p:VivThomas-20010106-carmen-6-tall.jpg; k:80; t:jpg; o:portrait;
+file: p:VivThomas-20010106-carmen-6-wide.jpg; k:80; t:jpg; o:landscape;
 description: Carmen chats about her experiences with Viv Thomas in 2001. Sounds like she really enjoyed herself!
 runtime: 0:4
 seconds: 253
@@ -48,9 +49,10 @@ cast: Carmen A; https://www.vivthomas.com/model/carmen-a; f
 released: 2001-01-05
 director:   Viv Thomas
 rating: 8.9
-fileprefix: VivThomas-20010105-carmen-05-
-files:  # add-files-here
-
+fileprefix: VivThomas-20010105-carmen-5-
+file: p:VivThomas-20010105-carmen-5-0360.mp4; k:59104; t:mp4; r:360p;
+file: p:VivThomas-20010105-carmen-5-tall.jpg; k:84; t:jpg; o:portrait;
+file: p:VivThomas-20010105-carmen-5-wide.jpg; k:84; t:jpg; o:landscape;
 description: Carmen chats about her experiences with Viv Thomas in 2001. Sounds like she really enjoyed herself!
 runtime: 0:5
 seconds: 300
@@ -88,9 +90,10 @@ cast: Carmen A; https://www.vivthomas.com/model/carmen-a; f
 released: 2001-01-04
 director:   Viv Thomas
 rating: 9.1
-fileprefix: VivThomas-20010104-carmen-04-
-files:  # add-files-here
-
+fileprefix: VivThomas-20010104-carmen-4-
+file: p:VivThomas-20010104-carmen-4-0360.mp4; k:58176; t:mp4; r:360p;
+file: p:VivThomas-20010104-carmen-4-tall.jpg; k:72; t:jpg; o:portrait;
+file: p:VivThomas-20010104-carmen-4-wide.jpg; k:72; t:jpg; o:landscape;
 description: Carmen chats about her experiences with Viv Thomas in 2001. Sounds like she really enjoyed herself!
 runtime: 0:5
 seconds: 299
@@ -129,9 +132,10 @@ cast: Carmen A; https://www.vivthomas.com/model/carmen-a; f
 released: 2001-01-03
 director:   Viv Thomas
 rating: 9.0
-fileprefix: VivThomas-20010103-carmen-03-
-files:  # add-files-here
-
+fileprefix: VivThomas-20010103-carmen-3-
+file: p:VivThomas-20010103-carmen-3-0360.mp4; k:50000; t:mp4; r:360p;
+file: p:VivThomas-20010103-carmen-3-tall.jpg; k:84; t:jpg; o:portrait;
+file: p:VivThomas-20010103-carmen-3-wide.jpg; k:84; t:jpg; o:landscape;
 description: Carmen chats about her experiences with Viv Thomas in 2001. Sounds like she really enjoyed herself!
 runtime: 0:4
 seconds: 257
@@ -171,9 +175,10 @@ cast: Carmen A; https://www.vivthomas.com/model/carmen-a; f
 released: 2001-01-02
 director:   Viv Thomas
 rating: 9.1
-fileprefix: VivThomas-20010102-carmen-02-
-files:  # add-files-here
-
+fileprefix: VivThomas-20010102-carmen-2-
+file: p:VivThomas-20010102-carmen-2-0360.mp4; k:55248; t:mp4; r:360p;
+file: p:VivThomas-20010102-carmen-2-tall.jpg; k:92; t:jpg; o:portrait;
+file: p:VivThomas-20010102-carmen-2-wide.jpg; k:92; t:jpg; o:landscape;
 description: Carmen chats about her experiences with Viv Thomas in 2001. Sounds like she really enjoyed herself!
 runtime: 0:5
 seconds: 280
@@ -218,9 +223,10 @@ cast: Carmen A; https://www.vivthomas.com/model/carmen-a; f
 released: 2001-01-01
 director:   Viv Thomas
 rating: 9.3
-fileprefix: VivThomas-20010101-carmen-01-
-files:  # add-files-here
-
+fileprefix: VivThomas-20010101-carmen-1-
+file: p:VivThomas-20010101-carmen-1-0360.mp4; k:58176; t:mp4; r:360p;
+file: p:VivThomas-20010101-carmen-1-tall.jpg; k:76; t:jpg; o:portrait;
+file: p:VivThomas-20010101-carmen-1-wide.jpg; k:76; t:jpg; o:landscape;
 description: Carmen chats about her experiences with Viv Thomas in 2001. Sounds like she really enjoyed herself!
 runtime: 0:05
 seconds: 300

@@ -11,8 +11,7 @@ released: 2000-12-12
 director:   Viv Thomas
 rating: 9.4
 fileprefix: VivThomas-20001212-sophie-06-
-files:  # add-files-here
-
+note: Low resolution
 description: Hi there Sophie - sounds like you have had a varied and interesting modelling career.
 runtime: 0:02
 seconds: 115
@@ -40,8 +39,7 @@ released: 2000-12-11
 director:   Viv Thomas
 rating: 9.3
 fileprefix: VivThomas-20001211-sophie-05-
-files:  # add-files-here
-
+note: Low resolution
 description: Hi there Sophie - sounds like you have had a varied and interesting modelling career.
 runtime: 0:05
 seconds: 300
@@ -73,8 +71,7 @@ released: 2000-12-10
 director:   Viv Thomas
 rating: 9.0
 fileprefix: VivThomas-20001210-sophie-04-
-files:  # add-files-here
-
+note: Low resolution
 description: Hi there Sophie - sounds like you have had a varied and interesting modelling career.
 runtime: 0:04
 seconds: 215
@@ -99,8 +96,7 @@ released: 2000-12-09
 director:   Viv Thomas
 rating: 9.1
 fileprefix: VivThomas-20001209-sophie-03-
-files:  # add-files-here
-
+note: Low resolution
 description: Hi there Sophie - sounds like you have had a varied and interesting modelling career.
 runtime: 0:03
 seconds: 199
@@ -132,8 +128,7 @@ released: 2000-12-08
 director:   Viv Thomas
 rating: 9.3
 fileprefix: VivThomas-20001208-sophie-02-
-files:  # add-files-here
-
+note: Low resolution
 description: Hi there Sophie - sounds like you have had a varied and interesting modelling career.
 runtime: 0:05
 seconds: 300
