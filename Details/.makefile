@@ -8,6 +8,10 @@ MaKeyVal	= $(SITE)/Details/ma-keyval.txt
 MaJson		= $(SITE)/Rendered/JSON/MetArt/$(YEAR).json
 MaYaml		= $(SITE)/Rendered/YAML/MetArt/$(YEAR).yaml
 
+PhKeyVal	= $(SITE)/Details/ph-keyval.txt
+PhJson		= $(SITE)/Rendered/JSON/Pornhub/$(YEAR).json
+PhYaml		= $(SITE)/Rendered/YAML/Pornhub/$(YEAR).yaml
+
 SaKeyVal	= $(SITE)/Details/sa-keyval.txt
 SaJson		= $(SITE)/Rendered/JSON/SexArt/$(YEAR).json
 SaYaml		= $(SITE)/Rendered/YAML/SexArt/$(YEAR).yaml
@@ -17,9 +21,9 @@ VtJson		= $(SITE)/Rendered/JSON/VivThomas/$(YEAR).json
 VtYaml		= $(SITE)/Rendered/YAML/VivThomas/$(YEAR).yaml
 
 
-KEYVAL	= $(MaKeyVal) $(SaKeyVal) $(VtKeyVal)
-JSON	= $(MaJson) $(SaJson) $(VtJson) 
-YAML	= $(MaYaml) $(SaYaml) $(VtYaml) 
+KEYVAL	= $(MaKeyVal) $(PhKeyVal) $(SaKeyVal) $(VtKeyVal)
+JSON	= $(MaJson) $(PhJson) $(SaJson) $(VtJson) 
+YAML	= $(MaYaml) $(PhYaml) $(SaYaml) $(VtYaml) 
 
 
 default: json push
@@ -36,6 +40,10 @@ $(MaYaml): $(MaKeyVal) .makefile
 	@echo "ma-keyval.txt --> MetArt/$(YEAR).yaml"
 	@nnma kv --format=yaml $< > $@
 
+$(PhYaml): $(PhKeyVal) .makefile
+	@echo "ph-keyval.txt --> Pornhub/$(YEAR).yaml"
+	@nnma kv --format=yaml $< > $@
+
 $(SaYaml): $(SaKeyVal) .makefile
 	@echo "sa-keyval.txt --> SexArt/$(YEAR).yaml"
 	@nnma kv --format=yaml $< > $@
@@ -49,6 +57,10 @@ $(VtYaml): $(VtKeyVal) .makefile
 
 $(MaJson): $(MaKeyVal) .makefile
 	@echo "ma-keyval.txt --> MetArt/$(YEAR).json"
+	@nnma kv --format=json $< > $@
+
+$(PhJson): $(PhKeyVal) .makefile
+	@echo "ph-keyval.txt --> Pornhub/$(YEAR).json"
 	@nnma kv --format=json $< > $@
 
 $(SaJson): $(SaKeyVal) .makefile
@@ -72,5 +84,6 @@ push:
 	@ma push
 
 .PHONY: ping
+ping:
 	@echo "Waking up goofy."
 	@ssh goofy ls /Volumes/Big6/Web/Public
