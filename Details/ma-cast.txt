@@ -1,8 +1,9 @@
 @site MetArt
 @type Cast
 #
-# vvv  Here  vvv   (line 3401)
-#
+# Look for:
+# stats
+
 Elena Vedem
 Ukraine
 Age When Published: 21
@@ -3399,6 +3400,84 @@ Measurements: 33/24/34
 Shaved: shaved
 Ethnicity: Caucasian
 ---
+Ramona Barlowe
+Ukraine
+Debut Age: 19
+https://www.metart.com/model/ramona-barlowe
+Eye color: brown
+Hair color: brown
+Height: 5'3''
+Weight: 121 lbs
+Breasts: medium
+Measurements: 34/24/36
+Shaved: shaved
+Bio
+I love to play basketball, sunbathe on the beach and travel.
+---
+Rusja
+Russian Federation
+Debut Age: 18
+https://www.metart.com/model/rusja
+Eye color: blue
+Hair color: blonde
+Height: 5'10''
+Weight: 115 lbs
+Breasts: small
+Measurements: 33/25/35
+Shaved: shaved
+Ethnicity: Caucasian
+Bio
+This year I am preparing myself for university to study the history of art. So far, I have no friends here and I spend a lot of time to myself. Books and playing the piano perfectly fill my time. When I get bored at home, I just go for a walk along the old Prague. This has opened a new and the most wonderful adventure for me.
+---
+Shasha
+Philippines
+Debut Age: 24
+https://www.metart.com/model/shasha
+Eye color: brown
+Hair color: black
+Height: 5'4''
+Weight: 101 lbs
+Breasts: small
+Measurements: 32/23/35
+Shaved: shaved
+Ethnicity: Asian
+Bio
+I live in Bali and love surfing, dancing and going out with friends. I love cooking, pasta is my favourite. Maybe that's why I love Italy and Italians so much!!
+---
+Milkavi
+Ukraine
+Debut Age: 23
+https://www.metart.com/model/milkavi
+Eye color: blue
+Hair color: red
+Height: 5'3''
+Weight: 99 lbs
+Breasts: small
+Measurements: 33/24/35
+Shaved: shaved
+Ethnicity: Caucasian
+Bio
+I have always been an obedient girl. Perhaps even more than necessary as I was at home with my parents. I like while walking with my parents on the seashore, I saw a nude shooting of a model. It was breathtakingly beautiful, then I got stuck, I want to be a nude model, I said, now here.
+---
+Francis X
+Italy
+Debut Age: 36
+https://www.sexart.com/model/francis-x
+gender: m
+---
+Alice Ross
+Russian Federation
+Debut Age: 23
+https://www.sexart.com/model/alice-ross
+Eye color: green
+Hair color: blonde
+Height: 5'10''
+Weight: 123 lbs
+Breasts: small
+Measurements: 36/28/34
+Shaved: shaved
+---
+
 
 # vvv  Here  vvv
 
@@ -3407,135 +3486,262 @@ site: MetArt
 url: https://www.metart.com/model/dahlia-svensson
 type: Cast
 gender: female
-
-# stats
-
+Sweden
+Debut Age: 32
+Eye color: blue
+Hair color: blonde
+Height: 5'9''
+Weight: 130 lbs
+Breasts: medium
+Measurements: 36/24/35
+Shaved: shaved
+Ethnicity: Caucasian
 ---
 name: Dakota Pink
 site: MetArt
 url: https://www.metart.com/model/dakota-pink
 type: Cast
 gender: female
-
-# stats
-
+Russian Federation
+Debut Age: 19
+Eye color: green
+Hair color: brown
+Height: 5'6''
+Weight: 121 lbs
+Breasts: large
+Measurements: 37/24/36
+Shaved: shaved
+Ethnicity: Caucasian
+Bio
+I am a student and spend all my free time studying, often I go to other cities and countries for scientific seminars. I'm proud to be learning only on high marks. I dream to write a dissertation and do some interesting discovery. I think that a smart girl and with a good a beautiful figure, it's very sexy. I love the weekend and I try to spend them as cheerfully and vigorously. I love sports entertainment, participate in karting races and dream to ride on sailing yacht.
 ---
 name: Dakota Simone
 site: MetArt
 url: https://www.metart.com/model/dakota-simone
 type: Cast
 gender: female
-
-# stats
-
+United States
+Debut Age: 25
+Eye color: brown
+Hair color: black
+Height: 5'2''
+Weight: 130 lbs
+Breasts: small
+Measurements: 32/28/40
+Shaved: shaved
+Ethnicity: Black
 ---
 name: Dana Delight
 site: MetArt
 url: https://www.metart.com/model/dana-delight
 type: Cast
 gender: female
-
-# stats
-
+Belarus
+Debut Age: 21
+Eye color: brown
+Hair color: blonde
+Height: 5'8''
+Weight: 119 lbs
+Breasts: small
+Measurements: 34/26/37
+Shaved: shaved
+Ethnicity: Caucasian
+Bio
+Hi, my name is Dana. I enjoy going out with friends, a glass of good wine and delicious food. A good conversation. I love to wear stockings, I feel so sexy. I don’t smoke. I am a student. Photography is my hobby, as modeling. I love to travel, but don’t have possibility to do it often.
 ---
 name: Dariana
 site: MetArt
 url: https://www.metart.com/model/dariana
 type: Cast
 gender: female
-
-# stats
-
+Russian Federation
+Debut Age: 24
+Eye color: brown
+Hair color: brown
+Height: 5'7''
+Weight: 128 lbs
+Breasts: small
+Measurements: 35/24/34
+Shaved: shaved
+Ethnicity: Caucasian
+Bio
+If I were a kitty, I would be the fluffiest, most affectionate and softest in the world. I like being a woman. I love translucent clothes and dresses, but I can also be a neighbor girl in shorts and sneakers. I love cooking and trying unusual recipes. I love my long hair, it always smells so good with perfume. In everyday life, I prefer a minimum of makeup and natural skin without shaving. Sometimes I take out a razor for the sake of a photo. It's always fun with me, I like interesting conversations and I never feel sad, because there is little point in this. I dream of my own apartment with a beautiful view of the river and still dream of love.
 ---
 name: Debora A
 site: MetArt
 url: https://www.metart.com/model/debora-a
 type: Cast
 gender: female
-
-# stats
-
+Ukraine
+Debut Age: 20
+Eye color: brown
+Hair color: brown
+Height: 5'0''
+Weight: 93 lbs
+Breasts: medium
+Measurements: 35/23/35
+Shaved: shaved
+Ethnicity: Caucasian
+Bio
+I love to feel sexy. I enjoyed to model in erotic style. I take care of myself and exercise every day. I enjoy running and dancing.
 ---
 name: Debora C
 site: MetArt
 url: https://www.metart.com/model/debora-c
 type: Cast
 gender: female
-
-# stats
-
+Ukraine
+Debut Age: 22
+Eye color: brown
+Hair color: brown
+Height: 5'2''
+Weight: 101 lbs
+Breasts: medium
+Measurements: 31/24/33
+Shaved: shaved
+Ethnicity: Caucasian
 ---
 name: Decima
 site: MetArt
 url: https://www.metart.com/model/decima
 type: Cast
 gender: female
-
-# stats
-
+Belarus
+Debut Age: 19
+Eye color: blue
+Hair color: blonde
+Height: 5'4''
+Weight: 108 lbs
+Breasts: small
+Measurements: 34/25/35
+Shaved: shaved
+Ethnicity: Caucasian
+Bio
+Hi, my name is Decima. I am just an ordinary girl with my own unique parts. I like to wear stockings. I am feminine. My hobby is to sing. Once I participated in a talents show on TV.I love to make lovely photos.
 ---
 name: Deepika
 site: MetArt
 url: https://www.metart.com/model/deepika
 type: Cast
 gender: female
-
-# stats
-
+Norway
+Debut Age: 18
+Eye color: blue
+Hair color: brown
+Height: 5'5''
+Weight: 106 lbs
+Breasts: small
+Measurements: 34/25/35
+Shaved: shaved
+Ethnicity: Caucasian
+Bio
+I am a student of economics. I also enjoy to bake pastries of my own creations. I have become very artistic and enjoy to share my craft with my friends and family. I hope to have my own bakery. I enjoy art and expressing myself.
 ---
 name: Diamond
 site: MetArt
 url: https://www.metart.com/model/diamond
 type: Cast
 gender: female
-
-# stats
-
+Latvia
+Debut Age: 23
+Eye color: blue
+Hair color: black
+Height: 5'7''
+Weight: 108 lbs
+Breasts: small
+Measurements: 34/25/35
+Shaved: shaved
+Ethnicity: Caucasian
+Bio
+Hi,my name is Diamond! I am fashion addicted ;) I believe I look as stunning wearing t-shirt and jeans or just heels. I adore beautiful lingerie. I have a great collection at home. I love how I look in sexy underwear and so I decided to try my self in modelling. Besides my fashion hobby, I study graphic design. My goal is to unite beauty of the world with the body shapes. Kisses
 ---
 name: Diana Jam
 site: MetArt
 url: https://www.metart.com/model/diana-jam
 type: Cast
 gender: female
-
-# stats
-
+Russian Federation
+Debut Age: 22
+Eye color: brown
+Hair color: brown
+Height: 5'5''
+Weight: 106 lbs
+Breasts: medium
+Measurements: 35/24/35
+Shaved: shaved
+Ethnicity: Caucasian
+Bio
+My hobby is cats, I like them very much. I can hear their words through their movements. I have 2 at home, I would like to have my own shelter one day.
 ---
 name: Diana Rider
 site: MetArt
 url: https://www.metart.com/model/diana-rider
 type: Cast
 gender: female
-
-# stats
-
+Russian Federation
+Debut Age: 19
+Eye color: blue
+Hair color: blonde
+Height: 5'6''
+Weight: 112 lbs
+Breasts: small
+Measurements: 36/25/37
+Shaved: shaved
+Ethnicity: Caucasian
+Bio
+My name is Diana. Friends call me Di. I love walking in parks, finding new and interesting places in the city and beyond. Traveling is my passion. I like to travel by car and stop in different cities, get to know new people and the local culture. It's so romantic. My hobby is equestrian sport. I love to ride horses. Photography has become a new passion for me. I think this could be a lifetime journey
 ---
 name: Dominika Dark
 site: MetArt
 url: https://www.metart.com/model/dominika-dark
 type: Cast
 gender: female
-
-# stats
-
+Ukraine
+Debut Age: 29
+Eye color: blue
+Hair color: brown
+Height: 5'2''
+Weight: 106 lbs
+Breasts: medium
+Measurements: 33/23/34
+Shaved: shaved
+Ethnicity: Caucasian
+Bio
+Dominika here, I'm Ukrainian. I love to listen to heavy metal, it inspired me to learn the guitar I'm not great at it yet but hopefully I will continue to improve
 ---
 name: Duffy
 site: MetArt
 url: https://www.metart.com/model/duffy
 type: Cast
 gender: female
-
-# stats
-
+Ukraine
+Debut Age: 22
+Eye color: green
+Hair color: blonde
+Height: 5'5''
+Weight: 108 lbs
+Breasts: small
+Measurements: 34/25/36
+Shaved: shaved
+Ethnicity: Caucasian
 ---
 name: Dzhili
 site: MetArt
 url: https://www.metart.com/model/dzhili
 type: Cast
 gender: female
-
-# stats
-
+Ukraine
+Debut Age: 19
+Eye color: hazel
+Hair color: black
+Height: 5'5''
+Weight: 108 lbs
+Breasts: medium
+Measurements: 33/26/32
+Shaved: shaved
+Ethnicity: Caucasian
+Bio
+My hobby and main interest in life is speed and biking, sometimes it's a little dangerous and traumatic, but I try to take less risks. I love comfortable sports clothes, while I have a beautiful body and I know that it looks sexy when a girl on a bike flies by you. Or maybe someday we will meet at a gas station and have a cup of coffee while talking. Yes, I am a dreamer and I often like to dream. I always have questions for my interlocutor and I am interested in getting to know people.
 ---
 name: Electra Noir
 site: MetArt
