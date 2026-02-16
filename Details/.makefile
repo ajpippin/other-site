@@ -89,19 +89,14 @@ ping:
 	@ssh goofy ls /Volumes/Big6/Web/Public
 
 
-##
+MaCastFiles	= $(SITE)/Details/ma-cast.txt
+YpCastFiles	= $(SITE)/Details/ph-cast.txt
 
-KEYVAL	= $(SITE)/KeyValue
-RENDER	= $(SITE)/Rendered/JSON
-
-
-redo: $(RENDER)/MetArt/2025.json $(RENDER)/SexArt/2025.json $(RENDER)/VivThomas/2025.json
-
-
-$(RENDER)/MetArt/2025.json: $(KEYVAL)/MetArt/Galleries/2025.txt $(KEYVAL)/MetArt/Movies/2025.txt
-	cat $(KEYVAL)/MetArt/Galleries/2025.txt $(KEYVAL)/MetArt/Movies/2025.txt | nnma kv --format=json > $(RENDER)/MetArt/2025.json
-$(RENDER)/SexArt/2025.json: $(KEYVAL)/SexArt/Galleries/2025.txt $(KEYVAL)/SexArt/Movies/2025.txt
-	cat $(KEYVAL)/SexArt/Galleries/2025.txt $(KEYVAL)/SexArt/Movies/2025.txt | nnma kv --format=json > $(RENDER)/SexArt/2025.json
-$(RENDER)/VivThomas/2025.json: $(KEYVAL)/VivThomas/Galleries/2025.txt $(KEYVAL)/VivThomas/Movies/2025.txt
-	cat $(KEYVAL)/VivThomas/Galleries/2025.txt $(KEYVAL)/VivThomas/Movies/2025.txt | nnma kv --format=json > $(RENDER)/VivThomas/2025.json
-
+.PHONY: cast
+cast: $(SITE)/Rendered/JSON/cast.json $(SITE)/Rendered/YAML/cast.json
+$(SITE)/Rendered/JSON/cast.json:
+	@echo "Rendering .../JSON/cast.json"
+	@nnma kv convert --cast --format=json $(MaCastFiles) > $@
+$(SITE)/Rendered/YAML/cast.json:
+	@echo "Rendering .../YAML/cast.json"
+	@nnma kv convert --cast --format=yaml $(MaCastFiles) > $@
