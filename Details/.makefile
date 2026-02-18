@@ -21,9 +21,9 @@ VtJson		= $(SITE)/Rendered/JSON/VivThomas/$(YEAR).json
 VtYaml		= $(SITE)/Rendered/YAML/VivThomas/$(YEAR).yaml
 
 
-KEYVAL	= $(MaKeyVal) $(PhKeyVal) $(SaKeyVal) $(VtKeyVal)
-JSON	= $(MaJson) $(PhJson) $(SaJson) $(VtJson) 
-YAML	= $(MaYaml) $(PhYaml) $(SaYaml) $(VtYaml) 
+KEYVAL	= $(MaKeyVal) $(PhKeyVal) $(SaKeyVal) $(VtKeyVal) $(AllCastKeyVal)
+JSON	= $(MaJson) $(PhJson) $(SaJson) $(VtJson) $(AllCastJson)
+YAML	= $(MaYaml) $(PhYaml) $(SaYaml) $(VtYaml) $(AllCastYaml)
 
 
 default: json push
@@ -89,14 +89,25 @@ ping:
 	@ssh goofy ls /Volumes/Big6/Web/Public
 
 
-MaCastFiles	= $(SITE)/Details/ma-cast.txt
-YpCastFiles	= $(SITE)/Details/ph-cast.txt
+MaCastKeyVal	= $(SITE)/Details/ma-cast.txt
+MaCastJson	= $(SITE)/Rendered/JSON/MetArt/cast.json
+MaCastYaml	= $(SITE)/Rendered/YAML/MetArt/cast.yaml
+
+PhCastKeyVal	= $(SITE)/Details/ph-cast.txt
+PhCastJson	= $(SITE)/Rendered/JSON/Pornhub/cast.json
+PhCastYaml	= $(SITE)/Rendered/YAML/Pornhub/cast.yaml
+
+AllCastKeyVal   = $(MaCastKeyVal) $(PhCastKeyVal)
+AllCastJson     = $(MaCastJson) $(PhCastJson)
+AllCastYaml     = #(MaCastYaml) $(PhCastYaml)
 
 .PHONY: cast
-cast: $(SITE)/Rendered/JSON/cast.json $(SITE)/Rendered/YAML/cast.json
-$(SITE)/Rendered/JSON/cast.json:
-	@echo "Rendering .../JSON/cast.json"
-	@nnma kv convert --cast --format=json $(MaCastFiles) > $@
-$(SITE)/Rendered/YAML/cast.json:
-	@echo "Rendering .../YAML/cast.json"
-	@nnma kv convert --cast --format=yaml $(MaCastFiles) > $@
+cast: $(AllCastJson) $(AllCastYaml)
+
+$(MaCastJson): $(MaCastKeyVal) .makefile
+	@echo "Rendering .../JSON/MetArt/cast.json"
+	@nnma kv convert --cast --format=json $< > $@
+
+$(PhCastYaml): $(PhCastKeyVal) .makefile
+	@echo "Rendering .../JSON/Pornhub/cast.json"
+	@nnma kv convert --cast --format=json $< > $@
