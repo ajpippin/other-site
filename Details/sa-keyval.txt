@@ -3,7 +3,7 @@
 #--------------------------------------------------------------------------------------------------#
 
 title: Perfect Vacation
-type: gallery
+type: Gallery
 site: SexArt
 cast: n:Estella; u:https://www.sexart.com/model/estella
 released: 2026-01-01
@@ -103,7 +103,7 @@ tag: tattoo
 tag: tribbing
 ---
 title: Tasty Treat
-type: gallery
+type: Gallery
 site: SexArt
 cast: n:Aruna; u:https://www.sexart.com/model/aruna
 released: 2026-01-03
@@ -210,7 +210,7 @@ tag: thongs
 tag: united kingdom
 ---
 title: Naughty Vibe
-type: gallery
+type: Gallery
 site: SexArt
 cast: n:Nami Vibes; u:https://www.sexart.com/model/nami-vibes
 released: 2026-01-05
@@ -247,7 +247,7 @@ tag: table
 tag: upskirt
 ---
 title: Light My Fire
-type: gallery
+type: Gallery
 site: SexArt
 cast: n:Novella Night; u:https://www.sexart.com/model/novella-night
 released: 2026-01-06
@@ -346,7 +346,7 @@ tag: squirting
 tag: tattoo
 ---
 title: Feeling Free
-type: gallery
+type: Gallery
 site: SexArt
 cast: n:Roberta Sin; u:https://www.sexart.com/model/roberta-sin
 released: 2026-01-08
@@ -446,7 +446,7 @@ tag: tattoo
 tag: ukraine
 ---
 title: Bedtime Tease
-type: gallery
+type: Gallery
 site: SexArt
 cast: n:Zuzanna; u:https://www.sexart.com/model/zuzanna
 released: 2026-01-10
@@ -454,9 +454,8 @@ director: Higinio Domingo
 fileprefix: SexArt-20260110-bedtime-tease
 rating: 95
 url: https://www.sexart.com/model/zuzanna/gallery/20260110/BEDTIME_TEASE
-artifactid: 00000000-0000-0000-0000-000000000000
-files:  # add-files-here
-
+file: p:SexArt-20260110-bedtime-tease.jpg; k:60; t:jpg; o:portrait;
+file: p:SexArt-20260110-bedtime-tease.zip; k:360736; n:137; t:zip;
 description: Cute brunette Zuzanna is in a playful mood, rolling around on the bed in a tight top but no panties. The freckle-faced sweetie will seduce you with her mesmerizing blue eyes and provocative behavior as she spreads her soft thighs invitingly. Face down booty up, she explores her erotic desires with uninhibited pleasure.
 tag: ass
 tag: ass grabbing
@@ -562,7 +561,7 @@ tag: thongs
 tag: wet pussy
 ---
 title: The Naughty Chair
-type: gallery
+type: Gallery
 site: SexArt
 cast: n:Sirena Milano; u:https://www.sexart.com/model/sirena-milano; g:f; s:SexArt
 released: 2026-01-12
@@ -596,7 +595,7 @@ tag: striptease
 tag: trimmed pussy
 ---
 title: Light Seduction
-type: gallery
+type: Gallery
 site: SexArt
 cast: n:Amber Slassh; u:https://www.sexart.com/model/amber-slassh
 released: 2026-01-13
@@ -639,9 +638,11 @@ director: Andrej Lupin
 fileprefix: SexArt-20260114-all-for-you-
 rating: 95
 url: https://www.sexart.com/model/perry-layne-and-amalia-davis/movie/20260114/ALL_FOR_YOU
-artifactid: 00000000-0000-0000-0000-000000000000
-files:  # add-files-here
-
+file: p:SexArt-20260114-all-for-you-1080.mp4; k:2064816; t:mp4; r:1080p;
+file: p:SexArt-20260114-all-for-you-2160.mp4; k:20365456; t:mp4; r:2160p;
+file: p:SexArt-20260114-all-for-you-high.zip; k:295440; n:135; t:zip;
+file: p:SexArt-20260114-all-for-you-tall.zip; k:295904; n:135; t:zip;
+file: p:SexArt-20260114-all-for-you-wide.jpg; k:136; t:jpg; o:landscape;
 description: Voluptuous beauty Amalia Davis stirs from a delightful dream when Perry Layne brings her breakfast in bed. As Andrej Lupin’s erotic film "All For You" begins, Perry feeds his sweetheart delicious morsels, kissing her luscious lips between mouthfuls. He’s soon exploring her tempting curves with a sensual touch, his passionate kisses and caresses making her quiver with arousal. Silk and lace lingerie discarded, Amalia’s lovely big breasts jiggle enticingly as Perry lavishes attention on her sexy body. She’s eager to reciprocate, their bodies united in a dance of desire that sates their shared appetite for carnal pleasure.
 runtime: 0:35
 seconds: 2090
@@ -695,7 +696,7 @@ tag: striptease
 tag: wet pussy
 ---
 title: Emerald Queen
-type: gallery
+type: Gallery
 site: SexArt
 cast: n:Betzz; u:https://www.sexart.com/model/betzz; g:f; s:SexArt
 released: 2026-01-15
@@ -791,7 +792,7 @@ tag: thongs
 tag: tribbing
 ---
 title: Touch Me
-type: gallery
+type: Gallery
 site: SexArt
 cast: n:Rea Ready; u:https://www.sexart.com/model/rea-ready
 released: 2026-01-17
@@ -799,9 +800,8 @@ director: Flora
 fileprefix: SexArt-20260117-touch-me
 rating: 95
 url: https://www.sexart.com/model/rea-ready/gallery/20260117/TOUCH_ME
-artifactid: 00000000-0000-0000-0000-000000000000
-files:  # add-files-here
-
+file: p:SexArt-20260117-touch-me.jpg; k:72; t:jpg; o:portrait;
+file: p:SexArt-20260117-touch-me.zip; k:164160; n:123; t:zip;
 description: Cute brunette Rea Ready relaxes after her workout, stretching her supple body in a snug crop top and tight shorts that cling to her perfect buns like a second skin. The vivacious green-eyed sweetie is eager to attend to her more sensual side, letting her hands wander over her silky skin. Naked, she expresses her passionate nature with blissful energy.
 tag: ass
 tag: ass grabbing
@@ -837,9 +837,11 @@ director: Andrej Lupin
 fileprefix: SexArt-20260118-controller-
 rating: 91
 url: https://www.sexart.com/model/peach-lollypop-and-matthew-meier/movie/20260118/CONTROLLER
-artifactid: 00000000-0000-0000-0000-000000000000
-files:  # add-files-here
-
+file: p:SexArt-20260118-controller-1080.mp4; k:2130496; t:mp4; r:1080p;
+file: p:SexArt-20260118-controller-2160.mp4; k:21070016; t:mp4; r:2160p;
+file: p:SexArt-20260118-controller-high.zip; k:295680; n:118; t:zip;
+file: p:SexArt-20260118-controller-tall.jpg; k:100; t:jpg; o:portrait;
+file: p:SexArt-20260118-controller-wide.jpg; k:176; t:jpg; o:landscape;
 description: Cute redhead Peach Lollypop has a sexy surprise for Matthew Meier – a special toy with a feature that puts her sensual pleasure in his hands. As Andrej Lupin’s erotic film "Controller" begins, Matthew rises to the challenge eagerly, but the lovers are interrupted when the doorbell rings. It’s an unexpected visit from their friend – SexArt superstar Emylia Argan, in a cameo role – who chatters away, oblivious to Peach’s distracted state. Matthew waits impatiently, teasing his sweetheart by increasing the good vibrations she’s feeling. Peach finally hustles her friend out of the door and rushes to the bedroom, where she is soon naked and quivering in Matthew’s arms. What follows is an intense experience for them both, as they explore every aspect of their mutual desire with uninhibited enjoyment.
 runtime: 0:36
 seconds: 2165
@@ -895,7 +897,7 @@ tag: vibrator
 tag: wet pussy
 ---
 title: Tender Moment
-type: gallery
+type: Gallery
 site: SexArt
 cast: n:Hareniks; u:https://www.sexart.com/model/hareniks
 released: 2026-01-19
@@ -929,7 +931,7 @@ tag: thongs
 tag: ukraine
 ---
 title: Forest Pixie
-type: gallery
+type: Gallery
 site: SexArt
 cast: n:Bella; u:https://www.sexart.com/model/bella
 released: 2026-01-20
@@ -1000,7 +1002,7 @@ tag: czech republic
 tag: russian federation
 ---
 title: Denim Dreams
-type: gallery
+type: Gallery
 site: SexArt
 cast: n:Polly Yangs; u:https://www.sexart.com/model/polly-yangs; g:f; s:SexArt
 released: 2026-01-22
@@ -1108,7 +1110,7 @@ tag: tattoo
 tag: thongs
 ---
 title: Angelic
-type: gallery
+type: Gallery
 site: SexArt
 cast: n:Scarlet Telles; u:https://www.sexart.com/model/scarlet-telles
 released: 2026-01-24
@@ -1209,7 +1211,7 @@ tag: thongs
 tag: united kingdom
 ---
 title: Beautiful Reflection
-type: gallery
+type: Gallery
 site: SexArt
 cast: n:MitziX; u:https://www.sexart.com/model/mitzix; g:f; s:SexArt
 released: 2026-01-29
@@ -1248,7 +1250,7 @@ tag: striptease
 tag: trimmed pussy
 ---
 title: Temptress
-type: gallery
+type: Gallery
 site: SexArt
 cast: n:Naty Evans; u:https://www.sexart.com/model/naty-evans
 released: 2026-01-27
@@ -1286,7 +1288,7 @@ tag: striptease
 tag: thongs
 ---
 title: Inviting View
-type: gallery
+type: Gallery
 site: SexArt
 cast: n:Dakota Doll; u:https://www.sexart.com/model/dakota-doll
 released: 2026-01-26
@@ -1332,9 +1334,11 @@ director: Andrej Lupin
 fileprefix: SexArt-20260128-take-care-of-me-
 rating: 88
 url: https://www.sexart.com/model/jessie-ames-and-yeri-blue/movie/20260128/TAKE_CARE_OF_ME
-artifactid: 00000000-0000-0000-0000-000000000000
-files:  # add-files-here
-
+file: p:SexArt-20260128-take-care-of-me-1080.mp4; k:1786496; t:mp4; r:1080p;
+file: p:SexArt-20260128-take-care-of-me-2160.mp4; k:17793904; t:mp4; r:2160p;
+file: p:SexArt-20260128-take-care-of-me-tall.jpg; k:164; t:jpg; o:portrait;
+file: p:SexArt-20260128-take-care-of-me-tall.zip; k:443008; n:157; t:zip;
+file: p:SexArt-20260128-take-care-of-me-wide.jpg; k:92; t:jpg; o:landscape;
 description: Cute Jessie Ames smiles happily as Yeri Blue brushes her long blonde hair and then braids it into pigtails. As Andrej Lupin’s erotic film "Take Care Of Me" begins, she thanks him with a tender kiss that rapidly grows passionate. The lovers are soon expressing their mutual adoration and desire in the most intimate way. Moving to the bed, clothing is discarded as their bodies entwine vigorously, exploring athletic positions with wild energy. It’s an enthusiastic coupling that leaves them both breathless and glowing with satisfaction.
 runtime: 0:30
 seconds: 1820
@@ -1449,7 +1453,7 @@ tag: tattoo
 tag: thongs
 ---
 title: Buxom Beauty
-type: gallery
+type: Gallery
 site: SexArt
 cast: n:Neu Ling; u:https://www.sexart.com/model/neu-ling
 released: 2026-01-31
@@ -1553,7 +1557,7 @@ tag: table
 tag: thongs
 ---
 title: Undress To Impress
-type: gallery
+type: Gallery
 site: SexArt
 cast: n:Polet; u:https://www.sexart.com/model/polet
 released: 2026-02-02
@@ -1594,7 +1598,7 @@ tag: ukraine
 tag: upskirt
 ---
 title: Date Night
-type: gallery
+type: Gallery
 site: SexArt
 cast: n:Ryana; u:https://www.sexart.com/model/ryana; g:f; s:SexArt
 released: 2026-02-03
@@ -1641,9 +1645,11 @@ director: Andrej Lupin
 fileprefix: SexArt-20260204-touch-more-
 rating: 93
 url: https://www.sexart.com/model/anna-bella-and-tommy-cabrio/movie/20260204/TOUCH_MORE
-artifactid: 00000000-0000-0000-0000-000000000000
-files:  # add-files-here
-
+file: p:SexArt-20260204-touch-more-1080.mp4; k:1376656; t:mp4; r:1080p;
+file: p:SexArt-20260204-touch-more-2160.mp4; k:13648384; t:mp4; r:2160p;
+file: p:SexArt-20260204-touch-more-high.zip; k:328288; n:127; t:zip;
+file: p:SexArt-20260204-touch-more-tall.jpg; k:92; t:jpg; o:portrait;
+file: p:SexArt-20260204-touch-more-wide.jpg; k:144; t:jpg; o:landscape;
 description: Sultry brunette Anna Bella gets a sensual shoulder massage from Tommy Cabrio, as Andrej Lupin’s erotic film "Touch More" begins. She grinds in his lap, the buttons on her tight top popping open to expose her perfect breasts as his hands explore her silky skin amorously. The eager lovers are soon naked on the sofa, their bodies entwined in a passionate embrace as they devote all their energy to giving and receiving sensual pleasure. Every breathless gasp and moan is testament to their powerful chemistry and intense desire.
 runtime: 0:23
 seconds: 1404
@@ -1697,7 +1703,7 @@ tag: striptease
 tag: thongs
 ---
 title: Naughty Looks
-type: gallery
+type: Gallery
 site: SexArt
 cast: n:Carolina Guerrero; u:https://www.sexart.com/model/carolina-guerrero
 released: 2026-02-05
@@ -1811,7 +1817,7 @@ tag: tribbing
 tag: trimmed pussy
 ---
 title: Sexting
-type: gallery
+type: Gallery
 site: SexArt
 cast: n:Alina; u:https://www.sexart.com/model/alina
 released: 2026-02-09
@@ -1848,7 +1854,7 @@ tag: tan lines
 tag: ukraine
 ---
 title: Show Off
-type: gallery
+type: Gallery
 site: SexArt
 cast: n:Sarah Heizel; u:https://www.sexart.com/model/sarah-heizel
 released: 2026-02-07
@@ -1949,7 +1955,7 @@ tag: tattoo
 tag: wet pussy
 ---
 title: Short Jeans
-type: gallery
+type: Gallery
 site: SexArt
 cast: n:Foxy Sofilie; u:https://www.sexart.com/model/foxy-sofilie; g:f; s:SexArt
 released: 2026-02-10
@@ -2048,7 +2054,7 @@ tag: straight hair
 tag: wet pussy
 ---
 title: Showered With Love
-type: gallery
+type: Gallery
 site: SexArt
 cast: n:Stacy Cruz; u:https://www.sexart.com/model/stacy-cruz; g:f; s:SexArt
 released: 2026-02-12
@@ -2158,7 +2164,7 @@ tag: thongs
 tag: tribbing
 ---
 title: Peachy
-type: gallery
+type: Gallery
 site: SexArt
 cast: n:Chloe Moss; u:https://www.sexart.com/model/chloe-moss
 released: 2026-02-14
@@ -2261,7 +2267,7 @@ tag: tattoo
 tag: thongs
 ---
 title: Casual Beauty
-type: gallery
+type: Gallery
 site: SexArt
 cast: n:Alecia Fox; u:https://www.sexart.com/model/alecia-fox; g:f; s:SexArt
 released: 2026-02-16
@@ -2297,7 +2303,7 @@ tag: thongs
 tag: trimmed pussy
 ---
 title: Sultry Lingerie
-type: gallery
+type: Gallery
 site: SexArt
 cast: n:Elfiolla; u:https://www.sexart.com/model/elfiolla
 released: 2026-02-17
@@ -2409,4 +2415,153 @@ tag: striptease
 tag: thongs
 tag: ukraine
 tag: wet pussy
+---
+title: Peaches And Cream
+type: Gallery
+site: SexArt
+cast: n:Afina Ray; u:https://www.sexart.com/model/afina-ray
+cast: n:Yeva; u:https://www.sexart.com/model/yeva
+released: 2026-02-19
+director: Tora Ness
+fileprefix: SexArt-20260219-peaches-and-cream
+rating: 93
+url: https://www.sexart.com/model/afina-ray-and-yeva/gallery/20260219/PEACHES_AND_CREAM
+file: p:SexArt-20260219-peaches-and-cream.jpg; k:112; t:jpg; o:portrait;
+file: p:SexArt-20260219-peaches-and-cream.zip; k:246288; n:104; t:zip;
+description: Gorgeous girlfriends Yeva and Afina Ray share a tasty treat that leads to a very steamy encounter. They’re deliciously seductive in sexy lingerie and irresistible when they’re naked, beautiful bodies entwined in an uninhibited embrace. Hands and lips exploring sensually, the sweet lovers savor every blissful moment.
+tag: ass
+tag: ass grabbing
+tag: barefoot
+tag: blonde
+tag: bodysuit
+tag: bra and panties
+tag: breast holding
+tag: brunette
+tag: chair
+tag: curly hair
+tag: food
+tag: gg cunnilingus
+tag: gg fingering
+tag: gg kissing
+tag: gg nipple play
+tag: indoors
+tag: latvia
+tag: lesbian
+tag: long hair
+tag: multiple models
+tag: norway
+tag: painted nails
+tag: perky nipples
+tag: props
+tag: pussy
+tag: shaved pussy
+tag: sheer
+tag: spread legs
+tag: straight hair
+tag: striptease
+tag: table
+tag: thongs
+---
+title: Perfectly You
+type: movie
+site: SexArt
+cast: n:Olivia Westsun; u:https://www.sexart.com/model/olivia-westsun
+cast: n:Angelika Grays; u:https://www.sexart.com/model/angelika-grays
+released: 2026-02-20
+director: Andrej Lupin
+fileprefix: SexArt-20260220-perfectly-you-
+rating: 95
+url: https://www.sexart.com/model/olivia-westsun-and-angelika-grays/movie/20260220/PERFECTLY_YOU
+file: p:SexArt-20260220-perfectly-you-1080.mp4; k:1605824; t:mp4; r:1080p;
+file: p:SexArt-20260220-perfectly-you-2160.mp4; k:7192604; t:mp4; r:2160p;
+file: p:SexArt-20260220-perfectly-you-high.zip; k:300644; n:142; t:zip;
+file: p:SexArt-20260220-perfectly-you-tall.jpg; k:88; t:jpg; o:portrait;
+file: p:SexArt-20260220-perfectly-you-wide.jpg; k:160; t:jpg; o:landscape;
+description: Sexy blonde Angelika Grays is singing to herself as she irons her clothes, while cute brunette Olivia Westsun watches from the bed, captivated by her vivacious girlfriend. As Andrej Lupin’s erotic film "Perfectly You" begins, Olivia is eager for Angelika’s attention, flirting playfully to distract her from her chores. The lovers tumble onto the bed in each other’s arms, wrestling and giggling giving way to hungry kisses. Clothing slips away as passion rises, and it’s not long before the naked beauties are giving free rein to their mutual desires. Angelika takes the lead at first, before Olivia reciprocates with equal ardor, both of them glowing with pleasure as they share the blissful moment.
+runtime: 0:27
+seconds: 1612
+duration: 26m52s
+executiveProducer: MetArt Films
+producer: Ariel Piper Fawn
+cameraOperator: John Humble, Jacob Piece, Joseph Depo
+stillPhotographer: Emylia Argan
+editor: Adele Hollis
+makeupArtist: Kata Ka
+productionManager: Lucy Licott
+productionAssistant: Jacob Piece
+tag: ass
+tag: ass grabbing
+tag: barefoot
+tag: blonde
+tag: breast holding
+tag: brunette
+tag: crop top
+tag: doggy style
+tag: earrings
+tag: feet
+tag: foreign objects
+tag: gg 69
+tag: gg cunnilingus
+tag: gg face sitting
+tag: gg fingering
+tag: gg kissing
+tag: gg nipple play
+tag: gg nipple sucking
+tag: gg spanking
+tag: indoors
+tag: lesbian
+tag: long hair
+tag: masturbation
+tag: multiple models
+tag: painted nails
+tag: props
+tag: pussy
+tag: russian federation
+tag: shaved pussy
+tag: short dress
+tag: shorts
+tag: spread legs
+tag: straight hair
+tag: striptease
+tag: tan lines
+tag: tattoo
+---
+title: Eyes On Me
+type: Gallery
+site: SexArt
+cast: n:Asra Dewy; u:https://www.sexart.com/model/asra-dewy
+released: 2026-02-21
+director: Erro
+fileprefix: SexArt-20260221-eyes-on-me
+rating: 97
+url: https://www.sexart.com/model/asra-dewy/gallery/20260221/EYES_ON_ME
+file: p:SexArt-20260221-eyes-on-me.jpg; k:96; t:jpg; o:portrait;
+file: p:SexArt-20260221-eyes-on-me.zip; k:344816; n:150; t:zip;
+description: Captivating beauty Asandra Dewy is a breathtaking vision in sexy lingerie that accentuates her perfect figure. The raven-haired honey is soon naked and going face down booty up as she lets her hands explore amorously. Rolling on the bed with uninhibited passion, she shares her erotic desires with a look that says she loves knowing you’re watching.
+tag: ass
+tag: ass grabbing
+tag: barefoot
+tag: bed
+tag: bra and panties
+tag: breasts
+tag: brunette
+tag: curly hair
+tag: doggy style
+tag: garter belt
+tag: indoors
+tag: long hair
+tag: masturbation
+tag: painted nails
+tag: perky nipples
+tag: pillows
+tag: props
+tag: pussy
+tag: shaved pussy
+tag: sheer
+tag: solo girl
+tag: spread legs
+tag: striptease
+tag: suspender belt
+tag: thongs
+tag: ukraine
 ---
