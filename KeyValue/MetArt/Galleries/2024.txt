@@ -1,6 +1,9 @@
 #--------------------------------------------------------------------------------------------------#
-#-- KeyValue / Gallery / MetArt / 2026 -----------------------------------------------------------------------#
+#-- KeyValue / Gallery / MetArt / 2026 ------------------------------------------------------------#
 #--------------------------------------------------------------------------------------------------#
+
+@site MetArt
+@type Gallery
 
 title: Zen Garden
 type: gallery
@@ -3945,7 +3948,7 @@ tag: sheer
 tag: suspender belt
 tag: ukraine
 ---
-vtitle: Early Summer Morning 1
+title: Early Summer Morning 1
 type: gallery
 site: MetArt
 cast: n:Luise; u:https://www.metart.com/model/luise

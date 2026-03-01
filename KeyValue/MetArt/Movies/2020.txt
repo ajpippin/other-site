@@ -2,6 +2,9 @@
 #-- KeyValue / Movies / MetArt / 2020 -------------------------------------------------------------#
 #--------------------------------------------------------------------------------------------------#
 
+@site MetArt
+@type Movie
+
 title: Winter Warmth
 type: movie
 site: MetArt
@@ -1061,9 +1064,8 @@ released: 2020-04-28
 director: Nick Twin
 fileprefix: MetArt-20200428-inspiration-
 rating: 93
-url:
+url: https://www.metart.com/model/nikki-hill/movie/20200428/INSPIRATION
 files:  # add-files-here
-
 description: xxx
 
 

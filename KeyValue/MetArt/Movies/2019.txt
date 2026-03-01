@@ -2,6 +2,9 @@
 #-- KeyValue / Movies / MetArt / 2019 -------------------------------------------------------------#
 #--------------------------------------------------------------------------------------------------#
 
+@site MetArt
+@type Movie
+
 title: Between Dream and Reality
 type: movie
 site: MetArt

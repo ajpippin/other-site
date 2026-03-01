@@ -1,6 +1,9 @@
 #--------------------------------------------------------------------------------------------------#
-#-- KeyValue / Gallery / MetArt / 2019 -----------------------------------------------------------------------#
+#-- KeyValue / Gallery / MetArt / 2019 ------------------------------------------------------------#
 #--------------------------------------------------------------------------------------------------#
+
+@site MetArt
+@type Gallery
 
 title: Seamstress
 type: gallery
@@ -5448,20 +5451,21 @@ files:
 description: xxx
 
 ---
-title:
+title: 5:00 Somewhere
 type: gallery
-site: ma
-url: https://www.metart.com/model/cassia/gallery/20190919/
-cast: Cassia; https://www.metart.com/model/cassia; f
+site: MetArt
+cast: n:Cassia; u:https://www.sexart.com/model/cassia; g:f; s:SexArt
 released: 2019-09-19
-photographer: Arkisi
+director: Arkisi
+fileprefix: MetArt-20190919-500-somewhere
 rating: 92
-fileprefix: MetArt-20190919-
-files:
+url: https://www.metart.com/model/cassia/gallery/20190919/5_00_SOMEWHERE
+artifactid: 00000000-0000-0000-0000-000000000000
+files:  # add-files-here
 
 description: xxx
 
----
+
 title: Morning Air
 type: gallery
 site: ma
