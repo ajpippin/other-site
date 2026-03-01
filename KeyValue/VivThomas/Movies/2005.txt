@@ -2,6 +2,9 @@
 #-- KeyValue / Movies / VivThomas / 2005 ----------------------------------------------------------#
 #--------------------------------------------------------------------------------------------------#
 
+@site VivThomas
+@type Movie
+
 title: Confessions of a Make-up Artist #7
 type: movie
 site: vt

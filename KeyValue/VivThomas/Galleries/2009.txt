@@ -2,6 +2,9 @@
 #-- KeyValue / Gallery / VivThomas / 2009 ---------------------------------------------------------#
 #--------------------------------------------------------------------------------------------------#
 
+@site VivThomas
+@type Gallery
+
 title: Kissing Babes
 type: gallery
 site: vt

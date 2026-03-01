@@ -2,6 +2,9 @@
 #-- KeyValue / Movies / VivThomas / 2015 ----------------------------------------------------------#
 #--------------------------------------------------------------------------------------------------#
 
+@site VivThomas
+@type Movie
+
 title: My Sweet Diary 2 - Enticing
 type: movie
 site: vt

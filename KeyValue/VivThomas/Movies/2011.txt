@@ -2,6 +2,9 @@
 #-- KeyValue / Movies / VivThomas / 2011 ----------------------------------------------------------#
 #--------------------------------------------------------------------------------------------------#
 
+@site VivThomas
+@type Movie
+
 title: The Sole Collector - Unseen Footage 1.2
 type: movie
 site: vt

@@ -2,6 +2,9 @@
 #-- KeyValue / Movies / VivThomas / 2021 ----------------------------------------------------------#
 #--------------------------------------------------------------------------------------------------#
 
+@site VivThomas
+@type Movie
+
 title: Naughty Neighbors
 type: movie
 site: VivThomas

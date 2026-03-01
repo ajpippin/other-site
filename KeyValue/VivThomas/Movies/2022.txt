@@ -2,6 +2,9 @@
 #-- KeyValue / Movies / VivThomas / 2022 ----------------------------------------------------------#
 #--------------------------------------------------------------------------------------------------#
 
+@site VivThomas
+@type Movie
+
 title: Lips On Lips
 type: movie
 site: VivThomas

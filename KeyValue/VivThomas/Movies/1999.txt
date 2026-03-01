@@ -2,6 +2,9 @@
 #-- KeyValue / Movies / VivThomas / 1999 ----------------------------------------------------------#
 #--------------------------------------------------------------------------------------------------#
 
+@site VivThomas
+@type Movie
+
 title: Adele Stephens #3
 titleSortable: adele-stephens-03
 type: movie

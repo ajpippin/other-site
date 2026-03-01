@@ -2,6 +2,9 @@
 #-- KeyValue / Gallery / VivThomas / 2012 ---------------------------------------------------------#
 #--------------------------------------------------------------------------------------------------#
 
+@site VivThomas
+@type Gallery
+
 title: The Art of Sex - Cathy Heaven & Renato
 type: gallery
 site: vt

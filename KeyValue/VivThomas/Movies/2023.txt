@@ -2,6 +2,9 @@
 #-- KeyValue / Movies / VivThomas / 2023 ----------------------------------------------------------#
 #--------------------------------------------------------------------------------------------------#
 
+@site VivThomas
+@type Movie
+
 title: The Residence Episode 3
 type: movie
 site: vt

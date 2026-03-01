@@ -2,6 +2,9 @@
 #-- KeyValue / Gallery / VivThomas / 2013 ---------------------------------------------------------#
 #--------------------------------------------------------------------------------------------------#
 
+@site VivThomas
+@type Gallery
+
 title: Sunrise Lovers
 type: gallery
 site: vt

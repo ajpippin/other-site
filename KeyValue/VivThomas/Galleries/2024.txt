@@ -2,6 +2,9 @@
 #-- KeyValue / Gallery / VivThomas / 2024 ---------------------------------------------------------#
 #--------------------------------------------------------------------------------------------------#
 
+@site VivThomas
+@type Gallery
+
 title: Strawberries And Kisses
 type: gallery
 site: VivThomas

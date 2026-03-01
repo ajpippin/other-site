@@ -2,6 +2,9 @@
 #-- KeyValue / Movies / VivThomas / 2018 ----------------------------------------------------------#
 #--------------------------------------------------------------------------------------------------#
 
+@site VivThomas
+@type Movie
+
 title: Erotic Inspiration 4 - Renewed Passion
 type: movie
 site: vt
