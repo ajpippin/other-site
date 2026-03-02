@@ -124,9 +124,9 @@ measurements: 34/25/35
 shaved: shaved
 ethnicity: Caucasian
 ---
-name: @site SexArt
+@site SexArt
 
-Dakota Doll
+name: Dakota Doll
 origin: Russian Federation
 debutAge: 19
 eyes: hazel
