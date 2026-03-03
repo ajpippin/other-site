@@ -3,7 +3,7 @@
 ---
 name: Elena Vedem
 origin: Ukraine
-Age When Published: 21
+ageWhenPublished: 21
 url: https://www.metart.com/model/elena-vedem
 eyes: green
 hair: blonde
@@ -31,6 +31,7 @@ bio: My figure is natural and always makes people watch me from behind. I’m us
 name: Li Moon
 origin: Ukraine
 debutAge: 20
+url: https://www.metart.com/model/li-moon
 eyes: brown
 hair: brown
 height: 5'2"
@@ -42,6 +43,7 @@ ethnicity: Asian
 bio: My favorite time is spring. I like the flowers on the trees, I like a tender morning sing of birds. I would like to be a famous nude model. I believe in magic, in fairy. That's why I believe I can fly.
 ---
 name: Scarlett Queen
+url: https://www.metart.com/model/scarlett-queen
 debutAge: 32
 eyes: blue
 hair: blonde
@@ -54,8 +56,9 @@ ethnicity: Caucasian
 bio: Hello, I am Scarlett. It’s the name of my favorite character. As you can see I am a huge fan of the "Gone with the wind" poem. I speak English, a little Spanish and now I am learning Portuguese. I love travel, I have visited a lot of countries and all continents, even Antarctic peninsula. I am a broadcaster. I love to speak with people all over the world and know them. I like record myself and make naughty videos and pictures. I visit sex shops almost every week. I prefer buy naughty clothes to regular
 ---
 name: Mila Azul
+url: https://www.metart.com/model/mila-azul
 origin: Ukraine
-Age When Published: 25
+ageWhenPublished: 25
 eyes: green
 hair: brown
 height: 5'7"
@@ -66,8 +69,9 @@ shaved: shaved
 ethnicity: Caucasian
 ---
 name: Vanessa Alessia
-Czech Republic
-Age When Published: 18
+url: https://www.metart.com/model/vanessa-alessia
+origin: Czech Republic
+ageWhenPublished: 18
 eyes: brown
 hair: black
 height: 5'6"
@@ -78,8 +82,9 @@ shaved: shaved
 ethnicity: Caucasian
 ---
 name: Tiva Cox
+url: https://www.metart.com/model/tiva-cox
 origin: Ukraine
-Age When Published: 31
+ageWhenPublished: 31
 eyes: brown
 hair: brown
 height: 5'3"
@@ -90,7 +95,8 @@ shaved: shaved
 ethnicity: Caucasian
 ---
 name: Stella Cardo
-Age When Published: 27
+url: https://www.metart.com/model/stella-cardo
+ageWhenPublished: 27
 eyes: green
 hair: blonde
 height: 5'8"
@@ -101,8 +107,9 @@ shaved: shaved
 ethnicity: Caucasian
 ---
 name: Sheeiziss
+url: https://www.metart.com/model/sheeiziss
 Indonesia
-Age When Published: 28
+ageWhenPublished: 28
 eyes: brown
 hair: brown
 height: 5'4"
@@ -113,8 +120,9 @@ shaved: shaved
 ethnicity: Asian
 ---
 name: Mara Blake
+url: https://www.metart.com/model/mara-blake
 origin: Ukraine
-Age When Published: 27
+ageWhenPublished: 27
 eyes: blue
 hair: brown
 height: 5'6"
@@ -124,9 +132,8 @@ measurements: 34/25/35
 shaved: shaved
 ethnicity: Caucasian
 ---
-@site SexArt
-
 name: Dakota Doll
+url: https://www.sexart.com/model/dakota-doll
 origin: Russian Federation
 debutAge: 19
 eyes: hazel
@@ -139,7 +146,8 @@ shaved: shaved
 ethnicity: Caucasian
 ---
 name: MitziX
-Czech Republic
+url: https://www.sexart.com/model/mitzix
+origin: Czech Republic
 debutAge: 20
 eyes: brown
 hair: black
@@ -151,6 +159,7 @@ shaved: shaved
 ethnicity: Caucasian
 ---
 name: Naty Evans
+url: https://www.sexart.com/model/naty-evans
 origin: Russian Federation
 debutAge: 30
 eyes: green
@@ -163,8 +172,9 @@ shaved: shaved
 ethnicity: Caucasian
 ---
 name: Jessie Ames
+url: https://www.sexart.com/model/jessie-ames
 origin: Russian Federation
-Age When Published: 24
+ageWhenPublished: 24
 eyes: brown
 hair: blonde
 height: 5'5"
@@ -175,15 +185,17 @@ shaved: shaved
 ethnicity: Caucasian
 ---
 name: Yeri Blue
-Spain
-Age When Published: 26
+url: https://www.sexart.com/model/yeri-blue
+origin: Spain
+ageWhenPublished: 26
 gender: male
 ---
 name: @site vt
 
-Eve Lunny
-Latvia
-Age When Published: 21
+name: Eve Lunny
+url: https://www.vivthomas.com/model/eve-lunny
+origin: Latvia
+ageWhenPublished: 21
 eyes: blue
 hair: blonde
 height: 5'5"
@@ -194,8 +206,9 @@ shaved: shaved
 ethnicity: Caucasian
 ---
 name: Cherry Blossom
-Finland
-Age When Published: 21
+url: https://www.vivthomas.com/model/cherry-blossom
+origin: Finland
+ageWhenPublished: 21
 eyes: blue
 hair: blonde
 height: 5'9"
@@ -206,8 +219,9 @@ shaved: shaved
 ethnicity: Caucasian
 ---
 name: Zazie S
-Hungary
-Age When Published: 31
+url: https://www.vivthomas.com/model/zazie-s
+origin: Hungary
+ageWhenPublished: 31
 eyes: blue
 hair: blonde
 height: 5'2"
@@ -218,8 +232,9 @@ shaved: shaved
 ethnicity: Caucasian
 ---
 name: Alice Klay
+url: https://www.vivthomas.com/model/alice-klay
 origin: Russian Federation
-Age When Published: 26
+ageWhenPublished: 26
 eyes: green
 hair: brown
 height: 5'5"
@@ -230,8 +245,9 @@ shaved: shaved
 ethnicity: Caucasian
 ---
 name: Alexis Crystal
-Czech Republic
-Age When Published: 33
+url: https://www.vivthomas.com/model/alexis-crystal
+origin: Czech Republic
+ageWhenPublished: 33
 eyes: brown
 hair: brown
 height: 5'6"
@@ -242,8 +258,9 @@ shaved: shaved
 ethnicity: Caucasian
 ---
 name: Veronica Leal
-Colombia
-Age When Published: 32
+url: https://www.vivthomas.com/model/veronica-leal
+origin: Colombia
+ageWhenPublished: 32
 eyes: brown
 hair: blonde
 height: 5'3"
@@ -253,11 +270,10 @@ measurements: 36/21/33
 shaved: shaved
 ethnicity: Hispanic
 ---
-name: @site MetArt
-
-Hareniks
+name: Hareniks
+url: https://www.metart.com/model/hareniks
 origin: Ukraine
-Age When Published: 20
+ageWhenPublished: 20
 eyes: brown
 hair: brown
 height: 5'7"
@@ -267,8 +283,9 @@ measurements: 31/24/35
 shaved: shaved
 ---
 name: Daria Sento
+url: https://www.metart.com/model/daria-sento
 origin: Russian Federation
-Age When Published: 21
+ageWhenPublished: 21
 eyes: green
 hair: blonde
 height: 5'7"
@@ -279,8 +296,9 @@ shaved: shaved
 ethnicity: Caucasian
 ---
 name: Mia Leva
-Belarus
-Age When Published: 25
+url: https://www.metart.com/model/mia-leva
+origin: Belarus
+ageWhenPublished: 25
 eyes: green
 hair: blonde
 height: 5'4"
@@ -291,8 +309,9 @@ shaved: shaved
 ethnicity: Caucasian
 ---
 name: Polet
+url: https://www.metart.com/model/polet
 origin: Ukraine
-Age When Published: 23
+ageWhenPublished: 23
 eyes: brown
 hair: blonde
 height: 5'3"
@@ -303,8 +322,9 @@ shaved: shaved
 ethnicity: Caucasian
 ---
 name: Monika May
+url: https://www.metart.com/model/monika-may
 origin: Ukraine
-Age When Published: 33
+ageWhenPublished: 33
 Monika May
 eyes: brown
 hair: brown
@@ -316,8 +336,9 @@ shaved: shaved
 ethnicity: Caucasian
 ---
 name: Kei
-United States
-Age When Published: 22
+url: https://www.metart.com/model/kei
+origin: United States
+ageWhenPublished: 22
 eyes: brown
 hair: blonde
 height: 5'4"
@@ -328,8 +349,9 @@ shaved: shaved
 ethnicity: Caucasian
 ---
 name: Sasha Quinn
-Latvia
-Age When Published: 19
+url: https://www.metart.com/model/sasha-quinn
+origin: Latvia
+ageWhenPublished: 19
 eyes: hazel
 hair: brown
 height: 5'5"
@@ -340,8 +362,9 @@ shaved: shaved
 ethnicity: Caucasian
 ---
 name: Ozzy
+url: https://www.metart.com/model/ozzy
 origin: Ukraine
-Age When Published: 20
+ageWhenPublished: 20
 eyes: blue
 hair: brown
 height: 5'7"
@@ -352,8 +375,8 @@ shaved: shaved
 ethnicity: Caucasian
 ---
 name: Emma
-Kazakhstan
-Age When Published: 23
+origin: Kazakhstan
+ageWhenPublished: 23
 eyes: hazel
 hair: brown
 height: 5'4"
@@ -364,8 +387,8 @@ shaved: shaved
 ethnicity: Caucasian
 ---
 name: Milena Ray
-Belarus
-Age When Published: 30
+origin: Belarus
+ageWhenPublished: 30
 eyes: blue
 hair: black
 height: 5'7"
@@ -377,7 +400,7 @@ ethnicity: Caucasian
 ---
 name: Alice
 origin: Ukraine
-Age When Published: 21
+ageWhenPublished: 21
 eyes: blue
 hair: red
 height: 5'8"
@@ -389,7 +412,7 @@ ethnicity: Caucasian
 ---
 name: Belka
 origin: Ukraine
-Age When Published: 28
+ageWhenPublished: 28
 eyes: brown
 hair: brown
 height: 5'6"
@@ -401,7 +424,7 @@ ethnicity: Caucasian
 ---
 name: Purr Simona
 origin: Russian Federation
-Age When Published: 25
+ageWhenPublished: 25
 eyes: brown
 hair: brown
 height: 5'4"
@@ -413,7 +436,7 @@ ethnicity: Caucasian
 ---
 name: Kate Quinn
 origin: Russian Federation
-Age When Published: 25
+ageWhenPublished: 25
 eyes: brown
 hair: brown
 height: 5'0"
@@ -425,7 +448,7 @@ ethnicity: Caucasian
 ---
 name: Liza B
 origin: Ukraine
-Age When Published: 40
+ageWhenPublished: 40
 eyes: green
 hair: blonde
 height: 5'9"
@@ -436,8 +459,8 @@ shaved: trimmed
 ethnicity: Caucasian
 ---
 name: Sky Moon
-Venezuela
-Age When Published: 32
+origin: Venezuela
+ageWhenPublished: 32
 eyes: brown
 hair: brown
 height: 5'7"
@@ -448,9 +471,9 @@ shaved: shaved
 ethnicity: Hispanic
 ---
 name: Ninna
-Czech Republic
+origin: Czech Republic
 site: MetArt
-Age When Published: 19
+ageWhenPublished: 19
 eyes: hazel
 hair: brown
 height: 5'6"
@@ -463,7 +486,7 @@ ethnicity: Caucasian
 name: Julia Morozzi
 origin: Russian Federation
 site: MetArt
-Age When Published: 24
+ageWhenPublished: 24
 eyes: hazel
 hair: brown
 height: 5'7"
@@ -476,7 +499,7 @@ ethnicity: Caucasian
 name: Electra Noir
 origin: Ukraine
 site: MetArt
-Age When Published: 28
+ageWhenPublished: 28
 eyes: brown
 hair: brown
 height: 5'6"
@@ -489,7 +512,7 @@ ethnicity: Caucasian
 name: Bella Spark
 Israel
 site: MetArt
-Age When Published: 25
+ageWhenPublished: 25
 eyes: blue
 hair: blonde
 height: 5'6"
@@ -500,9 +523,9 @@ shaved: shaved
 ethnicity: Caucasian
 ---
 name: Ninna
-Czech Republic
+origin: Czech Republic
 site: MetArt
-Age When Published: 19
+ageWhenPublished: 19
 eyes: hazel
 hair: brown
 height: 5'6"
@@ -515,7 +538,7 @@ ethnicity: Caucasian
 name: Megan Murkovski
 origin: Russian Federation
 site: SexArt
-Age When Published: 22
+ageWhenPublished: 22
 eyes: green
 hair: red
 height: 5'4"
@@ -528,7 +551,7 @@ ethnicity: Caucasian
 name: Layla Scarlett
 Italy
 site: SexArt
-Age When Published: 28
+ageWhenPublished: 28
 eyes: black
 hair: black
 height: 5'5"
@@ -539,9 +562,9 @@ shaved: shaved
 ethnicity: Multicultural
 ---
 name: Eva
-Latvia
+origin: Latvia
 site: MetArt
-Age When Published: 31
+ageWhenPublished: 31
 eyes: brown
 hair: blonde
 height: 5'9"
@@ -553,7 +576,7 @@ shaved: shaved
 name: Charlotte Grey
 Spain
 site: MetArt
-Age When Published: 23
+ageWhenPublished: 23
 eyes: brown
 hair: brown
 height: 5'6"
@@ -566,7 +589,7 @@ ethnicity: Caucasian
 name: Aya
 origin: Ukraine
 site: MetArt
-Age When Published: 23
+ageWhenPublished: 23
 eyes: brown
 hair: blonde
 height: 5'8"
@@ -579,7 +602,7 @@ ethnicity: Caucasian
 name: Sata Jones
 origin: Russian Federation
 site: MetArt
-Age When Published: 35
+ageWhenPublished: 35
 eyes: green
 hair: brown
 height: 5'6"
@@ -592,7 +615,7 @@ ethnicity: Caucasian
 name: Neu Ling
 origin: Russian Federation
 site: SexArt
-Age When Published: 25
+ageWhenPublished: 25
 eyes: blue
 hair: blonde
 height: 5'5"
@@ -603,8 +626,8 @@ shaved: shaved
 ethnicity: Caucasian
 ---
 name: Leyla Grey
-Colombia
-Age When Published: 26
+origin: Colombia
+ageWhenPublished: 26
 url: https://www.metart.com/model/leyla-grey
 eyes: brown
 hair: black
@@ -617,7 +640,7 @@ ethnicity: Multicultural
 ---
 name: Minnie Lighter
 origin: Russian Federation
-Age When Published: 24
+ageWhenPublished: 24
 url: https://www.metart.com/model/minnie-lighter
 eyes: blue
 hair: blonde
@@ -630,7 +653,7 @@ ethnicity: Caucasian
 ---
 name: Sata Jones
 origin: Russian Federation
-Age When Published: 35
+ageWhenPublished: 35
 url: https://www.metart.com/model/sata-jones
 eyes: green
 hair: brown
@@ -643,7 +666,7 @@ ethnicity: Caucasian
 ---
 name: Chloe Moss
 origin: Ukraine
-Age When Published: 20
+ageWhenPublished: 20
 url: https://www.metart.com/model/chloe-moss
 eyes: brown
 hair: brown
@@ -656,7 +679,7 @@ ethnicity: Caucasian
 ---
 name: Asia B
 origin: Ukraine
-Age When Published: 21
+ageWhenPublished: 21
 url: https://www.metart.com/model/asia-b
 eyes: brown
 hair: brown
@@ -669,7 +692,7 @@ ethnicity: Caucasian
 ---
 name: Sirena Milano
 origin: Russian Federation
-Age When Published: 24
+ageWhenPublished: 24
 url: https://www.metart.com/model/sirena-milano
 eyes: brown
 hair: red
@@ -682,7 +705,7 @@ ethnicity: Caucasian
 ---
 name: Bonnie Dolce
 Hungary
-Age When Published: 29
+ageWhenPublished: 29
 url: https://www.sexart.com/model/bonnie-dolce
 eyes: blue
 hair: blonde
@@ -695,7 +718,7 @@ ethnicity: Caucasian
 ---
 name: Yeri Blue
 Spain
-Age When Published: 26
+ageWhenPublished: 26
 url: https://www.sexart.com/model/yeri-blue
 gender: male
 ---
@@ -740,7 +763,7 @@ ethnicity: Caucasian
 ---
 name: Marion Summers
 origin: Russian Federation
-Age When Published: 23
+ageWhenPublished: 23
 url: https://www.metart.com/model/marion-summers
 eyes: hazel
 hair: brown
@@ -753,7 +776,7 @@ ethnicity: Caucasian
 ---
 name: Luna Art
 origin: Russian Federation
-Age When Published: 30
+ageWhenPublished: 30
 url: https://www.metart.com/model/luna-art
 eyes: blue
 hair: blonde
@@ -765,8 +788,8 @@ shaved: shaved
 ethnicity: Caucasian
 ---
 name: Angel Diaz
-Colombia
-Age When Published: 24
+origin: Colombia
+ageWhenPublished: 24
 url: https://www.metart.com/model/angel-diaz
 eyes: brown
 hair: black
@@ -779,7 +802,7 @@ ethnicity: Hispanic
 ---
 name: Maria Bern
 origin: Russian Federation
-Age When Published: 31
+ageWhenPublished: 31
 url: https://www.metart.com/model/maria-bern
 eyes: hazel
 hair: blonde
@@ -792,7 +815,7 @@ ethnicity: Caucasian
 ---
 name: Dzhili
 origin: Ukraine
-Age When Published: 20
+ageWhenPublished: 20
 url: https://www.metart.com/model/dzhili
 eyes: hazel
 hair: black
@@ -805,7 +828,7 @@ ethnicity: Caucasian
 ---
 name: Berenice
 origin: Ukraine
-Age When Published: 30
+ageWhenPublished: 30
 url: https://www.metart.com/model/berenice
 eyes: blue
 hair: brown
@@ -818,7 +841,7 @@ ethnicity: Caucasian
 ---
 name: Gloria Davis
 origin: Russian Federation
-Age When Published: 26
+ageWhenPublished: 26
 url: https://www.metart.com/model/gloria-davis
 eyes: blue
 hair: black
@@ -831,7 +854,7 @@ ethnicity: Caucasian
 ---
 name: Ryana
 origin: Ukraine
-Age When Published: 25
+ageWhenPublished: 25
 url: https://www.metart.com/model/ryana
 eyes: green
 hair: blonde
@@ -844,7 +867,7 @@ ethnicity: Caucasian
 ---
 name: Sherie
 origin: Russian Federation
-Age When Published: 24
+ageWhenPublished: 24
 url: https://www.metart.com/model/sherie
 eyes: brown
 hair: brown
@@ -857,7 +880,7 @@ ethnicity: Caucasian
 ---
 name: Lilly Mai
 origin: Ukraine
-Age When Published: 22
+ageWhenPublished: 22
 url: https://www.metart.com/model/lilly-mai
 eyes: blue
 hair: brown
@@ -870,7 +893,7 @@ ethnicity: Caucasian
 ---
 name: Melena A
 origin: Russian Federation
-Age When Published: 31
+ageWhenPublished: 31
 url: https://www.metart.com/model/melena-a
 eyes: brown
 hair: brown
@@ -883,7 +906,7 @@ ethnicity: Caucasian
 ---
 name: Morrigan
 origin: Ukraine
-Age When Published: 29
+ageWhenPublished: 29
 url: https://www.metart.com/model/morrigan
 eyes: green
 hair: red
@@ -896,7 +919,7 @@ ethnicity: Caucasian
 ---
 name: Kertu
 Lithuania
-Age When Published: 22
+ageWhenPublished: 22
 url: https://www.metart.com/model/kertu
 eyes: brown
 hair: brown
@@ -909,7 +932,7 @@ ethnicity: Caucasian
 ---
 name: Nikki Hill
 origin: Ukraine
-Age When Published: 20
+ageWhenPublished: 20
 url: https://www.metart.com/model/nikki-hill
 eyes: blue
 hair: blonde
@@ -922,7 +945,7 @@ ethnicity: Caucasian
 ---
 name: Gloria Sol
 origin: Ukraine
-Age When Published: 26
+ageWhenPublished: 26
 url: https://www.metart.com/model/gloria-sol
 eyes: green
 hair: brown
@@ -935,7 +958,7 @@ ethnicity: Caucasian
 ---
 name: Francesca Rose
 origin: Ukraine
-Age When Published: 27
+ageWhenPublished: 27
 url: https://www.metart.com/model/francesca-rose
 eyes: green
 hair: blonde
@@ -948,7 +971,7 @@ ethnicity: Caucasian
 ---
 name: Jasmine Hane
 origin: Russian Federation
-Age When Published: 27
+ageWhenPublished: 27
 url: https://www.metart.com/model/jasmine-hane
 eyes: brown
 hair: blonde
@@ -961,7 +984,7 @@ ethnicity: Caucasian
 ---
 name: Eva Jolie
 origin: Ukraine
-Age When Published: 22
+ageWhenPublished: 22
 url: https://www.metart.com/model/eva-jolie
 eyes: brown
 hair: brown
@@ -973,8 +996,8 @@ shaved: shaved
 ethnicity: Caucasian
 ---
 name: Sophie Gem
-Belarus
-Age When Published: 23
+origin: Belarus
+ageWhenPublished: 23
 url: https://www.metart.com/model/sophie-gem
 eyes: blue
 hair: blonde
@@ -986,8 +1009,8 @@ shaved: shaved
 ethnicity: Caucasian
 ---
 name: Nana
-Belarus
-Age When Published: 20
+origin: Belarus
+ageWhenPublished: 20
 url: https://www.metart.com/model/nana
 eyes: blue
 hair: brown
@@ -1000,7 +1023,7 @@ ethnicity: Caucasian
 ---
 name: Monika Jelolt
 origin: Russian Federation
-Age When Published: 19
+ageWhenPublished: 19
 url: https://www.metart.com/model/monika-jelolt
 eyes: blue
 hair: blonde
@@ -1013,7 +1036,7 @@ ethnicity: Caucasian
 ---
 name: Mirabella
 origin: Ukraine
-Age When Published: 28
+ageWhenPublished: 28
 url: https://www.metart.com/model/mirabella
 eyes: brown
 hair: brown
@@ -1025,8 +1048,8 @@ shaved: shaved
 ethnicity: Caucasian
 ---
 name: Mia Sollis
-Czech Republic
-Age When Published: 30
+origin: Czech Republic
+ageWhenPublished: 30
 url: https://www.metart.com/model/mia-sollis
 eyes: blue
 hair: red
@@ -1039,7 +1062,7 @@ ethnicity: Caucasian
 ---
 name: Jessica Blank
 origin: Russian Federation
-Age When Published: 30
+ageWhenPublished: 30
 url: https://www.metart.com/model/jessica-blank
 eyes: brown
 hair: blonde
@@ -1051,8 +1074,8 @@ shaved: shaved
 ethnicity: Caucasian
 ---
 name: Mira D
-Latvia
-Age When Published: 29
+origin: Latvia
+ageWhenPublished: 29
 url: https://www.metart.com/model/mira-d
 eyes: brown
 hair: brown
@@ -1065,7 +1088,7 @@ ethnicity: Caucasian
 ---
 name: Alina Petite
 origin: Russian Federation
-Age When Published: 26
+ageWhenPublished: 26
 url: https://www.metart.com/model/alina-petite
 eyes: blue
 hair: blonde
@@ -1078,7 +1101,7 @@ ethnicity: Caucasian
 ---
 name: Mary Rock
 origin: Russian Federation
-Age When Published: 26
+ageWhenPublished: 26
 url: https://www.metart.com/model/mary-rock
 eyes: blue
 hair: brown
@@ -1091,7 +1114,7 @@ ethnicity: Caucasian
 ---
 name: Valery Leche
 origin: Ukraine
-Age When Published: 24
+ageWhenPublished: 24
 url: https://www.metart.com/model/valery-leche
 eyes: green
 hair: brown
@@ -1104,7 +1127,7 @@ ethnicity: Caucasian
 ---
 name: Bianca Bell
 origin: Ukraine
-Age When Published: 21
+ageWhenPublished: 21
 url: https://www.metart.com/model/bianca-bell
 eyes: blue
 hair: blonde
@@ -1116,8 +1139,8 @@ shaved: shaved
 ethnicity: Caucasian
 ---
 name: Ivy Rose
-United States
-Age When Published: 24
+origin: United States
+ageWhenPublished: 24
 url: https://www.metart.com/model/ivy-rose
 eyes: blue
 hair: brown
@@ -1129,8 +1152,8 @@ shaved: not trimmed
 ethnicity: Middle eastern
 ---
 name: Bernie
-Latvia
-Age When Published: 22
+origin: Latvia
+ageWhenPublished: 22
 url: https://www.metart.com/model/bernie
 eyes: green
 hair: black
@@ -1143,7 +1166,7 @@ ethnicity: Caucasian
 ---
 name: Hayli Sanders
 origin: Ukraine
-Age When Published: 24
+ageWhenPublished: 24
 url: https://www.metart.com/model/hayli-sanders
 eyes: brown
 hair: brown
@@ -1156,7 +1179,7 @@ ethnicity: Caucasian
 ---
 name: Anastasia Bella
 origin: Russian Federation
-Age When Published: 22
+ageWhenPublished: 22
 url: https://www.metart.com/model/anastasia-bella
 eyes: brown
 hair: brown
@@ -1169,7 +1192,7 @@ ethnicity: Caucasian
 ---
 name: Giselle
 origin: Ukraine
-Age When Published: 22
+ageWhenPublished: 22
 url: https://www.metart.com/model/giselle
 eyes: brown
 hair: brown
@@ -1181,8 +1204,8 @@ shaved: shaved
 ethnicity: Caucasian
 ---
 name: Maxine
-Latvia
-Age When Published: 28
+origin: Latvia
+ageWhenPublished: 28
 url: https://www.metart.com/model/maxine
 eyes: green
 hair: blonde
@@ -1195,7 +1218,7 @@ ethnicity: Caucasian
 ---
 name: Aurelia Lu
 origin: Ukraine
-Age When Published: 20
+ageWhenPublished: 20
 url: https://www.metart.com/model/aurelia-lu
 eyes: green
 hair: brown
@@ -1208,7 +1231,7 @@ ethnicity: Caucasian
 ---
 name: Rinna Ly
 origin: Ukraine
-Age When Published: 23
+ageWhenPublished: 23
 url: https://www.metart.com/model/rinna-ly
 eyes: blue
 hair: red
@@ -1221,7 +1244,7 @@ ethnicity: Caucasian
 ---
 name: Simon
 Poland
-Age When Published: 21
+ageWhenPublished: 21
 url: https://www.metart.com/model/simon
 eyes: blue
 hair: black
@@ -1234,7 +1257,7 @@ ethnicity: Caucasian
 ---
 name: Aleksandrina
 origin: Russian Federation
-Age When Published: 30
+ageWhenPublished: 30
 url: https://www.metart.com/model/aleksandrina
 eyes: brown
 hair: brown
@@ -1246,8 +1269,8 @@ shaved: shaved
 ethnicity: Caucasian
 ---
 name: Sarika A
-Latvia
-Age When Published: 31
+origin: Latvia
+ageWhenPublished: 31
 url: https://www.metart.com/model/sarika-a
 eyes: blue
 hair: blonde
@@ -1259,8 +1282,8 @@ shaved: shaved
 ethnicity: Caucasian
 ---
 name: Dakota Simone
-United States
-Age When Published: 25
+origin: United States
+ageWhenPublished: 25
 url: https://www.metart.com/model/dakota-simone
 eyes: brown
 hair: black
@@ -1272,8 +1295,8 @@ shaved: shaved
 ethnicity: Black
 ---
 name: Krystal Kitten
-United States
-Age When Published: 27
+origin: United States
+ageWhenPublished: 27
 url: https://www.metart.com/model/krystal-kitten
 eyes: blue
 hair: red
@@ -1286,7 +1309,7 @@ ethnicity: Caucasian
 ---
 name: Amaya
 Croatia
-Age When Published: 26
+ageWhenPublished: 26
 url: https://www.metart.com/model/amaya
 eyes: blue
 hair: brown
@@ -1299,7 +1322,7 @@ ethnicity: Caucasian
 ---
 name: Emily Swan
 origin: Ukraine
-Age When Published: 25
+ageWhenPublished: 25
 url: https://www.metart.com/model/emily-swan
 eyes: green
 hair: blonde
@@ -1312,7 +1335,7 @@ ethnicity: Caucasian
 ---
 name: Sheeiziss
 Indonesia
-Age When Published: 28
+ageWhenPublished: 28
 url: https://www.metart.com/model/sheeiziss
 eyes: brown
 hair: brown
@@ -1325,7 +1348,7 @@ ethnicity: Asian
 ---
 name: Gracie
 origin: Ukraine
-Age When Published: 26
+ageWhenPublished: 26
 url: https://www.metart.com/model/gracie
 eyes: brown
 hair: brown
@@ -1338,7 +1361,7 @@ ethnicity: Caucasian
 ---
 name: Milkavi
 origin: Ukraine
-Age When Published: 25
+ageWhenPublished: 25
 url: https://www.metart.com/model/milkavi
 eyes: blue
 hair: red
@@ -1350,8 +1373,8 @@ shaved: shaved
 ethnicity: Caucasian
 ---
 name: Elena Wolfe
-United States
-Age When Published: 26
+origin: United States
+ageWhenPublished: 26
 url: https://www.metart.com/model/elena-wolfe
 eyes: green
 hair: brown
@@ -1364,7 +1387,7 @@ ethnicity: Multicultural
 ---
 name: Clarice
 Slovakia
-Age When Published: 24
+ageWhenPublished: 24
 url: https://www.metart.com/model/clarice
 eyes: blue
 hair: brown
@@ -1377,7 +1400,7 @@ ethnicity: Caucasian
 ---
 name: Lillie Pie
 origin: Russian Federation
-Age When Published: 21
+ageWhenPublished: 21
 url: https://www.metart.com/model/lillie-pie
 eyes: brown
 hair: blonde
@@ -1390,7 +1413,7 @@ ethnicity: Caucasian
 ---
 name: Avery
 origin: Ukraine
-Age When Published: 24
+ageWhenPublished: 24
 url: https://www.metart.com/model/avery
 eyes: brown
 hair: brown
@@ -1403,7 +1426,7 @@ ethnicity: Caucasian
 ---
 name: Sonya Blaze
 origin: Russian Federation
-Age When Published: 22
+ageWhenPublished: 22
 url: https://www.metart.com/model/sonya-blaze
 eyes: brown
 hair: brown
@@ -1416,7 +1439,7 @@ ethnicity: Caucasian
 ---
 name: Hilary C
 origin: Ukraine
-Age When Published: 28
+ageWhenPublished: 28
 url: https://www.metart.com/model/hilary-c
 eyes: green
 hair: brown
@@ -1428,8 +1451,8 @@ shaved: shaved
 ethnicity: Caucasian
 ---
 name: Riley Anne
-United States
-Age When Published: 27
+origin: United States
+ageWhenPublished: 27
 url: https://www.metart.com/model/riley-anne
 eyes: blue
 hair: blonde
@@ -1442,7 +1465,7 @@ ethnicity: Caucasian
 ---
 name: Avery
 origin: Ukraine
-Age When Published: 28
+ageWhenPublished: 28
 url: https://www.metart.com/model/avery
 eyes: brown
 hair: brown
@@ -1455,7 +1478,7 @@ ethnicity: Caucasian
 ---
 name: Viksi
 origin: Ukraine
-Age When Published: 28
+ageWhenPublished: 28
 url: https://www.metart.com/model/viksi
 eyes: blue
 hair: blonde
@@ -1467,8 +1490,8 @@ shaved: shaved
 ethnicity: Caucasian
 ---
 name: Dominique
-Latvia
-Age When Published: 20
+origin: Latvia
+ageWhenPublished: 20
 url: https://www.metart.com/model/dominique
 eyes: blue
 hair: brown
@@ -1480,8 +1503,8 @@ shaved: shaved
 ethnicity: Caucasian
 ---
 name: Savanna Rose
-United States
-Age When Published: 31
+origin: United States
+ageWhenPublished: 31
 url: https://www.metart.com/model/savanna-rose
 eyes: blue
 hair: blonde
@@ -1493,7 +1516,7 @@ shaved: shaved
 ethnicity: Caucasian
 ---
 name: Elly Clutch
-United States
+origin: United States
 url: https://www.metart.com/model/elly-clutch
 eyes: blue
 hair: red
@@ -1506,7 +1529,7 @@ ethnicity: Caucasian
 ---
 name: Ryana
 origin: Ukraine
-Age When Published: 30
+ageWhenPublished: 30
 url: https://www.sexart.com/model/ryana
 eyes: green
 hair: blonde
@@ -1519,7 +1542,7 @@ ethnicity: Caucasian
 ---
 name: Nastya
 origin: Ukraine
-Age When Published: 28
+ageWhenPublished: 28
 url: https://www.vivthomas.com/model/nastya
 eyes: blue
 hair: blonde
@@ -1532,7 +1555,7 @@ ethnicity: Caucasian
 ---
 name: Valeria Mint
 origin: Ukraine
-Age When Published: 23
+ageWhenPublished: 23
 url: https://www.vivthomas.com/model/valeria-mint
 eyes: blue
 hair: blonde
@@ -1544,7 +1567,7 @@ shaved: shaved
 ethnicity: Caucasian
 ---
 name: Rebecca Volpetti
-Romania
+origin: Romania
 debutAge: 19
 url: https://www.metartnetwork.com/model/rebecca-volpetti
 eyes: brown
@@ -1557,8 +1580,8 @@ shaved: shaved
 ethnicity: Caucasian
 ---
 name: Bella Donna
-United States
-Age When Published: 32
+origin: United States
+ageWhenPublished: 32
 url: https://www.metart.com/model/bella-donna
 eyes: green
 hair: brown
@@ -1571,7 +1594,7 @@ ethnicity: Hispanic
 ---
 name: Alina
 origin: Ukraine
-Age When Published: 24
+ageWhenPublished: 24
 url: https://www.metart.com/model/alina
 eyes: brown
 hair: brown
@@ -1584,7 +1607,7 @@ ethnicity: Caucasian
 ---
 name: Mila Amour
 origin: Ukraine
-Age When Published: 23
+ageWhenPublished: 23
 url: https://www.metart.com/model/mila-amour
 eyes: blue
 hair: blonde
@@ -1597,7 +1620,7 @@ ethnicity: Caucasian
 ---
 name: Stasia
 origin: Russian Federation
-Age When Published: 24
+ageWhenPublished: 24
 url: https://www.metart.com/model/stasia
 eyes: blue
 hair: brown
@@ -1620,7 +1643,7 @@ breasts: medium
 measurements: 35/23/35
 shaved: shaved
 ethnicity: Caucasian
-Bio: I am an eternal student. I love to study, soon I will get a second higher linguistic education. I like the atmosphere of university and feeling like a student. I also work a lot and so far I am trying many different fields. I like communicating with new people the most. I am a romantic person. I can often think about something and pass my stop, I love different music, especially retro, I dream of traveling, I love nature and mountains. People consider me an interesting conversationalist, this is probably true, my hobby is getting to know and listening to people, I am always interested in them and I can give good advice if they ask for it.
+bio: I am an eternal student. I love to study, soon I will get a second higher linguistic education. I like the atmosphere of university and feeling like a student. I also work a lot and so far I am trying many different fields. I like communicating with new people the most. I am a romantic person. I can often think about something and pass my stop, I love different music, especially retro, I dream of traveling, I love nature and mountains. People consider me an interesting conversationalist, this is probably true, my hobby is getting to know and listening to people, I am always interested in them and I can give good advice if they ask for it.
 ---
 name: Lilly Narak
 origin: Thailand
@@ -1634,7 +1657,7 @@ breasts: small
 measurements: 30/22/32
 shaved: shaved
 ethnicity: Asian
-Bio: I consider myself a "normal" girl, but I have found that I really enjoy showing myself to strangers, so maybe I am not as normal as you imagine. I love my body and I like it when others appreciate it too, so I am not shy at all to show it in front of the camera. This is unusual for an Asian girl, as we are all very shy and conservative. So maybe I am just a black sheep! This opportunity to appear on Metart, is a great challenge for me because for the first time I know that I am seen by a large and global audience. I must admit that the day before the shoot I did not sleep because of the excitement. I hope you like me and that there will be many more opportunities to perform for you.
+bio: I consider myself a "normal" girl, but I have found that I really enjoy showing myself to strangers, so maybe I am not as normal as you imagine. I love my body and I like it when others appreciate it too, so I am not shy at all to show it in front of the camera. This is unusual for an Asian girl, as we are all very shy and conservative. So maybe I am just a black sheep! This opportunity to appear on Metart, is a great challenge for me because for the first time I know that I am seen by a large and global audience. I must admit that the day before the shoot I did not sleep because of the excitement. I hope you like me and that there will be many more opportunities to perform for you.
 ---
 name: Kristi Burn
 origin: Russian Federation
@@ -1648,7 +1671,7 @@ breasts: medium
 measurements: 32/26/34
 shaved: trimmed
 ethnicity: Caucasian
-Bio: My name is Kristi. I grew up and lived on a farm for a long time. We had goats, cows, and other animals. I enjoyed taking care of them. I also love nature and long walks. I like kissing in the rain, swimming naked in the lake, and weekend getaways. I love romance and guitar songs. I can be a chef and cook for a large group; I enjoy being surrounded by interesting people.
+bio: My name is Kristi. I grew up and lived on a farm for a long time. We had goats, cows, and other animals. I enjoyed taking care of them. I also love nature and long walks. I like kissing in the rain, swimming naked in the lake, and weekend getaways. I love romance and guitar songs. I can be a chef and cook for a large group; I enjoy being surrounded by interesting people.
 ---
 name: Hilary C
 origin: Ukraine
@@ -1662,7 +1685,7 @@ breasts: medium
 measurements: 34/26/35
 shaved: shaved
 ethnicity: Caucasian
-Bio: I am a very joyous girl. I love to laugh and entertain friends. I think I have a very unique sense of humor.
+bio: I am a very joyous girl. I love to laugh and entertain friends. I think I have a very unique sense of humor.
 ---
 name: Anna Bella
 Bulgaria
@@ -1684,7 +1707,7 @@ gender: m
 url: https://www.sexart.com/model/tommy-cabrio
 ---
 name: Adeline
-Belarus
+origin: Belarus
 debutAge: 20
 url: https://www.metart.com/model/adeline
 eyes: brown
@@ -1711,7 +1734,7 @@ shaved: shaved
 ethnicity: Caucasian
 ---
 name: Agatha Vega
-Venezuela
+origin: Venezuela
 debutAge: 22
 url: https://www.metart.com/model/agatha-vega
 hair: red
@@ -1723,7 +1746,7 @@ shaved: shaved
 ethnicity: Hispanic
 ---
 name: Agatha
-Latvia
+origin: Latvia
 debutAge: 18
 url: https://www.metart.com/model/agatha
 eyes: brown
@@ -1737,8 +1760,8 @@ ethnicity: Caucasian
 bio: I am a new model. I was nervous at first but I look forward to new shoots soon. I hope you like my work!
 ---
 name: Carolina Guerrero
-Colombia
-Age When Published: 21
+origin: Colombia
+ageWhenPublished: 21
 url: https://www.sexart.com/model/carolina-guerrero
 eyes: brown
 hair: black
@@ -1751,7 +1774,7 @@ ethnicity: Hispanic
 ---
 name: Angelika Grays
 origin: Russian Federation
-Age When Published: 33
+ageWhenPublished: 33
 url: https://www.vivthomas.com/model/angelika-grays
 eyes: blue
 hair: blonde
@@ -1764,7 +1787,7 @@ ethnicity: Caucasian
 ---
 name: Julia Morozzi
 origin: Russian Federation
-Age When Published: 24
+ageWhenPublished: 24
 url: https://www.vivthomas.com/model/julia-morozzi
 eyes: hazel
 hair: brown
@@ -1790,12 +1813,12 @@ breasts: small
 measurements: 33/24/34
 shaved: shaved
 ethnicity: Caucasian
-Bio: As soon as I turned 18, I immediately went into nude photography, I dreamed about it for the last years. I think that I will become a professional nude model, I will shoot for all nude resources, I want to become very famous.
+bio: As soon as I turned 18, I immediately went into nude photography, I dreamed about it for the last years. I think that I will become a professional nude model, I will shoot for all nude resources, I want to become very famous.
 ---
 name: Aislin
 site: MetArt
 url: https://www.metart.com/model/aislin
-Latvia
+origin: Latvia
 debutAge: 18
 type: Cast
 gender: female
@@ -1829,7 +1852,7 @@ site: MetArt
 url: https://www.metart.com/model/alaya
 type: Cast
 gender: female
-Latvia
+origin: Latvia
 debutAge: 21
 eyes: blue
 hair: red
@@ -1862,7 +1885,7 @@ site: MetArt
 url: https://www.metart.com/model/alexia-tae
 type: Cast
 gender: female
-United States
+origin: United States
 debutAge: 24
 eyes: brown
 hair: brown
@@ -1947,7 +1970,7 @@ site: MetArt
 url: https://www.metart.com/model/alice-reign
 type: Cast
 gender: female
-Belarus
+origin: Belarus
 debutAge: 18
 eyes: green
 hair: blonde
@@ -1963,7 +1986,7 @@ name: Alice Wonder
 site: MetArt
 url: https://www.metart.com/model/alice-wonder
 type: Cast
-Czech Republic
+origin: Czech Republic
 debutAge: 22
 gender: female
 eyes: brown
@@ -1988,7 +2011,7 @@ site: MetArt
 url: https://www.metart.com/model/alika-penagos
 type: Cast
 gender: female
-Colombia
+origin: Colombia
 debutAge: 21
 eyes: brown
 hair: brown
@@ -2056,7 +2079,7 @@ site: MetArt
 url: https://www.metart.com/model/alisya
 type: Cast
 gender: female
-Belarus
+origin: Belarus
 debutAge: 19
 eyes: hazel
 hair: blonde
@@ -2293,7 +2316,7 @@ site: MetArt
 url: https://www.metart.com/model/anie-darling
 type: Cast
 gender: female
-Czech Republic
+origin: Czech Republic
 debutAge: 18
 eyes: hazel
 hair: black
@@ -2310,7 +2333,7 @@ site: MetArt
 url: https://www.metart.com/model/ann-joy
 type: Cast
 gender: female
-Finland
+origin: Finland
 debutAge: 26
 eyes: blue
 hair: blonde
@@ -2394,7 +2417,7 @@ site: MetArt
 url: https://www.metart.com/model/anthea
 type: Cast
 gender: female
-Belarus
+origin: Belarus
 debutAge: 21
 eyes: brown
 hair: black
@@ -2577,7 +2600,7 @@ bio: My main hobby is reading books and writing poetry, my works have already be
 ---
 name: Dita V
 origin: Ukraine
-Age When Published: 32
+ageWhenPublished: 32
 url: https://www.metart.com/model/dita-v
 eyes: brown
 hair: brown
@@ -2590,7 +2613,7 @@ ethnicity: Caucasian
 ---
 name: Dakota Pink
 origin: Russian Federation
-Age When Published: 26
+ageWhenPublished: 26
 url: https://www.metart.com/model/dakota-pink
 eyes: green
 hair: brown
@@ -2602,7 +2625,7 @@ shaved: shaved
 ethnicity: Caucasian
 ---
 name: Anastasis Bar
-Latvia
+origin: Latvia
 debutAge: 25
 url: https://www.metart.com/model/anastasis-bar
 eyes: brown
@@ -2630,7 +2653,7 @@ ethnicity: Caucasian
 bio: Hi, my name is Naty Evans! I am currently modeling and working as a photographer. I dream about opening my own photo studio. Despite the fact that I was born in Siberia on my mother's side, I am Polish, and on my father's side Belorussian. I understand English, but sometimes I use a translator for communication. My hobbies are drawing, singing and dancing. I'm working on my modeling career and developing relationships with talented photo-video artists.
 ---
 name: Liby Nicole
-Belarus
+origin: Belarus
 debutAge: 18
 url: https://www.metart.com/model/liby-nicole
 eyes: green
@@ -2645,7 +2668,7 @@ bio: Hi, my name is Liby. I am an 18 yo student and coffee lover. I laugh too lo
 ---
 name: Bonnie Dolce
 Hungary
-Age When Published: 29
+ageWhenPublished: 29
 url: https://www.metart.com/model/bonnie-dolce
 eyes: blue
 hair: blonde
@@ -2657,8 +2680,8 @@ shaved: shaved
 ethnicity: Caucasian
 ---
 name: Alice May
-Belarus
-Age When Published: 31
+origin: Belarus
+ageWhenPublished: 31
 url: https://www.metart.com/model/alice-may
 eyes: green
 hair: blonde
@@ -2670,8 +2693,8 @@ shaved: shaved
 ethnicity: Caucasian
 ---
 name: Stacy Cruz
-Czech Republic
-Age When Published: 26
+origin: Czech Republic
+ageWhenPublished: 26
 url: https://www.metart.com/model/stacy-cruz
 eyes: blue
 hair: brown
@@ -2684,7 +2707,7 @@ ethnicity: Caucasian
 ---
 name: Roberta Sin
 origin: Ukraine
-Age When Published: 26
+ageWhenPublished: 26
 url: https://www.metart.com/model/roberta-sin
 eyes: blue
 hair: brown
@@ -2697,7 +2720,7 @@ ethnicity: Caucasian
 ---
 name: Valeria Mint
 origin: Ukraine
-Age When Published: 23
+ageWhenPublished: 23
 url: https://www.metart.com/model/valeria-mint
 eyes: blue
 hair: blonde
@@ -2710,7 +2733,7 @@ ethnicity: Caucasian
 ---
 name: Liana Luck
 origin: Ukraine
-Age When Published: 27
+ageWhenPublished: 27
 url: https://www.metart.com/model/liana-luck
 eyes: blue
 hair: brown
@@ -2723,7 +2746,7 @@ ethnicity: Caucasian
 ---
 name: Val Eriia
 origin: Ukraine
-Age When Published: 26
+ageWhenPublished: 26
 url: https://www.metart.com/model/val-eriia
 eyes: brown
 hair: brown
@@ -2736,7 +2759,7 @@ ethnicity: Caucasian
 ---
 name: Lia Pink
 origin: Ukraine
-Age When Published: 23
+ageWhenPublished: 23
 url: https://www.metart.com/model/lia-pink
 eyes: green
 hair: blonde
@@ -2749,7 +2772,7 @@ ethnicity: Caucasian
 ---
 name: Georgia
 origin: Russian Federation
-Age When Published: 30
+ageWhenPublished: 30
 url: https://www.metart.com/model/georgia
 eyes: blue
 hair: brown
@@ -2761,8 +2784,8 @@ shaved: shaved
 ethnicity: Caucasian
 ---
 name: Isabella De Laa
-Czech Republic
-Age When Published: 24
+origin: Czech Republic
+ageWhenPublished: 24
 url: https://www.metart.com/model/isabella-de-laa
 eyes: green
 hair: brown
@@ -2775,7 +2798,7 @@ ethnicity: Caucasian
 ---
 name: Nerina
 origin: Ukraine
-Age When Published: 24
+ageWhenPublished: 24
 url: https://www.metart.com/model/nerina
 eyes: blue
 hair: brown
@@ -2788,7 +2811,7 @@ ethnicity: Caucasian
 ---
 name: Sarah Heizel
 origin: Ukraine
-Age When Published: 22
+ageWhenPublished: 22
 url: https://www.sexart.com/model/sarah-heizel
 eyes: brown
 hair: black
@@ -2801,7 +2824,7 @@ ethnicity: Caucasian
 ---
 name: Alina
 origin: Ukraine
-Age When Published: 24
+ageWhenPublished: 24
 url: https://www.sexart.com/model/alina
 hair: brown
 height: 5'6"
@@ -2809,12 +2832,12 @@ weight: 110
 measurements: 34/24/35
 ---
 name: Matthew Meier
-Age When Published: 27
+ageWhenPublished: 27
 url: https://www.sexart.com/model/matthew-meier
 ---
 name: Liz Ocean
 Hungary
-Age When Published: 21
+ageWhenPublished: 21
 url: https://www.sexart.com/model/liz-ocean
 eyes: brown
 hair: brown
@@ -2827,7 +2850,7 @@ ethnicity: Caucasian
 ---
 name: Veta Frankof
 origin: Ukraine
-Age When Published: 19
+ageWhenPublished: 19
 
 url: https://www.vivthomas.com/model/veta-frankof
 eyes: brown
@@ -2840,8 +2863,8 @@ shaved: shaved
 ethnicity: Caucasian
 ---
 name: Matty Mila Perez
-Latvia
-Age When Published: 24
+origin: Latvia
+ageWhenPublished: 24
 url: https://www.vivthomas.com/model/matty-mila-perez
 eyes: brown
 hair: brown
@@ -2853,8 +2876,8 @@ shaved: shaved
 ethnicity: Caucasian
 ---
 name: Alexis Crystal
-Czech Republic
-Age When Published: 33
+origin: Czech Republic
+ageWhenPublished: 33
 url: https://www.vivthomas.com/model/alexis-crystal
 eyes: brown
 hair: brown
@@ -2870,7 +2893,7 @@ site: MetArt
 url: https://www.metart.com/model/baby-nicols
 type: Cast
 gender: female
-Venezuela
+origin: Venezuela
 debutAge: 25
 eyes: brown
 hair: brown
@@ -2887,7 +2910,7 @@ site: MetArt
 url: https://www.metart.com/model/baiba
 type: Cast
 gender: female
-Latvia
+origin: Latvia
 debutAge: 19
 eyes: brown
 hair: black
@@ -2937,7 +2960,7 @@ site: MetArt
 url: https://www.metart.com/model/bella-donna
 type: Cast
 gender: female
-United States
+origin: United States
 debutAge: 28
 eyes: green
 hair: brown
@@ -2971,7 +2994,7 @@ site: MetArt
 url: https://www.metart.com/model/bernie
 type: Cast
 gender: female
-Latvia
+origin: Latvia
 debutAge: 18
 eyes: green
 hair: black
@@ -2987,7 +3010,7 @@ site: MetArt
 url: https://www.metart.com/model/beti
 type: Cast
 gender: female
-Belarus
+origin: Belarus
 debutAge: 18
 eyes: blue
 hair: blonde
@@ -3054,7 +3077,7 @@ site: MetArt
 url: https://www.metart.com/model/boni-brown
 type: Cast
 gender: female
-Colombia
+origin: Colombia
 debutAge: 23
 eyes: brown
 hair: black
@@ -3088,7 +3111,7 @@ site: MetArt
 url: https://www.metart.com/model/calypso
 type: Cast
 gender: female
-Colombia
+origin: Colombia
 debutAge: 27
 eyes: brown
 hair: brown
@@ -3173,7 +3196,7 @@ site: MetArt
 url: https://www.metart.com/model/casey
 type: Cast
 gender: female
-Latvia
+origin: Latvia
 debutAge: 20
 eyes: brown
 hair: blonde
@@ -3291,7 +3314,7 @@ site: MetArt
 url: https://www.metart.com/model/connie-carter
 type: Cast
 gender: female
-Czech Republic
+origin: Czech Republic
 debutAge: 19
 eyes: brown
 hair: black
@@ -3308,7 +3331,7 @@ site: MetArt
 url: https://www.metart.com/model/cora
 type: Cast
 gender: female
-Latvia
+origin: Latvia
 debutAge: 24
 eyes: brown
 hair: brown
@@ -3322,7 +3345,7 @@ bio: I like to practice tantra and do pilates. I also love to play the piano.
 ---
 name: Florencia
 origin: Russian Federation
-Age When Published: 22
+ageWhenPublished: 22
 url: https://www.metart.com/model/florencia
 eyes: blue
 hair: brown
@@ -3335,7 +3358,7 @@ ethnicity: Caucasian
 ---
 name: Rose Sarinz
 origin: Thailand
-Age When Published: 28
+ageWhenPublished: 28
 url: https://www.metart.com/model/rose-sarinz
 eyes: brown
 hair: brown
@@ -3347,8 +3370,8 @@ shaved: shaved
 ethnicity: Asian
 ---
 name: Britney Dutch
-Netherlands
-Age When Published: 22
+origin: Netherlands
+ageWhenPublished: 22
 url: https://www.metart.com/model/britney-dutch
 eyes: blue
 hair: black
@@ -3361,7 +3384,7 @@ ethnicity: Caucasian
 ---
 name: Danna Bliss
 origin: Ukraine
-Age When Published: 19
+ageWhenPublished: 19
 url: https://www.metart.com/model/danna-bliss
 eyes: hazel
 hair: brown
@@ -3374,7 +3397,7 @@ ethnicity: Caucasian
 ---
 name: Foxy Sofilie
 origin: Russian Federation
-Age When Published: 26
+ageWhenPublished: 26
 url: https://www.sexart.com/model/foxy-sofilie
 eyes: blue
 hair: red
@@ -3387,7 +3410,7 @@ ethnicity: Caucasian
 ---
 name: Jo
 Hungary
-Age When Published: 44
+ageWhenPublished: 44
 url: https://www.vivthomas.com/model/jo
 eyes: brown
 hair: blonde
@@ -3400,7 +3423,7 @@ ethnicity: Caucasian
 ---
 name: Bonnie Dolce
 Hungary
-Age When Published: 29
+ageWhenPublished: 29
 url: https://www.vivthomas.com/model/bonnie-dolce
 eyes: blue
 hair: blonde
@@ -3522,7 +3545,7 @@ site: MetArt
 url: https://www.metart.com/model/dakota-simone
 type: Cast
 gender: female
-United States
+origin: United States
 debutAge: 25
 eyes: brown
 hair: black
@@ -3538,7 +3561,7 @@ site: MetArt
 url: https://www.metart.com/model/dana-delight
 type: Cast
 gender: female
-Belarus
+origin: Belarus
 debutAge: 21
 eyes: brown
 hair: blonde
@@ -3605,7 +3628,7 @@ site: MetArt
 url: https://www.metart.com/model/decima
 type: Cast
 gender: female
-Belarus
+origin: Belarus
 debutAge: 19
 eyes: blue
 hair: blonde
@@ -3622,7 +3645,7 @@ site: MetArt
 url: https://www.metart.com/model/deepika
 type: Cast
 gender: female
-Norway
+origin: Norway
 debutAge: 18
 eyes: blue
 hair: brown
@@ -3639,7 +3662,7 @@ site: MetArt
 url: https://www.metart.com/model/diamond
 type: Cast
 gender: female
-Latvia
+origin: Latvia
 debutAge: 23
 eyes: blue
 hair: black
@@ -3733,7 +3756,7 @@ breasts: medium
 measurements: 33/26/32
 shaved: shaved
 ethnicity: Caucasian
-Bio: My hobby and main interest in life is speed and biking, sometimes it's a little dangerous and traumatic, but I try to take less risks. I love comfortable sports clothes, while I have a beautiful body and I know that it looks sexy when a girl on a bike flies by you. Or maybe someday we will meet at a gas station and have a cup of coffee while talking. Yes, I am a dreamer and I often like to dream. I always have questions for my interlocutor and I am interested in getting to know people.
+bio: My hobby and main interest in life is speed and biking, sometimes it's a little dangerous and traumatic, but I try to take less risks. I love comfortable sports clothes, while I have a beautiful body and I know that it looks sexy when a girl on a bike flies by you. Or maybe someday we will meet at a gas station and have a cup of coffee while talking. Yes, I am a dreamer and I often like to dream. I always have questions for my interlocutor and I am interested in getting to know people.
 ---
 name: Bianca Bell
 origin: Ukraine
@@ -3748,7 +3771,7 @@ breasts: large
 measurements: 35/26/38
 shaved: shaved
 ethnicity: Caucasian
-Bio: There are many interesting and exciting things to do when you are spending your free time. Each person has his interests and hobbies such as reading books, watching TV, going in for sports. As for me, I have many hobbies: they are cooking, dancing, singing, and English language. I am also fond of reading books. My favorite books are adventures and horror, love stories. When I am reading book I live the character`s life, suffer, and enjoy with them. My favorite hobby is studying English. I think it is necessary to have a hobby.
+bio: There are many interesting and exciting things to do when you are spending your free time. Each person has his interests and hobbies such as reading books, watching TV, going in for sports. As for me, I have many hobbies: they are cooking, dancing, singing, and English language. I am also fond of reading books. My favorite books are adventures and horror, love stories. When I am reading book I live the character`s life, suffer, and enjoy with them. My favorite hobby is studying English. I think it is necessary to have a hobby.
 ---
 name: Helena Valle
 Italy
@@ -3762,10 +3785,10 @@ breasts: small
 measurements: 30/24/35
 shaved: shaved
 ethnicity: Caucasian
-Bio: Hi! I got into this world out of pure curiosity. I've always been fascinated by it, and I wanted to try something that felt truly professional and empowering. It was a bold step—but I'm a naturally curious and courageous person, so it felt right. I'd describe myself as a mix of shy and full of energy. I try to see the positive side ineverything, and I bring that vibe with me wherever I go. I'm also very expressive—I love dancing, painting, singing, and walking in nature. Creating beauty and sharing emotions is what fuels me. I'm a huge animal lover—they bring me peace and good energy. But my heart right now belongs to my big sweet dog, Loki. � I keep active with gym workouts, Pilates, and especially pole dance, which I absolutely love. It makes me feel strong, sexy, and free. I’m more into quiet nights with real friends than wild parties. But don’t get me wrong —I adore seduction. Sometimes just a glance or a small gesture can speak louder than words. I love creating emotions in people… it’s like a language of its own. If I could live anywhere, it would definitely be somewhere warm and sunny, like a Spanish island. I feel alive near the sea—the sun, the breeze, the calm… it regenerates me. Music? I don’t have one specific style. I go with the flow—some days it's something vintage, other days something modern. It really depends on how I feel. When it comes to style, I believe every occasion deserves its own vibe. Sometimes I go sporty, other times sexy and elegant—but always with attention to detail and a touch of sensuality.
+bio: Hi! I got into this world out of pure curiosity. I've always been fascinated by it, and I wanted to try something that felt truly professional and empowering. It was a bold step—but I'm a naturally curious and courageous person, so it felt right. I'd describe myself as a mix of shy and full of energy. I try to see the positive side ineverything, and I bring that vibe with me wherever I go. I'm also very expressive—I love dancing, painting, singing, and walking in nature. Creating beauty and sharing emotions is what fuels me. I'm a huge animal lover—they bring me peace and good energy. But my heart right now belongs to my big sweet dog, Loki. � I keep active with gym workouts, Pilates, and especially pole dance, which I absolutely love. It makes me feel strong, sexy, and free. I’m more into quiet nights with real friends than wild parties. But don’t get me wrong —I adore seduction. Sometimes just a glance or a small gesture can speak louder than words. I love creating emotions in people… it’s like a language of its own. If I could live anywhere, it would definitely be somewhere warm and sunny, like a Spanish island. I feel alive near the sea—the sun, the breeze, the calm… it regenerates me. Music? I don’t have one specific style. I go with the flow—some days it's something vintage, other days something modern. It really depends on how I feel. When it comes to style, I believe every occasion deserves its own vibe. Sometimes I go sporty, other times sexy and elegant—but always with attention to detail and a touch of sensuality.
 ---
 name: Lilly Mays
-Latvia
+origin: Latvia
 debutAge: 20
 url: https://www.metart.com/model/lilly-mays
 eyes: blue
@@ -3778,7 +3801,7 @@ shaved: shaved
 ethnicity: Caucasian
 ---
 name: Stacy Cruz
-Czech Republic
+origin: Czech Republic
 debutAge: 19
 url: https://www.sexart.com/model/stacy-cruz
 eyes: blue
@@ -3805,7 +3828,7 @@ ethnicity: Caucasian
 ---
 name: Dolly Diore
 Hungary
-Age When Published: 32
+ageWhenPublished: 32
 url: https://www.vivthomas.com/model/dolly-diore
 eyes: brown
 hair: black
@@ -3838,7 +3861,7 @@ site: MetArt
 url: https://www.metart.com/model/elen-moore
 type: Cast
 gender: female
-Czech Republic
+origin: Czech Republic
 debutAge: 24
 eyes: blue
 hair: red
@@ -3872,7 +3895,7 @@ site: MetArt
 url: https://www.metart.com/model/elena-wolfe
 type: Cast
 gender: female
-United States
+origin: United States
 debutAge: 26
 eyes: green
 hair: brown
@@ -3939,7 +3962,7 @@ site: MetArt
 url: https://www.metart.com/model/eliza-ibarra
 type: Cast
 gender: female
-United States
+origin: United States
 debutAge: 25
 eyes: brown
 hair: brown
@@ -3956,7 +3979,7 @@ site: MetArt
 url: https://www.metart.com/model/ella-mira
 type: Cast
 gender: female
-Belarus
+origin: Belarus
 debutAge: 26
 eyes: brown
 hair: brown
@@ -4105,7 +4128,7 @@ site: MetArt
 url: https://www.metart.com/model/emily-blake
 type: Cast
 gender: female
-Latvia
+origin: Latvia
 debutAge: 23
 eyes: blue
 hair: blonde
@@ -4272,7 +4295,7 @@ site: MetArt
 url: https://www.metart.com/model/erna
 type: Cast
 gender: female
-Norway
+origin: Norway
 debutAge: 18
 eyes: blue
 hair: black
@@ -4339,7 +4362,7 @@ site: MetArt
 url: https://www.metart.com/model/eve-sweet
 type: Cast
 gender: female
-Romania
+origin: Romania
 debutAge: 26
 eyes: brown
 hair: brown
@@ -4373,7 +4396,7 @@ site: MetArt
 url: https://www.metart.com/model/fatima
 type: Cast
 gender: female
-United States
+origin: United States
 debutAge: 31
 eyes: brown
 hair: brown
@@ -4562,7 +4585,7 @@ ethnicity: Caucasian
 bio: Hello! Im Luise. I am a student from Estonia. I love everything related to nature. Early walks in the chill mornings, watching the sunrise while listening to birds waking up. It just makes me so happy. Modeling started out as a fun hobby, now I feel like this was my calling. I love posing and trying out new things. It makes me feel very good about myself and my body. And who knows, maybe someday I could become a really good actress?
 ---
 name: Vixi Rafi
-Czech Republic
+origin: Czech Republic
 debutAge: 18
 url: https://www.metart.com/model/vixi-rafi
 eyes: green
@@ -4616,7 +4639,7 @@ shaved: shaved
 ethnicity: Caucasian
 ---
 name: Casey A
-Latvia
+origin: Latvia
 debutAge: 22
 url: https://www.vivthomas.com/model/casey-a
 eyes: blue
@@ -4629,7 +4652,7 @@ shaved: trimmed
 ethnicity: Caucasian
 ---
 name: Lisbet
-Latvia
+origin: Latvia
 debutAge: 21
 url: https://www.vivthomas.com/model/lisbet
 eyes: blue
@@ -4781,7 +4804,7 @@ site: MetArt
 url: https://www.metart.com/model/guinevere-huney
 type: Cast
 gender: female
-France
+origin: France
 debutAge: 23
 eyes: green
 hair: brown
@@ -5006,7 +5029,7 @@ shaved: shaved
 ethnicity: Caucasian
 ---
 name: Rachele Bellucci
-France
+origin: France
 debutAge: 35
 url: https://www.metart.com/model/rachele-bellucci
 eyes: green
@@ -5153,7 +5176,7 @@ ethnicity: Caucasian
 bio: I'm a free soul from Ukraine with a passion for living life loud and unapologetically. I’ve always been drawn to the spotlight—modeling lets me express my wild side, celebrate my body, and turn every shoot into a little adventure. I’m a rock girl through and through. I love the sound, the style, the chaos, and the freedom it brings. You’re more likely to find me in ripped jeans and a leather jacket than in anything fancy— but when I do dress up, I make it unforgettable. I’m playful, curious, and not afraid to explore my desires. I love being outdoors, especially near the sea or deep in the forest, where I can feel the wind, hear the waves, and let my imagination take over. I travel light, but there’s always room in my suitcase for a few toys and something lacy. For me, life is about energy, connection, and moments that make your heart race. Whether it’s a quiet night listening to my favorite bands or a wild adventure somewhere new, I’m always chasing that next spark.
 ---
 name: Marceline Haven
-Kazakhstan
+origin: Kazakhstan
 debutAge: 20
 site: MetArt
 type: Cast
@@ -5205,7 +5228,7 @@ bio: Heeeey, I am Marie! I'm model and book lover. I have a master's degree in t
 ---
 name: Alecia Fox
 origin: Russian Federation
-Age When Published: 28
+ageWhenPublished: 28
 url: https://www.sexart.com/model/alecia-fox
 eyes: hazel
 hair: blonde
@@ -5254,7 +5277,7 @@ site: MetArt
 url: https://www.metart.com/model/isabella-de-laa
 type: Cast
 gender: female
-Czech Republic
+origin: Czech Republic
 debutAge: 19
 eyes: green
 hair: brown
@@ -5270,7 +5293,7 @@ site: MetArt
 url: https://www.metart.com/model/isabela
 type: Cast
 gender: female
-Latvia
+origin: Latvia
 debutAge: 20
 eyes: blue
 hair: blonde
@@ -5321,7 +5344,7 @@ site: MetArt
 url: https://www.metart.com/model/ivi-rein
 type: Cast
 gender: female
-Latvia
+origin: Latvia
 debutAge: 26
 eyes: blue
 hair: blonde
@@ -5338,7 +5361,7 @@ site: MetArt
 url: https://www.metart.com/model/ivory
 type: Cast
 gender: female
-Belarus
+origin: Belarus
 debutAge: 25
 eyes: hazel
 hair: brown
@@ -5355,7 +5378,7 @@ site: MetArt
 url: https://www.metart.com/model/ivy-darke
 type: Cast
 gender: female
-Latvia
+origin: Latvia
 debutAge: 23
 eyes: blue
 hair: black
@@ -5372,7 +5395,7 @@ site: MetArt
 url: https://www.metart.com/model/ivy-rose
 type: Cast
 gender: female
-United States
+origin: United States
 debutAge: 24
 eyes: blue
 hair: brown
@@ -5389,7 +5412,7 @@ site: MetArt
 url: https://www.metart.com/model/izzy-lush
 type: Cast
 gender: female
-Colombia
+origin: Colombia
 debutAge: 27
 eyes: green
 hair: brown
@@ -5405,7 +5428,7 @@ site: MetArt
 url: https://www.metart.com/model/jane-wilde
 type: Cast
 gender: female
-United States
+origin: United States
 debutAge: 23
 eyes: hazel
 hair: brown
@@ -5455,7 +5478,7 @@ site: MetArt
 url: https://www.metart.com/model/jasmina-jade
 type: Cast
 gender: female
-Belarus
+origin: Belarus
 debutAge: 21
 eyes: green
 hair: brown
@@ -5572,7 +5595,7 @@ site: MetArt
 url: https://www.metart.com/model/jude
 type: Cast
 gender: female
-Latvia
+origin: Latvia
 debutAge: 24
 eyes: blue
 hair: blonde
@@ -5619,7 +5642,7 @@ ethnicity: Caucasian
 bio: I love to sing, paint and dance. I have good hairdressing skills, as well as a certified make-up artist. I am very positive, open-minded and sociable.  I love to discover something new for myself. I see myself in the near future in the modeling field and dream a little about acting.
 ---
 name: Willow Hart
-United Kingdom
+origin: United Kingdom
 debutAge: 20
 url: https://www.metart.com/model/willow-hart
 eyes: brown
@@ -5633,7 +5656,7 @@ ethnicity: Caucasian
 bio: I enjoy traveling and exploring new places and experiencing different cultures. I love listening to music and play a few instruments.
 ---
 name: Andrea
-Czech Republic
+origin: Czech Republic
 debutAge: 25
 url: https://www.metart.com/model/andrea
 eyes: brown
@@ -5646,7 +5669,7 @@ shaved: trimmed
 bio: I like learning new languages and experiencing new cultures.
 ---
 name: Liloo
-Colombia
+origin: Colombia
 debutAge: 26
 url: https://www.metart.com/model/liloo
 eyes: brown
@@ -5675,7 +5698,7 @@ bio: I used to be a very shy girl, but I am starting to come out of my shell. I 
 ---
 name: Elfiolla
 origin: Russian Federation
-Age When Published: 25
+ageWhenPublished: 25
 url: https://www.sexart.com/model/elfiolla
 eyes: blue
 hair: blonde
@@ -5700,7 +5723,7 @@ shaved: shaved
 ethnicity: Caucasian
 ---
 name: Britney Dutch
-Netherlands
+origin: Netherlands
 debutAge: 21
 url: https://www.vivthomas.com/model/britney-dutch
 eyes: blue
@@ -5785,7 +5808,7 @@ site: MetArt
 url: https://www.metart.com/model/karin-torres
 type: Cast
 gender: female
-Venezuela
+origin: Venezuela
 debutAge: 22
 eyes: brown
 hair: brown
@@ -5802,7 +5825,7 @@ site: MetArt
 url: https://www.metart.com/model/karina-kandy
 type: Cast
 gender: female
-Latvia
+origin: Latvia
 debutAge: 20
 eyes: brown
 hair: brown
@@ -5934,7 +5957,7 @@ site: MetArt
 url: https://www.metart.com/model/keira-blue
 type: Cast
 gender: female
-Belarus
+origin: Belarus
 debutAge: 18
 eyes: blue
 hair: blonde
@@ -6001,7 +6024,7 @@ site: MetArt
 url: https://www.metart.com/model/kiana
 type: Cast
 gender: female
-Norway
+origin: Norway
 debutAge: 24
 eyes: brown
 hair: brown
@@ -6101,7 +6124,7 @@ site: MetArt
 url: https://www.metart.com/model/konstance
 type: Cast
 gender: female
-Latvia
+origin: Latvia
 debutAge: 19
 eyes: brown
 hair: brown
@@ -6118,7 +6141,7 @@ site: MetArt
 url: https://www.metart.com/model/krystal-kitten
 type: Cast
 gender: female
-United States
+origin: United States
 debutAge: 27
 eyes: blue
 hair: red
@@ -6318,7 +6341,7 @@ site: MetArt
 url: https://www.metart.com/model/lilly-bella
 type: Cast
 gender: female
-Czech Republic
+origin: Czech Republic
 debutAge: 18
 eyes: blue
 hair: black
@@ -6453,7 +6476,7 @@ site: MetArt
 url: https://www.metart.com/model/loren-sun
 type: Cast
 gender: female
-Czech Republic
+origin: Czech Republic
 debutAge: 18
 eyes: brown
 hair: brown
@@ -6554,7 +6577,7 @@ site: MetArt
 url: https://www.metart.com/model/lumen
 type: Cast
 gender: female
-Latvia
+origin: Latvia
 debutAge: 20
 eyes: blue
 hair: blonde
@@ -6673,7 +6696,7 @@ site: MetArt
 url: https://www.metart.com/model/marciana
 type: Cast
 gender: female
-Latvia
+origin: Latvia
 debutAge: 19
 eyes: blue
 hair: brown
@@ -6841,7 +6864,7 @@ site: MetArt
 url: https://www.metart.com/model/matty
 type: Cast
 gender: female
-Belarus
+origin: Belarus
 debutAge: 18
 eyes: brown
 hair: brown
@@ -6858,7 +6881,7 @@ site: MetArt
 url: https://www.metart.com/model/maxine
 type: Cast
 gender: female
-Latvia
+origin: Latvia
 debutAge: 24
 eyes: green
 hair: blonde
@@ -6959,7 +6982,7 @@ site: MetArt
 url: https://www.metart.com/model/mia-sollis
 type: Cast
 gender: female
-Czech Republic
+origin: Czech Republic
 debutAge: 20
 eyes: blue
 hair: red
@@ -7009,7 +7032,7 @@ site: MetArt
 url: https://www.metart.com/model/milena-ray
 type: Cast
 gender: female
-Belarus
+origin: Belarus
 debutAge: 26
 eyes: blue
 hair: black
@@ -7060,7 +7083,7 @@ site: MetArt
 url: https://www.metart.com/model/milly
 type: Cast
 gender: female
-Belarus
+origin: Belarus
 debutAge: 18
 eyes: brown
 hair: brown
@@ -7092,7 +7115,7 @@ site: MetArt
 url: https://www.metart.com/model/mina
 type: Cast
 gender: female
-Latvia
+origin: Latvia
 debutAge: 21
 eyes: hazel
 hair: brown
@@ -7109,7 +7132,7 @@ site: MetArt
 url: https://www.metart.com/model/minnie
 type: Cast
 gender: female
-Czech Republic
+origin: Czech Republic
 debutAge: 18
 eyes: brown
 hair: brown
@@ -7141,7 +7164,7 @@ site: MetArt
 url: https://www.metart.com/model/mirka
 type: Cast
 gender: female
-Belarus
+origin: Belarus
 debutAge: 20
 eyes: blue
 hair: brown
@@ -7158,7 +7181,7 @@ site: MetArt
 url: https://www.metart.com/model/mishel-dark
 type: Cast
 gender: female
-Czech Republic
+origin: Czech Republic
 debutAge: 20
 eyes: brown
 hair: black
@@ -7308,7 +7331,7 @@ site: MetArt
 url: https://www.metart.com/model/myra
 type: Cast
 gender: female
-Belarus
+origin: Belarus
 debutAge: 23
 eyes: hazel
 hair: black
@@ -7325,7 +7348,7 @@ site: MetArt
 url: https://www.metart.com/model/nana
 type: Cast
 gender: female
-Belarus
+origin: Belarus
 debutAge: 20
 eyes: blue
 hair: brown
@@ -7391,7 +7414,7 @@ site: MetArt
 url: https://www.metart.com/model/nessie-blue
 type: Cast
 gender: female
-Czech Republic
+origin: Czech Republic
 debutAge: 21
 eyes: brown
 hair: black
@@ -7407,7 +7430,7 @@ site: MetArt
 url: https://www.metart.com/model/nicol-wild
 type: Cast
 gender: female
-Czech Republic
+origin: Czech Republic
 debutAge: 30
 eyes: brown
 hair: black
@@ -7540,7 +7563,7 @@ site: MetArt
 url: https://www.metart.com/model/oceane
 type: Cast
 gender: female
-Czech Republic
+origin: Czech Republic
 debutAge: 23
 eyes: brown
 hair: brown
@@ -7757,7 +7780,7 @@ site: MetArt
 url: https://www.metart.com/model/rachel-rivers
 type: Cast
 gender: female
-United States
+origin: United States
 debutAge: 22
 eyes: brown
 hair: brown
@@ -7791,7 +7814,7 @@ site: MetArt
 url: https://www.metart.com/model/rebecca-volpetti
 type: Cast
 gender: female
-Romania
+origin: Romania
 debutAge: 22
 eyes: brown
 hair: blonde
@@ -7807,7 +7830,7 @@ site: MetArt
 url: https://www.metart.com/model/riley-anne
 type: Cast
 gender: female
-United States
+origin: United States
 debutAge: 22
 eyes: blue
 hair: blonde
@@ -7841,7 +7864,7 @@ site: MetArt
 url: https://www.metart.com/model/riya
 type: Cast
 gender: female
-Latvia
+origin: Latvia
 debutAge: 18
 eyes: blue
 hair: blonde
@@ -7858,7 +7881,7 @@ site: MetArt
 url: https://www.metart.com/model/romy-indy
 type: Cast
 gender: female
-Netherlands
+origin: Netherlands
 debutAge: 23
 eyes: brown
 hair: black
@@ -7908,7 +7931,7 @@ site: MetArt
 url: https://www.metart.com/model/rosalind
 type: Cast
 gender: female
-Latvia
+origin: Latvia
 debutAge: 19
 eyes: blue
 hair: brown
@@ -8010,7 +8033,7 @@ site: MetArt
 url: https://www.metart.com/model/sally-a
 type: Cast
 gender: female
-United States
+origin: United States
 debutAge: 21
 eyes: green
 hair: red
@@ -8109,7 +8132,7 @@ site: MetArt
 url: https://www.metart.com/model/sapphira-a
 type: Cast
 gender: female
-Czech Republic
+origin: Czech Republic
 debutAge: 18
 eyes: brown
 hair: black
@@ -8126,7 +8149,7 @@ site: MetArt
 url: https://www.metart.com/model/sarah-kay
 type: Cast
 gender: female
-Czech Republic
+origin: Czech Republic
 debutAge: 23
 eyes: hazel
 hair: brown
@@ -8143,7 +8166,7 @@ site: MetArt
 url: https://www.metart.com/model/sarika-a
 type: Cast
 gender: female
-Latvia
+origin: Latvia
 debutAge: 22
 eyes: blue
 hair: blonde
@@ -8177,7 +8200,7 @@ site: MetArt
 url: https://www.metart.com/model/savana
 type: Cast
 gender: female
-France
+origin: France
 debutAge: 26
 eyes: brown
 hair: brown
@@ -8242,7 +8265,7 @@ site: MetArt
 url: https://www.metart.com/model/serina-gomez
 type: Cast
 gender: female
-Czech Republic
+origin: Czech Republic
 debutAge: 22
 eyes: brown
 hair: brown
@@ -8258,7 +8281,7 @@ site: MetArt
 url: https://www.metart.com/model/shalon
 type: Cast
 gender: female
-Finland
+origin: Finland
 debutAge: 25
 eyes: blue
 hair: blonde
@@ -8292,7 +8315,7 @@ site: MetArt
 url: https://www.metart.com/model/shawni
 type: Cast
 gender: female
-Latvia
+origin: Latvia
 debutAge: 18
 eyes: hazel
 hair: brown
@@ -8309,7 +8332,7 @@ site: MetArt
 url: https://www.metart.com/model/shea
 type: Cast
 gender: female
-Latvia
+origin: Latvia
 debutAge: 24
 eyes: blue
 hair: brown
@@ -8426,7 +8449,7 @@ site: MetArt
 url: https://www.metart.com/model/sienna
 type: Cast
 gender: female
-Belarus
+origin: Belarus
 debutAge: 20
 eyes: green
 hair: brown
@@ -8493,7 +8516,7 @@ site: MetArt
 url: https://www.metart.com/model/sofi-vega
 type: Cast
 gender: female
-Colombia
+origin: Colombia
 debutAge: 27
 eyes: brown
 hair: black
@@ -8557,7 +8580,7 @@ site: MetArt
 url: https://www.metart.com/model/sonja
 type: Cast
 gender: female
-Latvia
+origin: Latvia
 debutAge: 23
 eyes: brown
 hair: black
@@ -8572,7 +8595,7 @@ site: MetArt
 url: https://www.metart.com/model/sonnett
 type: Cast
 gender: female
-Czech Republic
+origin: Czech Republic
 debutAge: 20
 eyes: blue
 hair: blonde
@@ -8605,7 +8628,7 @@ site: MetArt
 url: https://www.metart.com/model/sonya-rose
 type: Cast
 gender: female
-Latvia
+origin: Latvia
 debutAge: 23
 eyes: blue
 hair: brown
@@ -8639,7 +8662,7 @@ site: MetArt
 url: https://www.metart.com/model/sophie-gem
 type: Cast
 gender: female
-Belarus
+origin: Belarus
 debutAge: 21
 eyes: blue
 hair: blonde
@@ -8656,7 +8679,7 @@ site: MetArt
 url: https://www.metart.com/model/sophie-limma
 type: Cast
 gender: female
-Czech Republic
+origin: Czech Republic
 debutAge: 24
 eyes: green
 hair: black
@@ -8673,7 +8696,7 @@ site: MetArt
 url: https://www.metart.com/model/stacy-cruz
 type: Cast
 gender: female
-Czech Republic
+origin: Czech Republic
 debutAge: 19
 eyes: blue
 hair: brown
@@ -8873,7 +8896,7 @@ site: MetArt
 url: https://www.metart.com/model/tanika
 type: Cast
 gender: female
-Finland
+origin: Finland
 debutAge: 18
 eyes: blue
 hair: blonde
@@ -9013,7 +9036,7 @@ site: MetArt
 url: https://www.metart.com/model/tuva
 type: Cast
 gender: female
-Latvia
+origin: Latvia
 debutAge: 22
 eyes: blue
 hair: blonde
@@ -9047,7 +9070,7 @@ site: MetArt
 url: https://www.metart.com/model/vanessa-alessia
 type: Cast
 gender: female
-Czech Republic
+origin: Czech Republic
 debutAge: 18
 eyes: brown
 hair: black
@@ -9063,7 +9086,7 @@ site: MetArt
 url: https://www.metart.com/model/vanessa-angel
 type: Cast
 gender: female
-Czech Republic
+origin: Czech Republic
 debutAge: 20
 eyes: brown
 hair: brown
@@ -9129,7 +9152,7 @@ site: MetArt
 url: https://www.metart.com/model/viola-kat
 type: Cast
 gender: female
-Latvia
+origin: Latvia
 debutAge: 19
 eyes: brown
 hair: brown
@@ -9229,7 +9252,7 @@ site: MetArt
 url: https://www.metart.com/model/zaky
 type: Cast
 gender: female
-Czech Republic
+origin: Czech Republic
 debutAge: 24
 eyes: green
 hair: red
@@ -9262,7 +9285,7 @@ site: MetArt
 url: https://www.metart.com/model/zuzu-sweet
 type: Cast
 gender: female
-Czech Republic
+origin: Czech Republic
 debutAge: 24
 eyes: blue
 hair: brown
@@ -9275,9 +9298,9 @@ ethnicity: Caucasian
 bio: What's the nonsense about the weaker sex? What a ridiculous thing to say! It only is when you think of it as a product of a man's world. I enjoy being a powerful woman in charge of my own sexuality and destiny. I applaud my fellow women for any and all dreams and aspirations. I have great desire to travel and fulfill all of my wishes and live my life.
 ---
 name: Dakota Doll
-Russian Federation
-Debut Age: 19
-https://www.metart.com/model/dakota-doll
+origin: Russian Federation
+debutAge: 19
+url: https://www.metart.com/model/dakota-doll
 eyes: hazel
 hair: brown
 height: 5'5"
@@ -9289,9 +9312,9 @@ ethnicity: Caucasian
 bio: I'm all about anime and cozy pink outfits. But don't be fooled... my music taste is full on rave mode. I'm shy outside, but naughty inside. Come meet my dark side. 😉
 ---
 name: Tisha
-Ukraine
-Debut Age: 23
-https://www.metart.com/model/tisha
+origin: Ukraine
+debutAge: 23
+url: https://www.metart.com/model/tisha
 eyes: brown
 hair: red
 height: 5'4"
@@ -9304,8 +9327,8 @@ bio: My name is Tisha. I am from the Ukraine. I am a quiet girl with a wild side
 ---
 name: Arden Tate
 Italy
-Debut Age: 22
-https://www.metart.com/model/arden-tate
+debutAge: 22
+url: https://www.metart.com/model/arden-tate
 eyes: green
 hair: brown
 height: 5'3"
@@ -9317,9 +9340,9 @@ ethnicity: Caucasian
 bio: Hi, I’m Arden. I’m an oenology student. I’m a young Italian model but actually I travel around the world in search of the perfect spot for my shooting. I’m a quite active girl, I enjoy every kind of sport. I’m also trying to become a real cinephile, so while I’m not training I watch movies. I hope to get an AVN awards one day, in the meanwhile I try to work with the most talented photographers.
 ---
 name: Suzanna A
-Ukraine
-Debut Age: 23
-https://www.metart.com/model/suzanna-a
+origin: Ukraine
+debutAge: 23
+url: https://www.metart.com/model/suzanna-a
 eyes: green
 hair: brown
 height: 5'7"
@@ -9331,9 +9354,9 @@ ethnicity: Caucasian
 bio: I like to go to the disco! I also love the holidays. I come up with a costume for each party I go to. I love to be around many friends.
 ---
 name: Cherry Crush
-Ukraine
-Debut Age: 22
-https://www.sexart.com/model/cherry-crush
+origin: Ukraine
+debutAge: 22
+url: https://www.sexart.com/model/cherry-crush
 eyes: blue
 hair: red
 height: 5'8"
@@ -9344,15 +9367,15 @@ shaved: shaved
 ethnicity: Caucasian
 ---
 name: Perry Layne
-Czech Republic
-Debut Age: 38
-https://www.sexart.com/model/perry-layne
+origin: Czech Republic
+debutAge: 38
+url: https://www.sexart.com/model/perry-layne
 gender: male
 ---
 name: Shany
-Russian Federation
-Debut Age: 22
-https://www.metart.com/model/shany
+origin: Russian Federation
+debutAge: 22
+url: https://www.metart.com/model/shany
 eyes: brown
 hair: blonde
 height: 5'6"
@@ -9364,9 +9387,9 @@ ethnicity: Caucasian
 bio: I am an energetic and positive person. I like an active lifestyle: playing tennis or football with friends, riding a bike around the city. But sometimes I don't mind sitting at home playing board games like Uno or Monopoly. I have a small cat that I like to play with. I would like to have a lot of animals at home, but I try to stop myself :) watching cute videos with animals on social media relaxes me. I also try myself in the beauty industry. I do eyebrows and eyelashes for girls. I like it when people leave me happy and satisfied with the procedure I did for them. In general, I like to give joy to people! Shooting for MetArt was my first experience of posing in erotica. I hope that I brought pleasure not only to myself, but also to people around the world too :)
 ---
 name: Rinna Ly
-Ukraine
-Debut Age: 23
-https://www.metart.com/model/rinna-ly
+origin: Ukraine
+debutAge: 23
+url: https://www.metart.com/model/rinna-ly
 eyes: blue
 hair: red
 height: 5'3"
@@ -9378,8 +9401,8 @@ ethnicity: Caucasian
 bio: Hi, my name is Rinna Ly. Now I am a model, but I really like sewing, so I attend sewing courses. I want to become a designer. I was born and raised in Ukraine, among forests and fields. I can call myself a woman of nature. I speak fluently in Ukrainian and Russian, a little in English. Also, I really like to give people smiles. I believe that a sincere smile can make the day better. Sometimes I'm a little infantile, but it's more fun to live like this. I used to study graphic design, so I can probably say that my whole life is connected with creativity. I have always drawn and made figures from clay. I like reading very much, sometimes I am even addicted to reading. I love being a model! I would like to work with some wonderful photographers, artists who create wonderful works, and most importantly, they love what they do
 ---
 name: Taya Sour
-Ukraine
-https://www.metart.com/model/taya-sour
+origin: Ukraine
+url: https://www.metart.com/model/taya-sour
 eyes: green
 hair: brown
 height: 5'7"
@@ -9391,9 +9414,9 @@ ethnicity: Caucasian
 bio: I am a European based model with a passion for elegance, sensuality and visual storytelling. I am drawn to art, deep emotions and the quiet power of femininity. In my free time, I like exploring new places, dancing and capturing the beauty in everyday moments.
 ---
 name: Naksu
-Thailand
-Debut Age: 21
-https://www.metart.com/model/naksu
+origin: Thailand
+debutAge: 21
+url: https://www.metart.com/model/naksu
 eyes: brown
 hair: blonde
 height: 5'1"
@@ -9405,9 +9428,9 @@ ethnicity: Asian
 bio: I’m a normal girl with normal life but since I started to pose for photographers I discovered a new part of myself. I really love to take photos and I like to express my creativity in front of the camera. People told me I am beautiful but I am not sure about it, what do you think? I am curious to read your comments on my sets, I hope you will like me and make me famous. I love nature, cats, bikes and I spend most of my time with my friends and my family. I’d like to travel around the world and I hope this job will give me the opportunity to realize my dreams.
 ---
 name: Afina Ray
-Latvia
-Debut Age: 24
-https://www.sexart.com/model/afina-ray
+origin: Latvia
+debutAge: 24
+url: https://www.sexart.com/model/afina-ray
 eyes: blue
 hair: brown
 height: 5'3"
@@ -9417,9 +9440,9 @@ measurements: 34/24/34
 shaved: shaved
 ---
 name: Yeva
-Norway
-Debut Age: 20
-https://www.sexart.com/model/yeva
+origin: Norway
+debutAge: 20
+url: https://www.sexart.com/model/yeva
 eyes: brown
 hair: black
 height: 5'7"
@@ -9430,8 +9453,8 @@ shaved: shaved
 ---
 name: Peach Lollypop
 Italy
-Debut Age: 25
-https://www.sexart.com/model/peach-lollypop
+debutAge: 25
+url: https://www.sexart.com/model/peach-lollypop
 eyes: blue
 hair: red
 height: 5'4"
@@ -9442,9 +9465,9 @@ shaved: shaved
 ethnicity: Caucasian
 ---
 name: Azzurra Moretti
-Ukraine
-Debut Age: 24
-https://www.metart.com/model/azzurra-moretti
+origin: Ukraine
+debutAge: 24
+url: https://www.metart.com/model/azzurra-moretti
 eyes: blue
 hair: brown
 height: 5'6"
@@ -9455,9 +9478,9 @@ shaved: shaved
 bio: I like Summer, I like to sunbathe on a sandy beach and feel like someone is looking at me with great interest, of course, because I like my body. So I started taking nude photos, and I think I did well!!! ))) I am a very cheerful person, I like to go to the cinema, with my friends, watch comedies and eat popcorn. My motto in life is never give up, always smile!
 ---
 name: Jade
-France
-Debut Age: 21
-https://www.metart.com/model/jade
+origin: France
+debutAge: 21
+url: https://www.metart.com/model/jade
 eyes: brown
 hair: blonde
 height: 5'1"
@@ -9469,9 +9492,9 @@ ethnicity: Caucasian
 bio: I am studying nursing and living my best life in the west of France. I live by the sea. I love shopping with my girlfriends and eating sushi and fancy sandwiches.
 ---
 name: Malena
-Ukraine
-Debut Age: 21
-https://www.metart.com/model/malena
+origin: Ukraine
+debutAge: 21
+url: https://www.metart.com/model/malena
 eyes: brown
 hair: black
 height: 5'4"
@@ -9483,9 +9506,9 @@ ethnicity: Asian
 bio: I love to dance and in the future I would like to open a dance school. "Life is in the motions". I prefer to be as active as possible and love participating in sporting events. Music of the Spanish Tenors are my favorite. I am a proud, amorous, very jealous, affectionate, tender, boastful, clever, and a fighter for survival. I hate losing anything!
 ---
 name: Dana Red
-Ukraine
-Debut Age: 25
-https://www.metart.com/model/dana-red
+origin: Ukraine
+debutAge: 25
+url: https://www.metart.com/model/dana-red
 eyes: green
 hair: red
 height: 5'6"
@@ -9498,7 +9521,7 @@ bio: I am Ukrainian, living in Portugal. My great passion is dancing. I am a cla
 ---
 name: Afina Ray
 origin: Latvia
-Debut Age: 24
+debutAge: 24
 url: https://www.sexart.com/model/afina-ray
 eyes: blue
 hair: brown
@@ -9509,8 +9532,8 @@ measurements: 34/24/34
 shaved: shaved
 ---
 name: Yeva
-origin:Norway
-Debut Age: 20
+origin: Norway
+debutAge: 20
 url: https://www.sexart.com/model/yeva
 eyes: brown
 hair: black
@@ -9522,7 +9545,7 @@ shaved: shaved
 ---
 name: Olivia Westsun
 origin: Russian Federation
-Debut Age: 26
+debutAge: 26
 url: https://www.sexart.com/model/olivia-westsun
 eyes: blue
 hair: brown
@@ -9535,7 +9558,7 @@ ethnicity: Caucasian
 ---
 name: Angelika Grays
 origin: Russian Federation
-Debut Age: 27
+debutAge: 27
 url: https://www.sexart.com/model/angelika-grays
 eyes: blue
 hair: blonde
@@ -9548,7 +9571,7 @@ ethnicity: Caucasian
 ---
 name: Polly Yangs
 origin: Russian Federation
-Debut Age: 20
+debutAge: 20
 url: https://www.vivthomas.com/model/polly-yangs
 eyes: green
 hair: blonde
@@ -9561,7 +9584,7 @@ ethnicity: Caucasian
 ---
 name: Alice Xo
 origin: Russian Federation
-Debut Age: 26
+debutAge: 26
 url: https://www.vivthomas.com/model/alice-xo
 eyes: brown
 hair: brown
@@ -9574,7 +9597,7 @@ ethnicity: Caucasian
 ---
 name: Hareniks
 origin: Ukraine
-Debut Age: 18
+debutAge: 18
 url: https://www.metart.com/model/hareniks
 eyes: brown
 hair: brown
@@ -9587,7 +9610,7 @@ bio: Hi there! My name is Hareniks. Nice to meet you! I'm a funny and playful gi
 ---
 name: Bozhena
 origin: Belarus
-Debut Age: 21
+debutAge: 21
 url: https://www.metart.com/model/bozhena
 eyes: blue
 hair: brown
@@ -9601,7 +9624,7 @@ bio: I like to create content that captivates. People say I have a charm that is
 ---
 name: Luna Pica
 origin: Russian Federation
-Debut Age: 25
+debutAge: 25
 url: https://www.sexart.com/model/luna-pica
 eyes: blue
 hair: brown
@@ -9614,7 +9637,7 @@ ethnicity: Caucasian
 ---
 name: Azzura
 origin: Ukraine
-Debut Age: 19
+debutAge: 19
 url: https://www.metart.com/model/azzura
 eyes: brown
 hair: brown
@@ -9628,7 +9651,7 @@ bio: I study music and singing. My favorite instrument is the harp. Although I a
 ---
 name: Olivia Westsun
 origin: Russian Federation
-Debut Age: 26
+debutAge: 26
 url: https://www.sexart.com/model/olivia-westsun
 eyes: blue
 hair: brown
@@ -9641,7 +9664,7 @@ ethnicity: Caucasian
 ---
 name: Afina Ray
 origin: Latvia
-Debut Age: 24
+debutAge: 24
 url: https://www.sexart.com/model/afina-ray
 eyes: blue
 hair: brown
@@ -9653,7 +9676,7 @@ shaved: shaved
 ---
 name: Yeva
 origin: Norway
-Debut Age: 20
+debutAge: 20
 url: https://www.sexart.com/model/yeva
 eyes: brown
 hair: black
@@ -9664,8 +9687,8 @@ measurements: 35/26/37
 shaved: shaved
 ---
 name: Asandra Dewy
-origin:Ukraine
-Debut Age: 20
+origin: Ukraine
+debutAge: 20
 url: https://www.sexart.com/model/asandra-dewy
 eyes: brown
 hair: black
@@ -9677,683 +9700,788 @@ shaved: shaved
 ethnicity: Caucasian
 ---
 name: Polly Yangs
-Russian Federation
-Debut Age: 19
-https://www.metart.com/model/polly-yangs
-Eye color: green
-Hair color: blonde
-Height: 5'8"
-Weight: 128 lbs
-Breasts: medium
-Measurements: 32/24/34
-Shaved: shaved
-Ethnicity: Caucasian
-Bio
+origin: Russian Federation
+debutAge: 19
+url: https://www.metart.com/model/polly-yangs
+eyes: green
+hair: blonde
+height: 5'8"
+weight: 128 
+breasts medium
+measurements: 32/24/34
+shaved: shaved
+ethnicity Caucasian
+bio
 I am a student and model. I like to pose on and off the camera. I am hoping that one day that modelling gives me the opportunity to travel the world. There is so much I am looking forward to experiencing.
 ---
 name: Vina Rae
-Thailand
-Debut Age: 28
-https://www.metart.com/model/vina-rae
-Eye color: brown
-Hair color: black
-Height: 5'4"
-Weight: 99 lbs
-Breasts: small
-Measurements: 33/23/33
-Shaved: shaved
-Ethnicity: Asian
-Bio
+origin: Thailand
+debutAge: 28
+url: https://www.metart.com/model/vina-rae
+eyes: brown
+hair: black
+height: 5'4"
+weight: 99 
+breasts small
+measurements: 33/23/33
+shaved: shaved
+ethnicity Asian
+bio
 Hello! I’m Vina. I’m glad you found your way here! I’m a small Thai girl from a small town near Bangkok who came to the big City to explore myself and what life has to offer. Originally a barista and a singer on the side I noticed that I prefer to work in a slightly different field 😅 I enjoy new adventures and experiences and I am excited to try more and see where this journey takes me! Even though I quit being a barista to do more naughty jobs, I still like to perform as a singer in some cute bars and cafes occasionally. In my spare time I like to check out some local markets, go for a night out with friends or simply have a cozy evening with my cats and video games. I’m looking forward to be published on Metart and see if you like me!
 ---
 name: Liz Ocean
 Hungary
-Debut Age: 19
+debutAge: 19
 url: https://www.metart.com/model/liz-ocean
-Eye color: brown
-Hair color: brown
-Height: 5'4"
-Weight: 99 lbs
-Breasts: medium
-Measurements: 34/24/34
-Shaved: shaved
-Ethnicity: Caucasian
+eyes: brown
+hair: brown
+height: 5'4"
+weight: 99 
+breasts medium
+measurements: 34/24/34
+shaved: shaved
+ethnicity Caucasian
 ---
 name: Anna Arien
-Russian Federation
-Debut Age: 20
+origin: Russian Federation
+debutAge: 20
 url: https://www.metart.com/model/anna-arien
-Eye color: brown
-Hair color: brown
-Height: 5'3"
-Weight: 104 lbs
-Breasts: medium
-Measurements: 35/24/36
-Shaved: shaved
-Ethnicity: Caucasian
-Bio
+eyes: brown
+hair: brown
+height: 5'3"
+weight: 104 
+breasts medium
+measurements: 35/24/36
+shaved: shaved
+ethnicity Caucasian
+bio
 Hi, I am very happy to pose for this gallery and it was my dream! I really appreciate the beauty of the nude, and when it is seasoned with glamour, beautiful locations and professional work, it is already art. I tried very hard and I hope I was able to convey my hot mood. I often change my image, try on different images, dream of long hair to the waist and I am going towards this dream. My friends say that I am charming, always smiling, sincere and ready to help. I like personal communication, meetings in beautiful places, attending concerts and parties. I love to dance and do it wherever I hear rhythmic music. I think that I could teach dancing, maybe bochata or salsa. When I retire after photo sessions, I will become a dance teacher.
 ---
 name: Rika Fane
-Czech Republic
-Debut Age: 18
-https://www.sexart.com/model/rika-fane
-Eye color: brown
-Hair color: blonde
-Height: 5'2"
-Weight: 112 lbs
-Breasts: medium
-Measurements: 33/23/33
-Shaved: shaved
-Ethnicity: Caucasian
+origin: Czech Republic
+debutAge: 18
+url: https://www.sexart.com/model/rika-fane
+eyes: brown
+hair: blonde
+height: 5'2"
+weight: 112 
+breasts medium
+measurements: 33/23/33
+shaved: shaved
+ethnicity Caucasian
 ---
 name: Bruno Baxter
-Czech Republic
-Debut Age: 22
-https://www.sexart.com/model/bruno-baxter
+origin: Czech Republic
+debutAge: 22
+url: https://www.sexart.com/model/bruno-baxter
 gender: male
 ---
 name: Ariana Regent
-Latvia
-Debut Age: 19
-https://www.metart.com/model/ariana-regent
-Eye color: brown
-Hair color: blonde
-Height: 5'5"
-Weight: 117 lbs
-Breasts: medium
-Measurements: 36/25/37
-Shaved: shaved
-Bio
+origin: Latvia
+debutAge: 19
+url: https://www.metart.com/model/ariana-regent
+eyes: brown
+hair: blonde
+height: 5'5"
+weight: 117 
+breasts medium
+measurements: 36/25/37
+shaved: shaved
+bio
 I like traveling and studying visual design. I am a big dog lover.
 ---
 name: Zuzanna
 Estonia
-Debut Age: 18
-https://www.metart.com/model/zuzanna
-Eye color: blue
-Hair color: brown
-Height: 5'8"
-Weight: 132 lbs
-Breasts: medium
-Measurements: 36/25/37
-Shaved: trimmed
-Ethnicity: Caucasian
-Bio
+debutAge: 18
+url: https://www.metart.com/model/zuzanna
+eyes: blue
+hair: brown
+height: 5'8"
+weight: 132 
+breasts medium
+measurements: 36/25/37
+shaved: trimmed
+ethnicity Caucasian
+bio
 I try to emphasize my natural beauty in my modeling work. I’m confident and determined, yet still modest. It’s important for me to stay true to myself in any situation and maintain my individuality. Modeling isn’t just a job for me; it’s an opportunity to express myself and showcase my uniqueness. In my free time, I’m passionate about photography and enjoy learning new things. I’m drawn to simple yet meaningful activities like exploring new places, learning different skills or reading books. I value simplicity and naturalness, both in my appearance and in life. It’s important to me to be genuine and not be afraid to show who I really am. My work allows me to express this, and I take pride in inspiring others with my confidence and authenticity.
 ---
 name: Giselle
-Ukraine
-Debut Age: 22
-https://www.metart.com/model/giselle
-Eye color: brown
-Hair color: brown
-Height: 5'7"
-Weight: 115 lbs
-Breasts: medium
-Measurements: 35/24/35
-Shaved: shaved
-Ethnicity: Caucasian
-Bio
+origin: Ukraine
+debutAge: 22
+url: https://www.metart.com/model/giselle
+eyes: brown
+hair: brown
+height: 5'7"
+weight: 115 
+breasts medium
+measurements: 35/24/35
+shaved: shaved
+ethnicity Caucasian
+bio
 I love to pose. It's a great adventure for me to pose for Met Art. In ordinary life, I am quite sociable and open. I have a favorite job and an interesting study. I study languages and want to be a translator. Now I conduct excursions around my beloved Kiev.
 ---
 name: Mara Blake
-Ukraine
-Debut Age: 25
-https://www.metart.com/model/mara-blake
-Eye color: blue
-Hair color: brown
-Height: 5'6"
-Weight: 108 lbs
-Breasts: medium
-Measurements: 34/25/35
-Shaved: shaved
-Ethnicity: Caucasian
-Bio
+origin: Ukraine
+debutAge: 25
+url: https://www.metart.com/model/mara-blake
+eyes: blue
+hair: brown
+height: 5'6"
+weight: 108 
+breasts medium
+measurements: 34/25/35
+shaved: shaved
+ethnicity Caucasian
+bio
 I was born and grew up in the western part of Ukraine. All of my childhood I was engaged in rhythmic gymnastics. Very much I love aerobics, dances and cheerful actions. I have many friends and acquaintances, I love dialogue and to meet new people.
 ---
 name: Sumiko
-Ukraine
-Debut Age: 22
-https://www.sexart.com/model/sumiko
-Eye color: brown
-Hair color: brown
-Height: 5'0"
-Weight: 112 lbs
-Breasts: large
-Measurements: 33/24/34
-Shaved: shaved
-Ethnicity: Caucasian
+origin: Ukraine
+debutAge: 22
+url: https://www.sexart.com/model/sumiko
+eyes: brown
+hair: brown
+height: 5'0"
+weight: 112 
+breasts large
+measurements: 33/24/34
+shaved: shaved
+ethnicity Caucasian
 ---
 name: Milan Cheek
-Ukraine
-Debut Age: 24
-https://www.vivthomas.com/model/milan-cheek
-Eye color: brown
-Hair color: brown
-Height: 5'6"
-Weight: 119 lbs
-Breasts: medium
-Measurements: 32/23/34
-Shaved: shaved
-Ethnicity: Caucasian
+origin: Ukraine
+debutAge: 24
+url: https://www.vivthomas.com/model/milan-cheek
+eyes: brown
+hair: brown
+height: 5'6"
+weight: 119 
+breasts medium
+measurements: 32/23/34
+shaved: shaved
+ethnicity Caucasian
 ---
 name: Sophia Rivers
-Ukraine
-Debut Age: 23
-https://www.vivthomas.com/model/sophia-rivers
-Eye color: blue
-Hair color: red
-Height: 5'7"
-Weight: 115 lbs
-Breasts: medium
-Measurements: 34/24/34
-Shaved: shaved
-Ethnicity: Caucasian
+origin: Ukraine
+debutAge: 23
+url: https://www.vivthomas.com/model/sophia-rivers
+eyes: blue
+hair: red
+height: 5'7"
+weight: 115 
+breasts medium
+measurements: 34/24/34
+shaved: shaved
+ethnicity Caucasian
 ---
 name: Kei
-United States
-Debut Age: 21
-https://www.metart.com/model/kei
-Eye color: brown
-Hair color: blonde
-Height: 5'4"
-Weight: 119 lbs
-Breasts: medium
-Measurements: 32/26/31
-Shaved: shaved
-Ethnicity: Caucasian
-Bio
+origin: United States
+debutAge: 21
+url: https://www.metart.com/model/kei
+eyes: brown
+hair: blonde
+height: 5'4"
+weight: 119 
+breasts medium
+measurements: 32/26/31
+shaved: shaved
+ethnicity Caucasian
+bio
 Hi, my name is Kei. I’m from the south but now living my best life in Hawaii. Some of my hobbies are working out, going out with friends, and traveling. I love posing nude, I find it so fun and thrilling. It has brought me so many opportunities to work with amazing companies and photographers.
 ---
 name: Florens
-Russian Federation
-Debut Age: 22
-https://www.metart.com/model/florens
-Eye color: brown
-Hair color: brown
-Height: 5'4"
-Weight: 115 lbs
-Breasts: small
-Measurements: 33/22/33
-Shaved: shaved
-Ethnicity: Caucasian
-Bio
+origin: Russian Federation
+debutAge: 22
+url: https://www.metart.com/model/florens
+eyes: brown
+hair: brown
+height: 5'4"
+weight: 115 
+breasts small
+measurements: 33/22/33
+shaved: shaved
+ethnicity Caucasian
+bio
 My hobbies are trying new activities and learning about life, I'm constantly trying to learn new skills - now it's photography and yoga. I like to take my time and do everything measuredly, I like to drink a cup of fragrant tea in the morning and sit by my favorite mirror to do make-up, and then chat on social networks. I can very easily fold my suitcase for a trip and it will be small, the essentials are there - beautiful underwear, sneakers, a mini dress and a power bank, that's all I need. I love to smile, I love to listen to people, I love short skirts, cats and good music on records. I dream of growing my hair to the buttocks and hitchhiking around half the world.
 ---
 name: Lalli
-Debut Age: 23
-https://www.metart.com/model/lalli
-Eye color: blue
-Hair color: blonde
-Height: 5'2"
-Weight: 110 lbs
-Breasts: medium
-Measurements: 33/23/33
-Shaved: shaved
-Ethnicity: Caucasian
+debutAge: 23
+url: https://www.metart.com/model/lalli
+eyes: blue
+hair: blonde
+height: 5'2"
+weight: 110 
+breasts medium
+measurements: 33/23/33
+shaved: shaved
+ethnicity Caucasian
 ---
 name: Abby Margarita
-Ukraine
-Debut Age: 23
-https://www.metart.com/model/abby-margarita
-Eye color: brown
-Hair color: brown
-Height: 5'3"
-Weight: 119 lbs
-Breasts: medium
-Measurements: 34/24/34
-Shaved: shaved
-Ethnicity: Caucasian
-Bio
+origin: Ukraine
+debutAge: 23
+url: https://www.metart.com/model/abby-margarita
+eyes: brown
+hair: brown
+height: 5'3"
+weight: 119 
+breasts medium
+measurements: 34/24/34
+shaved: shaved
+ethnicity Caucasian
+bio
 I am not a professional model, but I am trying very hard to become one. I like being naked in front of the camera and imagining that the whole world is looking at me and wanting me! It turns me on a lot! Maybe in real life I look very modest, I like to read novels, listen to classical music and sometimes I like to be alone... but as soon as I take off all my clothes, I turn into a hurricane of passion and lust!
 ---
 name: Stella Cardo
-Russian Federation
-Debut Age: 24
-https://www.sexart.com/model/stella-cardo
-Eye color: blue
-Hair color: blonde
-Height: 5'7"
-Weight: 117 lbs
-Breasts: large
-Measurements: 34/24/33
-Shaved: shaved
-Ethnicity: Caucasian
----
-name: Cherry Blossom
-Finland
-Debut Age: 20
-https://www.vivthomas.com/model/cherry-blossom
-Eye color: blue
-Hair color: blonde
-Height: 5'9"
-Weight: 119 lbs
-Breasts: medium
-Measurements: 32/24/34
-Shaved: shaved
-Ethnicity: Caucasian
----
-name: Eve Lunny
-Latvia
-Debut Age: 21
-https://www.vivthomas.com/model/eve-lunny
-Eye color: blue
-Hair color: blonde
-Height: 5'5"
-Weight: 117 lbs
-Breasts: medium
-Measurements: 34/25/33
-Shaved: shaved
-Ethnicity: Caucasian
----
-name: Freya Mayer
-Russian Federation
-Debut Age: 21
-https://www.sexart.com/model/freya-mayer
-Eye color: blue
-Hair color: blonde
-Height: 5'5"
-Weight: 115 lbs
-Breasts: medium
-Measurements: 33/24/35
-Shaved: shaved
-Ethnicity: Caucasian
----
-name: Arisha Mills
-Russian Federation
-Debut Age: 18
-https://www.metart.com/model/arisha-mills
-Eye color: green
-Hair color: blonde
-Height: 5'5"
-Weight: 126 lbs
-Breasts: medium
-Measurements: 33/27/38
-Shaved: shaved
-Ethnicity: Caucasian
-bio: I have long dreamed of trying myself as an erotic model. For me, this experience has become special in my life. I plan to further follow up as a nude model and maybe more. I would like to live in a warm country where people do not wear so many clothes, where there is no fuss from the big city. Where people feel free. I would like to find like-minded people and we would organize theme parties, take a lot of photos and walk in nature. Maybe we would go on a hike and sleep naked in a tent.  I would play the guitar for them by the fire, mmm romantic!
----
-name: Alice Mido
-Russian Federation
-Debut Age: 26
-https://www.sexart.com/model/alice-mido
-Eye color: brown
-Hair color: red
-Height: 5'2"
-Weight: 112 lbs
-Breasts: medium
-Measurements: 34/24/34
-Shaved: shaved
-Ethnicity: Caucasian
----
-name: Iskra
-Norway
-Debut Age: 24
-https://www.metart.com/model/iskra
-Eye color: blue
-Hair color: brown
-Height: 5'2"
-Weight: 108 lbs
-Breasts: small
-Measurements: 34/24/35
-Shaved: shaved
-Ethnicity: Caucasian
-Bio: I am an ambitious person with a passion for creativity and exploration. I was born and raised in a bustling city. I have love for photography and writing. My dream is travelling the globe and connecting with people.
----
-name: Michael Fly
-Czech Republic
-Debut Age: 24
-https://www.sexart.com/model/michael-fly
-gender: male
----
-name: Vixi Rafi
-Czech Republic
-Debut Age: 18
-https://www.sexart.com/model/vixi-rafi
-Eye color: green
-Hair color: brown
-Height: 5'9"
-Weight: 128 lbs
-Breasts: small
-Measurements: 35/25/36
-Shaved: shaved
-Ethnicity: Caucasian
----
-name: Flamy Nika
 origin: Russian Federation
-Debut Age: 24
-https://www.sexart.com/model/flamy-nika
-Eye color: green
-Hair color: brown
-Height: 5'5"
-Weight: 115 lbs
-Breasts: medium
-Measurements: 36/25/36
-Shaved: shaved
-Ethnicity: Caucasian
----
-name: Dariana
-origin: Russian Federation
-Debut Age: 24
-https://www.metart.com/model/dariana
-Eye color: brown
-Hair color: brown
-Height: 5'7"
-Weight: 128 lbs
-Breasts: small
-Measurements: 35/24/34
-Shaved: shaved
-Ethnicity: Caucasian
-Bio: If I were a kitty, I would be the fluffiest, most affectionate and softest in the world. I like being a woman. I love translucent clothes and dresses, but I can also be a neighbor girl in shorts and sneakers. I love cooking and trying unusual recipes. I love my long hair, it always smells so good with perfume. In everyday life, I prefer a minimum of makeup and natural skin without shaving. Sometimes I take out a razor for the sake of a photo. It's always fun with me, I like interesting conversations and I never feel sad, because there is little point in this. I dream of my own apartment with a beautiful view of the river and still dream of love.
----
-name: Eve Casta
-origin: France
-Debut Age: 30
-https://www.metart.com/model/eve-casta
-Eye color: blue
-Hair color: blonde
-Height: 5'7"
-Weight: 115 lbs
-Breasts: medium
-Measurements: 33/25/32
-Shaved: trimmed
-Ethnicity: Caucasian
-Bio: I am a quiet, romantic girl, but when I get in front of the camera I get very wild and spontaneous. I like to tease and provoke my viewers. I like to travel and experience new things.
----
-name: Sara Celeste
-origin: Ukraine
-Debut Age: 20
-https://www.metart.com/model/sara-celeste
-Eye color: blue
-Hair color: brown
-Height: 5'3"
-Weight: 110 lbs
-Breasts: small
-Measurements: 34/24/35
-Shaved: shaved
-Ethnicity: Caucasian
-Bio: My favourite things are playing board games, guitar and reading novels.
----
-name: Anastasia Barbi
-origin: Russian Federation
-Debut Age: 24
-https://www.sexart.com/model/anastasia-barbi
-Eye color: green
-Hair color: brown
-Height: 5'6"
-Weight: 119 lbs
-Breasts: medium
-Measurements: 35/23/35
-Shaved: shaved
-Ethnicity: Caucasian
----
-name: Norah Juliette
-origin: Netherlands
-Debut Age: 32
-https://www.vivthomas.com/model/norah-juliette
-Eye color: black
-Hair color: red
-Height: 5'3"
-Weight: 112 lbs
-Breasts: medium
-Measurements: 34/24/34
-Shaved: shaved
-Ethnicity: Caucasian
----
-name: Chica Minori
-origin: Ukraine
-Debut Age: 28
-https://www.vivthomas.com/model/chica-minori
-Eye color: brown
-Hair color: brown
-Height: 5'2"
-Weight: 110 lbs
-Breasts: medium
-Measurements: 33/23/33
-Shaved: shaved
-Ethnicity: Caucasian
----
-name: Eve Sweet
-origin: Romania
-Debut Age: 26
-url: https://www.sexart.com/model/eve-sweet
-Eye color: brown
-Hair color: black
-Height: 5'2"
-Weight: 97 lbs
-Breasts: large
-Measurements: 35/24/33
-Shaved: shaved
-Ethnicity: Caucasian
----
-name: Xenia
-origin: Kazakhstan
-Debut Age: 25
-https://www.metart.com/model/xenia
-Eye color: blue
-Hair color: blonde
-Height: 5'4"
-Weight: 119 lbs
-Breasts: medium
-Measurements: 32/25/34
-Shaved: shaved
-Ethnicity: Caucasian
-Bio: I am a romantic person and I like to dream a lot, but I also work a lot. I love to participate in creative projects and organize shows and parties. I do my shopping online without getting out of bed. I love to cook for others and have been complimented for my delicious dishes. I like spontaneous trips to the sea. I love the sound of the waves and the salty air. I love to communicate on various topics on the Internet, in my social networks I always maintain interesting conversations.
+debutAge: 24
+url: https://www.sexart.com/model/stella-cardo
+eyes: blue
+hair: blonde
+height: 5'7"
+weight: 117 
+breasts large
+measurements: 34/24/33
+shaved: shaved
+ethnicity Caucasian
 ---
 name: Cherry Blossom
 origin: Finland
-Debut Age: 19
+debutAge: 20
+url: https://www.vivthomas.com/model/cherry-blossom
+eyes: blue
+hair: blonde
+height: 5'9"
+weight: 119 
+breasts medium
+measurements: 32/24/34
+shaved: shaved
+ethnicity Caucasian
+---
+name: Eve Lunny
+origin: Latvia
+debutAge: 21
+url: https://www.vivthomas.com/model/eve-lunny
+eyes: blue
+hair: blonde
+height: 5'5"
+weight: 117 
+breasts medium
+measurements: 34/25/33
+shaved: shaved
+ethnicity Caucasian
+---
+name: Freya Mayer
+origin: Russian Federation
+debutAge: 21
+url: https://www.sexart.com/model/freya-mayer
+eyes: blue
+hair: blonde
+height: 5'5"
+weight: 115 
+breasts medium
+measurements: 33/24/35
+shaved: shaved
+ethnicity Caucasian
+---
+name: Arisha Mills
+origin: Russian Federation
+debutAge: 18
+url: https://www.metart.com/model/arisha-mills
+eyes: green
+hair: blonde
+height: 5'5"
+weight: 126 
+breasts medium
+measurements: 33/27/38
+shaved: shaved
+ethnicity Caucasian
+bio: I have long dreamed of trying myself as an erotic model. For me, this experience has become special in my life. I plan to further follow up as a nude model and maybe more. I would like to live in a warm country where people do not wear so many clothes, where there is no fuss from the big city. Where people feel free. I would like to find like-minded people and we would organize theme parties, take a lot of photos and walk in nature. Maybe we would go on a hike and sleep naked in a tent.  I would play the guitar for them by the fire, mmm romantic!
+---
+name: Alice Mido
+origin: Russian Federation
+debutAge: 26
+url: https://www.sexart.com/model/alice-mido
+eyes: brown
+hair: red
+height: 5'2"
+weight: 112 
+breasts medium
+measurements: 34/24/34
+shaved: shaved
+ethnicity Caucasian
+---
+name: Iskra
+origin: Norway
+debutAge: 24
+url: https://www.metart.com/model/iskra
+eyes: blue
+hair: brown
+height: 5'2"
+weight: 108 
+breasts small
+measurements: 34/24/35
+shaved: shaved
+ethnicity Caucasian
+bio: I am an ambitious person with a passion for creativity and exploration. I was born and raised in a bustling city. I have love for photography and writing. My dream is travelling the globe and connecting with people.
+---
+name: Michael Fly
+origin: Czech Republic
+debutAge: 24
+url: https://www.sexart.com/model/michael-fly
+gender: male
+---
+name: Vixi Rafi
+origin: Czech Republic
+debutAge: 18
+url: https://www.sexart.com/model/vixi-rafi
+eyes: green
+hair: brown
+height: 5'9"
+weight: 128 
+breasts small
+measurements: 35/25/36
+shaved: shaved
+ethnicity Caucasian
+---
+name: Flamy Nika
+origin: Russian Federation
+debutAge: 24
+url: https://www.sexart.com/model/flamy-nika
+eyes: green
+hair: brown
+height: 5'5"
+weight: 115 
+breasts medium
+measurements: 36/25/36
+shaved: shaved
+ethnicity Caucasian
+---
+name: Dariana
+origin: Russian Federation
+debutAge: 24
+url: https://www.metart.com/model/dariana
+eyes: brown
+hair: brown
+height: 5'7"
+weight: 128 
+breasts small
+measurements: 35/24/34
+shaved: shaved
+ethnicity Caucasian
+bio: If I were a kitty, I would be the fluffiest, most affectionate and softest in the world. I like being a woman. I love translucent clothes and dresses, but I can also be a neighbor girl in shorts and sneakers. I love cooking and trying unusual recipes. I love my long hair, it always smells so good with perfume. In everyday life, I prefer a minimum of makeup and natural skin without shaving. Sometimes I take out a razor for the sake of a photo. It's always fun with me, I like interesting conversations and I never feel sad, because there is little point in this. I dream of my own apartment with a beautiful view of the river and still dream of love.
+---
+name: Eve Casta
+origin: France
+debutAge: 30
+url: https://www.metart.com/model/eve-casta
+eyes: blue
+hair: blonde
+height: 5'7"
+weight: 115 
+breasts medium
+measurements: 33/25/32
+shaved: trimmed
+ethnicity Caucasian
+bio: I am a quiet, romantic girl, but when I get in front of the camera I get very wild and spontaneous. I like to tease and provoke my viewers. I like to travel and experience new things.
+---
+name: Sara Celeste
+origin: Ukraine
+debutAge: 20
+url: https://www.metart.com/model/sara-celeste
+eyes: blue
+hair: brown
+height: 5'3"
+weight: 110 
+breasts small
+measurements: 34/24/35
+shaved: shaved
+ethnicity Caucasian
+bio: My favourite things are playing board games, guitar and reading novels.
+---
+name: Anastasia Barbi
+origin: Russian Federation
+debutAge: 24
+url: https://www.sexart.com/model/anastasia-barbi
+eyes: green
+hair: brown
+height: 5'6"
+weight: 119 
+breasts medium
+measurements: 35/23/35
+shaved: shaved
+ethnicity Caucasian
+---
+name: Norah Juliette
+origin: Netherlands
+debutAge: 32
+url: https://www.vivthomas.com/model/norah-juliette
+eyes: black
+hair: red
+height: 5'3"
+weight: 112 
+breasts medium
+measurements: 34/24/34
+shaved: shaved
+ethnicity Caucasian
+---
+name: Chica Minori
+origin: Ukraine
+debutAge: 28
+url: https://www.vivthomas.com/model/chica-minori
+eyes: brown
+hair: brown
+height: 5'2"
+weight: 110 
+breasts medium
+measurements: 33/23/33
+shaved: shaved
+ethnicity Caucasian
+---
+name: Eve Sweet
+origin: Romania
+debutAge: 26
+url: https://www.sexart.com/model/eve-sweet
+eyes: brown
+hair: black
+height: 5'2"
+weight: 97 
+breasts large
+measurements: 35/24/33
+shaved: shaved
+ethnicity Caucasian
+---
+name: Xenia
+origin: Kazakhstan
+debutAge: 25
+url: https://www.metart.com/model/xenia
+eyes: blue
+hair: blonde
+height: 5'4"
+weight: 119 
+breasts medium
+measurements: 32/25/34
+shaved: shaved
+ethnicity Caucasian
+bio: I am a romantic person and I like to dream a lot, but I also work a lot. I love to participate in creative projects and organize shows and parties. I do my shopping online without getting out of bed. I love to cook for others and have been complimented for my delicious dishes. I like spontaneous trips to the sea. I love the sound of the waves and the salty air. I love to communicate on various topics on the Internet, in my social networks I always maintain interesting conversations.
+---
+name: Cherry Blossom
+origin: Finland
+debutAge: 19
 url: https://www.metart.com/model/cherry-blossom
-Eye color: blue
-Hair color: blonde
-Height: 5'9"
-Weight: 119 lbs
-Breasts: medium
-Measurements: 32/24/34
-Shaved: shaved
-Ethnicity: Caucasian
-Bio: I am open minded and passionate about music. I'm currently trying to balance studies, personal growth and adventures. I am on a journey of self-discovery and ready for new experiments. Always positive. Trying to adult, but still not sure how to do laundry.
+eyes: blue
+hair: blonde
+height: 5'9"
+weight: 119 
+breasts medium
+measurements: 32/24/34
+shaved: shaved
+ethnicity Caucasian
+bio: I am open minded and passionate about music. I'm currently trying to balance studies, personal growth and adventures. I am on a journey of self-discovery and ready for new experiments. Always positive. Trying to adult, but still not sure how to do laundry.
 ---
 name: Monika May
 origin: Ukraine
-Debut Age: 28
+debutAge: 28
 url: https://www.sexart.com/model/monika-may
-Eye color: brown
-Hair color: brown
-Height: 5'1"
-Weight: 93 lbs
-Breasts: medium
-Measurements: 34/24/34
-Shaved: shaved
-Ethnicity: Caucasian
+eyes: brown
+hair: brown
+height: 5'1"
+weight: 93 
+breasts medium
+measurements: 34/24/34
+shaved: shaved
+ethnicity Caucasian
 ---
 name: Toree
 origin: Ukraine
-Debut Age: 21
+debutAge: 21
 url: https://www.metart.com/model/toree
-Eye color: blue
-Hair color: brown
-Height: 5'4"
-Weight: 99 lbs
-Breasts: medium
-Measurements: 31/23/30
-Shaved: shaved
-Bio: My dream in live is to become a famous actress. I love animals and have 2 dogs. When I'm not is school, I like to go to the movies and hang out with my friends. I love to go to nice restaurants and flirt with boys.
+eyes: blue
+hair: brown
+height: 5'4"
+weight: 99 
+breasts medium
+measurements: 31/23/30
+shaved: shaved
+bio: My dream in live is to become a famous actress. I love animals and have 2 dogs. When I'm not is school, I like to go to the movies and hang out with my friends. I love to go to nice restaurants and flirt with boys.
 ---
 name: Kris Si
 origin: Russian Federation
-Debut Age: 22
+debutAge: 22
 url: https://www.metart.com/model/kris-si
-Eye color: green
-Hair color: black
-Height: 5'6"
-Weight: 110 lbs
-Breasts: small
-Measurements: 33/26/34
-Shaved: shaved
-Ethnicity: Caucasian
-Bio: I am a calm, adventurous girl. I like men that are attentive, chivalrous, generosity, witty. A man with manners turns me on. I love pizza and horses and would love to travel through Asia.
+eyes: green
+hair: black
+height: 5'6"
+weight: 110 
+breasts small
+measurements: 33/26/34
+shaved: shaved
+ethnicity Caucasian
+bio: I am a calm, adventurous girl. I like men that are attentive, chivalrous, generosity, witty. A man with manners turns me on. I love pizza and horses and would love to travel through Asia.
 ---
 name: Ashly Rabbit
 origin: Russian Federation
-Debut Age: 24
+debutAge: 24
 url: https://www.metart.com/model/ashly-rabbit
-Eye color: brown
-Hair color: brown
-Height: 5'5"
-Weight: 117 lbs
-Breasts: small
-Measurements: 32/24/34
-Shaved: shaved
-Ethnicity: Caucasian
-Bio: I love travelling to warm countries because I love swimming in the sea. I love to spend time outside. My favourite thing to do is lay in the sun and reading a good book.
+eyes: brown
+hair: brown
+height: 5'5"
+weight: 117 
+breasts small
+measurements: 32/24/34
+shaved: shaved
+ethnicity Caucasian
+bio: I love travelling to warm countries because I love swimming in the sea. I love to spend time outside. My favourite thing to do is lay in the sun and reading a good book.
 ---
 name: Namy Asian
 origin: Thailand
-Debut Age: 28
+debutAge: 28
 url: https://www.metart.com/model/namy-asian
-Eye color: brown
-Hair color: black
-Height: 5'0"
-Weight: 86 lbs
-Breasts: small
-Measurements: 28/25/28
-Shaved: shaved
-Ethnicity: Asian
-Bio: Hi there, I'm Namy Asian. I'm currently into modeling and learning about programming online. Just call me a computer nerd. I'm proud to be Filipina and even though I'm only 5" tall, people love my natural beauty and petite figure. But there's more to me than just looks. I dream of making a difference in the world like Elon Musk by working on big global projects. I'm a bit of a nerd, I love playing games, editing videos (even the X-rated ones), and soaking up knowledge daily. Right now, I'm focused on building my modeling career and learning from the best in the industry.
+eyes: brown
+hair: black
+height: 5'0"
+weight: 86 
+breasts small
+measurements: 28/25/28
+shaved: shaved
+ethnicity Asian
+bio: Hi there, I'm Namy Asian. I'm currently into modeling and learning about programming online. Just call me a computer nerd. I'm proud to be Filipina and even though I'm only 5" tall, people love my natural beauty and petite figure. But there's more to me than just looks. I dream of making a difference in the world like Elon Musk by working on big global projects. I'm a bit of a nerd, I love playing games, editing videos (even the X-rated ones), and soaking up knowledge daily. Right now, I'm focused on building my modeling career and learning from the best in the industry.
 ---
 name: Monika May
 origin: Ukraine
-Debut Age: 28
-https://www.sexart.com/model/monika-may
-Eye color: brown
-Hair color: brown
-Height: 5'1"
-Weight: 93 lbs
-Breasts: medium
-Measurements: 34/24/34
-Shaved: shaved
-Ethnicity: Caucasian
+debutAge: 28
+url: https://www.sexart.com/model/monika-may
+eyes: brown
+hair: brown
+height: 5'1"
+weight: 93 
+breasts medium
+measurements: 34/24/34
+shaved: shaved
+ethnicity Caucasian
 ---
 name: Tracy Anders
 origin: United Kingdom
-Debut Age: 21
+debutAge: 21
 url: https://www.metart.com/model/tracy-anders
-Eye color: blue
-Hair color: blonde
-Height: 5'10"
-Weight: 143 lbs
-Breasts: large
-Measurements: 37/25/38
-Shaved: shaved
-Ethnicity: Caucasian
-Bio: Sometimes I feel that the best moments in life are those quiet morning walks, when the air is cool and the sun is just touching the trees. I breathe in the freshness, listen to the leaves, and feel completely at peace. I usually take a book with me, a romantic novel, of course. I love losing myself in stories about tenderness, unexpected meetings, and feelings that grow slowly between the lines. Sometimes those stories echo something I secretly hope for myself. Sitting on a park bench with a book, pausing to watch the birds or the people passing by, that's when I feel most alive. Nature calms me, romance warms me, and I keep a small belief that beautiful stories happen in real life too.
+eyes: blue
+hair: blonde
+height: 5'10"
+weight: 143 
+breasts large
+measurements: 37/25/38
+shaved: shaved
+ethnicity Caucasian
+bio: Sometimes I feel that the best moments in life are those quiet morning walks, when the air is cool and the sun is just touching the trees. I breathe in the freshness, listen to the leaves, and feel completely at peace. I usually take a book with me, a romantic novel, of course. I love losing myself in stories about tenderness, unexpected meetings, and feelings that grow slowly between the lines. Sometimes those stories echo something I secretly hope for myself. Sitting on a park bench with a book, pausing to watch the birds or the people passing by, that's when I feel most alive. Nature calms me, romance warms me, and I keep a small belief that beautiful stories happen in real life too.
 ---
 name: Carolina Guerrero
 origin: Colombia
-Debut Age: 20
+debutAge: 20
 url: https://www.metart.com/model/carolina-guerrero
-Eye color: brown
-Hair color: black
-Height: 5'2"
-Weight: 106 lbs
-Breasts: small
-Measurements: 33/24/36
-Shaved: shaved
-Ethnicity: Hispanic
-Bio: I am a sweet, tender, sentimental and outgoing girl. I like sincerity. I like sports and I practice urban skating. I enjoy walking, reading and traveling. I love exploring different cultures. I like kind people. I love animals. On my farm I have 2 dogs and a crazy goat. I also have hens, rabbits and ducks. I would love to have many more animals.
+eyes: brown
+hair: black
+height: 5'2"
+weight: 106 
+breasts small
+measurements: 33/24/36
+shaved: shaved
+ethnicity Hispanic
+bio: I am a sweet, tender, sentimental and outgoing girl. I like sincerity. I like sports and I practice urban skating. I enjoy walking, reading and traveling. I love exploring different cultures. I like kind people. I love animals. On my farm I have 2 dogs and a crazy goat. I also have hens, rabbits and ducks. I would love to have many more animals.
 ---
 name: Neesa
 origin: Ukraine
-Debut Age: 20
+debutAge: 20
 url: https://www.sexart.com/model/neesa
-Eye color: brown
-Hair color: brown
-Height: 4'11"
-Weight: 106 lbs
-Breasts: medium
-Measurements: 37/23/35
-Shaved: shaved
-Ethnicity: Caucasian
+eyes: brown
+hair: brown
+height: 4'11"
+weight: 106 
+breasts medium
+measurements: 37/23/35
+shaved: shaved
+ethnicity Caucasian
 ---
 name: Jasmin
 origin: Russian Federation
-Debut Age: 22
+debutAge: 22
 url: https://www.metart.com/model/jasmin
-Eye color: brown
-Hair color: brown
-Height: 6'1"
-Weight: 143 lbs
-Breasts: medium
-Measurements: 34/24/36
-Shaved: shaved
-Ethnicity: Caucasian
-Bio: Not a long time ago I tried myself as a web model. An experienced person in this business said that I could become a top model. I found it interesting. A new virtual world opened up for me: I dance and communicate with people on the other side of the camera, sometimes I even play the piano on my stream and get a lot of compliments - it's wonderful! Usually I turn on slow, varied music and dance, slowly exposing my body, I love to drive men crazy, I like to seduce and tease them. I am also interested in vocals and music, painting and everything creative. I love to give joy and positive emotions to people, this also charges me with super positive energy too.
+eyes: brown
+hair: brown
+height: 6'1"
+weight: 143 
+breasts medium
+measurements: 34/24/36
+shaved: shaved
+ethnicity Caucasian
+bio: Not a long time ago I tried myself as a web model. An experienced person in this business said that I could become a top model. I found it interesting. A new virtual world opened up for me: I dance and communicate with people on the other side of the camera, sometimes I even play the piano on my stream and get a lot of compliments - it's wonderful! Usually I turn on slow, varied music and dance, slowly exposing my body, I love to drive men crazy, I like to seduce and tease them. I am also interested in vocals and music, painting and everything creative. I love to give joy and positive emotions to people, this also charges me with super positive energy too.
 ---
 name: Julia Morozzi
 origin: Russian Federation
-Debut Age: 23
+debutAge: 23
 url: https://www.metart.com/model/julia-morozzi
-Eye color: hazel
-Hair color: brown
-Height: 5'7"
-Weight: 115 lbs
-Breasts: small
-Measurements: 34/26/34
-Shaved: shaved
-Ethnicity: Caucasian
-Bio: Hello, my name is Julia Morozzi. I am a full-time student at the institute and I hope to some day become a meteorologist. Currently, I want to expand my modeling portfolio with talented photographers! I speak a little English. My hobbies are sports, singing and playing pranks ;)
+eyes: hazel
+hair: brown
+height: 5'7"
+weight: 115 
+breasts small
+measurements: 34/26/34
+shaved: shaved
+ethnicity Caucasian
+bio: Hello, my name is Julia Morozzi. I am a full-time student at the institute and I hope to some day become a meteorologist. Currently, I want to expand my modeling portfolio with talented photographers! I speak a little English. My hobbies are sports, singing and playing pranks ;)
 ---
 name: Lexi Dona
 origin: Czech Republic
-Debut Age: 21
+debutAge: 21
 url: https://www.sexart.com/model/lexi-dona
-Eye color: hazel
-Hair color: black
-Height: 5'3"
-Weight: 104 lbs
-Measurements: 30/22/34
-Shaved: shaved
-Ethnicity: Caucasian
+eyes: hazel
+hair: black
+height: 5'3"
+weight: 104 
+measurements: 30/22/34
+shaved: shaved
+ethnicity Caucasian
 ---
 name: Dragon Fruit
 origin: Czech Republic
-Debut Age: 26
+debutAge: 26
 url: https://www.sexart.com/model/dragon-fruit
-Eye color: blue
-Hair color: brown
-Height: 4'11"
-Weight: 88 lbs
-Breasts: small
-Measurements: 30/23/30
-Shaved: trimmed
-Ethnicity: Caucasian
+eyes: blue
+hair: brown
+height: 4'11"
+weight: 88 
+breasts small
+measurements: 30/23/30
+shaved: trimmed
+ethnicity Caucasian
 ---
 name: Perry Layne
 origin: Czech Republic
-Debut Age: 38
+debutAge: 38
 url: https://www.sexart.com/model/perry-layne
 gender: male
 ---
 name: Megan Love
 origin: Venezuela
-Debut Age: 24
+debutAge: 24
 url: https://www.sexart.com/model/megan-love
-Height: 5'4"
-Weight: 115 lbs
-Measurements: 34/24/34
+height: 5'4"
+weight: 115 
+measurements: 34/24/34
 ---
 name: Betzz
 origin: Czech Republic
-Debut Age: 23
+debutAge: 23
 url: https://www.sexart.com/model/betzz
-Eye color: hazel
-Hair color: brown
-Height: 5'6"
-Weight: 110 lbs
-Breasts: medium
-Measurements: 33/23/33
-Shaved: shaved
-Ethnicity: Caucasian
+eyes: hazel
+hair: brown
+height: 5'6"
+weight: 110 
+breasts medium
+measurements: 33/23/33
+shaved: shaved
+ethnicity Caucasian
 ---
+name: Nikoleta
+origin: Latvia
+debutAge: 18
+url: https://www.metart.com/model/nikoleta
+eyes: blue
+hair: blonde
+height: 5'4"
+weight: 110 
+breasts medium
+measurements: 32/25/34
+shaved: shaved
+bio: Hi, my name is Nikoleta. I am very femine. I love dresses, skirts, beautiful lingerie. I never tried alcohol or smoke. I dream about big family and 4 children. My favorite pastime is massages. I believe in God. And I am a good girl with a little of pepper.
+---
+name: Lilly Bella
+origin: Czech Republic
+debutAge: 18
+url: https://www.sexart.com/model/lilly-bella
+eyes: blue
+hair: black
+height: 5'1"
+weight: 115 
+breasts medium
+measurements: 34/24/34
+shaved: shaved
+ethnicity Caucasian
+---
+name: Una
+origin: Russian Federation
+debutAge: 19
+url: https://www.metart.com/model/una
+eyes: blue
+hair: brown
+height: 5'4"
+weight: 106 
+breasts small
+measurements: 32/23/34
+shaved: shaved
+ethnicity Caucasian
+bio: I am a student and just an active young girl. I really like to try everything new, I play sports, improve a foreign language, take a lot of scientific part -time jobs and will soon finish the university. I love to walk and study new cities, I love traveling, I professionally play billiards and participate in competitions. I love animals, especially fluffy dogs. I smile a lot and see our world as kind and beautiful. My friends say that I am very sweet and romantic, but at the same time smart and hardworking.
+---
+name: Bella Donna
+origin: United States
+debutAge: 28
+url: https://www.metart.com/model/bella-donna
+eyes: green
+hair: brown
+height: 5'7"
+weight: 126 
+breasts small
+measurements: 32/27/38
+shaved: trimmed
+ethnicity Hispanic
+bio: I enjoy to stay active and go hiking and snorkeling. I also appreciate my quiet time alone at home with a good book. My favorite features are my olive skin and green eyes. I'm half Spanish but was born and raised in the US.
+---
+name: Stefania James
+origin: Russian Federation
+debutAge: 21
+url: https://www.sexart.com/model/stefania-james
+eyes: brown
+hair: brown
+height: 5'6"
+weight: 108 
+breasts medium
+measurements: 34/23/34
+shaved: shaved
+ethnicity Caucasian
+---
+name: Wikki K
+origin: Ukraine
+debutAge: 23
+url: https://www.sexart.com/model/wikki-k
+eyes: brown
+hair: black
+height: 5'4"
+weight: 101 
+breasts medium
+measurements: 34/24/34
+shaved: shaved
+ethnicity Caucasian
+---
+name: Julia Morozzi
+origin: Russian Federation
+debutAge: 23
+url: https://www.vivthomas.com/model/julia-morozzi
+eyes: hazel
+hair: brown
+height: 5'7"
+weight: 115 
+breasts small
+measurements: 34/26/34
+shaved: shaved
+ethnicity Caucasian
+---
+name: Sata Jones
+origin: Russian Federation
+debutAge: 31
+url: https://www.vivthomas.com/model/sata-jones
+eyes: green
+hair: blonde
+height: 5'6"
+weight: 119 
+breasts medium
+measurements: 35/25/35
+shaved: shaved
+ethnicity Caucasian
