@@ -10,8 +10,8 @@ s@lbs$@@
 s@^Breasts:@breasts@
 s@^Measurements:@measurements:@
 s@^Shaved:@shaved:@
-s@^Ethnicity:@ethnicity@
-s@^Bio@bio@
+s@^Ethnicity:@ethnicity:@
+s@^Bio$@bio:@
 
 s@^Belarus@origin: Belarus@
 s@^Colombia@origin: Colombia@
@@ -24,6 +24,7 @@ s@^Latvia@origin: Latvia@
 s@^Netherlands@origin: Netherlands@
 s@^Norway@origin: Norway@
 s@^Norway@origin: Norway@
+s@^Poland@origin: Poland@
 s@^Romania@origin: Romania@
 s@^Russian Federation@origin: Russian Federation@
 s@^Spain@origin: Spain@
