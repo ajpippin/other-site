@@ -33,3 +33,7 @@ s@^Ukraine@origin: Ukraine@
 s@^United Kingdom@origin: United Kingdom@
 s@^United States@origin: United States@
 s@^Venezuela@origin: Venezuela@
+
+s@^type: movie$@type: Movie@
+s@^type: gallery$@type: Gallery@
+s@^type: cast$@type: Cast@
