@@ -12,6 +12,7 @@ s@^Measurements:@measurements:@
 s@^Shaved:@shaved:@
 s@^Ethnicity:@ethnicity:@
 s@^Bio$@bio:@
+s@^Bio:@bio:@
 
 s@^Belarus@origin: Belarus@
 s@^Colombia@origin: Colombia@
