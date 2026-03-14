@@ -15,6 +15,7 @@ s@^Bio$@bio:@
 s@^Bio:@bio:@
 
 s@^Belarus@origin: Belarus@
+s@^Estonia@origin: Estonia@
 s@^Colombia@origin: Colombia@
 s@^Czech Republic@origin: Czech Republic@
 s@^Finland@origin: Finland@
@@ -25,6 +26,7 @@ s@^Latvia@origin: Latvia@
 s@^Netherlands@origin: Netherlands@
 s@^Norway@origin: Norway@
 s@^Norway@origin: Norway@
+s@^Portugal@origin: Portugal@
 s@^Poland@origin: Poland@
 s@^Romania@origin: Romania@
 s@^Russian Federation@origin: Russian Federation@
@@ -34,6 +36,7 @@ s@^Ukraine@origin: Ukraine@
 s@^United Kingdom@origin: United Kingdom@
 s@^United States@origin: United States@
 s@^Venezuela@origin: Venezuela@
+s@^Vietnam@origin: Vietnam@
 
 s@^type: movie$@type: Movie@
 s@^type: gallery$@type: Gallery@
