@@ -7,7 +7,7 @@ s@^Height:@height:@
 s@''$@"@
 s@^Weight:@weight:@
 s@lbs$@@
-s@^Breasts:@breasts@
+s@^Breasts:@breasts:@
 s@^Measurements:@measurements:@
 s@^Shaved:@shaved:@
 s@^Ethnicity:@ethnicity:@
