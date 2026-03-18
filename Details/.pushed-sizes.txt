@@ -1,3 +1,4 @@
+  Directory: /Users/andy/Downloads/z-MA                                                                                                                                                 [08:31:00]
   Directory: /Users/andy/Downloads/z-MA                                                                                                         [10:40:29]
   Directory: /Users/andy/Downloads/z-MA                                                                                                         [10:52:05]
   Directory: /Users/andy/Downloads/z-MA                                                                                                         [11:46:38]
@@ -33,9 +34,13 @@
   Directory: /Users/andy/Downloads/z-MA                                                                                                         [12:54:47]
   Directory: /Users/andy/Downloads/z-MA                                                                                                         [12:55:00]
   Directory: /Users/andy/Downloads/z-MA                                                                                                         [12:55:32]
+  Directory: /Users/andy/Downloads/z-MA                                                                                                         [13:14:43]
+  Directory: /Users/andy/Downloads/z-MA                                              [08:30:38]
+  Directory: /Users/andy/Downloads/z-MA                                              [08:32:23]
   Directory: /Users/andy/Downloads/z-MA                                              [10:34:40]
 -------------------------------------------------------------------------------------------------
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 file: p:MetArt-20260301-balcony-daydream.jpg; k:68; t:jpg; o:portrait;
 file: p:MetArt-20260301-balcony-daydream.zip; k:327744; n:114; t:zip;
 file: p:MetArt-20260301-bedside-mischief.jpg; k:92; t:jpg; o:portrait;
@@ -194,10 +199,19 @@ file: p:MetArt-20260317-pillow-playtime-high.zip; k:246288; n:113; t:zip;
 file: p:MetArt-20260317-pillow-playtime-tall.jpg; k:88; t:jpg; o:portrait;
 file: p:MetArt-20260317-presenting-lila-rose-high.zip; k:852496; n:123; t:zip;
 file: p:MetArt-20260317-presenting-lila-rose-tall.jpg; k:84; t:jpg; o:portrait;
+file: p:MetArt-20260317-warm-and-spicy-2_F-1080.mp4; k:328192; t:mp4; r:1080p;
 file: p:MetArt-20260317-warm-and-spicy-2_F-1080.mp4; k:328592; t:mp4; r:1080p;
 file: p:MetArt-20260317-warm-and-spicy-2_F-2160.mp4; k:1852208; t:mp4; r:2160p;
 file: p:MetArt-20260317-warm-and-spicy-2_F-tall.jpg; k:56; t:jpg; o:portrait;
 file: p:MetArt-20260317-warm-and-spicy-2_F-wide.jpg; k:140; t:jpg; o:landscape;
+file: p:MetArt-20260318-fairytales-high.zip; k:409760; n:121; t:zip;
+file: p:MetArt-20260318-fairytales-tall.jpg; k:132; t:jpg; o:portrait;
+file: p:MetArt-20260318-mellow-magnetism-high.zip; k:443008; n:118; t:zip;
+file: p:MetArt-20260318-mellow-magnetism-tall.jpg; k:96; t:jpg; o:portrait;
+file: p:MetArt-20260318-simply-her-high.zip; k:278816; n:116; t:zip;
+file: p:MetArt-20260318-simply-her-tall.jpg; k:80; t:jpg; o:portrait;
+file: p:MetArt-20260318-tantalizing-treat-high.zip; k:196720; n:124; t:zip;
+file: p:MetArt-20260318-tantalizing-treat-tall.jpg; k:92; t:jpg; o:portrait;
 file: p:SexArt-20260301-this-is-the-moment_MF-1080.mp4; k:1712492; t:mp4; r:1080p;
 file: p:SexArt-20260301-this-is-the-moment_MF-2160.mp4; k:16961928; t:mp4; r:2160p;
 file: p:SexArt-20260301-this-is-the-moment_MF-high.zip; k:91332; n:44; t:zip;
@@ -269,6 +283,11 @@ file: p:SexArt-20260316-floral-notes-high.zip; k:884992; n:124; t:zip;
 file: p:SexArt-20260316-floral-notes-tall.jpg; k:172; t:jpg; o:portrait;
 file: p:SexArt-20260317-sporty-sweet-high.zip; k:541536; n:121; t:zip;
 file: p:SexArt-20260317-sporty-sweet-tall.jpg; k:100; t:jpg; o:portrait;
+file: p:SexArt-20260318-private-moment_MF-1080.mp4; k:1474704; t:mp4; r:1080p;
+file: p:SexArt-20260318-private-moment_MF-2160.mp4; k:14598848; t:mp4; r:2160p;
+file: p:SexArt-20260318-private-moment_MF-high.zip; k:361376; n:105; t:zip;
+file: p:SexArt-20260318-private-moment_MF-tall.jpg; k:84; t:jpg; o:portrait;
+file: p:SexArt-20260318-private-moment_MF-wide.jpg; k:144; t:jpg; o:landscape;
 file: p:SexArt-20261111-test1-1080.mp4; k:0; t:mp4; r:1080p;
 file: p:SexArt-20261111-test1-2160.mp4; k:0; t:mp4; r:2160p;
 file: p:SexArt-20261111-test2-1080.mp4; k:0; t:mp4; r:1080p;
@@ -308,4 +327,5 @@ file: p:VivThomas-20260317-just-a-little-closer-.zip; k:148016; n:104; t:zip;
 file: p:VivThomas-20260317-just-a-little-closer-high.zip; k:133316; n:104; t:zip;
 file: p:VivThomas-20260317-just-a-little-closer-tall.jpg; k:676; t:jpg; o:portrait;
 file: p:VivThomas-20260317-mutual-delight-tall.jpg; k:84; t:jpg; o:portrait;
+file: p:VivThomas-20260317-mutual-delight-tall.zip; k:757556; n:153; t:zip;
 file: p:VivThomas-20260317-mutual-delight-tall.zip; k:770784; n:153; t:zip;
