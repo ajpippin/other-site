@@ -2,6 +2,8 @@
   Directory: /Users/andy/Downloads/z-MAD                                                                                                                                      [09:10:00]
   Directory: /Users/andy/Downloads/z-MAD                                                                                                        [15:07:59]
   Directory: /Users/andy/Downloads/z-MAD                                             [10:16:22]
+  Directory: /Users/andy/Downloads/z-MAD                                             [10:49:05]
+  Directory: /Users/andy/Downloads/z-MAD                                             [10:54:29]
   Directory: /Users/andy/Downloads/z-MAD                                             [14:39:00]
   Directory: /Users/andy/Downloads/z-MAD                                             [15:07:47]
   Directory: /Users/andy/Downloads/z-MAD                                             [15:26:58]
@@ -9,6 +11,10 @@
 -------------------------------------------------------------------------------------------------
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+file: p:MetArt-20260111-short-stroll-1080.mp4; k:724420; t:mp4; r:1080p;
+file: p:MetArt-20260111-short-stroll-2160.mp4; k:3578384; t:mp4; r:2160p;
+file: p:MetArt-20260111-short-stroll-tall.jpg; k:68; t:jpg; o:portrait;
+file: p:MetArt-20260111-short-stroll-wide.jpg; k:108; t:jpg; o:landscape;
 file: p:MetArt-20260301-balcony-daydream.jpg; k:68; t:jpg; o:portrait;
 file: p:MetArt-20260301-balcony-daydream.zip; k:327744; n:114; t:zip;
 file: p:MetArt-20260301-bedside-mischief.jpg; k:92; t:jpg; o:portrait;
@@ -317,6 +323,18 @@ file: p:MetArt-20260401-scarlet-in-the-sky.jpg; k:100; t:jpg; o:portrait;
 file: p:MetArt-20260401-scarlet-in-the-sky.zip; k:328032; n:123; t:zip;
 file: p:MetArt-20260401-sweet-and-subtle.jpg; k:120; t:jpg; o:portrait;
 file: p:MetArt-20260401-sweet-and-subtle.zip; k:442976; n:104; t:zip;
+file: p:MetArt-20260402-flowing-through-you-1.jpg; k:76; t:jpg; o:portrait;
+file: p:MetArt-20260402-flowing-through-you-1.zip; k:676124; n:123; t:zip;
+file: p:MetArt-20260402-houndstooth-honey.jpg; k:64; t:jpg; o:portrait;
+file: p:MetArt-20260402-houndstooth-honey.zip; k:455752; n:124; t:zip;
+file: p:MetArt-20260402-leg-love-4k.mp4; k:2868096; t:mp4; r:1080p;
+file: p:MetArt-20260402-leg-love-4k.mp4; k:2868096; t:mp4; r:2160p;
+file: p:MetArt-20260402-leg-love.jpg; k:112; t:jpg; o:portrait;
+file: p:MetArt-20260402-leg-love.mp4; k:492480; t:mp4; r:1080p;
+file: p:MetArt-20260402-private-ritual.jpg; k:84; t:jpg; o:portrait;
+file: p:MetArt-20260402-private-ritual.zip; k:278768; n:113; t:zip;
+file: p:MetArt-20260402-sweet-simplicity.jpg; k:92; t:jpg; o:portrait;
+file: p:MetArt-20260402-sweet-simplicity.zip; k:574080; n:122; t:zip;
 file: p:SexArt-20260301-this-is-the-moment_MF-1080.mp4; k:1712492; t:mp4; r:1080p;
 file: p:SexArt-20260301-this-is-the-moment_MF-2160.mp4; k:16961928; t:mp4; r:2160p;
 file: p:SexArt-20260301-this-is-the-moment_MF-high.zip; k:91332; n:44; t:zip;
@@ -440,15 +458,19 @@ file: p:SexArt-20260330-loving-ladies-high.zip; k:344080; n:124; t:zip;
 file: p:SexArt-20260330-loving-ladies-tall.jpg; k:104; t:jpg; o:portrait;
 file: p:SexArt-20260331-vivid-desires-high.zip; k:540864; n:111; t:zip;
 file: p:SexArt-20260331-vivid-desires-tall.jpg; k:92; t:jpg; o:portrait;
-file: p:SexArt-20260401-infinite-desire-4k.mp4; k:15778048; t:mp4; r:1080p;
 file: p:SexArt-20260401-infinite-desire-4k.mp4; k:15778048; t:mp4; r:2160p;
 file: p:SexArt-20260401-infinite-desire.jpg; k:104; t:jpg; o:portrait;
 file: p:SexArt-20260401-infinite-desire.mp4; k:1590048; t:mp4; r:1080p;
 file: p:SexArt-20260401-infinite-desire.zip; k:459184; n:130; t:zip;
+file: p:SexArt-20260402-sheer-sensation.jpg; k:60; t:jpg; o:portrait;
+file: p:SexArt-20260402-sheer-sensation.zip; k:262880; n:123; t:zip;
 file: p:SexArt-20261111-test1-1080.mp4; k:0; t:mp4; r:1080p;
 file: p:SexArt-20261111-test1-2160.mp4; k:0; t:mp4; r:2160p;
 file: p:SexArt-20261111-test2-1080.mp4; k:0; t:mp4; r:1080p;
 file: p:SexArt-20261111-test2-2160.mp4; k:0; t:mp4; r:2160p;
+file: p:VivThomas-20260224-two-flames-in-gold-1080.mp4; k:1682020; t:mp4; r:1080p;
+file: p:VivThomas-20260224-two-flames-in-gold-2160.mp4; k:7938572; t:mp4; r:2160p;
+file: p:VivThomas-20260224-two-flames-in-gold-tall.jpg; k:92; t:jpg; o:portrait;
 file: p:VivThomas-20260301-sultry-elegance.jpg; k:76; t:jpg; o:portrait;
 file: p:VivThomas-20260301-sultry-elegance.zip; k:1180208; n:157; t:zip;
 file: p:VivThomas-20260303-dressed-to-thrill.jpg; k:84; t:jpg; o:portrait;
@@ -505,3 +527,7 @@ file: p:VivThomas-20260329-taking-them-off-high.zip; k:639648; n:118; t:zip;
 file: p:VivThomas-20260329-taking-them-off-tall.jpg; k:88; t:jpg; o:portrait;
 file: p:VivThomas-20260331-blissful-distraction-high.zip; k:890640; n:119; t:zip;
 file: p:VivThomas-20260331-blissful-distraction-tall.jpg; k:96; t:jpg; o:portrait;
+file: p:VivThomas-20260402-julias-new-experience-5-4k.mp4; k:6374144; t:mp4; r:1080p;
+file: p:VivThomas-20260402-julias-new-experience-5-4k.mp4; k:6374144; t:mp4; r:2160p;
+file: p:VivThomas-20260402-julias-new-experience-5.jpg; k:92; t:jpg; o:portrait;
+file: p:VivThomas-20260402-julias-new-experience-5.mp4; k:1622576; t:mp4; r:1080p;
