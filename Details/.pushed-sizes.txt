@@ -1,6 +1,7 @@
   Directory: /Users/andy/Downloads/z-MA                                              [13:54:52]
   Directory: /Users/andy/Downloads/z-MAD                                                                                                                                      [09:10:00]
   Directory: /Users/andy/Downloads/z-MAD                                                                                                        [15:07:59]
+  Directory: /Users/andy/Downloads/z-MAD                                             [10:05:38]
   Directory: /Users/andy/Downloads/z-MAD                                             [10:16:22]
   Directory: /Users/andy/Downloads/z-MAD                                             [10:49:05]
   Directory: /Users/andy/Downloads/z-MAD                                             [10:54:29]
@@ -335,6 +336,34 @@ file: p:MetArt-20260402-private-ritual.jpg; k:84; t:jpg; o:portrait;
 file: p:MetArt-20260402-private-ritual.zip; k:278768; n:113; t:zip;
 file: p:MetArt-20260402-sweet-simplicity.jpg; k:92; t:jpg; o:portrait;
 file: p:MetArt-20260402-sweet-simplicity.zip; k:574080; n:122; t:zip;
+file: p:MetArt-20260403-golden-mood.jpg; k:80; t:jpg; o:portrait;
+file: p:MetArt-20260403-golden-mood.zip; k:227892; n:121; t:zip;
+file: p:MetArt-20260403-green-climax-1.jpg; k:80; t:jpg; o:portrait;
+file: p:MetArt-20260403-green-climax-1.zip; k:350316; n:124; t:zip;
+file: p:MetArt-20260403-painted-pink.jpg; k:80; t:jpg; o:portrait;
+file: p:MetArt-20260403-painted-pink.zip; k:213376; n:125; t:zip;
+file: p:MetArt-20260403-presenting-lilia-jan.jpg; k:108; t:jpg; o:portrait;
+file: p:MetArt-20260403-presenting-lilia-jan.zip; k:237756; n:103; t:zip;
+file: p:MetArt-20260403-rocky-escape.jpg; k:112; t:jpg; o:portrait;
+file: p:MetArt-20260403-rocky-escape.zip; k:284760; n:111; t:zip;
+file: p:MetArt-20260404-blissful-morning.jpg; k:68; t:jpg; o:portrait;
+file: p:MetArt-20260404-blissful-morning.zip; k:302000; n:114; t:zip;
+file: p:MetArt-20260404-enchantress.jpg; k:80; t:jpg; o:portrait;
+file: p:MetArt-20260404-enchantress.zip; k:377136; n:117; t:zip;
+file: p:MetArt-20260404-playful-moments.jpg; k:112; t:jpg; o:portrait;
+file: p:MetArt-20260404-playful-moments.zip; k:573360; n:125; t:zip;
+file: p:MetArt-20260404-wind-and-waves.jpg; k:96; t:jpg; o:portrait;
+file: p:MetArt-20260404-wind-and-waves.zip; k:607356; n:133; t:zip;
+file: p:MetArt-20260405-bunny-bliss.jpg; k:84; t:jpg; o:portrait;
+file: p:MetArt-20260405-bunny-bliss.zip; k:164336; n:116; t:zip;
+file: p:MetArt-20260405-dream-voyage-2-4k.mp4; k:2982592; t:mp4; r:1080p;
+file: p:MetArt-20260405-dream-voyage-2-4k.mp4; k:2982592; t:mp4; r:2160p;
+file: p:MetArt-20260405-dream-voyage-2.jpg; k:68; t:jpg; o:portrait;
+file: p:MetArt-20260405-dream-voyage-2.mp4; k:492048; t:mp4; r:1080p;
+file: p:MetArt-20260405-floral-breeze.jpg; k:80; t:jpg; o:portrait;
+file: p:MetArt-20260405-floral-breeze.zip; k:197328; n:125; t:zip;
+file: p:MetArt-20260405-shade-seduction.jpg; k:120; t:jpg; o:portrait;
+file: p:MetArt-20260405-shade-seduction.zip; k:360496; n:123; t:zip;
 file: p:SexArt-20260301-this-is-the-moment_MF-1080.mp4; k:1712492; t:mp4; r:1080p;
 file: p:SexArt-20260301-this-is-the-moment_MF-2160.mp4; k:16961928; t:mp4; r:2160p;
 file: p:SexArt-20260301-this-is-the-moment_MF-high.zip; k:91332; n:44; t:zip;
@@ -464,6 +493,18 @@ file: p:SexArt-20260401-infinite-desire.mp4; k:1590048; t:mp4; r:1080p;
 file: p:SexArt-20260401-infinite-desire.zip; k:459184; n:130; t:zip;
 file: p:SexArt-20260402-sheer-sensation.jpg; k:60; t:jpg; o:portrait;
 file: p:SexArt-20260402-sheer-sensation.zip; k:262880; n:123; t:zip;
+file: p:SexArt-20260403-my-treasure-4k.mp4; k:13022836; t:mp4; r:1080p;
+file: p:SexArt-20260403-my-treasure-4k.mp4; k:13022836; t:mp4; r:2160p;
+file: p:SexArt-20260403-my-treasure.jpg; k:96; t:jpg; o:portrait;
+file: p:SexArt-20260403-my-treasure.mp4; k:1308456; t:mp4; r:1080p;
+file: p:SexArt-20260403-my-treasure.zip; k:283704; n:126; t:zip;
+file: p:SexArt-20260404-soft-pink.jpg; k:96; t:jpg; o:portrait;
+file: p:SexArt-20260404-soft-pink.zip; k:463736; n:137; t:zip;
+file: p:SexArt-20260405-new-game-4k.mp4; k:15893216; t:mp4; r:1080p;
+file: p:SexArt-20260405-new-game-4k.mp4; k:15893216; t:mp4; r:2160p;
+file: p:SexArt-20260405-new-game.jpg; k:76; t:jpg; o:portrait;
+file: p:SexArt-20260405-new-game.mp4; k:1606288; t:mp4; r:1080p;
+file: p:SexArt-20260405-new-game.zip; k:197168; n:116; t:zip;
 file: p:SexArt-20261111-test1-1080.mp4; k:0; t:mp4; r:1080p;
 file: p:SexArt-20261111-test1-2160.mp4; k:0; t:mp4; r:2160p;
 file: p:SexArt-20261111-test2-1080.mp4; k:0; t:mp4; r:1080p;
@@ -531,3 +572,5 @@ file: p:VivThomas-20260402-julias-new-experience-5-4k.mp4; k:6374144; t:mp4; r:1
 file: p:VivThomas-20260402-julias-new-experience-5-4k.mp4; k:6374144; t:mp4; r:2160p;
 file: p:VivThomas-20260402-julias-new-experience-5.jpg; k:92; t:jpg; o:portrait;
 file: p:VivThomas-20260402-julias-new-experience-5.mp4; k:1622576; t:mp4; r:1080p;
+file: p:VivThomas-20260404-stretched-out.jpg; k:104; t:jpg; o:portrait;
+file: p:VivThomas-20260404-stretched-out.zip; k:646276; n:120; t:zip;
