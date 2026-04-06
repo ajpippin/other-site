@@ -5,6 +5,7 @@
   Directory: /Users/andy/Downloads/z-MAD                                             [10:16:22]
   Directory: /Users/andy/Downloads/z-MAD                                             [10:49:05]
   Directory: /Users/andy/Downloads/z-MAD                                             [10:54:29]
+  Directory: /Users/andy/Downloads/z-MAD                                             [11:15:36]
   Directory: /Users/andy/Downloads/z-MAD                                             [14:39:00]
   Directory: /Users/andy/Downloads/z-MAD                                             [15:07:47]
   Directory: /Users/andy/Downloads/z-MAD                                             [15:26:58]
@@ -328,9 +329,12 @@ file: p:MetArt-20260402-flowing-through-you-1.jpg; k:76; t:jpg; o:portrait;
 file: p:MetArt-20260402-flowing-through-you-1.zip; k:676124; n:123; t:zip;
 file: p:MetArt-20260402-houndstooth-honey.jpg; k:64; t:jpg; o:portrait;
 file: p:MetArt-20260402-houndstooth-honey.zip; k:455752; n:124; t:zip;
+file: p:MetArt-20260402-leg-love-4k.mp4; k:2867776; t:mp4; r:1080p;
+file: p:MetArt-20260402-leg-love-4k.mp4; k:2867776; t:mp4; r:2160p;
 file: p:MetArt-20260402-leg-love-4k.mp4; k:2868096; t:mp4; r:1080p;
 file: p:MetArt-20260402-leg-love-4k.mp4; k:2868096; t:mp4; r:2160p;
 file: p:MetArt-20260402-leg-love.jpg; k:112; t:jpg; o:portrait;
+file: p:MetArt-20260402-leg-love.mp4; k:491600; t:mp4; r:1080p;
 file: p:MetArt-20260402-leg-love.mp4; k:492480; t:mp4; r:1080p;
 file: p:MetArt-20260402-private-ritual.jpg; k:84; t:jpg; o:portrait;
 file: p:MetArt-20260402-private-ritual.zip; k:278768; n:113; t:zip;
@@ -364,6 +368,14 @@ file: p:MetArt-20260405-floral-breeze.jpg; k:80; t:jpg; o:portrait;
 file: p:MetArt-20260405-floral-breeze.zip; k:197328; n:125; t:zip;
 file: p:MetArt-20260405-shade-seduction.jpg; k:120; t:jpg; o:portrait;
 file: p:MetArt-20260405-shade-seduction.zip; k:360496; n:123; t:zip;
+file: p:MetArt-20260406-bare-perspective.jpg; k:76; t:jpg; o:portrait;
+file: p:MetArt-20260406-bare-perspective.zip; k:245936; n:103; t:zip;
+file: p:MetArt-20260406-dramatic-flair.jpg; k:76; t:jpg; o:portrait;
+file: p:MetArt-20260406-dramatic-flair.zip; k:551712; n:146; t:zip;
+file: p:MetArt-20260406-feel-my-heart-1.jpg; k:104; t:jpg; o:portrait;
+file: p:MetArt-20260406-feel-my-heart-1.zip; k:311744; n:102; t:zip;
+file: p:MetArt-20260406-wild-at-home.jpg; k:116; t:jpg; o:portrait;
+file: p:MetArt-20260406-wild-at-home.zip; k:426800; n:97; t:zip;
 file: p:SexArt-20260301-this-is-the-moment_MF-1080.mp4; k:1712492; t:mp4; r:1080p;
 file: p:SexArt-20260301-this-is-the-moment_MF-2160.mp4; k:16961928; t:mp4; r:2160p;
 file: p:SexArt-20260301-this-is-the-moment_MF-high.zip; k:91332; n:44; t:zip;
@@ -488,6 +500,8 @@ file: p:SexArt-20260330-loving-ladies-tall.jpg; k:104; t:jpg; o:portrait;
 file: p:SexArt-20260331-vivid-desires-high.zip; k:540864; n:111; t:zip;
 file: p:SexArt-20260331-vivid-desires-tall.jpg; k:92; t:jpg; o:portrait;
 file: p:SexArt-20260401-infinite-desire-4k.mp4; k:15778048; t:mp4; r:2160p;
+file: p:SexArt-20260401-infinite-desire-4k.mp4; k:15778464; t:mp4; r:1080p;
+file: p:SexArt-20260401-infinite-desire-4k.mp4; k:15778464; t:mp4; r:2160p;
 file: p:SexArt-20260401-infinite-desire.jpg; k:104; t:jpg; o:portrait;
 file: p:SexArt-20260401-infinite-desire.mp4; k:1590048; t:mp4; r:1080p;
 file: p:SexArt-20260401-infinite-desire.zip; k:459184; n:130; t:zip;
@@ -505,6 +519,8 @@ file: p:SexArt-20260405-new-game-4k.mp4; k:15893216; t:mp4; r:2160p;
 file: p:SexArt-20260405-new-game.jpg; k:76; t:jpg; o:portrait;
 file: p:SexArt-20260405-new-game.mp4; k:1606288; t:mp4; r:1080p;
 file: p:SexArt-20260405-new-game.zip; k:197168; n:116; t:zip;
+file: p:SexArt-20260406-wild-siren.jpg; k:92; t:jpg; o:portrait;
+file: p:SexArt-20260406-wild-siren.zip; k:229456; n:118; t:zip;
 file: p:SexArt-20261111-test1-1080.mp4; k:0; t:mp4; r:1080p;
 file: p:SexArt-20261111-test1-2160.mp4; k:0; t:mp4; r:2160p;
 file: p:SexArt-20261111-test2-1080.mp4; k:0; t:mp4; r:1080p;
@@ -570,7 +586,12 @@ file: p:VivThomas-20260331-blissful-distraction-high.zip; k:890640; n:119; t:zip
 file: p:VivThomas-20260331-blissful-distraction-tall.jpg; k:96; t:jpg; o:portrait;
 file: p:VivThomas-20260402-julias-new-experience-5-4k.mp4; k:6374144; t:mp4; r:1080p;
 file: p:VivThomas-20260402-julias-new-experience-5-4k.mp4; k:6374144; t:mp4; r:2160p;
+file: p:VivThomas-20260402-julias-new-experience-5-4k.mp4; k:6374384; t:mp4; r:1080p;
+file: p:VivThomas-20260402-julias-new-experience-5-4k.mp4; k:6374384; t:mp4; r:2160p;
 file: p:VivThomas-20260402-julias-new-experience-5.jpg; k:92; t:jpg; o:portrait;
+file: p:VivThomas-20260402-julias-new-experience-5.mp4; k:1622304; t:mp4; r:1080p;
 file: p:VivThomas-20260402-julias-new-experience-5.mp4; k:1622576; t:mp4; r:1080p;
 file: p:VivThomas-20260404-stretched-out.jpg; k:104; t:jpg; o:portrait;
 file: p:VivThomas-20260404-stretched-out.zip; k:646276; n:120; t:zip;
+file: p:VivThomas-20260406-seductive-dress.jpg; k:80; t:jpg; o:portrait;
+file: p:VivThomas-20260406-seductive-dress.zip; k:656256; n:148; t:zip;
