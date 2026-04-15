@@ -1,11 +1,10 @@
 /Details/*.kv
 /Details/*.yml
 
-/Archive/web-files-export.json.gz
-/Archive/web-ssd-public.json.gz
-
 /Rendered/**
 
 **/.placeholder
 
 /Index/Pornhub/incoming-20*.yaml
+
+**/*.json.gz
