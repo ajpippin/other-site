@@ -1,6 +1,7 @@
 
   Directory: /Users/andy/Downloads/z-MAD                                             [08:34:58]
   Directory: /Users/andy/Downloads/z-MAD                                             [09:21:11]
+  Directory: /Users/andy/Downloads/z-MAD                                             [10:06:44]
   Directory: /Users/andy/Downloads/z-MAD                                             [18:37:45]
 -------------------------------------------------------------------------------------------------
 file: p:MetArt-20260412-bikini-days.jpg; k:120; t:jpg; o:portrait;
@@ -41,12 +42,24 @@ file: p:MetArt-20260415-wildflower-breeze.jpg; k:116; t:jpg; o:portrait;
 file: p:MetArt-20260415-wildflower-breeze.zip; k:237652; n:123; t:zip;
 file: p:MetArt-20260416-into-the-wild.jpg; k:112; t:jpg; o:portrait;
 file: p:MetArt-20260416-into-the-wild.zip; k:426944; n:103; t:zip;
+file: p:MetArt-20260416-janey-07-4k.mp4; k:1573312; t:mp4; r:1080p;
+file: p:MetArt-20260416-janey-07-4k.mp4; k:1573312; t:mp4; r:2160p;
+file: p:MetArt-20260416-janey-07.jpg; k:80; t:jpg; o:portrait;
+file: p:MetArt-20260416-janey-07.mp4; k:1572960; t:mp4; r:1080p;
 file: p:MetArt-20260416-presenting-anna-bella.jpg; k:92; t:jpg; o:portrait;
 file: p:MetArt-20260416-presenting-anna-bella.zip; k:361312; n:125; t:zip;
 file: p:MetArt-20260416-pretty-moments.jpg; k:80; t:jpg; o:portrait;
 file: p:MetArt-20260416-pretty-moments.zip; k:672752; n:115; t:zip;
 file: p:MetArt-20260416-true-essence.jpg; k:64; t:jpg; o:portrait;
 file: p:MetArt-20260416-true-essence.zip; k:557952; n:123; t:zip;
+file: p:MetArt-20260417-crimson-mood.jpg; k:88; t:jpg; o:portrait;
+file: p:MetArt-20260417-crimson-mood.zip; k:229488; n:117; t:zip;
+file: p:MetArt-20260417-daring-lace.jpg; k:56; t:jpg; o:portrait;
+file: p:MetArt-20260417-daring-lace.zip; k:361024; n:117; t:zip;
+file: p:MetArt-20260417-intimate-evening.jpg; k:68; t:jpg; o:portrait;
+file: p:MetArt-20260417-intimate-evening.zip; k:508064; n:175; t:zip;
+file: p:MetArt-20260417-knowing-looks.jpg; k:96; t:jpg; o:portrait;
+file: p:MetArt-20260417-knowing-looks.zip; k:361104; n:130; t:zip;
 file: p:SexArt-20260412-bright-vision-4k.mp4; k:14222048; t:mp4; r:1080p;
 file: p:SexArt-20260412-bright-vision-4k.mp4; k:14222048; t:mp4; r:2160p;
 file: p:SexArt-20260412-bright-vision.jpg; k:80; t:jpg; o:portrait;
@@ -63,6 +76,11 @@ file: p:SexArt-20260415-memories-of-us.mp4; k:1638088; t:mp4; r:1080p;
 file: p:SexArt-20260415-memories-of-us.zip; k:340900; n:145; t:zip;
 file: p:SexArt-20260416-heartfelt.jpg; k:64; t:jpg; o:portrait;
 file: p:SexArt-20260416-heartfelt.zip; k:197168; n:125; t:zip;
+file: p:SexArt-20260417-intense-connection-4k.mp4; k:19284736; t:mp4; r:1080p;
+file: p:SexArt-20260417-intense-connection-4k.mp4; k:19284736; t:mp4; r:2160p;
+file: p:SexArt-20260417-intense-connection.jpg; k:84; t:jpg; o:portrait;
+file: p:SexArt-20260417-intense-connection.mp4; k:1950656; t:mp4; r:1080p;
+file: p:SexArt-20260417-intense-connection.zip; k:344256; n:110; t:zip;
 file: p:SexArt-20261111-test1-1080.mp4; k:0; t:mp4; r:1080p;
 file: p:SexArt-20261111-test1-2160.mp4; k:0; t:mp4; r:2160p;
 file: p:SexArt-20261111-test2-1080.mp4; k:0; t:mp4; r:1080p;
