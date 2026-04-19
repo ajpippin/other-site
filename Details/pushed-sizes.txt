@@ -2,6 +2,7 @@
   Directory: /Users/andy/Downloads/z-MAD                                             [08:34:58]
   Directory: /Users/andy/Downloads/z-MAD                                             [09:21:11]
   Directory: /Users/andy/Downloads/z-MAD                                             [10:06:44]
+  Directory: /Users/andy/Downloads/z-MAD                                             [17:16:17]
   Directory: /Users/andy/Downloads/z-MAD                                             [18:37:45]
 -------------------------------------------------------------------------------------------------
 file: p:MetArt-20260412-bikini-days.jpg; k:120; t:jpg; o:portrait;
@@ -60,6 +61,14 @@ file: p:MetArt-20260417-intimate-evening.jpg; k:68; t:jpg; o:portrait;
 file: p:MetArt-20260417-intimate-evening.zip; k:508064; n:175; t:zip;
 file: p:MetArt-20260417-knowing-looks.jpg; k:96; t:jpg; o:portrait;
 file: p:MetArt-20260417-knowing-looks.zip; k:361104; n:130; t:zip;
+file: p:MetArt-20260418-bare-beauty.jpg; k:80; t:jpg; o:portrait;
+file: p:MetArt-20260418-bare-beauty.zip; k:458816; n:141; t:zip;
+file: p:MetArt-20260418-magnetic-mood.jpg; k:112; t:jpg; o:portrait;
+file: p:MetArt-20260418-magnetic-mood.zip; k:442848; n:127; t:zip;
+file: p:MetArt-20260418-soft-smiles.jpg; k:68; t:jpg; o:portrait;
+file: p:MetArt-20260418-soft-smiles.zip; k:295744; n:120; t:zip;
+file: p:MetArt-20260418-sweet-pleasure.jpg; k:88; t:jpg; o:portrait;
+file: p:MetArt-20260418-sweet-pleasure.zip; k:541280; n:157; t:zip;
 file: p:SexArt-20260412-bright-vision-4k.mp4; k:14222048; t:mp4; r:1080p;
 file: p:SexArt-20260412-bright-vision-4k.mp4; k:14222048; t:mp4; r:2160p;
 file: p:SexArt-20260412-bright-vision.jpg; k:80; t:jpg; o:portrait;
@@ -81,6 +90,8 @@ file: p:SexArt-20260417-intense-connection-4k.mp4; k:19284736; t:mp4; r:2160p;
 file: p:SexArt-20260417-intense-connection.jpg; k:84; t:jpg; o:portrait;
 file: p:SexArt-20260417-intense-connection.mp4; k:1950656; t:mp4; r:1080p;
 file: p:SexArt-20260417-intense-connection.zip; k:344256; n:110; t:zip;
+file: p:SexArt-20260418-powerful-seduction.jpg; k:100; t:jpg; o:portrait;
+file: p:SexArt-20260418-powerful-seduction.zip; k:311632; n:104; t:zip;
 file: p:SexArt-20261111-test1-1080.mp4; k:0; t:mp4; r:1080p;
 file: p:SexArt-20261111-test1-2160.mp4; k:0; t:mp4; r:2160p;
 file: p:SexArt-20261111-test2-1080.mp4; k:0; t:mp4; r:1080p;
@@ -97,3 +108,5 @@ file: p:VivThomas-20260416-close-to-you-4k.mp4; k:7045488; t:mp4; r:1080p;
 file: p:VivThomas-20260416-close-to-you-4k.mp4; k:7045488; t:mp4; r:2160p;
 file: p:VivThomas-20260416-close-to-you.jpg; k:92; t:jpg; o:portrait;
 file: p:VivThomas-20260416-close-to-you.mp4; k:1425936; t:mp4; r:1080p;
+file: p:VivThomas-20260418-blue-sapphire.jpg; k:96; t:jpg; o:portrait;
+file: p:VivThomas-20260418-blue-sapphire.zip; k:327824; n:124; t:zip;
