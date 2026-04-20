@@ -1,11 +1,35 @@
 
   Directory: /Users/andy/Downloads/z-MAD                                             [08:34:58]
+  Directory: /Users/andy/Downloads/z-MAD                                             [08:50:42]
+  Directory: /Users/andy/Downloads/z-MAD                                             [08:51:48]
   Directory: /Users/andy/Downloads/z-MAD                                             [09:08:17]
   Directory: /Users/andy/Downloads/z-MAD                                             [09:21:11]
   Directory: /Users/andy/Downloads/z-MAD                                             [10:06:44]
   Directory: /Users/andy/Downloads/z-MAD                                             [17:16:17]
   Directory: /Users/andy/Downloads/z-MAD                                             [18:37:45]
 -------------------------------------------------------------------------------------------------
+file: p:MetArt-20210329-brick-road.jpg; k:96; t:jpg; o:portrait;
+file: p:MetArt-20210329-brick-road.zip; k:883032; n:124; t:zip;
+file: p:MetArt-20210329-palms-oasis.jpg; k:160; t:jpg; o:portrait;
+file: p:MetArt-20210329-palms-oasis.zip; k:248916; n:112; t:zip;
+file: p:MetArt-20210329-pink-jam.jpg; k:76; t:jpg; o:portrait;
+file: p:MetArt-20210329-pink-jam.zip; k:180560; n:123; t:zip;
+file: p:MetArt-20210329-poppy.jpg; k:164; t:jpg; o:portrait;
+file: p:MetArt-20210329-poppy.zip; k:375784; n:123; t:zip;
+file: p:MetArt-20210330-perked-up.jpg; k:100; t:jpg; o:portrait;
+file: p:MetArt-20210330-perked-up.zip; k:175604; n:103; t:zip;
+file: p:MetArt-20210330-playing-koi.jpg; k:80; t:jpg; o:portrait;
+file: p:MetArt-20210330-playing-koi.zip; k:131088; n:89; t:zip;
+file: p:MetArt-20210330-yellow-crop.jpg; k:136; t:jpg; o:portrait;
+file: p:MetArt-20210330-yellow-crop.zip; k:399088; n:123; t:zip;
+file: p:MetArt-20210331-presenting-samara.jpg; k:80; t:jpg; o:portrait;
+file: p:MetArt-20210331-presenting-samara.zip; k:170684; n:119; t:zip;
+file: p:MetArt-20210331-shine.jpg; k:76; t:jpg; o:portrait;
+file: p:MetArt-20210331-shine.zip; k:409968; n:195; t:zip;
+file: p:MetArt-20210331-style.jpg; k:140; t:jpg; o:portrait;
+file: p:MetArt-20210331-style.zip; k:254788; n:117; t:zip;
+file: p:MetArt-20210331-sultry-game.jpg; k:108; t:jpg; o:portrait;
+file: p:MetArt-20210331-sultry-game.zip; k:265424; n:119; t:zip;
 file: p:MetArt-20260412-bikini-days.jpg; k:120; t:jpg; o:portrait;
 file: p:MetArt-20260412-bikini-days.zip; k:262528; n:110; t:zip;
 file: p:MetArt-20260412-luminous-locks.jpg; k:84; t:jpg; o:portrait;
@@ -80,6 +104,14 @@ file: p:MetArt-20260419-frisky-flirt.jpg; k:112; t:jpg; o:portrait;
 file: p:MetArt-20260419-frisky-flirt.zip; k:410384; n:108; t:zip;
 file: p:MetArt-20260419-spotlight-study.jpg; k:108; t:jpg; o:portrait;
 file: p:MetArt-20260419-spotlight-study.zip; k:213936; n:122; t:zip;
+file: p:MetArt-20260420-between-dreams.jpg; k:88; t:jpg; o:portrait;
+file: p:MetArt-20260420-between-dreams.zip; k:295728; n:133; t:zip;
+file: p:MetArt-20260420-dark-desire.jpg; k:68; t:jpg; o:portrait;
+file: p:MetArt-20260420-dark-desire.zip; k:393776; n:114; t:zip;
+file: p:MetArt-20260420-shoreline-fun.jpg; k:92; t:jpg; o:portrait;
+file: p:MetArt-20260420-shoreline-fun.zip; k:295312; n:123; t:zip;
+file: p:MetArt-20260420-sweet-moments.jpg; k:96; t:jpg; o:portrait;
+file: p:MetArt-20260420-sweet-moments.zip; k:262208; n:119; t:zip;
 file: p:SexArt-20260412-bright-vision-4k.mp4; k:14222048; t:mp4; r:1080p;
 file: p:SexArt-20260412-bright-vision-4k.mp4; k:14222048; t:mp4; r:2160p;
 file: p:SexArt-20260412-bright-vision.jpg; k:80; t:jpg; o:portrait;
@@ -108,6 +140,8 @@ file: p:SexArt-20260419-morning-like-this-4k.mp4; k:12206832; t:mp4; r:2160p;
 file: p:SexArt-20260419-morning-like-this.jpg; k:76; t:jpg; o:portrait;
 file: p:SexArt-20260419-morning-like-this.mp4; k:1229152; t:mp4; r:1080p;
 file: p:SexArt-20260419-morning-like-this.zip; k:164256; n:50; t:zip;
+file: p:SexArt-20260420-poolside-pleasure.jpg; k:92; t:jpg; o:portrait;
+file: p:SexArt-20260420-poolside-pleasure.zip; k:279248; n:103; t:zip;
 file: p:SexArt-20261111-test1-1080.mp4; k:0; t:mp4; r:1080p;
 file: p:SexArt-20261111-test1-2160.mp4; k:0; t:mp4; r:2160p;
 file: p:SexArt-20261111-test2-1080.mp4; k:0; t:mp4; r:1080p;
@@ -126,3 +160,5 @@ file: p:VivThomas-20260416-close-to-you.jpg; k:92; t:jpg; o:portrait;
 file: p:VivThomas-20260416-close-to-you.mp4; k:1425936; t:mp4; r:1080p;
 file: p:VivThomas-20260418-blue-sapphire.jpg; k:96; t:jpg; o:portrait;
 file: p:VivThomas-20260418-blue-sapphire.zip; k:327824; n:124; t:zip;
+file: p:VivThomas-20260420-touch-me.jpg; k:88; t:jpg; o:portrait;
+file: p:VivThomas-20260420-touch-me.zip; k:557552; n:116; t:zip;
