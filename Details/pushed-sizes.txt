@@ -1,5 +1,6 @@
 
   Directory: /Users/andy/Downloads/z-MAD                                             [08:34:58]
+  Directory: /Users/andy/Downloads/z-MAD                                             [08:49:43]
   Directory: /Users/andy/Downloads/z-MAD                                             [08:50:42]
   Directory: /Users/andy/Downloads/z-MAD                                             [08:51:48]
   Directory: /Users/andy/Downloads/z-MAD                                             [09:08:17]
@@ -112,6 +113,16 @@ file: p:MetArt-20260420-shoreline-fun.jpg; k:92; t:jpg; o:portrait;
 file: p:MetArt-20260420-shoreline-fun.zip; k:295312; n:123; t:zip;
 file: p:MetArt-20260420-sweet-moments.jpg; k:96; t:jpg; o:portrait;
 file: p:MetArt-20260420-sweet-moments.zip; k:262208; n:119; t:zip;
+file: p:MetArt-20260421-heavenly-hush.jpg; k:100; t:jpg; o:portrait;
+file: p:MetArt-20260421-heavenly-hush.zip; k:279536; n:122; t:zip;
+file: p:MetArt-20260421-little-miss-sunshine.jpg; k:84; t:jpg; o:portrait;
+file: p:MetArt-20260421-little-miss-sunshine.zip; k:410480; n:163; t:zip;
+file: p:MetArt-20260421-sunlit-milk-bath-2-4k.mp4; k:3310336; t:mp4; r:1080p;
+file: p:MetArt-20260421-sunlit-milk-bath-2-4k.mp4; k:3310336; t:mp4; r:2160p;
+file: p:MetArt-20260421-sunlit-milk-bath-2.jpg; k:88; t:jpg; o:portrait;
+file: p:MetArt-20260421-sunlit-milk-bath-2.mp4; k:475664; t:mp4; r:1080p;
+file: p:MetArt-20260421-unspoken-elegance.jpg; k:72; t:jpg; o:portrait;
+file: p:MetArt-20260421-unspoken-elegance.zip; k:376880; n:125; t:zip;
 file: p:SexArt-20260412-bright-vision-4k.mp4; k:14222048; t:mp4; r:1080p;
 file: p:SexArt-20260412-bright-vision-4k.mp4; k:14222048; t:mp4; r:2160p;
 file: p:SexArt-20260412-bright-vision.jpg; k:80; t:jpg; o:portrait;
@@ -142,6 +153,8 @@ file: p:SexArt-20260419-morning-like-this.mp4; k:1229152; t:mp4; r:1080p;
 file: p:SexArt-20260419-morning-like-this.zip; k:164256; n:50; t:zip;
 file: p:SexArt-20260420-poolside-pleasure.jpg; k:92; t:jpg; o:portrait;
 file: p:SexArt-20260420-poolside-pleasure.zip; k:279248; n:103; t:zip;
+file: p:SexArt-20260421-playful-charm.jpg; k:60; t:jpg; o:portrait;
+file: p:SexArt-20260421-playful-charm.zip; k:689120; n:148; t:zip;
 file: p:SexArt-20261111-test1-1080.mp4; k:0; t:mp4; r:1080p;
 file: p:SexArt-20261111-test1-2160.mp4; k:0; t:mp4; r:2160p;
 file: p:SexArt-20261111-test2-1080.mp4; k:0; t:mp4; r:1080p;
@@ -162,3 +175,7 @@ file: p:VivThomas-20260418-blue-sapphire.jpg; k:96; t:jpg; o:portrait;
 file: p:VivThomas-20260418-blue-sapphire.zip; k:327824; n:124; t:zip;
 file: p:VivThomas-20260420-touch-me.jpg; k:88; t:jpg; o:portrait;
 file: p:VivThomas-20260420-touch-me.zip; k:557552; n:116; t:zip;
+file: p:VivThomas-20260421-room-for-rent-1-4k.mp4; k:6783168; t:mp4; r:1080p;
+file: p:VivThomas-20260421-room-for-rent-1-4k.mp4; k:6783168; t:mp4; r:2160p;
+file: p:VivThomas-20260421-room-for-rent-1.jpg; k:92; t:jpg; o:portrait;
+file: p:VivThomas-20260421-room-for-rent-1.mp4; k:1802448; t:mp4; r:1080p;
