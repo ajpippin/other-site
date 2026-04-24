@@ -5,7 +5,30 @@
 @site MetArt
 @type Gallery
 
-Irresistible - Azzurra Moretti
+Ivory & Honey - Kubera Fortuna
+Ivory & Honey
+Released: Apr 24, 2026
+Featuring: Kubera Fortuna
+Director: Erro
+Rating: 9.3
+Burgundy Blossoms - Luna Art
+Burgundy Blossoms
+Released: Apr 24, 2026
+Featuring: Luna Art
+Director: Nudero
+Rating: 9.3
+Pink Paradise - Alice May
+Pink Paradise
+Released: Apr 24, 2026
+Featuring: Alice May
+Director: Rylsky
+Rating: 9.3
+Saltwater Sweetheart - Eve Casta
+Saltwater Sweetheart
+Released: Apr 24, 2026
+Featuring: Eve Casta
+Director: Tony G
+Rating: 9.0
 
 #--------------------------------------------------------------------------------------------------#
 @site MetArt
@@ -23,24 +46,19 @@ Tropical Desire - Amelia Riven
 @site SexArt
 @type Movie
 
-Just In Case - Deny Lou - Dragon Fruit
+Love Impulse
 
 #--------------------------------------------------------------------------------------------------#
 @site VivThomas
 @type Gallery
 
 Powerful Allure - Pearl - Norah Juliette
-Powerful Allure
-Released: Apr 23, 2026
-Featuring: Pearl, Norah Juliette
-Director: Sandra Shine
-Rating: 9.5
 
 #--------------------------------------------------------------------------------------------------#
 @site VivThomas
 @type Movie
 
-title: Room For Rent Episode 1
+Pose For Me
 
 #--------------------------------------------------------------------------------------------------#
 
