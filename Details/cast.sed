@@ -40,4 +40,4 @@ s@^Vietnam@origin: Vietnam@
 
 s@^type: movie$@type: Movie@
 s@^type: gallery$@type: Gallery@
-s@^type: cast$@type: Cast@
+s@^type: [Cc]ast$@type: Model@
