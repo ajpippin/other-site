@@ -1,3 +1,6 @@
+/.idea
+/DataGrip
+
 /Details/*.kv
 /Details/*.yml
 
