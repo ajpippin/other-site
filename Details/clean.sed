@@ -14,6 +14,8 @@ s@^Ethnicity:@ethnicity:@
 s@^Bio$@bio:@
 s@^Bio:@bio:@
 
+s@^cast: n:@model: n:@
+
 s@^type: movie$@type: Movie@
 s@^type: gallery$@type: Gallery@
 s@^type: [Cc]ast$@type: Model@
