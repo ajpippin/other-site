@@ -43,95 +43,126 @@ Item detail order is not enforced.  But it is _**preferably**_:
 * url: https://www.metart.com/model/erika-heiss/gallery/20260501/PRESENTING_ERIKA_HEISS
 * [...detail mappingss...]
 * file: p:MetArt-20260501-presenting-erika-heiss.jpg; k:76; t:jpg; o:portrait; id:/gallery/metart/20260501-presenting-erika-heiss/jpg
-* file: p:MetArt-20260501-presenting-erika-heiss.zip; k:442656; n:119; t:zip; id:/gallery/metart/20260501-presenting-erika-heiss/zip
+* file: p:MetArt-20260501-presenting-erika-heiss.zip; k:442656; t:zip; n:119; id:/gallery/metart/20260501-presenting-erika-heiss/zip
 * [...files...]
 * tag: blah
 * tag: blahblah
 * [...tags...]
  
 
-When generating text from a (gallery || movie) index, an item should look like:  
+When generating text from an index, the item (and should look like:  
 
 From:
 ```text
-
+@site MetArt
+@type gallery
+Studious Flirt - Angely Grace
+Studious Flirt
+Released: Jan 01, 2020
+Featuring: Angely Grace
+Photographer: Arkisi
+Rating: 9.4
+@site SexArt
+@type Movie
+We Just Click - Sasha Paige - Luna Roulette
+We Just Click
+Released: May 01, 2026
+Featuring: Sasha Paige, Luna Roulette
+Director: Andrej Lupin
+Rating: 9.4
 ```
+\
 To:
 ```text
   [...]
----
+  
+---   ========================================================================
 title: Studious Flirt
 id: /gallery/metart/20200101-studious-flirt
 type: Gallery
 site: MetArt
 released: 2020-01-01
+cast: n:Angely Grace; u:https://www.metart.com/model/angely-grace; g:f; id:/model/metart/angely-grace
 url: https://www.metart.com/model/angely-grace/gallery/20200101/STUDIOUS_FLIRT
-model: n:Angely Grace; u:https://www.metart.com/model/angely-grace; g:f; id:/model/metart/angely-grace
 photographer: billy-joe-bob
-rating: ##
-fileprefix: MetArt-20200101-studious-flirt
+rating: 94
+fileprefix: MetArt_20200101_studious-flirt
 files: xxxx
 
 description: xxxx
 
 
 ---
-  [...]
-```
-
-When generating text from a model index, an item should look like:  
-
-From:
-```text
-* model: n:First Name; u:https://www.metart.com/model/first-name; g:f; id:/model/metart/first-name
-* cast: n:Second Name; u:https://www.sexart.com/model/second-name; g:m; id:/model/sexart/second-name
-```
-To:
-```text
-  [...]
----
-title: First Name
-id: /model/metart/first-name
+title: Angely Grace
+id: /model/metart/angely-grace
 type: Model
 site: MetArt
-url: https://www.metart.com/model/vetra
+file: xx; id:/model/metart/angely-grace/jpg
 gender: Female
 dateAdded: 2026-05-01
-fileprefix: first-name
-files: xxxx
-
+url: https://www.metart.com/model/angely-grace
+fileprefix: Model_MetArt_angely-grace
 origin: xx
 
 details+bio: xxxx
 
 
----
-title: Second Name
-id: /model/sexart/second-name
-type: Model
+---   ========================================================================
+title: We Just Click
+id: /movie/sexart/20260501-studious-flirt
+type: Movie
 site: SexArt
-url: https://www.sexart.com/model/second-name
-gender: Female
-dateAdded: 2026-05-01
-fileprefix: second-name
+released: 2026-05-01
+cast: n:Sasha Paige; u:https://www.sexart.com/model/sasha-paige; g:f; id:/model/sexart/sasha-paige
+cast: n:Luna Roulette; u:https://www.sexart.com/model/luna-roulette; g:f; id:/model/sexart/luna-roulette
+url: https://www.sexart.com/model/sasha-paige-and-luna-roulette/movie/20260501/WE_JUST_CLICK
+director: Andrej Lupin
+rating: 94
+fileprefix: MetArt_20260501-studious-flirt
 files: xxxx
 
+description: xxxx
+
+
+---
+title: Sasha Paige
+id: /model/metart/sasha-paige
+type: Model
+site: MetArt
+file: xx; id:/model/metart/sasha-paige/jpg
+gender: Female
+dateAdded: 2026-05-01
+url: https://www.sexart.com/model/sasha-paige
+fileprefix: Model_SexArt_sasha-paige
 origin: xx
 
 details+bio: xxxx
 
 
 ---
+cast: n:Luna Roulette; u:https://www.sexart.com/model/luna-roulette; g:f; id:/model/sexart/luna-roulette
+
+title: Angely Grace
+id: /model/metart/angely-grace
+type: Model
+site: MetArt
+file: xx; id:/model/metart/angely-grace/jpg
+gender: Female
+dateAdded: 2026-05-01
+url: https://www.metart.com/model/angely-grace
+fileprefix: Model_MetArt_angely-grace
+origin: xx
+
+details+bio: xxxx
+
+
+---   ========================================================================
+
   [...]
 ```
 
-Note: The gender may not be generated from the txt.
-## Clean (cast) details
+**_Note_**: The gender may not be correctly generated from the text block.  Default gender is Female.
 
-```shell
-sed -f ~/Developer/AJPippin/Other/Site/Details/clean.sed -i '' \
-    ~/Developer/AJPippin/Other/Site/KeyValue/MetArt/Models/2021.kv
-```
 
 ## Persistable Objects
 
