@@ -55,17 +55,9 @@ type TextSourceItem struct {
 	Featuring string
 	Creator   string
 	Rating    string
+	Keys      map[string]string
 }
 
-var newItem = &TextSourceItem{
-	Site:      `SiteName`,
-	Type:      `TypeName`,
-	Title:     `The Title Is`,
-	Released:  `Mmm dd, yyyy`,
-	Featuring: `model1, model2`,
-	Creator:   `CreatorName`,
-	Rating:    `#.#`,
-}
 ```
 
 
@@ -73,41 +65,48 @@ var newItem = &TextSourceItem{
 
 Keys:
 ```go
-package text
-
-var key = map[string]string {
-	// stage 0
-    "extMpg": "mp4",
-    "extJpg": "jpg",
-    "extZip": "zip",
-	// stage 1
-    "sortName": "f'sortName(%key.title%)",
-    "todayISO": "f'parseDate(%now()%)",
-    "castNames": "f'concatNames(%source.Featuring%)",
-    "dateISO": "f'parseDate(%source.Released%)",
-    "hyphenName": "f'hyphen(%key.title/ /-/%)",
-    "keyJpg": "%key.extJpg%",
-    "keyJpgTall": "%key.extJpg%/0",
-    "keyJpgWide": "%key.extJpg%/1",
-    "keyMpg1K": "%key.extMpg%/0",
-    "keyMpg4K": "%key.extMpg%/1",
-    "keyZip": "%key.extZip%",
-    "model0.name": "%source.Featuring[0]%",
-    "model1.name": "%source.Featuring[1]%",
-    "rating": "f'normalized(%source.Rating%)",
-    "site": "f'lower(%source.Site%)",
-    "type": "f'lower(%source.Type%)",
-    // stage 2
-    "creatorType": "f'creatorType(%key.type%)",
-    "dateCCYYMMDD": "%key.dateISO/-//%",
-    "filePrefix": "%source.Site%_-f'optionalDate(%key.type%, %key.dateISO%_)%key.hyphenName%",
-    "model0_hypenName": "f'hyphenate(%model0.name%)",
-    "model1_hypenName": "f'hyphenate(%model1.name%)",
-    "url": "https://www.%key.site%.com/model/%key.castNames%/%key.type%/%key.dateISO%/f'upper(%key.hyphenName%)",
-	// stage 3
-	"model0_url": "https://www.%key.site%.com/model/%model0_hypenName%",
-    "model1_url": "https://www.%key.site%.com/model/%model1_hypenName%",
-} 
+var newItem = &TextSourceItem{
+    Site:      `SiteName`,
+    Type:      `TypeName`,
+    Title:     `The Title Is`,
+    Released:  `Mmm dd, yyyy`,
+    Featuring: `model1, model2`,
+    Creator:   `CreatorName`,
+    Rating:    `#.#`,
+    Keys = map[string]string {
+        // stage 0
+        "extMpg": "mp4",
+        "extJpg": "jpg",
+        "extZip": "zip",
+        // stage 1
+        "sortName": "f'sortName(%key.title%)",
+        "todayISO": "f'parseDate(%now()%)",
+        "castNames": "f'concatNames(%source.Featuring%)",
+        "dateISO": "f'parseDate(%source.Released%)",
+        "hyphenName": "f'hyphen(%key.title/ /-/%)",
+        "keyJpg": "%key.extJpg%",
+        "keyJpgTall": "%key.extJpg%/0",
+        "keyJpgWide": "%key.extJpg%/1",
+        "keyMpg1K": "%key.extMpg%/0",
+        "keyMpg4K": "%key.extMpg%/1",
+        "keyZip": "%key.extZip%",
+        "model0.name": "%source.Featuring[0]%",
+        "model1.name": "%source.Featuring[1]%",
+        "rating": "f'normalized(%source.Rating%)",
+        "site": "f'lower(%source.Site%)",
+        "type": "f'lower(%source.Type%)",
+        // stage 2
+        "creatorType": "f'creatorType(%key.type%)",
+        "dateCCYYMMDD": "%key.dateISO/-//%",
+        "filePrefix": "%source.Site%_-f'optionalDate(%key.type%, %key.dateISO%_)%key.hyphenName%",
+        "model0_hypenName": "f'hyphenate(%model0.name%)",
+        "model1_hypenName": "f'hyphenate(%model1.name%)",
+        "url": "https://www.%key.site%.com/model/%key.castNames%/%key.type%/%key.dateISO%/f'upper(%key.hyphenName%)",
+        // stage 3
+        "model0_url": "https://www.%key.site%.com/model/%model0_hypenName%",
+        "model1_url": "https://www.%key.site%.com/model/%model1_hypenName%",
+    },
+}
 ```
 
 ```text
@@ -250,4 +249,12 @@ details: xxxx
     fileExtension: zip
     fileType: zip
 
+```
+
+```go
+package text
+
+import _ "fmt"
+
+fmt.Println(newItem)
 ```
