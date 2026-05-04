@@ -33,6 +33,8 @@ This step takes the site specific information form a copy to an item object in m
 
 ### Source text:
 
+Note: `Site` and `Type` are defined externally.
+
 ```text
 The Title Is - model1 - model2
 The Title Is
@@ -41,11 +43,72 @@ Featuring: model1, model2
 Director: CreatorName
 Rating: #.#
 ```
+Which parses to:  
+```go
+package text
+
+type TextSourceItem struct {
+	Site      string
+	Type      string
+	Title     string
+	Released  string
+	Featuring string
+	Creator   string
+	Rating    string
+}
+
+var newItem = &TextSourceItem{
+	Site:      `SiteName`,
+	Type:      `TypeName`,
+	Title:     `The Title Is`,
+	Released:  `Mmm dd, yyyy`,
+	Featuring: `model1, model2`,
+	Creator:   `CreatorName`,
+	Rating:    `#.#`,
+}
+```
+
 
 ### Intermediate text:
 
-Site = site  
-Type = type  
+Keys:
+```go
+package text
+
+var key = map[string]string {
+	// stage 0
+    "extMpg": "mp4",
+    "extJpg": "jpg",
+    "extZip": "zip",
+	// stage 1
+    "sortName": "f'sortName(%key.title%)",
+    "todayISO": "f'parseDate(%now()%)",
+    "castNames": "f'concatNames(%source.Featuring%)",
+    "dateISO": "f'parseDate(%source.Released%)",
+    "hyphenName": "f'hyphen(%key.title/ /-/%)",
+    "keyJpg": "%key.extJpg%",
+    "keyJpgTall": "%key.extJpg%/0",
+    "keyJpgWide": "%key.extJpg%/1",
+    "keyMpg1K": "%key.extMpg%/0",
+    "keyMpg4K": "%key.extMpg%/1",
+    "keyZip": "%key.extZip%",
+    "model0.name": "%source.Featuring[0]%",
+    "model1.name": "%source.Featuring[1]%",
+    "rating": "f'normalized(%source.Rating%)",
+    "site": "f'lower(%source.Site%)",
+    "type": "f'lower(%source.Type%)",
+    // stage 2
+    "creatorType": "f'creatorType(%key.type%)",
+    "dateCCYYMMDD": "%key.dateISO/-//%",
+    "filePrefix": "%source.Site%_-f'optionalDate(%key.type%, %key.dateISO%_)%key.hyphenName%",
+    "model0_hypenName": "f'hyphenate(%model0.name%)",
+    "model1_hypenName": "f'hyphenate(%model1.name%)",
+    "url": "https://www.%key.site%.com/model/%key.castNames%/%key.type%/%key.dateISO%/f'upper(%key.hyphenName%)",
+	// stage 3
+	"model0_url": "https://www.%key.site%.com/model/%model0_hypenName%",
+    "model1_url": "https://www.%key.site%.com/model/%model1_hypenName%",
+} 
+```
 
 ```text
 title: %source.Title%
@@ -53,21 +116,14 @@ id: /%key.type%/%key.site%/%key.idKey%
 type: %source.Type%
 site: %source.Site%
 released: %key.dateISO%
-cast: n:%model[0].title u:%key.model[0].url; g:f; id:/model/%key.site%/%model[0].key.hyphenName%
-cast: n:%model[1].title u:%key.model[1].url; g:f; id:/model/%key.site%/%model[1].key.hyphenName%
+cast: n:%model0.name u:model0.url; g:f; id:/model/%key.site%/%model0.hypenName%
+cast: n:%model1.name u:model1.url; g:f; id:/model/%key.site%/%model1.hypenName%
 released: %key.dateISO%
 director: %source.CreatorName%
 fileprefix: %key.filePrefix%
 rating: %source.Rating%
 url: %key.url%
 
-key.type: f'lower(%source.Type%)
-key.site: f'lower(%source.Site%)
-key.dateISO: f'parseDate(%source.Released%)
-key.castNames: f'concatNames(%source.Featuring)%
-key.hyphenName: f'hyphen(%key.title/ /-/%)
-key.url: https://www.%key.site%.com/model/%key.castNames%/%key.type%/%key.dateISO%/f'upper(%key.hyphenName%)
-key.filePrefix: %source.Site%-f'optionalDate(%key.id%)%key.hyphenName%
 
 files: xxxx
 
@@ -75,54 +131,30 @@ description: xxxx
 
 
 ---
-title: %source.model[0].Name%
-id: /model/%parent.key.site%/%key.hyphenName%
+title: %skey.model0.name%
+id: /model/%key.site%/%key.model0.hypenName%
 type: Model
-site: %parent.Site%
+site: %source.Site%
 dateAdded: %key.todayISO%
 gender: Female
-url: https://www.%parent.key.site%.com/model/%key.hyphenName%
-key.todayISO: f'parseDate(%now()%)
-key.castNames: f'concatNames(%source.Featuring)%
-key.hyphenName: f'hyphen(%key.title/ /-/%)
-fileprefix: Model_%parent.Site%_%key.hyphenName%
-file: xx; id:/model/%key.site%/%key.hyphenName%/jpg
+url: https://www.%key.site%.com/model/%key.model0.hypenName%
+fileprefix: Model_%source.Site%_%key.model0.hypenName%
+file: xx; id:/model/%key.site%/%key.model0.hypenName%/jpg
 origin: xx
 
 details: xxxx
 
 
 ---
-title: %source.model[0].Name%
-id: /model/%parent.key.site%/%key.hyphenName%
+title: %skey.model1.name%
+id: /model/%key.site%/%key.model1.hypenName%
 type: Model
-site: %parent.Site%
+site: %source.Site%
 dateAdded: %key.todayISO%
 gender: Female
-url: https://www.%parent.key.site%.com/model/%key.hyphenName%
-key.todayISO: f'parseDate(%now()%)
-key.castNames: f'concatNames(%source.Featuring)%
-key.hyphenName: f'hyphen(%key.title/ /-/%)
-fileprefix: Model_%parent.Site%_%key.hyphenName%
-file: xx; id:/model/%key.site%/%key.hyphenName%/jpg
-origin: xx
-
-details: xxxx
-
-
----
-title: %source.model[0].Name%
-id: /model/%parent.key.site%/%key.hyphenName%
-type: Model
-site: %parent.Site%
-dateAdded: %key.todayISO%
-gender: Female
-url: https://www.%parent.key.site%.com/model/%key.hyphenName%
-key.todayISO: f'parseDate(%now()%)
-key.castNames: f'concatNames(%source.Featuring)%
-key.hyphenName: f'hyphen(%key.title/ /-/%)
-fileprefix: Model_%parent.Site%_%key.hyphenName%
-file: xx; id:/model/%key.site%/%key.hyphenName%/jpg
+url: https://www.%key.site%.com/model/%key.model1.hypenName%
+fileprefix: Model_%source.Site%_%key.model1.hypenName%
+file: xx; id:/model/%key.site%/%key.model1.hypenName%/jpg
 origin: xx
 
 details: xxxx
@@ -133,6 +165,7 @@ details: xxxx
 
 ### Final text:
 
+**Item.yaml**:
 ```yaml
 - title: %source.Title%
   id: /%key.type%/%key.site%/%key.fileName%
@@ -157,17 +190,6 @@ details: xxxx
     - tag2
     - tag3
   keys:
-    creatorType: f'creatorType(%key.type%)
-    date8: %key.dateISO/-//%
-    dateISO: f'parseDate(%source.Released%)
-    fileName: %key.date8%_%key.hyphenItemName%
-    filePrefix: %site%_%key.fileName%
-    hyphenName: f'hyphen(%key.title/ /-/%)
-    rating: f'normalized(%source.Rating%)
-    site: f'lower(%site%)
-    sortName: f'sortName(%key.title%)
-    type: f'lower(%type%)
-    url: https://www.%key.site%.com/model/%key.castNames%/%key.type%/%key.dateISO%/f'upper(%key.hyphenName%)
 
 
 - title: Model Name 1
