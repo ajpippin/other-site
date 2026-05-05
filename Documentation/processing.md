@@ -55,9 +55,7 @@ type TextSourceItem struct {
 	Featuring string
 	Creator   string
 	Rating    string
-	Keys      map[string]string
 }
-
 ```
 
 
@@ -124,161 +122,123 @@ var newItem = &TextSourceItem{
 }
 ```
 
-file: p:MetArt-20260504-ruby-lips.jpg; k:72; t:jpg; o:portrait; id:/gallery/metart/20260504-ruby-lips/jpg
-file: p:MetArt-20260504-ruby-lips.zip; k:230048; n:101; t:zip; id:/gallery/metart/20260504-ruby-lips/zip
+```go
+package text
+
+type Source struct {
+	Site      string
+	Type      string
+	Title     string
+	Released  string
+	Featuring string
+	Creator   string
+	Rating    string
+}
+
+type Intermediate interface {
+	String(compact ...bool) string
+	KeyValue() string
+	Json(pretty ...bool) string
+	Yaml() string
+	
+	GetTitle() string
+	GetId() string
+	GetType() string
+	GetSite() string
+	GetSourceUrl() string
+	GetModels() []Model
+	GetModel(any) Model
+	GetFiles() []File
+	GetFile(any) File
+	GetFilePrefix() string
+	GetDate() string
+}
+
+type Item struct {
+	Intermediate
+
+	Title       string  `yaml:"title" json:"title"`
+	Id          string  `yaml:"id" json:"id"`
+	Type        string  `yaml:"type" json:"type"`
+	Site        string  `yaml:"site" json:"site"`
+	ReleaseDate string  `yaml:"release" json:"release"`
+	Models      []Model `yaml:"models" json:"models"`
+	Creator     string  `yaml:"creator" json:"creator"`
+	Rating      string  `yaml:"rating" json:"rating"`
+	Url         string  `yaml:"url" json:"url"`
+	Files       []File  `yaml:"files" json:"files"`
+	filePrefix  string  // Intermediate only
+}
+
+type Model struct {
+	Intermediate
+
+	Name       string `yaml:"title" json:"title"`
+	Id         string `yaml:"id" json:"id"`
+	Site       string `yaml:"site" json:"site"`
+	Gender     string `yaml:"gender" json:"gender"`
+	Url        string `yaml:"url" json:"url"`
+	AddedOn    string `yaml:"addedOn" json:"addedOn"`
+	Files      []File `yaml:"files" json:"files"`
+	filePrefix string // Intermediate only
+}
+
+type File struct {
+	Intermediate
+
+	Id          string `yaml:"id" json:"id"`
+	Path        string `yaml:"path" json:"path"`
+	Site        string `yaml:"site" json:"site"`
+	SizeKiB     int64  `yaml:"sizeKiB" json:"sizeKiB"`
+	FileType    string `yaml:"type" json:"type"`
+	Resolution  string `yaml:"res" json:"res"`
+	NumImages   int    `yaml:"images" json:"images"`
+	Orientation string `yaml:"orient" json:"orient"`
+	DateAdded   string `yaml:"dateAdded" json:"dateAdded"`
+}
+
+
+```
 
 
 ```text
-title: %source.Title%
-id: %key.id%
-type: %source.Type%
-site: %source.Site%
-released: %key.dateISO%
-cast: n:%key.model0_name u:key.model0_url; g:f; id:/model/%key.site%/%model0_hypenName%
-cast: n:%key.model1_name u:key.model1_url; g:f; id:/model/%key.site%/%model1_hypenName%
-released: %key.dateISO%
-director: %source.CreatorName%
-fileprefix: %key.filePrefix%
-rating: %source.Rating%
-url: %key.url%
+title: {{.Title}}
+id: {{.Id}}
+type: {{.Type}}
+site: {{.Site}}
+released: {{.DateISO}}
+model: {{.Model[n].AsKeyValue()}}
+director: {{.CreatorName}}
+fileprefix: {{.FilePrefix}}
+rating: {{.Rating}}
+url: {{.Url}}
 
 files: xxxx
 
-description: xxxx
+ddt: xxxx
 
 
 ---
-title: %key.model0_name%
-id: %key.model0_id%
-type: Model
-site: %source.Site%
-dateAdded: %key.todayISO%
-gender: Female
-url: %key.model0_url%
-fileprefix: %key.model0_fileName%
-file: p:%key.model0_fileName%.%key.extJpg%; k:% t:%keyJpg%;  id:/model/%key.site%/%key.model0.hypenName%/jpg
-origin: xx
-
-details: xxxx
-
-
----
-title: %skey.model1.name%
-id: /model/%key.site%/%key.model1.hypenName%
-type: Model
-site: %source.Site%
-dateAdded: %key.todayISO%
-gender: Female
-url: https://www.%key.site%.com/model/%key.model1.hypenName%
-fileprefix: Model_%source.Site%_%key.model1.hypenName%
-file: xx; id:/model/%key.site%/%key.model1.hypenName%/jpg
-origin: xx
-
-details: xxxx
-
+%for each .Model {
+    name: {{.Name}}
+    id: {{.Id}}
+    type: Model
+    site: {{.Site}}
+    gender: {{.Gender}}}}
+    url: {{.Url}}
+    dateAdded: {{.TodayISO}}
+    fileprefix: {{.FilePrefix}}
+    
+    files: xxxx
+    
+    origin: xx
+    
+    ddt: xxxx
+    
+    
+    ---
+}
 
 ---   ============================================================================================================== ---
 ```
 
-### Final text:
-
-Additional keys:
-```go
-var newItem = &TextSourceItem{
-    Keys = map[string]string {
-        "file_count": "f'count(%source.Files%)"
-        "mpg1KFile_size": "f'size(%file0_name%)"
-        "mpg1KFile_type": "f'type(%file0_name%)"
-        "mpg1KFile_orient": "f'orientation(%file0_name%)"
-        "mpg1KFile_images": "f'images(%file0_name%)"
-        "mpg4KFile_size": "f'size(%file0_name%)"
-        "mpg4KFile_type": "f'type(%file0_name%)"
-        "mpg4KFile_orient": "f'orientation(%file0_name%)"
-        "mpg4KFile_images": "f'images(%file0_name%)"
-        "zipFile_size": "f'size(%file0_name%)"
-        "zipFile_type": "f'type(%file0_name%)"
-        "zipFile_orient": "f'orientation(%file0_name%)"
-        "zipFile_images": "f'images(%file0_name%)"
-        "jpgFile_size": "f'size(%file0_name%)"
-        "jpgFile_type": "f'type(%file0_name%)"
-        "jpgFile_orient": "f'orientation(%file0_name%)"
-        "jpgFile_images": "f'images(%file0_name%)"
-        "model0_fileSize": "f'size(%file0_name%)"
-        "model1_fileSize": "f'size(%file0_name%)"
-    },
-}
-```
-        "zipSequence": "0"
-		"jpgSequence": "0"
-
-
-**Item.yaml**:
-```yaml
-- title: %source.Title%
-  id: /%key.type%/%key.site%/%key.fileName%
-  type: %source.type%
-  site: %source.site%
-  dateISO: %key.dateISO%
-  models:
-    - id: /model/%key.site%/%key.model0_hypenName%
-    - id: /model/%key.site%/%key.model1_hypenName%
-  files:
-    - id: /%key.id%/%key.extZip%/%key.zipSequence%
-    - id: /%key.id%/%key.extJpg%/%key.jpgSequence%
-  details:
-      filePrefix: %key.filePrefix%
-      "%key.creatorType%": %source.CreatorName%
-      url: %key.url%
-      rating: %key.Rating%
-      key2: value2
-      key3: value3
-  tags:
-    - tag1
-    - tag2
-    - tag3
-
-- title: %key.model0_name%
-  id: %key.model0_id%
-  type: Model
-  site: %source.Site%
-  files:
-    - id: %key.model0_id%/%key.zipExt%/0
-  details:
-    addedOn: %key.todayISO%
-    filePrefix: Model_%source.Site%_%key.model0_hyphenName%
-    key3: value3
-    key4: value4
-- title: %key.model1_name%
-  id: %key.model1_id%
-  type: Model
-  site: %source.Site%
-  files:
-    - id: %key.model0_id%/%key.jpgExt%/0
-  details:
-    addedOn: %key.todayISO%
-    filePrefix: %site%_%type%_%key.hyphenName%
-    key3: value3
-    key4: value4
-
-
-  "model0_fileName": "Model_%source.site%_%model0_hypenName%",
-  "model1_fileName": "Model_%source.site%_%model1_hypenName%",
-
-- id: /%key.id%/%key.extZip%/%key.zipSequence%
-  type: File
-  site: %source.Site%
-  details:
-    path: %key.filePrefix%.%key.extZip%
-    sizeKiB: %key.zipFile_size%
-    type: %key.extZip%
-    images: %key.zipFile_images%
-- id: /%key.id%/%key.extJpg%/%key.jpgSequence%
-  type: File
-  site: %parent.key.site%
-  details:
-    path: %key.filePrefix%.%key.extJpg%
-    sizeKiB: %key.jpgFile_size%
-    type: %key.jpgExt%
-    orientation: %key.jpgOrientation%
-
-```
