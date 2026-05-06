@@ -2,6 +2,7 @@
   Directory: /Users/andy/Downloads/z-MAD                                                                [08:47:03]
   Directory: /Users/andy/Downloads/z-MAD                                                                [08:47:04]
   Directory: /Users/andy/Downloads/z-MAD                                                                [08:51:44]
+  Directory: /Users/andy/Downloads/z-MAD                                                                [09:53:21]
   Directory: /Users/andy/Downloads/z-MAD                                                                [16:28:55]
   Directory: /Users/andy/Downloads/z-MAD                                             [10:32:36]
   Directory: /Users/andy/Downloads/z-MAD                                [10:54:05]
@@ -907,19 +908,33 @@ file: p:MetArt-20260505-presenting-bianca-shanti.jpg; k:68; t:jpg; o:portrait;
 file: p:MetArt-20260505-presenting-bianca-shanti.zip; k:262944; n:122; t:zip;
 file: p:MetArt-20260505-snake-charmer.jpg; k:68; t:jpg; o:portrait;
 file: p:MetArt-20260505-snake-charmer.zip; k:443200; n:141; t:zip;
+file: p:MetArt-20260506-breezy-and-bare.jpg; k:92; t:jpg; o:portrait;
+file: p:MetArt-20260506-breezy-and-bare.zip; k:476032; n:159; t:zip;
+file: p:MetArt-20260506-enchanting-in-red.jpg; k:116; t:jpg; o:portrait;
+file: p:MetArt-20260506-enchanting-in-red.zip; k:262960; n:105; t:zip;
+file: p:MetArt-20260506-lilac-limber.jpg; k:84; t:jpg; o:portrait;
+file: p:MetArt-20260506-lilac-limber.zip; k:262976; n:120; t:zip;
+file: p:MetArt-20260506-morning-view-1.jpg; k:96; t:jpg; o:portrait;
+file: p:MetArt-20260506-morning-view-1.zip; k:426336; n:127; t:zip;
 file: p:Model_MetArt_bianca-shanti.jpg; k:140; t:jpg; o:portrait;
+file: p:Model_MetArt_electra-noir.jpg; k:36; t:jpg; o:portrait;
+file: p:Model_MetArt_freya-mayer.jpg; k:44; t:jpg; o:portrait;
 file: p:Model_MetArt_hilary-c.jpg; k:132; t:jpg; o:portrait;
 file: p:Model_MetArt_hope-heaven.jpg; k:44; t:jpg; o:portrait;
 file: p:Model_MetArt_indiana.jpg; k:80; t:jpg; o:portrait;
 file: p:Model_MetArt_lalli.jpg; k:40; t:jpg; o:portrait;
+file: p:Model_MetArt_leya-desantis.jpg; k:40; t:jpg; o:portrait;
 file: p:Model_MetArt_melania.jpg; k:92; t:jpg; o:portrait;
 file: p:Model_MetArt_milky.jpg; k:84; t:jpg; o:portrait;
 file: p:Model_MetArt_monika-may.jpg; k:36; t:jpg; o:portrait;
+file: p:Model_MetArt_olivia-westsun.jpg; k:40; t:jpg; o:portrait;
 file: p:Model_MetArt_rose-sarinz.jpg; k:32; t:jpg; o:portrait;
 file: p:Model_MetArt_ryana.jpg; k:40; t:jpg; o:portrait;
 file: p:Model_MetArt_stella-bloom.jpg; k:44; t:jpg; o:portrait;
 file: p:Model_MetArt_victoria-mur.jpg; k:40; t:jpg; o:portrait;
 file: p:Model_SexArt_abby-margarita.jpg; k:136; t:jpg; o:portrait;
+file: p:Model_SexArt_cee-licious.jpg; k:100; t:jpg; o:portrait;
+file: p:Model_SexArt_francis-x.jpg; k:36; t:jpg; o:portrait;
 file: p:Model_SexArt_taya-sour.jpg; k:36; t:jpg; o:portrait;
 file: p:Model_VivThomas_betty-lang.jpg; k:348; t:jpg; o:portrait;
 file: p:Model_VivThomas_clemence-audiard.jpg; k:76; t:jpg; o:portrait;
@@ -1012,6 +1027,12 @@ file: p:SexArt-20260504-sweet-dreams.jpg; k:76; t:jpg; o:portrait;
 file: p:SexArt-20260504-sweet-dreams.zip; k:263056; n:103; t:zip;
 file: p:SexArt-20260505-hot-serving.jpg; k:96; t:jpg; o:portrait;
 file: p:SexArt-20260505-hot-serving.zip; k:639232; n:112; t:zip;
+file: p:SexArt-20260506-tender-intimacy-4k.mp4; k:17662432; t:mp4; r:1080p;
+file: p:SexArt-20260506-tender-intimacy-4k.mp4; k:17662432; t:mp4; r:2160p;
+file: p:SexArt-20260506-tender-intimacy-wide.jpg; k:168; t:jpg; o:landscape;
+file: p:SexArt-20260506-tender-intimacy.jpg; k:96; t:jpg; o:portrait;
+file: p:SexArt-20260506-tender-intimacy.mp4; k:1803040; t:mp4; r:1080p;
+file: p:SexArt-20260506-tender-intimacy.zip; k:344544; n:147; t:zip;
 file: p:SexArt-20261111-test1-1080.mp4; k:0; t:mp4; r:1080p;
 file: p:SexArt-20261111-test1-2160.mp4; k:0; t:mp4; r:2160p;
 file: p:SexArt-20261111-test2-1080.mp4; k:0; t:mp4; r:1080p;
