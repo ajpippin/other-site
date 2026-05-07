@@ -1,4 +1,5 @@
 s@^Debut Age:@debutAge:@
+s@^        Debut Age: @debutAge: @
 s@^Age When Published:@ageWhenPublished:@
 s@^Eye color:@eyes:@
 s@^Hair color:@hair:@
