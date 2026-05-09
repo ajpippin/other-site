@@ -13,6 +13,8 @@
   Directory: /Users/andy/Downloads/z-MAD                                                                [16:28:55]
   Directory: /Users/andy/Downloads/z-MAD                                             [10:32:36]
   Directory: /Users/andy/Downloads/z-MAD                                [10:54:05]
+  Directory: /Users/andy/Downloads/z-MAD                        [10:01:09]
+----------------------------------------------------------------------------
 ------------------------------------------------------------------------------------
 -------------------------------------------------------------------------------------------------
 --------------------------------------------------------------------------------------------------------------------
@@ -932,6 +934,22 @@ file: p:MetArt-20260507-presenting-megan-luz.jpg; k:96; t:jpg; o:portrait;
 file: p:MetArt-20260507-presenting-megan-luz.zip; k:197024; n:103; t:zip;
 file: p:MetArt-20260507-sultry-meets-sweet.jpg; k:80; t:jpg; o:portrait;
 file: p:MetArt-20260507-sultry-meets-sweet.zip; k:279264; n:123; t:zip;
+file: p:MetArt-20260508-faraway-river-1.jpg; k:68; t:jpg; o:portrait;
+file: p:MetArt-20260508-faraway-river-1.zip; k:538244; n:119; t:zip;
+file: p:MetArt-20260508-presenting-victoria-benz.jpg; k:84; t:jpg; o:portrait;
+file: p:MetArt-20260508-presenting-victoria-benz.zip; k:361792; n:142; t:zip;
+file: p:MetArt-20260508-satin-session.jpg; k:88; t:jpg; o:portrait;
+file: p:MetArt-20260508-satin-session.zip; k:288864; n:123; t:zip;
+file: p:MetArt-20260508-sweet-heat.jpg; k:92; t:jpg; o:portrait;
+file: p:MetArt-20260508-sweet-heat.zip; k:631484; n:126; t:zip;
+file: p:MetArt-20260509-black-lace-mood.jpg; k:124; t:jpg; o:portrait;
+file: p:MetArt-20260509-black-lace-mood.zip; k:230272; n:124; t:zip;
+file: p:MetArt-20260509-crochet-crush.jpg; k:96; t:jpg; o:portrait;
+file: p:MetArt-20260509-crochet-crush.zip; k:442944; n:102; t:zip;
+file: p:MetArt-20260509-forest-whispers.jpg; k:120; t:jpg; o:portrait;
+file: p:MetArt-20260509-forest-whispers.zip; k:966976; n:123; t:zip;
+file: p:MetArt-20260509-presenting-maggie-jane.jpg; k:64; t:jpg; o:portrait;
+file: p:MetArt-20260509-presenting-maggie-jane.zip; k:294992; n:122; t:zip;
 file: p:Model_MetArt_bianca-shanti.jpg; k:140; t:jpg; o:portrait;
 file: p:Model_MetArt_electra-noir.jpg; k:36; t:jpg; o:portrait;
 file: p:Model_MetArt_florencia.jpg; k:96; t:jpg; o:portrait;
@@ -948,6 +966,7 @@ file: p:Model_MetArt_monika-may.jpg; k:36; t:jpg; o:portrait;
 file: p:Model_MetArt_olivia-westsun.jpg; k:40; t:jpg; o:portrait;
 file: p:Model_MetArt_rose-sarinz.jpg; k:32; t:jpg; o:portrait;
 file: p:Model_MetArt_ryana.jpg; k:40; t:jpg; o:portrait;
+file: p:Model_MetArt_sadara.jpg; k:40; t:jpg; o:portrait;
 file: p:Model_MetArt_stella-bloom.jpg; k:44; t:jpg; o:portrait;
 file: p:Model_MetArt_suzanna-a.jpg; k:20; t:jpg; o:portrait;
 file: p:Model_MetArt_victoria-mur.jpg; k:40; t:jpg; o:portrait;
@@ -1058,6 +1077,13 @@ file: p:SexArt-20260506-tender-intimacy.mp4; k:1803040; t:mp4; r:1080p;
 file: p:SexArt-20260506-tender-intimacy.zip; k:344544; n:147; t:zip;
 file: p:SexArt-20260507-after-party.jpg; k:116; t:jpg; o:portrait;
 file: p:SexArt-20260507-after-party.zip; k:360992; n:136; t:zip;
+file: p:SexArt-20260508-night-connection-4k.mp4; k:16278616; t:mp4; r:1080p;
+file: p:SexArt-20260508-night-connection-4k.mp4; k:16278616; t:mp4; r:2160p;
+file: p:SexArt-20260508-night-connection.jpg; k:96; t:jpg; o:portrait;
+file: p:SexArt-20260508-night-connection.mp4; k:1645260; t:mp4; r:1080p;
+file: p:SexArt-20260508-night-connection.zip; k:334564; n:139; t:zip;
+file: p:SexArt-20260509-in-a-whirl.jpg; k:108; t:jpg; o:portrait;
+file: p:SexArt-20260509-in-a-whirl.zip; k:508048; n:136; t:zip;
 file: p:SexArt-20261111-test1-1080.mp4; k:0; t:mp4; r:1080p;
 file: p:SexArt-20261111-test1-2160.mp4; k:0; t:mp4; r:2160p;
 file: p:SexArt-20261111-test2-1080.mp4; k:0; t:mp4; r:1080p;
@@ -1108,3 +1134,7 @@ file: p:VivThomas-20260505-before-im-gone.jpg; k:92; t:jpg; o:portrait;
 file: p:VivThomas-20260505-before-im-gone.mp4; k:1786752; t:mp4; r:1080p;
 file: p:VivThomas-20260507-casual-fling.jpg; k:80; t:jpg; o:portrait;
 file: p:VivThomas-20260507-casual-fling.zip; k:835632; n:130; t:zip;
+file: p:VivThomas-20260508-wet-you-4k.mp4; k:4735120; t:mp4; r:1080p;
+file: p:VivThomas-20260508-wet-you-4k.mp4; k:4735120; t:mp4; r:2160p;
+file: p:VivThomas-20260508-wet-you.jpg; k:96; t:jpg; o:portrait;
+file: p:VivThomas-20260508-wet-you.mp4; k:1226864; t:mp4; r:1080p;
