@@ -186,7 +186,10 @@ Starting 2026-05-01, all objects that can be persisted (details, files, models) 
 #### For example:
 
     /gallery/metart/20260501-presenting-erika-heiss
-    /gallery/metart/20260501-presenting-erika-heiss/details   (always a key-value list)
+    /gallery/metart/20260501-presenting-erika-heiss/details   (HTML text (probably key-value or YAML list))
+    /gallery/metart/20260501-presenting-erika-heiss/kv        (key-value text list)
+    /gallery/metart/20260501-presenting-erika-heiss/json      (JSON structure)
+    /gallery/metart/20260501-presenting-erika-heiss/yaml      (YAML structure)
     /gallery/metart/20260501-presenting-erika-heiss/jpg/0     (usually a clean portrait)
     /gallery/metart/20260501-presenting-erika-heiss/jpg/1     (usually a clean landscape)
     /gallery/metart/20260501-presenting-erika-heiss/zip/0     (usually high quality)

@@ -11,6 +11,7 @@
   Directory: /Users/andy/Downloads/z-MAD                                                                [10:12:52]
   Directory: /Users/andy/Downloads/z-MAD                                                                [10:13:16]
   Directory: /Users/andy/Downloads/z-MAD                                                                [16:28:55]
+  Directory: /Users/andy/Downloads/z-MAD                                                   [09:10:51]
   Directory: /Users/andy/Downloads/z-MAD                                             [10:32:36]
   Directory: /Users/andy/Downloads/z-MAD                                [10:54:05]
   Directory: /Users/andy/Downloads/z-MAD                        [09:00:55]
@@ -19,6 +20,7 @@
 ----------------------------------------------------------------------------
 ------------------------------------------------------------------------------------
 -------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------
 --------------------------------------------------------------------------------------------------------------------
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 file: p:MetArt_20260502_black-lace-fantasy.jpg; k:92; t:jpg; o:portrait;
@@ -980,6 +982,14 @@ file: p:MetArt-20260512-velvet-pages.jpg; k:76; t:jpg; o:portrait;
 file: p:MetArt-20260512-velvet-pages.zip; k:557936; n:104; t:zip;
 file: p:MetArt-20260512-wild-femininity.jpg; k:88; t:jpg; o:portrait;
 file: p:MetArt-20260512-wild-femininity.zip; k:246592; n:103; t:zip;
+file: p:MetArt-20260513-hearts-and-heels.jpg; k:80; t:jpg; o:portrait;
+file: p:MetArt-20260513-hearts-and-heels.zip; k:377200; n:129; t:zip;
+file: p:MetArt-20260513-naughty-mischief.jpg; k:136; t:jpg; o:portrait;
+file: p:MetArt-20260513-naughty-mischief.zip; k:458880; n:128; t:zip;
+file: p:MetArt-20260513-presenting-ingrid-noelle.jpg; k:88; t:jpg; o:portrait;
+file: p:MetArt-20260513-presenting-ingrid-noelle.zip; k:262960; n:138; t:zip;
+file: p:MetArt-20260513-red-power.jpg; k:92; t:jpg; o:portrait;
+file: p:MetArt-20260513-red-power.zip; k:344880; n:126; t:zip;
 file: p:Model_MetArt_andrea.jpg; k:36; t:jpg; o:portrait;
 file: p:Model_MetArt_bella-spark.jpg; k:136; t:jpg; o:portrait;
 file: p:Model_MetArt_berta.jpg; k:40; t:jpg; o:portrait;
@@ -989,6 +999,7 @@ file: p:Model_MetArt_bozhena.jpg; k:44; t:jpg; o:portrait;
 file: p:Model_MetArt_chloe-moss.jpg; k:44; t:jpg; o:portrait;
 file: p:Model_MetArt_diana-jam.jpg; k:36; t:jpg; o:portrait;
 file: p:Model_MetArt_electra-noir.jpg; k:36; t:jpg; o:portrait;
+file: p:Model_MetArt_elle-tan.jpg; k:140; t:jpg; o:portrait;
 file: p:Model_MetArt_florencia.jpg; k:96; t:jpg; o:portrait;
 file: p:Model_MetArt_foxy-alissa.jpg; k:36; t:jpg; o:portrait;
 file: p:Model_MetArt_freya-mayer.jpg; k:44; t:jpg; o:portrait;
@@ -996,8 +1007,11 @@ file: p:Model_MetArt_helena-valle.jpg; k:108; t:jpg; o:portrait;
 file: p:Model_MetArt_hilary-c.jpg; k:132; t:jpg; o:portrait;
 file: p:Model_MetArt_hope-heaven.jpg; k:44; t:jpg; o:portrait;
 file: p:Model_MetArt_indiana.jpg; k:80; t:jpg; o:portrait;
+file: p:Model_MetArt_ingrid-noelle.jpg; k:128; t:jpg; o:portrait;
 file: p:Model_MetArt_julia-morozzi.jpg; k:40; t:jpg; o:portrait;
 file: p:Model_MetArt_lalli.jpg; k:40; t:jpg; o:portrait;
+file: p:Model_MetArt_lana-lane.jpg; k:40; t:jpg; o:portrait;
+file: p:Model_MetArt_lety-star.jpg; k:36; t:jpg; o:portrait;
 file: p:Model_MetArt_leya-desantis.jpg; k:40; t:jpg; o:portrait;
 file: p:Model_MetArt_lia-pink.jpg; k:36; t:jpg; o:portrait;
 file: p:Model_MetArt_luna-pica.jpg; k:40; t:jpg; o:portrait;
@@ -1029,11 +1043,13 @@ file: p:Model_SexArt_emily-stone.jpg; k:32; t:jpg; o:portrait;
 file: p:Model_SexArt_fibi-euro.jpg; k:40; t:jpg; o:portrait;
 file: p:Model_SexArt_francis-x.jpg; k:36; t:jpg; o:portrait;
 file: p:Model_SexArt_georgia.jpg; k:120; t:jpg; o:portrait;
+file: p:Model_SexArt_matthew-meier.jpg; k:32; t:jpg; o:portrait;
 file: p:Model_SexArt_matty.jpg; k:36; t:jpg; o:portrait;
 file: p:Model_SexArt_maya-sinn.jpg; k:36; t:jpg; o:portrait;
 file: p:Model_SexArt_noi-feja.jpg; k:144; t:jpg; o:portrait;
 file: p:Model_SexArt_norah-juliette.jpg; k:152; t:jpg; o:portrait;
 file: p:Model_SexArt_shania-vega.jpg; k:20; t:jpg; o:portrait;
+file: p:Model_SexArt_sveltelana.jpg; k:44; t:jpg; o:portrait;
 file: p:Model_SexArt_taya-sour.jpg; k:36; t:jpg; o:portrait;
 file: p:Model_SexArt_tommy-cabrio.jpg; k:32; t:jpg; o:portrait;
 file: p:Model_VivThomas_alice-klay.jpg; k:40; t:jpg; o:portrait;
@@ -1159,6 +1175,11 @@ file: p:SexArt-20260512-bright-light.jpg; k:88; t:jpg; o:portrait;
 file: p:SexArt-20260512-bright-light.zip; k:328640; n:104; t:zip;
 file: p:SexArt-20260512-intimate-duel-1.jpg; k:604; t:jpg; o:portrait;
 file: p:SexArt-20260512-intimate-duel-1.zip; k:131840; n:104; t:zip;
+file: p:SexArt-20260513-close-moment-4k.mp4; k:9929040; t:mp4; r:1080p;
+file: p:SexArt-20260513-close-moment-4k.mp4; k:9929040; t:mp4; r:2160p;
+file: p:SexArt-20260513-close-moment.jpg; k:96; t:jpg; o:portrait;
+file: p:SexArt-20260513-close-moment.mp4; k:1720768; t:mp4; r:1080p;
+file: p:SexArt-20260513-close-moment.zip; k:393984; n:156; t:zip;
 file: p:SexArt-20261111-test1-1080.mp4; k:0; t:mp4; r:1080p;
 file: p:SexArt-20261111-test1-2160.mp4; k:0; t:mp4; r:2160p;
 file: p:SexArt-20261111-test2-1080.mp4; k:0; t:mp4; r:1080p;
