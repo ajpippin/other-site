@@ -27,5 +27,9 @@ s@^site: [sS][aA]$@site: SexArt@
 s@^site: [vV][tT]$@site: VivThomas@
 
 s@id:/model/MetArt/@id:/model/metart/@
+s@id: /model/MetArt/@id: /model/metart/@
 s@id:/model/SexArt/@id:/model/sexart/@
+s@id: /model/SexArt/@id: /model/sexart/@
 s@id:/model/VivThomas/@id:/model/vivthomas/@
+s@id: /model/VivThomas/@id: /model/vivthomas/@
+s@;; id:/model@; id:/model@
