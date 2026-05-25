@@ -33,3 +33,6 @@ s@id: /model/SexArt/@id: /model/sexart/@
 s@id:/model/VivThomas/@id:/model/vivthomas/@
 s@id: /model/VivThomas/@id: /model/vivthomas/@
 s@;; id:/model@; id:/model@
+
+s@^  URL: @url: @
+s@^  FILEPREFIX: @filePrefix: @
