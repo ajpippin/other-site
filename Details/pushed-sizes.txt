@@ -18,10 +18,12 @@
   Directory: /Users/andy/Downloads/z-MAD                                                   [14:46:17]
   Directory: /Users/andy/Downloads/z-MAD                                             [10:32:36]
   Directory: /Users/andy/Downloads/z-MAD                                [10:54:05]
+  Directory: /Users/andy/Downloads/z-MAD                           [09:05:15]
   Directory: /Users/andy/Downloads/z-MAD                        [09:00:55]
   Directory: /Users/andy/Downloads/z-MAD                        [10:01:09]
   Directory: /Users/andy/Downloads/z-MAD                        [11:46:46]
 ----------------------------------------------------------------------------
+-------------------------------------------------------------------------------
 ------------------------------------------------------------------------------------
 -------------------------------------------------------------------------------------------------
 -------------------------------------------------------------------------------------------------------
@@ -1100,6 +1102,16 @@ file: p:MetArt-20260525-turquoise-delight.jpg; k:92; t:jpg; o:portrait;
 file: p:MetArt-20260525-turquoise-delight.zip; k:262864; n:124; t:zip;
 file: p:MetArt-20260525-white-open-1.jpg; k:96; t:jpg; o:portrait;
 file: p:MetArt-20260525-white-open-1.zip; k:590080; n:135; t:zip;
+file: p:MetArt-20260526-denim-days.jpg; k:172; t:jpg; o:portrait;
+file: p:MetArt-20260526-denim-days.zip; k:852768; n:130; t:zip;
+file: p:MetArt-20260526-early-hours.jpg; k:56; t:jpg; o:portrait;
+file: p:MetArt-20260526-early-hours.zip; k:623024; n:123; t:zip;
+file: p:MetArt-20260526-teasing-eyes.jpg; k:72; t:jpg; o:portrait;
+file: p:MetArt-20260526-teasing-eyes.zip; k:229760; n:109; t:zip;
+file: p:MetArt-20260526-uncovered-2-4k.mp4; k:2999152; t:mp4; r:1080p;
+file: p:MetArt-20260526-uncovered-2-4k.mp4; k:2999152; t:mp4; r:2160p;
+file: p:MetArt-20260526-uncovered-2.jpg; k:124; t:jpg; o:portrait;
+file: p:MetArt-20260526-uncovered-2.mp4; k:443040; t:mp4; r:1080p;
 file: p:Model_MetArt_amber-slassh.jpg; k:112; t:jpg; o:portrait;
 file: p:Model_MetArt_amira-day.jpg; k:36; t:jpg; o:portrait;
 file: p:Model_MetArt_anastasia-barbi.jpg; k:36; t:jpg; o:portrait;
@@ -1116,15 +1128,19 @@ file: p:Model_MetArt_bianca-shanti.jpg; k:140; t:jpg; o:portrait;
 file: p:Model_MetArt_bozhena.jpg; k:44; t:jpg; o:portrait;
 file: p:Model_MetArt_chiara.jpg; k:40; t:jpg; o:portrait;
 file: p:Model_MetArt_chloe-moss.jpg; k:44; t:jpg; o:portrait;
+file: p:Model_MetArt_danna-bliss.jpg; k:40; t:jpg; o:portrait;
 file: p:Model_MetArt_daria-sento.jpg; k:36; t:jpg; o:portrait;
 file: p:Model_MetArt_deena.jpg; k:36; t:jpg; o:portrait;
 file: p:Model_MetArt_demont.jpg; k:36; t:jpg; o:portrait;
 file: p:Model_MetArt_diana-jam.jpg; k:36; t:jpg; o:portrait;
 file: p:Model_MetArt_dita-v.jpg; k:16; t:jpg; o:portrait;
+file: p:Model_MetArt_dominika-din.jpg; k:44; t:jpg; o:portrait;
 file: p:Model_MetArt_electra-noir.jpg; k:36; t:jpg; o:portrait;
 file: p:Model_MetArt_elle-tan.jpg; k:140; t:jpg; o:portrait;
+file: p:Model_MetArt_elly-clutch.jpg; k:48; t:jpg; o:portrait;
 file: p:Model_MetArt_emily-swan.jpg; k:32; t:jpg; o:portrait;
 file: p:Model_MetArt_estella.jpg; k:48; t:jpg; o:portrait;
+file: p:Model_MetArt_eva.jpg; k:32; t:jpg; o:portrait;
 file: p:Model_MetArt_eve-sweet.jpg; k:36; t:jpg; o:portrait;
 file: p:Model_MetArt_florencia.jpg; k:96; t:jpg; o:portrait;
 file: p:Model_MetArt_foxy-alissa.jpg; k:36; t:jpg; o:portrait;
@@ -1219,6 +1235,7 @@ file: p:Model_SexArt_norah-juliette.jpg; k:152; t:jpg; o:portrait;
 file: p:Model_SexArt_olivia-sparkle.jpg; k:40; t:jpg; o:portrait;
 file: p:Model_SexArt_peach-lollypop.jpg; k:40; t:jpg; o:portrait;
 file: p:Model_SexArt_perry-layne.jpg; k:116; t:jpg; o:portrait;
+file: p:Model_SexArt_sailor.jpg; k:40; t:jpg; o:portrait;
 file: p:Model_SexArt_sally-hunter.jpg; k:164; t:jpg; o:portrait;
 file: p:Model_SexArt_shania-vega.jpg; k:20; t:jpg; o:portrait;
 file: p:Model_SexArt_sveltelana.jpg; k:44; t:jpg; o:portrait;
@@ -1238,7 +1255,9 @@ file: p:Model_VivThomas_jo.jpg; k:32; t:jpg; o:portrait;
 file: p:Model_VivThomas_kate-quinn.jpg; k:40; t:jpg; o:portrait;
 file: p:Model_VivThomas_linda.jpg; k:336; t:jpg; o:portrait;
 file: p:Model_VivThomas_lisbet.jpg; k:96; t:jpg; o:portrait;
+file: p:Model_VivThomas_lucy-mendez.jpg; k:268; t:jpg; o:portrait;
 file: p:Model_VivThomas_melania.jpg; k:40; t:jpg; o:portrait;
+file: p:Model_VivThomas_mia-de-vil.jpg; k:36; t:jpg; o:portrait;
 file: p:Model_VivThomas_milena-ray.jpg; k:32; t:jpg; o:portrait;
 file: p:Model_VivThomas_norah-juliette.jpg; k:96; t:jpg; o:portrait;
 file: p:Model_VivThomas_pearl.jpg; k:40; t:jpg; o:portrait;
@@ -1248,6 +1267,7 @@ file: p:Model_VivThomas_sofia-rivers.jpg; k:372; t:jpg; o:portrait;
 file: p:Model_VivThomas_sumiko.jpg; k:40; t:jpg; o:portrait;
 file: p:Model_VivThomas_sveltelana.jpg; k:332; t:jpg; o:portrait;
 file: p:Model_VivThomas_sylvia-wise.jpg; k:36; t:jpg; o:portrait;
+file: p:Model_VivThomas_veronica-leal.jpg; k:36; t:jpg; o:portrait;
 file: p:SexArt_20260502_cozy-dreams.jpg; k:88; t:jpg; o:portrait;
 file: p:SexArt_20260502_cozy-dreams.zip; k:295088; n:121; t:zip;
 file: p:SexArt-20260412-bright-vision-4k.mp4; k:14222048; t:mp4; r:1080p;
@@ -1405,6 +1425,8 @@ file: p:SexArt-20260524-sultry-touch.mp4; k:1523840; t:mp4; r:1080p;
 file: p:SexArt-20260524-sultry-touch.zip; k:328608; n:110; t:zip;
 file: p:SexArt-20260525-perfect-temptation.jpg; k:96; t:jpg; o:portrait;
 file: p:SexArt-20260525-perfect-temptation.zip; k:328512; n:122; t:zip;
+file: p:SexArt-20260526-tight-laced.jpg; k:64; t:jpg; o:portrait;
+file: p:SexArt-20260526-tight-laced.zip; k:197088; n:114; t:zip;
 file: p:SexArt-20261111-test1-1080.mp4; k:0; t:mp4; r:1080p;
 file: p:SexArt-20261111-test1-2160.mp4; k:0; t:mp4; r:2160p;
 file: p:SexArt-20261111-test2-1080.mp4; k:0; t:mp4; r:1080p;
@@ -1483,3 +1505,7 @@ file: p:VivThomas-20260522-pearls-desires-2.jpg; k:108; t:jpg; o:portrait;
 file: p:VivThomas-20260522-pearls-desires-2.mp4; k:1688208; t:mp4; r:1080p;
 file: p:VivThomas-20260524-sweet-midnight.jpg; k:84; t:jpg; o:portrait;
 file: p:VivThomas-20260524-sweet-midnight.zip; k:525184; n:111; t:zip;
+file: p:VivThomas-20260526-join-in.jpg; k:92; t:jpg; o:portrait;
+file: p:VivThomas-20260526-join-in.zip; k:459600; n:111; t:zip;
+file: p:VivThomas-20260526-until-it-feels-real-1.jpg; k:484; t:jpg; o:portrait;
+file: p:VivThomas-20260526-until-it-feels-real-1.zip; k:147728; n:104; t:zip;
