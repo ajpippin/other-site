@@ -18,6 +18,7 @@
   Directory: /Users/andy/Downloads/z-MAD                                                   [14:46:17]
   Directory: /Users/andy/Downloads/z-MAD                                             [10:32:36]
   Directory: /Users/andy/Downloads/z-MAD                                [10:54:05]
+  Directory: /Users/andy/Downloads/z-MAD                           [07:57:29]
   Directory: /Users/andy/Downloads/z-MAD                           [09:05:15]
   Directory: /Users/andy/Downloads/z-MAD                        [09:00:55]
   Directory: /Users/andy/Downloads/z-MAD                        [10:01:09]
@@ -1112,6 +1113,14 @@ file: p:MetArt-20260526-uncovered-2-4k.mp4; k:2999152; t:mp4; r:1080p;
 file: p:MetArt-20260526-uncovered-2-4k.mp4; k:2999152; t:mp4; r:2160p;
 file: p:MetArt-20260526-uncovered-2.jpg; k:124; t:jpg; o:portrait;
 file: p:MetArt-20260526-uncovered-2.mp4; k:443040; t:mp4; r:1080p;
+file: p:MetArt-20260527-crimson-control.jpg; k:96; t:jpg; o:portrait;
+file: p:MetArt-20260527-crimson-control.zip; k:213072; n:129; t:zip;
+file: p:MetArt-20260527-gentle-flow.jpg; k:120; t:jpg; o:portrait;
+file: p:MetArt-20260527-gentle-flow.zip; k:557664; n:131; t:zip;
+file: p:MetArt-20260527-open-horizon.jpg; k:100; t:jpg; o:portrait;
+file: p:MetArt-20260527-open-horizon.zip; k:262288; n:105; t:zip;
+file: p:MetArt-20260527-rouge-mood.jpg; k:116; t:jpg; o:portrait;
+file: p:MetArt-20260527-rouge-mood.zip; k:491648; n:130; t:zip;
 file: p:Model_MetArt_amber-slassh.jpg; k:112; t:jpg; o:portrait;
 file: p:Model_MetArt_amira-day.jpg; k:36; t:jpg; o:portrait;
 file: p:Model_MetArt_anastasia-barbi.jpg; k:36; t:jpg; o:portrait;
@@ -1120,6 +1129,7 @@ file: p:Model_MetArt_anna-vega.jpg; k:36; t:jpg; o:portrait;
 file: p:Model_MetArt_arya.jpg; k:28; t:jpg; o:portrait;
 file: p:Model_MetArt_ashly-rabbit.jpg; k:156; t:jpg; o:portrait;
 file: p:Model_MetArt_aya.jpg; k:48; t:jpg; o:portrait;
+file: p:Model_MetArt_azzurra-moretti.jpg; k:144; t:jpg; o:portrait;
 file: p:Model_MetArt_belka.jpg; k:36; t:jpg; o:portrait;
 file: p:Model_MetArt_bella-spark.jpg; k:136; t:jpg; o:portrait;
 file: p:Model_MetArt_berta.jpg; k:40; t:jpg; o:portrait;
@@ -1135,6 +1145,7 @@ file: p:Model_MetArt_demont.jpg; k:36; t:jpg; o:portrait;
 file: p:Model_MetArt_diana-jam.jpg; k:36; t:jpg; o:portrait;
 file: p:Model_MetArt_dita-v.jpg; k:16; t:jpg; o:portrait;
 file: p:Model_MetArt_dominika-din.jpg; k:44; t:jpg; o:portrait;
+file: p:Model_MetArt_eiza-bell.jpg; k:120; t:jpg; o:portrait;
 file: p:Model_MetArt_electra-noir.jpg; k:36; t:jpg; o:portrait;
 file: p:Model_MetArt_elle-tan.jpg; k:140; t:jpg; o:portrait;
 file: p:Model_MetArt_elly-clutch.jpg; k:48; t:jpg; o:portrait;
@@ -1146,6 +1157,7 @@ file: p:Model_MetArt_florencia.jpg; k:96; t:jpg; o:portrait;
 file: p:Model_MetArt_foxy-alissa.jpg; k:36; t:jpg; o:portrait;
 file: p:Model_MetArt_freia-hart.jpg; k:128; t:jpg; o:portrait;
 file: p:Model_MetArt_freya-mayer.jpg; k:44; t:jpg; o:portrait;
+file: p:Model_MetArt_georgia-brown.jpg; k:120; t:jpg; o:portrait;
 file: p:Model_MetArt_hareniks.jpg; k:40; t:jpg; o:portrait;
 file: p:Model_MetArt_helena-valle.jpg; k:108; t:jpg; o:portrait;
 file: p:Model_MetArt_hilary-c.jpg; k:132; t:jpg; o:portrait;
@@ -1170,6 +1182,7 @@ file: p:Model_MetArt_luna-ortega.jpg; k:100; t:jpg; o:portrait;
 file: p:Model_MetArt_luna-pica.jpg; k:40; t:jpg; o:portrait;
 file: p:Model_MetArt_maggie-jane.jpg; k:124; t:jpg; o:portrait;
 file: p:Model_MetArt_maria-bern.jpg; k:152; t:jpg; o:portrait;
+file: p:Model_MetArt_marta-bella.jpg; k:48; t:jpg; o:portrait;
 file: p:Model_MetArt_megan-luz.jpg; k:116; t:jpg; o:portrait;
 file: p:Model_MetArt_melania.jpg; k:92; t:jpg; o:portrait;
 file: p:Model_MetArt_miama.jpg; k:104; t:jpg; o:portrait;
