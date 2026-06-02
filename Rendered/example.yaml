@@ -1,5 +1,6 @@
 examples:
-  title: Sweet Harmony
+- title: Sweet Harmony
+  id: /movie/vivthomas/20260602-sweet-harmony
   type: Movie
   site: VivThomas
   models:
