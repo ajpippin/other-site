@@ -36,3 +36,7 @@ s@;; id:/model@; id:/model@
 
 s@^  URL: @url: @
 s@^  FILEPREFIX: @filePrefix: @
+
+s@; u:https://www\.metart\.com/model/@; id:/model/metart/@
+s@; u:https://www\.sexart\.com/model/@; id:/model/sexart/@
+s@; u:https://www\.vivthomas\.com/model/@; id:/model/vivthomas/@
