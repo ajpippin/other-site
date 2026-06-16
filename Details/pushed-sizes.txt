@@ -4,6 +4,7 @@
   Directory: /Users/andy/Downloads/z-MAD                                                                    [09:35:12]
   Directory: /Users/andy/Downloads/z-MAD                                                                    [09:47:12]
   Directory: /Users/andy/Downloads/z-MAD                                                                    [10:33:11]
+  Directory: /Users/andy/Downloads/z-MAD                                                                    [10:54:36]
   Directory: /Users/andy/Downloads/z-MAD                                                                    [11:10:56]
   Directory: /Users/andy/Downloads/z-MAD                                                                    [11:11:37]
   Directory: /Users/andy/Downloads/z-MAD                                                                [09:30:01]
@@ -45,6 +46,16 @@ file: p:MetArt-20260615-presenting-jesie-rose.jpg; k:76; t:jpg; o:portrait;
 file: p:MetArt-20260615-presenting-jesie-rose.zip; k:393888; n:148; t:zip;
 file: p:MetArt-20260615-stripped-down.jpg; k:156; t:jpg; o:portrait;
 file: p:MetArt-20260615-stripped-down.zip; k:327888; n:117; t:zip;
+file: p:MetArt-20260616-body-language.jpg; k:96; t:jpg; o:portrait;
+file: p:MetArt-20260616-body-language.zip; k:557280; n:114; t:zip;
+file: p:MetArt-20260616-presenting-naomi-love.jpg; k:96; t:jpg; o:portrait;
+file: p:MetArt-20260616-presenting-naomi-love.zip; k:246704; n:103; t:zip;
+file: p:MetArt-20260616-pretty-in-desire-2-4k.mp4; k:4014608; t:mp4; r:1080p;
+file: p:MetArt-20260616-pretty-in-desire-2-4k.mp4; k:4014608; t:mp4; r:2160p;
+file: p:MetArt-20260616-pretty-in-desire-2.jpg; k:80; t:jpg; o:portrait;
+file: p:MetArt-20260616-pretty-in-desire-2.mp4; k:524864; t:mp4; r:1080p;
+file: p:MetArt-20260616-the-tease.jpg; k:88; t:jpg; o:portrait;
+file: p:MetArt-20260616-the-tease.zip; k:229984; n:122; t:zip;
 file: p:Model_MetArt_aria-noor.jpg; k:128; t:jpg; o:portrait;
 file: p:Model_MetArt_ariana-regent.jpg; k:140; t:jpg; o:portrait;
 file: p:Model_MetArt_azzura.jpg; k:32; t:jpg; o:portrait;
@@ -57,18 +68,25 @@ file: p:Model_MetArt_liz-ocean.jpg; k:40; t:jpg; o:portrait;
 file: p:Model_MetArt_marisol.jpg; k:108; t:jpg; o:portrait;
 file: p:Model_MetArt_milena-ray.jpg; k:36; t:jpg; o:portrait;
 file: p:Model_MetArt_miss-mia.jpg; k:108; t:jpg; o:portrait;
+file: p:Model_MetArt_naomi-love.jpg; k:116; t:jpg; o:portrait;
+file: p:Model_MetArt_nastya-lemon.jpg; k:48; t:jpg; o:portrait;
 file: p:Model_MetArt_neesa.jpg; k:44; t:jpg; o:portrait;
 file: p:Model_MetArt_sammy-rose.jpg; k:140; t:jpg; o:portrait;
+file: p:Model_MetArt_sophia-vera.jpg; k:124; t:jpg; o:portrait;
 file: p:Model_MetArt_stacy-cruz.jpg; k:40; t:jpg; o:portrait;
+file: p:Model_MetArt_sumiko.jpg; k:36; t:jpg; o:portrait;
 file: p:Model_MetArt_valery.jpg; k:40; t:jpg; o:portrait;
 file: p:Model_SexArt_amalia-davis.jpg; k:44; t:jpg; o:portrait;
 file: p:Model_SexArt_britney-dutch.jpg; k:28; t:jpg; o:portrait;
 file: p:Model_SexArt_cookie.jpg; k:108; t:jpg; o:portrait;
+file: p:Model_SexArt_florens.jpg; k:48; t:jpg; o:portrait;
 file: p:Model_SexArt_julia-morozzi.jpg; k:36; t:jpg; o:portrait;
 file: p:Model_SexArt_lilly-narak.jpg; k:40; t:jpg; o:portrait;
 file: p:Model_SexArt_matthew-meier.jpg; k:32; t:jpg; o:portrait;
 file: p:Model_VivThomas_britney-dutch.jpg; k:32; t:jpg; o:portrait;
 file: p:Model_VivThomas_fibi-euro.jpg; k:40; t:jpg; o:portrait;
+file: p:Model_VivThomas_kate-quinn.jpg; k:40; t:jpg; o:portrait;
+file: p:Model_VivThomas_polly-bangs.jpg; k:260; t:jpg; o:portrait;
 file: p:Model_VivThomas_sofia-rivers.jpg; k:372; t:jpg; o:portrait;
 file: p:Model_VivThomas_sofia-smith.jpg; k:40; t:jpg; o:portrait;
 file: p:SexArt-20260612-summer-romance-4k.mp4; k:5243840; t:mp4; r:1080p;
@@ -85,7 +103,13 @@ file: p:SexArt-20260614-mounting-passion.mp4; k:1704720; t:mp4; r:1080p;
 file: p:SexArt-20260614-mounting-passion.zip; k:426432; n:134; t:zip;
 file: p:SexArt-20260615-red-fixation.jpg; k:80; t:jpg; o:portrait;
 file: p:SexArt-20260615-red-fixation.zip; k:836064; n:171; t:zip;
+file: p:SexArt-20260616-floral-glamour.jpg; k:92; t:jpg; o:portrait;
+file: p:SexArt-20260616-floral-glamour.zip; k:361344; n:147; t:zip;
 file: p:VivThomas-20260613-lovely-legs.jpg; k:80; t:jpg; o:portrait;
 file: p:VivThomas-20260613-lovely-legs.zip; k:393696; n:111; t:zip;
 file: p:VivThomas-20260615-i-want-you.jpg; k:80; t:jpg; o:portrait;
 file: p:VivThomas-20260615-i-want-you.zip; k:885520; n:156; t:zip;
+file: p:VivThomas-20260616-playful-passion-4k.mp4; k:6520944; t:mp4; r:1080p;
+file: p:VivThomas-20260616-playful-passion-4k.mp4; k:6520944; t:mp4; r:2160p;
+file: p:VivThomas-20260616-playful-passion.jpg; k:80; t:jpg; o:portrait;
+file: p:VivThomas-20260616-playful-passion.mp4; k:1671600; t:mp4; r:1080p;
