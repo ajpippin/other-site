@@ -15,40 +15,16 @@ alias pp='pbpaste > html-dom.d/$(date +"%Y%m%dT%H%M%S").dom'
 
 ## Save links
 
-0. `c sip`
-1. `ph strip --loop`
-2. Open Developer Window (Alt-Shift-I)
-3. Copy `<body>` element.
-4. Press `s`
+0. Open Developer Window (Alt-Shift-I)
+1. `c sip` in terminal window.
+2. `ph strip --loop`
+3. Copy `<body>` element into paste buffer.
+4. Press `s` in terminal window.
 
 
-## PostgreSQL
-
-From: ~/Developer/AJPippin/Other/Info/Movies/Links/00-README.md
-
-
-### Insert into database 
-
-```sql
-INSERT INTO links (link_type, link_url) VALUES
-  ( 'playlist', 'https://www.pornhub.com/playlist/10001121' ),
-  ( 'playlist', 'https://www.pornhub.com/playlist/100046831' ),
-  ( ... ),
-  ( ... )
-ON CONFLICT (link_url) DO NOTHING;
-```
-
-### Create a postgres backup/restore
+## Insert stripped links into database
 
 ```shell
-dump_file=dump-$(date +'%Y%m%d').sql
-pg_dump postgres://site_admin@postgres.ajpippin.us/site --format=p --file=${dump_file} &&\
-    gzip --best --verbose ${dump_file}
-```
-
-* Restore from backup
-
-```sh
-gunzip --to-stdout dump-20250630.sql.gz | psql 'postgres://site_admin@db.ajpippin.us/site?sslmode=require'
+ph incoming
 ```
 
