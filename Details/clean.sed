@@ -1,5 +1,6 @@
 s@^Debut Age:@model.debutAge:@
 s@^        Debut Age: @model.debutAge: @
+s@^              Debut Age: @model.debutAge: @
 s@^Age When Published:@model.ageWhenPublished:@
 s@^Eye color:@model.eyes:@
 s@^Hair color:@model.hair:@
