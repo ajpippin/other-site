@@ -1,3 +1,4 @@
+  Directory: /Users/andy/Downloads/z-MAD                                                                [08:36:56]
   Directory: /Users/andy/Downloads/z-MAD                                                                [17:07:38]
 --------------------------------------------------------------------------------------------------------------------
 file: p:MetArt-20260619-blue-tease.jpg; k:76; t:jpg; o:portrait;
@@ -42,6 +43,14 @@ file: p:MetArt-20260623-watermelon-kiss.jpg; k:76; t:jpg; o:portrait
 file: p:MetArt-20260623-watermelon-kiss.mp4; k:574176; t:mp4; r:1080p
 file: p:MetArt-20260623-wild-heart.jpg; k:72; t:jpg; o:portrait
 file: p:MetArt-20260623-wild-heart.zip; k:590080; t:zip; n:126
+file: p:MetArt-20260624-presenting-aly-brown.jpg; k:88; t:jpg; o:portrait
+file: p:MetArt-20260624-presenting-aly-brown.zip; k:263152; t:zip; n:131
+file: p:MetArt-20260624-rainy-day-fun.jpg; k:80; t:jpg; o:portrait
+file: p:MetArt-20260624-rainy-day-fun.zip; k:344800; t:zip; n:137
+file: p:MetArt-20260624-sweet-indulgence.jpg; k:72; t:jpg; o:portrait
+file: p:MetArt-20260624-sweet-indulgence.zip; k:279280; t:zip; n:123
+file: p:MetArt-20260624-wrapped-in-lace.jpg; k:84; t:jpg; o:portrait
+file: p:MetArt-20260624-wrapped-in-lace.zip; k:360896; t:zip; n:123
 file: p:Model_MetArt_anna-bella.jpg; k:100; t:jpg; o:portrait;
 file: p:Model_MetArt_ivi-rein.jpg; k:40; t:jpg; o:portrait;
 file: p:Model_MetArt_kenelly.jpg; k:144; t:jpg; o:portrait;
@@ -65,6 +74,10 @@ file: p:SexArt-20260622-sassy-sweetheart.jpg; k:96; t:jpg; o:portrait
 file: p:SexArt-20260622-sassy-sweetheart.zip; k:426336; t:zip; n:104
 file: p:SexArt-20260623-relax-with-me.jpg; k:76; t:jpg; o:portrait
 file: p:SexArt-20260623-relax-with-me.zip; k:295408; t:zip; n:137
+file: p:SexArt-20260624-hidden-tension-4k.mp4; k:11420608; t:mp4; r:2160p
+file: p:SexArt-20260624-hidden-tension.jpg; k:92; t:jpg; o:portrait
+file: p:SexArt-20260624-hidden-tension.mp4; k:1982864; t:mp4; r:1080p
+file: p:SexArt-20260624-hidden-tension.zip; k:311552; t:zip; n:121
 file: p:VivThomas-20260619-break-time-4k.mp4; k:5671560; t:mp4; r:2160p
 file: p:VivThomas-20260619-break-time.jpg; k:72; t:jpg; o:portrait
 file: p:VivThomas-20260619-break-time.jpg; k:72; t:jpg; o:portrait;
@@ -73,21 +86,27 @@ file: p:VivThomas-20260621-red-on-red.jpg; k:80; t:jpg; o:portrait
 file: p:VivThomas-20260621-red-on-red.zip; k:295504; t:zip; n:124
 file: p:VivThomas-20260623-cute-kisses.jpg; k:92; t:jpg; o:portrait
 file: p:VivThomas-20260623-cute-kisses.zip; k:803728; t:zip; n:117
+model.file: p:Model_MetArt_aly-brown.jpg; k:104; t:jpg; o:portrait
 model.file: p:Model_MetArt_amelia-riven.jpg; k:32; t:jpg; o:portrait
 model.file: p:Model_MetArt_ashly-rabbit.jpg; k:156; t:jpg; o:portrait
 model.file: p:Model_MetArt_bella-spark.jpg; k:136; t:jpg; o:portrait
 model.file: p:Model_MetArt_britney-dutch.jpg; k:116; t:jpg; o:portrait
 model.file: p:Model_MetArt_chloe-moss.jpg; k:44; t:jpg; o:portrait
+model.file: p:Model_MetArt_danna-bliss.jpg; k:40; t:jpg; o:portrait
 model.file: p:Model_MetArt_gloria-sutton.jpg; k:104; t:jpg; o:portrait
 model.file: p:Model_MetArt_miama.jpg; k:104; t:jpg; o:portrait
 model.file: p:Model_MetArt_ninna.jpg; k:148; t:jpg; o:portrait
 model.file: p:Model_MetArt_ramona-barlowe.jpg; k:148; t:jpg; o:portrait
+model.file: p:Model_MetArt_stefania-james.jpg; k:128; t:jpg; o:portrait
 model.file: p:Model_MetArt_vanessa-alessia.jpg; k:44; t:jpg; o:portrait
 model.file: p:Model_MetArt_vanessa-paris.jpg; k:44; t:jpg; o:portrait
 model.file: p:Model_MetArt_xenia.jpg; k:40; t:jpg; o:portrait
+model.file: p:Model_MetArt_zuzanna.jpg; k:40; t:jpg; o:portrait
 model.file: p:Model_SexArt_angelika-grays.jpg; k:40; t:jpg; o:portrait
+model.file: p:Model_SexArt_brady-bud.jpg; k:32; t:jpg; o:portrait
 model.file: p:Model_SexArt_eva-melly.jpg; k:160; t:jpg; o:portrait
 model.file: p:Model_SexArt_francis-x.jpg; k:36; t:jpg; o:portrait
+model.file: p:Model_SexArt_sasha-paige.jpg; k:120; t:jpg; o:portrait
 model.file: p:Model_SexArt_victoria-mur.jpg; k:36; t:jpg; o:portrait
 model.file: p:Model_VivThomas_amalia-davis.jpg; k:40; t:jpg; o:portrait
 model.file: p:Model_VivThomas_lilly-mays.jpg; k:40; t:jpg; o:portrait
