@@ -1,4 +1,5 @@
   Directory: /Users/andy/Downloads/z-MAD                                                                [08:36:56]
+  Directory: /Users/andy/Downloads/z-MAD                                                                [09:15:27]
   Directory: /Users/andy/Downloads/z-MAD                                                                [09:45:14]
   Directory: /Users/andy/Downloads/z-MAD                                                                [17:07:38]
 --------------------------------------------------------------------------------------------------------------------
@@ -60,6 +61,14 @@ file: p:MetArt-20260625-riviera-red.jpg; k:96; t:jpg; o:portrait
 file: p:MetArt-20260625-riviera-red.zip; k:245888; t:zip; n:123
 file: p:MetArt-20260625-teasing-lips.jpg; k:88; t:jpg; o:portrait
 file: p:MetArt-20260625-teasing-lips.zip; k:262816; t:zip; n:123
+file: p:MetArt-20260626-glow-theory.jpg; k:136; t:jpg; o:portrait
+file: p:MetArt-20260626-glow-theory.zip; k:443296; t:zip; n:110
+file: p:MetArt-20260626-lacy-temptation.jpg; k:80; t:jpg; o:portrait
+file: p:MetArt-20260626-lacy-temptation.zip; k:246176; t:zip; n:123
+file: p:MetArt-20260626-summer-zest.jpg; k:148; t:jpg; o:portrait
+file: p:MetArt-20260626-summer-zest.zip; k:622928; t:zip; n:115
+file: p:MetArt-20260626-taking-it-slow.jpg; k:76; t:jpg; o:portrait
+file: p:MetArt-20260626-taking-it-slow.zip; k:557280; t:zip; n:129
 file: p:Model_MetArt_anna-bella.jpg; k:100; t:jpg; o:portrait;
 file: p:Model_MetArt_ivi-rein.jpg; k:40; t:jpg; o:portrait;
 file: p:Model_MetArt_kenelly.jpg; k:144; t:jpg; o:portrait;
@@ -89,6 +98,10 @@ file: p:SexArt-20260624-hidden-tension.mp4; k:1982864; t:mp4; r:1080p
 file: p:SexArt-20260624-hidden-tension.zip; k:311552; t:zip; n:121
 file: p:SexArt-20260625-daring-delight.jpg; k:80; t:jpg; o:portrait
 file: p:SexArt-20260625-daring-delight.zip; k:328336; t:zip; n:103
+file: p:SexArt-20260626-desire-discovered-4k.mp4; k:13452032; t:mp4; r:2160p
+file: p:SexArt-20260626-desire-discovered.jpg; k:108; t:jpg; o:portrait
+file: p:SexArt-20260626-desire-discovered.mp4; k:1360144; t:mp4; r:1080p
+file: p:SexArt-20260626-desire-discovered.zip; k:361088; t:zip; n:138
 file: p:VivThomas-20260619-break-time-4k.mp4; k:5671560; t:mp4; r:2160p
 file: p:VivThomas-20260619-break-time.jpg; k:72; t:jpg; o:portrait
 file: p:VivThomas-20260619-break-time.jpg; k:72; t:jpg; o:portrait;
@@ -102,7 +115,9 @@ file: p:VivThomas-20260625-caught-in-the-act.jpg; k:76; t:jpg; o:portrait
 file: p:VivThomas-20260625-caught-in-the-act.mp4; k:1884752; t:mp4; r:1080p
 model.file: p:Model_MetArt_aly-brown.jpg; k:104; t:jpg; o:portrait
 model.file: p:Model_MetArt_amelia-riven.jpg; k:32; t:jpg; o:portrait
+model.file: p:Model_MetArt_anastasia-barbi.jpg; k:36; t:jpg; o:portrait
 model.file: p:Model_MetArt_ashly-rabbit.jpg; k:156; t:jpg; o:portrait
+model.file: p:Model_MetArt_avery.jpg; k:124; t:jpg; o:portrait
 model.file: p:Model_MetArt_bella-spark.jpg; k:136; t:jpg; o:portrait
 model.file: p:Model_MetArt_britney-dutch.jpg; k:116; t:jpg; o:portrait
 model.file: p:Model_MetArt_chloe-moss.jpg; k:44; t:jpg; o:portrait
@@ -112,9 +127,11 @@ model.file: p:Model_MetArt_irene-rouse.jpg; k:140; t:jpg; o:portrait
 model.file: p:Model_MetArt_miama.jpg; k:104; t:jpg; o:portrait
 model.file: p:Model_MetArt_ninna.jpg; k:148; t:jpg; o:portrait
 model.file: p:Model_MetArt_nisa.jpg; k:84; t:jpg; o:portrait
+model.file: p:Model_MetArt_rachele-bellucci.jpg; k:40; t:jpg; o:portrait
 model.file: p:Model_MetArt_ramona-barlowe.jpg; k:148; t:jpg; o:portrait
 model.file: p:Model_MetArt_shelena.jpg; k:32; t:jpg; o:portrait
 model.file: p:Model_MetArt_stefania-james.jpg; k:128; t:jpg; o:portrait
+model.file: p:Model_MetArt_usha.jpg; k:40; t:jpg; o:portrait
 model.file: p:Model_MetArt_vanessa-alessia.jpg; k:44; t:jpg; o:portrait
 model.file: p:Model_MetArt_vanessa-paris.jpg; k:44; t:jpg; o:portrait
 model.file: p:Model_MetArt_veronika.jpg; k:116; t:jpg; o:portrait
@@ -125,7 +142,9 @@ model.file: p:Model_SexArt_brady-bud.jpg; k:32; t:jpg; o:portrait
 model.file: p:Model_SexArt_erika-fox.jpg; k:112; t:jpg; o:portrait
 model.file: p:Model_SexArt_eva-melly.jpg; k:160; t:jpg; o:portrait
 model.file: p:Model_SexArt_francis-x.jpg; k:36; t:jpg; o:portrait
+model.file: p:Model_SexArt_nata-ocean.jpg; k:28; t:jpg; o:portrait
 model.file: p:Model_SexArt_sasha-paige.jpg; k:120; t:jpg; o:portrait
+model.file: p:Model_SexArt_sveltelana.jpg; k:44; t:jpg; o:portrait
 model.file: p:Model_SexArt_victoria-mur.jpg; k:36; t:jpg; o:portrait
 model.file: p:Model_VivThomas_amalia-davis.jpg; k:40; t:jpg; o:portrait
 model.file: p:Model_VivThomas_lilly-mays.jpg; k:40; t:jpg; o:portrait
