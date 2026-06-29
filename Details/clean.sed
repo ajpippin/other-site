@@ -41,6 +41,10 @@ s@;; @; @
 
 s@^cast: n:@model: n:@
 
+s@^file[Pp]refix: MetArt[-_]@filePrefix: xxTYPExx_MetArt_@
+s@^file[Pp]refix: SexArt[-_]@filePrefix: xxTYPExx_SexArt_@
+s@^file[Pp]refix: VivThomas[-_]@filePrefix: xxTYPExx_VivThomas_@
+
 s@^type: movie$@type: Movie@
 s@^type: gallery$@type: Gallery@
 s@^type: [Cc]ast$@type: Model@
@@ -58,3 +62,5 @@ s@id: /model/VivThomas/@id: /model/vivthomas/@
 s@; u:https://www\.metart\.com/model/@; id:/model/metart/@
 s@; u:https://www\.sexart\.com/model/@; id:/model/sexart/@
 s@; u:https://www\.vivthomas\.com/model/@; id:/model/vivthomas/@
+
+s@^files:  # add-files-here@files:  xxxx@
