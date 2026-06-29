@@ -1,15 +1,3 @@
-  Directory: /Users/andy/Downloads/z-MAD                                                                [08:36:56]
-  Directory: /Users/andy/Downloads/z-MAD                                                                [09:15:27]
-  Directory: /Users/andy/Downloads/z-MAD                                                                [09:45:14]
-  Directory: /Users/andy/Downloads/z-MAD                                                                [12:21:29]
-  Directory: /Users/andy/Downloads/z-MAD                                                                [12:22:41]
-  Directory: /Users/andy/Downloads/z-MAD                                                                [12:23:30]
-  Directory: /Users/andy/Downloads/z-MAD                                                                [12:27:56]
-  Directory: /Users/andy/Downloads/z-MAD                                                                [12:30:27]
-  Directory: /Users/andy/Downloads/z-MAD                                                                [12:30:53]
-  Directory: /Users/andy/Downloads/z-MAD                                                                [12:31:40]
-  Directory: /Users/andy/Downloads/z-MAD                                                                [17:07:38]
---------------------------------------------------------------------------------------------------------------------
 file: p:Gallery_MetArt_20260627-bare-minimum.jpg; k:76; t:jpg; o:portrait
 file: p:Gallery_MetArt_20260627-bare-minimum.zip; k:423892; t:zip; n:122
 file: p:Gallery_MetArt_20260627-gallery-girl.jpg; k:76; t:jpg; o:portrait
@@ -24,6 +12,14 @@ file: p:Gallery_MetArt_20260628-presenting-dalia-lapiedra.jpg; k:92; t:jpg; o:po
 file: p:Gallery_MetArt_20260628-presenting-dalia-lapiedra.zip; k:492128; t:zip; n:125
 file: p:Gallery_MetArt_20260628-sparkling-eyes.jpg; k:104; t:jpg; o:portrait
 file: p:Gallery_MetArt_20260628-sparkling-eyes.zip; k:295344; t:zip; n:131
+file: p:Gallery_MetArt_20260629-cozy-little-thing.jpg; k:84; t:jpg; o:portrait
+file: p:Gallery_MetArt_20260629-cozy-little-thing.zip; k:246112; t:zip; n:111
+file: p:Gallery_MetArt_20260629-pretty-delightful.jpg; k:96; t:jpg; o:portrait
+file: p:Gallery_MetArt_20260629-pretty-delightful.zip; k:327920; t:zip; n:123
+file: p:Gallery_MetArt_20260629-sip-slowly.jpg; k:96; t:jpg; o:portrait
+file: p:Gallery_MetArt_20260629-sip-slowly.zip; k:262240; t:zip; n:98
+file: p:Gallery_MetArt_20260629-wild-whims.jpg; k:152; t:jpg; o:portrait
+file: p:Gallery_MetArt_20260629-wild-whims.zip; k:622688; t:zip; n:108
 file: p:Gallery_MetArt-20260627-bare-minimum.jpg; k:76; t:jpg; o:portrait
 file: p:Gallery_MetArt-20260627-bare-minimum.zip; k:423892; t:zip; n:122
 file: p:Gallery_MetArt-20260627-gallery-girl.jpg; k:76; t:jpg; o:portrait
@@ -32,14 +28,30 @@ file: p:Gallery_MetArt-20260627-rinse-and-reveal.jpg; k:76; t:jpg; o:portrait
 file: p:Gallery_MetArt-20260627-rinse-and-reveal.zip; k:603196; t:zip; n:135
 file: p:Gallery_MetArt-20260627-undeniably-cute.jpg; k:76; t:jpg; o:portrait
 file: p:Gallery_MetArt-20260627-undeniably-cute.zip; k:474668; t:zip; n:116
+file: p:Gallery_MetArt-20260629-cozy-little-thing.jpg; k:84; t:jpg; o:portrait
+file: p:Gallery_MetArt-20260629-cozy-little-thing.zip; k:246112; t:zip; n:111
+file: p:Gallery_MetArt-20260629-pretty-delightful.jpg; k:96; t:jpg; o:portrait
+file: p:Gallery_MetArt-20260629-pretty-delightful.zip; k:327920; t:zip; n:123
+file: p:Gallery_MetArt-20260629-sip-slowly.jpg; k:96; t:jpg; o:portrait
+file: p:Gallery_MetArt-20260629-sip-slowly.zip; k:262240; t:zip; n:98
+file: p:Gallery_MetArt-20260629-wild-whims.jpg; k:152; t:jpg; o:portrait
+file: p:Gallery_MetArt-20260629-wild-whims.zip; k:622688; t:zip; n:108
 file: p:Gallery_SexArt_20260627-perky-pink.jpg; k:60; t:jpg; o:portrait
 file: p:Gallery_SexArt_20260627-perky-pink.zip; k:419544; t:zip; n:121
+file: p:Gallery_SexArt_20260629-perfect-pastime.jpg; k:68; t:jpg; o:portrait
+file: p:Gallery_SexArt_20260629-perfect-pastime.zip; k:246544; t:zip; n:123
 file: p:Gallery_SexArt-20260627-perky-pink.jpg; k:60; t:jpg; o:portrait
 file: p:Gallery_SexArt-20260627-perky-pink.zip; k:419544; t:zip; n:121
+file: p:Gallery_SexArt-20260629-perfect-pastime.jpg; k:68; t:jpg; o:portrait
+file: p:Gallery_SexArt-20260629-perfect-pastime.zip; k:246544; t:zip; n:123
 file: p:Gallery_VivThomas_20260627-frilly-number.jpg; k:64; t:jpg; o:portrait
 file: p:Gallery_VivThomas_20260627-frilly-number.zip; k:358568; t:zip; n:123
+file: p:Gallery_VivThomas_20260629-covered-up.jpg; k:84; t:jpg; o:portrait
+file: p:Gallery_VivThomas_20260629-covered-up.zip; k:819888; t:zip; n:120
 file: p:Gallery_VivThomas-20260627-frilly-number.jpg; k:64; t:jpg; o:portrait
 file: p:Gallery_VivThomas-20260627-frilly-number.zip; k:358568; t:zip; n:123
+file: p:Gallery_VivThomas-20260629-covered-up.jpg; k:84; t:jpg; o:portrait
+file: p:Gallery_VivThomas-20260629-covered-up.zip; k:819888; t:zip; n:120
 file: p:MetArt_20269999_delete-me-4k.mp4; k:0; t:mp4; r:2160p
 file: p:MetArt_20269999_delete-me.jpg; k:0; t:jpg; o:portrait
 file: p:MetArt_20269999_delete-me.mp4; k:0; t:mp4; r:1080p
@@ -168,6 +180,7 @@ model.file: p:Model_MetArt_ashly-rabbit.jpg; k:156; t:jpg; o:portrait
 model.file: p:Model_MetArt_avery.jpg; k:124; t:jpg; o:portrait
 model.file: p:Model_MetArt_azzurra-moretti.jpg; k:144; t:jpg; o:portrait
 model.file: p:Model_MetArt_bella-spark.jpg; k:136; t:jpg; o:portrait
+model.file: p:Model_MetArt_bianca-bell.jpg; k:40; t:jpg; o:portrait
 model.file: p:Model_MetArt_britney-dutch.jpg; k:116; t:jpg; o:portrait
 model.file: p:Model_MetArt_chloe-moss.jpg; k:44; t:jpg; o:portrait
 model.file: p:Model_MetArt_dalia-lapiedra.jpg; k:112; t:jpg; o:portrait
@@ -177,12 +190,15 @@ model.file: p:Model_MetArt_elfiolla.jpg; k:36; t:jpg; o:portrait
 model.file: p:Model_MetArt_gloria-sutton.jpg; k:104; t:jpg; o:portrait
 model.file: p:Model_MetArt_irene-rouse.jpg; k:140; t:jpg; o:portrait
 model.file: p:Model_MetArt_kiara-vienna.jpg; k:108; t:jpg; o:portrait
+model.file: p:Model_MetArt_liby-nicole.jpg; k:124; t:jpg; o:portrait
+model.file: p:Model_MetArt_luise.jpg; k:36; t:jpg; o:portrait
 model.file: p:Model_MetArt_miama.jpg; k:104; t:jpg; o:portrait
 model.file: p:Model_MetArt_mila-azul.jpg; k:148; t:jpg; o:portrait
 model.file: p:Model_MetArt_ninna.jpg; k:148; t:jpg; o:portrait
 model.file: p:Model_MetArt_nisa.jpg; k:84; t:jpg; o:portrait
 model.file: p:Model_MetArt_rachele-bellucci.jpg; k:40; t:jpg; o:portrait
 model.file: p:Model_MetArt_ramona-barlowe.jpg; k:148; t:jpg; o:portrait
+model.file: p:Model_MetArt_rose-sarinz.jpg; k:116; t:jpg; o:portrait
 model.file: p:Model_MetArt_shelena.jpg; k:32; t:jpg; o:portrait
 model.file: p:Model_MetArt_stefania-james.jpg; k:128; t:jpg; o:portrait
 model.file: p:Model_MetArt_usha.jpg; k:40; t:jpg; o:portrait
@@ -196,6 +212,7 @@ model.file: p:Model_SexArt_angelika-grays.jpg; k:40; t:jpg; o:portrait
 model.file: p:Model_SexArt_brady-bud.jpg; k:32; t:jpg; o:portrait
 model.file: p:Model_SexArt_erika-fox.jpg; k:112; t:jpg; o:portrait
 model.file: p:Model_SexArt_eva-melly.jpg; k:160; t:jpg; o:portrait
+model.file: p:Model_SexArt_foxy-alissa.jpg; k:36; t:jpg; o:portrait
 model.file: p:Model_SexArt_francis-x.jpg; k:36; t:jpg; o:portrait
 model.file: p:Model_SexArt_lily-blossom.jpg; k:48; t:jpg; o:portrait
 model.file: p:Model_SexArt_luna-roulette.jpg; k:104; t:jpg; o:portrait
@@ -204,6 +221,8 @@ model.file: p:Model_SexArt_sasha-paige.jpg; k:120; t:jpg; o:portrait
 model.file: p:Model_SexArt_sveltelana.jpg; k:44; t:jpg; o:portrait
 model.file: p:Model_SexArt_victoria-mur.jpg; k:36; t:jpg; o:portrait
 model.file: p:Model_VivThomas_amalia-davis.jpg; k:40; t:jpg; o:portrait
+model.file: p:Model_VivThomas_amirah-adara.jpg; k:100; t:jpg; o:portrait
+model.file: p:Model_VivThomas_chica-minori.jpg; k:76; t:jpg; o:portrait
 model.file: p:Model_VivThomas_jane-may.jpg; k:84; t:jpg; o:portrait
 model.file: p:Model_VivThomas_lilly-mays.jpg; k:40; t:jpg; o:portrait
 model.file: p:Model_VivThomas_lucy-mendez.jpg; k:268; t:jpg; o:portrait

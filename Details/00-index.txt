@@ -5,58 +5,64 @@
 @site MetArt
 @type Gallery
 
-Presenting Dalia Lapiedra - Dalia Lapiedra
-Presenting Dalia Lapiedra
-Released: Jun 28, 2026
-Featuring: Dalia Lapiedra
-Director: Luca Helios
-Rating: 9.5
-Easy Does It - Elfiolla
-Easy Does It
-Released: Jun 28, 2026
-Featuring: Elfiolla
-Director: Matiss
+Pretty Delightful - Bianca Bell
+Pretty Delightful
+Released: Jun 29, 2026
+Featuring: Bianca Bell
+Director: Julia Kalias
 Rating: 9.3
-Sparkling Eyes - Arisha Mills
-Sparkling Eyes
-Released: Jun 28, 2026
-Featuring: Arisha Mills
-Director: Cecelia
-Rating: 9.2
+Cozy Little Thing - Liby Nicole
+Cozy Little Thing
+Released: Jun 29, 2026
+Featuring: Liby Nicole
+Director: Tora Ness
+Rating: 9.6
+Sip Slowly - Rose Sarinz
+Sip Slowly
+Released: Jun 29, 2026
+Featuring: Rose Sarinz
+Director: Robert Graham
+Rating: 9.3
+Wild Whims - Luise
+Wild Whims
+Released: Jun 29, 2026
+Featuring: Luise
+Director: Tony G
+Rating: 9.4
 
 #--------------------------------------------------------------------------------------------------#
 @site MetArt
 @type Movie
 
 Inner Unveil 2 - Mila Azul
-Inner Unveil 2
-Released: Jun 28, 2026
-Featuring: Mila Azul
-Director: James Allen
-Rating: 9.7
 
 #--------------------------------------------------------------------------------------------------#
 @site SexArt
 @type Gallery
 
-Perky Pink - Lily Blossom
+Perfect Pastime - Foxy Alissa
+Perfect Pastime
+Released: Jun 29, 2026
+Featuring: Foxy Alissa
+Director: Vicente Silva
+Rating: 9.6
 
 #--------------------------------------------------------------------------------------------------#
 @site SexArt
 @type Movie
 
 Shared Vision - Luna Roulette - Francis X
-Shared Vision
-Released: Jun 28, 2026
-Featuring: Luna Roulette, Francis X
-Director: Andrej Lupin
-Rating: 9.0
 
 #--------------------------------------------------------------------------------------------------#
 @site VivThomas
 @type Gallery
 
-Frilly Number - Jane May
+Covered Up - Amirah Adara - Chica Minori
+Covered Up
+Released: Jun 29, 2026
+Featuring: Amirah Adara, Chica Minori
+Director: Sandra Shine
+Rating: 9.2
 
 #--------------------------------------------------------------------------------------------------#
 @site VivThomas
