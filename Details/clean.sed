@@ -64,3 +64,4 @@ s@; u:https://www\.sexart\.com/model/@; id:/model/sexart/@
 s@; u:https://www\.vivthomas\.com/model/@; id:/model/vivthomas/@
 
 s@^files:  # add-files-here@files:  xxxx@
+s@^description: xxx@description:  xxxx@
