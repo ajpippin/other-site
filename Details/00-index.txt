@@ -5,60 +5,64 @@
 @site MetArt
 @type Gallery
 
-Pastry Crush - Eve Casta
-Pastry Crush
-Released: Jul 07, 2026
-Featuring: Eve Casta
-Director: Tony G
-Rating: 9.3
-Little Rebel - Georgia
-Little Rebel
-Released: Jul 07, 2026
-Featuring: Georgia
-Director: Luca Helios
+Denim Dream - Ellie Luna
+Denim Dream
+Released: Jul 08, 2026
+Featuring: Ellie Luna
+Director: Mytro
 Rating: 9.5
-Pump It Up - Bernie
-Pump It Up
-Released: Jul 07, 2026
-Featuring: Bernie
-Director: Tora Ness
+Couch Candy - Dita V
+Couch Candy
+Released: Jul 08, 2026
+Featuring: Dita V
+Director: Leonardo
 Rating: 9.3
-
+Golden Chair - Sue Star
+Golden Chair
+Released: Jul 08, 2026
+Featuring: Sue Star
+Director: Matiss
+Rating: 9.3
+What a Racket - Stella Bloom
+What a Racket
+Released: Jul 08, 2026
+Featuring: Stella Bloom
+Director: Koenart
+Rating: 9.5
 
 #--------------------------------------------------------------------------------------------------#
 @site MetArt
 @type Movie
 
 White Open 2 - Liana Luck
-White Open 2
-Released: Jul 07, 2026
-Featuring: Liana Luck
-Director: David Ekmekci
-Rating: 9.6
-
 
 #--------------------------------------------------------------------------------------------------#
 @site SexArt
 @type Gallery
 
-Casual Flirt - Sirena Milano
+On The Rocks - Vanessa Alessia
+On The Rocks
+Released: Jul 07, 2026
+Featuring: Vanessa Alessia
+Director: David Menich
+Rating: 9.5
 
 #--------------------------------------------------------------------------------------------------#
 @site SexArt
 @type Movie
 
-Love On Call - Jesie Rose - Perry Layne
+Fully You - Sylvia Wise - Francis X
+Fully You
+Released: Jul 08, 2026
+Featuring: Sylvia Wise, Francis X
+Director: Andrej Lupin
+Rating: 9.1
 
 #--------------------------------------------------------------------------------------------------#
 @site VivThomas
 @type Gallery
 
 Hot Kiss - Jo - Norah Juliette
-Hot Kiss
-Released: Jul 07, 2026
-Featuring: Jo, Norah Juliette
-Director: Sandra Shine
-Rating: 8.9
 
 
 #--------------------------------------------------------------------------------------------------#
