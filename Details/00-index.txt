@@ -5,46 +5,51 @@
 @site MetArt
 @type Gallery
 
-Denim Dream - Ellie Luna
-Denim Dream
-Released: Jul 08, 2026
-Featuring: Ellie Luna
-Director: Mytro
+Sunroom - Lily Blossom
+Sunroom
+Released: Jul 09, 2026
+Featuring: Lily Blossom
+Director: David Menich
+Rating: 9.2
+Bedroom Editorial - Noi Feja
+Bedroom Editorial
+Released: Jul 09, 2026
+Featuring: Noi Feja
+Director: Erro
+Rating: 9.4
+Glitter and Gold - Arya
+Glitter and Gold
+Released: Jul 09, 2026
+Featuring: Arya
+Director: Nudero
 Rating: 9.5
-Couch Candy - Dita V
-Couch Candy
-Released: Jul 08, 2026
-Featuring: Dita V
-Director: Leonardo
-Rating: 9.3
-Golden Chair - Sue Star
-Golden Chair
-Released: Jul 08, 2026
-Featuring: Sue Star
-Director: Matiss
-Rating: 9.3
-What a Racket - Stella Bloom
-What a Racket
-Released: Jul 08, 2026
-Featuring: Stella Bloom
-Director: Koenart
-Rating: 9.5
+Heartbreaker - Marion Summers
+Heartbreaker
+Released: Jul 09, 2026
+Featuring: Marion Summers
+Director: Julia Kalias
+Rating: 9.4
 
 #--------------------------------------------------------------------------------------------------#
 @site MetArt
 @type Movie
 
-White Open 2 - Liana Luck
+Look Me Up - Mitzi X
+Look Me Up
+Released: Jul 09, 2026
+Featuring: Mitzi X
+Director: John Chalk
+Rating: 10.0
 
 #--------------------------------------------------------------------------------------------------#
 @site SexArt
 @type Gallery
 
-On The Rocks - Vanessa Alessia
-On The Rocks
-Released: Jul 07, 2026
-Featuring: Vanessa Alessia
-Director: David Menich
+Vigorous Smile - Betzz
+Vigorous Smile
+Released: Jul 09, 2026
+Featuring: Betzz
+Director: Erro
 Rating: 9.5
 
 #--------------------------------------------------------------------------------------------------#
@@ -69,7 +74,12 @@ Hot Kiss - Jo - Norah Juliette
 @site VivThomas
 @type Movie
 
-Secrets - Nikoleta - Valery
+Focus On Me - Sofia Smith - Tanya Ray
+Focus On Me
+Released: Jul 09, 2026
+Featuring: Sofia Smith, Tanya Ray
+Director: Sandra Shine
+Rating: 8.9
 
 #--------------------------------------------------------------------------------------------------#
 
