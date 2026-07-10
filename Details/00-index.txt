@@ -5,63 +5,53 @@
 @site MetArt
 @type Gallery
 
-Sunroom - Lily Blossom
-Sunroom
-Released: Jul 09, 2026
-Featuring: Lily Blossom
-Director: David Menich
-Rating: 9.2
-Bedroom Editorial - Noi Feja
-Bedroom Editorial
-Released: Jul 09, 2026
-Featuring: Noi Feja
-Director: Erro
-Rating: 9.4
-Glitter and Gold - Arya
-Glitter and Gold
-Released: Jul 09, 2026
-Featuring: Arya
-Director: Nudero
+Captivating Calm - Nerina
+Captivating Calm
+Released: Jul 10, 2026
+Featuring: Nerina
+Director: Leonardo
 Rating: 9.5
-Heartbreaker - Marion Summers
-Heartbreaker
-Released: Jul 09, 2026
-Featuring: Marion Summers
-Director: Julia Kalias
+Blue Babydoll - Ingrid Noelle
+Blue Babydoll
+Released: Jul 10, 2026
+Featuring: Ingrid Noelle
+Director: Ron Offlin
 Rating: 9.4
+Noir & Honey - Poppy
+Noir & Honey
+Released: Jul 10, 2026
+Featuring: Poppy
+Director: Matiss
+Rating: 9.3
+Summer Siren - Naksu
+Summer Siren
+Released: Jul 10, 2026
+Featuring: Naksu
+Director: Robert Graham
+Rating: 9.3
 
 #--------------------------------------------------------------------------------------------------#
 @site MetArt
 @type Movie
 
 Look Me Up - Mitzi X
-Look Me Up
-Released: Jul 09, 2026
-Featuring: Mitzi X
-Director: John Chalk
-Rating: 10.0
 
 #--------------------------------------------------------------------------------------------------#
 @site SexArt
 @type Gallery
 
 Vigorous Smile - Betzz
-Vigorous Smile
-Released: Jul 09, 2026
-Featuring: Betzz
-Director: Erro
-Rating: 9.5
 
 #--------------------------------------------------------------------------------------------------#
 @site SexArt
 @type Movie
 
-Fully You - Sylvia Wise - Francis X
-Fully You
-Released: Jul 08, 2026
-Featuring: Sylvia Wise, Francis X
+Gentle Souls - Rhiannon Ryder - Maya Sinn
+Gentle Souls
+Released: Jul 10, 2026
+Featuring: Rhiannon Ryder, Maya Sinn
 Director: Andrej Lupin
-Rating: 9.1
+Rating: 9.3
 
 #--------------------------------------------------------------------------------------------------#
 @site VivThomas
@@ -75,11 +65,6 @@ Hot Kiss - Jo - Norah Juliette
 @type Movie
 
 Focus On Me - Sofia Smith - Tanya Ray
-Focus On Me
-Released: Jul 09, 2026
-Featuring: Sofia Smith, Tanya Ray
-Director: Sandra Shine
-Rating: 8.9
 
 #--------------------------------------------------------------------------------------------------#
 
