@@ -1,0 +1,139 @@
+models:
+  name: Foxy Sofilie
+  id: /model/name/foxy-sofilie
+  details:
+    gender: Female
+    url: https://www.sexart.com/model/foxy-sofilie
+    origin: Russian Federation
+    debutAge: 23
+    filePrefix: Model_SexArt_foxy-sofilie
+    eyes: blue
+    hair: red
+    height: 5'2"
+    weight: 106
+    breasts: medium
+    measurements: 33/23/33
+    shaved: shaved
+    ethnicity: Caucasian
+  collections:
+    galleries:
+      /model/name/foxy-sofilie/red-curls
+      /model/name/foxy-sofilie/auburn-pigtails
+      /model/name/foxy-sofilie/fresh-lime
+      /model/name/foxy-sofilie/work-up-a-sweat
+      /model/name/foxy-sofilie/20250517-smouldering-beauty
+      /model/name/foxy-sofilie/short-jeans
+      /model/name/foxy-sofilie/red-temptation
+  galleries:
+    - title: Red Curls
+      id: /model/name/foxy-sofilie/red-curls
+      refers: /gallery/sexart/20260711-red-curls
+      photographer: Flora
+      rating: 95
+      files:
+        - path: red-curls.jpg
+          id: /model/name/foxy-sofilie/red-curls/jpg
+          sizeKiB: 80
+          mimeType: jpg
+          orientation: portrait
+        - path: red-curls.zip
+          id: /model/name/foxy-sofilie/red-curls/zip
+          sizeKiB: 197184
+          mimeType: zip
+          images: 123
+    - title: Auburn Pigtails
+      id: /model/name/foxy-sofilie/auburn-pigtails
+      refers: /gallery/sexart/20240104-auburn-pigtails
+      photographer: Flora
+      rating: 95
+      files:
+        - path: auburn-pigtails.jpg
+          id: /model/name/foxy-sofilie/auburn-pigtails/jpg
+          sizeKiB: 80
+          mimeType: jpg
+          orientation: portrait
+        - path: auburn-pigtails.zip
+          id: /model/name/foxy-sofilie/auburn-pigtails/zip
+          sizeKiB: 180784
+          mimeType: zip
+          images: 123
+    - title: Fresh Lime
+      id: /model/name/foxy-sofilie/fresh-lime
+      refers: /gallery/sexart/20240311-fresh-lime
+      photographer: Flora
+      rating: 95
+      files:
+        - path: fresh-lime.jpg
+          id: /model/name/foxy-sofilie/jpg
+          sizeKiB: 76
+          mimeType: jpg
+          orientation: portrait
+        - path: fresh-lime.zip
+          id: /model/name/foxy-sofilie/jpg
+          sizeKiB: 246736
+          mimeType: zip
+          images: 125
+    - title: Work Up A Sweat
+      id: /model/name/foxy-sofilie/work-up-a-sweat
+      refers: /gallery/sexart/20240511-work-up-a-sweat
+      photographer: Flora
+      rating: 95
+      files:
+        - path: work-up-a-sweat.jpg
+          id: /model/name/foxy-sofilie/work-up-a-sweat/jpg
+          sizeKiB: 72
+          mimeType: jpg
+          orientation: portrait
+        - path: work-up-a-sweat.zip
+          id: /model/name/foxy-sofilie/work-up-a-sweat/zip
+          sizeKiB: 213488
+          mimeType: zip
+          images: 124
+    - title: Smouldering Beauty
+      id: /model/name/foxy-sofilie/smouldering-beauty
+      refers: /gallery/sexart/20250517-auburn-pigtails
+      photographer: Flora
+      rating: 95
+      files:
+        - path: smouldering-beauty.jpg
+          id: /model/name/foxy-sofilie/smouldering-beauty/jpg
+          sizeKiB: 68
+          mimeType: jpg
+          orientation: portrait
+        - path: smouldering-beauty.zip
+          id: /model/name/foxy-sofilie/smouldering-beauty/zip
+          sizeKiB: 164240
+          mimeType: zip
+          images: 126
+    - title: Short Jeans
+      id: /model/name/foxy-sofilie/short-jeans
+      refers: /gallery/sexart/20260210-short-jeans
+      photographer: Flora
+      rating: 96
+      files:
+        - path: short-jeans.jpg
+          id: /model/name/foxy-sofilie/short-jeans/jpg
+          sizeKiB: 72
+          mimeType: jpg
+          orientation: portrait
+        - path: short-jeans.zip
+          id: /model/name/foxy-sofilie/short-jeans/zip
+          sizeKiB: 213392
+          mimeType: zip
+          images: 123
+    - title: Red Temptation
+      id: /model/name/foxy-sofilie/red-temptation
+      refers: /gallery/sexart/20240104-red-temptation
+      photographer: Flora
+      rating: 94
+      files:
+        - path: red-temptation.jpg
+          id: /model/name/foxy-sofilie/red-temptation/jpg
+          sizeKiB: 84
+          mimeType: jpg
+          orientation: portrait
+        - path: red-temptation.zip
+          id: /model/name/foxy-sofilie/red-temptation/zip
+          sizeKiB: 164720
+          mimeType: zip
+          images: 125
