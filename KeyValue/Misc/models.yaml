@@ -1,0 +1,87 @@
+models:
+  - name: Foxy Sofilie
+    id: /model/name/foxy-sofilie
+    details:
+      gender: Female
+      url:
+        - https://www.metart.com/model/foxy-sofilie
+        - https://www.sexart.com/model/foxy-sofilie
+      origin: Russian Federation
+      debutAge: 23
+      eyes: blue
+      hair: red
+      height: 5'2"
+      weight: 106
+      breasts: medium
+      measurements: 33/23/33
+      shaved: shaved
+      ethnicity: Caucasian
+    galleries:
+      - title: Crimson Contrast
+        id: /model/name/foxy-sofilie/crimson-contrast
+        refers: /gallery/metart/20250626-crimson-contrast
+        released: "2025-06-26"
+      - title: Denim and Lace
+        id: /model/name/foxy-sofilie/denim-and-lace
+        refers: /gallery/metart/20250524-denim-and-lace
+        released: "2025-05-24"
+      - title: Perfect Song
+        id: /model/name/foxy-sofilie/perfect-song
+        refers: /gallery/metart/20250303-perfect-song
+        released: "2025-03-03"
+      - title: Bewitching
+        id: /model/name/foxy-sofilie/bewitching
+        refers: /gallery/metart/20250106-bewitching
+        released: "2025-01-06"
+      - title: Porcelain Complexion
+        id: /model/name/foxy-sofilie/porcelain-complexion
+        refers: /gallery/metart/20240510-porcelain-complexion
+        released: "2024-05-10"
+      - title: Sweet Ginger
+        id: /model/name/foxy-sofilie/sweet-ginger
+        refers: /gallery/metart/20240331-sweet-ginger
+        released: "2024-03-31"
+      - title: Soft Red
+        id: /model/name/foxy-sofilie/soft-red
+        refers: /gallery/metart/20240222-soft-red
+        released: "2024-02-22"
+      - title: Cherry Red
+        id: /model/name/foxy-sofilie/cherry-red
+        refers: /gallery/metart/20240115-cherry-red
+        released: "2024-01-15"
+      - title: Auburn Curls
+        id: /model/name/foxy-sofilie/auburn-curls
+        refers: /gallery/metart/20231110-auburn-curls
+        released: "2023-11-10"
+      - title: Presenting Foxy Sofilie
+        id: /model/name/foxy-sofilie/presenting-foxy-sofilie
+        refers: /gallery/metart/20230919-presenting-foxy-sofilie
+        released: "2023-09-19"
+      - title: Red Curls
+        id: /model/name/foxy-sofilie/red-curls
+        refers: /gallery/sexart/20260711-red-curls
+        released: "2026-07-11"
+      - title: Auburn Pigtails
+        id: /model/name/foxy-sofilie/auburn-pigtails
+        refers: /gallery/sexart/20240104-auburn-pigtails
+        released: "2024-01-04"
+      - title: Fresh Lime
+        id: /model/name/foxy-sofilie/fresh-lime
+        refers: /gallery/sexart/20240311-fresh-lime
+        released: "2024-03-11"
+      - title: Work Up A Sweat
+        id: /model/name/foxy-sofilie/work-up-a-sweat
+        refers: /gallery/sexart/20240511-work-up-a-sweat
+        released: "2024-05-11"
+      - title: Smouldering Beauty
+        id: /model/name/foxy-sofilie/smouldering-beauty
+        refers: /gallery/sexart/20250517-auburn-pigtails
+        released: "2025-05-17"
+      - title: Short Jeans
+        id: /model/name/foxy-sofilie/short-jeans
+        refers: /gallery/sexart/20260210-short-jeans
+        released: "2026-02-10"
+      - title: Red Temptation
+        id: /model/name/foxy-sofilie/red-temptation
+        refers: /gallery/sexart/20240104-red-temptation
+        released: "2024-01-04"
