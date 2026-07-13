@@ -1,11 +1,11 @@
 models:
   - name: Foxy Sofilie
     id: /model/name/foxy-sofilie
+    url:
+      - https://www.metart.com/model/foxy-sofilie
+      - https://www.sexart.com/model/foxy-sofilie
     details:
       gender: Female
-      url:
-        - https://www.metart.com/model/foxy-sofilie
-        - https://www.sexart.com/model/foxy-sofilie
       origin: Russian Federation
       debutAge: 23
       eyes: blue
@@ -85,3 +85,489 @@ models:
         id: /model/name/foxy-sofilie/red-temptation
         refers: /gallery/sexart/20240104-red-temptation
         released: "2024-01-04"
+
+  - name: Stacy Cruz
+    id: /model/name/stacy-cruz
+    url:
+      - https://www.metart.com/model/stacy-cruz
+      - https://www.sexart.com/model/stacy-cruz
+      - https://www.vivthomas.com/model/stacy-cruz
+    details:
+      gender: Female
+      origin: Czech Republic
+      debutAge: 19
+      eyes: blue
+      hair: brown
+      height: 5'5"
+      weight: 117
+      breasts: large
+      measurements: 35/24/34
+      shaved: shaved
+      ethnicity: Caucasian
+      bio: I love big cars. I love cars big enough that you can move around in them. And fast cars. That is the best. When a man drives a car that is big and feels powerful and we go very, very fast I get so excited. The sound of a huge engine revving is so sexy! The feel of the car going a zillion miles an hour, well, that's when I need the room to move around and express how much I like it.
+    galleries:
+    - title: Stage Presence
+      id: /model/name/stacy-cruz/stage-presence
+      refers: /gallery/metart/20260613-stage-presence
+      released: 2026-06-13
+    - title: Houndstooth Honey
+      id: /model/name/stacy-cruz/houndstooth-honey
+      refers: /gallery/metart/20260402-houndstooth-honey
+      released: 2026-04-02
+    - title: Sweet Escape
+      id: /model/name/stacy-cruz/sweet-escape
+      refers: /gallery/metart/20260207-sweet-escape
+      released: 2026-02-07
+    - title: Soft Intrigue
+      id: /model/name/stacy-cruz/soft-intrigue
+      refers: /gallery/metart/20251212-soft-intrigue
+      released: 2025-12-12
+    - title: Relaxing Getaway
+      id: /model/name/stacy-cruz/relaxing-getaway
+      refers: /gallery/metart/20250915-relaxing-getaway
+      released: 2025-09-15
+    - title: Bold Charm
+      id: /model/name/stacy-cruz/bold-charm
+      refers: /gallery/metart/20250730-bold-charm
+      released: 2025-07-30
+    - title: Heat Ritual
+      id: /model/name/stacy-cruz/heat-ritual
+      refers: /gallery/metart/20250622-heat-ritual
+      released: 2025-06-22
+    - title: Azure Gaze
+      id: /model/name/stacy-cruz/azure-gaze
+      refers: /gallery/metart/20250402-azure-gaze
+      released: 2025-04-02
+    - title: Zen Garden
+      id: /model/name/stacy-cruz/zen-garden
+      refers: /gallery/metart/20241230-zen-garden
+      released: 2024-12-30
+    - title: Woodshed
+      id: /model/name/stacy-cruz/woodshed
+      refers: /gallery/metart/20241109-woodshed
+      released: 2024-11-09
+    - title: Shubbery
+      id: /model/name/stacy-cruz/shubbery
+      refers: /gallery/metart/20240911-shubbery
+      released: 2024-09-11
+    - title: Sunday Funday
+      id: /model/name/stacy-cruz/sunday-funday
+      refers: /gallery/metart/20240804-sunday-funday
+      released: 2024-08-04
+    - title: Sheer and Wet
+      id: /model/name/stacy-cruz/sheer-and-wet
+      refers: /gallery/metart/20240626-sheer-and-wet
+      released: 2024-06-26
+    - title: Charming Beauty
+      id: /model/name/stacy-cruz/charming-beauty
+      refers: /gallery/metart/20240501-charming-beauty
+      released: 2024-05-01
+    - title: Thigh Skimming
+      id: /model/name/stacy-cruz/thigh-skimming
+      refers: /gallery/metart/20240224-thigh-skimming
+      released: 2024-02-24
+    - title: Captivating Curves
+      id: /model/name/stacy-cruz/captivating-curves
+      refers: /gallery/metart/20240110-captivating-curves
+      released: 2024-01-10
+    - title: Island Paradise
+      id: /model/name/stacy-cruz/island-paradise
+      refers: /gallery/metart/20230831-island-paradise
+      released: 2023-08-31
+    - title: Graceful Lace
+      id: /model/name/stacy-cruz/graceful-lace
+      refers: /gallery/metart/20230617-graceful-lace
+      released: 2023-06-17
+    - title: Satin and Lace
+      id: /model/name/stacy-cruz/satin-and-lace
+      refers: /gallery/metart/20230508-satin-and-lace
+      released: 2023-05-08
+    - title: Rapture
+      id: /model/name/stacy-cruz/rapture
+      refers: /gallery/metart/20230328-rapture
+      released: 2023-03-28
+    - title: Silver Shimmer
+      id: /model/name/stacy-cruz/silver-shimmer
+      refers: /gallery/metart/20230201-silver-shimmer
+      released: 2023-02-01
+    - title: Red and Gold
+      id: /model/name/stacy-cruz/red-and-gold
+      refers: /gallery/metart/20221103-red-and-gold
+      released: 2022-11-03
+    - title: Table Setting
+      id: /model/name/stacy-cruz/table-setting
+      refers: /gallery/metart/20220518-table-setting
+      released: 2022-05-18
+    - title: Sleek
+      id: /model/name/stacy-cruz/sleek
+      refers: /gallery/metart/20220322-sleek
+      released: 2022-03-22
+    - title: Lift Spirits
+      id: /model/name/stacy-cruz/lift-spirits
+      refers: /gallery/metart/20220218-lift-spirits
+      released: 2022-02-18
+    - title: Made Up
+      id: /model/name/stacy-cruz/made-up
+      refers: /gallery/metart/20211226-made-up
+      released: 2021-12-26
+    - title: Fringe Benefits
+      id: /model/name/stacy-cruz/fringe-benefits
+      refers: /gallery/metart/20211001-fringe-benefits
+      released: 2021-10-01
+    - title: Pink Perfection
+      id: /model/name/stacy-cruz/pink-perfection
+      refers: /gallery/metart/20210824-pink-perfection
+      released: 2021-08-24
+    - title: Split Dress
+      id: /model/name/stacy-cruz/split-dress
+      refers: /gallery/metart/20210123-split-dress
+      released: 2021-01-23
+    - title: Unwrap Me
+      id: /model/name/stacy-cruz/unwrap-me
+      refers: /gallery/metart/20201224-unwrap-me
+      released: 2020-12-24
+    - title: Cozy Clothes
+      id: /model/name/stacy-cruz/cozy-clothes
+      refers: /gallery/metart/20201206-cozy-clothes
+      released: 2020-12-06
+    - title: Party Dress
+      id: /model/name/stacy-cruz/party-dress
+      refers: /gallery/metart/20200907-party-dress
+      released: 2020-09-07
+    - title: Silk Floral
+      id: /model/name/stacy-cruz/silk-floral
+      refers: /gallery/metart/20200711-silk-floral
+      released: 2020-07-11
+    - title: Why Leave Bed
+      id: /model/name/stacy-cruz/why-leave-bed
+      refers: /gallery/metart/20200521-why-leave-bed
+      released: 2020-05-21
+    - title: Live, Laugh
+      id: /model/name/stacy-cruz/live--laugh
+      refers: /gallery/metart/20200414-live--laugh
+      released: 2020-04-14
+    - title: Power of Seduction
+      id: /model/name/stacy-cruz/power-of-seduction
+      refers: /gallery/metart/20200319-power-of-seduction
+      released: 2020-03-19
+    - title: G String
+      id: /model/name/stacy-cruz/g-string
+      refers: /gallery/metart/20200205-g-string
+      released: 2020-02-05
+    - title: Ottoman
+      id: /model/name/stacy-cruz/ottoman
+      refers: /gallery/metart/20200107-ottoman
+      released: 2020-01-07
+    - title: Cleavage
+      id: /model/name/stacy-cruz/cleavage
+      refers: /gallery/metart/20191204-cleavage
+      released: 2019-12-04
+    - title: Leopard Dress
+      id: /model/name/stacy-cruz/leopard-dress
+      refers: /gallery/metart/20191108-leopard-dress
+      released: 2019-11-08
+    - title: Polished
+      id: /model/name/stacy-cruz/polished
+      refers: /gallery/metart/20190604-polished
+      released: 2019-06-04
+    - title: Afterglow
+      id: /model/name/stacy-cruz/afterglow
+      refers: /gallery/metart/20190504-afterglow
+      released: 2019-05-04
+    - title: Floaties
+      id: /model/name/stacy-cruz/floaties
+      refers: /gallery/metart/20190407-floaties
+      released: 2019-04-07
+    - title: Glamorous Gams
+      id: /model/name/stacy-cruz/glamorous-gams
+      refers: /gallery/metart/20190306-glamorous-gams
+      released: 2019-03-06
+    - title: Cabana
+      id: /model/name/stacy-cruz/cabana
+      refers: /gallery/metart/20190129-cabana
+      released: 2019-01-29
+    - title: Stacked
+      id: /model/name/stacy-cruz/stacked
+      refers: /gallery/metart/20181218-stacked
+      released: 2018-12-18
+    - title: Presenting Stacy Cruz
+      id: /model/name/stacy-cruz/presenting-stacy-cruz
+      refers: /gallery/metart/20181117-presenting-stacy-cruz
+      released: 2018-11-17
+    - title: Spicy Glass
+      id: /model/name/stacy-cruz/spicy-glass
+      refers: /gallery/sexart/20260713-spicy-glass
+      released: 2026-07-13
+    - title: Showered With Love
+      id: /model/name/stacy-cruz/showered-with-love
+      refers: /gallery/sexart/20260212-showered-with-love
+      released: 2026-02-12
+    - title: My Favorite Toy
+      id: /model/name/stacy-cruz/my-favorite-toy
+      refers: /gallery/sexart/20251011-my-favorite-toy
+      released: 2025-10-11
+    - title: Seductive
+      id: /model/name/stacy-cruz/seductive
+      refers: /gallery/sexart/20250630-seductive
+      released: 2025-06-30
+    - title: Summer House
+      id: /model/name/stacy-cruz/summer-house
+      refers: /gallery/sexart/20250322-summer-house
+      released: 2025-03-22
+    - title: Garden Of Eden
+      id: /model/name/stacy-cruz/garden-of-eden
+      refers: /gallery/sexart/20250120-garden-of-eden
+      released: 2025-01-20
+    - title: Sexy In Lingerie
+      id: /model/name/stacy-cruz/sexy-in-lingerie
+      refers: /gallery/sexart/20241119-sexy-in-lingerie
+      released: 2024-11-19
+    - title: So Alluring
+      id: /model/name/stacy-cruz/so-alluring
+      refers: /gallery/sexart/20240328-so-alluring
+      released: 2024-03-28
+    - title: Steamy Corset
+      id: /model/name/stacy-cruz/steamy-corset
+      refers: /gallery/sexart/20240201-steamy-corset
+      released: 2024-02-01
+    - title: Sheer Lace
+      id: /model/name/stacy-cruz/sheer-lace
+      refers: /gallery/sexart/20231024-sheer-lace
+      released: 2023-10-24
+    - title: Perfect Pink
+      id: /model/name/stacy-cruz/perfect-pink
+      refers: /gallery/sexart/20230627-perfect-pink
+      released: 2023-06-27
+    - title: Lingerie Tease
+      id: /model/name/stacy-cruz/lingerie-tease
+      refers: /gallery/sexart/20230311-lingerie-tease
+      released: 2023-03-11
+    - title: My Room
+      id: /model/name/stacy-cruz/my-room
+      refers: /gallery/sexart/20210508-my-room
+      released: 2021-05-08
+    - title: Cruzin'
+      id: /model/name/stacy-cruz/cruzin
+      refers: /gallery/sexart/20200928-cruzin
+      released: 2020-09-28
+    - title: Stiletto
+      id: /model/name/stacy-cruz/stiletto
+      refers: /gallery/sexart/20191223-stiletto
+      released: 2019-12-23
+    - title: Tabletop
+      id: /model/name/stacy-cruz/tabletop
+      refers: /gallery/sexart/20190725-tabletop
+      released: 2019-07-25
+    - title: Black Heels
+      id: /model/name/stacy-cruz/black-heels
+      refers: /gallery/sexart/20190527-black-heels
+      released: 2019-05-27
+    - title: My Pallet Solo
+      id: /model/name/stacy-cruz/my-pallet-solo
+      refers: /gallery/sexart/20190307-my-pallet-solo
+      released: 2019-03-07
+    - title: Stacy Cruz
+      id: /model/name/stacy-cruz/stacy-cruz
+      refers: /gallery/sexart/20181124-stacy-cruz
+      released: 2018-11-24
+    - title: Stretched Out
+      id: /model/name/stacy-cruz/stretched-out
+      refers: /gallery/vivthomas/20260404-stretched-out
+      released: 2026-04-04
+    - title: Bikini Beauty
+      id: /model/name/stacy-cruz/bikini-beauty
+      refers: /gallery/vivthomas/20260221-bikini-beauty
+      released: 2026-02-21
+    - title: Kisses and Caresses
+      id: /model/name/stacy-cruz/kisses-and-caresses
+      refers: /gallery/vivthomas/20250310-kisses-and-caresses
+      released: 2025-03-10
+    - title: Kisses And Touches
+      id: /model/name/stacy-cruz/kisses-and-touches
+      refers: /gallery/vivthomas/20250127-kisses-and-touches
+      released: 2025-01-27
+    - title: Belong Together
+      id: /model/name/stacy-cruz/belong-together
+      refers: /gallery/vivthomas/20241029-belong-together
+      released: 2024-10-29
+    - title: Getting Wetter
+      id: /model/name/stacy-cruz/getting-wetter
+      refers: /gallery/vivthomas/20240917-getting-wetter
+      released: 2024-09-17
+    - title: Love Legs
+      id: /model/name/stacy-cruz/love-legs
+      refers: /gallery/vivthomas/20211226-love-legs
+      released: 2021-12-26
+    - title: Bottle Me Up
+      id: /model/name/stacy-cruz/bottle-me-up
+      refers: /gallery/vivthomas/20211017-bottle-me-up
+      released: 2021-10-17
+    - title: Party On
+      id: /model/name/stacy-cruz/party-on
+      refers: /gallery/vivthomas/20191231-party-on
+      released: 2019-12-31
+    - title: My Present
+      id: /model/name/stacy-cruz/my-present
+      refers: /gallery/vivthomas/20191031-my-present
+      released: 2019-10-31
+    movies:
+    - title: Morning Tea
+      id: /model/name/stacy-cruz/morning-tea
+      refers: /movie/metart/20231114-morning-tea
+      released: 2023-11-14
+    - title: Rendezvous
+      id: /model/name/stacy-cruz/rendezvous
+      refers: /movie/metart/20210725-rendezvous
+      released: 2021-07-25
+    - title: Going Back Home
+      id: /model/name/stacy-cruz/going-back-home
+      refers: /movie/metart/20201004-going-back-home
+      released: 2020-10-04
+    - title: Captivating Flames
+      id: /model/name/stacy-cruz/captivating-flames
+      refers: /movie/sexart/20241002-captivating-flames
+      released: 2024-10-02
+    - title: Beyond The Words
+      id: /model/name/stacy-cruz/beyond-the-words
+      refers: /movie/sexart/20240809-beyond-the-words
+      released: 2024-08-09
+    - title: Urbex
+      id: /model/name/stacy-cruz/urbex
+      refers: /movie/sexart/20231029-urbex
+      released: 2023-10-29
+    - title: I Feel It
+      id: /model/name/stacy-cruz/i-feel-it
+      refers: /movie/sexart/20230908-i-feel-it
+      released: 2023-09-08
+    - title: We Belong Together
+      id: /model/name/stacy-cruz/we-belong-together
+      refers: /movie/sexart/20230723-we-belong-together
+      released: 2023-07-23
+    - title: Colleague
+      id: /model/name/stacy-cruz/colleague
+      refers: /movie/sexart/20230122-colleague
+      released: 2023-01-22
+    - title: Maid For You #3
+      id: /model/name/stacy-cruz/maid-for-you-03
+      refers: /movie/sexart/20220727-maid-for-you-03
+      released: 2022-07-27
+    - title: Maid For You #2
+      id: /model/name/stacy-cruz/maid-for-you-02
+      refers: /movie/sexart/20220715-maid-for-you-02
+      released: 2022-07-15
+    - title: Maid For You #1
+      id: /model/name/stacy-cruz/maid-for-you-01
+      refers: /movie/sexart/20220626-maid-for-you-01
+      released: 2022-06-26
+    - title: Turn The Sport Off
+      id: /model/name/stacy-cruz/turn-the-sport-off
+      refers: /movie/sexart/20210407-turn-the-sport-off
+      released: 2021-04-07
+    - title: Sweet Nipples
+      id: /model/name/stacy-cruz/sweet-nipples
+      refers: /movie/sexart/20210310-sweet-nipples
+      released: 2021-03-10
+    - title: Balance Of Love
+      id: /model/name/stacy-cruz/balance-of-love
+      refers: /movie/sexart/20210221-balance-of-love
+      released: 2021-02-21
+    - title: Light Of Day
+      id: /model/name/stacy-cruz/light-of-day
+      refers: /movie/sexart/20210115-light-of-day
+      released: 2021-01-15
+    - title: You Are All I Need
+      id: /model/name/stacy-cruz/you-are-all-i-need
+      refers: /movie/sexart/20201209-you-are-all-i-need
+      released: 2020-12-09
+    - title: Treasure
+      id: /model/name/stacy-cruz/treasure
+      refers: /movie/sexart/20201125-treasure
+      released: 2020-11-25
+    - title: New Home
+      id: /model/name/stacy-cruz/new-home
+      refers: /movie/sexart/20200920-new-home
+      released: 2020-09-20
+    - title: SexArt Collection - Stacy Cruz
+      id: /model/name/stacy-cruz/sexart-collection---stacy-cruz
+      refers: /movie/sexart/20200517-sexart-collection---stacy-cruz
+      released: 2020-05-17
+    - title: Turn Off
+      id: /model/name/stacy-cruz/turn-off
+      refers: /movie/sexart/20190920-turn-off
+      released: 2019-09-20
+    - title: Stacy Cruz - The Wandering
+      id: /model/name/stacy-cruz/stacy-cruz---the-wandering
+      refers: /movie/sexart/20190906-stacy-cruz---the-wandering
+      released: 2019-09-06
+    - title: The Wandering
+      id: /model/name/stacy-cruz/the-wandering
+      refers: /movie/sexart/20190721-the-wandering
+      released: 2019-07-21
+    - title: Freefall
+      id: /model/name/stacy-cruz/freefall
+      refers: /movie/sexart/20190623-freefall
+      released: 2019-06-23
+    - title: Cover
+      id: /model/name/stacy-cruz/cover
+      refers: /movie/sexart/20190403-cover
+      released: 2019-04-03
+    - title: Stay
+      id: /model/name/stacy-cruz/stay
+      refers: /movie/sexart/20190320-stay
+      released: 2019-03-20
+    - title: Ritual 4
+      id: /model/name/stacy-cruz/ritual-4
+      refers: /movie/sexart/20190222-ritual-4
+      released: 2019-02-22
+    - title: Ritual 3
+      id: /model/name/stacy-cruz/ritual-3
+      refers: /movie/sexart/20190215-ritual-3
+      released: 2019-02-15
+    - title: Disquiet
+      id: /model/name/stacy-cruz/disquiet
+      refers: /movie/sexart/20181205-disquiet
+      released: 2018-12-05
+    - title: Harmonic Thinking
+      id: /model/name/stacy-cruz/harmonic-thinking
+      refers: /movie/sexart/20181109-harmonic-thinking
+      released: 2018-11-09
+    - title: Ritual 2
+      id: /model/name/stacy-cruz/ritual-2
+      refers: /movie/sexart/20181005-ritual-2
+      released: 2018-10-05
+    - title: On Location - On Location
+      id: /model/name/stacy-cruz/on-location---on-location
+      refers: /movie/vivthomas/20250823-on-location---on-location
+      released: 2025-08-23
+    - title: Partnership
+      id: /model/name/stacy-cruz/partnership
+      refers: /movie/vivthomas/20250408-partnership
+      released: 2025-04-08
+    - title: Bee My Love
+      id: /model/name/stacy-cruz/bee-my-love
+      refers: /movie/vivthomas/20250225-bee-my-love
+      released: 2025-02-25
+    - title: Playful Touch
+      id: /model/name/stacy-cruz/playful-touch
+      refers: /movie/vivthomas/20241128-playful-touch
+      released: 2024-11-28
+    - title: Poolside Pleasure
+      id: /model/name/stacy-cruz/poolside-pleasure
+      refers: /movie/vivthomas/20241011-poolside-pleasure
+      released: 2024-10-11
+    - title: On Location - Lee Anne, Freya Dee, Stacy Cruz & Lady Dee
+      id: /model/name/stacy-cruz/on-location---lee-anne--freya-dee--stacy-cruz---lady-dee
+      refers: /movie/vivthomas/20200112-on-location---lee-anne--freya-dee--stacy-cruz---lady-dee
+      released: 2020-01-12
+    - title: Home Sweet Home
+      id: /model/name/stacy-cruz/home-sweet-home
+      refers: /movie/vivthomas/20200102-home-sweet-home
+      released: 2020-01-02
+    - title: On Location - Stacy Cruz & Sarah Kay
+      id: /model/name/stacy-cruz/on-location---stacy-cruz---sarah-kay
+      refers: /movie/vivthomas/20191207-on-location---stacy-cruz---sarah-kay
+      released: 2019-12-07
+    - title: Birthday Wishes
+      id: /model/name/stacy-cruz/birthday-wishes
+      refers: /movie/vivthomas/20191101-birthday-wishes
+      released: 2019-11-01
