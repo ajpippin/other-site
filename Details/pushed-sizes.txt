@@ -323,6 +323,14 @@ file: p:Gallery_MetArt_20260804-pajama-daydream.jpg; k:80; t:jpg; o:portrait
 file: p:Gallery_MetArt_20260804-pajama-daydream.zip; k:344496; t:zip; n:140
 file: p:Gallery_MetArt_20260804-smiles-by-the-sea.jpg; k:92; t:jpg; o:portrait
 file: p:Gallery_MetArt_20260804-smiles-by-the-sea.zip; k:426768; t:zip; n:162
+file: p:Gallery_MetArt_20260805-baby-blue-ballet.jpg; k:84; t:jpg; o:portrait
+file: p:Gallery_MetArt_20260805-baby-blue-ballet.zip; k:246016; t:zip; n:129
+file: p:Gallery_MetArt_20260805-blonde-muse.jpg; k:76; t:jpg; o:portrait
+file: p:Gallery_MetArt_20260805-blonde-muse.zip; k:376880; t:zip; n:103
+file: p:Gallery_MetArt_20260805-hazel-gaze.jpg; k:92; t:jpg; o:portrait
+file: p:Gallery_MetArt_20260805-hazel-gaze.zip; k:279552; t:zip; n:127
+file: p:Gallery_MetArt_20260805-serene-escape.jpg; k:88; t:jpg; o:portrait
+file: p:Gallery_MetArt_20260805-serene-escape.zip; k:803008; t:zip; n:140
 file: p:Gallery_SexArt_20260714-bold-choice.jpg; k:88; t:jpg; o:portrait
 file: p:Gallery_SexArt_20260714-bold-choice.zip; k:311744; t:zip; n:123
 file: p:Gallery_SexArt_20260716-risque.jpg; k:96; t:jpg; o:portrait
@@ -417,6 +425,10 @@ file: p:Movie_SexArt_20260802-close-embrace-4k.mp4; k:15122848; t:mp4; r:2160p
 file: p:Movie_SexArt_20260802-close-embrace.jpg; k:88; t:jpg; o:portrait
 file: p:Movie_SexArt_20260802-close-embrace.mp4; k:1540352; t:mp4; r:1080p
 file: p:Movie_SexArt_20260802-close-embrace.zip; k:262592; t:zip; n:110
+file: p:Movie_SexArt_20260805-all-i-want-4k.mp4; k:19890880; t:mp4; r:2160p
+file: p:Movie_SexArt_20260805-all-i-want.jpg; k:100; t:jpg; o:portrait
+file: p:Movie_SexArt_20260805-all-i-want.mp4; k:2015248; t:mp4; r:1080p
+file: p:Movie_SexArt_20260805-all-i-want.zip; k:344400; t:zip; n:148
 file: p:Movie_VivThomas_20260714-no-apologies-4k.mp4; k:6652880; t:mp4; r:2160p
 file: p:Movie_VivThomas_20260714-no-apologies.jpg; k:80; t:jpg; o:portrait
 file: p:Movie_VivThomas_20260714-no-apologies.mp4; k:1704464; t:mp4; r:1080p
