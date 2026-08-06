@@ -331,6 +331,14 @@ file: p:Gallery_MetArt_20260805-hazel-gaze.jpg; k:92; t:jpg; o:portrait
 file: p:Gallery_MetArt_20260805-hazel-gaze.zip; k:279552; t:zip; n:127
 file: p:Gallery_MetArt_20260805-serene-escape.jpg; k:88; t:jpg; o:portrait
 file: p:Gallery_MetArt_20260805-serene-escape.zip; k:803008; t:zip; n:140
+file: p:Gallery_MetArt_20260806-fortunate-secret.jpg; k:96; t:jpg; o:portrait
+file: p:Gallery_MetArt_20260806-fortunate-secret.zip; k:426976; t:zip; n:122
+file: p:Gallery_MetArt_20260806-golden-girl.jpg; k:76; t:jpg; o:portrait
+file: p:Gallery_MetArt_20260806-golden-girl.zip; k:426112; t:zip; n:143
+file: p:Gallery_MetArt_20260806-presenting-alice-cherry.jpg; k:96; t:jpg; o:portrait
+file: p:Gallery_MetArt_20260806-presenting-alice-cherry.zip; k:803456; t:zip; n:177
+file: p:Gallery_MetArt_20260806-ravishing-beauty.jpg; k:84; t:jpg; o:portrait
+file: p:Gallery_MetArt_20260806-ravishing-beauty.zip; k:246048; t:zip; n:107
 file: p:Gallery_SexArt_20260714-bold-choice.jpg; k:88; t:jpg; o:portrait
 file: p:Gallery_SexArt_20260714-bold-choice.zip; k:311744; t:zip; n:123
 file: p:Gallery_SexArt_20260716-risque.jpg; k:96; t:jpg; o:portrait
@@ -357,6 +365,8 @@ file: p:Gallery_SexArt_20260803-seductive-smile.jpg; k:80; t:jpg; o:portrait
 file: p:Gallery_SexArt_20260803-seductive-smile.zip; k:377712; t:zip; n:113
 file: p:Gallery_SexArt_20260804-lakeside-oasis.jpg; k:84; t:jpg; o:portrait
 file: p:Gallery_SexArt_20260804-lakeside-oasis.zip; k:294976; t:zip; n:115
+file: p:Gallery_SexArt_20260806-late-night-glow.jpg; k:80; t:jpg; o:portrait
+file: p:Gallery_SexArt_20260806-late-night-glow.zip; k:541632; t:zip; n:116
 file: p:Gallery_VivThomas_20260716-compatible.jpg; k:76; t:jpg; o:portrait
 file: p:Gallery_VivThomas_20260716-compatible.zip; k:705376; t:zip; n:123
 file: p:Gallery_VivThomas_20260719-love-my-body.jpg; k:88; t:jpg; o:portrait
@@ -445,6 +455,9 @@ file: p:Movie_VivThomas_20260728-uncovered.jpg; k:80; t:jpg; o:portrait
 file: p:Movie_VivThomas_20260728-uncovered.mp4; k:1524048; t:mp4; r:1080p
 file: p:Movie_VivThomas_20260731-two-of-us-4k.mp4; k:8274944; t:mp4; r:2160p
 file: p:Movie_VivThomas_20260731-two-of-us.mp4; k:1672160; t:mp4; r:1080p
+file: p:Movie_VivThomas_20260806-getting-steamy-4k.mp4; k:6340672; t:mp4; r:2160p
+file: p:Movie_VivThomas_20260806-getting-steamy.jpg; k:76; t:jpg; o:portrait
+file: p:Movie_VivThomas_20260806-getting-steamy.mp4; k:1671264; t:mp4; r:1080p
 model.file: p:Model_MetArt_aimee-rox.jpg; k:40; t:jpg; o:portrait
 model.file: p:Model_MetArt_alice-kelly.jpg; k:32; t:jpg; o:portrait
 model.file: p:Model_MetArt_alice-may.jpg; k:44; t:jpg; o:portrait
