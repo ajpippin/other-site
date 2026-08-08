@@ -357,6 +357,14 @@ file: p:Gallery_MetArt_20260807-tulle-romance.jpg; k:84; t:jpg; o:portrait
 file: p:Gallery_MetArt_20260807-tulle-romance.zip; k:262528; t:zip; n:122
 file: p:Gallery_MetArt_20260807-wildly-irresistible.jpg; k:104; t:jpg; o:portrait
 file: p:Gallery_MetArt_20260807-wildly-irresistible.zip; k:1228992; t:zip; n:123
+file: p:Gallery_MetArt_20260808-kitchen-chemistry.jpg; k:104; t:jpg; o:portrait
+file: p:Gallery_MetArt_20260808-kitchen-chemistry.zip; k:671776; t:zip; n:137
+file: p:Gallery_MetArt_20260808-mountain-tea-ritual-1.jpg; k:76; t:jpg; o:portrait
+file: p:Gallery_MetArt_20260808-mountain-tea-ritual-1.zip; k:230176; t:zip; n:103
+file: p:Gallery_MetArt_20260808-pink-crush.jpg; k:72; t:jpg; o:portrait
+file: p:Gallery_MetArt_20260808-pink-crush.zip; k:311776; t:zip; n:168
+file: p:Gallery_MetArt_20260808-short-shorts.jpg; k:84; t:jpg; o:portrait
+file: p:Gallery_MetArt_20260808-short-shorts.zip; k:344192; t:zip; n:107
 file: p:Gallery_SexArt_20260714-bold-choice.jpg; k:88; t:jpg; o:portrait
 file: p:Gallery_SexArt_20260714-bold-choice.zip; k:311744; t:zip; n:123
 file: p:Gallery_SexArt_20260716-risque.jpg; k:96; t:jpg; o:portrait
@@ -386,6 +394,8 @@ file: p:Gallery_SexArt_20260804-lakeside-oasis.jpg; k:84; t:jpg; o:portrait
 file: p:Gallery_SexArt_20260804-lakeside-oasis.zip; k:294976; t:zip; n:115
 file: p:Gallery_SexArt_20260806-late-night-glow.jpg; k:80; t:jpg; o:portrait
 file: p:Gallery_SexArt_20260806-late-night-glow.zip; k:541632; t:zip; n:116
+file: p:Gallery_SexArt_20260808-joyous.jpg; k:100; t:jpg; o:portrait
+file: p:Gallery_SexArt_20260808-joyous.zip; k:377440; t:zip; n:124
 file: p:Gallery_VivThomas_20260716-compatible.jpg; k:76; t:jpg; o:portrait
 file: p:Gallery_VivThomas_20260716-compatible.zip; k:705376; t:zip; n:123
 file: p:Gallery_VivThomas_20260719-love-my-body.jpg; k:88; t:jpg; o:portrait
@@ -487,6 +497,9 @@ file: p:Movie_VivThomas_20260731-two-of-us.mp4; k:1672160; t:mp4; r:1080p
 file: p:Movie_VivThomas_20260806-getting-steamy-4k.mp4; k:6340672; t:mp4; r:2160p
 file: p:Movie_VivThomas_20260806-getting-steamy.jpg; k:76; t:jpg; o:portrait
 file: p:Movie_VivThomas_20260806-getting-steamy.mp4; k:1671264; t:mp4; r:1080p
+file: p:Movie_VivThomas_20260808-bts--sofia-rivers-on-location-4k.mp4; k:3817600; t:mp4; r:2160p
+file: p:Movie_VivThomas_20260808-bts--sofia-rivers-on-location.jpg; k:68; t:jpg; o:portrait
+file: p:Movie_VivThomas_20260808-bts--sofia-rivers-on-location.mp4; k:966800; t:mp4; r:1080p
 model.file: p:Model_MetArt_aimee-rox.jpg; k:40; t:jpg; o:portrait
 model.file: p:Model_MetArt_alice-kelly.jpg; k:32; t:jpg; o:portrait
 model.file: p:Model_MetArt_alice-may.jpg; k:44; t:jpg; o:portrait
