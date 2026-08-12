@@ -385,6 +385,14 @@ file: p:Gallery_MetArt_20260811-latin-girl-1.jpg; k:76; t:jpg; o:portrait
 file: p:Gallery_MetArt_20260811-latin-girl-1.zip; k:524432; t:zip; n:148
 file: p:Gallery_MetArt_20260811-rule-breaker.jpg; k:96; t:jpg; o:portrait
 file: p:Gallery_MetArt_20260811-rule-breaker.zip; k:246048; t:zip; n:126
+file: p:Gallery_MetArt_20260812-coastal-calm.jpg; k:84; t:jpg; o:portrait
+file: p:Gallery_MetArt_20260812-coastal-calm.zip; k:344128; t:zip; n:124
+file: p:Gallery_MetArt_20260812-dripping-in-desire-1.jpg; k:108; t:jpg; o:portrait
+file: p:Gallery_MetArt_20260812-dripping-in-desire-1.zip; k:655888; t:zip; n:132
+file: p:Gallery_MetArt_20260812-good-energy.jpg; k:128; t:jpg; o:portrait
+file: p:Gallery_MetArt_20260812-good-energy.zip; k:344384; t:zip; n:135
+file: p:Gallery_MetArt_20260812-true-beauty.jpg; k:68; t:jpg; o:portrait
+file: p:Gallery_MetArt_20260812-true-beauty.zip; k:262624; t:zip; n:123
 file: p:Gallery_SexArt_20260714-bold-choice.jpg; k:88; t:jpg; o:portrait
 file: p:Gallery_SexArt_20260714-bold-choice.zip; k:311744; t:zip; n:123
 file: p:Gallery_SexArt_20260716-risque.jpg; k:96; t:jpg; o:portrait
@@ -512,6 +520,10 @@ file: p:Movie_SexArt_20260809-only-yours-4k.mp4; k:16483136; t:mp4; r:2160p
 file: p:Movie_SexArt_20260809-only-yours.jpg; k:112; t:jpg; o:portrait
 file: p:Movie_SexArt_20260809-only-yours.mp4; k:1671680; t:mp4; r:1080p
 file: p:Movie_SexArt_20260809-only-yours.zip; k:442752; t:zip; n:142
+file: p:Movie_SexArt_20260812-mesmerizing-gaze-4k.mp4; k:16401280; t:mp4; r:2160p
+file: p:Movie_SexArt_20260812-mesmerizing-gaze.jpg; k:84; t:jpg; o:portrait
+file: p:Movie_SexArt_20260812-mesmerizing-gaze.mp4; k:1655776; t:mp4; r:1080p
+file: p:Movie_SexArt_20260812-mesmerizing-gaze.zip; k:409744; t:zip; n:151
 file: p:Movie_VivThomas_20260714-no-apologies-4k.mp4; k:6652880; t:mp4; r:2160p
 file: p:Movie_VivThomas_20260714-no-apologies.jpg; k:80; t:jpg; o:portrait
 file: p:Movie_VivThomas_20260714-no-apologies.mp4; k:1704464; t:mp4; r:1080p
