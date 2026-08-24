@@ -5,29 +5,47 @@
 @site MetArt
 @type Gallery
 
-Showstopper - Georgia
-Showstopper
-Released: Aug 19, 2026
-Featuring: Georgia
-Director: Luca Helios
+Peach Bliss - Milkavi
+Peach Bliss
+Released: Aug 24, 2026
+Featuring: Milkavi
+Director: David Ekmekci
+Rating: 9.4
+Presenting Carrie Shaw - Carrie Shaw
+Presenting Carrie Shaw
+Released: Aug 24, 2026
+Featuring: Carrie Shaw
+Director: Tony G
+Rating: 9.1
+Sweater Weather - Anastasia Barbi
+Sweater Weather
+Released: Aug 24, 2026
+Featuring: Anastasia Barbi
+Director: Flora
 Rating: 9.6
-Brunch Crush - Jane May
-Brunch Crush
-Released: Aug 19, 2026
-Featuring: Jane May
-Director: Fabrice
-Rating: 9.4
-Presenting Cherry Storm - Cherry Storm
-Presenting Cherry Storm
-Released: Aug 19, 2026
-Featuring: Cherry Storm
-Director: Julia Kalias
-Rating: 9.4
-Glitter & Grace - Ramona Ciccone
-Glitter & Grace
-Released: Aug 19, 2026
-Featuring: Ramona Ciccone
+Suite Escape - Victoria Benz
+Suite Escape
+Released: Aug 24, 2026
+Featuring: Victoria Benz
+Director: Erro
+Rating: 9.5
+Wrapped in White - Violet Lemar
+Wrapped in White
+Released: Aug 23, 2026
+Featuring: Violet Lemar
 Director: Matiss
+Rating: 9.3
+Apple a Day - Gloria Sutton
+Apple a Day
+Released: Aug 23, 2026
+Featuring: Gloria Sutton
+Director: Julia Kalias
+Rating: 9.3
+Forbidden View - Dalia Lapiedra
+Forbidden View
+Released: Aug 23, 2026
+Featuring: Dalia Lapiedra
+Director: Luca Helios
 Rating: 9.5
 
 #--------------------------------------------------------------------------------------------------#
@@ -35,40 +53,66 @@ Rating: 9.5
 @site MetArt
 @type Movie
 
-Summer Hue 2 - Polly Yangs
+Morning Craving - Liv Lauren
+Morning Craving
+Released: Aug 20, 2026
+Featuring: Liv Lauren
+Director: Sandra Shine
+Rating: 9.6
+Fire Within 2 - Piper
+Fire Within 2
+Released: Aug 23, 2026
+Featuring: Piper
+Director: Cecelia
+Rating: 9.4
 
 #--------------------------------------------------------------------------------------------------#
 
 @site SexArt
 @type Gallery
 
-Forbidden View - Vero Kai
+Sexy Selfie - Erika Heiss
+Sexy Selfie
+Released: Aug 24, 2026
+Featuring: Erika Heiss
+Director: Tyler Beau
+Rating: 9.5
+Perfect Company - Ariana Regent - Ramona Barlowe
+Perfect Company
+Released: Aug 22, 2026
+Featuring: Ariana Regent, Ramona Barlowe
+Director: Koenart
+Rating: 9.5
 
 #--------------------------------------------------------------------------------------------------#
 
 @site SexArt
 @type Movie
 
-A Moment Before - Rika Fane - Michael Fly
-A Moment Before
-Released: Aug 19, 2026
-Featuring: Rika Fane, Michael Fly
+First Kiss - Angelo Godshack - Victoria Benz
+First Kiss
+Released: Aug 23, 2026
+Featuring: Angelo Godshack, Victoria Benz
 Director: Andrej Lupin
-Rating: 9.2
-
-model: n:Rika Fane; id:/model/sexart/rika-fane; u:https://www.sexart.com/model/rika-fane;
-model: n:Michael Fly; id:/model/sexart/michael-fly; u:https://www.sexart.com/model/michael-fly;
-file.prefix: Movie_SexArt_20260819-a-moment-before
-url: https://www.sexart.com/model/rika-fane-and-michael-fly/movie/20260819/A_MOMENT_BEFORE
-
----
+Rating: 8.8
+Beside You - Deny Lou - Valery
+Beside You
+Released: Aug 21, 2026
+Featuring: Deny Lou, Valery
+Director: Andrej Lupin
+Rating: 9.4
 
 #--------------------------------------------------------------------------------------------------#
 
 @site VivThomas
 @type Gallery
 
-Perfect Balance - Kate Quinn - Polly Yangs
+Close to You - Sofi Miel - Sumiko
+Close to You
+Released: Aug 24, 2026
+Featuring: Sofi Miel, Sumiko
+Director: Sandra Shine
+Rating: 9.7
 
 #--------------------------------------------------------------------------------------------------#
 
