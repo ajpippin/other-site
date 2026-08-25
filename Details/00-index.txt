@@ -5,83 +5,47 @@
 @site MetArt
 @type Gallery
 
-Peach Bliss - Milkavi
-Peach Bliss
-Released: Aug 24, 2026
-Featuring: Milkavi
-Director: David Ekmekci
-Rating: 9.4
-Presenting Carrie Shaw - Carrie Shaw
-Presenting Carrie Shaw
-Released: Aug 24, 2026
-Featuring: Carrie Shaw
-Director: Tony G
-Rating: 9.1
-Sweater Weather - Anastasia Barbi
-Sweater Weather
-Released: Aug 24, 2026
-Featuring: Anastasia Barbi
-Director: Flora
-Rating: 9.6
-Suite Escape - Victoria Benz
-Suite Escape
-Released: Aug 24, 2026
-Featuring: Victoria Benz
-Director: Erro
+Bedside Beauty - Dominique
+Bedside Beauty
+Released: Aug 25, 2026
+Featuring: Dominique
+Director: Koenart
 Rating: 9.5
-Wrapped in White - Violet Lemar
-Wrapped in White
-Released: Aug 23, 2026
-Featuring: Violet Lemar
+Closet Cutie - Julia Morozzi
+Closet Cutie
+Released: Aug 25, 2026
+Featuring: Julia Morozzi
+Director: Nudero
+Rating: 9.5
+Pink Promise - Una
+Pink Promise
+Released: Aug 25, 2026
+Featuring: Una
 Director: Matiss
-Rating: 9.3
-Apple a Day - Gloria Sutton
-Apple a Day
-Released: Aug 23, 2026
-Featuring: Gloria Sutton
-Director: Julia Kalias
-Rating: 9.3
-Forbidden View - Dalia Lapiedra
-Forbidden View
-Released: Aug 23, 2026
-Featuring: Dalia Lapiedra
-Director: Luca Helios
-Rating: 9.5
+Rating: 9.4
 
 #--------------------------------------------------------------------------------------------------#
 
 @site MetArt
 @type Movie
 
-Morning Craving - Liv Lauren
-Morning Craving
-Released: Aug 20, 2026
-Featuring: Liv Lauren
-Director: Sandra Shine
+Vacation Vibes 2 - Eve Lunny
+Vacation Vibes 2
+Released: Aug 25, 2026
+Featuring: Eve Lunny
+Director: Tora Ness
 Rating: 9.6
-Fire Within 2 - Piper
-Fire Within 2
-Released: Aug 23, 2026
-Featuring: Piper
-Director: Cecelia
-Rating: 9.4
 
 #--------------------------------------------------------------------------------------------------#
 
 @site SexArt
 @type Gallery
 
-Sexy Selfie - Erika Heiss
-Sexy Selfie
-Released: Aug 24, 2026
-Featuring: Erika Heiss
-Director: Tyler Beau
-Rating: 9.5
-Perfect Company - Ariana Regent - Ramona Barlowe
-Perfect Company
-Released: Aug 22, 2026
-Featuring: Ariana Regent, Ramona Barlowe
-Director: Koenart
+Dinner Date - Diana Jam
+Dinner Date
+Released: Aug 25, 2026
+Featuring: Diana Jam
+Director: Walter Schotten
 Rating: 9.5
 
 #--------------------------------------------------------------------------------------------------#
@@ -90,17 +54,6 @@ Rating: 9.5
 @type Movie
 
 First Kiss - Angelo Godshack - Victoria Benz
-First Kiss
-Released: Aug 23, 2026
-Featuring: Angelo Godshack, Victoria Benz
-Director: Andrej Lupin
-Rating: 8.8
-Beside You - Deny Lou - Valery
-Beside You
-Released: Aug 21, 2026
-Featuring: Deny Lou, Valery
-Director: Andrej Lupin
-Rating: 9.4
 
 #--------------------------------------------------------------------------------------------------#
 
@@ -108,17 +61,17 @@ Rating: 9.4
 @type Gallery
 
 Close to You - Sofi Miel - Sumiko
-Close to You
-Released: Aug 24, 2026
-Featuring: Sofi Miel, Sumiko
-Director: Sandra Shine
-Rating: 9.7
 
 #--------------------------------------------------------------------------------------------------#
 
 @site VivThomas
 @type Movie
 
-Behind The Scenes: Britney Dutch On Location - Britney Dutch
+Perfect Agreement Episode 2 - Sveltelana - Shelena
+Perfect Agreement Episode 2
+Released: Aug 25, 2026
+Featuring: Sveltelana, Shelena
+Director: Sandra Shine
+Rating: 9.4
 
 #--------------------------------------------------------------------------------------------------#
