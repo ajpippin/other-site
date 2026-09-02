@@ -200,3 +200,70 @@ Starting 2026-05-01, all objects that can be persisted (details, files, models) 
     /model/metart/erika-heiss/jpg/1                           (rare; usually a clean landscape)
 
 **Important:** This doesn't necessarily imply a heirarchial storage method.  These are just _id_'s.
+
+
+## Notes
+
+```shell
+% filter='.video | { "duration": .duration, "rating": .rating, "ratings": .ratings, "title": .title, "url": .url, "publish_date": .publish_date, "pornstars": .pornstars, "segment": .segment, "tags": .tags }'
+% id=6a8dfb0faec55
+% curl --silent 'https://www.pornhub.com/webmasters/video_by_id?id='${id} | jq "${filter}"
+```
+```json
+{
+  "duration": "7:07",
+  "rating": 78.0488,
+  "ratings": 246,
+  "title": "The Most Beautiful French Woman Lets Us Fuck Her In The Ass To Thank Us For Her Promotion !!!",
+  "url": "https://www.pornhub.com/view_video.php?viewkey=6a8dfb0faec55",
+  "publish_date": "2026-08-25 20:47:19",
+  "pornstars": [],
+  "segment": "straight",
+  "tags": [
+    {
+      "tag_name": "interracial"
+    },
+    {
+      "tag_name": "french"
+    },
+    {
+      "tag_name": "amateur interracial"
+    },
+    {
+      "tag_name": "french amateur"
+    },
+    {
+      "tag_name": "interracial amateur"
+    },
+    {
+      "tag_name": "french anal"
+    },
+    {
+      "tag_name": "anal interracial"
+    },
+    {
+      "tag_name": "best doggystyle"
+    },
+    {
+      "tag_name": "big ass doggystyle"
+    },
+    {
+      "tag_name": "doggystyle"
+    },
+    {
+      "tag_name": "missionary"
+    },
+    {
+      "tag_name": "hot standing sex"
+    },
+    {
+      "tag_name": "hardcore"
+    },
+    {
+      "tag_name": "hard rough sex"
+    }
+  ]
+}
+```
+
+
