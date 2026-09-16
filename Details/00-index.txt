@@ -2,71 +2,85 @@
 #== .../Site/Details/00-index.txt =================================================================#
 #==================================================================================================#
 
+#-- MetArt / Gallery ------------------------------------------------------------------------------#
+
 @site MetArt
 @type Gallery
 
-Naughty by Nature - Chiara
-Naughty by Nature
-Released: Sep 15, 2026
-Featuring: Chiara
-Director: Julia Kalias
-Rating: 9.3
-Glass Act - Imogen
-Glass Act
-Released: Sep 15, 2026
-Featuring: Imogen
-Director: Fabrice
-Rating: 9.3
-Woman in White - Stella Cardo
-Woman in White
-Released: Sep 15, 2026
-Featuring: Stella Cardo
-Director: Luca Helios
+Bedtime Fantasy - Anastasia Bella
+Bedtime Fantasy
+Released: Sep 16, 2026
+Featuring: Anastasia Bella
+Director: Matiss
+Rating: 9.5
+Presenting Laura Loren - Laura Loren
+Presenting Laura Loren
+Released: Sep 16, 2026
+Featuring: Laura Loren
+Director: Tony G
+Rating: 9.1
+String Tease - Lilly Narak
+String Tease
+Released: Sep 16, 2026
+Featuring: Lilly Narak
+Director: Robert Graham
+Rating: 9.4
+Wrapped In White 1 - Nikoleta
+Wrapped In White 1
+Released: Sep 16, 2026
+Featuring: Nikoleta
+Director: Tora Ness
+Rating: 9.4
+Couch Tease - Tisha
+Couch Tease
+Released: Sep 16, 2026
+Featuring: Tisha
+Director: Leonardo
 Rating: 9.5
 
 #--------------------------------------------------------------------------------------------------#
-
-@site MetArt
-@type Movie
-
-Dripping in Desire 2 - Sakura Hell
-Dripping in Desire 2
-Released: Sep 15, 2026
-Featuring: Sakura Hell
-Director: David Ekmekci
-Rating: 9.4
-
+#-- SexArt / Gallery ------------------------------------------------------------------------------#
 #--------------------------------------------------------------------------------------------------#
 
 @site SexArt
 @type Gallery
 
 Elegant Curves - Teddy Cute
-Elegant Curves
-Released: Sep 15, 2026
-Featuring: Teddy Cute
-Director: Robert Graham
-Rating: 9.0
 
 #--------------------------------------------------------------------------------------------------#
-
-@site SexArt
-@type Movie
-
-Look After Me - Anabel Busty - Perry Layne
-
+#-- VivThomas / Gallery ---------------------------------------------------------------------------#
 #--------------------------------------------------------------------------------------------------#
 
 @site VivThomas
 @type Gallery
 
 Two of a Kind - Norah Juliette - Cherry Crush
-Two of a Kind
-Released: Sep 15, 2026
-Featuring: Norah Juliette, Cherry Crush
-Director: Sandra Shine
-Rating: 9.4
 
+#--------------------------------------------------------------------------------------------------#
+#-- VivThomas / Movie -----------------------------------------------------------------------------#
+#--------------------------------------------------------------------------------------------------#
+
+@site MetArt
+@type Movie
+
+Dripping in Desire 2 - Sakura Hell
+
+#--------------------------------------------------------------------------------------------------#
+#-- SexArt / Movie --------------------------------------------------------------------------------#
+#--------------------------------------------------------------------------------------------------#
+
+@site SexArt
+@type Movie
+
+Thin Patience - Liv Lauren - Michael Fly
+Thin Patience
+Released: Sep 16, 2026
+Featuring: Liv Lauren, Michael Fly
+Director: Andrej Lupin
+Rating: 9.1
+
+#--------------------------------------------------------------------------------------------------#
+#-- VivThomas / Movie -----------------------------------------------------------------------------#
 #--------------------------------------------------------------------------------------------------#
 
 @site VivThomas
@@ -74,4 +88,6 @@ Rating: 9.4
 
 Sun Kissed - Isabella De Laa - Arina Shy
 
+#--------------------------------------------------------------------------------------------------#
+#--------------------------------------------------------------------------------------------------#
 #--------------------------------------------------------------------------------------------------#
