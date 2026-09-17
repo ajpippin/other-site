@@ -2,41 +2,37 @@
 #== .../Site/Details/00-index.txt =================================================================#
 #==================================================================================================#
 
+#--------------------------------------------------------------------------------------------------#
 #-- MetArt / Gallery ------------------------------------------------------------------------------#
+#--------------------------------------------------------------------------------------------------#
 
 @site MetArt
 @type Gallery
 
-Bedtime Fantasy - Anastasia Bella
-Bedtime Fantasy
-Released: Sep 16, 2026
-Featuring: Anastasia Bella
-Director: Matiss
-Rating: 9.5
-Presenting Laura Loren - Laura Loren
-Presenting Laura Loren
-Released: Sep 16, 2026
-Featuring: Laura Loren
-Director: Tony G
+Give In to Me - Freya Mayer
+Give In to Me
+Released: Sep 17, 2026
+Featuring: Freya Mayer
+Director: Erro
+Rating: 9.6
+Smile and Seduce - Lia Lin
+Smile and Seduce
+Released: Sep 17, 2026
+Featuring: Lia Lin
+Director: Deltagamma
+Rating: 9.0
+Waiting in Lace - Lula Stocch
+Waiting in Lace
+Released: Sep 17, 2026
+Featuring: Lula Stocch
+Director: David Menich
+Rating: 9.4
+Daisies on Display - Deena
+Daisies on Display
+Released: Sep 17, 2026
+Featuring: Deena
+Director: Koenart
 Rating: 9.1
-String Tease - Lilly Narak
-String Tease
-Released: Sep 16, 2026
-Featuring: Lilly Narak
-Director: Robert Graham
-Rating: 9.4
-Wrapped In White 1 - Nikoleta
-Wrapped In White 1
-Released: Sep 16, 2026
-Featuring: Nikoleta
-Director: Tora Ness
-Rating: 9.4
-Couch Tease - Tisha
-Couch Tease
-Released: Sep 16, 2026
-Featuring: Tisha
-Director: Leonardo
-Rating: 9.5
 
 #--------------------------------------------------------------------------------------------------#
 #-- SexArt / Gallery ------------------------------------------------------------------------------#
@@ -45,7 +41,12 @@ Rating: 9.5
 @site SexArt
 @type Gallery
 
-Elegant Curves - Teddy Cute
+Poised Reflection - Stefania James
+Poised Reflection
+Released: Sep 17, 2026
+Featuring: Stefania James
+Director: Walter Schotten
+Rating: 9.1
 
 #--------------------------------------------------------------------------------------------------#
 #-- VivThomas / Gallery ---------------------------------------------------------------------------#
@@ -73,11 +74,6 @@ Dripping in Desire 2 - Sakura Hell
 @type Movie
 
 Thin Patience - Liv Lauren - Michael Fly
-Thin Patience
-Released: Sep 16, 2026
-Featuring: Liv Lauren, Michael Fly
-Director: Andrej Lupin
-Rating: 9.1
 
 #--------------------------------------------------------------------------------------------------#
 #-- VivThomas / Movie -----------------------------------------------------------------------------#
@@ -86,7 +82,12 @@ Rating: 9.1
 @site VivThomas
 @type Movie
 
-Sun Kissed - Isabella De Laa - Arina Shy
+Private Session - Polly Yangs - Kate Quinn
+Private Session
+Released: Sep 17, 2026
+Featuring: Polly Yangs, Kate Quinn
+Director: Sandra Shine
+Rating: 9.8
 
 #--------------------------------------------------------------------------------------------------#
 #--------------------------------------------------------------------------------------------------#
