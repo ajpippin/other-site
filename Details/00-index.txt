@@ -9,29 +9,29 @@
 @site MetArt
 @type Gallery
 
-Give In to Me - Freya Mayer
-Give In to Me
-Released: Sep 17, 2026
-Featuring: Freya Mayer
+Lounging Lovely - Cherry Blossom
+Lounging Lovely
+Released: Sep 21, 2026
+Featuring: Cherry Blossom
+Director: Tora Ness
+Rating: 9.5
+Under Her Spell - Vixi Rafi
+Under Her Spell
+Released: Sep 21, 2026
+Featuring: Vixi Rafi
 Director: Erro
-Rating: 9.6
-Smile and Seduce - Lia Lin
-Smile and Seduce
-Released: Sep 17, 2026
-Featuring: Lia Lin
-Director: Deltagamma
-Rating: 9.0
-Waiting in Lace - Lula Stocch
-Waiting in Lace
-Released: Sep 17, 2026
-Featuring: Lula Stocch
-Director: David Menich
 Rating: 9.4
-Daisies on Display - Deena
-Daisies on Display
-Released: Sep 17, 2026
-Featuring: Deena
+Cherry Charm - Lila Rose
+Cherry Charm
+Released: Sep 21, 2026
+Featuring: Lila Rose
 Director: Koenart
+Rating: 9.4
+Gallery Flirt - Po
+Gallery Flirt
+Released: Sep 21, 2026
+Featuring: Po
+Director: Robert Graham
 Rating: 9.1
 
 #--------------------------------------------------------------------------------------------------#
@@ -41,12 +41,12 @@ Rating: 9.1
 @site SexArt
 @type Gallery
 
-Poised Reflection - Stefania James
-Poised Reflection
-Released: Sep 17, 2026
-Featuring: Stefania James
-Director: Walter Schotten
-Rating: 9.1
+Summer Romance - Nikoleta - Luc
+Summer Romance
+Released: Sep 21, 2026
+Featuring: Nikoleta, Luc
+Director: Tora Ness
+Rating: 9.7
 
 #--------------------------------------------------------------------------------------------------#
 #-- VivThomas / Gallery ---------------------------------------------------------------------------#
@@ -55,16 +55,21 @@ Rating: 9.1
 @site VivThomas
 @type Gallery
 
-Two of a Kind - Norah Juliette - Cherry Crush
+Morning Admiration - Isabella De Laa - Sofi Vega
+Morning Admiration
+Released: Sep 21, 2026
+Featuring: Isabella De Laa, Sofi Vega
+Director: Sandra Shine
+Rating: 9.1
 
 #--------------------------------------------------------------------------------------------------#
-#-- VivThomas / Movie -----------------------------------------------------------------------------#
+#-- MetArt / Movie --------------------------------------------------------------------------------#
 #--------------------------------------------------------------------------------------------------#
 
 @site MetArt
 @type Movie
 
-Dripping in Desire 2 - Sakura Hell
+Visiting Warsaw 2 - Luise
 
 #--------------------------------------------------------------------------------------------------#
 #-- SexArt / Movie --------------------------------------------------------------------------------#
@@ -73,7 +78,7 @@ Dripping in Desire 2 - Sakura Hell
 @site SexArt
 @type Movie
 
-Thin Patience - Liv Lauren - Michael Fly
+Morning Bliss - Alecia Fox - Tommy Cabrio
 
 #--------------------------------------------------------------------------------------------------#
 #-- VivThomas / Movie -----------------------------------------------------------------------------#
@@ -83,11 +88,6 @@ Thin Patience - Liv Lauren - Michael Fly
 @type Movie
 
 Private Session - Polly Yangs - Kate Quinn
-Private Session
-Released: Sep 17, 2026
-Featuring: Polly Yangs, Kate Quinn
-Director: Sandra Shine
-Rating: 9.8
 
 #--------------------------------------------------------------------------------------------------#
 #--------------------------------------------------------------------------------------------------#
