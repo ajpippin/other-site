@@ -9,7 +9,7 @@ title: Carmen #6
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/carmen-a/movie/20010106/CARMEN_PART_6
-cast: Carmen A; https://www.vivthomas.com/model/carmen-a; f
+model: n:Carmen A; id:/model/vivthomas/carmen-a; u:https://www.vivthomas.com/model/carmen-a; g:f
 released: 2001-01-06
 director:   Viv Thomas
 rating: 9.0
@@ -48,7 +48,7 @@ title: Carmen #5
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/carmen-a/movie/20010105/CARMEN_PART_5
-cast: Carmen A; https://www.vivthomas.com/model/carmen-a; f
+model: n:Carmen A; id:/model/vivthomas/carmen-a; u:https://www.vivthomas.com/model/carmen-a; g:f
 released: 2001-01-05
 director:   Viv Thomas
 rating: 8.9
@@ -89,7 +89,7 @@ title: Carmen #4
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/carmen-a/movie/20010104/CARMEN_PART_4
-cast: Carmen A; https://www.vivthomas.com/model/carmen-a; f
+model: n:Carmen A; id:/model/vivthomas/carmen-a; u:https://www.vivthomas.com/model/carmen-a; g:f
 released: 2001-01-04
 director:   Viv Thomas
 rating: 9.1
@@ -131,7 +131,7 @@ title: Carmen #3
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/carmen-a/movie/20010103/CARMEN_PART_3
-cast: Carmen A; https://www.vivthomas.com/model/carmen-a; f
+model: n:Carmen A; id:/model/vivthomas/carmen-a; u:https://www.vivthomas.com/model/carmen-a; g:f
 released: 2001-01-03
 director:   Viv Thomas
 rating: 9.0
@@ -174,7 +174,7 @@ title: Carmen #2
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/carmen-a/movie/20010102/CARMEN_PART_2
-cast: Carmen A; https://www.vivthomas.com/model/carmen-a; f
+model: n:Carmen A; id:/model/vivthomas/carmen-a; u:https://www.vivthomas.com/model/carmen-a; g:f
 released: 2001-01-02
 director:   Viv Thomas
 rating: 9.1
@@ -222,7 +222,7 @@ title: Carmen #1
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/carmen-a/movie/20010101/CARMEN_PART_1
-cast: Carmen A; https://www.vivthomas.com/model/carmen-a; f
+model: n:Carmen A; id:/model/vivthomas/carmen-a; u:https://www.vivthomas.com/model/carmen-a; g:f
 released: 2001-01-01
 director:   Viv Thomas
 rating: 9.3

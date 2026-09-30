@@ -8,7 +8,7 @@
 title: Presenting Oxana
 type: movie
 site: MetArt
-cast: n:Oxana B; u:https://www.metart.com/model/oxana-b; g:f
+model: n:Oxana B; id:/model/metart/oxana-b; u:https://www.metart.com/model/oxana-b; g:f
 released: 2007-12-31
 director: Voronin
 fileprefix: MetArt-20071231-presenting-oxana-
@@ -23,8 +23,8 @@ description: xxx
 title: Erox
 type: movie
 site: MetArt
-cast: n:Nata B; u:https://www.metart.com/model/nata-b; g:f
-cast: n:Olga G; u:https://www.metart.com/model/olga-g; g:f
+model: n:Nata B; id:/model/metart/nata-b; u:https://www.metart.com/model/nata-b; g:f
+model: n:Olga G; id:/model/metart/olga-g; u:https://www.metart.com/model/olga-g; g:f
 released: 2007-12-29
 director: Voronin
 fileprefix: MetArt-20071229-erox-
@@ -39,7 +39,7 @@ description: xxx
 title: Onirica
 type: movie
 site: MetArt
-cast: n:Nikky Case; u:https://www.metart.com/model/nikky-case; g:f
+model: n:Nikky Case; id:/model/metart/nikky-case; u:https://www.metart.com/model/nikky-case; g:f
 released: 2007-12-27
 director: Tim Fox
 fileprefix: MetArt-20071227-onirica-
@@ -54,7 +54,7 @@ description: xxx
 title: Exage
 type: movie
 site: MetArt
-cast: n:Lara C; u:https://www.metart.com/model/lara-c; g:f
+model: n:Lara C; id:/model/metart/lara-c; u:https://www.metart.com/model/lara-c; g:f
 released: 2007-12-26
 director: Goncharov
 fileprefix: MetArt-20071226-exage-
@@ -69,7 +69,7 @@ description: xxx
 title: Glacier
 type: movie
 site: MetArt
-cast: n:Bijou A; u:https://www.metart.com/model/bijou-a; g:f
+model: n:Bijou A; id:/model/metart/bijou-a; u:https://www.metart.com/model/bijou-a; g:f
 released: 2007-12-25
 director: Erro
 fileprefix: MetArt-20071225-glacier-
@@ -84,7 +84,7 @@ description: xxx
 title: Caimax
 type: movie
 site: MetArt
-cast: n:Peaches A; u:https://www.metart.com/model/peaches-a; g:f
+model: n:Peaches A; id:/model/metart/peaches-a; u:https://www.metart.com/model/peaches-a; g:f
 released: 2007-12-11
 director: Majoly
 fileprefix: MetArt-20071211-caimax-
@@ -99,7 +99,7 @@ description: xxx
 title: Sextia
 type: movie
 site: MetArt
-cast: n:Nikky Case; u:https://www.metart.com/model/nikky-case; g:f
+model: n:Nikky Case; id:/model/metart/nikky-case; u:https://www.metart.com/model/nikky-case; g:f
 released: 2007-12-08
 director: Luca Helios
 fileprefix: MetArt-20071208-sextia-
@@ -114,7 +114,7 @@ description: xxx
 title: Fijiria
 type: movie
 site: MetArt
-cast: n:Elle B; u:https://www.metart.com/model/elle-b; g:f
+model: n:Elle B; id:/model/metart/elle-b; u:https://www.metart.com/model/elle-b; g:f
 released: 2007-12-06
 director: Volkov
 fileprefix: MetArt-20071206-fijiria-
@@ -129,7 +129,7 @@ description: xxx
 title: Egos
 type: movie
 site: MetArt
-cast: n:Mira A; u:https://www.metart.com/model/mira-a; g:f
+model: n:Mira A; id:/model/metart/mira-a; u:https://www.metart.com/model/mira-a; g:f
 released: 2007-12-03
 director: Goncharov
 fileprefix: MetArt-20071203-egos-
@@ -144,7 +144,7 @@ description: xxx
 title: First Movie
 type: movie
 site: MetArt
-cast: n:Dana A; u:https://www.metart.com/model/dana-a; g:f
+model: n:Dana A; id:/model/metart/dana-a; u:https://www.metart.com/model/dana-a; g:f
 released: 2007-12-01
 director: Goncharov
 fileprefix: MetArt-20071201-first-movie-
@@ -159,7 +159,7 @@ description: xxx
 title: Mallorca
 type: movie
 site: MetArt
-cast: n:Iveta B; u:https://www.metart.com/model/iveta-b; g:f
+model: n:Iveta B; id:/model/metart/iveta-b; u:https://www.metart.com/model/iveta-b; g:f
 released: 2007-11-27
 director: Erro
 fileprefix: MetArt-20071127-mallorca-
@@ -174,7 +174,7 @@ description: xxx
 title: Dixias
 type: movie
 site: MetArt
-cast: n:Ksucha C; u:https://www.metart.com/model/ksucha-c; g:f
+model: n:Ksucha C; id:/model/metart/ksucha-c; u:https://www.metart.com/model/ksucha-c; g:f
 released: 2007-11-25
 director: Goncharov
 fileprefix: MetArt-20071125-dixias-
@@ -189,7 +189,7 @@ description: xxx
 title: Bixinisia
 type: movie
 site: MetArt
-cast: n:Iren A; u:https://www.metart.com/model/iren-a; g:f
+model: n:Iren A; id:/model/metart/iren-a; u:https://www.metart.com/model/iren-a; g:f
 released: 2007-11-23
 director: Goncharov
 fileprefix: MetArt-20071123-bixinisia-
@@ -204,7 +204,7 @@ description: xxx
 title: Yacht
 type: movie
 site: MetArt
-cast: n:Chiara A; u:https://www.metart.com/model/chiara-a; g:f
+model: n:Chiara A; id:/model/metart/chiara-a; u:https://www.metart.com/model/chiara-a; g:f
 released: 2007-11-15
 director: Luca Helios
 fileprefix: MetArt-20071115-yacht-
@@ -219,7 +219,7 @@ description: xxx
 title: Dangerous
 type: movie
 site: MetArt
-cast: n:Jade A; u:https://www.metart.com/model/jade-a; g:f
+model: n:Jade A; id:/model/metart/jade-a; u:https://www.metart.com/model/jade-a; g:f
 released: 2007-11-12
 director: Gubin
 fileprefix: MetArt-20071112-dangerous-
@@ -234,7 +234,7 @@ description: xxx
 title: Belliximia
 type: movie
 site: MetArt
-cast: n:Tati A; u:https://www.metart.com/model/tati-a; g:f
+model: n:Tati A; id:/model/metart/tati-a; u:https://www.metart.com/model/tati-a; g:f
 released: 2007-11-05
 director: Volkov
 fileprefix: MetArt-20071105-belliximia-
@@ -249,7 +249,7 @@ description: xxx
 title: Fisikal
 type: movie
 site: MetArt
-cast: n:Amine A; u:https://www.metart.com/model/amine-a; g:f
+model: n:Amine A; id:/model/metart/amine-a; u:https://www.metart.com/model/amine-a; g:f
 released: 2007-11-03
 director: Tim Fox
 fileprefix: MetArt-20071103-fisikal-
@@ -264,7 +264,7 @@ description: xxx
 title: Wish
 type: movie
 site: MetArt
-cast: n:Chiara A; u:https://www.metart.com/model/chiara-a; g:f
+model: n:Chiara A; id:/model/metart/chiara-a; u:https://www.metart.com/model/chiara-a; g:f
 released: 2007-11-01
 director: Luca Helios
 fileprefix: MetArt-20071101-wish-
@@ -279,7 +279,7 @@ description: xxx
 title: Galleas
 type: movie
 site: MetArt
-cast: n:Lora A; u:https://www.metart.com/model/lora-a; g:f
+model: n:Lora A; id:/model/metart/lora-a; u:https://www.metart.com/model/lora-a; g:f
 released: 2007-10-31
 director: Goncharov
 fileprefix: MetArt-20071031-galleas-
@@ -294,7 +294,7 @@ description: xxx
 title: Palinuro
 type: movie
 site: MetArt
-cast: n:Olga K; u:https://www.metart.com/model/olga-k; g:f
+model: n:Olga K; id:/model/metart/olga-k; u:https://www.metart.com/model/olga-k; g:f
 released: 2007-10-30
 director: Goncharov
 fileprefix: MetArt-20071030-palinuro-
@@ -309,7 +309,7 @@ description: xxx
 title: Gamus
 type: movie
 site: MetArt
-cast: n:Kira D; u:https://www.metart.com/model/kira-d; g:f
+model: n:Kira D; id:/model/metart/kira-d; u:https://www.metart.com/model/kira-d; g:f
 released: 2007-10-19
 director: Alan Anar
 fileprefix: MetArt-20071019-gamus-
@@ -324,7 +324,7 @@ description: xxx
 title: Lido
 type: movie
 site: MetArt
-cast: n:Chiara A; u:https://www.metart.com/model/chiara-a; g:f
+model: n:Chiara A; id:/model/metart/chiara-a; u:https://www.metart.com/model/chiara-a; g:f
 released: 2007-10-17
 director: Luca Helios
 fileprefix: MetArt-20071017-lido-
@@ -339,7 +339,7 @@ description: xxx
 title: Sunnixa
 type: movie
 site: MetArt
-cast: n:Mira A; u:https://www.metart.com/model/mira-a; g:f
+model: n:Mira A; id:/model/metart/mira-a; u:https://www.metart.com/model/mira-a; g:f
 released: 2007-10-07
 director: Goncharov
 fileprefix: MetArt-20071007-sunnixa-
@@ -354,7 +354,7 @@ description: xxx
 title: Kinnasias
 type: movie
 site: MetArt
-cast: n:Olga K; u:https://www.metart.com/model/olga-k; g:f
+model: n:Olga K; id:/model/metart/olga-k; u:https://www.metart.com/model/olga-k; g:f
 released: 2007-10-01
 director: Goncharov
 fileprefix: MetArt-20071001-kinnasias-
@@ -369,7 +369,7 @@ description: xxx
 title: Fiorissima
 type: movie
 site: MetArt
-cast: n:Nadin A; u:https://www.metart.com/model/nadin-a; g:f
+model: n:Nadin A; id:/model/metart/nadin-a; u:https://www.metart.com/model/nadin-a; g:f
 released: 2007-09-29
 director: Goncharov
 fileprefix: MetArt-20070929-fiorissima-
@@ -384,7 +384,7 @@ description: xxx
 title: Rarity
 type: movie
 site: MetArt
-cast: n:Natasha D; u:https://www.metart.com/model/natasha-d; g:f
+model: n:Natasha D; id:/model/metart/natasha-d; u:https://www.metart.com/model/natasha-d; g:f
 released: 2007-09-28
 director: Voronin
 fileprefix: MetArt-20070928-rarity-
@@ -399,7 +399,7 @@ description: xxx
 title: Nativias
 type: movie
 site: MetArt
-cast: n:Danae A; u:https://www.metart.com/model/danae-a; g:f
+model: n:Danae A; id:/model/metart/danae-a; u:https://www.metart.com/model/danae-a; g:f
 released: 2007-09-18
 director: Luca Helios
 fileprefix: MetArt-20070918-nativias-
@@ -414,7 +414,7 @@ description: xxx
 title: Insieme
 type: movie
 site: MetArt
-cast: n:Perla A; u:https://www.metart.com/model/perla-a; g:f
+model: n:Perla A; id:/model/metart/perla-a; u:https://www.metart.com/model/perla-a; g:f
 released: 2007-09-16
 director: Erro
 fileprefix: MetArt-20070916-insieme-
@@ -429,7 +429,7 @@ description: xxx
 title: Elasias
 type: movie
 site: MetArt
-cast: n:Natasha D; u:https://www.metart.com/model/natasha-d; g:f
+model: n:Natasha D; id:/model/metart/natasha-d; u:https://www.metart.com/model/natasha-d; g:f
 released: 2007-09-07
 director: Voronin
 fileprefix: MetArt-20070907-elasias-
@@ -444,7 +444,7 @@ description: xxx
 title: Agos
 type: movie
 site: MetArt
-cast: n:Ariel Piper Fawn; u:https://www.sexart.com/model/ariel-piper-fawn; s:SexArt; g:f
+model: n:Ariel Piper Fawn; id:/model/sexart/ariel-piper-fawn; u:https://www.sexart.com/model/ariel-piper-fawn; g:f
 released: 2007-09-03
 director: Tim Fox
 fileprefix: MetArt-20070903-agos-
@@ -459,7 +459,7 @@ description: xxx
 title: Lavikan
 type: movie
 site: MetArt
-cast: n:Eufrat A; u:https://www.metart.com/model/eufrat-a; g:f
+model: n:Eufrat A; id:/model/metart/eufrat-a; u:https://www.metart.com/model/eufrat-a; g:f
 released: 2007-09-01
 director: Tim Fox
 fileprefix: MetArt-20070901-lavikan-
@@ -474,8 +474,8 @@ description: xxx
 title: Agans
 type: movie
 site: MetArt
-cast: n:Koty A; u:https://www.metart.com/model/koty-a; g:f
-cast: n:Natasha P; u:https://www.metart.com/model/natasha-p; g:f
+model: n:Koty A; id:/model/metart/koty-a; u:https://www.metart.com/model/koty-a; g:f
+model: n:Natasha P; id:/model/metart/natasha-p; u:https://www.metart.com/model/natasha-p; g:f
 released: 2007-08-25
 director: Volkov
 fileprefix: MetArt-20070825-agans-
@@ -490,7 +490,7 @@ description: xxx
 title: First Movie
 type: movie
 site: MetArt
-cast: n:Nina A; u:https://www.metart.com/model/nina-a; g:f
+model: n:Nina A; id:/model/metart/nina-a; u:https://www.metart.com/model/nina-a; g:f
 released: 2007-08-24
 director: Luca Helios
 fileprefix: MetArt-20070824-first-movie-
@@ -505,7 +505,7 @@ description: xxx
 title: Kinean
 type: movie
 site: MetArt
-cast: n:Jenni A; u:https://www.metart.com/model/jenni-a; g:f
+model: n:Jenni A; id:/model/metart/jenni-a; u:https://www.metart.com/model/jenni-a; g:f
 released: 2007-08-22
 director: Erro
 fileprefix: MetArt-20070822-kinean-
@@ -520,7 +520,7 @@ description: xxx
 title: Lorinian
 type: movie
 site: MetArt
-cast: n:Iren A; u:https://www.metart.com/model/iren-a; g:f
+model: n:Iren A; id:/model/metart/iren-a; u:https://www.metart.com/model/iren-a; g:f
 released: 2007-08-20
 director: Goncharov
 fileprefix: MetArt-20070820-lorinian-
@@ -535,7 +535,7 @@ description: xxx
 title: Binilan
 type: movie
 site: MetArt
-cast: n:Ksena A; u:https://www.metart.com/model/ksena-a; g:f
+model: n:Ksena A; id:/model/metart/ksena-a; u:https://www.metart.com/model/ksena-a; g:f
 released: 2007-08-18
 director: Goncharov
 fileprefix: MetArt-20070818-binilan-
@@ -550,7 +550,7 @@ description: xxx
 title: Kikis
 type: movie
 site: MetArt
-cast: n:Sharon E; u:https://www.metart.com/model/sharon-e; g:f
+model: n:Sharon E; id:/model/metart/sharon-e; u:https://www.metart.com/model/sharon-e; g:f
 released: 2007-08-14
 director: Voronin
 fileprefix: MetArt-20070814-kikis-
@@ -565,7 +565,7 @@ description: xxx
 title: Selextra
 type: movie
 site: MetArt
-cast: n:Dariya A; u:https://www.metart.com/model/dariya-a; g:f
+model: n:Dariya A; id:/model/metart/dariya-a; u:https://www.metart.com/model/dariya-a; g:f
 released: 2007-08-13
 director: Goncharov
 fileprefix: MetArt-20070813-selextra-
@@ -580,7 +580,7 @@ description: xxx
 title: Napis
 type: movie
 site: MetArt
-cast: n:Altea B; u:https://www.metart.com/model/altea-b; g:f
+model: n:Altea B; id:/model/metart/altea-b; u:https://www.metart.com/model/altea-b; g:f
 released: 2007-08-02
 director: Erro
 fileprefix: MetArt-20070802-napis-
@@ -595,7 +595,7 @@ description: xxx
 title: Spatio
 type: movie
 site: MetArt
-cast: n:Nadin A; u:https://www.metart.com/model/nadin-a; g:f
+model: n:Nadin A; id:/model/metart/nadin-a; u:https://www.metart.com/model/nadin-a; g:f
 released: 2007-08-01
 director: Goncharov
 fileprefix: MetArt-20070801-spatio-
@@ -610,7 +610,7 @@ description: xxx
 title: Elojianias
 type: movie
 site: MetArt
-cast: n:Lidiya A; u:https://www.metart.com/model/lidiya-a; g:f
+model: n:Lidiya A; id:/model/metart/lidiya-a; u:https://www.metart.com/model/lidiya-a; g:f
 released: 2007-07-28
 director: Goncharov
 fileprefix: MetArt-20070728-elojianias-
@@ -625,7 +625,7 @@ description: xxx
 title: Xellix
 type: movie
 site: MetArt
-cast: n:Demi A; u:https://www.metart.com/model/demi-a; g:f
+model: n:Demi A; id:/model/metart/demi-a; u:https://www.metart.com/model/demi-a; g:f
 released: 2007-07-21
 director: Tim Fox
 fileprefix: MetArt-20070721-xellix-
@@ -640,7 +640,7 @@ description: xxx
 title: My Day
 type: movie
 site: MetArt
-cast: n:Elle B; u:https://www.metart.com/model/elle-b; g:f
+model: n:Elle B; id:/model/metart/elle-b; u:https://www.metart.com/model/elle-b; g:f
 released: 2007-07-17
 director: Volkov
 fileprefix: MetArt-20070717-my-day-
@@ -655,7 +655,7 @@ description: xxx
 title: Klaman
 type: movie
 site: MetArt
-cast: n:Eufrat A; u:https://www.metart.com/model/eufrat-a; g:f
+model: n:Eufrat A; id:/model/metart/eufrat-a; u:https://www.metart.com/model/eufrat-a; g:f
 released: 2007-07-14
 director: Luca Helios
 fileprefix: MetArt-20070714-klaman-
@@ -670,7 +670,7 @@ description: xxx
 title: Backstage With Jenni
 type: movie
 site: MetArt
-cast: n:Jenni A; u:https://www.metart.com/model/jenni-a; g:f
+model: n:Jenni A; id:/model/metart/jenni-a; u:https://www.metart.com/model/jenni-a; g:f
 released: 2007-07-11
 director: Luca Helios
 fileprefix: MetArt-20070711-backstage-with-jenni-
@@ -685,8 +685,8 @@ description: xxx
 title: Helian
 type: movie
 site: MetArt
-cast: n:Olga K; u:https://www.metart.com/model/olga-k; g:f
-cast: n:Vera E; u:https://www.metart.com/model/vera-e; g:f
+model: n:Olga K; id:/model/metart/olga-k; u:https://www.metart.com/model/olga-k; g:f
+model: n:Vera E; id:/model/metart/vera-e; u:https://www.metart.com/model/vera-e; g:f
 released: 2007-07-06
 director: Goncharov
 fileprefix: MetArt-20070706-helian-
@@ -701,7 +701,7 @@ description: xxx
 title: Jadora The Movie
 type: movie
 site: MetArt
-cast: n:Gwyneth A; u:https://www.metart.com/model/gwyneth-a; g:f
+model: n:Gwyneth A; id:/model/metart/gwyneth-a; u:https://www.metart.com/model/gwyneth-a; g:f
 released: 2007-07-01
 director: Luca Helios
 fileprefix: MetArt-20070701-jadora-the-movie-
@@ -716,7 +716,7 @@ description: xxx
 title: Vilorean
 type: movie
 site: MetArt
-cast: n:Danae A; u:https://www.metart.com/model/danae-a; g:f
+model: n:Danae A; id:/model/metart/danae-a; u:https://www.metart.com/model/danae-a; g:f
 released: 2007-06-29
 director: Luca Helios
 fileprefix: MetArt-20070629-vilorean-
@@ -731,7 +731,7 @@ description: xxx
 title: Favorita
 type: movie
 site: MetArt
-cast: n:Lidiya A; u:https://www.metart.com/model/lidiya-a; g:f
+model: n:Lidiya A; id:/model/metart/lidiya-a; u:https://www.metart.com/model/lidiya-a; g:f
 released: 2007-06-23
 director: Goncharov
 fileprefix: MetArt-20070623-favorita-
@@ -746,7 +746,7 @@ description: xxx
 title: Mystere The Movie
 type: movie
 site: MetArt
-cast: n:Vika AC; u:https://www.metart.com/model/vika-ac; g:f
+model: n:Vika AC; id:/model/metart/vika-ac; u:https://www.metart.com/model/vika-ac; g:f
 released: 2007-06-21
 director: Natasha Schon
 fileprefix: MetArt-20070621-mystere-the-movie-
@@ -761,7 +761,7 @@ description: xxx
 title: Felinias
 type: movie
 site: MetArt
-cast: n:Chiara A; u:https://www.metart.com/model/chiara-a; g:f
+model: n:Chiara A; id:/model/metart/chiara-a; u:https://www.metart.com/model/chiara-a; g:f
 released: 2007-06-20
 director: Luca Helios
 fileprefix: MetArt-20070620-felinias-
@@ -776,7 +776,7 @@ description: xxx
 title: Eleviax
 type: movie
 site: MetArt
-cast: n:Eva G; u:https://www.metart.com/model/eva-g; g:f
+model: n:Eva G; id:/model/metart/eva-g; u:https://www.metart.com/model/eva-g; g:f
 released: 2007-06-17
 director: Erro
 fileprefix: MetArt-20070617-eleviax-
@@ -791,7 +791,7 @@ description: xxx
 title: Allureas
 type: movie
 site: MetArt
-cast: n:Koty A; u:https://www.metart.com/model/koty-a; g:f
+model: n:Koty A; id:/model/metart/koty-a; u:https://www.metart.com/model/koty-a; g:f
 released: 2007-06-08
 director: Volkov
 fileprefix: MetArt-20070608-allureas-
@@ -806,8 +806,8 @@ description: xxx
 title: State Of Grace
 type: movie
 site: MetArt
-cast: n:Nora A; u:https://www.metart.com/model/nora-a; g:f
-cast: n:Lida B; u:https://www.metart.com/model/lida-b; g:f
+model: n:Nora A; id:/model/metart/nora-a; u:https://www.metart.com/model/nora-a; g:f
+model: n:Lida B; id:/model/metart/lida-b; u:https://www.metart.com/model/lida-b; g:f
 released: 2007-06-04
 director: Goncharov
 fileprefix: MetArt-20070604-state-of-grace-
@@ -822,7 +822,7 @@ description: xxx
 title: Helionix
 type: movie
 site: MetArt
-cast: n:Iren A; u:https://www.metart.com/model/iren-a; g:f
+model: n:Iren A; id:/model/metart/iren-a; u:https://www.metart.com/model/iren-a; g:f
 released: 2007-06-01
 director: Goncharov
 fileprefix: MetArt-20070601-helionix-
@@ -837,7 +837,7 @@ description: xxx
 title: Alik
 type: movie
 site: MetArt
-cast: n:Vika Z; u:https://www.metart.com/model/vika-z; g:f
+model: n:Vika Z; id:/model/metart/vika-z; u:https://www.metart.com/model/vika-z; g:f
 released: 2007-05-30
 director: Goncharov
 fileprefix: MetArt-20070530-alik-
@@ -852,7 +852,7 @@ description: xxx
 title: Dolcezza
 type: movie
 site: MetArt
-cast: n:Lena N; u:https://www.metart.com/model/lena-n; g:f
+model: n:Lena N; id:/model/metart/lena-n; u:https://www.metart.com/model/lena-n; g:f
 released: 2007-05-23
 director: Goncharov
 fileprefix: MetArt-20070523-dolcezza-
@@ -867,7 +867,7 @@ description: xxx
 title: Roseias
 type: movie
 site: MetArt
-cast: n:Lidiya A; u:https://www.metart.com/model/lidiya-a; g:f
+model: n:Lidiya A; id:/model/metart/lidiya-a; u:https://www.metart.com/model/lidiya-a; g:f
 released: 2007-05-22
 director: Goncharov
 fileprefix: MetArt-20070522-roseias-
@@ -882,7 +882,7 @@ description: xxx
 title: Dakina
 type: movie
 site: MetArt
-cast: n:Vera C; u:https://www.metart.com/model/vera-c; g:f
+model: n:Vera C; id:/model/metart/vera-c; u:https://www.metart.com/model/vera-c; g:f
 released: 2007-05-21
 director: Goncharov
 fileprefix: MetArt-20070521-dakina-
@@ -897,7 +897,7 @@ description: xxx
 title: Infinitea
 type: movie
 site: MetArt
-cast: n:Carina A; u:https://www.metart.com/model/carina-a; g:f
+model: n:Carina A; id:/model/metart/carina-a; u:https://www.metart.com/model/carina-a; g:f
 released: 2007-05-21
 director: Luca Helios
 fileprefix: MetArt-20070521-infinitea-
@@ -912,7 +912,7 @@ description: xxx
 title: Behind The Scenes
 type: movie
 site: MetArt
-cast: n:Chiara A; u:https://www.metart.com/model/chiara-a; g:f
+model: n:Chiara A; id:/model/metart/chiara-a; u:https://www.metart.com/model/chiara-a; g:f
 released: 2007-05-17
 director: Erro
 fileprefix: MetArt-20070517-behind-the-scenes-
@@ -927,7 +927,7 @@ description: xxx
 title: Nastya
 type: movie
 site: MetArt
-cast: n:Nastya G; u:https://www.metart.com/model/nastya-g; g:f
+model: n:Nastya G; id:/model/metart/nastya-g; u:https://www.metart.com/model/nastya-g; g:f
 released: 2007-05-14
 director: Goncharov
 fileprefix: MetArt-20070514-nastya-
@@ -942,7 +942,7 @@ description: xxx
 title: Linias
 type: movie
 site: MetArt
-cast: n:Eufrat A; u:https://www.metart.com/model/eufrat-a; g:f
+model: n:Eufrat A; id:/model/metart/eufrat-a; u:https://www.metart.com/model/eufrat-a; g:f
 released: 2007-05-12
 director: Luca Helios
 fileprefix: MetArt-20070512-linias-
@@ -957,7 +957,7 @@ description: xxx
 title: Discovery
 type: movie
 site: MetArt
-cast: n:Elle B; u:https://www.metart.com/model/elle-b; g:f
+model: n:Elle B; id:/model/metart/elle-b; u:https://www.metart.com/model/elle-b; g:f
 released: 2007-05-01
 director: Volkov
 fileprefix: MetArt-20070501-discovery-
@@ -972,7 +972,7 @@ description: xxx
 title: Veronica - The Movie
 type: movie
 site: MetArt
-cast: n:Veronica B; u:https://www.metart.com/model/veronica-b; g:f
+model: n:Veronica B; id:/model/metart/veronica-b; u:https://www.metart.com/model/veronica-b; g:f
 released: 2007-04-13
 director: Erro
 fileprefix: MetArt-20070413-veronica---the-movie-
@@ -987,7 +987,7 @@ description: xxx
 title: Inasikaias
 type: movie
 site: MetArt
-cast: n:Helen B; u:https://www.metart.com/model/helen-b; g:f
+model: n:Helen B; id:/model/metart/helen-b; u:https://www.metart.com/model/helen-b; g:f
 released: 2007-04-12
 director: Volkov
 fileprefix: MetArt-20070412-inasikaias-
@@ -1002,7 +1002,7 @@ description: xxx
 title: Itaka
 type: movie
 site: MetArt
-cast: n:Jade A; u:https://www.metart.com/model/jade-a; g:f
+model: n:Jade A; id:/model/metart/jade-a; u:https://www.metart.com/model/jade-a; g:f
 released: 2007-04-06
 director: Gubin
 fileprefix: MetArt-20070406-itaka-
@@ -1017,7 +1017,7 @@ description: xxx
 title: Minx
 type: movie
 site: MetArt
-cast: n:Bijou A; u:https://www.metart.com/model/bijou-a; g:f
+model: n:Bijou A; id:/model/metart/bijou-a; u:https://www.metart.com/model/bijou-a; g:f
 released: 2007-04-05
 director: Tim Fox
 fileprefix: MetArt-20070405-minx-
@@ -1032,7 +1032,7 @@ description: xxx
 title: Cotton - Real World
 type: movie
 site: MetArt
-cast: n:Eufrat A; u:https://www.metart.com/model/eufrat-a; g:f
+model: n:Eufrat A; id:/model/metart/eufrat-a; u:https://www.metart.com/model/eufrat-a; g:f
 released: 2007-04-01
 director: Tim Fox
 fileprefix: MetArt-20070401-cotton---real-world-
@@ -1047,7 +1047,7 @@ description: xxx
 title: Allenias
 type: movie
 site: MetArt
-cast: n:Joulie E; u:https://www.metart.com/model/joulie-e; g:f
+model: n:Joulie E; id:/model/metart/joulie-e; u:https://www.metart.com/model/joulie-e; g:f
 released: 2007-03-30
 director: Arcady
 fileprefix: MetArt-20070330-allenias-
@@ -1062,7 +1062,7 @@ description: xxx
 title: Essentias
 type: movie
 site: MetArt
-cast: n:Ulya I; u:https://www.metart.com/model/ulya-i; g:f
+model: n:Ulya I; id:/model/metart/ulya-i; u:https://www.metart.com/model/ulya-i; g:f
 released: 2007-03-28
 director: Goncharov
 fileprefix: MetArt-20070328-essentias-
@@ -1077,7 +1077,7 @@ description: xxx
 title: Aegris
 type: movie
 site: MetArt
-cast: n:Ketrin A; u:https://www.metart.com/model/ketrin-a; g:f
+model: n:Ketrin A; id:/model/metart/ketrin-a; u:https://www.metart.com/model/ketrin-a; g:f
 released: 2007-03-22
 director: Goncharov
 fileprefix: MetArt-20070322-aegris-
@@ -1092,7 +1092,7 @@ description: xxx
 title: Real World With Iveta
 type: movie
 site: MetArt
-cast: n:Iveta B; u:https://www.metart.com/model/iveta-b; g:f
+model: n:Iveta B; id:/model/metart/iveta-b; u:https://www.metart.com/model/iveta-b; g:f
 released: 2007-03-21
 director: Giovanni Nova
 fileprefix: MetArt-20070321-real-world-with-iveta-
@@ -1107,7 +1107,7 @@ description: xxx
 title: Bouquet
 type: movie
 site: MetArt
-cast: n:Iren A; u:https://www.metart.com/model/iren-a; g:f
+model: n:Iren A; id:/model/metart/iren-a; u:https://www.metart.com/model/iren-a; g:f
 released: 2007-03-19
 director: Goncharov
 fileprefix: MetArt-20070319-bouquet-
@@ -1122,7 +1122,7 @@ description: xxx
 title: Felisias
 type: movie
 site: MetArt
-cast: n:Ennie A; u:https://www.metart.com/model/ennie-a; g:f
+model: n:Ennie A; id:/model/metart/ennie-a; u:https://www.metart.com/model/ennie-a; g:f
 released: 2007-03-17
 director: Tim Fox
 fileprefix: MetArt-20070317-felisias-
@@ -1137,7 +1137,7 @@ description: xxx
 title: Belliximia
 type: movie
 site: MetArt
-cast: n:Tati A; u:https://www.metart.com/model/tati-a; g:f
+model: n:Tati A; id:/model/metart/tati-a; u:https://www.metart.com/model/tati-a; g:f
 released: 2007-11-05
 director: Volkov
 fileprefix: MetArt-20071105-belliximia-
@@ -1152,7 +1152,7 @@ description: xxx
 title: Fisikal
 type: movie
 site: MetArt
-cast: n:Amine A; u:https://www.metart.com/model/amine-a; g:f
+model: n:Amine A; id:/model/metart/amine-a; u:https://www.metart.com/model/amine-a; g:f
 released: 2007-11-03
 director: Tim Fox
 fileprefix: MetArt-20071103-fisikal-
@@ -1167,7 +1167,7 @@ description: xxx
 title: Wish
 type: movie
 site: MetArt
-cast: n:Chiara A; u:https://www.metart.com/model/chiara-a; g:f
+model: n:Chiara A; id:/model/metart/chiara-a; u:https://www.metart.com/model/chiara-a; g:f
 released: 2007-11-01
 director: Luca Helios
 fileprefix: MetArt-20071101-wish-
@@ -1182,7 +1182,7 @@ description: xxx
 title: Galleas
 type: movie
 site: MetArt
-cast: n:Lora A; u:https://www.metart.com/model/lora-a; g:f
+model: n:Lora A; id:/model/metart/lora-a; u:https://www.metart.com/model/lora-a; g:f
 released: 2007-10-31
 director: Goncharov
 fileprefix: MetArt-20071031-galleas-
@@ -1197,7 +1197,7 @@ description: xxx
 title: Palinuro
 type: movie
 site: MetArt
-cast: n:Olga K; u:https://www.metart.com/model/olga-k; g:f
+model: n:Olga K; id:/model/metart/olga-k; u:https://www.metart.com/model/olga-k; g:f
 released: 2007-10-30
 director: Goncharov
 fileprefix: MetArt-20071030-palinuro-
@@ -1212,7 +1212,7 @@ description: xxx
 title: Gamus
 type: movie
 site: MetArt
-cast: n:Kira D; u:https://www.metart.com/model/kira-d; g:f
+model: n:Kira D; id:/model/metart/kira-d; u:https://www.metart.com/model/kira-d; g:f
 released: 2007-10-19
 director: Alan Anar
 fileprefix: MetArt-20071019-gamus-
@@ -1227,7 +1227,7 @@ description: xxx
 title: Lido
 type: movie
 site: MetArt
-cast: n:Chiara A; u:https://www.metart.com/model/chiara-a; g:f
+model: n:Chiara A; id:/model/metart/chiara-a; u:https://www.metart.com/model/chiara-a; g:f
 released: 2007-10-17
 director: Luca Helios
 fileprefix: MetArt-20071017-lido-
@@ -1242,7 +1242,7 @@ description: xxx
 title: Sunnixa
 type: movie
 site: MetArt
-cast: n:Mira A; u:https://www.metart.com/model/mira-a; g:f
+model: n:Mira A; id:/model/metart/mira-a; u:https://www.metart.com/model/mira-a; g:f
 released: 2007-10-07
 director: Goncharov
 fileprefix: MetArt-20071007-sunnixa-
@@ -1257,7 +1257,7 @@ description: xxx
 title: Kinnasias
 type: movie
 site: MetArt
-cast: n:Olga K; u:https://www.metart.com/model/olga-k; g:f
+model: n:Olga K; id:/model/metart/olga-k; u:https://www.metart.com/model/olga-k; g:f
 released: 2007-10-01
 director: Goncharov
 fileprefix: MetArt-20071001-kinnasias-
@@ -1272,7 +1272,7 @@ description: xxx
 title: Fiorissima
 type: movie
 site: MetArt
-cast: n:Nadin A; u:https://www.metart.com/model/nadin-a; g:f
+model: n:Nadin A; id:/model/metart/nadin-a; u:https://www.metart.com/model/nadin-a; g:f
 released: 2007-09-29
 director: Goncharov
 fileprefix: MetArt-20070929-fiorissima-
@@ -1287,7 +1287,7 @@ description: xxx
 title: Rarity
 type: movie
 site: MetArt
-cast: n:Natasha D; u:https://www.metart.com/model/natasha-d; g:f
+model: n:Natasha D; id:/model/metart/natasha-d; u:https://www.metart.com/model/natasha-d; g:f
 released: 2007-09-28
 director: Voronin
 fileprefix: MetArt-20070928-rarity-
@@ -1302,7 +1302,7 @@ description: xxx
 title: Nativias
 type: movie
 site: MetArt
-cast: n:Danae A; u:https://www.metart.com/model/danae-a; g:f
+model: n:Danae A; id:/model/metart/danae-a; u:https://www.metart.com/model/danae-a; g:f
 released: 2007-09-18
 director: Luca Helios
 fileprefix: MetArt-20070918-nativias-
@@ -1317,7 +1317,7 @@ description: xxx
 title: Insieme
 type: movie
 site: MetArt
-cast: n:Perla A; u:https://www.metart.com/model/perla-a; g:f
+model: n:Perla A; id:/model/metart/perla-a; u:https://www.metart.com/model/perla-a; g:f
 released: 2007-09-16
 director: Erro
 fileprefix: MetArt-20070916-insieme-
@@ -1332,7 +1332,7 @@ description: xxx
 title: Elasias
 type: movie
 site: MetArt
-cast: n:Natasha D; u:https://www.metart.com/model/natasha-d; g:f
+model: n:Natasha D; id:/model/metart/natasha-d; u:https://www.metart.com/model/natasha-d; g:f
 released: 2007-09-07
 director: Voronin
 fileprefix: MetArt-20070907-elasias-
@@ -1347,7 +1347,7 @@ description: xxx
 title: Agos
 type: movie
 site: MetArt
-cast: n:Ariel Piper Fawn; u:https://www.sexart.com/model/ariel-piper-fawn; s:SexArt; g:f
+model: n:Ariel Piper Fawn; id:/model/sexart/ariel-piper-fawn; u:https://www.sexart.com/model/ariel-piper-fawn; g:f
 released: 2007-09-03
 director: Tim Fox
 fileprefix: MetArt-20070903-agos-
@@ -1362,7 +1362,7 @@ description: xxx
 title: Lavikan
 type: movie
 site: MetArt
-cast: n:Eufrat A; u:https://www.metart.com/model/eufrat-a; g:f
+model: n:Eufrat A; id:/model/metart/eufrat-a; u:https://www.metart.com/model/eufrat-a; g:f
 released: 2007-09-01
 director: Tim Fox
 fileprefix: MetArt-20070901-lavikan-
@@ -1377,8 +1377,8 @@ description: xxx
 title: Agans
 type: movie
 site: MetArt
-cast: n:Koty A; u:https://www.metart.com/model/koty-a; g:f
-cast: n:Natasha P; u:https://www.metart.com/model/natasha-p; g:f
+model: n:Koty A; id:/model/metart/koty-a; u:https://www.metart.com/model/koty-a; g:f
+model: n:Natasha P; id:/model/metart/natasha-p; u:https://www.metart.com/model/natasha-p; g:f
 released: 2007-08-25
 director: Volkov
 fileprefix: MetArt-20070825-agans-
@@ -1393,7 +1393,7 @@ description: xxx
 title: First Movie
 type: movie
 site: MetArt
-cast: n:Nina A; u:https://www.metart.com/model/nina-a; g:f
+model: n:Nina A; id:/model/metart/nina-a; u:https://www.metart.com/model/nina-a; g:f
 released: 2007-08-24
 director: Luca Helios
 fileprefix: MetArt-20070824-first-movie-
@@ -1408,7 +1408,7 @@ description: xxx
 title: Kinean
 type: movie
 site: MetArt
-cast: n:Jenni A; u:https://www.metart.com/model/jenni-a; g:f
+model: n:Jenni A; id:/model/metart/jenni-a; u:https://www.metart.com/model/jenni-a; g:f
 released: 2007-08-22
 director: Erro
 fileprefix: MetArt-20070822-kinean-
@@ -1423,7 +1423,7 @@ description: xxx
 title: Lorinian
 type: movie
 site: MetArt
-cast: n:Iren A; u:https://www.metart.com/model/iren-a; g:f
+model: n:Iren A; id:/model/metart/iren-a; u:https://www.metart.com/model/iren-a; g:f
 released: 2007-08-20
 director: Goncharov
 fileprefix: MetArt-20070820-lorinian-
@@ -1438,7 +1438,7 @@ description: xxx
 title: Binilan
 type: movie
 site: MetArt
-cast: n:Ksena A; u:https://www.metart.com/model/ksena-a; g:f
+model: n:Ksena A; id:/model/metart/ksena-a; u:https://www.metart.com/model/ksena-a; g:f
 released: 2007-08-18
 director: Goncharov
 fileprefix: MetArt-20070818-binilan-
@@ -1453,7 +1453,7 @@ description: xxx
 title: Kikis
 type: movie
 site: MetArt
-cast: n:Sharon E; u:https://www.metart.com/model/sharon-e; g:f
+model: n:Sharon E; id:/model/metart/sharon-e; u:https://www.metart.com/model/sharon-e; g:f
 released: 2007-08-14
 director: Voronin
 fileprefix: MetArt-20070814-kikis-
@@ -1468,7 +1468,7 @@ description: xxx
 title: Selextra
 type: movie
 site: MetArt
-cast: n:Dariya A; u:https://www.metart.com/model/dariya-a; g:f
+model: n:Dariya A; id:/model/metart/dariya-a; u:https://www.metart.com/model/dariya-a; g:f
 released: 2007-08-13
 director: Goncharov
 fileprefix: MetArt-20070813-selextra-
@@ -1483,7 +1483,7 @@ description: xxx
 title: Napis
 type: movie
 site: MetArt
-cast: n:Altea B; u:https://www.metart.com/model/altea-b; g:f
+model: n:Altea B; id:/model/metart/altea-b; u:https://www.metart.com/model/altea-b; g:f
 released: 2007-08-02
 director: Erro
 fileprefix: MetArt-20070802-napis-
@@ -1498,7 +1498,7 @@ description: xxx
 title: Spatio
 type: movie
 site: MetArt
-cast: n:Nadin A; u:https://www.metart.com/model/nadin-a; g:f
+model: n:Nadin A; id:/model/metart/nadin-a; u:https://www.metart.com/model/nadin-a; g:f
 released: 2007-08-01
 director: Goncharov
 fileprefix: MetArt-20070801-spatio-
@@ -1513,7 +1513,7 @@ description: xxx
 title: Elojianias
 type: movie
 site: MetArt
-cast: n:Lidiya A; u:https://www.metart.com/model/lidiya-a; g:f
+model: n:Lidiya A; id:/model/metart/lidiya-a; u:https://www.metart.com/model/lidiya-a; g:f
 released: 2007-07-28
 director: Goncharov
 fileprefix: MetArt-20070728-elojianias-
@@ -1528,7 +1528,7 @@ description: xxx
 title: Xellix
 type: movie
 site: MetArt
-cast: n:Demi A; u:https://www.metart.com/model/demi-a; g:f
+model: n:Demi A; id:/model/metart/demi-a; u:https://www.metart.com/model/demi-a; g:f
 released: 2007-07-21
 director: Tim Fox
 fileprefix: MetArt-20070721-xellix-
@@ -1543,7 +1543,7 @@ description: xxx
 title: My Day
 type: movie
 site: MetArt
-cast: n:Elle B; u:https://www.metart.com/model/elle-b; g:f
+model: n:Elle B; id:/model/metart/elle-b; u:https://www.metart.com/model/elle-b; g:f
 released: 2007-07-17
 director: Volkov
 fileprefix: MetArt-20070717-my-day-
@@ -1558,7 +1558,7 @@ description: xxx
 title: Klaman
 type: movie
 site: MetArt
-cast: n:Eufrat A; u:https://www.metart.com/model/eufrat-a; g:f
+model: n:Eufrat A; id:/model/metart/eufrat-a; u:https://www.metart.com/model/eufrat-a; g:f
 released: 2007-07-14
 director: Luca Helios
 fileprefix: MetArt-20070714-klaman-
@@ -1573,7 +1573,7 @@ description: xxx
 title: Backstage With Jenni
 type: movie
 site: MetArt
-cast: n:Jenni A; u:https://www.metart.com/model/jenni-a; g:f
+model: n:Jenni A; id:/model/metart/jenni-a; u:https://www.metart.com/model/jenni-a; g:f
 released: 2007-07-11
 director: Luca Helios
 fileprefix: MetArt-20070711-backstage-with-jenni-
@@ -1588,8 +1588,8 @@ description: xxx
 title: Helian
 type: movie
 site: MetArt
-cast: n:Olga K; u:https://www.metart.com/model/olga-k; g:f
-cast: n:Vera E; u:https://www.metart.com/model/vera-e; g:f
+model: n:Olga K; id:/model/metart/olga-k; u:https://www.metart.com/model/olga-k; g:f
+model: n:Vera E; id:/model/metart/vera-e; u:https://www.metart.com/model/vera-e; g:f
 released: 2007-07-06
 director: Goncharov
 fileprefix: MetArt-20070706-helian-
@@ -1604,7 +1604,7 @@ description: xxx
 title: Jadora The Movie
 type: movie
 site: MetArt
-cast: n:Gwyneth A; u:https://www.metart.com/model/gwyneth-a; g:f
+model: n:Gwyneth A; id:/model/metart/gwyneth-a; u:https://www.metart.com/model/gwyneth-a; g:f
 released: 2007-07-01
 director: Luca Helios
 fileprefix: MetArt-20070701-jadora-the-movie-
@@ -1619,7 +1619,7 @@ description: xxx
 title: Vilorean
 type: movie
 site: MetArt
-cast: n:Danae A; u:https://www.metart.com/model/danae-a; g:f
+model: n:Danae A; id:/model/metart/danae-a; u:https://www.metart.com/model/danae-a; g:f
 released: 2007-06-29
 director: Luca Helios
 fileprefix: MetArt-20070629-vilorean-
@@ -1634,7 +1634,7 @@ description: xxx
 title: Favorita
 type: movie
 site: MetArt
-cast: n:Lidiya A; u:https://www.metart.com/model/lidiya-a; g:f
+model: n:Lidiya A; id:/model/metart/lidiya-a; u:https://www.metart.com/model/lidiya-a; g:f
 released: 2007-06-23
 director: Goncharov
 fileprefix: MetArt-20070623-favorita-
@@ -1649,7 +1649,7 @@ description: xxx
 title: Mystere The Movie
 type: movie
 site: MetArt
-cast: n:Vika AC; u:https://www.metart.com/model/vika-ac; g:f
+model: n:Vika AC; id:/model/metart/vika-ac; u:https://www.metart.com/model/vika-ac; g:f
 released: 2007-06-21
 director: Natasha Schon
 fileprefix: MetArt-20070621-mystere-the-movie-
@@ -1664,7 +1664,7 @@ description: xxx
 title: Felinias
 type: movie
 site: MetArt
-cast: n:Chiara A; u:https://www.metart.com/model/chiara-a; g:f
+model: n:Chiara A; id:/model/metart/chiara-a; u:https://www.metart.com/model/chiara-a; g:f
 released: 2007-06-20
 director: Luca Helios
 fileprefix: MetArt-20070620-felinias-
@@ -1679,7 +1679,7 @@ description: xxx
 title: Eleviax
 type: movie
 site: MetArt
-cast: n:Eva G; u:https://www.metart.com/model/eva-g; g:f
+model: n:Eva G; id:/model/metart/eva-g; u:https://www.metart.com/model/eva-g; g:f
 released: 2007-06-17
 director: Erro
 fileprefix: MetArt-20070617-eleviax-
@@ -1694,7 +1694,7 @@ description: xxx
 title: Allureas
 type: movie
 site: MetArt
-cast: n:Koty A; u:https://www.metart.com/model/koty-a; g:f
+model: n:Koty A; id:/model/metart/koty-a; u:https://www.metart.com/model/koty-a; g:f
 released: 2007-06-08
 director: Volkov
 fileprefix: MetArt-20070608-allureas-
@@ -1709,8 +1709,8 @@ description: xxx
 title: State Of Grace
 type: movie
 site: MetArt
-cast: n:Nora A; u:https://www.metart.com/model/nora-a; g:f
-cast: n:Lida B; u:https://www.metart.com/model/lida-b; g:f
+model: n:Nora A; id:/model/metart/nora-a; u:https://www.metart.com/model/nora-a; g:f
+model: n:Lida B; id:/model/metart/lida-b; u:https://www.metart.com/model/lida-b; g:f
 released: 2007-06-04
 director: Goncharov
 fileprefix: MetArt-20070604-state-of-grace-
@@ -1725,7 +1725,7 @@ description: xxx
 title: Helionix
 type: movie
 site: MetArt
-cast: n:Iren A; u:https://www.metart.com/model/iren-a; g:f
+model: n:Iren A; id:/model/metart/iren-a; u:https://www.metart.com/model/iren-a; g:f
 released: 2007-06-01
 director: Goncharov
 fileprefix: MetArt-20070601-helionix-
@@ -1740,7 +1740,7 @@ description: xxx
 title: Alik
 type: movie
 site: MetArt
-cast: n:Vika Z; u:https://www.metart.com/model/vika-z; g:f
+model: n:Vika Z; id:/model/metart/vika-z; u:https://www.metart.com/model/vika-z; g:f
 released: 2007-05-30
 director: Goncharov
 fileprefix: MetArt-20070530-alik-
@@ -1755,7 +1755,7 @@ description: xxx
 title: Dolcezza
 type: movie
 site: MetArt
-cast: n:Lena N; u:https://www.metart.com/model/lena-n; g:f
+model: n:Lena N; id:/model/metart/lena-n; u:https://www.metart.com/model/lena-n; g:f
 released: 2007-05-23
 director: Goncharov
 fileprefix: MetArt-20070523-dolcezza-
@@ -1770,7 +1770,7 @@ description: xxx
 title: Roseias
 type: movie
 site: MetArt
-cast: n:Lidiya A; u:https://www.metart.com/model/lidiya-a; g:f
+model: n:Lidiya A; id:/model/metart/lidiya-a; u:https://www.metart.com/model/lidiya-a; g:f
 released: 2007-05-22
 director: Goncharov
 fileprefix: MetArt-20070522-roseias-
@@ -1785,7 +1785,7 @@ description: xxx
 title: Dakina
 type: movie
 site: MetArt
-cast: n:Vera C; u:https://www.metart.com/model/vera-c; g:f
+model: n:Vera C; id:/model/metart/vera-c; u:https://www.metart.com/model/vera-c; g:f
 released: 2007-05-21
 director: Goncharov
 fileprefix: MetArt-20070521-dakina-
@@ -1800,7 +1800,7 @@ description: xxx
 title: Infinitea
 type: movie
 site: MetArt
-cast: n:Carina A; u:https://www.metart.com/model/carina-a; g:f
+model: n:Carina A; id:/model/metart/carina-a; u:https://www.metart.com/model/carina-a; g:f
 released: 2007-05-21
 director: Luca Helios
 fileprefix: MetArt-20070521-infinitea-
@@ -1815,7 +1815,7 @@ description: xxx
 title: Behind The Scenes
 type: movie
 site: MetArt
-cast: n:Chiara A; u:https://www.metart.com/model/chiara-a; g:f
+model: n:Chiara A; id:/model/metart/chiara-a; u:https://www.metart.com/model/chiara-a; g:f
 released: 2007-05-17
 director: Erro
 fileprefix: MetArt-20070517-behind-the-scenes-
@@ -1830,7 +1830,7 @@ description: xxx
 title: Nastya
 type: movie
 site: MetArt
-cast: n:Nastya G; u:https://www.metart.com/model/nastya-g; g:f
+model: n:Nastya G; id:/model/metart/nastya-g; u:https://www.metart.com/model/nastya-g; g:f
 released: 2007-05-14
 director: Goncharov
 fileprefix: MetArt-20070514-nastya-
@@ -1845,7 +1845,7 @@ description: xxx
 title: Linias
 type: movie
 site: MetArt
-cast: n:Eufrat A; u:https://www.metart.com/model/eufrat-a; g:f
+model: n:Eufrat A; id:/model/metart/eufrat-a; u:https://www.metart.com/model/eufrat-a; g:f
 released: 2007-05-12
 director: Luca Helios
 fileprefix: MetArt-20070512-linias-
@@ -1860,7 +1860,7 @@ description: xxx
 title: Discovery
 type: movie
 site: MetArt
-cast: n:Elle B; u:https://www.metart.com/model/elle-b; g:f
+model: n:Elle B; id:/model/metart/elle-b; u:https://www.metart.com/model/elle-b; g:f
 released: 2007-05-01
 director: Volkov
 fileprefix: MetArt-20070501-discovery-
@@ -1875,7 +1875,7 @@ description: xxx
 title: Veronica - The Movie
 type: movie
 site: MetArt
-cast: n:Veronica B; u:https://www.metart.com/model/veronica-b; g:f
+model: n:Veronica B; id:/model/metart/veronica-b; u:https://www.metart.com/model/veronica-b; g:f
 released: 2007-04-13
 director: Erro
 fileprefix: MetArt-20070413-veronica---the-movie-
@@ -1890,7 +1890,7 @@ description: xxx
 title: Inasikaias
 type: movie
 site: MetArt
-cast: n:Helen B; u:https://www.metart.com/model/helen-b; g:f
+model: n:Helen B; id:/model/metart/helen-b; u:https://www.metart.com/model/helen-b; g:f
 released: 2007-04-12
 director: Volkov
 fileprefix: MetArt-20070412-inasikaias-
@@ -1905,7 +1905,7 @@ description: xxx
 title: Itaka
 type: movie
 site: MetArt
-cast: n:Jade A; u:https://www.metart.com/model/jade-a; g:f
+model: n:Jade A; id:/model/metart/jade-a; u:https://www.metart.com/model/jade-a; g:f
 released: 2007-04-06
 director: Gubin
 fileprefix: MetArt-20070406-itaka-
@@ -1920,7 +1920,7 @@ description: xxx
 title: Minx
 type: movie
 site: MetArt
-cast: n:Bijou A; u:https://www.metart.com/model/bijou-a; g:f
+model: n:Bijou A; id:/model/metart/bijou-a; u:https://www.metart.com/model/bijou-a; g:f
 released: 2007-04-05
 director: Tim Fox
 fileprefix: MetArt-20070405-minx-
@@ -1935,7 +1935,7 @@ description: xxx
 title: Cotton - Real World
 type: movie
 site: MetArt
-cast: n:Eufrat A; u:https://www.metart.com/model/eufrat-a; g:f
+model: n:Eufrat A; id:/model/metart/eufrat-a; u:https://www.metart.com/model/eufrat-a; g:f
 released: 2007-04-01
 director: Tim Fox
 fileprefix: MetArt-20070401-cotton---real-world-
@@ -1950,7 +1950,7 @@ description: xxx
 title: Allenias
 type: movie
 site: MetArt
-cast: n:Joulie E; u:https://www.metart.com/model/joulie-e; g:f
+model: n:Joulie E; id:/model/metart/joulie-e; u:https://www.metart.com/model/joulie-e; g:f
 released: 2007-03-30
 director: Arcady
 fileprefix: MetArt-20070330-allenias-
@@ -1965,7 +1965,7 @@ description: xxx
 title: Essentias
 type: movie
 site: MetArt
-cast: n:Ulya I; u:https://www.metart.com/model/ulya-i; g:f
+model: n:Ulya I; id:/model/metart/ulya-i; u:https://www.metart.com/model/ulya-i; g:f
 released: 2007-03-28
 director: Goncharov
 fileprefix: MetArt-20070328-essentias-
@@ -1980,7 +1980,7 @@ description: xxx
 title: Aegris
 type: movie
 site: MetArt
-cast: n:Ketrin A; u:https://www.metart.com/model/ketrin-a; g:f
+model: n:Ketrin A; id:/model/metart/ketrin-a; u:https://www.metart.com/model/ketrin-a; g:f
 released: 2007-03-22
 director: Goncharov
 fileprefix: MetArt-20070322-aegris-
@@ -1995,7 +1995,7 @@ description: xxx
 title: Real World With Iveta
 type: movie
 site: MetArt
-cast: n:Iveta B; u:https://www.metart.com/model/iveta-b; g:f
+model: n:Iveta B; id:/model/metart/iveta-b; u:https://www.metart.com/model/iveta-b; g:f
 released: 2007-03-21
 director: Giovanni Nova
 fileprefix: MetArt-20070321-real-world-with-iveta-
@@ -2010,7 +2010,7 @@ description: xxx
 title: Bouquet
 type: movie
 site: MetArt
-cast: n:Iren A; u:https://www.metart.com/model/iren-a; g:f
+model: n:Iren A; id:/model/metart/iren-a; u:https://www.metart.com/model/iren-a; g:f
 released: 2007-03-19
 director: Goncharov
 fileprefix: MetArt-20070319-bouquet-
@@ -2025,7 +2025,7 @@ description: xxx
 title: Felisias
 type: movie
 site: MetArt
-cast: n:Ennie A; u:https://www.metart.com/model/ennie-a; g:f
+model: n:Ennie A; id:/model/metart/ennie-a; u:https://www.metart.com/model/ennie-a; g:f
 released: 2007-03-17
 director: Tim Fox
 fileprefix: MetArt-20070317-felisias-

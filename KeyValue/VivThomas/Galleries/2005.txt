@@ -9,7 +9,7 @@ title: Hannah
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/hannah-a/gallery/20051230/HANNAH
-cast: Hannah A; https://www.vivthomas.com/model/hannah-a; f
+model: n:Hannah A; id:/model/vivthomas/hannah-a; u:https://www.vivthomas.com/model/hannah-a; g:f
 released: 2005-12-30
 photographer: Viv Thomas
 rating: 9.1
@@ -23,7 +23,7 @@ title: Bums & Panties
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/penny-flame/gallery/20051230/BUMS_&_PANTIES
-cast: Penny Flame; https://www.vivthomas.com/model/penny-flame; f
+model: n:Penny Flame; id:/model/vivthomas/penny-flame; u:https://www.vivthomas.com/model/penny-flame; g:f
 released: 2005-12-30
 photographer: Viv Thomas
 rating: 9.2
@@ -37,9 +37,9 @@ title: On Location
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/penny-flame-and-evelyn-a-and-silvia-saint/gallery/20051223/ON_LOCATION
-cast: Penny Flame; https://www.vivthomas.com/model/penny-flame; f
-cast: Evelyn A; https://www.vivthomas.com/model/evelyn-a; f
-cast: Silvia Saint; https://www.vivthomas.com/model/silvia-saint; f
+model: n:Penny Flame; id:/model/vivthomas/penny-flame; u:https://www.vivthomas.com/model/penny-flame; g:f
+model: n:Evelyn A; id:/model/vivthomas/evelyn-a; u:https://www.vivthomas.com/model/evelyn-a; g:f
+model: n:Silvia Saint; id:/model/vivthomas/silvia-saint; u:https://www.vivthomas.com/model/silvia-saint; g:f
 released: 2005-12-23
 photographer: Viv Thomas
 rating: 9.0
@@ -53,7 +53,7 @@ title: Marketa
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/marketa-a/gallery/20051223/MARKETA
-cast: Marketa A; https://www.vivthomas.com/model/marketa-a; f
+model: n:Marketa A; id:/model/vivthomas/marketa-a; u:https://www.vivthomas.com/model/marketa-a; g:f
 released: 2005-12-23
 photographer: Viv Thomas
 rating: 9.8
@@ -67,7 +67,7 @@ title: Suzana
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/zuzana-drabinova/gallery/20051216/SUZANA
-cast: Zuzana Drabinova; https://www.vivthomas.com/model/zuzana-drabinova; f
+model: n:Zuzana Drabinova; id:/model/vivthomas/zuzana-drabinova; u:https://www.vivthomas.com/model/zuzana-drabinova; g:f
 released: 2005-12-16
 photographer: Viv Thomas
 rating: 9.7
@@ -81,7 +81,7 @@ title: Pauline
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/pauline-a/gallery/20051216/PAULINE
-cast: Pauline A; https://www.vivthomas.com/model/pauline-a; f
+model: n:Pauline A; id:/model/vivthomas/pauline-a; u:https://www.vivthomas.com/model/pauline-a; g:f
 released: 2005-12-16
 photographer: Viv Thomas
 rating: 9.0
@@ -95,7 +95,7 @@ title: Foot Lovers Close Ups
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/penny-flame/gallery/20051216/FOOT_LOVERS_CLOSE_UPS
-cast: Penny Flame; https://www.vivthomas.com/model/penny-flame; f
+model: n:Penny Flame; id:/model/vivthomas/penny-flame; u:https://www.vivthomas.com/model/penny-flame; g:f
 released: 2005-12-16
 photographer: Viv Thomas
 rating: 9.1
@@ -109,7 +109,7 @@ title: Bums & Panties
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/penny-flame/gallery/20051209/BUMS_&_PANTIES
-cast: Penny Flame; https://www.vivthomas.com/model/penny-flame; f
+model: n:Penny Flame; id:/model/vivthomas/penny-flame; u:https://www.vivthomas.com/model/penny-flame; g:f
 released: 2005-12-09
 photographer: Viv Thomas
 rating: 9.1
@@ -123,7 +123,7 @@ title: Foot Lovers Close Ups
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/cindy-dollar/gallery/20051209/FOOT_LOVERS_CLOSE_UPS
-cast: Cindy Dollar; https://www.vivthomas.com/model/cindy-dollar; f
+model: n:Cindy Dollar; id:/model/vivthomas/cindy-dollar; u:https://www.vivthomas.com/model/cindy-dollar; g:f
 released: 2005-12-09
 photographer: Viv Thomas
 rating: 9.2
@@ -137,7 +137,7 @@ title: Miriam
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/miriam-b/gallery/20051202/MIRIAM
-cast: Miriam B; https://www.vivthomas.com/model/miriam-b; f
+model: n:Miriam B; id:/model/vivthomas/miriam-b; u:https://www.vivthomas.com/model/miriam-b; g:f
 released: 2005-12-02
 photographer: Viv Thomas
 rating: 8.8
@@ -151,10 +151,10 @@ title: On Location
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/natalie-birch-and-pippa-a-and-liz-harvey-and-silvia-saint/gallery/20051202/ON_LOCATION
-cast: Natalie Birch; https://www.vivthomas.com/model/natalie-birch; f
-cast: Pippa A; https://www.vivthomas.com/model/pippa-a; f
-cast: Liz Harvey; https://www.vivthomas.com/model/liz-harvey; f
-cast: Silvia Saint; https://www.vivthomas.com/model/silvia-saint; f
+model: n:Natalie Birch; id:/model/vivthomas/natalie-birch; u:https://www.vivthomas.com/model/natalie-birch; g:f
+model: n:Pippa A; id:/model/vivthomas/pippa-a; u:https://www.vivthomas.com/model/pippa-a; g:f
+model: n:Liz Harvey; id:/model/vivthomas/liz-harvey; u:https://www.vivthomas.com/model/liz-harvey; g:f
+model: n:Silvia Saint; id:/model/vivthomas/silvia-saint; u:https://www.vivthomas.com/model/silvia-saint; g:f
 released: 2005-12-02
 photographer: Viv Thomas
 rating: 8.8
@@ -168,7 +168,7 @@ title: Becky
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/becky-a/gallery/20051202/BECKY
-cast: Becky A; https://www.vivthomas.com/model/becky-a; f
+model: n:Becky A; id:/model/vivthomas/becky-a; u:https://www.vivthomas.com/model/becky-a; g:f
 released: 2005-12-02
 photographer: Viv Thomas
 rating: 9.3
@@ -182,7 +182,7 @@ title: Kyra
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/kyra-a/gallery/20051125/KYRA
-cast: Kyra A; https://www.vivthomas.com/model/kyra-a; f
+model: n:Kyra A; id:/model/vivthomas/kyra-a; u:https://www.vivthomas.com/model/kyra-a; g:f
 released: 2005-11-25
 photographer: Viv Thomas
 rating: 9.0
@@ -196,7 +196,7 @@ title: Marianne
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/marianne-a/gallery/20051125/MARIANNE
-cast: Marianne A; https://www.vivthomas.com/model/marianne-a; f
+model: n:Marianne A; id:/model/vivthomas/marianne-a; u:https://www.vivthomas.com/model/marianne-a; g:f
 released: 2005-11-25
 photographer: Viv Thomas
 rating: 9.5
@@ -210,7 +210,7 @@ title: Candy
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/candy-a/gallery/20051125/CANDY
-cast: Candy A; https://www.vivthomas.com/model/candy-a; f
+model: n:Candy A; id:/model/vivthomas/candy-a; u:https://www.vivthomas.com/model/candy-a; g:f
 released: 2005-11-25
 photographer: Viv Thomas
 rating: 9.4
@@ -224,7 +224,7 @@ title: Lana
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/lana-a/gallery/20051118/LANA
-cast: Lana A; https://www.vivthomas.com/model/lana-a; f
+model: n:Lana A; id:/model/vivthomas/lana-a; u:https://www.vivthomas.com/model/lana-a; g:f
 released: 2005-11-18
 photographer: Viv Thomas
 rating: 9.2
@@ -238,7 +238,7 @@ title: Susie
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/susie-a/gallery/20051118/SUSIE
-cast: Susie A; https://www.vivthomas.com/model/susie-a; f
+model: n:Susie A; id:/model/vivthomas/susie-a; u:https://www.vivthomas.com/model/susie-a; g:f
 released: 2005-11-18
 photographer: Viv Thomas
 rating: 8.8
@@ -252,7 +252,7 @@ title: Trinity
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/trinity-a/gallery/20051118/TRINITY
-cast: Trinity A; https://www.vivthomas.com/model/trinity-a; f
+model: n:Trinity A; id:/model/vivthomas/trinity-a; u:https://www.vivthomas.com/model/trinity-a; g:f
 released: 2005-11-18
 photographer: Viv Thomas
 rating: 9.2
@@ -266,7 +266,7 @@ title: Barbie
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/barbie-a/gallery/20051118/BARBIE
-cast: Barbie A; https://www.vivthomas.com/model/barbie-a; f
+model: n:Barbie A; id:/model/vivthomas/barbie-a; u:https://www.vivthomas.com/model/barbie-a; g:f
 released: 2005-11-18
 photographer: Viv Thomas
 rating: 9.0
@@ -280,7 +280,7 @@ title: Bums & Panties
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/silvia-saint/gallery/20051111/BUMS_&_PANTIES
-cast: Silvia Saint; https://www.vivthomas.com/model/silvia-saint; f
+model: n:Silvia Saint; id:/model/vivthomas/silvia-saint; u:https://www.vivthomas.com/model/silvia-saint; g:f
 released: 2005-11-11
 photographer: Viv Thomas
 rating: 9.2
@@ -294,7 +294,7 @@ title: Stefani
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/stefani-a/gallery/20051111/STEFANI
-cast: Stefani A; https://www.vivthomas.com/model/stefani-a; f
+model: n:Stefani A; id:/model/vivthomas/stefani-a; u:https://www.vivthomas.com/model/stefani-a; g:f
 released: 2005-11-11
 photographer: Viv Thomas
 rating: 9.1
@@ -308,7 +308,7 @@ title: Mia
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/mia-stone/gallery/20051111/MIA
-cast: Mia Stone; https://www.vivthomas.com/model/mia-stone; f
+model: n:Mia Stone; id:/model/vivthomas/mia-stone; u:https://www.vivthomas.com/model/mia-stone; g:f
 released: 2005-11-11
 photographer: Viv Thomas
 rating: 9.3
@@ -322,7 +322,7 @@ title: Rebeca
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/rebeca-b/gallery/20051111/REBECA
-cast: Rebeca B; https://www.vivthomas.com/model/rebeca-b; f
+model: n:Rebeca B; id:/model/vivthomas/rebeca-b; u:https://www.vivthomas.com/model/rebeca-b; g:f
 released: 2005-11-11
 photographer: Viv Thomas
 rating: 9.2
@@ -336,7 +336,7 @@ title: Becky
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/becky-a/gallery/20051111/BECKY
-cast: Becky A; https://www.vivthomas.com/model/becky-a; f
+model: n:Becky A; id:/model/vivthomas/becky-a; u:https://www.vivthomas.com/model/becky-a; g:f
 released: 2005-11-11
 photographer: Viv Thomas
 rating: 9.0
@@ -350,7 +350,7 @@ title: Jenny
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/jenny-a/gallery/20051104/JENNY
-cast: Jenny A; https://www.vivthomas.com/model/jenny-a; f
+model: n:Jenny A; id:/model/vivthomas/jenny-a; u:https://www.vivthomas.com/model/jenny-a; g:f
 released: 2005-11-04
 photographer: Viv Thomas
 rating: 9.4
@@ -364,7 +364,7 @@ title: Charlie
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/charlie-a/gallery/20051104/CHARLIE
-cast: Charlie A; https://www.vivthomas.com/model/charlie-a; f
+model: n:Charlie A; id:/model/vivthomas/charlie-a; u:https://www.vivthomas.com/model/charlie-a; g:f
 released: 2005-11-04
 photographer: Viv Thomas
 rating: 8.7
@@ -378,8 +378,8 @@ title: Peaches & Ella
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/ella-a-and-peaches-a/gallery/20051104/PEACHES_&_ELLA
-cast: Ella A; https://www.vivthomas.com/model/ella-a; f
-cast: Peaches A; https://www.vivthomas.com/model/peaches-a; f
+model: n:Ella A; id:/model/vivthomas/ella-a; u:https://www.vivthomas.com/model/ella-a; g:f
+model: n:Peaches A; id:/model/vivthomas/peaches-a; u:https://www.vivthomas.com/model/peaches-a; g:f
 released: 2005-11-04
 photographer: Viv Thomas
 rating: 9.5
@@ -393,10 +393,10 @@ title: On Location
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/penny-flame-and-evelyn-a-and-kylie-a-and-silvia-saint/gallery/20051104/ON_LOCATION
-cast: Penny Flame; https://www.vivthomas.com/model/penny-flame; f
-cast: Evelyn A; https://www.vivthomas.com/model/evelyn-a; f
-cast: Kylie A; https://www.vivthomas.com/model/kylie-a; f
-cast: Silvia Saint; https://www.vivthomas.com/model/silvia-saint; f
+model: n:Penny Flame; id:/model/vivthomas/penny-flame; u:https://www.vivthomas.com/model/penny-flame; g:f
+model: n:Evelyn A; id:/model/vivthomas/evelyn-a; u:https://www.vivthomas.com/model/evelyn-a; g:f
+model: n:Kylie A; id:/model/vivthomas/kylie-a; u:https://www.vivthomas.com/model/kylie-a; g:f
+model: n:Silvia Saint; id:/model/vivthomas/silvia-saint; u:https://www.vivthomas.com/model/silvia-saint; g:f
 released: 2005-11-04
 photographer: Viv Thomas
 rating: 9.2
@@ -410,7 +410,7 @@ title: Vanessa
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/vanessa-c/gallery/20051104/VANESSA
-cast: Vanessa C; https://www.vivthomas.com/model/vanessa-c; f
+model: n:Vanessa C; id:/model/vivthomas/vanessa-c; u:https://www.vivthomas.com/model/vanessa-c; g:f
 released: 2005-11-04
 photographer: Viv Thomas
 rating: 9.0
@@ -424,8 +424,8 @@ title: Foot Lovers Close Ups
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/sophie-moon-and-kathy-moore/gallery/20051102/FOOT_LOVERS_CLOSE_UPS
-cast: Sophie Moon; https://www.vivthomas.com/model/sophie-moon; f
-cast: Kathy Moore; https://www.vivthomas.com/model/kathy-moore; f
+model: n:Sophie Moon; id:/model/vivthomas/sophie-moon; u:https://www.vivthomas.com/model/sophie-moon; g:f
+model: n:Kathy Moore; id:/model/vivthomas/kathy-moore; u:https://www.vivthomas.com/model/kathy-moore; g:f
 released: 2005-11-02
 photographer: Viv Thomas
 rating: 9.2
@@ -439,7 +439,7 @@ title: Ava & Gary
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/ava-lustra/gallery/20051028/AVA_&_GARY
-cast: Ava Lustra; https://www.vivthomas.com/model/ava-lustra; f
+model: n:Ava Lustra; id:/model/vivthomas/ava-lustra; u:https://www.vivthomas.com/model/ava-lustra; g:f
 released: 2005-10-28
 photographer: Viv Thomas
 rating: 9.3
@@ -453,7 +453,7 @@ title: Rebeca
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/rebeca-b/gallery/20051028/REBECA
-cast: Rebeca B; https://www.vivthomas.com/model/rebeca-b; f
+model: n:Rebeca B; id:/model/vivthomas/rebeca-b; u:https://www.vivthomas.com/model/rebeca-b; g:f
 released: 2005-10-28
 photographer: Viv Thomas
 rating: 9.1
@@ -467,7 +467,7 @@ title: Foot Lovers Close Ups
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/silvia-saint/gallery/20051028/FOOT_LOVERS_CLOSE_UPS
-cast: Silvia Saint; https://www.vivthomas.com/model/silvia-saint; f
+model: n:Silvia Saint; id:/model/vivthomas/silvia-saint; u:https://www.vivthomas.com/model/silvia-saint; g:f
 released: 2005-10-28
 photographer: Viv Thomas
 rating: 9.1
@@ -481,7 +481,7 @@ title: Marketa
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/marketa-a/gallery/20051028/MARKETA
-cast: Marketa A; https://www.vivthomas.com/model/marketa-a; f
+model: n:Marketa A; id:/model/vivthomas/marketa-a; u:https://www.vivthomas.com/model/marketa-a; g:f
 released: 2005-10-28
 photographer: Viv Thomas
 rating: 9.8
@@ -495,7 +495,7 @@ title: Ashley
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/ashley-a/gallery/20051028/ASHLEY
-cast: Ashley A; https://www.vivthomas.com/model/ashley-a; f
+model: n:Ashley A; id:/model/vivthomas/ashley-a; u:https://www.vivthomas.com/model/ashley-a; g:f
 released: 2005-10-28
 photographer: Viv Thomas
 rating: 8.9
@@ -509,7 +509,7 @@ title: Bums And Panties
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/nancy-bell/gallery/20051026/BUMS_AND_PANTIES
-cast: Nancy Bell; https://www.vivthomas.com/model/nancy-bell; f
+model: n:Nancy Bell; id:/model/vivthomas/nancy-bell; u:https://www.vivthomas.com/model/nancy-bell; g:f
 released: 2005-10-26
 photographer: Viv Thomas
 rating: 8.6
@@ -523,7 +523,7 @@ title: Barbie
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/barbie-a/gallery/20051021/BARBIE
-cast: Barbie A; https://www.vivthomas.com/model/barbie-a; f
+model: n:Barbie A; id:/model/vivthomas/barbie-a; u:https://www.vivthomas.com/model/barbie-a; g:f
 released: 2005-10-21
 photographer: Viv Thomas
 rating: 8.9
@@ -537,7 +537,7 @@ title: Sindy
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/sindy-a/gallery/20051021/SINDY
-cast: Sindy A; https://www.vivthomas.com/model/sindy-a; f
+model: n:Sindy A; id:/model/vivthomas/sindy-a; u:https://www.vivthomas.com/model/sindy-a; g:f
 released: 2005-10-21
 photographer: Viv Thomas
 rating: 9.2
@@ -551,7 +551,7 @@ title: Venus
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/venus-b/gallery/20051014/VENUS
-cast: Venus B; https://www.vivthomas.com/model/venus-b; f
+model: n:Venus B; id:/model/vivthomas/venus-b; u:https://www.vivthomas.com/model/venus-b; g:f
 released: 2005-10-14
 photographer: Viv Thomas
 rating: 9.4
@@ -565,7 +565,7 @@ title: Amber
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/amber-a/gallery/20051014/AMBER
-cast: Amber A; https://www.vivthomas.com/model/amber-a; f
+model: n:Amber A; id:/model/vivthomas/amber-a; u:https://www.vivthomas.com/model/amber-a; g:f
 released: 2005-10-14
 photographer: Viv Thomas
 rating: 8.9
@@ -579,7 +579,7 @@ title: Eve
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/eve-angel/gallery/20051014/EVE
-cast: Eve Angel; https://www.vivthomas.com/model/eve-angel; f
+model: n:Eve Angel; id:/model/vivthomas/eve-angel; u:https://www.vivthomas.com/model/eve-angel; g:f
 released: 2005-10-14
 photographer: Viv Thomas
 rating: 9.5
@@ -593,7 +593,7 @@ title: Stella
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/stella-a/gallery/20051014/STELLA
-cast: Stella A; https://www.vivthomas.com/model/stella-a; f
+model: n:Stella A; id:/model/vivthomas/stella-a; u:https://www.vivthomas.com/model/stella-a; g:f
 released: 2005-10-14
 photographer: Viv Thomas
 rating: 9.1
@@ -607,7 +607,7 @@ title: Ashley
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/ashley-a/gallery/20051014/ASHLEY
-cast: Ashley A; https://www.vivthomas.com/model/ashley-a; f
+model: n:Ashley A; id:/model/vivthomas/ashley-a; u:https://www.vivthomas.com/model/ashley-a; g:f
 released: 2005-10-14
 photographer: Viv Thomas
 rating: 8.8
@@ -621,7 +621,7 @@ title: Peaches
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/peaches-a/gallery/20051007/PEACHES
-cast: Peaches A; https://www.vivthomas.com/model/peaches-a; f
+model: n:Peaches A; id:/model/vivthomas/peaches-a; u:https://www.vivthomas.com/model/peaches-a; g:f
 released: 2005-10-07
 photographer: Viv Thomas
 rating: 9.6
@@ -635,8 +635,8 @@ title: Foot Lovers Close Ups
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/sophie-moon-and-kylie-a/gallery/20051007/FOOT_LOVERS_CLOSE_UPS
-cast: Sophie Moon; https://www.vivthomas.com/model/sophie-moon; f
-cast: Kylie A; https://www.vivthomas.com/model/kylie-a; f
+model: n:Sophie Moon; id:/model/vivthomas/sophie-moon; u:https://www.vivthomas.com/model/sophie-moon; g:f
+model: n:Kylie A; id:/model/vivthomas/kylie-a; u:https://www.vivthomas.com/model/kylie-a; g:f
 released: 2005-10-07
 photographer: Viv Thomas
 rating: 9.3
@@ -650,7 +650,7 @@ title: Bums And Panties
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/cayenne-a/gallery/20051007/BUMS_AND_PANTIES
-cast: Cayenne A; https://www.vivthomas.com/model/cayenne-a; f
+model: n:Cayenne A; id:/model/vivthomas/cayenne-a; u:https://www.vivthomas.com/model/cayenne-a; g:f
 released: 2005-10-07
 photographer: Viv Thomas
 rating: 9.3
@@ -664,7 +664,7 @@ title: Bums And Panties
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/cayenne-a/gallery/20051005/BUMS_AND_PANTIES
-cast: Cayenne A; https://www.vivthomas.com/model/cayenne-a; f
+model: n:Cayenne A; id:/model/vivthomas/cayenne-a; u:https://www.vivthomas.com/model/cayenne-a; g:f
 released: 2005-10-05
 photographer: Viv Thomas
 rating: 9.2
@@ -678,10 +678,10 @@ title: On Location
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/kathy-moore-and-kylie-a-and-sophie-moon-and-stella-stevens/gallery/20050930/ON_LOCATION
-cast: Kathy Moore; https://www.vivthomas.com/model/kathy-moore; f
-cast: Kylie A; https://www.vivthomas.com/model/kylie-a; f
-cast: Sophie Moon; https://www.vivthomas.com/model/sophie-moon; f
-cast: Stella Stevens; https://www.vivthomas.com/model/stella-stevens; f
+model: n:Kathy Moore; id:/model/vivthomas/kathy-moore; u:https://www.vivthomas.com/model/kathy-moore; g:f
+model: n:Kylie A; id:/model/vivthomas/kylie-a; u:https://www.vivthomas.com/model/kylie-a; g:f
+model: n:Sophie Moon; id:/model/vivthomas/sophie-moon; u:https://www.vivthomas.com/model/sophie-moon; g:f
+model: n:Stella Stevens; id:/model/vivthomas/stella-stevens; u:https://www.vivthomas.com/model/stella-stevens; g:f
 released: 2005-09-30
 photographer: Viv Thomas
 rating: 9.2
@@ -695,7 +695,7 @@ title: Venus
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/venus-b/gallery/20050930/VENUS
-cast: Venus B; https://www.vivthomas.com/model/venus-b; f
+model: n:Venus B; id:/model/vivthomas/venus-b; u:https://www.vivthomas.com/model/venus-b; g:f
 released: 2005-09-30
 photographer: Viv Thomas
 rating: 9.4
@@ -709,7 +709,7 @@ title: Sophie Moon
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/sophie-moon/gallery/20050923/SOPHIE_MOON
-cast: Sophie Moon; https://www.vivthomas.com/model/sophie-moon; f
+model: n:Sophie Moon; id:/model/vivthomas/sophie-moon; u:https://www.vivthomas.com/model/sophie-moon; g:f
 released: 2005-09-23
 photographer: Viv Thomas
 rating: 9.5
@@ -723,7 +723,7 @@ title: Cayenne
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/cayenne-a/gallery/20050923/CAYENNE
-cast: Cayenne A; https://www.vivthomas.com/model/cayenne-a; f
+model: n:Cayenne A; id:/model/vivthomas/cayenne-a; u:https://www.vivthomas.com/model/cayenne-a; g:f
 released: 2005-09-23
 photographer: Viv Thomas
 rating: 9.3
@@ -737,7 +737,7 @@ title: Peach
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/peach-a/gallery/20050923/PEACH
-cast: Peach A; https://www.vivthomas.com/model/peach-a; f
+model: n:Peach A; id:/model/vivthomas/peach-a; u:https://www.vivthomas.com/model/peach-a; g:f
 released: 2005-09-23
 photographer: Viv Thomas
 rating: 9.2
@@ -751,7 +751,7 @@ title: Behind The Scenes
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/cayenne-a/gallery/20050923/BEHIND_THE_SCENES
-cast: Cayenne A; https://www.vivthomas.com/model/cayenne-a; f
+model: n:Cayenne A; id:/model/vivthomas/cayenne-a; u:https://www.vivthomas.com/model/cayenne-a; g:f
 released: 2005-09-23
 photographer: Viv Thomas
 rating: 9.2
@@ -765,7 +765,7 @@ title: Sabrina
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/sabrina-a/gallery/20050916/SABRINA
-cast: Sabrina A; https://www.vivthomas.com/model/sabrina-a; f
+model: n:Sabrina A; id:/model/vivthomas/sabrina-a; u:https://www.vivthomas.com/model/sabrina-a; g:f
 released: 2005-09-16
 photographer: Viv Thomas
 rating: 9.4
@@ -779,7 +779,7 @@ title: Sophie
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/sophie-paris/gallery/20050916/SOPHIE
-cast: Sophie Paris; https://www.vivthomas.com/model/sophie-paris; f
+model: n:Sophie Paris; id:/model/vivthomas/sophie-paris; u:https://www.vivthomas.com/model/sophie-paris; g:f
 released: 2005-09-16
 photographer: Viv Thomas
 rating: 9.1
@@ -793,7 +793,7 @@ title: Jenny Sanders
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/jenny-sanders/gallery/20050916/JENNY_SANDERS
-cast: Jenny Sanders; https://www.vivthomas.com/model/jenny-sanders; f
+model: n:Jenny Sanders; id:/model/vivthomas/jenny-sanders; u:https://www.vivthomas.com/model/jenny-sanders; g:f
 released: 2005-09-16
 photographer: Viv Thomas
 rating: 9.2
@@ -807,7 +807,7 @@ title: Suzana
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/zuzana-drabinova/gallery/20050909/SUZANA
-cast: Zuzana Drabinova; https://www.vivthomas.com/model/zuzana-drabinova; f
+model: n:Zuzana Drabinova; id:/model/vivthomas/zuzana-drabinova; u:https://www.vivthomas.com/model/zuzana-drabinova; g:f
 released: 2005-09-09
 photographer: Viv Thomas
 rating: 9.6
@@ -821,7 +821,7 @@ title: A Night Out On Location
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/sophie-moon/gallery/20050909/A_NIGHT_OUT_ON_LOCATION
-cast: Sophie Moon; https://www.vivthomas.com/model/sophie-moon; f
+model: n:Sophie Moon; id:/model/vivthomas/sophie-moon; u:https://www.vivthomas.com/model/sophie-moon; g:f
 released: 2005-09-09
 photographer: Viv Thomas
 rating: 9.0
@@ -835,7 +835,7 @@ title: Bums & Panties
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/christina-a/gallery/20050909/BUMS_&_PANTIES
-cast: Christina A; https://www.vivthomas.com/model/christina-a; f
+model: n:Christina A; id:/model/vivthomas/christina-a; u:https://www.vivthomas.com/model/christina-a; g:f
 released: 2005-09-09
 photographer: Viv Thomas
 rating: 8.9
@@ -849,8 +849,8 @@ title: Behind The Scenes
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/kylie-a-and-sophie-moon/gallery/20050902/BEHIND_THE_SCENES
-cast: Kylie A; https://www.vivthomas.com/model/kylie-a; f
-cast: Sophie Moon; https://www.vivthomas.com/model/sophie-moon; f
+model: n:Kylie A; id:/model/vivthomas/kylie-a; u:https://www.vivthomas.com/model/kylie-a; g:f
+model: n:Sophie Moon; id:/model/vivthomas/sophie-moon; u:https://www.vivthomas.com/model/sophie-moon; g:f
 released: 2005-09-02
 photographer: Viv Thomas
 rating: 9.6
@@ -864,7 +864,7 @@ title: May
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/may-a/gallery/20050902/MAY
-cast: May A; https://www.vivthomas.com/model/may-a; f
+model: n:May A; id:/model/vivthomas/may-a; u:https://www.vivthomas.com/model/may-a; g:f
 released: 2005-09-02
 photographer: Viv Thomas
 rating: 9.7
@@ -878,9 +878,9 @@ title: Bums & Panties
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/jo-and-stella-stevens-and-peach-a/gallery/20050902/BUMS_&_PANTIES
-cast: Jo; https://www.vivthomas.com/model/jo; f
-cast: Stella Stevens; https://www.vivthomas.com/model/stella-stevens; f
-cast: Peach A; https://www.vivthomas.com/model/peach-a; f
+model: n:Jo; id:/model/vivthomas/jo; u:https://www.vivthomas.com/model/jo; g:f
+model: n:Stella Stevens; id:/model/vivthomas/stella-stevens; u:https://www.vivthomas.com/model/stella-stevens; g:f
+model: n:Peach A; id:/model/vivthomas/peach-a; u:https://www.vivthomas.com/model/peach-a; g:f
 released: 2005-09-02
 photographer: Viv Thomas
 rating: 9.1
@@ -894,7 +894,7 @@ title: Stella Stevens
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/stella-stevens/gallery/20050826/STELLA_STEVENS
-cast: Stella Stevens; https://www.vivthomas.com/model/stella-stevens; f
+model: n:Stella Stevens; id:/model/vivthomas/stella-stevens; u:https://www.vivthomas.com/model/stella-stevens; g:f
 released: 2005-08-26
 photographer: Viv Thomas
 rating: 9.4
@@ -908,7 +908,7 @@ title: Silvia Saint
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/silvia-saint/gallery/20050826/SILVIA_SAINT
-cast: Silvia Saint; https://www.vivthomas.com/model/silvia-saint; f
+model: n:Silvia Saint; id:/model/vivthomas/silvia-saint; u:https://www.vivthomas.com/model/silvia-saint; g:f
 released: 2005-08-26
 photographer: Viv Thomas
 rating: 9.4
@@ -922,9 +922,9 @@ title: Bums & Panties
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/silvia-saint-and-pocahontas-a-and-jo/gallery/20050826/BUMS_&_PANTIES
-cast: Silvia Saint; https://www.vivthomas.com/model/silvia-saint; f
-cast: Pocahontas A; https://www.vivthomas.com/model/pocahontas-a; f
-cast: Jo; https://www.vivthomas.com/model/jo; f
+model: n:Silvia Saint; id:/model/vivthomas/silvia-saint; u:https://www.vivthomas.com/model/silvia-saint; g:f
+model: n:Pocahontas A; id:/model/vivthomas/pocahontas-a; u:https://www.vivthomas.com/model/pocahontas-a; g:f
+model: n:Jo; id:/model/vivthomas/jo; u:https://www.vivthomas.com/model/jo; g:f
 released: 2005-08-26
 photographer: Viv Thomas
 rating: 9.0
@@ -938,7 +938,7 @@ title: Behind The Scenes
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/kylie-a/gallery/20050819/BEHIND_THE_SCENES
-cast: Kylie A; https://www.vivthomas.com/model/kylie-a; f
+model: n:Kylie A; id:/model/vivthomas/kylie-a; u:https://www.vivthomas.com/model/kylie-a; g:f
 released: 2005-08-19
 photographer: Viv Thomas
 rating: 9.6
@@ -952,7 +952,7 @@ title: Toni
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/toni-a/gallery/20050819/TONI
-cast: Toni A; https://www.vivthomas.com/model/toni-a; f
+model: n:Toni A; id:/model/vivthomas/toni-a; u:https://www.vivthomas.com/model/toni-a; g:f
 released: 2005-08-19
 photographer: Viv Thomas
 rating: 9.1
@@ -966,7 +966,7 @@ title: Jana
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/jana-a/gallery/20050819/JANA
-cast: Jana A; https://www.vivthomas.com/model/jana-a; f
+model: n:Jana A; id:/model/vivthomas/jana-a; u:https://www.vivthomas.com/model/jana-a; g:f
 released: 2005-08-19
 photographer: Viv Thomas
 rating: 9.2
@@ -980,7 +980,7 @@ title: Vannesa
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/vanessa-d/gallery/20050812/VANNESA
-cast: Vanessa D; https://www.vivthomas.com/model/vanessa-d; f
+model: n:Vanessa D; id:/model/vivthomas/vanessa-d; u:https://www.vivthomas.com/model/vanessa-d; g:f
 released: 2005-08-12
 photographer: Viv Thomas
 rating: 8.7
@@ -994,7 +994,7 @@ title: Vanessa
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/vanessa-b/gallery/20050812/VANESSA
-cast: Vanessa B; https://www.vivthomas.com/model/vanessa-b; f
+model: n:Vanessa B; id:/model/vivthomas/vanessa-b; u:https://www.vivthomas.com/model/vanessa-b; g:f
 released: 2005-08-12
 photographer: Viv Thomas
 rating: 9.2
@@ -1008,7 +1008,7 @@ title: Annie
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/annie-a/gallery/20050812/ANNIE
-cast: Annie A; https://www.vivthomas.com/model/annie-a; f
+model: n:Annie A; id:/model/vivthomas/annie-a; u:https://www.vivthomas.com/model/annie-a; g:f
 released: 2005-08-12
 photographer: Viv Thomas
 rating: 9.2
@@ -1022,10 +1022,10 @@ title: On Location
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/kylie-a-and-kathy-moore-and-stella-stevens-and-sophie-moon/gallery/20050812/ON_LOCATION
-cast: Kylie A; https://www.vivthomas.com/model/kylie-a; f
-cast: Kathy Moore; https://www.vivthomas.com/model/kathy-moore; f
-cast: Stella Stevens; https://www.vivthomas.com/model/stella-stevens; f
-cast: Sophie Moon; https://www.vivthomas.com/model/sophie-moon; f
+model: n:Kylie A; id:/model/vivthomas/kylie-a; u:https://www.vivthomas.com/model/kylie-a; g:f
+model: n:Kathy Moore; id:/model/vivthomas/kathy-moore; u:https://www.vivthomas.com/model/kathy-moore; g:f
+model: n:Stella Stevens; id:/model/vivthomas/stella-stevens; u:https://www.vivthomas.com/model/stella-stevens; g:f
+model: n:Sophie Moon; id:/model/vivthomas/sophie-moon; u:https://www.vivthomas.com/model/sophie-moon; g:f
 released: 2005-08-12
 photographer: Viv Thomas
 rating: 8.8
@@ -1039,7 +1039,7 @@ title: Molly
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/molly-a/gallery/20050811/MOLLY
-cast: Molly A; https://www.vivthomas.com/model/molly-a; f
+model: n:Molly A; id:/model/vivthomas/molly-a; u:https://www.vivthomas.com/model/molly-a; g:f
 released: 2005-08-11
 photographer: Viv Thomas
 rating: 9.3
@@ -1053,9 +1053,9 @@ title: Feet Close Ups
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/sandy-d-and-stella-stevens-and-sophie-moon/gallery/20050805/FEET_CLOSE_UPS
-cast: Sandy D; https://www.vivthomas.com/model/sandy-d; f
-cast: Stella Stevens; https://www.vivthomas.com/model/stella-stevens; f
-cast: Sophie Moon; https://www.vivthomas.com/model/sophie-moon; f
+model: n:Sandy D; id:/model/vivthomas/sandy-d; u:https://www.vivthomas.com/model/sandy-d; g:f
+model: n:Stella Stevens; id:/model/vivthomas/stella-stevens; u:https://www.vivthomas.com/model/stella-stevens; g:f
+model: n:Sophie Moon; id:/model/vivthomas/sophie-moon; u:https://www.vivthomas.com/model/sophie-moon; g:f
 released: 2005-08-05
 photographer: Viv Thomas
 rating: 9.3
@@ -1069,7 +1069,7 @@ title: A Golf Day On Location
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/sophie-moon/gallery/20050805/A_GOLF_DAY_ON_LOCATION
-cast: Sophie Moon; https://www.vivthomas.com/model/sophie-moon; f
+model: n:Sophie Moon; id:/model/vivthomas/sophie-moon; u:https://www.vivthomas.com/model/sophie-moon; g:f
 released: 2005-08-05
 photographer: Viv Thomas
 rating: 8.7
@@ -1083,7 +1083,7 @@ title: Teresa May
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/teresa-may/gallery/20050729/TERESA_MAY
-cast: Teresa May; https://www.vivthomas.com/model/teresa-may; f
+model: n:Teresa May; id:/model/vivthomas/teresa-may; u:https://www.vivthomas.com/model/teresa-may; g:f
 released: 2005-07-29
 photographer: Viv Thomas
 rating: 9.0
@@ -1097,8 +1097,8 @@ title: A Day Out On Location
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/sophie-moon-and-kylie-a/gallery/20050729/A_DAY_OUT_ON_LOCATION
-cast: Sophie Moon; https://www.vivthomas.com/model/sophie-moon; f
-cast: Kylie A; https://www.vivthomas.com/model/kylie-a; f
+model: n:Sophie Moon; id:/model/vivthomas/sophie-moon; u:https://www.vivthomas.com/model/sophie-moon; g:f
+model: n:Kylie A; id:/model/vivthomas/kylie-a; u:https://www.vivthomas.com/model/kylie-a; g:f
 released: 2005-07-29
 photographer: Viv Thomas
 rating: 8.6
@@ -1112,7 +1112,7 @@ title: Nathalie
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/nathalie-a/gallery/20050729/NATHALIE
-cast: Nathalie A; https://www.vivthomas.com/model/nathalie-a; f
+model: n:Nathalie A; id:/model/vivthomas/nathalie-a; u:https://www.vivthomas.com/model/nathalie-a; g:f
 released: 2005-07-29
 photographer: Viv Thomas
 rating: 9.3
@@ -1126,7 +1126,7 @@ title: Louise
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/louise-a/gallery/20050727/LOUISE
-cast: Louise A; https://www.vivthomas.com/model/louise-a; f
+model: n:Louise A; id:/model/vivthomas/louise-a; u:https://www.vivthomas.com/model/louise-a; g:f
 released: 2005-07-27
 photographer: Viv Thomas
 rating: 9.2
@@ -1140,7 +1140,7 @@ title: Close Ups
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/sandy-d/gallery/20050722/CLOSE_UPS
-cast: Sandy D; https://www.vivthomas.com/model/sandy-d; f
+model: n:Sandy D; id:/model/vivthomas/sandy-d; u:https://www.vivthomas.com/model/sandy-d; g:f
 released: 2005-07-22
 photographer: Viv Thomas
 rating: 8.9
@@ -1154,7 +1154,7 @@ title: Behind The Scenes
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/sophie-moon/gallery/20050722/BEHIND_THE_SCENES
-cast: Sophie Moon; https://www.vivthomas.com/model/sophie-moon; f
+model: n:Sophie Moon; id:/model/vivthomas/sophie-moon; u:https://www.vivthomas.com/model/sophie-moon; g:f
 released: 2005-07-22
 photographer: Viv Thomas
 rating: 9.1
@@ -1168,10 +1168,10 @@ title: Kissing Babes
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/sophie-moon-and-kathy-moore-and-kylie-a-and-sandy-d/gallery/20050722/KISSING_BABES
-cast: Sophie Moon; https://www.vivthomas.com/model/sophie-moon; f
-cast: Kathy Moore; https://www.vivthomas.com/model/kathy-moore; f
-cast: Kylie A; https://www.vivthomas.com/model/kylie-a; f
-cast: Sandy D; https://www.vivthomas.com/model/sandy-d; f
+model: n:Sophie Moon; id:/model/vivthomas/sophie-moon; u:https://www.vivthomas.com/model/sophie-moon; g:f
+model: n:Kathy Moore; id:/model/vivthomas/kathy-moore; u:https://www.vivthomas.com/model/kathy-moore; g:f
+model: n:Kylie A; id:/model/vivthomas/kylie-a; u:https://www.vivthomas.com/model/kylie-a; g:f
+model: n:Sandy D; id:/model/vivthomas/sandy-d; u:https://www.vivthomas.com/model/sandy-d; g:f
 released: 2005-07-22
 photographer: Viv Thomas
 rating: 9.0
@@ -1185,7 +1185,7 @@ title: Foot Lovers Close Ups
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/sophie-moon/gallery/20050722/FOOT_LOVERS_CLOSE_UPS
-cast: Sophie Moon; https://www.vivthomas.com/model/sophie-moon; f
+model: n:Sophie Moon; id:/model/vivthomas/sophie-moon; u:https://www.vivthomas.com/model/sophie-moon; g:f
 released: 2005-07-22
 photographer: Viv Thomas
 rating: 9.4
@@ -1199,7 +1199,7 @@ title: Yvonne
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/yvonne-a/gallery/20050715/YVONNE
-cast: Yvonne A; https://www.vivthomas.com/model/yvonne-a; f
+model: n:Yvonne A; id:/model/vivthomas/yvonne-a; u:https://www.vivthomas.com/model/yvonne-a; g:f
 released: 2005-07-15
 photographer: Viv Thomas
 rating: 9.0
@@ -1213,11 +1213,11 @@ title: On Location
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/kylie-a-and-sandy-d-and-stella-stevens-and-kathy-moore-and-sophie-moon/gallery/20050715/ON_LOCATION
-cast: Kylie A; https://www.vivthomas.com/model/kylie-a; f
-cast: Sandy D; https://www.vivthomas.com/model/sandy-d; f
-cast: Stella Stevens; https://www.vivthomas.com/model/stella-stevens; f
-cast: Kathy Moore; https://www.vivthomas.com/model/kathy-moore; f
-cast: Sophie Moon; https://www.vivthomas.com/model/sophie-moon; f
+model: n:Kylie A; id:/model/vivthomas/kylie-a; u:https://www.vivthomas.com/model/kylie-a; g:f
+model: n:Sandy D; id:/model/vivthomas/sandy-d; u:https://www.vivthomas.com/model/sandy-d; g:f
+model: n:Stella Stevens; id:/model/vivthomas/stella-stevens; u:https://www.vivthomas.com/model/stella-stevens; g:f
+model: n:Kathy Moore; id:/model/vivthomas/kathy-moore; u:https://www.vivthomas.com/model/kathy-moore; g:f
+model: n:Sophie Moon; id:/model/vivthomas/sophie-moon; u:https://www.vivthomas.com/model/sophie-moon; g:f
 released: 2005-07-15
 photographer: Viv Thomas
 rating: 8.6
@@ -1231,7 +1231,7 @@ title: Melinda
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/melinda-a/gallery/20050715/MELINDA
-cast: Melinda A; https://www.vivthomas.com/model/melinda-a; f
+model: n:Melinda A; id:/model/vivthomas/melinda-a; u:https://www.vivthomas.com/model/melinda-a; g:f
 released: 2005-07-15
 photographer: Viv Thomas
 rating: 9.0
@@ -1245,9 +1245,9 @@ title: A sneak preview some pics fromthe movie Office Girls, cumming soon.
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/stella-stevens-and-lisa-c-and-vera-a/gallery/20050708/A_SNEAK_PREVIEW_SOME_PICS_FROMTHE_MOVIE_OFFICE_GIRLS,_CUMMING_SOON.
-cast: Stella Stevens; https://www.vivthomas.com/model/stella-stevens; f
-cast: Lisa C; https://www.vivthomas.com/model/lisa-c; f
-cast: Vera A; https://www.vivthomas.com/model/vera-a; f
+model: n:Stella Stevens; id:/model/vivthomas/stella-stevens; u:https://www.vivthomas.com/model/stella-stevens; g:f
+model: n:Lisa C; id:/model/vivthomas/lisa-c; u:https://www.vivthomas.com/model/lisa-c; g:f
+model: n:Vera A; id:/model/vivthomas/vera-a; u:https://www.vivthomas.com/model/vera-a; g:f
 released: 2005-07-08
 photographer: Viv Thomas
 rating: 9.3
@@ -1261,8 +1261,8 @@ title: Close Ups
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/nella-a-and-vera-a/gallery/20050708/CLOSE_UPS
-cast: Nella A; https://www.vivthomas.com/model/nella-a; f
-cast: Vera A; https://www.vivthomas.com/model/vera-a; f
+model: n:Nella A; id:/model/vivthomas/nella-a; u:https://www.vivthomas.com/model/nella-a; g:f
+model: n:Vera A; id:/model/vivthomas/vera-a; u:https://www.vivthomas.com/model/vera-a; g:f
 released: 2005-07-08
 photographer: Viv Thomas
 rating: 9.6
@@ -1276,7 +1276,7 @@ title: Bums & Panties
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/sophie-a/gallery/20050708/BUMS_&_PANTIES
-cast: Sophie A; https://www.vivthomas.com/model/sophie-a; f
+model: n:Sophie A; id:/model/vivthomas/sophie-a; u:https://www.vivthomas.com/model/sophie-a; g:f
 released: 2005-07-08
 photographer: Viv Thomas
 rating: 8.9
@@ -1290,7 +1290,7 @@ title: Diana
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/diana-a/gallery/20050701/DIANA
-cast: Diana A; https://www.vivthomas.com/model/diana-a; f
+model: n:Diana A; id:/model/vivthomas/diana-a; u:https://www.vivthomas.com/model/diana-a; g:f
 released: 2005-07-01
 photographer: Viv Thomas
 rating: 8.9
@@ -1304,12 +1304,12 @@ title: Kissing Babes
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/sandra-shine-and-mya-diamond-and-stella-stevens-and-gina-b-and-tori-a-and-tera-a/gallery/20050701/KISSING_BABES
-cast: Sandra Shine; https://www.vivthomas.com/model/sandra-shine; f
-cast: Mya Diamond; https://www.vivthomas.com/model/mya-diamond; f
-cast: Stella Stevens; https://www.vivthomas.com/model/stella-stevens; f
-cast: Gina B; https://www.vivthomas.com/model/gina-b; f
-cast: Tori A; https://www.vivthomas.com/model/tori-a; f
-cast: Tera A; https://www.vivthomas.com/model/tera-a; f
+model: n:Sandra Shine; id:/model/vivthomas/sandra-shine; u:https://www.vivthomas.com/model/sandra-shine; g:f
+model: n:Mya Diamond; id:/model/vivthomas/mya-diamond; u:https://www.vivthomas.com/model/mya-diamond; g:f
+model: n:Stella Stevens; id:/model/vivthomas/stella-stevens; u:https://www.vivthomas.com/model/stella-stevens; g:f
+model: n:Gina B; id:/model/vivthomas/gina-b; u:https://www.vivthomas.com/model/gina-b; g:f
+model: n:Tori A; id:/model/vivthomas/tori-a; u:https://www.vivthomas.com/model/tori-a; g:f
+model: n:Tera A; id:/model/vivthomas/tera-a; u:https://www.vivthomas.com/model/tera-a; g:f
 released: 2005-07-01
 photographer: Viv Thomas
 rating: 9.6
@@ -1323,8 +1323,8 @@ title: Sandy & Bridgett
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/sandy-d-and-bridgett-a/gallery/20050701/SANDY_&_BRIDGETT
-cast: Sandy D; https://www.vivthomas.com/model/sandy-d; f
-cast: Bridgett A; https://www.vivthomas.com/model/bridgett-a; f
+model: n:Sandy D; id:/model/vivthomas/sandy-d; u:https://www.vivthomas.com/model/sandy-d; g:f
+model: n:Bridgett A; id:/model/vivthomas/bridgett-a; u:https://www.vivthomas.com/model/bridgett-a; g:f
 released: 2005-07-01
 photographer: Viv Thomas
 rating: 9.2
@@ -1338,7 +1338,7 @@ title: Betty
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/betty-a/gallery/20050701/BETTY
-cast: Betty A; https://www.vivthomas.com/model/betty-a; f
+model: n:Betty A; id:/model/vivthomas/betty-a; u:https://www.vivthomas.com/model/betty-a; g:f
 released: 2005-07-01
 photographer: Viv Thomas
 rating: 9.2
@@ -1352,8 +1352,8 @@ title: Sandy & Cindy
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/cindy-a-and-sandy-d/gallery/20050624/SANDY_&_CINDY
-cast: Cindy A; https://www.vivthomas.com/model/cindy-a; f
-cast: Sandy D; https://www.vivthomas.com/model/sandy-d; f
+model: n:Cindy A; id:/model/vivthomas/cindy-a; u:https://www.vivthomas.com/model/cindy-a; g:f
+model: n:Sandy D; id:/model/vivthomas/sandy-d; u:https://www.vivthomas.com/model/sandy-d; g:f
 released: 2005-06-24
 photographer: Viv Thomas
 rating: 9.2
@@ -1367,7 +1367,7 @@ title: Sophie Moon
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/sophie-moon/gallery/20050624/SOPHIE_MOON
-cast: Sophie Moon; https://www.vivthomas.com/model/sophie-moon; f
+model: n:Sophie Moon; id:/model/vivthomas/sophie-moon; u:https://www.vivthomas.com/model/sophie-moon; g:f
 released: 2005-06-24
 photographer: Viv Thomas
 rating: 9.6
@@ -1381,7 +1381,7 @@ title: Sandra Shine
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/sandra-shine/gallery/20050624/SANDRA_SHINE
-cast: Sandra Shine; https://www.vivthomas.com/model/sandra-shine; f
+model: n:Sandra Shine; id:/model/vivthomas/sandra-shine; u:https://www.vivthomas.com/model/sandra-shine; g:f
 released: 2005-06-24
 photographer: Viv Thomas
 rating: 9.6
@@ -1395,7 +1395,7 @@ title: Vera
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/vera-a/gallery/20050624/VERA
-cast: Vera A; https://www.vivthomas.com/model/vera-a; f
+model: n:Vera A; id:/model/vivthomas/vera-a; u:https://www.vivthomas.com/model/vera-a; g:f
 released: 2005-06-24
 photographer: Viv Thomas
 rating: 9.6
@@ -1409,8 +1409,8 @@ title: Taylor & Terri
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/taylor-c-and-terri-a/gallery/20050617/TAYLOR_&_TERRI
-cast: Taylor C; https://www.vivthomas.com/model/taylor-c; f
-cast: Terri A; https://www.vivthomas.com/model/terri-a; f
+model: n:Taylor C; id:/model/vivthomas/taylor-c; u:https://www.vivthomas.com/model/taylor-c; g:f
+model: n:Terri A; id:/model/vivthomas/terri-a; u:https://www.vivthomas.com/model/terri-a; g:f
 released: 2005-06-17
 photographer: Viv Thomas
 rating: 8.8
@@ -1424,7 +1424,7 @@ title: Vanessa
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/vanessa-c/gallery/20050617/VANESSA
-cast: Vanessa C; https://www.vivthomas.com/model/vanessa-c; f
+model: n:Vanessa C; id:/model/vivthomas/vanessa-c; u:https://www.vivthomas.com/model/vanessa-c; g:f
 released: 2005-06-17
 photographer: Viv Thomas
 rating: 8.8
@@ -1438,7 +1438,7 @@ title: Venus
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/venus-b/gallery/20050617/VENUS
-cast: Venus B; https://www.vivthomas.com/model/venus-b; f
+model: n:Venus B; id:/model/vivthomas/venus-b; u:https://www.vivthomas.com/model/venus-b; g:f
 released: 2005-06-17
 photographer: Viv Thomas
 rating: 9.2
@@ -1452,7 +1452,7 @@ title: Sasha
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/sasha-a/gallery/20050611/SASHA
-cast: Sasha A; https://www.vivthomas.com/model/sasha-a; f
+model: n:Sasha A; id:/model/vivthomas/sasha-a; u:https://www.vivthomas.com/model/sasha-a; g:f
 released: 2005-06-11
 photographer: Viv Thomas
 rating: 9.2
@@ -1466,7 +1466,7 @@ title: Sarah
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/sarah-a/gallery/20050610/SARAH
-cast: Sarah A; https://www.vivthomas.com/model/sarah-a; f
+model: n:Sarah A; id:/model/vivthomas/sarah-a; u:https://www.vivthomas.com/model/sarah-a; g:f
 released: 2005-06-10
 photographer: Viv Thomas
 rating: 9.5
@@ -1480,7 +1480,7 @@ title: Candy
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/candy-a/gallery/20050610/CANDY
-cast: Candy A; https://www.vivthomas.com/model/candy-a; f
+model: n:Candy A; id:/model/vivthomas/candy-a; u:https://www.vivthomas.com/model/candy-a; g:f
 released: 2005-06-10
 photographer: Viv Thomas
 rating: 9.7
@@ -1494,8 +1494,8 @@ title: Gina B and Stella Stevens
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/gina-b-and-stella-stevens/gallery/20050610/GINA_B_AND_STELLA_STEVENS
-cast: Gina B; https://www.vivthomas.com/model/gina-b; f
-cast: Stella Stevens; https://www.vivthomas.com/model/stella-stevens; f
+model: n:Gina B; id:/model/vivthomas/gina-b; u:https://www.vivthomas.com/model/gina-b; g:f
+model: n:Stella Stevens; id:/model/vivthomas/stella-stevens; u:https://www.vivthomas.com/model/stella-stevens; g:f
 released: 2005-06-10
 photographer: Viv Thomas
 rating: 9.3
@@ -1509,8 +1509,8 @@ title: Vanesa & Suzy
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/suzy-a-and-vanesa-a/gallery/20050610/VANESA_&_SUZY
-cast: Suzy A; https://www.vivthomas.com/model/suzy-a; f
-cast: Vanesa A; https://www.vivthomas.com/model/vanesa-a; f
+model: n:Suzy A; id:/model/vivthomas/suzy-a; u:https://www.vivthomas.com/model/suzy-a; g:f
+model: n:Vanesa A; id:/model/vivthomas/vanesa-a; u:https://www.vivthomas.com/model/vanesa-a; g:f
 released: 2005-06-10
 photographer: Viv Thomas
 rating: 9.1
@@ -1524,7 +1524,7 @@ title: Miriam
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/miriam-a/gallery/20050610/MIRIAM
-cast: Miriam A; https://www.vivthomas.com/model/miriam-a; f
+model: n:Miriam A; id:/model/vivthomas/miriam-a; u:https://www.vivthomas.com/model/miriam-a; g:f
 released: 2005-06-10
 photographer: Viv Thomas
 rating: 9.5
@@ -1538,7 +1538,7 @@ title: Melinda
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/melinda-a/gallery/20050603/MELINDA
-cast: Melinda A; https://www.vivthomas.com/model/melinda-a; f
+model: n:Melinda A; id:/model/vivthomas/melinda-a; u:https://www.vivthomas.com/model/melinda-a; g:f
 released: 2005-06-03
 photographer: Viv Thomas
 rating: 9.1
@@ -1552,10 +1552,10 @@ title: Close Ups
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/sandy-d-and-stella-stevens-and-mia-stone-and-judith-fox/gallery/20050603/CLOSE_UPS
-cast: Sandy D; https://www.vivthomas.com/model/sandy-d; f
-cast: Stella Stevens; https://www.vivthomas.com/model/stella-stevens; f
-cast: Mia Stone; https://www.vivthomas.com/model/mia-stone; f
-cast: Judith Fox; https://www.vivthomas.com/model/judith-fox; f
+model: n:Sandy D; id:/model/vivthomas/sandy-d; u:https://www.vivthomas.com/model/sandy-d; g:f
+model: n:Stella Stevens; id:/model/vivthomas/stella-stevens; u:https://www.vivthomas.com/model/stella-stevens; g:f
+model: n:Mia Stone; id:/model/vivthomas/mia-stone; u:https://www.vivthomas.com/model/mia-stone; g:f
+model: n:Judith Fox; id:/model/vivthomas/judith-fox; u:https://www.vivthomas.com/model/judith-fox; g:f
 released: 2005-06-03
 photographer: Viv Thomas
 rating: 9.2
@@ -1569,7 +1569,7 @@ title: Gina B
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/gina-b/gallery/20050603/GINA_B
-cast: Gina B; https://www.vivthomas.com/model/gina-b; f
+model: n:Gina B; id:/model/vivthomas/gina-b; u:https://www.vivthomas.com/model/gina-b; g:f
 released: 2005-06-03
 photographer: Viv Thomas
 rating: 9.3
@@ -1583,8 +1583,8 @@ title: Mia & Vivien
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/mia-stone-and-vivien-a/gallery/20050603/MIA_&_VIVIEN
-cast: Mia Stone; https://www.vivthomas.com/model/mia-stone; f
-cast: Vivien A; https://www.vivthomas.com/model/vivien-a; f
+model: n:Mia Stone; id:/model/vivthomas/mia-stone; u:https://www.vivthomas.com/model/mia-stone; g:f
+model: n:Vivien A; id:/model/vivthomas/vivien-a; u:https://www.vivthomas.com/model/vivien-a; g:f
 released: 2005-06-03
 photographer: Viv Thomas
 rating: 9.5
@@ -1598,7 +1598,7 @@ title: Sandy
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/sandy-d/gallery/20050531/SANDY
-cast: Sandy D; https://www.vivthomas.com/model/sandy-d; f
+model: n:Sandy D; id:/model/vivthomas/sandy-d; u:https://www.vivthomas.com/model/sandy-d; g:f
 released: 2005-05-31
 photographer: Viv Thomas
 rating: 9.3
@@ -1612,7 +1612,7 @@ title: Michelle
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/michelle-a/gallery/20050527/MICHELLE
-cast: Michelle A; https://www.vivthomas.com/model/michelle-a; f
+model: n:Michelle A; id:/model/vivthomas/michelle-a; u:https://www.vivthomas.com/model/michelle-a; g:f
 released: 2005-05-27
 photographer: Viv Thomas
 rating: 9.3
@@ -1626,7 +1626,7 @@ title: Tiffany
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/tiffany-d/gallery/20050527/TIFFANY
-cast: Tiffany D; https://www.vivthomas.com/model/tiffany-d; f
+model: n:Tiffany D; id:/model/vivthomas/tiffany-d; u:https://www.vivthomas.com/model/tiffany-d; g:f
 released: 2005-05-27
 photographer: Viv Thomas
 rating: 9.6
@@ -1640,8 +1640,8 @@ title: Eve & Vivien
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/eve-angel-and-vivien-a/gallery/20050527/EVE_&_VIVIEN
-cast: Eve Angel; https://www.vivthomas.com/model/eve-angel; f
-cast: Vivien A; https://www.vivthomas.com/model/vivien-a; f
+model: n:Eve Angel; id:/model/vivthomas/eve-angel; u:https://www.vivthomas.com/model/eve-angel; g:f
+model: n:Vivien A; id:/model/vivthomas/vivien-a; u:https://www.vivthomas.com/model/vivien-a; g:f
 released: 2005-05-27
 photographer: Viv Thomas
 rating: 9.3
@@ -1655,7 +1655,7 @@ title: Suzana
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/zuzana-drabinova/gallery/20050520/SUZANA
-cast: Zuzana Drabinova; https://www.vivthomas.com/model/zuzana-drabinova; f
+model: n:Zuzana Drabinova; id:/model/vivthomas/zuzana-drabinova; u:https://www.vivthomas.com/model/zuzana-drabinova; g:f
 released: 2005-05-20
 photographer: Viv Thomas
 rating: 9.7
@@ -1669,7 +1669,7 @@ title: Marianne
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/marianne-a/gallery/20050520/MARIANNE
-cast: Marianne A; https://www.vivthomas.com/model/marianne-a; f
+model: n:Marianne A; id:/model/vivthomas/marianne-a; u:https://www.vivthomas.com/model/marianne-a; g:f
 released: 2005-05-20
 photographer: Viv Thomas
 rating: 9.3
@@ -1683,8 +1683,8 @@ title: Felicia & Kerry
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/felecia-a-and-kerry-a/gallery/20050520/FELICIA_&_KERRY
-cast: Felecia A; https://www.vivthomas.com/model/felecia-a; f
-cast: Kerry A; https://www.vivthomas.com/model/kerry-a; f
+model: n:Felecia A; id:/model/vivthomas/felecia-a; u:https://www.vivthomas.com/model/felecia-a; g:f
+model: n:Kerry A; id:/model/vivthomas/kerry-a; u:https://www.vivthomas.com/model/kerry-a; g:f
 released: 2005-05-20
 photographer: Viv Thomas
 rating: 9.4
@@ -1698,8 +1698,8 @@ title: Sandy & Sophie Moone
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/sophie-moon-and-sandy-d/gallery/20050520/SANDY_&_SOPHIE_MOONE
-cast: Sophie Moon; https://www.vivthomas.com/model/sophie-moon; f
-cast: Sandy D; https://www.vivthomas.com/model/sandy-d; f
+model: n:Sophie Moon; id:/model/vivthomas/sophie-moon; u:https://www.vivthomas.com/model/sophie-moon; g:f
+model: n:Sandy D; id:/model/vivthomas/sandy-d; u:https://www.vivthomas.com/model/sandy-d; g:f
 released: 2005-05-20
 photographer: Viv Thomas
 rating: 9.6
@@ -1713,7 +1713,7 @@ title: Cheri
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/cheri-a/gallery/20050520/CHERI
-cast: Cheri A; https://www.vivthomas.com/model/cheri-a; f
+model: n:Cheri A; id:/model/vivthomas/cheri-a; u:https://www.vivthomas.com/model/cheri-a; g:f
 released: 2005-05-20
 photographer: Viv Thomas
 rating: 9.4
@@ -1727,8 +1727,8 @@ title: Close Ups
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/eve-angel-and-sandy-d/gallery/20050513/CLOSE_UPS
-cast: Eve Angel; https://www.vivthomas.com/model/eve-angel; f
-cast: Sandy D; https://www.vivthomas.com/model/sandy-d; f
+model: n:Eve Angel; id:/model/vivthomas/eve-angel; u:https://www.vivthomas.com/model/eve-angel; g:f
+model: n:Sandy D; id:/model/vivthomas/sandy-d; u:https://www.vivthomas.com/model/sandy-d; g:f
 released: 2005-05-13
 photographer: Viv Thomas
 rating: 9.2
@@ -1742,7 +1742,7 @@ title: Chase
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/chase-a/gallery/20050513/CHASE
-cast: Chase A; https://www.vivthomas.com/model/chase-a; f
+model: n:Chase A; id:/model/vivthomas/chase-a; u:https://www.vivthomas.com/model/chase-a; g:f
 released: 2005-05-13
 photographer: Viv Thomas
 rating: 9.2
@@ -1756,7 +1756,7 @@ title: Sammy-Jayne
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/sammy-jayne-a/gallery/20050511/SAMMY-JAYNE
-cast: Sammy-Jayne A; https://www.vivthomas.com/model/sammy-jayne-a; f
+model: n:Sammy-Jayne A; id:/model/vivthomas/sammy-jayne-a; u:https://www.vivthomas.com/model/sammy-jayne-a; g:f
 released: 2005-05-11
 photographer: Viv Thomas
 rating: 9.3
@@ -1770,7 +1770,7 @@ title: Izabel
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/izabel-a/gallery/20050506/IZABEL
-cast: Izabel A; https://www.vivthomas.com/model/izabel-a; f
+model: n:Izabel A; id:/model/vivthomas/izabel-a; u:https://www.vivthomas.com/model/izabel-a; g:f
 released: 2005-05-06
 photographer: Viv Thomas
 rating: 8.7
@@ -1784,7 +1784,7 @@ title: Young Lucy strikes a pose
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/lucy-d/gallery/20050506/YOUNG_LUCY_STRIKES_A_POSE
-cast: Lucy D; https://www.vivthomas.com/model/lucy-d; f
+model: n:Lucy D; id:/model/vivthomas/lucy-d; u:https://www.vivthomas.com/model/lucy-d; g:f
 released: 2005-05-06
 photographer: Viv Thomas
 rating: 9.2
@@ -1798,7 +1798,7 @@ title: Barbara
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/barbara-a/gallery/20050506/BARBARA
-cast: Barbara A; https://www.vivthomas.com/model/barbara-a; f
+model: n:Barbara A; id:/model/vivthomas/barbara-a; u:https://www.vivthomas.com/model/barbara-a; g:f
 released: 2005-05-06
 photographer: Viv Thomas
 rating: 9.2
@@ -1812,7 +1812,7 @@ title: Mel
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/pocahontas-a/gallery/20050429/MEL
-cast: Pocahontas A; https://www.vivthomas.com/model/pocahontas-a; f
+model: n:Pocahontas A; id:/model/vivthomas/pocahontas-a; u:https://www.vivthomas.com/model/pocahontas-a; g:f
 released: 2005-04-29
 photographer: Viv Thomas
 rating: 9.6
@@ -1826,8 +1826,8 @@ title: Behind The Scenes
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/sophie-moon-and-sandy-d/gallery/20050429/BEHIND_THE_SCENES
-cast: Sophie Moon; https://www.vivthomas.com/model/sophie-moon; f
-cast: Sandy D; https://www.vivthomas.com/model/sandy-d; f
+model: n:Sophie Moon; id:/model/vivthomas/sophie-moon; u:https://www.vivthomas.com/model/sophie-moon; g:f
+model: n:Sandy D; id:/model/vivthomas/sandy-d; u:https://www.vivthomas.com/model/sandy-d; g:f
 released: 2005-04-29
 photographer: Viv Thomas
 rating: 8.4
@@ -1841,7 +1841,7 @@ title: Kathryn
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/kathryn-a/gallery/20050429/KATHRYN
-cast: Kathryn A; https://www.vivthomas.com/model/kathryn-a; f
+model: n:Kathryn A; id:/model/vivthomas/kathryn-a; u:https://www.vivthomas.com/model/kathryn-a; g:f
 released: 2005-04-29
 photographer: Viv Thomas
 rating: 9.3
@@ -1855,7 +1855,7 @@ title: Rebecca
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/rebecca-a/gallery/20050424/REBECCA
-cast: Rebecca A; https://www.vivthomas.com/model/rebecca-a; f
+model: n:Rebecca A; id:/model/vivthomas/rebecca-a; u:https://www.vivthomas.com/model/rebecca-a; g:f
 released: 2005-04-24
 photographer: Viv Thomas
 rating: 9.0
@@ -1869,7 +1869,7 @@ title: Sarah
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/sarah-a/gallery/20050422/SARAH
-cast: Sarah A; https://www.vivthomas.com/model/sarah-a; f
+model: n:Sarah A; id:/model/vivthomas/sarah-a; u:https://www.vivthomas.com/model/sarah-a; g:f
 released: 2005-04-22
 photographer: Viv Thomas
 rating: 9.3
@@ -1883,7 +1883,7 @@ title: Dawn
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/dawn-a/gallery/20050422/DAWN
-cast: Dawn A; https://www.vivthomas.com/model/dawn-a; f
+model: n:Dawn A; id:/model/vivthomas/dawn-a; u:https://www.vivthomas.com/model/dawn-a; g:f
 released: 2005-04-22
 photographer: Viv Thomas
 rating: 9.2
@@ -1897,7 +1897,7 @@ title: Jody
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/jody-a/gallery/20050422/JODY
-cast: Jody A; https://www.vivthomas.com/model/jody-a; f
+model: n:Jody A; id:/model/vivthomas/jody-a; u:https://www.vivthomas.com/model/jody-a; g:f
 released: 2005-04-22
 photographer: Viv Thomas
 rating: 9.3
@@ -1911,7 +1911,7 @@ title: Chloe
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/chloe-a/gallery/20050421/CHLOE
-cast: Chloe A; https://www.vivthomas.com/model/chloe-a; f
+model: n:Chloe A; id:/model/vivthomas/chloe-a; u:https://www.vivthomas.com/model/chloe-a; g:f
 released: 2005-04-21
 photographer: Viv Thomas
 rating: 8.8
@@ -1925,7 +1925,7 @@ title: Cristina
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/cristina-bella/gallery/20050415/CRISTINA
-cast: Cristina Bella; https://www.vivthomas.com/model/cristina-bella; f
+model: n:Cristina Bella; id:/model/vivthomas/cristina-bella; u:https://www.vivthomas.com/model/cristina-bella; g:f
 released: 2005-04-15
 photographer: Viv Thomas
 rating: 9.1
@@ -1939,7 +1939,7 @@ title: Vera
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/vera-a/gallery/20050415/VERA
-cast: Vera A; https://www.vivthomas.com/model/vera-a; f
+model: n:Vera A; id:/model/vivthomas/vera-a; u:https://www.vivthomas.com/model/vera-a; g:f
 released: 2005-04-15
 photographer: Viv Thomas
 rating: 9.7
@@ -1953,7 +1953,7 @@ title: Lea De Mae
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/lea-de-mae/gallery/20050415/LEA_DE_MAE
-cast: Lea De Mae; https://www.vivthomas.com/model/lea-de-mae; f
+model: n:Lea De Mae; id:/model/vivthomas/lea-de-mae; u:https://www.vivthomas.com/model/lea-de-mae; g:f
 released: 2005-04-15
 photographer: Viv Thomas
 rating: 9.3
@@ -1967,7 +1967,7 @@ title: Gaynor
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/gaynor-a/gallery/20050415/GAYNOR
-cast: Gaynor A; https://www.vivthomas.com/model/gaynor-a; f
+model: n:Gaynor A; id:/model/vivthomas/gaynor-a; u:https://www.vivthomas.com/model/gaynor-a; g:f
 released: 2005-04-15
 photographer: Viv Thomas
 rating: 9.3
@@ -1981,7 +1981,7 @@ title: Melanie
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/melanie-a/gallery/20050408/MELANIE
-cast: Melanie A; https://www.vivthomas.com/model/melanie-a; f
+model: n:Melanie A; id:/model/vivthomas/melanie-a; u:https://www.vivthomas.com/model/melanie-a; g:f
 released: 2005-04-08
 photographer: Viv Thomas
 rating: 9.3
@@ -1995,7 +1995,7 @@ title: Monica B
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/monica-b/gallery/20050408/MONICA_B
-cast: Monica B; https://www.vivthomas.com/model/monica-b; f
+model: n:Monica B; id:/model/vivthomas/monica-b; u:https://www.vivthomas.com/model/monica-b; g:f
 released: 2005-04-08
 photographer: Viv Thomas
 rating: 8.7
@@ -2009,7 +2009,7 @@ title: Erica
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/erica-a/gallery/20050408/ERICA
-cast: Erica A; https://www.vivthomas.com/model/erica-a; f
+model: n:Erica A; id:/model/vivthomas/erica-a; u:https://www.vivthomas.com/model/erica-a; g:f
 released: 2005-04-08
 photographer: Viv Thomas
 rating: 9.5
@@ -2023,7 +2023,7 @@ title: Bums & Panties
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/aphrodite-night/gallery/20050401/BUMS_&_PANTIES
-cast: Aphrodite Night; https://www.vivthomas.com/model/aphrodite-night; f
+model: n:Aphrodite Night; id:/model/vivthomas/aphrodite-night; u:https://www.vivthomas.com/model/aphrodite-night; g:f
 released: 2005-04-01
 photographer: Viv Thomas
 rating: 9.0
@@ -2037,7 +2037,7 @@ title: Kali
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/kali-a/gallery/20050401/KALI
-cast: Kali A; https://www.vivthomas.com/model/kali-a; f
+model: n:Kali A; id:/model/vivthomas/kali-a; u:https://www.vivthomas.com/model/kali-a; g:f
 released: 2005-04-01
 photographer: Viv Thomas
 rating: 9.1
@@ -2051,7 +2051,7 @@ title: Nikita
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/nikita-a/gallery/20050325/NIKITA
-cast: Nikita A; https://www.vivthomas.com/model/nikita-a; f
+model: n:Nikita A; id:/model/vivthomas/nikita-a; u:https://www.vivthomas.com/model/nikita-a; g:f
 released: 2005-03-25
 photographer: Viv Thomas
 rating: 9.2
@@ -2065,7 +2065,7 @@ title: Gina B all glammed up
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/gina-b/gallery/20050325/GINA_B_ALL_GLAMMED_UP
-cast: Gina B; https://www.vivthomas.com/model/gina-b; f
+model: n:Gina B; id:/model/vivthomas/gina-b; u:https://www.vivthomas.com/model/gina-b; g:f
 released: 2005-03-25
 photographer: Viv Thomas
 rating: 9.1
@@ -2079,7 +2079,7 @@ title: Vanesa
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/vanesa-a/gallery/20050325/VANESA
-cast: Vanesa A; https://www.vivthomas.com/model/vanesa-a; f
+model: n:Vanesa A; id:/model/vivthomas/vanesa-a; u:https://www.vivthomas.com/model/vanesa-a; g:f
 released: 2005-03-25
 photographer: Viv Thomas
 rating: 9.2
@@ -2093,7 +2093,7 @@ title: Chloe
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/chloe-b/gallery/20050325/CHLOE
-cast: Chloe B; https://www.vivthomas.com/model/chloe-b; f
+model: n:Chloe B; id:/model/vivthomas/chloe-b; u:https://www.vivthomas.com/model/chloe-b; g:f
 released: 2005-03-25
 photographer: Viv Thomas
 rating: 9.2
@@ -2107,7 +2107,7 @@ title: Alexa
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/alexa-a/gallery/20050318/ALEXA
-cast: Alexa A; https://www.vivthomas.com/model/alexa-a; f
+model: n:Alexa A; id:/model/vivthomas/alexa-a; u:https://www.vivthomas.com/model/alexa-a; g:f
 released: 2005-03-18
 photographer: Viv Thomas
 rating: 9.4
@@ -2121,7 +2121,7 @@ title: Michelle
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/michelle-a/gallery/20050318/MICHELLE
-cast: Michelle A; https://www.vivthomas.com/model/michelle-a; f
+model: n:Michelle A; id:/model/vivthomas/michelle-a; u:https://www.vivthomas.com/model/michelle-a; g:f
 released: 2005-03-18
 photographer: Viv Thomas
 rating: 9.3
@@ -2135,9 +2135,9 @@ title: Sandy & Gina B & Stella
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/gina-b-and-stella-stevens-and-sandy-d/gallery/20050318/SANDY_&_GINA_B_&_STELLA
-cast: Gina B; https://www.vivthomas.com/model/gina-b; f
-cast: Stella Stevens; https://www.vivthomas.com/model/stella-stevens; f
-cast: Sandy D; https://www.vivthomas.com/model/sandy-d; f
+model: n:Gina B; id:/model/vivthomas/gina-b; u:https://www.vivthomas.com/model/gina-b; g:f
+model: n:Stella Stevens; id:/model/vivthomas/stella-stevens; u:https://www.vivthomas.com/model/stella-stevens; g:f
+model: n:Sandy D; id:/model/vivthomas/sandy-d; u:https://www.vivthomas.com/model/sandy-d; g:f
 released: 2005-03-18
 photographer: Viv Thomas
 rating: 9.4
@@ -2151,7 +2151,7 @@ title: Yasmine
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/yasmine-gold/gallery/20050311/YASMINE
-cast: Yasmine Gold; https://www.vivthomas.com/model/yasmine-gold; f
+model: n:Yasmine Gold; id:/model/vivthomas/yasmine-gold; u:https://www.vivthomas.com/model/yasmine-gold; g:f
 released: 2005-03-11
 photographer: Viv Thomas
 rating: 9.5
@@ -2165,7 +2165,7 @@ title: Bums & Panties
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/zuzana-drabinova/gallery/20050304/BUMS_&_PANTIES
-cast: Zuzana Drabinova; https://www.vivthomas.com/model/zuzana-drabinova; f
+model: n:Zuzana Drabinova; id:/model/vivthomas/zuzana-drabinova; u:https://www.vivthomas.com/model/zuzana-drabinova; g:f
 released: 2005-03-04
 photographer: Viv Thomas
 rating: 9.6
@@ -2179,10 +2179,10 @@ title: Behind The Scenes
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/sylvia-lauren-and-kylie-a-and-sandra-shine-and-eve-angel/gallery/20050304/BEHIND_THE_SCENES
-cast: Sylvia Lauren; https://www.vivthomas.com/model/sylvia-lauren; f
-cast: Kylie A; https://www.vivthomas.com/model/kylie-a; f
-cast: Sandra Shine; https://www.vivthomas.com/model/sandra-shine; f
-cast: Eve Angel; https://www.vivthomas.com/model/eve-angel; f
+model: n:Sylvia Lauren; id:/model/vivthomas/sylvia-lauren; u:https://www.vivthomas.com/model/sylvia-lauren; g:f
+model: n:Kylie A; id:/model/vivthomas/kylie-a; u:https://www.vivthomas.com/model/kylie-a; g:f
+model: n:Sandra Shine; id:/model/vivthomas/sandra-shine; u:https://www.vivthomas.com/model/sandra-shine; g:f
+model: n:Eve Angel; id:/model/vivthomas/eve-angel; u:https://www.vivthomas.com/model/eve-angel; g:f
 released: 2005-03-04
 photographer: Viv Thomas
 rating: 8.9
@@ -2196,7 +2196,7 @@ title: Lea De Mae
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/lea-de-mae/gallery/20050304/LEA_DE_MAE
-cast: Lea De Mae; https://www.vivthomas.com/model/lea-de-mae; f
+model: n:Lea De Mae; id:/model/vivthomas/lea-de-mae; u:https://www.vivthomas.com/model/lea-de-mae; g:f
 released: 2005-03-04
 photographer: Viv Thomas
 rating: 9.3
@@ -2210,7 +2210,7 @@ title: Monica
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/monica-c/gallery/20050304/MONICA
-cast: Monica C; https://www.vivthomas.com/model/monica-c; f
+model: n:Monica C; id:/model/vivthomas/monica-c; u:https://www.vivthomas.com/model/monica-c; g:f
 released: 2005-03-04
 photographer: Viv Thomas
 rating: 9.7
@@ -2224,7 +2224,7 @@ title: Michelle
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/michelle-a/gallery/20050225/MICHELLE
-cast: Michelle A; https://www.vivthomas.com/model/michelle-a; f
+model: n:Michelle A; id:/model/vivthomas/michelle-a; u:https://www.vivthomas.com/model/michelle-a; g:f
 released: 2005-02-25
 photographer: Viv Thomas
 rating: 9.3
@@ -2238,7 +2238,7 @@ title: Tina
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/tina-b/gallery/20050225/TINA
-cast: Tina B; https://www.vivthomas.com/model/tina-b; f
+model: n:Tina B; id:/model/vivthomas/tina-b; u:https://www.vivthomas.com/model/tina-b; g:f
 released: 2005-02-25
 photographer: Viv Thomas
 rating: 9.0
@@ -2252,7 +2252,7 @@ title: Bums & Panties
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/alexa-a/gallery/20050225/BUMS_&_PANTIES
-cast: Alexa A; https://www.vivthomas.com/model/alexa-a; f
+model: n:Alexa A; id:/model/vivthomas/alexa-a; u:https://www.vivthomas.com/model/alexa-a; g:f
 released: 2005-02-25
 photographer: Viv Thomas
 rating: 9.4
@@ -2266,7 +2266,7 @@ title: Sophie Moone
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/sophie-moon/gallery/20050225/SOPHIE_MOONE
-cast: Sophie Moon; https://www.vivthomas.com/model/sophie-moon; f
+model: n:Sophie Moon; id:/model/vivthomas/sophie-moon; u:https://www.vivthomas.com/model/sophie-moon; g:f
 released: 2005-02-25
 photographer: Viv Thomas
 rating: 9.5
@@ -2280,7 +2280,7 @@ title: Bridgett
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/bridgett-a/gallery/20050218/BRIDGETT
-cast: Bridgett A; https://www.vivthomas.com/model/bridgett-a; f
+model: n:Bridgett A; id:/model/vivthomas/bridgett-a; u:https://www.vivthomas.com/model/bridgett-a; g:f
 released: 2005-02-18
 photographer: Viv Thomas
 rating: 9.5
@@ -2294,7 +2294,7 @@ title: Peaches
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/peaches-a/gallery/20050218/PEACHES
-cast: Peaches A; https://www.vivthomas.com/model/peaches-a; f
+model: n:Peaches A; id:/model/vivthomas/peaches-a; u:https://www.vivthomas.com/model/peaches-a; g:f
 released: 2005-02-18
 photographer: Viv Thomas
 rating: 9.6
@@ -2308,7 +2308,7 @@ title: Sonia
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/sonia-b/gallery/20050218/SONIA
-cast: Sonia B; https://www.vivthomas.com/model/sonia-b; f
+model: n:Sonia B; id:/model/vivthomas/sonia-b; u:https://www.vivthomas.com/model/sonia-b; g:f
 released: 2005-02-18
 photographer: Viv Thomas
 rating: 9.1
@@ -2322,7 +2322,7 @@ title: Erica
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/erica-a/gallery/20050211/ERICA
-cast: Erica A; https://www.vivthomas.com/model/erica-a; f
+model: n:Erica A; id:/model/vivthomas/erica-a; u:https://www.vivthomas.com/model/erica-a; g:f
 released: 2005-02-11
 photographer: Viv Thomas
 rating: 9.5
@@ -2336,7 +2336,7 @@ title: Barbara
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/barbara-a/gallery/20050211/BARBARA
-cast: Barbara A; https://www.vivthomas.com/model/barbara-a; f
+model: n:Barbara A; id:/model/vivthomas/barbara-a; u:https://www.vivthomas.com/model/barbara-a; g:f
 released: 2005-02-11
 photographer: Viv Thomas
 rating: 9.3
@@ -2350,7 +2350,7 @@ title: Christie
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/christie-a/gallery/20050205/CHRISTIE
-cast: Christie A; https://www.vivthomas.com/model/christie-a; f
+model: n:Christie A; id:/model/vivthomas/christie-a; u:https://www.vivthomas.com/model/christie-a; g:f
 released: 2005-02-05
 photographer: Viv Thomas
 rating: 9.0
@@ -2364,7 +2364,7 @@ title: Micheala
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/aneta-keys/gallery/20050205/MICHEALA
-cast: Aneta Keys; https://www.vivthomas.com/model/aneta-keys; f
+model: n:Aneta Keys; id:/model/vivthomas/aneta-keys; u:https://www.vivthomas.com/model/aneta-keys; g:f
 released: 2005-02-05
 photographer: Viv Thomas
 rating: 9.6
@@ -2378,7 +2378,7 @@ title: Stefani
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/stefani-a/gallery/20050205/STEFANI
-cast: Stefani A; https://www.vivthomas.com/model/stefani-a; f
+model: n:Stefani A; id:/model/vivthomas/stefani-a; u:https://www.vivthomas.com/model/stefani-a; g:f
 released: 2005-02-05
 photographer: Viv Thomas
 rating: 9.3
@@ -2392,7 +2392,7 @@ title: Chloe
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/chloe-b/gallery/20050205/CHLOE
-cast: Chloe B; https://www.vivthomas.com/model/chloe-b; f
+model: n:Chloe B; id:/model/vivthomas/chloe-b; u:https://www.vivthomas.com/model/chloe-b; g:f
 released: 2005-02-05
 photographer: Viv Thomas
 rating: 9.1
@@ -2406,7 +2406,7 @@ title: Angelina Crow
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/angelina-crow/gallery/20050128/ANGELINA_CROW
-cast: Angelina Crow; https://www.vivthomas.com/model/angelina-crow; f
+model: n:Angelina Crow; id:/model/vivthomas/angelina-crow; u:https://www.vivthomas.com/model/angelina-crow; g:f
 released: 2005-01-28
 photographer: Viv Thomas
 rating: 9.6
@@ -2420,8 +2420,8 @@ title: Jo & Vera - old days
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/jo-and-vera-a/gallery/20050128/JO_&_VERA_-_OLD_DAYS
-cast: Jo; https://www.vivthomas.com/model/jo; f
-cast: Vera A; https://www.vivthomas.com/model/vera-a; f
+model: n:Jo; id:/model/vivthomas/jo; u:https://www.vivthomas.com/model/jo; g:f
+model: n:Vera A; id:/model/vivthomas/vera-a; u:https://www.vivthomas.com/model/vera-a; g:f
 released: 2005-01-28
 photographer: Viv Thomas
 rating: 9.4
@@ -2435,7 +2435,7 @@ title: Bums & Panties
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/sandra-shine/gallery/20050128/BUMS_&_PANTIES
-cast: Sandra Shine; https://www.vivthomas.com/model/sandra-shine; f
+model: n:Sandra Shine; id:/model/vivthomas/sandra-shine; u:https://www.vivthomas.com/model/sandra-shine; g:f
 released: 2005-01-28
 photographer: Viv Thomas
 rating: 9.4
@@ -2449,7 +2449,7 @@ title: Sophie Moon
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/sophie-moon/gallery/20050126/SOPHIE_MOON
-cast: Sophie Moon; https://www.vivthomas.com/model/sophie-moon; f
+model: n:Sophie Moon; id:/model/vivthomas/sophie-moon; u:https://www.vivthomas.com/model/sophie-moon; g:f
 released: 2005-01-26
 photographer: Viv Thomas
 rating: 9.6
@@ -2463,8 +2463,8 @@ title: Vera & Niky
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/nikky-a-and-vera-a/gallery/20050121/VERA_&_NIKY
-cast: Nikky A; https://www.vivthomas.com/model/nikky-a; f
-cast: Vera A; https://www.vivthomas.com/model/vera-a; f
+model: n:Nikky A; id:/model/vivthomas/nikky-a; u:https://www.vivthomas.com/model/nikky-a; g:f
+model: n:Vera A; id:/model/vivthomas/vera-a; u:https://www.vivthomas.com/model/vera-a; g:f
 released: 2005-01-21
 photographer: Viv Thomas
 rating: 9.2
@@ -2478,7 +2478,7 @@ title: Foot Lovers Close Ups
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/sophie-moon/gallery/20050121/FOOT_LOVERS_CLOSE_UPS
-cast: Sophie Moon; https://www.vivthomas.com/model/sophie-moon; f
+model: n:Sophie Moon; id:/model/vivthomas/sophie-moon; u:https://www.vivthomas.com/model/sophie-moon; g:f
 released: 2005-01-21
 photographer: Viv Thomas
 rating: 9.2
@@ -2492,8 +2492,8 @@ title: Petra & Clark
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/petra-a-and-clark/gallery/20050121/PETRA_&_CLARK
-cast: Petra A; https://www.vivthomas.com/model/petra-a; f
-cast: Clark; https://www.vivthomas.com/model/clark; f
+model: n:Petra A; id:/model/vivthomas/petra-a; u:https://www.vivthomas.com/model/petra-a; g:f
+model: n:Clark; id:/model/vivthomas/clark; u:https://www.vivthomas.com/model/clark; g:f
 released: 2005-01-21
 photographer: Viv Thomas
 rating: 8.9
@@ -2507,8 +2507,8 @@ title: Bums & Panties
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/sandra-shine-and-silvia-saint/gallery/20050121/BUMS_&_PANTIES
-cast: Sandra Shine; https://www.vivthomas.com/model/sandra-shine; f
-cast: Silvia Saint; https://www.vivthomas.com/model/silvia-saint; f
+model: n:Sandra Shine; id:/model/vivthomas/sandra-shine; u:https://www.vivthomas.com/model/sandra-shine; g:f
+model: n:Silvia Saint; id:/model/vivthomas/silvia-saint; u:https://www.vivthomas.com/model/silvia-saint; g:f
 released: 2005-01-21
 photographer: Viv Thomas
 rating: 9.3
@@ -2522,7 +2522,7 @@ title: Nikki Sands
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/nikki-sands/gallery/20050121/NIKKI_SANDS
-cast: Nikki Sands; https://www.vivthomas.com/model/nikki-sands; f
+model: n:Nikki Sands; id:/model/vivthomas/nikki-sands; u:https://www.vivthomas.com/model/nikki-sands; g:f
 released: 2005-01-21
 photographer: Viv Thomas
 rating: 9.2
@@ -2536,8 +2536,8 @@ title: Trinity & Ella
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/trinity-a-and-ella-a/gallery/20050119/TRINITY_&_ELLA
-cast: Trinity A; https://www.vivthomas.com/model/trinity-a; f
-cast: Ella A; https://www.vivthomas.com/model/ella-a; f
+model: n:Trinity A; id:/model/vivthomas/trinity-a; u:https://www.vivthomas.com/model/trinity-a; g:f
+model: n:Ella A; id:/model/vivthomas/ella-a; u:https://www.vivthomas.com/model/ella-a; g:f
 released: 2005-01-19
 photographer: Viv Thomas
 rating: 9.2
@@ -2551,8 +2551,8 @@ title: Loureen & Petra
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/petra-a-and-loureen-a/gallery/20050114/LOUREEN_&_PETRA
-cast: Petra A; https://www.vivthomas.com/model/petra-a; f
-cast: Loureen A; https://www.vivthomas.com/model/loureen-a; f
+model: n:Petra A; id:/model/vivthomas/petra-a; u:https://www.vivthomas.com/model/petra-a; g:f
+model: n:Loureen A; id:/model/vivthomas/loureen-a; u:https://www.vivthomas.com/model/loureen-a; g:f
 released: 2005-01-14
 photographer: Viv Thomas
 rating: 8.9
@@ -2566,7 +2566,7 @@ title: Trinty
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/trinity-a/gallery/20050114/TRINTY
-cast: Trinity A; https://www.vivthomas.com/model/trinity-a; f
+model: n:Trinity A; id:/model/vivthomas/trinity-a; u:https://www.vivthomas.com/model/trinity-a; g:f
 released: 2005-01-14
 photographer: Viv Thomas
 rating: 9.0
@@ -2580,7 +2580,7 @@ title: Taylor
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/taylor-b/gallery/20050114/TAYLOR
-cast: Taylor B; https://www.vivthomas.com/model/taylor-b; f
+model: n:Taylor B; id:/model/vivthomas/taylor-b; u:https://www.vivthomas.com/model/taylor-b; g:f
 released: 2005-01-14
 photographer: Viv Thomas
 rating: 9.1
@@ -2594,7 +2594,7 @@ title: Close Ups
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/sandra-shine/gallery/20050107/CLOSE_UPS
-cast: Sandra Shine; https://www.vivthomas.com/model/sandra-shine; f
+model: n:Sandra Shine; id:/model/vivthomas/sandra-shine; u:https://www.vivthomas.com/model/sandra-shine; g:f
 released: 2005-01-07
 photographer: Viv Thomas
 rating: 9.2
@@ -2608,8 +2608,8 @@ title: Ashley & Jenifer
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/jenifer-a-and-ashley-a/gallery/20050107/ASHLEY_&_JENIFER
-cast: Jenifer A; https://www.vivthomas.com/model/jenifer-a; f
-cast: Ashley A; https://www.vivthomas.com/model/ashley-a; f
+model: n:Jenifer A; id:/model/vivthomas/jenifer-a; u:https://www.vivthomas.com/model/jenifer-a; g:f
+model: n:Ashley A; id:/model/vivthomas/ashley-a; u:https://www.vivthomas.com/model/ashley-a; g:f
 released: 2005-01-07
 photographer: Viv Thomas
 rating: 9.2
@@ -2623,7 +2623,7 @@ title: Storm
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/storm-a/gallery/20050107/STORM
-cast: Storm A; https://www.vivthomas.com/model/storm-a; f
+model: n:Storm A; id:/model/vivthomas/storm-a; u:https://www.vivthomas.com/model/storm-a; g:f
 released: 2005-01-07
 photographer: Viv Thomas
 rating: 9.2
@@ -2637,7 +2637,7 @@ title: Vera
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/vera-a/gallery/20050107/VERA
-cast: Vera A; https://www.vivthomas.com/model/vera-a; f
+model: n:Vera A; id:/model/vivthomas/vera-a; u:https://www.vivthomas.com/model/vera-a; g:f
 released: 2005-01-07
 photographer: Viv Thomas
 rating: 9.3

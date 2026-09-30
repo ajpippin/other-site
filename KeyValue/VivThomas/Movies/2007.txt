@@ -9,8 +9,8 @@ title: Pussy in Paradise #5
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/nadia-a-and-cristina-bella/movie/20071201/PUSSY_IN_PARADISE_PART_5
-cast: Nadia A; https://www.vivthomas.com/model/nadia-a; f
-cast: Cristina Bella; https://www.vivthomas.com/model/cristina-bella; f
+model: n:Nadia A; id:/model/vivthomas/nadia-a; u:https://www.vivthomas.com/model/nadia-a; g:f
+model: n:Cristina Bella; id:/model/vivthomas/cristina-bella; u:https://www.vivthomas.com/model/cristina-bella; g:f
 released: 2007-12-01
 director:   Viv Thomas
 rating: 9.0
@@ -53,10 +53,10 @@ title: Pussy in Paradise #3
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/nadia-a-and-gina-b-and-cristina-bella-and-peaches-a/movie/20071201/PUSSY_IN_PARADISE_PART_3
-cast: Nadia A; https://www.vivthomas.com/model/nadia-a; f
-cast: Gina B; https://www.vivthomas.com/model/gina-b; f
-cast: Cristina Bella; https://www.vivthomas.com/model/cristina-bella; f
-cast: Peaches A; https://www.vivthomas.com/model/peaches-a; f
+model: n:Nadia A; id:/model/vivthomas/nadia-a; u:https://www.vivthomas.com/model/nadia-a; g:f
+model: n:Gina B; id:/model/vivthomas/gina-b; u:https://www.vivthomas.com/model/gina-b; g:f
+model: n:Cristina Bella; id:/model/vivthomas/cristina-bella; u:https://www.vivthomas.com/model/cristina-bella; g:f
+model: n:Peaches A; id:/model/vivthomas/peaches-a; u:https://www.vivthomas.com/model/peaches-a; g:f
 released: 2007-12-01
 director:   Viv Thomas
 rating: 9.1
@@ -85,10 +85,10 @@ title: Pussy in Paradise #4
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/peaches-a-and-gina-b-and-nikki-sands-and-nadia-a/movie/20071201/PUSSY_IN_PARADISE_PART_4
-cast: Peaches A; https://www.vivthomas.com/model/peaches-a; f
-cast: Gina B; https://www.vivthomas.com/model/gina-b; f
-cast: Nikki Sands; https://www.vivthomas.com/model/nikki-sands; f
-cast: Nadia A; https://www.vivthomas.com/model/nadia-a; f
+model: n:Peaches A; id:/model/vivthomas/peaches-a; u:https://www.vivthomas.com/model/peaches-a; g:f
+model: n:Gina B; id:/model/vivthomas/gina-b; u:https://www.vivthomas.com/model/gina-b; g:f
+model: n:Nikki Sands; id:/model/vivthomas/nikki-sands; u:https://www.vivthomas.com/model/nikki-sands; g:f
+model: n:Nadia A; id:/model/vivthomas/nadia-a; u:https://www.vivthomas.com/model/nadia-a; g:f
 released: 2007-12-01
 director:   Viv Thomas
 rating: 9.3
@@ -127,9 +127,9 @@ title: Pussy in Paradise #2
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/nikki-sands-and-peaches-a-and-nadia-a/movie/20071201/PUSSY_IN_PARADISE_PART_2
-cast: Nikki Sands; https://www.vivthomas.com/model/nikki-sands; f
-cast: Peaches A; https://www.vivthomas.com/model/peaches-a; f
-cast: Nadia A; https://www.vivthomas.com/model/nadia-a; f
+model: n:Nikki Sands; id:/model/vivthomas/nikki-sands; u:https://www.vivthomas.com/model/nikki-sands; g:f
+model: n:Peaches A; id:/model/vivthomas/peaches-a; u:https://www.vivthomas.com/model/peaches-a; g:f
+model: n:Nadia A; id:/model/vivthomas/nadia-a; u:https://www.vivthomas.com/model/nadia-a; g:f
 released: 2007-12-01
 director:   Viv Thomas
 rating: 9.2
@@ -175,8 +175,8 @@ title: Pussy in Paradise #1
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/cristina-bella-and-nikki-sands/movie/20071201/PUSSY_IN_PARADISE_PART_1
-cast: Cristina Bella; https://www.vivthomas.com/model/cristina-bella; f
-cast: Nikki Sands; https://www.vivthomas.com/model/nikki-sands; f
+model: n:Cristina Bella; id:/model/vivthomas/cristina-bella; u:https://www.vivthomas.com/model/cristina-bella; g:f
+model: n:Nikki Sands; id:/model/vivthomas/nikki-sands; u:https://www.vivthomas.com/model/nikki-sands; g:f
 released: 2007-12-01
 director:   Viv Thomas
 rating: 9.2

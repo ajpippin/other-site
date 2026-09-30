@@ -8,8 +8,8 @@
 title: Love On My Mind
 type: movie
 site: SexArt
-cast: n:Milena Ray; u:https://www.sexart.com/model/milena-ray
-cast: n:Tommy Gold; u:https://www.sexart.com/model/tommy-gold
+model: n:Milena Ray; id:/model/sexart/milena-ray; u:https://www.sexart.com/model/milena-ray
+model: n:Tommy Gold; id:/model/sexart/tommy-gold; u:https://www.sexart.com/model/tommy-gold
 released: 2023-12-31
 director: Andrej Lupin
 fileprefix: SexArt-20231231-love-on-my-mind-
@@ -66,8 +66,8 @@ tag: striptease
 title: Touch Me
 type: movie
 site: SexArt
-cast: n:Fibi Euro; u:https://www.sexart.com/model/fibi-euro
-cast: n:Ricky; u:https://www.sexart.com/model/ricky
+model: n:Fibi Euro; id:/model/sexart/fibi-euro; u:https://www.sexart.com/model/fibi-euro
+model: n:Ricky; id:/model/sexart/ricky; u:https://www.sexart.com/model/ricky
 released: 2023-12-29
 director: Andrej Lupin
 fileprefix: SexArt-20231229-touch-me-
@@ -125,8 +125,8 @@ tag: striptease
 title: Just A Moment
 type: movie
 site: SexArt
-cast: n:Liam Salvatore; u:https://www.sexart.com/model/liam-salvatore
-cast: n:Olivia Sparkle; u:https://www.sexart.com/model/olivia-sparkle; g:f
+model: n:Liam Salvatore; id:/model/sexart/liam-salvatore; u:https://www.sexart.com/model/liam-salvatore
+model: n:Olivia Sparkle; id:/model/sexart/olivia-sparkle; u:https://www.sexart.com/model/olivia-sparkle; g:f
 released: 2023-12-27
 director: Andrej Lupin
 fileprefix: SexArt-20231227-just-a-moment-
@@ -184,8 +184,8 @@ tag: tattoo
 title: Wedded Bliss
 type: movie
 site: SexArt
-cast: n:Alex Charger; u:https://www.sexart.com/model/alex-charger
-cast: n:Princess Alice; u:https://www.sexart.com/model/princess-alice
+model: n:Alex Charger; id:/model/sexart/alex-charger; u:https://www.sexart.com/model/alex-charger
+model: n:Princess Alice; id:/model/sexart/princess-alice; u:https://www.sexart.com/model/princess-alice
 released: 2023-12-24
 director: Sandra Shine
 fileprefix: SexArt-20231224-wedded-bliss-
@@ -250,8 +250,8 @@ tag: united states
 title: Touching Simplicity
 type: movie
 site: SexArt
-cast: n:Cee Licious; u:https://www.sexart.com/model/cee-licious
-cast: n:Liz Ocean; u:https://www.sexart.com/model/liz-ocean
+model: n:Cee Licious; id:/model/sexart/cee-licious; u:https://www.sexart.com/model/cee-licious
+model: n:Liz Ocean; id:/model/sexart/liz-ocean; u:https://www.sexart.com/model/liz-ocean
 released: 2023-12-22
 director: Andrej Lupin
 fileprefix: SexArt-20231222-touching-simplicity-
@@ -315,8 +315,8 @@ tag: trimmed
 title: Charm
 type: movie
 site: SexArt
-cast: n:Matthew Meier; u:https://www.sexart.com/model/matthew-meier
-cast: n:Lily Blossom; u:https://www.sexart.com/model/lily-blossom
+model: n:Matthew Meier; id:/model/sexart/matthew-meier; u:https://www.sexart.com/model/matthew-meier
+model: n:Lily Blossom; id:/model/sexart/lily-blossom; u:https://www.sexart.com/model/lily-blossom
 released: 2023-12-20
 director: Andrej Lupin
 fileprefix: SexArt-20231220-charm-
@@ -378,8 +378,8 @@ tag: striptease
 title: I Want To Go
 type: movie
 site: SexArt
-cast: n:Zazie Skymm; u:https://www.sexart.com/model/zazie-skymm; g:f
-cast: n:Dave Cle; u:https://www.sexart.com/model/dave-cle
+model: n:Zazie Skymm; id:/model/sexart/zazie-skymm; u:https://www.sexart.com/model/zazie-skymm; g:f
+model: n:Dave Cle; id:/model/sexart/dave-cle; u:https://www.sexart.com/model/dave-cle
 released: 2023-12-17
 director: Andrej Lupin
 fileprefix: SexArt-20231217-i-want-to-go-
@@ -442,8 +442,8 @@ tag: trimmed
 title: Perfect Together
 type: movie
 site: SexArt
-cast: n:Talia Mint; u:https://www.sexart.com/model/talia-mint; s:SexArt
-cast: n:Betzz; u:https://www.sexart.com/model/betzz; g:f
+model: n:Talia Mint; id:/model/sexart/talia-mint; u:https://www.sexart.com/model/talia-mint
+model: n:Betzz; id:/model/sexart/betzz; u:https://www.sexart.com/model/betzz; g:f
 released: 2023-12-15
 director: Andrej Lupin
 fileprefix: SexArt-20231215-perfect-together-
@@ -506,8 +506,8 @@ tag: ukraine
 title: Be More Like You
 type: movie
 site: SexArt
-cast: n:Liam Salvatore; u:https://www.sexart.com/model/liam-salvatore
-cast: n:Mina Moreno; u:https://www.sexart.com/model/mina-moreno
+model: n:Liam Salvatore; id:/model/sexart/liam-salvatore; u:https://www.sexart.com/model/liam-salvatore
+model: n:Mina Moreno; id:/model/sexart/mina-moreno; u:https://www.sexart.com/model/mina-moreno
 released: 2023-12-13
 director: Andrej Lupin
 fileprefix: SexArt-20231213-be-more-like-you-
@@ -572,8 +572,8 @@ tag: tattoo
 title: Mesmerize
 type: movie
 site: SexArt
-cast: n:Alex Romero; u:https://www.sexart.com/model/alex-romero
-cast: n:Simon; u:https://www.sexart.com/model/simon; g:f
+model: n:Alex Romero; id:/model/sexart/alex-romero; u:https://www.sexart.com/model/alex-romero
+model: n:Simon; id:/model/sexart/simon; u:https://www.sexart.com/model/simon; g:f
 released: 2023-12-10
 director: Andrej Lupin
 fileprefix: SexArt-20231210-mesmerize-
@@ -633,8 +633,8 @@ tag: thong
 title: Unforgettable Moments
 type: movie
 site: SexArt
-cast: n:Cee Licious; u:https://www.sexart.com/model/cee-licious
-cast: n:Merida Sat; u:https://www.sexart.com/model/merida-sat
+model: n:Cee Licious; id:/model/sexart/cee-licious; u:https://www.sexart.com/model/cee-licious
+model: n:Merida Sat; id:/model/sexart/merida-sat; u:https://www.sexart.com/model/merida-sat
 released: 2023-12-08
 director: Andrej Lupin
 fileprefix: SexArt-20231208-unforgettable-moments-
@@ -696,8 +696,8 @@ tag: trimmed
 title: Endless Delight
 type: movie
 site: SexArt
-cast: n:Lorenzo Viota; u:https://www.sexart.com/model/lorenzo-viota
-cast: n:Linda Baker; u:https://www.sexart.com/model/linda-baker
+model: n:Lorenzo Viota; id:/model/sexart/lorenzo-viota; u:https://www.sexart.com/model/lorenzo-viota
+model: n:Linda Baker; id:/model/sexart/linda-baker; u:https://www.sexart.com/model/linda-baker
 released: 2023-12-06
 director: Andrej Lupin
 fileprefix: SexArt-20231206-endless-delight-
@@ -768,8 +768,8 @@ tag: vibrator
 title: Message
 type: movie
 site: SexArt
-cast: n:Ariela; u:https://www.sexart.com/model/ariela
-cast: n:Ricky; u:https://www.sexart.com/model/ricky
+model: n:Ariela; id:/model/sexart/ariela; u:https://www.sexart.com/model/ariela
+model: n:Ricky; id:/model/sexart/ricky; u:https://www.sexart.com/model/ricky
 released: 2023-12-03
 director: Andrej Lupin
 fileprefix: SexArt-20231203-message-
@@ -836,8 +836,8 @@ tag: tattoo
 title: Sun Goes Down
 type: movie
 site: SexArt
-cast: n:Sata Jones; u:https://www.sexart.com/model/sata-jones
-cast: n:Fanta Sie; u:https://www.sexart.com/model/fanta-sie
+model: n:Sata Jones; id:/model/sexart/sata-jones; u:https://www.sexart.com/model/sata-jones
+model: n:Fanta Sie; id:/model/sexart/fanta-sie; u:https://www.sexart.com/model/fanta-sie
 released: 2023-12-01
 director: Andrej Lupin
 fileprefix: SexArt-20231201-sun-goes-down-
@@ -897,8 +897,8 @@ tag: trimmed
 title: Right Touch
 type: movie
 site: SexArt
-cast: n:Samantha Cruuz; u:https://www.sexart.com/model/samantha-cruuz
-cast: n:Deny Lou; u:https://www.sexart.com/model/deny-lou
+model: n:Samantha Cruuz; id:/model/sexart/samantha-cruuz; u:https://www.sexart.com/model/samantha-cruuz
+model: n:Deny Lou; id:/model/sexart/deny-lou; u:https://www.sexart.com/model/deny-lou
 released: 2023-11-29
 director: Andrej Lupin
 fileprefix: SexArt-20231129-right-touch-
@@ -952,8 +952,8 @@ tag: spread legs
 title: Her Pleasure
 type: movie
 site: SexArt
-cast: n:Lexi Dona; u:https://www.sexart.com/model/lexi-dona
-cast: n:Nick Ross; u:https://www.sexart.com/model/nick-ross
+model: n:Lexi Dona; id:/model/sexart/lexi-dona; u:https://www.sexart.com/model/lexi-dona
+model: n:Nick Ross; id:/model/sexart/nick-ross; u:https://www.sexart.com/model/nick-ross
 released: 2023-11-26
 director: Andrej Lupin
 fileprefix: SexArt-20231126-her-pleasure-
@@ -1017,8 +1017,8 @@ tag: tattoo
 title: Love Balance
 type: movie
 site: SexArt
-cast: n:Jadilica; u:https://www.sexart.com/model/jadilica; g:f
-cast: n:Una Fairy; u:https://www.sexart.com/model/una-fairy
+model: n:Jadilica; id:/model/sexart/jadilica; u:https://www.sexart.com/model/jadilica; g:f
+model: n:Una Fairy; id:/model/sexart/una-fairy; u:https://www.sexart.com/model/una-fairy
 released: 2023-11-24
 director: Andrej Lupin
 fileprefix: SexArt-20231124-love-balance-
@@ -1074,8 +1074,8 @@ tag: tribbing
 title: Feel That Feeling
 type: movie
 site: SexArt
-cast: n:Ricky; u:https://www.sexart.com/model/ricky
-cast: n:Claire Roos; u:https://www.sexart.com/model/claire-roos
+model: n:Ricky; id:/model/sexart/ricky; u:https://www.sexart.com/model/ricky
+model: n:Claire Roos; id:/model/sexart/claire-roos; u:https://www.sexart.com/model/claire-roos
 released: 2023-11-22
 director: Andrej Lupin
 fileprefix: SexArt-20231122-feel-that-feeling-
@@ -1130,8 +1130,8 @@ tag: united states
 title: A Better Day
 type: movie
 site: SexArt
-cast: n:Eveline Dellai; u:https://www.sexart.com/model/eveline-dellai; s:SexArt
-cast: n:Charlie Dean; u:https://www.sexart.com/model/charlie-dean
+model: n:Eveline Dellai; id:/model/sexart/eveline-dellai; u:https://www.sexart.com/model/eveline-dellai
+model: n:Charlie Dean; id:/model/sexart/charlie-dean; u:https://www.sexart.com/model/charlie-dean
 released: 2023-11-19
 director: Andrej Lupin
 fileprefix: SexArt-20231119-a-better-day-
@@ -1194,8 +1194,8 @@ tag: thong
 title: Would You Like
 type: movie
 site: SexArt
-cast: n:Fibi Euro; u:https://www.sexart.com/model/fibi-euro
-cast: n:Massy Sweet; u:https://www.sexart.com/model/massy-sweet
+model: n:Fibi Euro; id:/model/sexart/fibi-euro; u:https://www.sexart.com/model/fibi-euro
+model: n:Massy Sweet; id:/model/sexart/massy-sweet; u:https://www.sexart.com/model/massy-sweet
 released: 2023-11-17
 director: Andrej Lupin
 fileprefix: SexArt-20231117-would-you-like-
@@ -1262,8 +1262,8 @@ tag: tribbing
 title: In Your Blue Eyes
 type: movie
 site: SexArt
-cast: n:Lee Anne; u:https://www.sexart.com/model/lee-anne; g:f
-cast: n:Jimmy Bud; u:https://www.sexart.com/model/jimmy-bud
+model: n:Lee Anne; id:/model/sexart/lee-anne; u:https://www.sexart.com/model/lee-anne; g:f
+model: n:Jimmy Bud; id:/model/sexart/jimmy-bud; u:https://www.sexart.com/model/jimmy-bud
 released: 2023-11-15
 director: Andrej Lupin
 fileprefix: SexArt-20231115-in-your-blue-eyes-
@@ -1324,8 +1324,8 @@ tag: trimmed
 title: I Need You
 type: movie
 site: SexArt
-cast: n:Liz Ocean; u:https://www.sexart.com/model/liz-ocean
-cast: n:Deny Lou; u:https://www.sexart.com/model/deny-lou
+model: n:Liz Ocean; id:/model/sexart/liz-ocean; u:https://www.sexart.com/model/liz-ocean
+model: n:Deny Lou; id:/model/sexart/deny-lou; u:https://www.sexart.com/model/deny-lou
 released: 2023-11-12
 director: Andrej Lupin
 fileprefix: SexArt-20231112-i-need-you-
@@ -1384,8 +1384,8 @@ tag: tattoo
 title: Quiet Joy
 type: movie
 site: SexArt
-cast: n:Angelika Grays; u:https://www.sexart.com/model/angelika-grays
-cast: n:May Thai; u:https://www.sexart.com/model/may-thai
+model: n:Angelika Grays; id:/model/sexart/angelika-grays; u:https://www.sexart.com/model/angelika-grays
+model: n:May Thai; id:/model/sexart/may-thai; u:https://www.sexart.com/model/may-thai
 released: 2023-11-10
 director: Andrej Lupin
 fileprefix: SexArt-20231110-quiet-joy-
@@ -1445,8 +1445,8 @@ tag: thailand
 title: Gentleness
 type: movie
 site: SexArt
-cast: n:Liam Salvatore; u:https://www.sexart.com/model/liam-salvatore
-cast: n:Subil A; u:https://www.sexart.com/model/subil-a; s:SexArt
+model: n:Liam Salvatore; id:/model/sexart/liam-salvatore; u:https://www.sexart.com/model/liam-salvatore
+model: n:Subil A; id:/model/sexart/subil-a; u:https://www.sexart.com/model/subil-a
 released: 2023-11-08
 director: Andrej Lupin
 fileprefix: SexArt-20231108-gentleness-
@@ -1507,8 +1507,8 @@ tag: thigh high stockings
 title: Pulsation
 type: movie
 site: SexArt
-cast: n:Jimmy Bud; u:https://www.sexart.com/model/jimmy-bud
-cast: n:Alexis Crystal; u:https://www.sexart.com/model/alexis-crystal; s:SexArt
+model: n:Jimmy Bud; id:/model/sexart/jimmy-bud; u:https://www.sexart.com/model/jimmy-bud
+model: n:Alexis Crystal; id:/model/sexart/alexis-crystal; u:https://www.sexart.com/model/alexis-crystal
 released: 2023-11-05
 director: Andrej Lupin
 fileprefix: SexArt-20231105-pulsation-
@@ -1565,8 +1565,8 @@ tag: trimmed
 title: Close To My Heart
 type: movie
 site: SexArt
-cast: n:Lumi Ray; u:https://www.sexart.com/model/lumi-ray
-cast: n:Alice Hernez; u:https://www.sexart.com/model/alice-hernez
+model: n:Lumi Ray; id:/model/sexart/lumi-ray; u:https://www.sexart.com/model/lumi-ray
+model: n:Alice Hernez; id:/model/sexart/alice-hernez; u:https://www.sexart.com/model/alice-hernez
 released: 2023-11-03
 director: Andrej Lupin
 fileprefix: SexArt-20231103-close-to-my-heart-
@@ -1625,8 +1625,8 @@ tag: united states
 title: Delicate
 type: movie
 site: SexArt
-cast: n:Blu Chanelle; u:https://www.sexart.com/model/blu-chanelle
-cast: n:Lorenzo Viota; u:https://www.sexart.com/model/lorenzo-viota
+model: n:Blu Chanelle; id:/model/sexart/blu-chanelle; u:https://www.sexart.com/model/blu-chanelle
+model: n:Lorenzo Viota; id:/model/sexart/lorenzo-viota; u:https://www.sexart.com/model/lorenzo-viota
 released: 2023-11-01
 director: Andrej Lupin
 fileprefix: SexArt-20231101-delicate-
@@ -1693,8 +1693,8 @@ tag: venezuela
 title: Urbex
 type: movie
 site: SexArt
-cast: n:Stacy Cruz; u:https://www.sexart.com/model/stacy-cruz; g:f
-cast: n:Ricky; u:https://www.sexart.com/model/ricky
+model: n:Stacy Cruz; id:/model/sexart/stacy-cruz; u:https://www.sexart.com/model/stacy-cruz; g:f
+model: n:Ricky; id:/model/sexart/ricky; u:https://www.sexart.com/model/ricky
 released: 2023-10-29
 director: Andrej Lupin
 fileprefix: SexArt-20231029-urbex-
@@ -1753,8 +1753,8 @@ tag: upskirt
 title: Wanting You
 type: movie
 site: SexArt
-cast: n:Zazie Skymm; u:https://www.sexart.com/model/zazie-skymm; g:f
-cast: n:Sata Jones; u:https://www.sexart.com/model/sata-jones
+model: n:Zazie Skymm; id:/model/sexart/zazie-skymm; u:https://www.sexart.com/model/zazie-skymm; g:f
+model: n:Sata Jones; id:/model/sexart/sata-jones; u:https://www.sexart.com/model/sata-jones
 released: 2023-10-27
 director: Andrej Lupin
 fileprefix: SexArt-20231027-wanting-you-
@@ -1826,8 +1826,8 @@ tag: trimmed
 title: Essence Of Sensuality
 type: movie
 site: SexArt
-cast: n:Simon; u:https://www.sexart.com/model/simon; g:f
-cast: n:Liam Salvatore; u:https://www.sexart.com/model/liam-salvatore
+model: n:Simon; id:/model/sexart/simon; u:https://www.sexart.com/model/simon; g:f
+model: n:Liam Salvatore; id:/model/sexart/liam-salvatore; u:https://www.sexart.com/model/liam-salvatore
 released: 2023-10-25
 director: Andrej Lupin
 fileprefix: SexArt-20231025-essence-of-sensuality-
@@ -1893,8 +1893,8 @@ tag: tattoo
 title: Eternity
 type: movie
 site: SexArt
-cast: n:Charlie Dean; u:https://www.sexart.com/model/charlie-dean
-cast: n:Mini Vamp; u:https://www.sexart.com/model/mini-vamp
+model: n:Charlie Dean; id:/model/sexart/charlie-dean; u:https://www.sexart.com/model/charlie-dean
+model: n:Mini Vamp; id:/model/sexart/mini-vamp; u:https://www.sexart.com/model/mini-vamp
 released: 2023-10-22
 director: Andrej Lupin
 fileprefix: SexArt-20231022-eternity-
@@ -1954,8 +1954,8 @@ tag: striptease
 title: Save This Moment
 type: movie
 site: SexArt
-cast: n:Betzz; u:https://www.sexart.com/model/betzz; g:f
-cast: n:Olivia Sparkle; u:https://www.sexart.com/model/olivia-sparkle; g:f
+model: n:Betzz; id:/model/sexart/betzz; u:https://www.sexart.com/model/betzz; g:f
+model: n:Olivia Sparkle; id:/model/sexart/olivia-sparkle; u:https://www.sexart.com/model/olivia-sparkle; g:f
 released: 2023-10-20
 director: Andrej Lupin
 fileprefix: SexArt-20231020-save-this-moment-
@@ -2019,8 +2019,8 @@ tag: tribbing
 title: Now Is Time
 type: movie
 site: SexArt
-cast: n:Lorenzo Viota; u:https://www.sexart.com/model/lorenzo-viota
-cast: n:Cie Luciani; u:https://www.sexart.com/model/cie-luciani
+model: n:Lorenzo Viota; id:/model/sexart/lorenzo-viota; u:https://www.sexart.com/model/lorenzo-viota
+model: n:Cie Luciani; id:/model/sexart/cie-luciani; u:https://www.sexart.com/model/cie-luciani
 released: 2023-10-18
 director: Andrej Lupin
 fileprefix: SexArt-20231018-now-is-time-
@@ -2079,8 +2079,8 @@ tag: table
 title: Impatient
 type: movie
 site: SexArt
-cast: n:Lexi Dona; u:https://www.sexart.com/model/lexi-dona
-cast: n:Liam Salvatore; u:https://www.sexart.com/model/liam-salvatore
+model: n:Lexi Dona; id:/model/sexart/lexi-dona; u:https://www.sexart.com/model/lexi-dona
+model: n:Liam Salvatore; id:/model/sexart/liam-salvatore; u:https://www.sexart.com/model/liam-salvatore
 released: 2023-10-15
 director: Andrej Lupin
 fileprefix: SexArt-20231015-impatient-
@@ -2147,8 +2147,8 @@ tag: up-do
 title: Over Now
 type: movie
 site: SexArt
-cast: n:Mina Moreno; u:https://www.sexart.com/model/mina-moreno
-cast: n:Jessy Jey; u:https://www.sexart.com/model/jessy-jey
+model: n:Mina Moreno; id:/model/sexart/mina-moreno; u:https://www.sexart.com/model/mina-moreno
+model: n:Jessy Jey; id:/model/sexart/jessy-jey; u:https://www.sexart.com/model/jessy-jey
 released: 2023-10-13
 director: Andrej Lupin
 fileprefix: SexArt-20231013-over-now-
@@ -2216,8 +2216,8 @@ tag: trimmed
 title: Look Into My Eyes
 type: movie
 site: SexArt
-cast: n:Deny Lou; u:https://www.sexart.com/model/deny-lou
-cast: n:Kira Queen; u:https://www.sexart.com/model/kira-queen
+model: n:Deny Lou; id:/model/sexart/deny-lou; u:https://www.sexart.com/model/deny-lou
+model: n:Kira Queen; id:/model/sexart/kira-queen; u:https://www.sexart.com/model/kira-queen
 released: 2023-10-11
 director: Andrej Lupin
 fileprefix: SexArt-20231011-look-into-my-eyes-
@@ -2279,8 +2279,8 @@ tag: striptease
 title: Taste Me
 type: movie
 site: SexArt
-cast: n:Cherry Candle; u:https://www.sexart.com/model/cherry-candle
-cast: n:Charlie Dean; u:https://www.sexart.com/model/charlie-dean
+model: n:Cherry Candle; id:/model/sexart/cherry-candle; u:https://www.sexart.com/model/cherry-candle
+model: n:Charlie Dean; id:/model/sexart/charlie-dean; u:https://www.sexart.com/model/charlie-dean
 released: 2023-10-08
 director: Andrej Lupin
 fileprefix: SexArt-20231008-taste-me-
@@ -2338,8 +2338,8 @@ tag: tattoo
 title: Run To You
 type: movie
 site: SexArt
-cast: n:Lady Gang; u:https://www.sexart.com/model/lady-gang
-cast: n:Fanta Sie; u:https://www.sexart.com/model/fanta-sie
+model: n:Lady Gang; id:/model/sexart/lady-gang; u:https://www.sexart.com/model/lady-gang
+model: n:Fanta Sie; id:/model/sexart/fanta-sie; u:https://www.sexart.com/model/fanta-sie
 released: 2023-10-06
 director: Andrej Lupin
 fileprefix: SexArt-20231006-run-to-you-
@@ -2406,8 +2406,8 @@ tag: tube top
 title: Take My Love
 type: movie
 site: SexArt
-cast: n:Tommy Gold; u:https://www.sexart.com/model/tommy-gold
-cast: n:Mia Split; u:https://www.sexart.com/model/mia-split
+model: n:Tommy Gold; id:/model/sexart/tommy-gold; u:https://www.sexart.com/model/tommy-gold
+model: n:Mia Split; id:/model/sexart/mia-split; u:https://www.sexart.com/model/mia-split
 released: 2023-10-04
 director: Andrej Lupin
 fileprefix: SexArt-20231004-take-my-love-
@@ -2462,8 +2462,8 @@ tag: striptease
 title: I'm Bored
 type: movie
 site: SexArt
-cast: n:Sralyd; u:https://www.sexart.com/model/sralyd
-cast: n:Tommy Cabrio; u:https://www.sexart.com/model/tommy-cabrio
+model: n:Sralyd; id:/model/sexart/sralyd; u:https://www.sexart.com/model/sralyd
+model: n:Tommy Cabrio; id:/model/sexart/tommy-cabrio; u:https://www.sexart.com/model/tommy-cabrio
 released: 2023-10-01
 director: Andrej Lupin
 fileprefix: SexArt-20231001-i-m-bored-
@@ -2516,8 +2516,8 @@ tag: wet pussy
 title: I'm Waiting For You
 type: movie
 site: SexArt
-cast: n:Lee Anne; u:https://www.sexart.com/model/lee-anne; g:f
-cast: n:Noa Tevez; u:https://www.sexart.com/model/noa-tevez; g:f
+model: n:Lee Anne; id:/model/sexart/lee-anne; u:https://www.sexart.com/model/lee-anne; g:f
+model: n:Noa Tevez; id:/model/sexart/noa-tevez; u:https://www.sexart.com/model/noa-tevez; g:f
 released: 2023-09-29
 director: Andrej Lupin
 fileprefix: SexArt-20230929-i-m-waiting-for-you-
@@ -2591,8 +2591,8 @@ tag: tribbing
 title: Vibe
 type: movie
 site: SexArt
-cast: n:Betzz; u:https://www.sexart.com/model/betzz; g:f
-cast: n:Nick Ross; u:https://www.sexart.com/model/nick-ross
+model: n:Betzz; id:/model/sexart/betzz; u:https://www.sexart.com/model/betzz; g:f
+model: n:Nick Ross; id:/model/sexart/nick-ross; u:https://www.sexart.com/model/nick-ross
 released: 2023-09-27
 director: Andrej Lupin
 fileprefix: SexArt-20230927-vibe-
@@ -2653,8 +2653,8 @@ tag: up-do
 title: Again And Again
 type: movie
 site: SexArt
-cast: n:Liam Salvatore; u:https://www.sexart.com/model/liam-salvatore
-cast: n:Rebecca Black; u:https://www.sexart.com/model/rebecca-black
+model: n:Liam Salvatore; id:/model/sexart/liam-salvatore; u:https://www.sexart.com/model/liam-salvatore
+model: n:Rebecca Black; id:/model/sexart/rebecca-black; u:https://www.sexart.com/model/rebecca-black
 released: 2023-09-24
 director: Andrej Lupin
 fileprefix: SexArt-20230924-again-and-again-
@@ -2716,8 +2716,8 @@ tag: trimmed
 title: Fall In Love
 type: movie
 site: SexArt
-cast: n:Alexis Crystal; u:https://www.sexart.com/model/alexis-crystal; s:SexArt
-cast: n:Mini Vamp; u:https://www.sexart.com/model/mini-vamp
+model: n:Alexis Crystal; id:/model/sexart/alexis-crystal; u:https://www.sexart.com/model/alexis-crystal
+model: n:Mini Vamp; id:/model/sexart/mini-vamp; u:https://www.sexart.com/model/mini-vamp
 released: 2023-09-22
 director: Andrej Lupin
 fileprefix: SexArt-20230922-fall-in-love-
@@ -2784,8 +2784,8 @@ tag: trimmed
 title: Nymph
 type: movie
 site: SexArt
-cast: n:Isabela De Laa; u:https://www.sexart.com/model/isabela-de-laa; g:f
-cast: n:Ricky; u:https://www.sexart.com/model/ricky
+model: n:Isabela De Laa; id:/model/sexart/isabela-de-laa; u:https://www.sexart.com/model/isabela-de-laa; g:f
+model: n:Ricky; id:/model/sexart/ricky; u:https://www.sexart.com/model/ricky
 released: 2023-09-20
 director: Andrej Lupin
 fileprefix: SexArt-20230920-nymph-
@@ -2839,8 +2839,8 @@ tag: spread legs
 title: Just Watch
 type: movie
 site: SexArt
-cast: n:Lisa Belys; u:https://www.sexart.com/model/lisa-belys
-cast: n:Tommy Gold; u:https://www.sexart.com/model/tommy-gold
+model: n:Lisa Belys; id:/model/sexart/lisa-belys; u:https://www.sexart.com/model/lisa-belys
+model: n:Tommy Gold; id:/model/sexart/tommy-gold; u:https://www.sexart.com/model/tommy-gold
 released: 2023-09-17
 director: Andrej Lupin
 fileprefix: SexArt-20230917-just-watch-
@@ -2902,8 +2902,8 @@ tag: striptease
 title: Polarize
 type: movie
 site: SexArt
-cast: n:Jimmy Bud; u:https://www.sexart.com/model/jimmy-bud
-cast: n:Noa Tevez; u:https://www.sexart.com/model/noa-tevez; g:f
+model: n:Jimmy Bud; id:/model/sexart/jimmy-bud; u:https://www.sexart.com/model/jimmy-bud
+model: n:Noa Tevez; id:/model/sexart/noa-tevez; u:https://www.sexart.com/model/noa-tevez; g:f
 released: 2023-09-15
 director: Andrej Lupin
 fileprefix: SexArt-20230915-polarize-
@@ -2968,8 +2968,8 @@ tag: trimmed
 title: Seasons Episode 3 - Summer
 type: movie
 site: SexArt
-cast: n:Lovita Fate; u:https://www.sexart.com/model/lovita-fate; g:f
-cast: n:Ricky; u:https://www.sexart.com/model/ricky
+model: n:Lovita Fate; id:/model/sexart/lovita-fate; u:https://www.sexart.com/model/lovita-fate; g:f
+model: n:Ricky; id:/model/sexart/ricky; u:https://www.sexart.com/model/ricky
 released: 2023-09-13
 director: Andrej Lupin
 fileprefix: SexArt-20230913-seasons-episode-3---summer-
@@ -3025,8 +3025,8 @@ tag: straight hair
 title: Moving Up
 type: movie
 site: SexArt
-cast: n:Liam Salvatore; u:https://www.sexart.com/model/liam-salvatore
-cast: n:Barbie Rous; u:https://www.sexart.com/model/barbie-rous
+model: n:Liam Salvatore; id:/model/sexart/liam-salvatore; u:https://www.sexart.com/model/liam-salvatore
+model: n:Barbie Rous; id:/model/sexart/barbie-rous; u:https://www.sexart.com/model/barbie-rous
 released: 2023-09-10
 director: Andrej Lupin
 fileprefix: SexArt-20230910-moving-up-
@@ -3084,8 +3084,8 @@ tag: tshirt
 title: I Feel It
 type: movie
 site: SexArt
-cast: n:Stacy Cruz; u:https://www.sexart.com/model/stacy-cruz; g:f
-cast: n:Kama Oxi; u:https://www.sexart.com/model/kama-oxi; g:f
+model: n:Stacy Cruz; id:/model/sexart/stacy-cruz; u:https://www.sexart.com/model/stacy-cruz; g:f
+model: n:Kama Oxi; id:/model/sexart/kama-oxi; u:https://www.sexart.com/model/kama-oxi; g:f
 released: 2023-09-08
 director: Andrej Lupin
 fileprefix: SexArt-20230908-i-feel-it-
@@ -3146,8 +3146,8 @@ tag: ukraine
 title: Good Thing Going On
 type: movie
 site: SexArt
-cast: n:Deny Lou; u:https://www.sexart.com/model/deny-lou
-cast: n:Viks Angel; u:https://www.sexart.com/model/viks-angel
+model: n:Deny Lou; id:/model/sexart/deny-lou; u:https://www.sexart.com/model/deny-lou
+model: n:Viks Angel; id:/model/sexart/viks-angel; u:https://www.sexart.com/model/viks-angel
 released: 2023-09-06
 director: Andrej Lupin
 fileprefix: SexArt-20230906-good-thing-going-on-
@@ -3204,8 +3204,8 @@ tag: ukraine
 title: Tied Up
 type: movie
 site: SexArt
-cast: n:Gina Snow; u:https://www.sexart.com/model/gina-snow; g:f
-cast: n:Deny Lou; u:https://www.sexart.com/model/deny-lou
+model: n:Gina Snow; id:/model/sexart/gina-snow; u:https://www.sexart.com/model/gina-snow; g:f
+model: n:Deny Lou; id:/model/sexart/deny-lou; u:https://www.sexart.com/model/deny-lou
 released: 2023-09-03
 director: Andrej Lupin
 fileprefix: SexArt-20230903-tied-up-
@@ -3257,8 +3257,8 @@ tag: thigh high stockings
 title: Love Me Sweet
 type: movie
 site: SexArt
-cast: n:Amelia Riven; u:https://www.sexart.com/model/amelia-riven
-cast: n:Kelly Collins; u:https://www.sexart.com/model/kelly-collins; g:f
+model: n:Amelia Riven; id:/model/sexart/amelia-riven; u:https://www.sexart.com/model/amelia-riven
+model: n:Kelly Collins; id:/model/sexart/kelly-collins; u:https://www.sexart.com/model/kelly-collins; g:f
 released: 2023-09-01
 director: Andrej Lupin
 fileprefix: SexArt-20230901-love-me-sweet-
@@ -3322,8 +3322,8 @@ tag: trimmed
 title: I Need Your Attention
 type: movie
 site: SexArt
-cast: n:Molly Devon; u:https://www.sexart.com/model/molly-devon; g:f
-cast: n:Matthew Meier; u:https://www.sexart.com/model/matthew-meier
+model: n:Molly Devon; id:/model/sexart/molly-devon; u:https://www.sexart.com/model/molly-devon; g:f
+model: n:Matthew Meier; id:/model/sexart/matthew-meier; u:https://www.sexart.com/model/matthew-meier
 released: 2023-08-30
 director: Andrej Lupin
 fileprefix: SexArt-20230830-i-need-your-attention-
@@ -3386,8 +3386,8 @@ tag: wet pussy
 title: Sweet Celebration
 type: movie
 site: SexArt
-cast: n:Mirka; u:https://www.sexart.com/model/mirka; g:f
-cast: n:Justin; u:https://www.sexart.com/model/justin; g:f
+model: n:Mirka; id:/model/sexart/mirka; u:https://www.sexart.com/model/mirka; g:f
+model: n:Justin; id:/model/sexart/justin; u:https://www.sexart.com/model/justin; g:f
 released: 2023-08-27
 director: Tora Ness
 fileprefix: SexArt-20230827-sweet-celebration-
@@ -3439,8 +3439,8 @@ tag: spread legs
 title: Beyond You And Me
 type: movie
 site: SexArt
-cast: n:Antonia Sainz; u:https://www.sexart.com/model/antonia-sainz
-cast: n:Patricia Lee; u:https://www.sexart.com/model/patricia-lee
+model: n:Antonia Sainz; id:/model/sexart/antonia-sainz; u:https://www.sexart.com/model/antonia-sainz
+model: n:Patricia Lee; id:/model/sexart/patricia-lee; u:https://www.sexart.com/model/patricia-lee
 released: 2023-08-25
 director: Andrej Lupin
 fileprefix: SexArt-20230825-beyond-you-and-me-
@@ -3499,8 +3499,8 @@ tag: trimmed
 title: Look Up
 type: movie
 site: SexArt
-cast: n:Mina Moreno; u:https://www.sexart.com/model/mina-moreno
-cast: n:Tommy Cabrio; u:https://www.sexart.com/model/tommy-cabrio
+model: n:Mina Moreno; id:/model/sexart/mina-moreno; u:https://www.sexart.com/model/mina-moreno
+model: n:Tommy Cabrio; id:/model/sexart/tommy-cabrio; u:https://www.sexart.com/model/tommy-cabrio
 released: 2023-08-23
 director: Andrej Lupin
 fileprefix: SexArt-20230823-look-up-
@@ -3529,8 +3529,8 @@ tag: spain
 title: Tender Awakening
 type: movie
 site: SexArt
-cast: n:Jimmy Bud; u:https://www.sexart.com/model/jimmy-bud
-cast: n:Cherry Candle; u:https://www.sexart.com/model/cherry-candle
+model: n:Jimmy Bud; id:/model/sexart/jimmy-bud; u:https://www.sexart.com/model/jimmy-bud
+model: n:Cherry Candle; id:/model/sexart/cherry-candle; u:https://www.sexart.com/model/cherry-candle
 released: 2023-08-20
 director: Andrej Lupin
 fileprefix: SexArt-20230820-tender-awakening-
@@ -3590,8 +3590,8 @@ tag: tattoo
 title: Perfect Ending
 type: movie
 site: SexArt
-cast: n:Kama Oxi; u:https://www.sexart.com/model/kama-oxi; g:f
-cast: n:Sky Pierce; u:https://www.sexart.com/model/sky-pierce
+model: n:Kama Oxi; id:/model/sexart/kama-oxi; u:https://www.sexart.com/model/kama-oxi; g:f
+model: n:Sky Pierce; id:/model/sexart/sky-pierce; u:https://www.sexart.com/model/sky-pierce
 released: 2023-08-18
 director: Sandra Shine
 fileprefix: SexArt-20230818-perfect-ending-
@@ -3672,8 +3672,8 @@ tag: ukraine
 title: In Your Heart
 type: movie
 site: SexArt
-cast: n:Deny Lou; u:https://www.sexart.com/model/deny-lou
-cast: n:Lilith; u:https://www.sexart.com/model/lilith
+model: n:Deny Lou; id:/model/sexart/deny-lou; u:https://www.sexart.com/model/deny-lou
+model: n:Lilith; id:/model/sexart/lilith; u:https://www.sexart.com/model/lilith
 released: 2023-08-16
 director: Andrej Lupin
 fileprefix: SexArt-20230816-in-your-heart-
@@ -3730,9 +3730,9 @@ tag: striptease
 title: A Teachable Moment
 type: movie
 site: SexArt
-cast: n:Barbie Rous; u:https://www.sexart.com/model/barbie-rous
-cast: n:Alex Charger; u:https://www.sexart.com/model/alex-charger
-cast: n:Amalia Davis; u:https://www.sexart.com/model/amalia-davis; g:f
+model: n:Barbie Rous; id:/model/sexart/barbie-rous; u:https://www.sexart.com/model/barbie-rous
+model: n:Alex Charger; id:/model/sexart/alex-charger; u:https://www.sexart.com/model/alex-charger
+model: n:Amalia Davis; id:/model/sexart/amalia-davis; u:https://www.sexart.com/model/amalia-davis; g:f
 released: 2023-08-13
 director: Sandra Shine
 fileprefix: SexArt-20230813-a-teachable-moment-
@@ -3818,8 +3818,8 @@ tag: united states
 title: I Feel You
 type: movie
 site: SexArt
-cast: n:Rebecca Volpetti; u:https://www.sexart.com/model/rebecca-volpetti; g:f
-cast: n:Gina Snow; u:https://www.sexart.com/model/gina-snow; g:f
+model: n:Rebecca Volpetti; id:/model/sexart/rebecca-volpetti; u:https://www.sexart.com/model/rebecca-volpetti; g:f
+model: n:Gina Snow; id:/model/sexart/gina-snow; u:https://www.sexart.com/model/gina-snow; g:f
 released: 2023-08-11
 director: Andrej Lupin
 fileprefix: SexArt-20230811-i-feel-you-
@@ -3878,8 +3878,8 @@ tag: tribbing
 title: Orange & Blue
 type: movie
 site: SexArt
-cast: n:Mini Vamp; u:https://www.sexart.com/model/mini-vamp
-cast: n:Jimmy Bud; u:https://www.sexart.com/model/jimmy-bud
+model: n:Mini Vamp; id:/model/sexart/mini-vamp; u:https://www.sexart.com/model/mini-vamp
+model: n:Jimmy Bud; id:/model/sexart/jimmy-bud; u:https://www.sexart.com/model/jimmy-bud
 released: 2023-08-09
 director: Andrej Lupin
 fileprefix: SexArt-20230809-orange-and-blue-
@@ -3935,8 +3935,8 @@ tag: striptease
 title: Hot Morning
 type: movie
 site: SexArt
-cast: n:Tommy Cabrio; u:https://www.sexart.com/model/tommy-cabrio
-cast: n:Jessy Jey; u:https://www.sexart.com/model/jessy-jey
+model: n:Tommy Cabrio; id:/model/sexart/tommy-cabrio; u:https://www.sexart.com/model/tommy-cabrio
+model: n:Jessy Jey; id:/model/sexart/jessy-jey; u:https://www.sexart.com/model/jessy-jey
 released: 2023-08-06
 director: Andrej Lupin
 fileprefix: SexArt-20230806-hot-morning-
@@ -3997,8 +3997,8 @@ tag: upskirt
 title: Rising Passion
 type: movie
 site: SexArt
-cast: n:Kelly Collins; u:https://www.sexart.com/model/kelly-collins; g:f
-cast: n:Milena Ray; u:https://www.sexart.com/model/milena-ray
+model: n:Kelly Collins; id:/model/sexart/kelly-collins; u:https://www.sexart.com/model/kelly-collins; g:f
+model: n:Milena Ray; id:/model/sexart/milena-ray; u:https://www.sexart.com/model/milena-ray
 released: 2023-08-04
 director: Andrej Lupin
 fileprefix: SexArt-20230804-rising-passion-
@@ -4063,8 +4063,8 @@ tag: trimmed
 title: Need A Little Love
 type: movie
 site: SexArt
-cast: n:Lee Anne; u:https://www.sexart.com/model/lee-anne; g:f
-cast: n:Charlie Dean; u:https://www.sexart.com/model/charlie-dean
+model: n:Lee Anne; id:/model/sexart/lee-anne; u:https://www.sexart.com/model/lee-anne; g:f
+model: n:Charlie Dean; id:/model/sexart/charlie-dean; u:https://www.sexart.com/model/charlie-dean
 released: 2023-08-02
 director: Andrej Lupin
 fileprefix: SexArt-20230802-need-a-little-love-
@@ -4122,8 +4122,8 @@ tag: trimmed
 title: Finish Line
 type: movie
 site: SexArt
-cast: n:Lily Blossom; u:https://www.sexart.com/model/lily-blossom
-cast: n:Deny Lou; u:https://www.sexart.com/model/deny-lou
+model: n:Lily Blossom; id:/model/sexart/lily-blossom; u:https://www.sexart.com/model/lily-blossom
+model: n:Deny Lou; id:/model/sexart/deny-lou; u:https://www.sexart.com/model/deny-lou
 released: 2023-07-30
 director: Andrej Lupin
 fileprefix: SexArt-20230730-finish-line-
@@ -4179,8 +4179,8 @@ tag: yoga pants
 title: Love Like This
 type: movie
 site: SexArt
-cast: n:Simon; u:https://www.sexart.com/model/simon; g:f
-cast: n:Sralyd; u:https://www.sexart.com/model/sralyd
+model: n:Simon; id:/model/sexart/simon; u:https://www.sexart.com/model/simon; g:f
+model: n:Sralyd; id:/model/sexart/sralyd; u:https://www.sexart.com/model/sralyd
 released: 2023-07-28
 director: Andrej Lupin
 fileprefix: SexArt-20230728-love-like-this-
@@ -4241,8 +4241,8 @@ tag: striptease
 title: Good Intentions
 type: movie
 site: SexArt
-cast: n:Charlie Dean; u:https://www.sexart.com/model/charlie-dean
-cast: n:Noa Tevez; u:https://www.sexart.com/model/noa-tevez; g:f
+model: n:Charlie Dean; id:/model/sexart/charlie-dean; u:https://www.sexart.com/model/charlie-dean
+model: n:Noa Tevez; id:/model/sexart/noa-tevez; u:https://www.sexart.com/model/noa-tevez; g:f
 released: 2023-07-26
 director: Andrej Lupin
 fileprefix: SexArt-20230726-good-intentions-
@@ -4307,8 +4307,8 @@ tag: trimmed
 title: We Belong Together
 type: movie
 site: SexArt
-cast: n:Stacy Cruz; u:https://www.sexart.com/model/stacy-cruz; g:f
-cast: n:Ricky; u:https://www.sexart.com/model/ricky
+model: n:Stacy Cruz; id:/model/sexart/stacy-cruz; u:https://www.sexart.com/model/stacy-cruz; g:f
+model: n:Ricky; id:/model/sexart/ricky; u:https://www.sexart.com/model/ricky
 released: 2023-07-23
 director: Andrej Lupin
 fileprefix: SexArt-20230723-we-belong-together-
@@ -4370,8 +4370,8 @@ tag: trimmed
 title: Stream Of Love
 type: movie
 site: SexArt
-cast: n:Liz Ocean; u:https://www.sexart.com/model/liz-ocean
-cast: n:Cie Luciani; u:https://www.sexart.com/model/cie-luciani
+model: n:Liz Ocean; id:/model/sexart/liz-ocean; u:https://www.sexart.com/model/liz-ocean
+model: n:Cie Luciani; id:/model/sexart/cie-luciani; u:https://www.sexart.com/model/cie-luciani
 released: 2023-07-21
 director: Andrej Lupin
 fileprefix: SexArt-20230721-stream-of-love-
@@ -4433,8 +4433,8 @@ tag: tattoo
 title: Here With You
 type: movie
 site: SexArt
-cast: n:Lisa Belys; u:https://www.sexart.com/model/lisa-belys
-cast: n:Deny Lou; u:https://www.sexart.com/model/deny-lou
+model: n:Lisa Belys; id:/model/sexart/lisa-belys; u:https://www.sexart.com/model/lisa-belys
+model: n:Deny Lou; id:/model/sexart/deny-lou; u:https://www.sexart.com/model/deny-lou
 released: 2023-07-19
 director: Andrej Lupin
 fileprefix: SexArt-20230719-here-with-you-
@@ -4488,8 +4488,8 @@ tag: striptease
 title: Melody For You
 type: movie
 site: SexArt
-cast: n:Liam Salvatore; u:https://www.sexart.com/model/liam-salvatore
-cast: n:Jessy Jey; u:https://www.sexart.com/model/jessy-jey
+model: n:Liam Salvatore; id:/model/sexart/liam-salvatore; u:https://www.sexart.com/model/liam-salvatore
+model: n:Jessy Jey; id:/model/sexart/jessy-jey; u:https://www.sexart.com/model/jessy-jey
 released: 2023-07-16
 director: Andrej Lupin
 fileprefix: SexArt-20230716-melody-for-you-
@@ -4555,8 +4555,8 @@ tag: trimmed
 title: Feel So Right
 type: movie
 site: SexArt
-cast: n:Alexis Crystal; u:https://www.sexart.com/model/alexis-crystal; s:SexArt
-cast: n:Cherry Candle; u:https://www.sexart.com/model/cherry-candle
+model: n:Alexis Crystal; id:/model/sexart/alexis-crystal; u:https://www.sexart.com/model/alexis-crystal
+model: n:Cherry Candle; id:/model/sexart/cherry-candle; u:https://www.sexart.com/model/cherry-candle
 released: 2023-07-14
 director: Andrej Lupin
 fileprefix: SexArt-20230714-feel-so-right-
@@ -4620,8 +4620,8 @@ tag: trimmed
 title: The Artist
 type: movie
 site: SexArt
-cast: n:Zazie Skymm; u:https://www.sexart.com/model/zazie-skymm; g:f
-cast: n:Nikky Nutz; u:https://www.sexart.com/model/nikky-nutz
+model: n:Zazie Skymm; id:/model/sexart/zazie-skymm; u:https://www.sexart.com/model/zazie-skymm; g:f
+model: n:Nikky Nutz; id:/model/sexart/nikky-nutz; u:https://www.sexart.com/model/nikky-nutz
 released: 2023-07-12
 director: Sandra Shine
 fileprefix: SexArt-20230712-the-artist-
@@ -4687,8 +4687,8 @@ tag: trimmed
 title: Dancing In The Clouds
 type: movie
 site: SexArt
-cast: n:Barbie Rous; u:https://www.sexart.com/model/barbie-rous
-cast: n:Tommy Cabrio; u:https://www.sexart.com/model/tommy-cabrio
+model: n:Barbie Rous; id:/model/sexart/barbie-rous; u:https://www.sexart.com/model/barbie-rous
+model: n:Tommy Cabrio; id:/model/sexart/tommy-cabrio; u:https://www.sexart.com/model/tommy-cabrio
 released: 2023-07-09
 director: Andrej Lupin
 fileprefix: SexArt-20230709-dancing-in-the-clouds-
@@ -4749,8 +4749,8 @@ tag: upskirt
 title: Tenderness In Us
 type: movie
 site: SexArt
-cast: n:Lily Blossom; u:https://www.sexart.com/model/lily-blossom
-cast: n:Amelia Riven; u:https://www.sexart.com/model/amelia-riven
+model: n:Lily Blossom; id:/model/sexart/lily-blossom; u:https://www.sexart.com/model/lily-blossom
+model: n:Amelia Riven; id:/model/sexart/amelia-riven; u:https://www.sexart.com/model/amelia-riven
 released: 2023-07-07
 director: Andrej Lupin
 fileprefix: SexArt-20230707-tenderness-in-us-
@@ -4808,8 +4808,8 @@ tag: tshirt
 title: Date Night
 type: movie
 site: SexArt
-cast: n:Kama Oxi; u:https://www.sexart.com/model/kama-oxi; g:f
-cast: n:Lorenzo Viota; u:https://www.sexart.com/model/lorenzo-viota
+model: n:Kama Oxi; id:/model/sexart/kama-oxi; u:https://www.sexart.com/model/kama-oxi; g:f
+model: n:Lorenzo Viota; id:/model/sexart/lorenzo-viota; u:https://www.sexart.com/model/lorenzo-viota
 released: 2023-07-05
 director: Sandra Shine
 fileprefix: SexArt-20230705-date-night-
@@ -4873,8 +4873,8 @@ tag: ukraine
 title: A Little Secret
 type: movie
 site: SexArt
-cast: n:Katarina Rina; u:https://www.sexart.com/model/katarina-rina; g:f
-cast: n:Nick Ross; u:https://www.sexart.com/model/nick-ross
+model: n:Katarina Rina; id:/model/sexart/katarina-rina; u:https://www.sexart.com/model/katarina-rina; g:f
+model: n:Nick Ross; id:/model/sexart/nick-ross; u:https://www.sexart.com/model/nick-ross
 released: 2023-07-02
 director: Andrej Lupin
 fileprefix: SexArt-20230702-a-little-secret-
@@ -4939,8 +4939,8 @@ tag: thong
 title: Cross Over
 type: movie
 site: SexArt
-cast: n:Venera; u:https://www.sexart.com/model/venera
-cast: n:Eva Brown; u:https://www.sexart.com/model/eva-brown
+model: n:Venera; id:/model/sexart/venera; u:https://www.sexart.com/model/venera
+model: n:Eva Brown; id:/model/sexart/eva-brown; u:https://www.sexart.com/model/eva-brown
 released: 2023-06-30
 director: Andrej Lupin
 fileprefix: SexArt-20230630-cross-over-
@@ -5010,8 +5010,8 @@ tag: ukraine
 title: Greatness Of Love
 type: movie
 site: SexArt
-cast: n:Kira Queen; u:https://www.sexart.com/model/kira-queen
-cast: n:Lorenzo Viota; u:https://www.sexart.com/model/lorenzo-viota
+model: n:Kira Queen; id:/model/sexart/kira-queen; u:https://www.sexart.com/model/kira-queen
+model: n:Lorenzo Viota; id:/model/sexart/lorenzo-viota; u:https://www.sexart.com/model/lorenzo-viota
 released: 2023-06-28
 director: Andrej Lupin
 fileprefix: SexArt-20230628-greatness-of-love-
@@ -5070,8 +5070,8 @@ tag: striptease
 title: Love Who You Love
 type: movie
 site: SexArt
-cast: n:Eva Brown; u:https://www.sexart.com/model/eva-brown
-cast: n:Liam Salvatore; u:https://www.sexart.com/model/liam-salvatore
+model: n:Eva Brown; id:/model/sexart/eva-brown; u:https://www.sexart.com/model/eva-brown
+model: n:Liam Salvatore; id:/model/sexart/liam-salvatore; u:https://www.sexart.com/model/liam-salvatore
 released: 2023-06-25
 director: Andrej Lupin
 fileprefix: SexArt-20230625-love-who-you-love-
@@ -5134,8 +5134,8 @@ tag: ukraine
 title: Observer
 type: movie
 site: SexArt
-cast: n:Mia Split; u:https://www.sexart.com/model/mia-split
-cast: n:Selva Lapiedra; u:https://www.sexart.com/model/selva-lapiedra
+model: n:Mia Split; id:/model/sexart/mia-split; u:https://www.sexart.com/model/mia-split
+model: n:Selva Lapiedra; id:/model/sexart/selva-lapiedra; u:https://www.sexart.com/model/selva-lapiedra
 released: 2023-06-23
 director: Andrej Lupin
 fileprefix: SexArt-20230623-observer-
@@ -5206,8 +5206,8 @@ tag: trimmed
 title: Burning Hearts
 type: movie
 site: SexArt
-cast: n:Liam Salvatore; u:https://www.sexart.com/model/liam-salvatore
-cast: n:Antonia Sainz; u:https://www.sexart.com/model/antonia-sainz
+model: n:Liam Salvatore; id:/model/sexart/liam-salvatore; u:https://www.sexart.com/model/liam-salvatore
+model: n:Antonia Sainz; id:/model/sexart/antonia-sainz; u:https://www.sexart.com/model/antonia-sainz
 released: 2023-06-21
 director: Andrej Lupin
 fileprefix: SexArt-20230621-burning-hearts-
@@ -5266,8 +5266,8 @@ tag: trimmed
 title: Cozy Atmosphere
 type: movie
 site: SexArt
-cast: n:Serina Gomez; u:https://www.sexart.com/model/serina-gomez; g:f
-cast: n:Ricky; u:https://www.sexart.com/model/ricky
+model: n:Serina Gomez; id:/model/sexart/serina-gomez; u:https://www.sexart.com/model/serina-gomez; g:f
+model: n:Ricky; id:/model/sexart/ricky; u:https://www.sexart.com/model/ricky
 released: 2023-06-18
 director: Andrej Lupin
 fileprefix: SexArt-20230618-cozy-atmosphere-
@@ -5332,8 +5332,8 @@ tag: table
 title: Mirroring Of The Mind
 type: movie
 site: SexArt
-cast: n:Sata Jones; u:https://www.sexart.com/model/sata-jones
-cast: n:Sralyd; u:https://www.sexart.com/model/sralyd
+model: n:Sata Jones; id:/model/sexart/sata-jones; u:https://www.sexart.com/model/sata-jones
+model: n:Sralyd; id:/model/sexart/sralyd; u:https://www.sexart.com/model/sralyd
 released: 2023-06-16
 director: Andrej Lupin
 fileprefix: SexArt-20230616-mirroring-of-the-mind-
@@ -5402,8 +5402,8 @@ tag: tribbing
 title: First Aid Kit
 type: movie
 site: SexArt
-cast: n:Rika Fane; u:https://www.sexart.com/model/rika-fane
-cast: n:Stanley Jones; u:https://www.sexart.com/model/stanley-jones
+model: n:Rika Fane; id:/model/sexart/rika-fane; u:https://www.sexart.com/model/rika-fane
+model: n:Stanley Jones; id:/model/sexart/stanley-jones; u:https://www.sexart.com/model/stanley-jones
 released: 2023-06-14
 director: Andrej Lupin
 fileprefix: SexArt-20230614-first-aid-kit-
@@ -5466,8 +5466,8 @@ tag: trimmed
 title: Want You More
 type: movie
 site: SexArt
-cast: n:Nick Ross; u:https://www.sexart.com/model/nick-ross
-cast: n:Venera; u:https://www.sexart.com/model/venera
+model: n:Nick Ross; id:/model/sexart/nick-ross; u:https://www.sexart.com/model/nick-ross
+model: n:Venera; id:/model/sexart/venera; u:https://www.sexart.com/model/venera
 released: 2023-06-11
 director: Andrej Lupin
 fileprefix: SexArt-20230611-want-you-more-
@@ -5531,8 +5531,8 @@ tag: upskirt
 title: Give Me A Signal
 type: movie
 site: SexArt
-cast: n:Liz Ocean; u:https://www.sexart.com/model/liz-ocean
-cast: n:Nikky Fox; u:https://www.sexart.com/model/nikky-fox
+model: n:Liz Ocean; id:/model/sexart/liz-ocean; u:https://www.sexart.com/model/liz-ocean
+model: n:Nikky Fox; id:/model/sexart/nikky-fox; u:https://www.sexart.com/model/nikky-fox
 released: 2023-06-09
 director: Andrej Lupin
 fileprefix: SexArt-20230609-give-me-a-signal-
@@ -5598,8 +5598,8 @@ tag: tribbing
 title: Love Is Not Enough
 type: movie
 site: SexArt
-cast: n:Rebecca Volpetti; u:https://www.sexart.com/model/rebecca-volpetti; g:f
-cast: n:Liam Salvatore; u:https://www.sexart.com/model/liam-salvatore
+model: n:Rebecca Volpetti; id:/model/sexart/rebecca-volpetti; u:https://www.sexart.com/model/rebecca-volpetti; g:f
+model: n:Liam Salvatore; id:/model/sexart/liam-salvatore; u:https://www.sexart.com/model/liam-salvatore
 released: 2023-06-07
 director: Andrej Lupin
 fileprefix: SexArt-20230607-love-is-not-enough-
@@ -5659,8 +5659,8 @@ tag: tattoo
 title: Just In Time
 type: movie
 site: SexArt
-cast: n:Patricia Lee; u:https://www.sexart.com/model/patricia-lee
-cast: n:Deny Lou; u:https://www.sexart.com/model/deny-lou
+model: n:Patricia Lee; id:/model/sexart/patricia-lee; u:https://www.sexart.com/model/patricia-lee
+model: n:Deny Lou; id:/model/sexart/deny-lou; u:https://www.sexart.com/model/deny-lou
 released: 2023-06-04
 director: Andrej Lupin
 fileprefix: SexArt-20230604-just-in-time-
@@ -5722,8 +5722,8 @@ tag: striptease
 title: What You Waiting For
 type: movie
 site: SexArt
-cast: n:Catherine Knight; u:https://www.sexart.com/model/catherine-knight
-cast: n:Molly Devon; u:https://www.sexart.com/model/molly-devon; g:f
+model: n:Catherine Knight; id:/model/sexart/catherine-knight; u:https://www.sexart.com/model/catherine-knight
+model: n:Molly Devon; id:/model/sexart/molly-devon; u:https://www.sexart.com/model/molly-devon; g:f
 released: 2023-06-02
 director: Andrej Lupin
 fileprefix: SexArt-20230602-what-you-waiting-for-
@@ -5795,8 +5795,8 @@ tag: trimmed
 title: Sunshine
 type: movie
 site: SexArt
-cast: n:Ricky; u:https://www.sexart.com/model/ricky
-cast: n:Kama Oxi; u:https://www.sexart.com/model/kama-oxi; g:f
+model: n:Ricky; id:/model/sexart/ricky; u:https://www.sexart.com/model/ricky
+model: n:Kama Oxi; id:/model/sexart/kama-oxi; u:https://www.sexart.com/model/kama-oxi; g:f
 released: 2023-05-31
 director: Andrej Lupin
 fileprefix: SexArt-20230531-sunshine-
@@ -5850,8 +5850,8 @@ tag: ukraine
 title: Flare
 type: movie
 site: SexArt
-cast: n:Jimmy Bud; u:https://www.sexart.com/model/jimmy-bud
-cast: n:Mia Split; u:https://www.sexart.com/model/mia-split
+model: n:Jimmy Bud; id:/model/sexart/jimmy-bud; u:https://www.sexart.com/model/jimmy-bud
+model: n:Mia Split; id:/model/sexart/mia-split; u:https://www.sexart.com/model/mia-split
 released: 2023-05-28
 director: Andrej Lupin
 fileprefix: SexArt-20230528-flare-
@@ -5909,8 +5909,8 @@ tag: up-do
 title: Connection Of Souls
 type: movie
 site: SexArt
-cast: n:Cee Licious; u:https://www.sexart.com/model/cee-licious
-cast: n:Helina Dream; u:https://www.sexart.com/model/helina-dream; g:f
+model: n:Cee Licious; id:/model/sexart/cee-licious; u:https://www.sexart.com/model/cee-licious
+model: n:Helina Dream; id:/model/sexart/helina-dream; u:https://www.sexart.com/model/helina-dream; g:f
 released: 2023-05-26
 director: Andrej Lupin
 fileprefix: SexArt-20230526-connection-of-souls-
@@ -5971,8 +5971,8 @@ tag: ukraine
 title: Get It Now
 type: movie
 site: SexArt
-cast: n:Lo Ryder; u:https://www.sexart.com/model/lo-ryder
-cast: n:Molly Devon; u:https://www.sexart.com/model/molly-devon; g:f
+model: n:Lo Ryder; id:/model/sexart/lo-ryder; u:https://www.sexart.com/model/lo-ryder
+model: n:Molly Devon; id:/model/sexart/molly-devon; u:https://www.sexart.com/model/molly-devon; g:f
 released: 2023-05-24
 director: Andrej Lupin
 fileprefix: SexArt-20230524-get-it-now-
@@ -6033,8 +6033,8 @@ tag: tattoo
 title: Passion Between Us
 type: movie
 site: SexArt
-cast: n:Jimmy Bud; u:https://www.sexart.com/model/jimmy-bud
-cast: n:Catherine Knight; u:https://www.sexart.com/model/catherine-knight
+model: n:Jimmy Bud; id:/model/sexart/jimmy-bud; u:https://www.sexart.com/model/jimmy-bud
+model: n:Catherine Knight; id:/model/sexart/catherine-knight; u:https://www.sexart.com/model/catherine-knight
 released: 2023-05-21
 director: Andrej Lupin
 fileprefix: SexArt-20230521-passion-between-us-
@@ -6094,8 +6094,8 @@ tag: thong
 title: Explore Each Other
 type: movie
 site: SexArt
-cast: n:Kyler Quinn; u:https://www.sexart.com/model/kyler-quinn
-cast: n:Lila Love; u:https://www.sexart.com/model/lila-love
+model: n:Kyler Quinn; id:/model/sexart/kyler-quinn; u:https://www.sexart.com/model/kyler-quinn
+model: n:Lila Love; id:/model/sexart/lila-love; u:https://www.sexart.com/model/lila-love
 released: 2023-05-19
 director: Bo Llanberris
 fileprefix: SexArt-20230519-explore-each-other-
@@ -6160,8 +6160,8 @@ tag: united states
 title: First Love
 type: movie
 site: SexArt
-cast: n:Sralyd; u:https://www.sexart.com/model/sralyd
-cast: n:Josh; u:https://www.sexart.com/model/josh
+model: n:Sralyd; id:/model/sexart/sralyd; u:https://www.sexart.com/model/sralyd
+model: n:Josh; id:/model/sexart/josh; u:https://www.sexart.com/model/josh
 released: 2023-05-17
 director: Andrej Lupin
 fileprefix: SexArt-20230517-first-love-
@@ -6215,8 +6215,8 @@ tag: striptease
 title: Eye Contact
 type: movie
 site: SexArt
-cast: n:Lorenzo Viota; u:https://www.sexart.com/model/lorenzo-viota
-cast: n:Nikky Fox; u:https://www.sexart.com/model/nikky-fox
+model: n:Lorenzo Viota; id:/model/sexart/lorenzo-viota; u:https://www.sexart.com/model/lorenzo-viota
+model: n:Nikky Fox; id:/model/sexart/nikky-fox; u:https://www.sexart.com/model/nikky-fox
 released: 2023-05-14
 director: Andrej Lupin
 fileprefix: SexArt-20230514-eye-contact-
@@ -6271,8 +6271,8 @@ tag: striptease
 title: Morning Surprise
 type: movie
 site: SexArt
-cast: n:Stella Cardo; u:https://www.sexart.com/model/stella-cardo; g:f
-cast: n:Mercia Francis; u:https://www.sexart.com/model/mercia-francis; g:f
+model: n:Stella Cardo; id:/model/sexart/stella-cardo; u:https://www.sexart.com/model/stella-cardo; g:f
+model: n:Mercia Francis; id:/model/sexart/mercia-francis; u:https://www.sexart.com/model/mercia-francis; g:f
 released: 2023-05-12
 director: Stephan Cardo
 fileprefix: SexArt-20230512-morning-surprise-
@@ -6341,8 +6341,8 @@ tag: thong
 title: Pussycat
 type: movie
 site: SexArt
-cast: n:Lo Ryder; u:https://www.sexart.com/model/lo-ryder
-cast: n:Selva Lapiedra; u:https://www.sexart.com/model/selva-lapiedra
+model: n:Lo Ryder; id:/model/sexart/lo-ryder; u:https://www.sexart.com/model/lo-ryder
+model: n:Selva Lapiedra; id:/model/sexart/selva-lapiedra; u:https://www.sexart.com/model/selva-lapiedra
 released: 2023-05-10
 director: Andrej Lupin
 fileprefix: SexArt-20230510-pussycat-
@@ -6400,8 +6400,8 @@ tag: tattoo
 title: About Romance
 type: movie
 site: SexArt
-cast: n:Josh; u:https://www.sexart.com/model/josh
-cast: n:Liz Ocean; u:https://www.sexart.com/model/liz-ocean
+model: n:Josh; id:/model/sexart/josh; u:https://www.sexart.com/model/josh
+model: n:Liz Ocean; id:/model/sexart/liz-ocean; u:https://www.sexart.com/model/liz-ocean
 released: 2023-05-07
 director: Andrej Lupin
 fileprefix: SexArt-20230507-about-romance-
@@ -6460,8 +6460,8 @@ tag: tattoo
 title: Love Me
 type: movie
 site: SexArt
-cast: n:Hazel Moore; u:https://www.sexart.com/model/hazel-moore
-cast: n:Maria Kazi; u:https://www.sexart.com/model/maria-kazi
+model: n:Hazel Moore; id:/model/sexart/hazel-moore; u:https://www.sexart.com/model/hazel-moore
+model: n:Maria Kazi; id:/model/sexart/maria-kazi; u:https://www.sexart.com/model/maria-kazi
 released: 2023-05-05
 director: Bo Llanberris
 fileprefix: SexArt-20230505-love-me-
@@ -6524,8 +6524,8 @@ tag: tan lines
 title: Beautiful Morning
 type: movie
 site: SexArt
-cast: n:Helina Dream; u:https://www.sexart.com/model/helina-dream; g:f
-cast: n:Lo Ryder; u:https://www.sexart.com/model/lo-ryder
+model: n:Helina Dream; id:/model/sexart/helina-dream; u:https://www.sexart.com/model/helina-dream; g:f
+model: n:Lo Ryder; id:/model/sexart/lo-ryder; u:https://www.sexart.com/model/lo-ryder
 released: 2023-05-03
 director: Andrej Lupin
 fileprefix: SexArt-20230503-beautiful-morning-
@@ -6579,8 +6579,8 @@ tag: yoga pants
 title: Give Me That Feeling
 type: movie
 site: SexArt
-cast: n:Sata Jones; u:https://www.sexart.com/model/sata-jones
-cast: n:Matthew Meier; u:https://www.sexart.com/model/matthew-meier
+model: n:Sata Jones; id:/model/sexart/sata-jones; u:https://www.sexart.com/model/sata-jones
+model: n:Matthew Meier; id:/model/sexart/matthew-meier; u:https://www.sexart.com/model/matthew-meier
 released: 2023-04-30
 director: Andrej Lupin
 fileprefix: SexArt-20230430-give-me-that-feeling-
@@ -6640,8 +6640,8 @@ tag: tattoo
 title: Chill And Love
 type: movie
 site: SexArt
-cast: n:Bella Angel; u:https://www.sexart.com/model/bella-angel
-cast: n:Kaira Love; u:https://www.sexart.com/model/kaira-love
+model: n:Bella Angel; id:/model/sexart/bella-angel; u:https://www.sexart.com/model/bella-angel
+model: n:Kaira Love; id:/model/sexart/kaira-love; u:https://www.sexart.com/model/kaira-love
 released: 2023-04-28
 director: Andrej Lupin
 fileprefix: SexArt-20230428-chill-and-love-
@@ -6704,7 +6704,7 @@ tag: up-do
 title: Beach Day
 type: movie
 site: SexArt
-cast: n:Eliza Ibarra; u:https://www.sexart.com/model/eliza-ibarra
+model: n:Eliza Ibarra; id:/model/sexart/eliza-ibarra; u:https://www.sexart.com/model/eliza-ibarra
 released: 2023-04-26
 director: Bo Llanberris
 fileprefix: SexArt-20230426-beach-day-
@@ -6766,8 +6766,8 @@ tag: upskirt
 title: Vibe For That
 type: movie
 site: SexArt
-cast: n:Jimmy Bud; u:https://www.sexart.com/model/jimmy-bud
-cast: n:Tiffany Tatum; u:https://www.sexart.com/model/tiffany-tatum; g:f
+model: n:Jimmy Bud; id:/model/sexart/jimmy-bud; u:https://www.sexart.com/model/jimmy-bud
+model: n:Tiffany Tatum; id:/model/sexart/tiffany-tatum; u:https://www.sexart.com/model/tiffany-tatum; g:f
 released: 2023-04-23
 director: Andrej Lupin
 fileprefix: SexArt-20230423-vibe-for-that-
@@ -6833,8 +6833,8 @@ tag: trimmed
 title: All In Us
 type: movie
 site: SexArt
-cast: n:Cee Licious; u:https://www.sexart.com/model/cee-licious
-cast: n:Alysia Bounty; u:https://www.sexart.com/model/alysia-bounty
+model: n:Cee Licious; id:/model/sexart/cee-licious; u:https://www.sexart.com/model/cee-licious
+model: n:Alysia Bounty; id:/model/sexart/alysia-bounty; u:https://www.sexart.com/model/alysia-bounty
 released: 2023-04-21
 director: Andrej Lupin
 fileprefix: SexArt-20230421-all-in-us-
@@ -6902,8 +6902,8 @@ tag: trimmed
 title: Destiny Calling
 type: movie
 site: SexArt
-cast: n:Jay Romero; u:https://www.sexart.com/model/jay-romero
-cast: n:Destiny Cruz; u:https://www.sexart.com/model/destiny-cruz
+model: n:Jay Romero; id:/model/sexart/jay-romero; u:https://www.sexart.com/model/jay-romero
+model: n:Destiny Cruz; id:/model/sexart/destiny-cruz; u:https://www.sexart.com/model/destiny-cruz
 released: 2023-04-19
 director: Bo Llanberris
 fileprefix: SexArt-20230419-destiny-calling-
@@ -6959,8 +6959,8 @@ tag: united states
 title: Sincerity
 type: movie
 site: SexArt
-cast: n:Matthew Meier; u:https://www.sexart.com/model/matthew-meier
-cast: n:Helina Dream; u:https://www.sexart.com/model/helina-dream; g:f
+model: n:Matthew Meier; id:/model/sexart/matthew-meier; u:https://www.sexart.com/model/matthew-meier
+model: n:Helina Dream; id:/model/sexart/helina-dream; u:https://www.sexart.com/model/helina-dream; g:f
 released: 2023-04-16
 director: Andrej Lupin
 fileprefix: SexArt-20230416-sincerity-
@@ -7012,8 +7012,8 @@ tag: ukraine
 title: Red Roses
 type: movie
 site: SexArt
-cast: n:Eliza Ibarra; u:https://www.sexart.com/model/eliza-ibarra
-cast: n:Braylin Bailey; u:https://www.sexart.com/model/braylin-bailey
+model: n:Eliza Ibarra; id:/model/sexart/eliza-ibarra; u:https://www.sexart.com/model/eliza-ibarra
+model: n:Braylin Bailey; id:/model/sexart/braylin-bailey; u:https://www.sexart.com/model/braylin-bailey
 released: 2023-04-14
 director: Bo Llanberris
 fileprefix: SexArt-20230414-red-roses-
@@ -7082,8 +7082,8 @@ tag: united states
 title: Drawn To You
 type: movie
 site: SexArt
-cast: n:Zlata Shine; u:https://www.sexart.com/model/zlata-shine
-cast: n:Lo Ryder; u:https://www.sexart.com/model/lo-ryder
+model: n:Zlata Shine; id:/model/sexart/zlata-shine; u:https://www.sexart.com/model/zlata-shine
+model: n:Lo Ryder; id:/model/sexart/lo-ryder; u:https://www.sexart.com/model/lo-ryder
 released: 2023-04-12
 director: Andrej Lupin
 fileprefix: SexArt-20230412-drawn-to-you-
@@ -7142,8 +7142,8 @@ tag: trimmed
 title: Bikini Dream
 type: movie
 site: SexArt
-cast: n:Gianna Dior; u:https://www.sexart.com/model/gianna-dior
-cast: n:Jay Romero; u:https://www.sexart.com/model/jay-romero
+model: n:Gianna Dior; id:/model/sexart/gianna-dior; u:https://www.sexart.com/model/gianna-dior
+model: n:Jay Romero; id:/model/sexart/jay-romero; u:https://www.sexart.com/model/jay-romero
 released: 2023-04-09
 director: Bo Llanberris
 fileprefix: SexArt-20230409-bikini-dream-
@@ -7211,8 +7211,8 @@ tag: united states
 title: Love In Lace
 type: movie
 site: SexArt
-cast: n:Lovita Fate; u:https://www.sexart.com/model/lovita-fate; g:f
-cast: n:Alexis Crystal; u:https://www.sexart.com/model/alexis-crystal; s:SexArt
+model: n:Lovita Fate; id:/model/sexart/lovita-fate; u:https://www.sexart.com/model/lovita-fate; g:f
+model: n:Alexis Crystal; id:/model/sexart/alexis-crystal; u:https://www.sexart.com/model/alexis-crystal
 released: 2023-04-07
 director: Andrej Lupin
 fileprefix: SexArt-20230407-love-in-lace-
@@ -7282,8 +7282,8 @@ tag: tshirt
 title: Essence
 type: movie
 site: SexArt
-cast: n:Charlie Dean; u:https://www.sexart.com/model/charlie-dean
-cast: n:Cee Licious; u:https://www.sexart.com/model/cee-licious
+model: n:Charlie Dean; id:/model/sexart/charlie-dean; u:https://www.sexart.com/model/charlie-dean
+model: n:Cee Licious; id:/model/sexart/cee-licious; u:https://www.sexart.com/model/cee-licious
 released: 2023-04-05
 director: Andrej Lupin
 fileprefix: SexArt-20230405-essence-
@@ -7341,8 +7341,8 @@ tag: trimmed
 title: Follow Your Heart
 type: movie
 site: SexArt
-cast: n:Helina Dream; u:https://www.sexart.com/model/helina-dream; g:f
-cast: n:Jimmy Bud; u:https://www.sexart.com/model/jimmy-bud
+model: n:Helina Dream; id:/model/sexart/helina-dream; u:https://www.sexart.com/model/helina-dream; g:f
+model: n:Jimmy Bud; id:/model/sexart/jimmy-bud; u:https://www.sexart.com/model/jimmy-bud
 released: 2023-04-02
 director: Andrej Lupin
 fileprefix: SexArt-20230402-follow-your-heart-
@@ -7395,8 +7395,8 @@ tag: ukraine
 title: Connection
 type: movie
 site: SexArt
-cast: n:Antonia Sainz; u:https://www.sexart.com/model/antonia-sainz
-cast: n:Lilly Bella; u:https://www.sexart.com/model/lilly-bella; g:f
+model: n:Antonia Sainz; id:/model/sexart/antonia-sainz; u:https://www.sexart.com/model/antonia-sainz
+model: n:Lilly Bella; id:/model/sexart/lilly-bella; u:https://www.sexart.com/model/lilly-bella; g:f
 released: 2023-03-31
 director: Andrej Lupin
 fileprefix: SexArt-20230331-connection-
@@ -7470,8 +7470,8 @@ tag: trimmed
 title: Out Of Dream
 type: movie
 site: SexArt
-cast: n:Alysia Bounty; u:https://www.sexart.com/model/alysia-bounty
-cast: n:Lorenzo Viota; u:https://www.sexart.com/model/lorenzo-viota
+model: n:Alysia Bounty; id:/model/sexart/alysia-bounty; u:https://www.sexart.com/model/alysia-bounty
+model: n:Lorenzo Viota; id:/model/sexart/lorenzo-viota; u:https://www.sexart.com/model/lorenzo-viota
 released: 2023-03-29
 director: Andrej Lupin
 fileprefix: SexArt-20230329-out-of-dream-
@@ -7540,8 +7540,8 @@ tag: wet pussy
 title: Winner Takes All
 type: movie
 site: SexArt
-cast: n:Milan; u:https://www.sexart.com/model/milan
-cast: n:Angel Gostosa; u:https://www.sexart.com/model/angel-gostosa
+model: n:Milan; id:/model/sexart/milan; u:https://www.sexart.com/model/milan
+model: n:Angel Gostosa; id:/model/sexart/angel-gostosa; u:https://www.sexart.com/model/angel-gostosa
 released: 2023-03-26
 director: Bo Llanberris
 fileprefix: SexArt-20230326-winner-takes-all-
@@ -7602,8 +7602,8 @@ tag: united states
 title: Focus
 type: movie
 site: SexArt
-cast: n:Zlata Shine; u:https://www.sexart.com/model/zlata-shine
-cast: n:Helina Dream; u:https://www.sexart.com/model/helina-dream; g:f
+model: n:Zlata Shine; id:/model/sexart/zlata-shine; u:https://www.sexart.com/model/zlata-shine
+model: n:Helina Dream; id:/model/sexart/helina-dream; u:https://www.sexart.com/model/helina-dream; g:f
 released: 2023-03-24
 director: Andrej Lupin
 fileprefix: SexArt-20230324-focus-
@@ -7669,8 +7669,8 @@ tag: ukraine
 title: Right Timing
 type: movie
 site: SexArt
-cast: n:Molly Devon; u:https://www.sexart.com/model/molly-devon; g:f
-cast: n:Charlie Dean; u:https://www.sexart.com/model/charlie-dean
+model: n:Molly Devon; id:/model/sexart/molly-devon; u:https://www.sexart.com/model/molly-devon; g:f
+model: n:Charlie Dean; id:/model/sexart/charlie-dean; u:https://www.sexart.com/model/charlie-dean
 released: 2023-03-22
 director: Andrej Lupin
 fileprefix: SexArt-20230322-right-timing-
@@ -7731,8 +7731,8 @@ tag: tattoo
 title: Tempt You
 type: movie
 site: SexArt
-cast: n:Casey; u:https://www.sexart.com/model/casey; g:f
-cast: n:Nick Ross; u:https://www.sexart.com/model/nick-ross
+model: n:Casey; id:/model/sexart/casey; u:https://www.sexart.com/model/casey; g:f
+model: n:Nick Ross; id:/model/sexart/nick-ross; u:https://www.sexart.com/model/nick-ross
 released: 2023-03-19
 director: Andrej Lupin
 fileprefix: SexArt-20230319-tempt-you-
@@ -7790,8 +7790,8 @@ tag: tattoo
 title: Fondness
 type: movie
 site: SexArt
-cast: n:Alexis Crystal; u:https://www.sexart.com/model/alexis-crystal; s:SexArt
-cast: n:Ryana; u:https://www.sexart.com/model/ryana; g:f
+model: n:Alexis Crystal; id:/model/sexart/alexis-crystal; u:https://www.sexart.com/model/alexis-crystal
+model: n:Ryana; id:/model/sexart/ryana; u:https://www.sexart.com/model/ryana; g:f
 released: 2023-03-17
 director: Andrej Lupin
 fileprefix: SexArt-20230317-fondness-
@@ -7856,8 +7856,8 @@ tag: ukraine
 title: Be Complete
 type: movie
 site: SexArt
-cast: n:Charlie Dean; u:https://www.sexart.com/model/charlie-dean
-cast: n:Ivy Rein; u:https://www.sexart.com/model/ivy-rein; g:f
+model: n:Charlie Dean; id:/model/sexart/charlie-dean; u:https://www.sexart.com/model/charlie-dean
+model: n:Ivy Rein; id:/model/sexart/ivy-rein; u:https://www.sexart.com/model/ivy-rein; g:f
 released: 2023-03-15
 director: Andrej Lupin
 fileprefix: SexArt-20230315-be-complete-
@@ -7919,8 +7919,8 @@ tag: striptease
 title: Sweet Night
 type: movie
 site: SexArt
-cast: n:Ricky; u:https://www.sexart.com/model/ricky
-cast: n:Kristy Waterfall; u:https://www.sexart.com/model/kristy-waterfall
+model: n:Ricky; id:/model/sexart/ricky; u:https://www.sexart.com/model/ricky
+model: n:Kristy Waterfall; id:/model/sexart/kristy-waterfall; u:https://www.sexart.com/model/kristy-waterfall
 released: 2023-03-12
 director: Andrej Lupin
 fileprefix: SexArt-20230312-sweet-night-
@@ -7977,8 +7977,8 @@ tag: tan lines
 title: Backlight
 type: movie
 site: SexArt
-cast: n:Lady Dee; u:https://www.sexart.com/model/lady-dee; s:SexArt
-cast: n:Lovita Fate; u:https://www.sexart.com/model/lovita-fate; g:f
+model: n:Lady Dee; id:/model/sexart/lady-dee; u:https://www.sexart.com/model/lady-dee
+model: n:Lovita Fate; id:/model/sexart/lovita-fate; u:https://www.sexart.com/model/lovita-fate; g:f
 released: 2023-03-10
 director: Andrej Lupin
 fileprefix: SexArt-20230310-backlight-
@@ -8041,8 +8041,8 @@ tag: tattoo
 title: Say You Do
 type: movie
 site: SexArt
-cast: n:Dominique Furr; u:https://www.sexart.com/model/dominique-furr
-cast: n:Tommy Cabrio; u:https://www.sexart.com/model/tommy-cabrio
+model: n:Dominique Furr; id:/model/sexart/dominique-furr; u:https://www.sexart.com/model/dominique-furr
+model: n:Tommy Cabrio; id:/model/sexart/tommy-cabrio; u:https://www.sexart.com/model/tommy-cabrio
 released: 2023-03-08
 director: Andrej Lupin
 fileprefix: SexArt-20230308-say-you-do-
@@ -8092,8 +8092,8 @@ tag: spread legs
 title: Crazy Moments
 type: movie
 site: SexArt
-cast: n:Bella Angel; u:https://www.sexart.com/model/bella-angel
-cast: n:Ricky; u:https://www.sexart.com/model/ricky
+model: n:Bella Angel; id:/model/sexart/bella-angel; u:https://www.sexart.com/model/bella-angel
+model: n:Ricky; id:/model/sexart/ricky; u:https://www.sexart.com/model/ricky
 released: 2023-03-05
 director: Andrej Lupin
 fileprefix: SexArt-20230305-crazy-moments-
@@ -8151,8 +8151,8 @@ tag: tattoo
 title: Wake Up And Love
 type: movie
 site: SexArt
-cast: n:Charlie Nice; u:https://www.sexart.com/model/charlie-nice
-cast: n:Lilly Bella; u:https://www.sexart.com/model/lilly-bella; g:f
+model: n:Charlie Nice; id:/model/sexart/charlie-nice; u:https://www.sexart.com/model/charlie-nice
+model: n:Lilly Bella; id:/model/sexart/lilly-bella; u:https://www.sexart.com/model/lilly-bella; g:f
 released: 2023-03-03
 director: Andrej Lupin
 fileprefix: SexArt-20230303-wake-up-and-love-
@@ -8221,8 +8221,8 @@ tag: up-do
 title: Seasons Episode 2 - Winter
 type: movie
 site: SexArt
-cast: n:Alexis Crystal; u:https://www.sexart.com/model/alexis-crystal; s:SexArt
-cast: n:Nick Ross; u:https://www.sexart.com/model/nick-ross
+model: n:Alexis Crystal; id:/model/sexart/alexis-crystal; u:https://www.sexart.com/model/alexis-crystal
+model: n:Nick Ross; id:/model/sexart/nick-ross; u:https://www.sexart.com/model/nick-ross
 released: 2023-03-01
 director: Andrej Lupin
 fileprefix: SexArt-20230301-seasons-episode-2---winter-
@@ -8279,8 +8279,8 @@ tag: white stockings
 title: Change Of Mind
 type: movie
 site: SexArt
-cast: n:Nick Ross; u:https://www.sexart.com/model/nick-ross
-cast: n:Antonia Sainz; u:https://www.sexart.com/model/antonia-sainz
+model: n:Nick Ross; id:/model/sexart/nick-ross; u:https://www.sexart.com/model/nick-ross
+model: n:Antonia Sainz; id:/model/sexart/antonia-sainz; u:https://www.sexart.com/model/antonia-sainz
 released: 2023-02-26
 director: Andrej Lupin
 fileprefix: SexArt-20230226-change-of-mind-
@@ -8336,8 +8336,8 @@ tag: trimmed
 title: Made A Star
 type: movie
 site: SexArt
-cast: n:Kaira Love; u:https://www.sexart.com/model/kaira-love
-cast: n:Ryana; u:https://www.sexart.com/model/ryana; g:f
+model: n:Kaira Love; id:/model/sexart/kaira-love; u:https://www.sexart.com/model/kaira-love
+model: n:Ryana; id:/model/sexart/ryana; u:https://www.sexart.com/model/ryana; g:f
 released: 2023-02-24
 director: Andrej Lupin
 fileprefix: SexArt-20230224-made-a-star-
@@ -8403,8 +8403,8 @@ tag: ukraine
 title: Your Touch
 type: movie
 site: SexArt
-cast: n:Tommy Gold; u:https://www.sexart.com/model/tommy-gold
-cast: n:Carolina Savage; u:https://www.sexart.com/model/carolina-savage
+model: n:Tommy Gold; id:/model/sexart/tommy-gold; u:https://www.sexart.com/model/tommy-gold
+model: n:Carolina Savage; id:/model/sexart/carolina-savage; u:https://www.sexart.com/model/carolina-savage
 released: 2023-02-22
 director: Andrej Lupin
 fileprefix: SexArt-20230222-your-touch-
@@ -8463,8 +8463,8 @@ tag: tattoo
 title: Stop Talking
 type: movie
 site: SexArt
-cast: n:Abela Sott; u:https://www.sexart.com/model/abela-sott
-cast: n:Ricky; u:https://www.sexart.com/model/ricky
+model: n:Abela Sott; id:/model/sexart/abela-sott; u:https://www.sexart.com/model/abela-sott
+model: n:Ricky; id:/model/sexart/ricky; u:https://www.sexart.com/model/ricky
 released: 2023-02-19
 director: Andrej Lupin
 fileprefix: SexArt-20230219-stop-talking-
@@ -8523,8 +8523,8 @@ tag: trimmed
 title: In The Sunlight
 type: movie
 site: SexArt
-cast: n:Ivy Rein; u:https://www.sexart.com/model/ivy-rein; g:f
-cast: n:Casey; u:https://www.sexart.com/model/casey; g:f
+model: n:Ivy Rein; id:/model/sexart/ivy-rein; u:https://www.sexart.com/model/ivy-rein; g:f
+model: n:Casey; id:/model/sexart/casey; u:https://www.sexart.com/model/casey; g:f
 released: 2023-02-17
 director: Andrej Lupin
 fileprefix: SexArt-20230217-in-the-sunlight-
@@ -8582,8 +8582,8 @@ tag: vibrator
 title: French Charm
 type: movie
 site: SexArt
-cast: n:Josh; u:https://www.sexart.com/model/josh
-cast: n:Jayla De Angelis; u:https://www.sexart.com/model/jayla-de-angelis
+model: n:Josh; id:/model/sexart/josh; u:https://www.sexart.com/model/josh
+model: n:Jayla De Angelis; id:/model/sexart/jayla-de-angelis; u:https://www.sexart.com/model/jayla-de-angelis
 released: 2023-02-15
 director: Andrej Lupin
 fileprefix: SexArt-20230215-french-charm-
@@ -8641,8 +8641,8 @@ tag: tan lines
 title: Living It Up
 type: movie
 site: SexArt
-cast: n:Nata Ocean; u:https://www.sexart.com/model/nata-ocean
-cast: n:Tommy Gold; u:https://www.sexart.com/model/tommy-gold
+model: n:Nata Ocean; id:/model/sexart/nata-ocean; u:https://www.sexart.com/model/nata-ocean
+model: n:Tommy Gold; id:/model/sexart/tommy-gold; u:https://www.sexart.com/model/tommy-gold
 released: 2023-02-12
 director: Andrej Lupin
 fileprefix: SexArt-20230212-living-it-up-
@@ -8700,8 +8700,8 @@ tag: table
 title: Whisper To You
 type: movie
 site: SexArt
-cast: n:Sky Pierce; u:https://www.sexart.com/model/sky-pierce
-cast: n:Nek Sinner; u:https://www.sexart.com/model/nek-sinner
+model: n:Sky Pierce; id:/model/sexart/sky-pierce; u:https://www.sexart.com/model/sky-pierce
+model: n:Nek Sinner; id:/model/sexart/nek-sinner; u:https://www.sexart.com/model/nek-sinner
 released: 2023-02-10
 director: Andrej Lupin
 fileprefix: SexArt-20230210-whisper-to-you-
@@ -8759,8 +8759,8 @@ tag: tshirt
 title: Love Haze
 type: movie
 site: SexArt
-cast: n:Jessie Clark; u:https://www.sexart.com/model/jessie-clark
-cast: n:Ricky; u:https://www.sexart.com/model/ricky
+model: n:Jessie Clark; id:/model/sexart/jessie-clark; u:https://www.sexart.com/model/jessie-clark
+model: n:Ricky; id:/model/sexart/ricky; u:https://www.sexart.com/model/ricky
 released: 2023-02-08
 director: Andrej Lupin
 fileprefix: SexArt-20230208-love-haze-
@@ -8817,8 +8817,8 @@ tag: up-do
 title: Endless Love
 type: movie
 site: SexArt
-cast: n:Michael Fly; u:https://www.sexart.com/model/michael-fly
-cast: n:Lee Anne; u:https://www.sexart.com/model/lee-anne; g:f
+model: n:Michael Fly; id:/model/sexart/michael-fly; u:https://www.sexart.com/model/michael-fly
+model: n:Lee Anne; id:/model/sexart/lee-anne; u:https://www.sexart.com/model/lee-anne; g:f
 released: 2023-02-05
 director: Andrej Lupin
 fileprefix: SexArt-20230205-endless-love-
@@ -8871,8 +8871,8 @@ tag: trimmed
 title: Bound By Love #2
 type: movie
 site: SexArt
-cast: n:Mugur; u:https://www.sexart.com/model/mugur
-cast: n:Mona Blue; u:https://www.sexart.com/model/mona-blue
+model: n:Mugur; id:/model/sexart/mugur; u:https://www.sexart.com/model/mugur
+model: n:Mona Blue; id:/model/sexart/mona-blue; u:https://www.sexart.com/model/mona-blue
 released: 2023-02-03
 director: Andrej Lupin
 fileprefix: SexArt-20230203-bound-by-love-02-
@@ -8922,8 +8922,8 @@ tag: spread legs
 title: Dinner
 type: movie
 site: SexArt
-cast: n:Lexi Dona; u:https://www.sexart.com/model/lexi-dona
-cast: n:Ricky; u:https://www.sexart.com/model/ricky
+model: n:Lexi Dona; id:/model/sexart/lexi-dona; u:https://www.sexart.com/model/lexi-dona
+model: n:Ricky; id:/model/sexart/ricky; u:https://www.sexart.com/model/ricky
 released: 2023-02-01
 director: Andrej Lupin
 fileprefix: SexArt-20230201-dinner-
@@ -8987,8 +8987,8 @@ tag: tattoo
 title: Heavenly Passion
 type: movie
 site: SexArt
-cast: n:Alexa Flexy; u:https://www.sexart.com/model/alexa-flexy
-cast: n:Tommy Gold; u:https://www.sexart.com/model/tommy-gold
+model: n:Alexa Flexy; id:/model/sexart/alexa-flexy; u:https://www.sexart.com/model/alexa-flexy
+model: n:Tommy Gold; id:/model/sexart/tommy-gold; u:https://www.sexart.com/model/tommy-gold
 released: 2023-01-29
 director: Andrej Lupin
 fileprefix: SexArt-20230129-heavenly-passion-
@@ -9046,8 +9046,8 @@ tag: tattoo
 title: Tender Dream
 type: movie
 site: SexArt
-cast: n:Lilly Bella; u:https://www.sexart.com/model/lilly-bella; g:f
-cast: n:Abela Sott; u:https://www.sexart.com/model/abela-sott
+model: n:Lilly Bella; id:/model/sexart/lilly-bella; u:https://www.sexart.com/model/lilly-bella; g:f
+model: n:Abela Sott; id:/model/sexart/abela-sott; u:https://www.sexart.com/model/abela-sott
 released: 2023-01-27
 director: Andrej Lupin
 fileprefix: SexArt-20230127-tender-dream-
@@ -9107,8 +9107,8 @@ tag: trimmed
 title: Bound By Love #1
 type: movie
 site: SexArt
-cast: n:Mugur; u:https://www.sexart.com/model/mugur
-cast: n:Mona Blue; u:https://www.sexart.com/model/mona-blue
+model: n:Mugur; id:/model/sexart/mugur; u:https://www.sexart.com/model/mugur
+model: n:Mona Blue; id:/model/sexart/mona-blue; u:https://www.sexart.com/model/mona-blue
 released: 2023-01-25
 director: Andrej Lupin
 fileprefix: SexArt-20230125-bound-by-love-01-
@@ -9162,8 +9162,8 @@ tag: striptease
 title: Colleague
 type: movie
 site: SexArt
-cast: n:Stacy Cruz; u:https://www.sexart.com/model/stacy-cruz; g:f
-cast: n:Ricky; u:https://www.sexart.com/model/ricky
+model: n:Stacy Cruz; id:/model/sexart/stacy-cruz; u:https://www.sexart.com/model/stacy-cruz; g:f
+model: n:Ricky; id:/model/sexart/ricky; u:https://www.sexart.com/model/ricky
 released: 2023-01-22
 director: Andrej Lupin
 fileprefix: SexArt-20230122-colleague-
@@ -9230,8 +9230,8 @@ tag: trimmed
 title: Tease
 type: movie
 site: SexArt
-cast: n:Tommy Gold; u:https://www.sexart.com/model/tommy-gold
-cast: n:Barbie Brill; u:https://www.sexart.com/model/barbie-brill
+model: n:Tommy Gold; id:/model/sexart/tommy-gold; u:https://www.sexart.com/model/tommy-gold
+model: n:Barbie Brill; id:/model/sexart/barbie-brill; u:https://www.sexart.com/model/barbie-brill
 released: 2023-01-20
 director: Andrej Lupin
 fileprefix: SexArt-20230120-tease-
@@ -9293,8 +9293,8 @@ tag: striptease
 title: Dimension
 type: movie
 site: SexArt
-cast: n:Ricky; u:https://www.sexart.com/model/ricky
-cast: n:Claudia Bavel; u:https://www.sexart.com/model/claudia-bavel
+model: n:Ricky; id:/model/sexart/ricky; u:https://www.sexart.com/model/ricky
+model: n:Claudia Bavel; id:/model/sexart/claudia-bavel; u:https://www.sexart.com/model/claudia-bavel
 released: 2023-01-18
 director: Andrej Lupin
 fileprefix: SexArt-20230118-dimension-
@@ -9352,8 +9352,8 @@ tag: up-do
 title: Lost In You
 type: movie
 site: SexArt
-cast: n:Isabela De Laa; u:https://www.sexart.com/model/isabela-de-laa; g:f
-cast: n:Angelo Godshack; u:https://www.sexart.com/model/angelo-godshack; g:m; s:SexArt
+model: n:Isabela De Laa; id:/model/sexart/isabela-de-laa; u:https://www.sexart.com/model/isabela-de-laa; g:f
+model: n:Angelo Godshack; id:/model/sexart/angelo-godshack; u:https://www.sexart.com/model/angelo-godshack; g:m
 released: 2023-01-15
 director: Andrej Lupin
 fileprefix: SexArt-20230115-lost-in-you-
@@ -9411,8 +9411,8 @@ tag: trimmed
 title: My Insanity
 type: movie
 site: SexArt
-cast: n:Jessie Clark; u:https://www.sexart.com/model/jessie-clark
-cast: n:Nick Ross; u:https://www.sexart.com/model/nick-ross
+model: n:Jessie Clark; id:/model/sexart/jessie-clark; u:https://www.sexart.com/model/jessie-clark
+model: n:Nick Ross; id:/model/sexart/nick-ross; u:https://www.sexart.com/model/nick-ross
 released: 2023-01-13
 director: Andrej Lupin
 fileprefix: SexArt-20230113-my-insanity-
@@ -9474,8 +9474,8 @@ tag: topless
 title: Amazing Moment
 type: movie
 site: SexArt
-cast: n:Gina Snow; u:https://www.sexart.com/model/gina-snow; g:f
-cast: n:Ricky; u:https://www.sexart.com/model/ricky
+model: n:Gina Snow; id:/model/sexart/gina-snow; u:https://www.sexart.com/model/gina-snow; g:f
+model: n:Ricky; id:/model/sexart/ricky; u:https://www.sexart.com/model/ricky
 released: 2023-01-11
 director: Andrej Lupin
 fileprefix: SexArt-20230111-amazing-moment-
@@ -9532,8 +9532,8 @@ tag: sweden
 title: Skin To Skin
 type: movie
 site: SexArt
-cast: n:Tommy Gold; u:https://www.sexart.com/model/tommy-gold
-cast: n:Milena Ray; u:https://www.sexart.com/model/milena-ray
+model: n:Tommy Gold; id:/model/sexart/tommy-gold; u:https://www.sexart.com/model/tommy-gold
+model: n:Milena Ray; id:/model/sexart/milena-ray; u:https://www.sexart.com/model/milena-ray
 released: 2023-01-08
 director: Andrej Lupin
 fileprefix: SexArt-20230108-skin-to-skin-
@@ -9594,8 +9594,8 @@ tag: spread legs
 title: Guide To Pleasure
 type: movie
 site: SexArt
-cast: n:Nata Ocean; u:https://www.sexart.com/model/nata-ocean
-cast: n:Lili Charmelle; u:https://www.sexart.com/model/lili-charmelle
+model: n:Nata Ocean; id:/model/sexart/nata-ocean; u:https://www.sexart.com/model/nata-ocean
+model: n:Lili Charmelle; id:/model/sexart/lili-charmelle; u:https://www.sexart.com/model/lili-charmelle
 released: 2023-01-06
 director: Andrej Lupin
 fileprefix: SexArt-20230106-guide-to-pleasure-
@@ -9651,8 +9651,8 @@ tag: vibrator
 title: Wistful Gaze
 type: movie
 site: SexArt
-cast: n:Josh; u:https://www.sexart.com/model/josh
-cast: n:Sofi Vega; u:https://www.sexart.com/model/sofi-vega
+model: n:Josh; id:/model/sexart/josh; u:https://www.sexart.com/model/josh
+model: n:Sofi Vega; id:/model/sexart/sofi-vega; u:https://www.sexart.com/model/sofi-vega
 released: 2023-01-04
 director: Andrej Lupin
 fileprefix: SexArt-20230104-wistful-gaze-
@@ -9712,8 +9712,8 @@ tag: striptease
 title: Barrier
 type: movie
 site: SexArt
-cast: n:Eva Brown; u:https://www.sexart.com/model/eva-brown
-cast: n:Ricky; u:https://www.sexart.com/model/ricky
+model: n:Eva Brown; id:/model/sexart/eva-brown; u:https://www.sexart.com/model/eva-brown
+model: n:Ricky; id:/model/sexart/ricky; u:https://www.sexart.com/model/ricky
 released: 2023-01-01
 director: Andrej Lupin
 fileprefix: SexArt-20230101-barrier-

@@ -9,8 +9,8 @@ title: Making of a Madame #3
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/stella-stevens-and-gina-b/movie/20021208/MAKING_OF_A_MADAME_PART_3
-cast: Stella Stevens; https://www.vivthomas.com/model/stella-stevens; f
-cast: Gina B; https://www.vivthomas.com/model/gina-b; f
+model: n:Stella Stevens; id:/model/vivthomas/stella-stevens; u:https://www.vivthomas.com/model/stella-stevens; g:f
+model: n:Gina B; id:/model/vivthomas/gina-b; u:https://www.vivthomas.com/model/gina-b; g:f
 released: 2002-12-08
 director:   Viv Thomas
 rating: 9.3
@@ -26,8 +26,8 @@ title: Making of a Madame #2
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/gina-b-and-sandy-d/movie/20021207/MAKING_OF_A_MADAME_PART_2
-cast: Gina B; https://www.vivthomas.com/model/gina-b; f
-cast: Sandy D; https://www.vivthomas.com/model/sandy-d; f
+model: n:Gina B; id:/model/vivthomas/gina-b; u:https://www.vivthomas.com/model/gina-b; g:f
+model: n:Sandy D; id:/model/vivthomas/sandy-d; u:https://www.vivthomas.com/model/sandy-d; g:f
 released: 2002-12-07
 director:   Viv Thomas
 rating: 9.2
@@ -43,8 +43,8 @@ title: Making of a Madame #1
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/sandy-d-and-gina-b/movie/20021206/MAKING_OF_A_MADAME_PART_1
-cast: Sandy D; https://www.vivthomas.com/model/sandy-d; f
-cast: Gina B; https://www.vivthomas.com/model/gina-b; f
+model: n:Sandy D; id:/model/vivthomas/sandy-d; u:https://www.vivthomas.com/model/sandy-d; g:f
+model: n:Gina B; id:/model/vivthomas/gina-b; u:https://www.vivthomas.com/model/gina-b; g:f
 released: 2002-12-06
 director:   Viv Thomas
 rating: 9.1
@@ -60,7 +60,7 @@ title: Leg Sex Babes 2 #3
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/jenny-a/movie/20020316/LEG_SEX_BABES_2_PART_3
-cast: Jenny A; https://www.vivthomas.com/model/jenny-a; f
+model: n:Jenny A; id:/model/vivthomas/jenny-a; u:https://www.vivthomas.com/model/jenny-a; g:f
 released: 2002-03-16
 director:   Viv Thomas
 rating: 9.2
@@ -87,7 +87,7 @@ title: Leg Sex Babes 2 #2
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/tina-a/movie/20020315/LEG_SEX_BABES_2_PART_2
-cast: Tina A; https://www.vivthomas.com/model/tina-a; f
+model: n:Tina A; id:/model/vivthomas/tina-a; u:https://www.vivthomas.com/model/tina-a; g:f
 released: 2002-03-15
 director:   Viv Thomas
 rating: 9.3
@@ -111,7 +111,7 @@ title: Leg Sex Babes 2 #1
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/sandra-shine/movie/20020314/LEG_SEX_BABES_2_PART_1
-cast: Sandra Shine; https://www.vivthomas.com/model/sandra-shine; f
+model: n:Sandra Shine; id:/model/vivthomas/sandra-shine; u:https://www.vivthomas.com/model/sandra-shine; g:f
 released: 2002-03-14
 director:   Viv Thomas
 rating: 9.4

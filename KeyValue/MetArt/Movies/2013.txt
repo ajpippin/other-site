@@ -8,7 +8,7 @@
 title: Presenting Oretha Mars
 type: movie
 site: MetArt
-cast: n:Oretha Mars; u:https://www.metart.com/model/oretha-mars; g:f
+model: n:Oretha Mars; id:/model/metart/oretha-mars; u:https://www.metart.com/model/oretha-mars; g:f
 released: 2013-12-29
 director: Platon Averin
 fileprefix: MetArt-20131229-presenting-oretha-mars-
@@ -23,7 +23,7 @@ description: xxx
 title: Henedy
 type: movie
 site: MetArt
-cast: n:Patritcy A; u:https://www.sexart.com/model/patritcy-a; s:SexArt; g:f
+model: n:Patritcy A; id:/model/sexart/patritcy-a; u:https://www.sexart.com/model/patritcy-a; g:f
 released: 2013-12-24
 director: Koenart
 fileprefix: MetArt-20131224-henedy-
@@ -38,7 +38,7 @@ description: xxx
 title: Raziona
 type: movie
 site: MetArt
-cast: n:Loreen A; u:https://www.metart.com/model/loreen-a; g:f
+model: n:Loreen A; id:/model/metart/loreen-a; u:https://www.metart.com/model/loreen-a; g:f
 released: 2013-12-22
 director: Rylsky
 fileprefix: MetArt-20131222-raziona-
@@ -53,7 +53,7 @@ description: xxx
 title: Presenting Monik
 type: movie
 site: MetArt
-cast: n:Monik C; u:https://www.metart.com/model/monik-c; g:f
+model: n:Monik C; id:/model/metart/monik-c; u:https://www.metart.com/model/monik-c; g:f
 released: 2013-12-17
 director: Fenix
 fileprefix: MetArt-20131217-presenting-monik-
@@ -68,7 +68,7 @@ description: xxx
 title: Vosoni
 type: movie
 site: MetArt
-cast: n:Yana B; u:https://www.metart.com/model/yana-b; g:f
+model: n:Yana B; id:/model/metart/yana-b; u:https://www.metart.com/model/yana-b; g:f
 released: 2013-12-15
 director: Ivan Harrin
 fileprefix: MetArt-20131215-vosoni-
@@ -83,7 +83,7 @@ description: xxx
 title: Tambien
 type: movie
 site: MetArt
-cast: n:Feeona A; u:https://www.metart.com/model/feeona-a; g:f
+model: n:Feeona A; id:/model/metart/feeona-a; u:https://www.metart.com/model/feeona-a; g:f
 released: 2013-12-10
 director: Rylsky
 fileprefix: MetArt-20131210-tambien-
@@ -98,7 +98,7 @@ description: xxx
 title: Sarada
 type: movie
 site: MetArt
-cast: n:Emily Bloom; u:https://www.sexart.com/model/emily-bloom; s:SexArt; g:f
+model: n:Emily Bloom; id:/model/sexart/emily-bloom; u:https://www.sexart.com/model/emily-bloom; g:f
 released: 2013-12-08
 director: Alex Iskan
 fileprefix: MetArt-20131208-sarada-
@@ -113,7 +113,7 @@ description: xxx
 title: Smeeny
 type: movie
 site: MetArt
-cast: n:Flavia A; u:https://www.metart.com/model/flavia-a; g:f
+model: n:Flavia A; id:/model/metart/flavia-a; u:https://www.metart.com/model/flavia-a; g:f
 released: 2013-12-03
 director: Rylsky
 fileprefix: MetArt-20131203-smeeny-
@@ -128,7 +128,7 @@ description: xxx
 title: Verrattu
 type: movie
 site: MetArt
-cast: n:Semmi A; u:https://www.metart.com/model/semmi-a; g:f
+model: n:Semmi A; id:/model/metart/semmi-a; u:https://www.metart.com/model/semmi-a; g:f
 released: 2013-12-01
 director: Fenix
 fileprefix: MetArt-20131201-verrattu-
@@ -143,7 +143,7 @@ description: xxx
 title: Tideni
 type: movie
 site: MetArt
-cast: n:Zemira A; u:https://www.metart.com/model/zemira-a; g:f
+model: n:Zemira A; id:/model/metart/zemira-a; u:https://www.metart.com/model/zemira-a; g:f
 released: 2013-11-26
 director: Rylsky
 fileprefix: MetArt-20131126-tideni-
@@ -158,7 +158,7 @@ description: xxx
 title: Omradet
 type: movie
 site: MetArt
-cast: n:Irish A; u:https://www.metart.com/model/irish-a; g:f
+model: n:Irish A; id:/model/metart/irish-a; u:https://www.metart.com/model/irish-a; g:f
 released: 2013-11-24
 director: Fenix
 fileprefix: MetArt-20131124-omradet-
@@ -173,7 +173,7 @@ description: xxx
 title: Matiki
 type: movie
 site: MetArt
-cast: n:Yani A; u:https://www.metart.com/model/yani-a; g:f
+model: n:Yani A; id:/model/metart/yani-a; u:https://www.metart.com/model/yani-a; g:f
 released: 2013-11-19
 director: Alex Sironi
 fileprefix: MetArt-20131119-matiki-
@@ -188,7 +188,7 @@ description: xxx
 title: Agogi
 type: movie
 site: MetArt
-cast: n:Liuko A; u:https://www.metart.com/model/liuko-a; g:f
+model: n:Liuko A; id:/model/metart/liuko-a; u:https://www.metart.com/model/liuko-a; g:f
 released: 2013-11-17
 director: Ivan Harrin
 fileprefix: MetArt-20131117-agogi-
@@ -203,7 +203,7 @@ description: xxx
 title: Cuando
 type: movie
 site: MetArt
-cast: n:Mia D; u:https://www.metart.com/model/mia-d; g:f
+model: n:Mia D; id:/model/metart/mia-d; u:https://www.metart.com/model/mia-d; g:f
 released: 2013-11-12
 director: Leonardo
 fileprefix: MetArt-20131112-cuando-
@@ -218,7 +218,7 @@ description: xxx
 title: Esida
 type: movie
 site: MetArt
-cast: n:Isabella D; u:https://www.sexart.com/model/isabella-d; s:SexArt; g:f
+model: n:Isabella D; id:/model/sexart/isabella-d; u:https://www.sexart.com/model/isabella-d; g:f
 released: 2013-11-10
 director: Fenix
 fileprefix: MetArt-20131110-esida-
@@ -233,7 +233,7 @@ description: xxx
 title: Typika
 type: movie
 site: MetArt
-cast: n:Tracy A; u:https://www.sexart.com/model/tracy-a; s:SexArt; g:f
+model: n:Tracy A; id:/model/sexart/tracy-a; u:https://www.sexart.com/model/tracy-a; g:f
 released: 2013-11-05
 director: Koenart
 fileprefix: MetArt-20131105-typika-
@@ -248,7 +248,7 @@ description: xxx
 title: Penado
 type: movie
 site: MetArt
-cast: n:Dominika A; u:https://www.metart.com/model/dominika-a; g:f
+model: n:Dominika A; id:/model/metart/dominika-a; u:https://www.metart.com/model/dominika-a; g:f
 released: 2013-11-03
 director: Luca Helios
 fileprefix: MetArt-20131103-penado-
@@ -263,7 +263,7 @@ description: xxx
 title: Sedane
 type: movie
 site: MetArt
-cast: n:Emily Bloom; u:https://www.sexart.com/model/emily-bloom; s:SexArt; g:f
+model: n:Emily Bloom; id:/model/sexart/emily-bloom; u:https://www.sexart.com/model/emily-bloom; g:f
 released: 2013-10-29
 director: Marlene
 fileprefix: MetArt-20131029-sedane-
@@ -278,7 +278,7 @@ description: xxx
 title: Kassid
 type: movie
 site: MetArt
-cast: n:Yarina A; u:https://www.metart.com/model/yarina-a; g:f
+model: n:Yarina A; id:/model/metart/yarina-a; u:https://www.metart.com/model/yarina-a; g:f
 released: 2013-10-27
 director: Fenix
 fileprefix: MetArt-20131027-kassid-
@@ -293,7 +293,7 @@ description: xxx
 title: Marrum
 type: movie
 site: MetArt
-cast: n:Norma A; u:https://www.metart.com/model/norma-a; g:f
+model: n:Norma A; id:/model/metart/norma-a; u:https://www.metart.com/model/norma-a; g:f
 released: 2013-10-22
 director: Rylsky
 fileprefix: MetArt-20131022-marrum-
@@ -308,7 +308,7 @@ description: xxx
 title: Wiyar
 type: movie
 site: MetArt
-cast: n:Malinda A; u:https://www.metart.com/model/malinda-a; g:f
+model: n:Malinda A; id:/model/metart/malinda-a; u:https://www.metart.com/model/malinda-a; g:f
 released: 2013-10-20
 director: Marlene
 fileprefix: MetArt-20131020-wiyar-
@@ -323,7 +323,7 @@ description: xxx
 title: Mariyu
 type: movie
 site: MetArt
-cast: n:Yani A; u:https://www.metart.com/model/yani-a; g:f
+model: n:Yani A; id:/model/metart/yani-a; u:https://www.metart.com/model/yani-a; g:f
 released: 2013-10-15
 director: Nick Twin
 fileprefix: MetArt-20131015-mariyu-
@@ -338,7 +338,7 @@ description: xxx
 title: Cinna
 type: movie
 site: MetArt
-cast: n:Irish A; u:https://www.metart.com/model/irish-a; g:f
+model: n:Irish A; id:/model/metart/irish-a; u:https://www.metart.com/model/irish-a; g:f
 released: 2013-10-13
 director: Fenix
 fileprefix: MetArt-20131013-cinna-
@@ -353,7 +353,7 @@ description: xxx
 title: Presenting Oretha Mars
 type: movie
 site: MetArt
-cast: n:Oretha Mars; u:https://www.metart.com/model/oretha-mars; g:f
+model: n:Oretha Mars; id:/model/metart/oretha-mars; u:https://www.metart.com/model/oretha-mars; g:f
 released: 2013-12-29
 director: Platon Averin
 fileprefix: MetArt-20131229-presenting-oretha-mars-
@@ -368,7 +368,7 @@ description: xxx
 title: Henedy
 type: movie
 site: MetArt
-cast: n:Patritcy A; u:https://www.sexart.com/model/patritcy-a; s:SexArt; g:f
+model: n:Patritcy A; id:/model/sexart/patritcy-a; u:https://www.sexart.com/model/patritcy-a; g:f
 released: 2013-12-24
 director: Koenart
 fileprefix: MetArt-20131224-henedy-
@@ -383,7 +383,7 @@ description: xxx
 title: Raziona
 type: movie
 site: MetArt
-cast: n:Loreen A; u:https://www.metart.com/model/loreen-a; g:f
+model: n:Loreen A; id:/model/metart/loreen-a; u:https://www.metart.com/model/loreen-a; g:f
 released: 2013-12-22
 director: Rylsky
 fileprefix: MetArt-20131222-raziona-
@@ -398,7 +398,7 @@ description: xxx
 title: Presenting Monik
 type: movie
 site: MetArt
-cast: n:Monik C; u:https://www.metart.com/model/monik-c; g:f
+model: n:Monik C; id:/model/metart/monik-c; u:https://www.metart.com/model/monik-c; g:f
 released: 2013-12-17
 director: Fenix
 fileprefix: MetArt-20131217-presenting-monik-
@@ -413,7 +413,7 @@ description: xxx
 title: Vosoni
 type: movie
 site: MetArt
-cast: n:Yana B; u:https://www.metart.com/model/yana-b; g:f
+model: n:Yana B; id:/model/metart/yana-b; u:https://www.metart.com/model/yana-b; g:f
 released: 2013-12-15
 director: Ivan Harrin
 fileprefix: MetArt-20131215-vosoni-
@@ -428,7 +428,7 @@ description: xxx
 title: Tambien
 type: movie
 site: MetArt
-cast: n:Feeona A; u:https://www.metart.com/model/feeona-a; g:f
+model: n:Feeona A; id:/model/metart/feeona-a; u:https://www.metart.com/model/feeona-a; g:f
 released: 2013-12-10
 director: Rylsky
 fileprefix: MetArt-20131210-tambien-
@@ -443,7 +443,7 @@ description: xxx
 title: Sarada
 type: movie
 site: MetArt
-cast: n:Emily Bloom; u:https://www.sexart.com/model/emily-bloom; s:SexArt; g:f
+model: n:Emily Bloom; id:/model/sexart/emily-bloom; u:https://www.sexart.com/model/emily-bloom; g:f
 released: 2013-12-08
 director: Alex Iskan
 fileprefix: MetArt-20131208-sarada-
@@ -458,7 +458,7 @@ description: xxx
 title: Smeeny
 type: movie
 site: MetArt
-cast: n:Flavia A; u:https://www.metart.com/model/flavia-a; g:f
+model: n:Flavia A; id:/model/metart/flavia-a; u:https://www.metart.com/model/flavia-a; g:f
 released: 2013-12-03
 director: Rylsky
 fileprefix: MetArt-20131203-smeeny-
@@ -473,7 +473,7 @@ description: xxx
 title: Verrattu
 type: movie
 site: MetArt
-cast: n:Semmi A; u:https://www.metart.com/model/semmi-a; g:f
+model: n:Semmi A; id:/model/metart/semmi-a; u:https://www.metart.com/model/semmi-a; g:f
 released: 2013-12-01
 director: Fenix
 fileprefix: MetArt-20131201-verrattu-
@@ -488,7 +488,7 @@ description: xxx
 title: Tideni
 type: movie
 site: MetArt
-cast: n:Zemira A; u:https://www.metart.com/model/zemira-a; g:f
+model: n:Zemira A; id:/model/metart/zemira-a; u:https://www.metart.com/model/zemira-a; g:f
 released: 2013-11-26
 director: Rylsky
 fileprefix: MetArt-20131126-tideni-
@@ -503,7 +503,7 @@ description: xxx
 title: Omradet
 type: movie
 site: MetArt
-cast: n:Irish A; u:https://www.metart.com/model/irish-a; g:f
+model: n:Irish A; id:/model/metart/irish-a; u:https://www.metart.com/model/irish-a; g:f
 released: 2013-11-24
 director: Fenix
 fileprefix: MetArt-20131124-omradet-
@@ -518,7 +518,7 @@ description: xxx
 title: Matiki
 type: movie
 site: MetArt
-cast: n:Yani A; u:https://www.metart.com/model/yani-a; g:f
+model: n:Yani A; id:/model/metart/yani-a; u:https://www.metart.com/model/yani-a; g:f
 released: 2013-11-19
 director: Alex Sironi
 fileprefix: MetArt-20131119-matiki-
@@ -533,7 +533,7 @@ description: xxx
 title: Agogi
 type: movie
 site: MetArt
-cast: n:Liuko A; u:https://www.metart.com/model/liuko-a; g:f
+model: n:Liuko A; id:/model/metart/liuko-a; u:https://www.metart.com/model/liuko-a; g:f
 released: 2013-11-17
 director: Ivan Harrin
 fileprefix: MetArt-20131117-agogi-
@@ -548,7 +548,7 @@ description: xxx
 title: Cuando
 type: movie
 site: MetArt
-cast: n:Mia D; u:https://www.metart.com/model/mia-d; g:f
+model: n:Mia D; id:/model/metart/mia-d; u:https://www.metart.com/model/mia-d; g:f
 released: 2013-11-12
 director: Leonardo
 fileprefix: MetArt-20131112-cuando-
@@ -563,7 +563,7 @@ description: xxx
 title: Esida
 type: movie
 site: MetArt
-cast: n:Isabella D; u:https://www.sexart.com/model/isabella-d; s:SexArt; g:f
+model: n:Isabella D; id:/model/sexart/isabella-d; u:https://www.sexart.com/model/isabella-d; g:f
 released: 2013-11-10
 director: Fenix
 fileprefix: MetArt-20131110-esida-
@@ -578,7 +578,7 @@ description: xxx
 title: Typika
 type: movie
 site: MetArt
-cast: n:Tracy A; u:https://www.sexart.com/model/tracy-a; s:SexArt; g:f
+model: n:Tracy A; id:/model/sexart/tracy-a; u:https://www.sexart.com/model/tracy-a; g:f
 released: 2013-11-05
 director: Koenart
 fileprefix: MetArt-20131105-typika-
@@ -593,7 +593,7 @@ description: xxx
 title: Penado
 type: movie
 site: MetArt
-cast: n:Dominika A; u:https://www.metart.com/model/dominika-a; g:f
+model: n:Dominika A; id:/model/metart/dominika-a; u:https://www.metart.com/model/dominika-a; g:f
 released: 2013-11-03
 director: Luca Helios
 fileprefix: MetArt-20131103-penado-
@@ -608,7 +608,7 @@ description: xxx
 title: Sedane
 type: movie
 site: MetArt
-cast: n:Emily Bloom; u:https://www.sexart.com/model/emily-bloom; s:SexArt; g:f
+model: n:Emily Bloom; id:/model/sexart/emily-bloom; u:https://www.sexart.com/model/emily-bloom; g:f
 released: 2013-10-29
 director: Marlene
 fileprefix: MetArt-20131029-sedane-
@@ -623,7 +623,7 @@ description: xxx
 title: Kassid
 type: movie
 site: MetArt
-cast: n:Yarina A; u:https://www.metart.com/model/yarina-a; g:f
+model: n:Yarina A; id:/model/metart/yarina-a; u:https://www.metart.com/model/yarina-a; g:f
 released: 2013-10-27
 director: Fenix
 fileprefix: MetArt-20131027-kassid-
@@ -638,7 +638,7 @@ description: xxx
 title: Marrum
 type: movie
 site: MetArt
-cast: n:Norma A; u:https://www.metart.com/model/norma-a; g:f
+model: n:Norma A; id:/model/metart/norma-a; u:https://www.metart.com/model/norma-a; g:f
 released: 2013-10-22
 director: Rylsky
 fileprefix: MetArt-20131022-marrum-
@@ -653,7 +653,7 @@ description: xxx
 title: Wiyar
 type: movie
 site: MetArt
-cast: n:Malinda A; u:https://www.metart.com/model/malinda-a; g:f
+model: n:Malinda A; id:/model/metart/malinda-a; u:https://www.metart.com/model/malinda-a; g:f
 released: 2013-10-20
 director: Marlene
 fileprefix: MetArt-20131020-wiyar-
@@ -668,7 +668,7 @@ description: xxx
 title: Mariyu
 type: movie
 site: MetArt
-cast: n:Yani A; u:https://www.metart.com/model/yani-a; g:f
+model: n:Yani A; id:/model/metart/yani-a; u:https://www.metart.com/model/yani-a; g:f
 released: 2013-10-15
 director: Nick Twin
 fileprefix: MetArt-20131015-mariyu-
@@ -683,7 +683,7 @@ description: xxx
 title: Cinna
 type: movie
 site: MetArt
-cast: n:Irish A; u:https://www.metart.com/model/irish-a; g:f
+model: n:Irish A; id:/model/metart/irish-a; u:https://www.metart.com/model/irish-a; g:f
 released: 2013-10-13
 director: Fenix
 fileprefix: MetArt-20131013-cinna-
@@ -699,7 +699,7 @@ description: xxx
 title: Presenting Oretha Mars
 type: movie
 site: MetArt
-cast: n:Oretha Mars; u:https://www.metart.com/model/oretha-mars; g:f
+model: n:Oretha Mars; id:/model/metart/oretha-mars; u:https://www.metart.com/model/oretha-mars; g:f
 released: 2013-12-29
 director: Platon Averin
 fileprefix: MetArt-20131229-presenting-oretha-mars-
@@ -714,7 +714,7 @@ description: xxx
 title: Henedy
 type: movie
 site: MetArt
-cast: n:Patritcy A; u:https://www.sexart.com/model/patritcy-a; s:SexArt; g:f
+model: n:Patritcy A; id:/model/sexart/patritcy-a; u:https://www.sexart.com/model/patritcy-a; g:f
 released: 2013-12-24
 director: Koenart
 fileprefix: MetArt-20131224-henedy-
@@ -729,7 +729,7 @@ description: xxx
 title: Raziona
 type: movie
 site: MetArt
-cast: n:Loreen A; u:https://www.metart.com/model/loreen-a; g:f
+model: n:Loreen A; id:/model/metart/loreen-a; u:https://www.metart.com/model/loreen-a; g:f
 released: 2013-12-22
 director: Rylsky
 fileprefix: MetArt-20131222-raziona-
@@ -744,7 +744,7 @@ description: xxx
 title: Presenting Monik
 type: movie
 site: MetArt
-cast: n:Monik C; u:https://www.metart.com/model/monik-c; g:f
+model: n:Monik C; id:/model/metart/monik-c; u:https://www.metart.com/model/monik-c; g:f
 released: 2013-12-17
 director: Fenix
 fileprefix: MetArt-20131217-presenting-monik-
@@ -759,7 +759,7 @@ description: xxx
 title: Vosoni
 type: movie
 site: MetArt
-cast: n:Yana B; u:https://www.metart.com/model/yana-b; g:f
+model: n:Yana B; id:/model/metart/yana-b; u:https://www.metart.com/model/yana-b; g:f
 released: 2013-12-15
 director: Ivan Harrin
 fileprefix: MetArt-20131215-vosoni-
@@ -774,7 +774,7 @@ description: xxx
 title: Tambien
 type: movie
 site: MetArt
-cast: n:Feeona A; u:https://www.metart.com/model/feeona-a; g:f
+model: n:Feeona A; id:/model/metart/feeona-a; u:https://www.metart.com/model/feeona-a; g:f
 released: 2013-12-10
 director: Rylsky
 fileprefix: MetArt-20131210-tambien-
@@ -789,7 +789,7 @@ description: xxx
 title: Sarada
 type: movie
 site: MetArt
-cast: n:Emily Bloom; u:https://www.sexart.com/model/emily-bloom; s:SexArt; g:f
+model: n:Emily Bloom; id:/model/sexart/emily-bloom; u:https://www.sexart.com/model/emily-bloom; g:f
 released: 2013-12-08
 director: Alex Iskan
 fileprefix: MetArt-20131208-sarada-
@@ -804,7 +804,7 @@ description: xxx
 title: Smeeny
 type: movie
 site: MetArt
-cast: n:Flavia A; u:https://www.metart.com/model/flavia-a; g:f
+model: n:Flavia A; id:/model/metart/flavia-a; u:https://www.metart.com/model/flavia-a; g:f
 released: 2013-12-03
 director: Rylsky
 fileprefix: MetArt-20131203-smeeny-
@@ -819,7 +819,7 @@ description: xxx
 title: Verrattu
 type: movie
 site: MetArt
-cast: n:Semmi A; u:https://www.metart.com/model/semmi-a; g:f
+model: n:Semmi A; id:/model/metart/semmi-a; u:https://www.metart.com/model/semmi-a; g:f
 released: 2013-12-01
 director: Fenix
 fileprefix: MetArt-20131201-verrattu-
@@ -834,7 +834,7 @@ description: xxx
 title: Tideni
 type: movie
 site: MetArt
-cast: n:Zemira A; u:https://www.metart.com/model/zemira-a; g:f
+model: n:Zemira A; id:/model/metart/zemira-a; u:https://www.metart.com/model/zemira-a; g:f
 released: 2013-11-26
 director: Rylsky
 fileprefix: MetArt-20131126-tideni-
@@ -849,7 +849,7 @@ description: xxx
 title: Omradet
 type: movie
 site: MetArt
-cast: n:Irish A; u:https://www.metart.com/model/irish-a; g:f
+model: n:Irish A; id:/model/metart/irish-a; u:https://www.metart.com/model/irish-a; g:f
 released: 2013-11-24
 director: Fenix
 fileprefix: MetArt-20131124-omradet-
@@ -864,7 +864,7 @@ description: xxx
 title: Matiki
 type: movie
 site: MetArt
-cast: n:Yani A; u:https://www.metart.com/model/yani-a; g:f
+model: n:Yani A; id:/model/metart/yani-a; u:https://www.metart.com/model/yani-a; g:f
 released: 2013-11-19
 director: Alex Sironi
 fileprefix: MetArt-20131119-matiki-
@@ -879,7 +879,7 @@ description: xxx
 title: Agogi
 type: movie
 site: MetArt
-cast: n:Liuko A; u:https://www.metart.com/model/liuko-a; g:f
+model: n:Liuko A; id:/model/metart/liuko-a; u:https://www.metart.com/model/liuko-a; g:f
 released: 2013-11-17
 director: Ivan Harrin
 fileprefix: MetArt-20131117-agogi-
@@ -894,7 +894,7 @@ description: xxx
 title: Cuando
 type: movie
 site: MetArt
-cast: n:Mia D; u:https://www.metart.com/model/mia-d; g:f
+model: n:Mia D; id:/model/metart/mia-d; u:https://www.metart.com/model/mia-d; g:f
 released: 2013-11-12
 director: Leonardo
 fileprefix: MetArt-20131112-cuando-
@@ -909,7 +909,7 @@ description: xxx
 title: Esida
 type: movie
 site: MetArt
-cast: n:Isabella D; u:https://www.sexart.com/model/isabella-d; s:SexArt; g:f
+model: n:Isabella D; id:/model/sexart/isabella-d; u:https://www.sexart.com/model/isabella-d; g:f
 released: 2013-11-10
 director: Fenix
 fileprefix: MetArt-20131110-esida-
@@ -924,7 +924,7 @@ description: xxx
 title: Typika
 type: movie
 site: MetArt
-cast: n:Tracy A; u:https://www.sexart.com/model/tracy-a; s:SexArt; g:f
+model: n:Tracy A; id:/model/sexart/tracy-a; u:https://www.sexart.com/model/tracy-a; g:f
 released: 2013-11-05
 director: Koenart
 fileprefix: MetArt-20131105-typika-
@@ -939,7 +939,7 @@ description: xxx
 title: Penado
 type: movie
 site: MetArt
-cast: n:Dominika A; u:https://www.metart.com/model/dominika-a; g:f
+model: n:Dominika A; id:/model/metart/dominika-a; u:https://www.metart.com/model/dominika-a; g:f
 released: 2013-11-03
 director: Luca Helios
 fileprefix: MetArt-20131103-penado-
@@ -954,7 +954,7 @@ description: xxx
 title: Sedane
 type: movie
 site: MetArt
-cast: n:Emily Bloom; u:https://www.sexart.com/model/emily-bloom; s:SexArt; g:f
+model: n:Emily Bloom; id:/model/sexart/emily-bloom; u:https://www.sexart.com/model/emily-bloom; g:f
 released: 2013-10-29
 director: Marlene
 fileprefix: MetArt-20131029-sedane-
@@ -969,7 +969,7 @@ description: xxx
 title: Kassid
 type: movie
 site: MetArt
-cast: n:Yarina A; u:https://www.metart.com/model/yarina-a; g:f
+model: n:Yarina A; id:/model/metart/yarina-a; u:https://www.metart.com/model/yarina-a; g:f
 released: 2013-10-27
 director: Fenix
 fileprefix: MetArt-20131027-kassid-
@@ -984,7 +984,7 @@ description: xxx
 title: Marrum
 type: movie
 site: MetArt
-cast: n:Norma A; u:https://www.metart.com/model/norma-a; g:f
+model: n:Norma A; id:/model/metart/norma-a; u:https://www.metart.com/model/norma-a; g:f
 released: 2013-10-22
 director: Rylsky
 fileprefix: MetArt-20131022-marrum-
@@ -999,7 +999,7 @@ description: xxx
 title: Wiyar
 type: movie
 site: MetArt
-cast: n:Malinda A; u:https://www.metart.com/model/malinda-a; g:f
+model: n:Malinda A; id:/model/metart/malinda-a; u:https://www.metart.com/model/malinda-a; g:f
 released: 2013-10-20
 director: Marlene
 fileprefix: MetArt-20131020-wiyar-
@@ -1014,7 +1014,7 @@ description: xxx
 title: Mariyu
 type: movie
 site: MetArt
-cast: n:Yani A; u:https://www.metart.com/model/yani-a; g:f
+model: n:Yani A; id:/model/metart/yani-a; u:https://www.metart.com/model/yani-a; g:f
 released: 2013-10-15
 director: Nick Twin
 fileprefix: MetArt-20131015-mariyu-
@@ -1029,7 +1029,7 @@ description: xxx
 title: Cinna
 type: movie
 site: MetArt
-cast: n:Irish A; u:https://www.metart.com/model/irish-a; g:f
+model: n:Irish A; id:/model/metart/irish-a; u:https://www.metart.com/model/irish-a; g:f
 released: 2013-10-13
 director: Fenix
 fileprefix: MetArt-20131013-cinna-
@@ -1044,7 +1044,7 @@ description: xxx
 title: Empiria
 type: movie
 site: MetArt
-cast: n:Milana G; u:https://www.metart.com/model/milana-g; g:f
+model: n:Milana G; id:/model/metart/milana-g; u:https://www.metart.com/model/milana-g; g:f
 released: 2013-03-12
 director: Ivan Harrin
 fileprefix: MetArt-20130312-empiria-
@@ -1059,7 +1059,7 @@ description: xxx
 title: Stabilna
 type: movie
 site: MetArt
-cast: n:Rachel Blau; u:https://www.metart.com/model/rachel-blau; g:f
+model: n:Rachel Blau; id:/model/metart/rachel-blau; u:https://www.metart.com/model/rachel-blau; g:f
 released: 2013-03-10
 director: Platon Averin
 fileprefix: MetArt-20130310-stabilna-
@@ -1074,7 +1074,7 @@ description: xxx
 title: Colmea
 type: movie
 site: MetArt
-cast: n:Feeona A; u:https://www.metart.com/model/feeona-a; g:f
+model: n:Feeona A; id:/model/metart/feeona-a; u:https://www.metart.com/model/feeona-a; g:f
 released: 2013-03-04
 director: Rylsky
 fileprefix: MetArt-20130304-colmea-
@@ -1089,7 +1089,7 @@ description: xxx
 title: Latria
 type: movie
 site: MetArt
-cast: n:Nikia A; u:https://www.metart.com/model/nikia-a; g:f
+model: n:Nikia A; id:/model/metart/nikia-a; u:https://www.metart.com/model/nikia-a; g:f
 released: 2013-03-01
 director: Rylsky
 fileprefix: MetArt-20130301-latria-
@@ -1104,7 +1104,7 @@ description: xxx
 title: Amande
 type: movie
 site: MetArt
-cast: n:Eva E; u:https://www.metart.com/model/eva-e; g:f
+model: n:Eva E; id:/model/metart/eva-e; u:https://www.metart.com/model/eva-e; g:f
 released: 2013-02-26
 director: Fenix
 fileprefix: MetArt-20130226-amande-
@@ -1119,7 +1119,7 @@ description: xxx
 title: Carnosa
 type: movie
 site: MetArt
-cast: n:Angelique A; u:https://www.metart.com/model/angelique-a; g:f
+model: n:Angelique A; id:/model/metart/angelique-a; u:https://www.metart.com/model/angelique-a; g:f
 released: 2013-02-24
 director: Platon Averin
 fileprefix: MetArt-20130224-carnosa-
@@ -1134,7 +1134,7 @@ description: xxx
 title: Faccia
 type: movie
 site: MetArt
-cast: n:Divina A; u:https://www.metart.com/model/divina-a; g:f
+model: n:Divina A; id:/model/metart/divina-a; u:https://www.metart.com/model/divina-a; g:f
 released: 2013-02-19
 director: Leonardo
 fileprefix: MetArt-20130219-faccia-
@@ -1149,7 +1149,7 @@ description: xxx
 title: Ainava
 type: movie
 site: MetArt
-cast: n:Karina O; u:https://www.sexart.com/model/karina-o; s:SexArt; g:f
+model: n:Karina O; id:/model/sexart/karina-o; u:https://www.sexart.com/model/karina-o; g:f
 released: 2013-02-17
 director: Koenart
 fileprefix: MetArt-20130217-ainava-
@@ -1164,7 +1164,7 @@ description: xxx
 title: Urban
 type: movie
 site: MetArt
-cast: n:Milena D; u:https://www.sexart.com/model/milena-d; s:SexArt; g:f
+model: n:Milena D; id:/model/sexart/milena-d; u:https://www.sexart.com/model/milena-d; g:f
 released: 2013-02-12
 director: Erik Latika
 fileprefix: MetArt-20130212-urban-
@@ -1179,7 +1179,7 @@ description: xxx
 title: Flavis
 type: movie
 site: MetArt
-cast: n:Marena A; u:https://www.metart.com/model/marena-a; g:f
+model: n:Marena A; id:/model/metart/marena-a; u:https://www.metart.com/model/marena-a; g:f
 released: 2013-02-08
 director: Dmitry Maslof
 fileprefix: MetArt-20130208-flavis-
@@ -1194,7 +1194,7 @@ description: xxx
 title: Palenisko
 type: movie
 site: MetArt
-cast: n:Hannah E; u:https://www.metart.com/model/hannah-e; g:f
+model: n:Hannah E; id:/model/metart/hannah-e; u:https://www.metart.com/model/hannah-e; g:f
 released: 2013-02-03
 director: Luca Helios
 fileprefix: MetArt-20130203-palenisko-
@@ -1209,7 +1209,7 @@ description: xxx
 title: Acionna
 type: movie
 site: MetArt
-cast: n:Stella D; u:https://www.metart.com/model/stella-d; g:f
+model: n:Stella D; id:/model/metart/stella-d; u:https://www.metart.com/model/stella-d; g:f
 released: 2013-02-01
 director: Platon Averin
 fileprefix: MetArt-20130201-acionna-
@@ -1224,8 +1224,8 @@ description: xxx
 title: Enfoque
 type: movie
 site: MetArt
-cast: n:Sofi A; u:https://www.metart.com/model/sofi-a; g:f
-cast: n:Dana D; u:https://www.metart.com/model/dana-d; g:f
+model: n:Sofi A; id:/model/metart/sofi-a; u:https://www.metart.com/model/sofi-a; g:f
+model: n:Dana D; id:/model/metart/dana-d; u:https://www.metart.com/model/dana-d; g:f
 released: 2013-01-26
 director: Fenix
 fileprefix: MetArt-20130126-enfoque-
@@ -1240,7 +1240,7 @@ description: xxx
 title: Bourgeon
 type: movie
 site: MetArt
-cast: n:Aria Amor; u:https://www.metart.com/model/aria-amor; g:f
+model: n:Aria Amor; id:/model/metart/aria-amor; u:https://www.metart.com/model/aria-amor; g:f
 released: 2013-01-22
 director: Holly Randall
 fileprefix: MetArt-20130122-bourgeon-
@@ -1255,7 +1255,7 @@ description: xxx
 title: Fortuna
 type: movie
 site: MetArt
-cast: n:Anita E; u:https://www.metart.com/model/anita-e; g:f
+model: n:Anita E; id:/model/metart/anita-e; u:https://www.metart.com/model/anita-e; g:f
 released: 2013-01-16
 director: Luca Helios
 fileprefix: MetArt-20130116-fortuna-
@@ -1270,7 +1270,7 @@ description: xxx
 title: Presenting Valery
 type: movie
 site: MetArt
-cast: n:Valery A; u:https://www.metart.com/model/valery-a; g:f
+model: n:Valery A; id:/model/metart/valery-a; u:https://www.metart.com/model/valery-a; g:f
 released: 2013-01-11
 director: Michael Kotoff
 fileprefix: MetArt-20130111-presenting-valery-
@@ -1285,7 +1285,7 @@ description: xxx
 title: Qelibar
 type: movie
 site: MetArt
-cast: n:Irina J; u:https://www.metart.com/model/irina-j; g:f
+model: n:Irina J; id:/model/metart/irina-j; u:https://www.metart.com/model/irina-j; g:f
 released: 2013-01-08
 director: Rylsky
 fileprefix: MetArt-20130108-qelibar-
@@ -1300,7 +1300,7 @@ description: xxx
 title: Versu
 type: movie
 site: MetArt
-cast: n:Vanessa H; u:https://www.metart.com/model/vanessa-h; g:f
+model: n:Vanessa H; id:/model/metart/vanessa-h; u:https://www.metart.com/model/vanessa-h; g:f
 released: 2013-01-04
 director: Platon Averin
 fileprefix: MetArt-20130104-versu-
@@ -1315,7 +1315,7 @@ description: xxx
 title: Chroma
 type: movie
 site: MetArt
-cast: n:Tigra; u:https://www.metart.com/model/tigra; g:f
+model: n:Tigra; id:/model/metart/tigra; u:https://www.metart.com/model/tigra; g:f
 released: 2013-01-01
 director: Platon Averin
 fileprefix: MetArt-20130101-chroma-

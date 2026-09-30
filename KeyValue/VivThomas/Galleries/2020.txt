@@ -9,8 +9,8 @@ title: Cute Couple
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/lottie-magne-and-freya-mayer/gallery/20201229/CUTE_COUPLE
-cast: Lottie Magne; https://www.vivthomas.com/model/lottie-magne; f
-cast: Freya Mayer; https://www.vivthomas.com/model/freya-mayer; f
+model: n:Lottie Magne; id:/model/vivthomas/lottie-magne; u:https://www.vivthomas.com/model/lottie-magne; g:f
+model: n:Freya Mayer; id:/model/vivthomas/freya-mayer; u:https://www.vivthomas.com/model/freya-mayer; g:f
 released: 2020-12-29
 photographer: Sandra Shine
 rating: 9.0
@@ -24,8 +24,8 @@ title: Happy Holidays
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/jessika-night-and-shona-river/gallery/20201224/HAPPY_HOLIDAYS
-cast: Jessika Night; https://www.vivthomas.com/model/jessika-night; f
-cast: Shona River; https://www.vivthomas.com/model/shona-river; f
+model: n:Jessika Night; id:/model/vivthomas/jessika-night; u:https://www.vivthomas.com/model/jessika-night; g:f
+model: n:Shona River; id:/model/vivthomas/shona-river; u:https://www.vivthomas.com/model/shona-river; g:f
 released: 2020-12-24
 photographer: Sandra Shine
 rating: 9.1
@@ -39,8 +39,8 @@ title: Sexy Distraction
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/amirah-adara-and-ophelia-dust/gallery/20201221/SEXY_DISTRACTION
-cast: Amirah Adara; https://www.vivthomas.com/model/amirah-adara; f
-cast: Ophelia Dust; https://www.vivthomas.com/model/ophelia-dust; f
+model: n:Amirah Adara; id:/model/vivthomas/amirah-adara; u:https://www.vivthomas.com/model/amirah-adara; g:f
+model: n:Ophelia Dust; id:/model/vivthomas/ophelia-dust; u:https://www.vivthomas.com/model/ophelia-dust; g:f
 released: 2020-12-21
 photographer: Sandra Shine
 rating: 9.2
@@ -54,8 +54,8 @@ title: Come Inside
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/angelika-grays-and-dorothy-black/gallery/20201215/COME_INSIDE
-cast: Angelika Grays; https://www.vivthomas.com/model/angelika-grays; f
-cast: Dorothy Black; https://www.vivthomas.com/model/dorothy-black; f
+model: n:Angelika Grays; id:/model/vivthomas/angelika-grays; u:https://www.vivthomas.com/model/angelika-grays; g:f
+model: n:Dorothy Black; id:/model/vivthomas/dorothy-black; u:https://www.vivthomas.com/model/dorothy-black; g:f
 released: 2020-12-15
 photographer: Sandra Shine
 rating: 9.2
@@ -69,8 +69,8 @@ title: Film Me
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/dolly-diore-and-blue-angel/gallery/20201210/FILM_ME
-cast: Dolly Diore; https://www.vivthomas.com/model/dolly-diore; f
-cast: Blue Angel; https://www.vivthomas.com/model/blue-angel; f
+model: n:Dolly Diore; id:/model/vivthomas/dolly-diore; u:https://www.vivthomas.com/model/dolly-diore; g:f
+model: n:Blue Angel; id:/model/vivthomas/blue-angel; u:https://www.vivthomas.com/model/blue-angel; g:f
 released: 2020-12-10
 photographer: Sandra Shine
 rating: 9.2
@@ -84,8 +84,8 @@ title: Wait On Me
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/jessika-night-and-alya-stark/gallery/20201207/WAIT_ON_ME
-cast: Jessika Night; https://www.vivthomas.com/model/jessika-night; f
-cast: Alya Stark; https://www.vivthomas.com/model/alya-stark; f
+model: n:Jessika Night; id:/model/vivthomas/jessika-night; u:https://www.vivthomas.com/model/jessika-night; g:f
+model: n:Alya Stark; id:/model/vivthomas/alya-stark; u:https://www.vivthomas.com/model/alya-stark; g:f
 released: 2020-12-07
 photographer: Sandra Shine
 rating: 9.1
@@ -99,8 +99,8 @@ title: Seeing Double
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/angelika-grays-and-cherry-kiss/gallery/20201201/SEEING_DOUBLE
-cast: Angelika Grays; https://www.vivthomas.com/model/angelika-grays; f
-cast: Cherry Kiss; https://www.vivthomas.com/model/cherry-kiss; f
+model: n:Angelika Grays; id:/model/vivthomas/angelika-grays; u:https://www.vivthomas.com/model/angelika-grays; g:f
+model: n:Cherry Kiss; id:/model/vivthomas/cherry-kiss; u:https://www.vivthomas.com/model/cherry-kiss; g:f
 released: 2020-12-01
 photographer: Sandra Shine
 rating: 9.4
@@ -114,8 +114,8 @@ title: Study Buddy
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/aria-lee-and-jill-kassidy/gallery/20201126/STUDY_BUDDY
-cast: Aria Lee; https://www.vivthomas.com/model/aria-lee; f
-cast: Jill Kassidy; https://www.vivthomas.com/model/jill-kassidy; f
+model: n:Aria Lee; id:/model/vivthomas/aria-lee; u:https://www.vivthomas.com/model/aria-lee; g:f
+model: n:Jill Kassidy; id:/model/vivthomas/jill-kassidy; u:https://www.vivthomas.com/model/jill-kassidy; g:f
 released: 2020-11-26
 photographer: Billy Visual
 rating: 8.9
@@ -129,8 +129,8 @@ title: New Sensations
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/ophelia-dust-and-shona-river/gallery/20201123/NEW_SENSATIONS
-cast: Ophelia Dust; https://www.vivthomas.com/model/ophelia-dust; f
-cast: Shona River; https://www.vivthomas.com/model/shona-river; f
+model: n:Ophelia Dust; id:/model/vivthomas/ophelia-dust; u:https://www.vivthomas.com/model/ophelia-dust; g:f
+model: n:Shona River; id:/model/vivthomas/shona-river; u:https://www.vivthomas.com/model/shona-river; g:f
 released: 2020-11-23
 photographer: Sandra Shine
 rating: 9.1
@@ -144,8 +144,8 @@ title: Perfect Pair
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/nicole-smith-and-dolly-diore/gallery/20201117/PERFECT_PAIR
-cast: Nicole Smith; https://www.vivthomas.com/model/nicole-smith; f
-cast: Dolly Diore; https://www.vivthomas.com/model/dolly-diore; f
+model: n:Nicole Smith; id:/model/vivthomas/nicole-smith; u:https://www.vivthomas.com/model/nicole-smith; g:f
+model: n:Dolly Diore; id:/model/vivthomas/dolly-diore; u:https://www.vivthomas.com/model/dolly-diore; g:f
 released: 2020-11-17
 photographer: Sandra Shine
 rating: 9.0
@@ -159,8 +159,8 @@ title: Cute Coupling
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/whitney-wright-and-gianna-dior/gallery/20201112/CUTE_COUPLING
-cast: Whitney Wright; https://www.vivthomas.com/model/whitney-wright; f
-cast: Gianna Dior; https://www.vivthomas.com/model/gianna-dior; f
+model: n:Whitney Wright; id:/model/vivthomas/whitney-wright; u:https://www.vivthomas.com/model/whitney-wright; g:f
+model: n:Gianna Dior; id:/model/vivthomas/gianna-dior; u:https://www.vivthomas.com/model/gianna-dior; g:f
 released: 2020-11-12
 photographer: Casey Calvert
 rating: 9.0
@@ -174,8 +174,8 @@ title: My Turn
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/casey-a-and-tina-tiny/gallery/20201109/MY_TURN
-cast: Casey A; https://www.vivthomas.com/model/casey-a; f
-cast: Tina Tiny; https://www.vivthomas.com/model/tina-tiny; f
+model: n:Casey A; id:/model/vivthomas/casey-a; u:https://www.vivthomas.com/model/casey-a; g:f
+model: n:Tina Tiny; id:/model/vivthomas/tina-tiny; u:https://www.vivthomas.com/model/tina-tiny; g:f
 released: 2020-11-09
 photographer: Sandra Shine
 rating: 9.2
@@ -189,7 +189,7 @@ title: Secret Orgasm
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/kattie-hill/gallery/20201107/SECRET_ORGASM
-cast: Kattie Hill; https://www.vivthomas.com/model/kattie-hill; f
+model: n:Kattie Hill; id:/model/vivthomas/kattie-hill; u:https://www.vivthomas.com/model/kattie-hill; g:f
 released: 2020-11-07
 photographer: John Chalk
 rating: 9.3
@@ -203,8 +203,8 @@ title: Wet Work Out
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/alyssa-bounty-and-kinuski/gallery/20201103/WET_WORK_OUT
-cast: Alyssa Bounty; https://www.vivthomas.com/model/alyssa-bounty; f
-cast: Kinuski; https://www.vivthomas.com/model/kinuski; f
+model: n:Alyssa Bounty; id:/model/vivthomas/alyssa-bounty; u:https://www.vivthomas.com/model/alyssa-bounty; g:f
+model: n:Kinuski; id:/model/vivthomas/kinuski; u:https://www.vivthomas.com/model/kinuski; g:f
 released: 2020-11-03
 photographer: Sandra Shine
 rating: 8.9
@@ -218,7 +218,7 @@ title: Blonde Beauty
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/sarika/gallery/20201101/BLONDE_BEAUTY
-cast: Sarika; https://www.vivthomas.com/model/sarika; f
+model: n:Sarika; id:/model/vivthomas/sarika; u:https://www.vivthomas.com/model/sarika; g:f
 released: 2020-11-01
 photographer: Nick Twin
 rating: 9.2
@@ -232,8 +232,8 @@ title: You Want Me
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/jade-baker-and-aidra-fox/gallery/20201029/YOU_WANT_ME
-cast: Jade Baker; https://www.vivthomas.com/model/jade-baker; f
-cast: Aidra Fox; https://www.vivthomas.com/model/aidra-fox; f
+model: n:Jade Baker; id:/model/vivthomas/jade-baker; u:https://www.vivthomas.com/model/jade-baker; g:f
+model: n:Aidra Fox; id:/model/vivthomas/aidra-fox; u:https://www.vivthomas.com/model/aidra-fox; g:f
 released: 2020-10-29
 photographer: Billy Visual
 rating: 8.8
@@ -247,8 +247,8 @@ title: Thrill Me
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/veronica-leal-and-sarah-cute/gallery/20201026/THRILL_ME
-cast: Veronica Leal; https://www.vivthomas.com/model/veronica-leal; f
-cast: Sarah Cute; https://www.vivthomas.com/model/sarah-cute; f
+model: n:Veronica Leal; id:/model/vivthomas/veronica-leal; u:https://www.vivthomas.com/model/veronica-leal; g:f
+model: n:Sarah Cute; id:/model/vivthomas/sarah-cute; u:https://www.vivthomas.com/model/sarah-cute; g:f
 released: 2020-10-26
 photographer: Sandra Shine
 rating: 9.1
@@ -262,8 +262,8 @@ title: Intimate Moment
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/blue-angel-and-verona-sky/gallery/20201020/INTIMATE_MOMENT
-cast: Blue Angel; https://www.vivthomas.com/model/blue-angel; f
-cast: Verona Sky; https://www.vivthomas.com/model/verona-sky; f
+model: n:Blue Angel; id:/model/vivthomas/blue-angel; u:https://www.vivthomas.com/model/blue-angel; g:f
+model: n:Verona Sky; id:/model/vivthomas/verona-sky; u:https://www.vivthomas.com/model/verona-sky; g:f
 released: 2020-10-20
 photographer: Sandra Shine
 rating: 9.2
@@ -277,7 +277,7 @@ title: Sensual Touch
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/sasha-rose/gallery/20201018/SENSUAL_TOUCH
-cast: Sasha Rose; https://www.vivthomas.com/model/sasha-rose; f
+model: n:Sasha Rose; id:/model/vivthomas/sasha-rose; u:https://www.vivthomas.com/model/sasha-rose; g:f
 released: 2020-10-18
 photographer: Sandra Shine
 rating: 9.0
@@ -291,8 +291,8 @@ title: Beautiful Blondes
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/kenna-james-and-veronica-weston/gallery/20201015/BEAUTIFUL_BLONDES
-cast: Kenna James; https://www.vivthomas.com/model/kenna-james; f
-cast: Veronica Weston; https://www.vivthomas.com/model/veronica-weston; f
+model: n:Kenna James; id:/model/vivthomas/kenna-james; u:https://www.vivthomas.com/model/kenna-james; g:f
+model: n:Veronica Weston; id:/model/vivthomas/veronica-weston; u:https://www.vivthomas.com/model/veronica-weston; g:f
 released: 2020-10-15
 photographer: Casey Calvert
 rating: 8.9
@@ -306,8 +306,8 @@ title: Ann Joy Me
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/ann-joy-and-rachel-adjani/gallery/20201012/ANN_JOY_ME
-cast: Ann Joy; https://www.vivthomas.com/model/ann-joy; f
-cast: Rachel Adjani; https://www.vivthomas.com/model/rachel-adjani; f
+model: n:Ann Joy; id:/model/vivthomas/ann-joy; u:https://www.vivthomas.com/model/ann-joy; g:f
+model: n:Rachel Adjani; id:/model/vivthomas/rachel-adjani; u:https://www.vivthomas.com/model/rachel-adjani; g:f
 released: 2020-10-12
 photographer: Sandra Shine
 rating: 9.0
@@ -321,8 +321,8 @@ title: Mutual Attraction
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/dolly-diore-and-cherry-kiss/gallery/20201006/MUTUAL_ATTRACTION
-cast: Dolly Diore; https://www.vivthomas.com/model/dolly-diore; f
-cast: Cherry Kiss; https://www.vivthomas.com/model/cherry-kiss; f
+model: n:Dolly Diore; id:/model/vivthomas/dolly-diore; u:https://www.vivthomas.com/model/dolly-diore; g:f
+model: n:Cherry Kiss; id:/model/vivthomas/cherry-kiss; u:https://www.vivthomas.com/model/cherry-kiss; g:f
 released: 2020-10-06
 photographer: Sandra Shine
 rating: 9.3
@@ -336,7 +336,7 @@ title: Smoking Hot
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/aislin/gallery/20201004/SMOKING_HOT
-cast: Aislin; https://www.vivthomas.com/model/aislin; f
+model: n:Aislin; id:/model/vivthomas/aislin; u:https://www.vivthomas.com/model/aislin; g:f
 released: 2020-10-04
 photographer: Sandra Shine
 rating: 9.0
@@ -350,8 +350,8 @@ title: Relieved
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/scarlett-sage-and-emily-willis/gallery/20201001/RELIEVED
-cast: Scarlett Sage; https://www.vivthomas.com/model/scarlett-sage; f
-cast: Emily Willis; https://www.vivthomas.com/model/emily-willis; f
+model: n:Scarlett Sage; id:/model/vivthomas/scarlett-sage; u:https://www.vivthomas.com/model/scarlett-sage; g:f
+model: n:Emily Willis; id:/model/vivthomas/emily-willis; u:https://www.vivthomas.com/model/emily-willis; g:f
 released: 2020-10-01
 photographer: Casey Calvert
 rating: 9.0
@@ -365,8 +365,8 @@ title: Summer Love
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/emelie-crystal-and-lee-anne/gallery/20200928/SUMMER_LOVE
-cast: Emelie Crystal; https://www.vivthomas.com/model/emelie-crystal; f
-cast: Lee Anne; https://www.vivthomas.com/model/lee-anne; f
+model: n:Emelie Crystal; id:/model/vivthomas/emelie-crystal; u:https://www.vivthomas.com/model/emelie-crystal; g:f
+model: n:Lee Anne; id:/model/vivthomas/lee-anne; u:https://www.vivthomas.com/model/lee-anne; g:f
 released: 2020-09-28
 photographer: Sandra Shine
 rating: 9.0
@@ -380,8 +380,8 @@ title: Good Morning
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/sara-bell-and-blue-angel/gallery/20200922/GOOD_MORNING
-cast: Sara Bell; https://www.vivthomas.com/model/sara-bell; f
-cast: Blue Angel; https://www.vivthomas.com/model/blue-angel; f
+model: n:Sara Bell; id:/model/vivthomas/sara-bell; u:https://www.vivthomas.com/model/sara-bell; g:f
+model: n:Blue Angel; id:/model/vivthomas/blue-angel; u:https://www.vivthomas.com/model/blue-angel; g:f
 released: 2020-09-22
 photographer: Sandra Shine
 rating: 9.2
@@ -395,8 +395,8 @@ title: Sexual Release
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/cadence-lux-and-serena-blair/gallery/20200917/SEXUAL_RELEASE
-cast: Cadence Lux; https://www.vivthomas.com/model/cadence-lux; f
-cast: Serena Blair; https://www.vivthomas.com/model/serena-blair; f
+model: n:Cadence Lux; id:/model/vivthomas/cadence-lux; u:https://www.vivthomas.com/model/cadence-lux; g:f
+model: n:Serena Blair; id:/model/vivthomas/serena-blair; u:https://www.vivthomas.com/model/serena-blair; g:f
 released: 2020-09-17
 photographer: Casey Calvert
 rating: 8.5
@@ -410,8 +410,8 @@ title: Extra Workout
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/amirah-adara-and-eveline-dellai/gallery/20200914/EXTRA_WORKOUT
-cast: Amirah Adara; https://www.vivthomas.com/model/amirah-adara; f
-cast: Eveline Dellai; https://www.vivthomas.com/model/eveline-dellai; f
+model: n:Amirah Adara; id:/model/vivthomas/amirah-adara; u:https://www.vivthomas.com/model/amirah-adara; g:f
+model: n:Eveline Dellai; id:/model/vivthomas/eveline-dellai; u:https://www.vivthomas.com/model/eveline-dellai; g:f
 released: 2020-09-14
 photographer: Sandra Shine
 rating: 9.2
@@ -425,8 +425,8 @@ title: First Time Cuties
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/kata-and-deepika/gallery/20200908/FIRST_TIME_CUTIES
-cast: Kata; https://www.vivthomas.com/model/kata; f
-cast: Deepika; https://www.vivthomas.com/model/deepika; f
+model: n:Kata; id:/model/vivthomas/kata; u:https://www.vivthomas.com/model/kata; g:f
+model: n:Deepika; id:/model/vivthomas/deepika; u:https://www.vivthomas.com/model/deepika; g:f
 released: 2020-09-08
 photographer: Tora Ness
 rating: 9.1
@@ -440,8 +440,8 @@ title: Sexy Celebration
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/kendra-spade-and-chloe-cherry/gallery/20200903/SEXY_CELEBRATION
-cast: Kendra Spade; https://www.vivthomas.com/model/kendra-spade; f
-cast: Chloe Cherry; https://www.vivthomas.com/model/chloe-cherry; f
+model: n:Kendra Spade; id:/model/vivthomas/kendra-spade; u:https://www.vivthomas.com/model/kendra-spade; g:f
+model: n:Chloe Cherry; id:/model/vivthomas/chloe-cherry; u:https://www.vivthomas.com/model/chloe-cherry; g:f
 released: 2020-09-03
 photographer: Casey Calvert
 rating: 8.9
@@ -455,8 +455,8 @@ title: Warming Touch
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/kira-queen-and-sarah-cute/gallery/20200831/WARMING_TOUCH
-cast: Kira Queen; https://www.vivthomas.com/model/kira-queen; f
-cast: Sarah Cute; https://www.vivthomas.com/model/sarah-cute; f
+model: n:Kira Queen; id:/model/vivthomas/kira-queen; u:https://www.vivthomas.com/model/kira-queen; g:f
+model: n:Sarah Cute; id:/model/vivthomas/sarah-cute; u:https://www.vivthomas.com/model/sarah-cute; g:f
 released: 2020-08-31
 photographer: Sandra Shine
 rating: 8.9
@@ -470,8 +470,8 @@ title: Two Cute
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/hayli-sanders-and-amirah-adara/gallery/20200825/TWO_CUTE
-cast: Hayli Sanders; https://www.vivthomas.com/model/hayli-sanders; f
-cast: Amirah Adara; https://www.vivthomas.com/model/amirah-adara; f
+model: n:Hayli Sanders; id:/model/vivthomas/hayli-sanders; u:https://www.vivthomas.com/model/hayli-sanders; g:f
+model: n:Amirah Adara; id:/model/vivthomas/amirah-adara; u:https://www.vivthomas.com/model/amirah-adara; g:f
 released: 2020-08-25
 photographer: Sandra Shine
 rating: 9.3
@@ -485,7 +485,7 @@ title: Slip It Off
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/amber-d/gallery/20200820/SLIP_IT_OFF
-cast: Amber D; https://www.vivthomas.com/model/amber-d; f
+model: n:Amber D; id:/model/vivthomas/amber-d; u:https://www.vivthomas.com/model/amber-d; g:f
 released: 2020-08-20
 photographer: Sandra Shine
 rating: 8.8
@@ -499,8 +499,8 @@ title: Dripping Wet
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/casey-a-and-sarah-kay/gallery/20200817/DRIPPING_WET
-cast: Casey A; https://www.vivthomas.com/model/casey-a; f
-cast: Sarah Kay; https://www.vivthomas.com/model/sarah-kay; f
+model: n:Casey A; id:/model/vivthomas/casey-a; u:https://www.vivthomas.com/model/casey-a; g:f
+model: n:Sarah Kay; id:/model/vivthomas/sarah-kay; u:https://www.vivthomas.com/model/sarah-kay; g:f
 released: 2020-08-17
 photographer: Sandra Shine
 rating: 9.2
@@ -514,8 +514,8 @@ title: Breast Friends
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/dorothy-black-and-vicky-love/gallery/20200811/BREAST_FRIENDS
-cast: Dorothy Black; https://www.vivthomas.com/model/dorothy-black; f
-cast: Vicky Love; https://www.vivthomas.com/model/vicky-love; f
+model: n:Dorothy Black; id:/model/vivthomas/dorothy-black; u:https://www.vivthomas.com/model/dorothy-black; g:f
+model: n:Vicky Love; id:/model/vivthomas/vicky-love; u:https://www.vivthomas.com/model/vicky-love; g:f
 released: 2020-08-11
 photographer: Sandra Shine
 rating: 9.0
@@ -529,8 +529,8 @@ title: Come To Bed
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/alya-stark-and-cherry-kiss/gallery/20200806/COME_TO_BED
-cast: Alya Stark; https://www.vivthomas.com/model/alya-stark; f
-cast: Cherry Kiss; https://www.vivthomas.com/model/cherry-kiss; f
+model: n:Alya Stark; id:/model/vivthomas/alya-stark; u:https://www.vivthomas.com/model/alya-stark; g:f
+model: n:Cherry Kiss; id:/model/vivthomas/cherry-kiss; u:https://www.vivthomas.com/model/cherry-kiss; g:f
 released: 2020-08-06
 photographer: Sandra Shine
 rating: 9.3
@@ -544,8 +544,8 @@ title: New Lessons
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/naomi-swann-and-marie-mccray/gallery/20200803/NEW_LESSONS
-cast: Naomi Swann; https://www.vivthomas.com/model/naomi-swann; f
-cast: Marie McCray; https://www.vivthomas.com/model/marie-mccray; f
+model: n:Naomi Swann; id:/model/vivthomas/naomi-swann; u:https://www.vivthomas.com/model/naomi-swann; g:f
+model: n:Marie McCray; id:/model/vivthomas/marie-mccray; u:https://www.vivthomas.com/model/marie-mccray; g:f
 released: 2020-08-03
 photographer: Casey Calvert
 rating: 9.0
@@ -559,8 +559,8 @@ title: Loving You
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/lika-star-and-amirah-adara/gallery/20200728/LOVING_YOU
-cast: Lika Star; https://www.vivthomas.com/model/lika-star; f
-cast: Amirah Adara; https://www.vivthomas.com/model/amirah-adara; f
+model: n:Lika Star; id:/model/vivthomas/lika-star; u:https://www.vivthomas.com/model/lika-star; g:f
+model: n:Amirah Adara; id:/model/vivthomas/amirah-adara; u:https://www.vivthomas.com/model/amirah-adara; g:f
 released: 2020-07-28
 photographer: Sandra Shine
 rating: 9.3
@@ -574,7 +574,7 @@ title: Take A Ride
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/angelika-grays/gallery/20200726/TAKE_A_RIDE
-cast: Angelika Grays; https://www.vivthomas.com/model/angelika-grays; f
+model: n:Angelika Grays; id:/model/vivthomas/angelika-grays; u:https://www.vivthomas.com/model/angelika-grays; g:f
 released: 2020-07-26
 photographer: Sandra Shine
 rating: 9.2
@@ -588,8 +588,8 @@ title: Kinky Games
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/kiere-and-casey-a/gallery/20200723/KINKY_GAMES
-cast: Kiere; https://www.vivthomas.com/model/kiere; f
-cast: Casey A; https://www.vivthomas.com/model/casey-a; f
+model: n:Kiere; id:/model/vivthomas/kiere; u:https://www.vivthomas.com/model/kiere; g:f
+model: n:Casey A; id:/model/vivthomas/casey-a; u:https://www.vivthomas.com/model/casey-a; g:f
 released: 2020-07-23
 photographer: Tora Ness
 rating: 9.3
@@ -603,8 +603,8 @@ title: Club Sex
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/aislin-and-hayli-sanders/gallery/20200720/CLUB_SEX
-cast: Aislin; https://www.vivthomas.com/model/aislin; f
-cast: Hayli Sanders; https://www.vivthomas.com/model/hayli-sanders; f
+model: n:Aislin; id:/model/vivthomas/aislin; u:https://www.vivthomas.com/model/aislin; g:f
+model: n:Hayli Sanders; id:/model/vivthomas/hayli-sanders; u:https://www.vivthomas.com/model/hayli-sanders; g:f
 released: 2020-07-20
 photographer: Sandra Shine
 rating: 9.4
@@ -618,7 +618,7 @@ title: Sexy Selfie
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/nata-ocean/gallery/20200718/SEXY_SELFIE
-cast: Nata Ocean; https://www.vivthomas.com/model/nata-ocean; f
+model: n:Nata Ocean; id:/model/vivthomas/nata-ocean; u:https://www.vivthomas.com/model/nata-ocean; g:f
 released: 2020-07-18
 photographer: Tora Ness
 rating: 9.1
@@ -632,8 +632,8 @@ title: New Toys
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/alya-stark-and-sarah-cute/gallery/20200714/NEW_TOYS
-cast: Alya Stark; https://www.vivthomas.com/model/alya-stark; f
-cast: Sarah Cute; https://www.vivthomas.com/model/sarah-cute; f
+model: n:Alya Stark; id:/model/vivthomas/alya-stark; u:https://www.vivthomas.com/model/alya-stark; g:f
+model: n:Sarah Cute; id:/model/vivthomas/sarah-cute; u:https://www.vivthomas.com/model/sarah-cute; g:f
 released: 2020-07-14
 photographer: Sandra Shine
 rating: 9.2
@@ -647,7 +647,7 @@ title: Melt In My Mouth
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/zazie-s/gallery/20200712/MELT_IN_MY_MOUTH
-cast: Zazie S; https://www.vivthomas.com/model/zazie-s; f
+model: n:Zazie S; id:/model/vivthomas/zazie-s; u:https://www.vivthomas.com/model/zazie-s; g:f
 released: 2020-07-12
 photographer: Sandra Shine
 rating: 9.4
@@ -661,8 +661,8 @@ title: Perky
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/tina-tiny-and-sarah-kay/gallery/20200709/PERKY
-cast: Tina Tiny; https://www.vivthomas.com/model/tina-tiny; f
-cast: Sarah Kay; https://www.vivthomas.com/model/sarah-kay; f
+model: n:Tina Tiny; id:/model/vivthomas/tina-tiny; u:https://www.vivthomas.com/model/tina-tiny; g:f
+model: n:Sarah Kay; id:/model/vivthomas/sarah-kay; u:https://www.vivthomas.com/model/sarah-kay; g:f
 released: 2020-07-09
 photographer: Sandra Shine
 rating: 9.1
@@ -676,7 +676,7 @@ title: Lovely In Lingerie
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/stella-cardo/gallery/20200707/LOVELY_IN_LINGERIE
-cast: Stella Cardo; https://www.vivthomas.com/model/stella-cardo; f
+model: n:Stella Cardo; id:/model/vivthomas/stella-cardo; u:https://www.vivthomas.com/model/stella-cardo; g:f
 released: 2020-07-07
 photographer: Sandra Shine
 rating: 9.4
@@ -690,8 +690,8 @@ title: Sealed With A Kiss
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/cherry-kiss-and-veronica-leal/gallery/20200630/SEALED_WITH_A_KISS
-cast: Cherry Kiss; https://www.vivthomas.com/model/cherry-kiss; f
-cast: Veronica Leal; https://www.vivthomas.com/model/veronica-leal; f
+model: n:Cherry Kiss; id:/model/vivthomas/cherry-kiss; u:https://www.vivthomas.com/model/cherry-kiss; g:f
+model: n:Veronica Leal; id:/model/vivthomas/veronica-leal; u:https://www.vivthomas.com/model/veronica-leal; g:f
 released: 2020-06-30
 photographer: Sandra Shine
 rating: 9.2
@@ -705,8 +705,8 @@ title: Slip It Off
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/jia-lissa-and-lika-star/gallery/20200625/SLIP_IT_OFF
-cast: Jia Lissa; https://www.vivthomas.com/model/jia-lissa; f
-cast: Lika Star; https://www.vivthomas.com/model/lika-star; f
+model: n:Jia Lissa; id:/model/vivthomas/jia-lissa; u:https://www.vivthomas.com/model/jia-lissa; g:f
+model: n:Lika Star; id:/model/vivthomas/lika-star; u:https://www.vivthomas.com/model/lika-star; g:f
 released: 2020-06-25
 photographer: Sandra Shine
 rating: 9.4
@@ -720,8 +720,8 @@ title: Curvaceous
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/dorothy-black-and-kira-queen/gallery/20200622/CURVACEOUS
-cast: Dorothy Black; https://www.vivthomas.com/model/dorothy-black; f
-cast: Kira Queen; https://www.vivthomas.com/model/kira-queen; f
+model: n:Dorothy Black; id:/model/vivthomas/dorothy-black; u:https://www.vivthomas.com/model/dorothy-black; g:f
+model: n:Kira Queen; id:/model/vivthomas/kira-queen; u:https://www.vivthomas.com/model/kira-queen; g:f
 released: 2020-06-22
 photographer: Sandra Shine
 rating: 9.1
@@ -735,8 +735,8 @@ title: Join Me
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/amirah-adara-and-stella-flex/gallery/20200616/JOIN_ME
-cast: Amirah Adara; https://www.vivthomas.com/model/amirah-adara; f
-cast: Stella Flex; https://www.vivthomas.com/model/stella-flex; f
+model: n:Amirah Adara; id:/model/vivthomas/amirah-adara; u:https://www.vivthomas.com/model/amirah-adara; g:f
+model: n:Stella Flex; id:/model/vivthomas/stella-flex; u:https://www.vivthomas.com/model/stella-flex; g:f
 released: 2020-06-16
 photographer: Sandra Shine
 rating: 9.2
@@ -750,8 +750,8 @@ title: Cute And Curious
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/casey-a-and-kiere/gallery/20200611/CUTE_AND_CURIOUS
-cast: Casey A; https://www.vivthomas.com/model/casey-a; f
-cast: Kiere; https://www.vivthomas.com/model/kiere; f
+model: n:Casey A; id:/model/vivthomas/casey-a; u:https://www.vivthomas.com/model/casey-a; g:f
+model: n:Kiere; id:/model/vivthomas/kiere; u:https://www.vivthomas.com/model/kiere; g:f
 released: 2020-06-11
 photographer: Tora Ness
 rating: 9.4
@@ -765,8 +765,8 @@ title: Nice View
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/alya-stark-and-veronica-leal/gallery/20200608/NICE_VIEW
-cast: Alya Stark; https://www.vivthomas.com/model/alya-stark; f
-cast: Veronica Leal; https://www.vivthomas.com/model/veronica-leal; f
+model: n:Alya Stark; id:/model/vivthomas/alya-stark; u:https://www.vivthomas.com/model/alya-stark; g:f
+model: n:Veronica Leal; id:/model/vivthomas/veronica-leal; u:https://www.vivthomas.com/model/veronica-leal; g:f
 released: 2020-06-08
 photographer: Sandra Shine
 rating: 9.2
@@ -780,8 +780,8 @@ title: Like What You See
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/vicky-love-and-nesty-a/gallery/20200602/LIKE_WHAT_YOU_SEE
-cast: Vicky Love; https://www.vivthomas.com/model/vicky-love; f
-cast: Nesty A; https://www.vivthomas.com/model/nesty-a; f
+model: n:Vicky Love; id:/model/vivthomas/vicky-love; u:https://www.vivthomas.com/model/vicky-love; g:f
+model: n:Nesty A; id:/model/vivthomas/nesty-a; u:https://www.vivthomas.com/model/nesty-a; g:f
 released: 2020-06-02
 photographer: Sandra Shine
 rating: 9.0
@@ -795,8 +795,8 @@ title: Passionate Lovers
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/dorothy-black-and-sarah-cute/gallery/20200528/PASSIONATE_LOVERS
-cast: Dorothy Black; https://www.vivthomas.com/model/dorothy-black; f
-cast: Sarah Cute; https://www.vivthomas.com/model/sarah-cute; f
+model: n:Dorothy Black; id:/model/vivthomas/dorothy-black; u:https://www.vivthomas.com/model/dorothy-black; g:f
+model: n:Sarah Cute; id:/model/vivthomas/sarah-cute; u:https://www.vivthomas.com/model/sarah-cute; g:f
 released: 2020-05-28
 photographer: Sandra Shine
 rating: 9.3
@@ -810,8 +810,8 @@ title: Work Can Wait
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/hayli-sanders-and-jia-lissa/gallery/20200525/WORK_CAN_WAIT
-cast: Hayli Sanders; https://www.vivthomas.com/model/hayli-sanders; f
-cast: Jia Lissa; https://www.vivthomas.com/model/jia-lissa; f
+model: n:Hayli Sanders; id:/model/vivthomas/hayli-sanders; u:https://www.vivthomas.com/model/hayli-sanders; g:f
+model: n:Jia Lissa; id:/model/vivthomas/jia-lissa; u:https://www.vivthomas.com/model/jia-lissa; g:f
 released: 2020-05-25
 photographer: Sandra Shine
 rating: 9.3
@@ -825,8 +825,8 @@ title: Pleasure Me
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/veronica-leal-and-amirah-adara/gallery/20200519/PLEASURE_ME
-cast: Veronica Leal; https://www.vivthomas.com/model/veronica-leal; f
-cast: Amirah Adara; https://www.vivthomas.com/model/amirah-adara; f
+model: n:Veronica Leal; id:/model/vivthomas/veronica-leal; u:https://www.vivthomas.com/model/veronica-leal; g:f
+model: n:Amirah Adara; id:/model/vivthomas/amirah-adara; u:https://www.vivthomas.com/model/amirah-adara; g:f
 released: 2020-05-19
 photographer: Sandra Shine
 rating: 9.3
@@ -840,8 +840,8 @@ title: Alone At Last
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/aislin-and-josephine-jackson/gallery/20200514/ALONE_AT_LAST
-cast: Aislin; https://www.vivthomas.com/model/aislin; f
-cast: Josephine Jackson; https://www.vivthomas.com/model/josephine-jackson; f
+model: n:Aislin; id:/model/vivthomas/aislin; u:https://www.vivthomas.com/model/aislin; g:f
+model: n:Josephine Jackson; id:/model/vivthomas/josephine-jackson; u:https://www.vivthomas.com/model/josephine-jackson; g:f
 released: 2020-05-14
 photographer: Sandra Shine
 rating: 9.4
@@ -855,8 +855,8 @@ title: Perfect Climax
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/alya-stark-and-vicky-love/gallery/20200511/PERFECT_CLIMAX
-cast: Alya Stark; https://www.vivthomas.com/model/alya-stark; f
-cast: Vicky Love; https://www.vivthomas.com/model/vicky-love; f
+model: n:Alya Stark; id:/model/vivthomas/alya-stark; u:https://www.vivthomas.com/model/alya-stark; g:f
+model: n:Vicky Love; id:/model/vivthomas/vicky-love; u:https://www.vivthomas.com/model/vicky-love; g:f
 released: 2020-05-11
 photographer: Sandra Shine
 rating: 9.2
@@ -870,8 +870,8 @@ title: First Sight
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/freya-velez-and-emily-mayers/gallery/20200505/FIRST_SIGHT
-cast: Freya Velez; https://www.vivthomas.com/model/freya-velez; f
-cast: Emily Mayers; https://www.vivthomas.com/model/emily-mayers; f
+model: n:Freya Velez; id:/model/vivthomas/freya-velez; u:https://www.vivthomas.com/model/freya-velez; g:f
+model: n:Emily Mayers; id:/model/vivthomas/emily-mayers; u:https://www.vivthomas.com/model/emily-mayers; g:f
 released: 2020-05-05
 photographer: Sandra Shine
 rating: 9.1
@@ -885,8 +885,8 @@ title: Entice Me
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/hayli-sanders-and-veronica-leal/gallery/20200430/ENTICE_ME
-cast: Hayli Sanders; https://www.vivthomas.com/model/hayli-sanders; f
-cast: Veronica Leal; https://www.vivthomas.com/model/veronica-leal; f
+model: n:Hayli Sanders; id:/model/vivthomas/hayli-sanders; u:https://www.vivthomas.com/model/hayli-sanders; g:f
+model: n:Veronica Leal; id:/model/vivthomas/veronica-leal; u:https://www.vivthomas.com/model/veronica-leal; g:f
 released: 2020-04-30
 photographer: Sandra Shine
 rating: 9.3
@@ -900,8 +900,8 @@ title: Good Morning
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/amirah-adara-and-cherry-kiss/gallery/20200427/GOOD_MORNING
-cast: Amirah Adara; https://www.vivthomas.com/model/amirah-adara; f
-cast: Cherry Kiss; https://www.vivthomas.com/model/cherry-kiss; f
+model: n:Amirah Adara; id:/model/vivthomas/amirah-adara; u:https://www.vivthomas.com/model/amirah-adara; g:f
+model: n:Cherry Kiss; id:/model/vivthomas/cherry-kiss; u:https://www.vivthomas.com/model/cherry-kiss; g:f
 released: 2020-04-27
 photographer: Sandra Shine
 rating: 9.4
@@ -915,8 +915,8 @@ title: Slip It Off
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/emerald-ocean-and-aislin/gallery/20200421/SLIP_IT_OFF
-cast: Emerald Ocean; https://www.vivthomas.com/model/emerald-ocean; f
-cast: Aislin; https://www.vivthomas.com/model/aislin; f
+model: n:Emerald Ocean; id:/model/vivthomas/emerald-ocean; u:https://www.vivthomas.com/model/emerald-ocean; g:f
+model: n:Aislin; id:/model/vivthomas/aislin; u:https://www.vivthomas.com/model/aislin; g:f
 released: 2020-04-21
 photographer: Sandra Shine
 rating: 9.4
@@ -930,8 +930,8 @@ title: Lustful Attraction
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/lana-bunny-and-emily-mayers/gallery/20200416/LUSTFUL_ATTRACTION
-cast: Lana Bunny; https://www.vivthomas.com/model/lana-bunny; f
-cast: Emily Mayers; https://www.vivthomas.com/model/emily-mayers; f
+model: n:Lana Bunny; id:/model/vivthomas/lana-bunny; u:https://www.vivthomas.com/model/lana-bunny; g:f
+model: n:Emily Mayers; id:/model/vivthomas/emily-mayers; u:https://www.vivthomas.com/model/emily-mayers; g:f
 released: 2020-04-16
 photographer: Sandra Shine
 rating: 9.3
@@ -945,8 +945,8 @@ title: Sexy Distraction
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/sophie-gem-and-casey-a/gallery/20200413/SEXY_DISTRACTION
-cast: Sophie Gem; https://www.vivthomas.com/model/sophie-gem; f
-cast: Casey A; https://www.vivthomas.com/model/casey-a; f
+model: n:Sophie Gem; id:/model/vivthomas/sophie-gem; u:https://www.vivthomas.com/model/sophie-gem; g:f
+model: n:Casey A; id:/model/vivthomas/casey-a; u:https://www.vivthomas.com/model/casey-a; g:f
 released: 2020-04-13
 photographer: Tora Ness
 rating: 9.4
@@ -960,8 +960,8 @@ title: Stay With Me
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/miss-melissa-and-lee-anne/gallery/20200407/STAY_WITH_ME
-cast: Miss Melissa; https://www.vivthomas.com/model/miss-melissa; f
-cast: Lee Anne; https://www.vivthomas.com/model/lee-anne; f
+model: n:Miss Melissa; id:/model/vivthomas/miss-melissa; u:https://www.vivthomas.com/model/miss-melissa; g:f
+model: n:Lee Anne; id:/model/vivthomas/lee-anne; u:https://www.vivthomas.com/model/lee-anne; g:f
 released: 2020-04-07
 photographer: Sandra Shine
 rating: 9.2
@@ -975,8 +975,8 @@ title: Come And Play
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/anya-krey-and-candice-demellza/gallery/20200402/COME_AND_PLAY
-cast: Anya Krey; https://www.vivthomas.com/model/anya-krey; f
-cast: Candice Demellza; https://www.vivthomas.com/model/candice-demellza; f
+model: n:Anya Krey; id:/model/vivthomas/anya-krey; u:https://www.vivthomas.com/model/anya-krey; g:f
+model: n:Candice Demellza; id:/model/vivthomas/candice-demellza; u:https://www.vivthomas.com/model/candice-demellza; g:f
 released: 2020-04-02
 photographer: Andrej Lupin
 rating: 9.5
@@ -990,8 +990,8 @@ title: Ready For You
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/tina-tiny-and-marilyn-sugar/gallery/20200330/READY_FOR_YOU
-cast: Tina Tiny; https://www.vivthomas.com/model/tina-tiny; f
-cast: Marilyn Sugar; https://www.vivthomas.com/model/marilyn-sugar; f
+model: n:Tina Tiny; id:/model/vivthomas/tina-tiny; u:https://www.vivthomas.com/model/tina-tiny; g:f
+model: n:Marilyn Sugar; id:/model/vivthomas/marilyn-sugar; u:https://www.vivthomas.com/model/marilyn-sugar; g:f
 released: 2020-03-30
 photographer: Nik Fox
 rating: 8.9
@@ -1005,8 +1005,8 @@ title: Sexy Selfies
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/lilu-moon-and-alexis-crystal/gallery/20200324/SEXY_SELFIES
-cast: Lilu Moon; https://www.vivthomas.com/model/lilu-moon; f
-cast: Alexis Crystal; https://www.vivthomas.com/model/alexis-crystal; f
+model: n:Lilu Moon; id:/model/vivthomas/lilu-moon; u:https://www.vivthomas.com/model/lilu-moon; g:f
+model: n:Alexis Crystal; id:/model/vivthomas/alexis-crystal; u:https://www.vivthomas.com/model/alexis-crystal; g:f
 released: 2020-03-24
 photographer: Andrej Lupin
 rating: 9.5
@@ -1020,8 +1020,8 @@ title: See Me
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/olivia-sin-and-melody-petite/gallery/20200319/SEE_ME
-cast: Olivia Sin; https://www.vivthomas.com/model/olivia-sin; f
-cast: Melody Petite; https://www.vivthomas.com/model/melody-petite; f
+model: n:Olivia Sin; id:/model/vivthomas/olivia-sin; u:https://www.vivthomas.com/model/olivia-sin; g:f
+model: n:Melody Petite; id:/model/vivthomas/melody-petite; u:https://www.vivthomas.com/model/melody-petite; g:f
 released: 2020-03-19
 photographer: Andrej Lupin
 rating: 9.2
@@ -1035,8 +1035,8 @@ title: My Turn
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/lovita-fate-and-mia-split/gallery/20200316/MY_TURN
-cast: Lovita Fate; https://www.vivthomas.com/model/lovita-fate; f
-cast: Mia Split; https://www.vivthomas.com/model/mia-split; f
+model: n:Lovita Fate; id:/model/vivthomas/lovita-fate; u:https://www.vivthomas.com/model/lovita-fate; g:f
+model: n:Mia Split; id:/model/vivthomas/mia-split; u:https://www.vivthomas.com/model/mia-split; g:f
 released: 2020-03-16
 photographer: Nik Fox
 rating: 9.4
@@ -1050,8 +1050,8 @@ title: Bedroom Beauties
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/lady-bug-and-monica-brown/gallery/20200310/BEDROOM_BEAUTIES
-cast: Lady Bug; https://www.vivthomas.com/model/lady-bug; f
-cast: Monica Brown; https://www.vivthomas.com/model/monica-brown; f
+model: n:Lady Bug; id:/model/vivthomas/lady-bug; u:https://www.vivthomas.com/model/lady-bug; g:f
+model: n:Monica Brown; id:/model/vivthomas/monica-brown; u:https://www.vivthomas.com/model/monica-brown; g:f
 released: 2020-03-10
 photographer: Andrej Lupin
 rating: 9.2
@@ -1065,8 +1065,8 @@ title: Maid For Love
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/eveline-dellai-and-ginebra-bellucci/gallery/20200305/MAID_FOR_LOVE
-cast: Eveline Dellai; https://www.vivthomas.com/model/eveline-dellai; f
-cast: Ginebra Bellucci; https://www.vivthomas.com/model/ginebra-bellucci; f
+model: n:Eveline Dellai; id:/model/vivthomas/eveline-dellai; u:https://www.vivthomas.com/model/eveline-dellai; g:f
+model: n:Ginebra Bellucci; id:/model/vivthomas/ginebra-bellucci; u:https://www.vivthomas.com/model/ginebra-bellucci; g:f
 released: 2020-03-05
 photographer: Sandra Shine
 rating: 9.3
@@ -1080,8 +1080,8 @@ title: Play Me
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/emily-mayers-and-romy-indy/gallery/20200302/PLAY_ME
-cast: Emily Mayers; https://www.vivthomas.com/model/emily-mayers; f
-cast: Romy Indy; https://www.vivthomas.com/model/romy-indy; f
+model: n:Emily Mayers; id:/model/vivthomas/emily-mayers; u:https://www.vivthomas.com/model/emily-mayers; g:f
+model: n:Romy Indy; id:/model/vivthomas/romy-indy; u:https://www.vivthomas.com/model/romy-indy; g:f
 released: 2020-03-02
 photographer: Sandra Shine
 rating: 9.2
@@ -1095,8 +1095,8 @@ title: Make Me Wet
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/amirah-adara-and-lee-anne/gallery/20200225/MAKE_ME_WET
-cast: Amirah Adara; https://www.vivthomas.com/model/amirah-adara; f
-cast: Lee Anne; https://www.vivthomas.com/model/lee-anne; f
+model: n:Amirah Adara; id:/model/vivthomas/amirah-adara; u:https://www.vivthomas.com/model/amirah-adara; g:f
+model: n:Lee Anne; id:/model/vivthomas/lee-anne; u:https://www.vivthomas.com/model/lee-anne; g:f
 released: 2020-02-25
 photographer: Sandra Shine
 rating: 9.3
@@ -1110,9 +1110,9 @@ title: Join Us
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/blue-angel-and-alyssa-reece-and-dolly-diore/gallery/20200220/JOIN_US
-cast: Blue Angel; https://www.vivthomas.com/model/blue-angel; f
-cast: Alyssa Reece; https://www.vivthomas.com/model/alyssa-reece; f
-cast: Dolly Diore; https://www.vivthomas.com/model/dolly-diore; f
+model: n:Blue Angel; id:/model/vivthomas/blue-angel; u:https://www.vivthomas.com/model/blue-angel; g:f
+model: n:Alyssa Reece; id:/model/vivthomas/alyssa-reece; u:https://www.vivthomas.com/model/alyssa-reece; g:f
+model: n:Dolly Diore; id:/model/vivthomas/dolly-diore; u:https://www.vivthomas.com/model/dolly-diore; g:f
 released: 2020-02-20
 photographer: Sandra Shine
 rating: 9.4
@@ -1126,8 +1126,8 @@ title: Wet Workout
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/tina-kay-and-soyivania/gallery/20200217/WET_WORKOUT
-cast: Tina Kay; https://www.vivthomas.com/model/tina-kay; f
-cast: Soyivania; https://www.vivthomas.com/model/soyivania; f
+model: n:Tina Kay; id:/model/vivthomas/tina-kay; u:https://www.vivthomas.com/model/tina-kay; g:f
+model: n:Soyivania; id:/model/vivthomas/soyivania; u:https://www.vivthomas.com/model/soyivania; g:f
 released: 2020-02-17
 photographer: Sandra Shine
 rating: 9.2
@@ -1141,8 +1141,8 @@ title: Heating Up
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/romy-indy-and-ginebra-bellucci/gallery/20200211/HEATING_UP
-cast: Romy Indy; https://www.vivthomas.com/model/romy-indy; f
-cast: Ginebra Bellucci; https://www.vivthomas.com/model/ginebra-bellucci; f
+model: n:Romy Indy; id:/model/vivthomas/romy-indy; u:https://www.vivthomas.com/model/romy-indy; g:f
+model: n:Ginebra Bellucci; id:/model/vivthomas/ginebra-bellucci; u:https://www.vivthomas.com/model/ginebra-bellucci; g:f
 released: 2020-02-11
 photographer: Sandra Shine
 rating: 9.4
@@ -1156,8 +1156,8 @@ title: Kiss Me Better
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/angelika-grays-and-dolly-diore/gallery/20200206/KISS_ME_BETTER
-cast: Angelika Grays; https://www.vivthomas.com/model/angelika-grays; f
-cast: Dolly Diore; https://www.vivthomas.com/model/dolly-diore; f
+model: n:Angelika Grays; id:/model/vivthomas/angelika-grays; u:https://www.vivthomas.com/model/angelika-grays; g:f
+model: n:Dolly Diore; id:/model/vivthomas/dolly-diore; u:https://www.vivthomas.com/model/dolly-diore; g:f
 released: 2020-02-06
 photographer: Sandra Shine
 rating: 9.4
@@ -1171,8 +1171,8 @@ title: Eat Me
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/paula-shy-and-alexis-crystal/gallery/20200203/EAT_ME
-cast: Paula Shy; https://www.vivthomas.com/model/paula-shy; f
-cast: Alexis Crystal; https://www.vivthomas.com/model/alexis-crystal; f
+model: n:Paula Shy; id:/model/vivthomas/paula-shy; u:https://www.vivthomas.com/model/paula-shy; g:f
+model: n:Alexis Crystal; id:/model/vivthomas/alexis-crystal; u:https://www.vivthomas.com/model/alexis-crystal; g:f
 released: 2020-02-03
 photographer: Nik Fox
 rating: 9.2
@@ -1186,8 +1186,8 @@ title: Dressing Room
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/alya-stark-and-sybil-a/gallery/20200128/DRESSING_ROOM
-cast: Alya Stark; https://www.vivthomas.com/model/alya-stark; f
-cast: Sybil A; https://www.vivthomas.com/model/sybil-a; f
+model: n:Alya Stark; id:/model/vivthomas/alya-stark; u:https://www.vivthomas.com/model/alya-stark; g:f
+model: n:Sybil A; id:/model/vivthomas/sybil-a; u:https://www.vivthomas.com/model/sybil-a; g:f
 released: 2020-01-28
 photographer: Sandra Shine
 rating: 9.6
@@ -1201,8 +1201,8 @@ title: Dreaming Of You
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/lexi-dona-and-jenny-ferri/gallery/20200123/DREAMING_OF_YOU
-cast: Lexi Dona; https://www.vivthomas.com/model/lexi-dona; f
-cast: Jenny Ferri; https://www.vivthomas.com/model/jenny-ferri; f
+model: n:Lexi Dona; id:/model/vivthomas/lexi-dona; u:https://www.vivthomas.com/model/lexi-dona; g:f
+model: n:Jenny Ferri; id:/model/vivthomas/jenny-ferri; u:https://www.vivthomas.com/model/jenny-ferri; g:f
 released: 2020-01-23
 photographer: Bree Parker
 rating: 9.2
@@ -1216,8 +1216,8 @@ title: Love Trail
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/jessica-portman-and-vicky-love/gallery/20200120/LOVE_TRAIL
-cast: Jessica Portman; https://www.vivthomas.com/model/jessica-portman; f
-cast: Vicky Love; https://www.vivthomas.com/model/vicky-love; f
+model: n:Jessica Portman; id:/model/vivthomas/jessica-portman; u:https://www.vivthomas.com/model/jessica-portman; g:f
+model: n:Vicky Love; id:/model/vivthomas/vicky-love; u:https://www.vivthomas.com/model/vicky-love; g:f
 released: 2020-01-20
 photographer: Sandra Shine
 rating: 9.4
@@ -1231,8 +1231,8 @@ title: Beautiful Distraction
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/lee-anne-and-lady-dee/gallery/20200114/BEAUTIFUL_DISTRACTION
-cast: Lee Anne; https://www.vivthomas.com/model/lee-anne; f
-cast: Lady Dee; https://www.vivthomas.com/model/lady-dee; f
+model: n:Lee Anne; id:/model/vivthomas/lee-anne; u:https://www.vivthomas.com/model/lee-anne; g:f
+model: n:Lady Dee; id:/model/vivthomas/lady-dee; u:https://www.vivthomas.com/model/lady-dee; g:f
 released: 2020-01-14
 photographer: Nik Fox
 rating: 9.3
@@ -1246,8 +1246,8 @@ title: After Party
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/emylia-argan-and-paula-shy/gallery/20200109/AFTER_PARTY
-cast: Emylia Argan; https://www.vivthomas.com/model/emylia-argan; f
-cast: Paula Shy; https://www.vivthomas.com/model/paula-shy; f
+model: n:Emylia Argan; id:/model/vivthomas/emylia-argan; u:https://www.vivthomas.com/model/emylia-argan; g:f
+model: n:Paula Shy; id:/model/vivthomas/paula-shy; u:https://www.vivthomas.com/model/paula-shy; g:f
 released: 2020-01-09
 photographer: Nik Fox
 rating: 9.2
@@ -1261,8 +1261,8 @@ title: Make Me Sweat
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/sybil-a-and-lika-star/gallery/20200106/MAKE_ME_SWEAT
-cast: Sybil A; https://www.vivthomas.com/model/sybil-a; f
-cast: Lika Star; https://www.vivthomas.com/model/lika-star; f
+model: n:Sybil A; id:/model/vivthomas/sybil-a; u:https://www.vivthomas.com/model/sybil-a; g:f
+model: n:Lika Star; id:/model/vivthomas/lika-star; u:https://www.vivthomas.com/model/lika-star; g:f
 released: 2020-01-06
 photographer: Sandra Shine
 rating: 9.5

@@ -9,8 +9,8 @@ title: Summer Memories 2 - Flashback
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/noe-milk-and-nikita-bellucci/movie/20161230/SUMMER_MEMORIES_EPISODE_2_-_FLASHBACK
-cast: Noe Milk; https://www.vivthomas.com/model/noe-milk; f
-cast: Nikita Bellucci; https://www.vivthomas.com/model/nikita-bellucci; f
+model: n:Noe Milk; id:/model/vivthomas/noe-milk; u:https://www.vivthomas.com/model/noe-milk; g:f
+model: n:Nikita Bellucci; id:/model/vivthomas/nikita-bellucci; u:https://www.vivthomas.com/model/nikita-bellucci; g:f
 released: 2016-12-30
 director:   Alis Locanta
 rating: 9.2
@@ -84,8 +84,8 @@ title: Sandra's Sporty Girls 4 - The Boxer
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/luna-corazon-and-erika-korti/movie/20161228/SANDRA_S_SPORTY_GIRLS_EPISODE_4_-_THE_BOXER
-cast: Luna Corazon; https://www.vivthomas.com/model/luna-corazon; f
-cast: Erika Korti; https://www.vivthomas.com/model/erika-korti; f
+model: n:Luna Corazon; id:/model/vivthomas/luna-corazon; u:https://www.vivthomas.com/model/luna-corazon; g:f
+model: n:Erika Korti; id:/model/vivthomas/erika-korti; u:https://www.vivthomas.com/model/erika-korti; g:f
 released: 2016-12-28
 director:   Sandra Shine
 rating: 9.3
@@ -151,8 +151,8 @@ title: My First - Reloaded 2 - Chambermaid
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/lexi-dona-and-paula-shy/movie/20161223/MY_FIRST_-_RELOADED_EPISODE_2_-_CHAMBERMAID
-cast: Lexi Dona; https://www.vivthomas.com/model/lexi-dona; f
-cast: Paula Shy; https://www.vivthomas.com/model/paula-shy; f
+model: n:Lexi Dona; id:/model/vivthomas/lexi-dona; u:https://www.vivthomas.com/model/lexi-dona; g:f
+model: n:Paula Shy; id:/model/vivthomas/paula-shy; u:https://www.vivthomas.com/model/paula-shy; g:f
 released: 2016-12-23
 director:   Alis Locanta
 rating: 9.5
@@ -222,8 +222,8 @@ title: Sandra's Sporty Girls 3 - The Skater
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/zafira-a-and-brandy-smile/movie/20161221/SANDRA_S_SPORTY_GIRLS_EPISODE_3_-_THE_SKATER
-cast: Zafira A; https://www.vivthomas.com/model/zafira-a; f
-cast: Brandy Smile; https://www.vivthomas.com/model/brandy-smile; f
+model: n:Zafira A; id:/model/vivthomas/zafira-a; u:https://www.vivthomas.com/model/zafira-a; g:f
+model: n:Brandy Smile; id:/model/vivthomas/brandy-smile; u:https://www.vivthomas.com/model/brandy-smile; g:f
 released: 2016-12-21
 director:   Sandra Shine
 rating: 9.4
@@ -286,8 +286,8 @@ title: Vox Reloaded 2 - Forbidden
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/sweet-cat-and-noe-milk/movie/20161216/VOX_RELOADED_EPISODE_2_-_FORBIDDEN
-cast: Sweet Cat; https://www.vivthomas.com/model/sweet-cat; f
-cast: Noe Milk; https://www.vivthomas.com/model/noe-milk; f
+model: n:Sweet Cat; id:/model/vivthomas/sweet-cat; u:https://www.vivthomas.com/model/sweet-cat; g:f
+model: n:Noe Milk; id:/model/vivthomas/noe-milk; u:https://www.vivthomas.com/model/noe-milk; g:f
 released: 2016-12-16
 director:   Alis Locanta
 rating: 9.4
@@ -305,7 +305,7 @@ executiveProducer: MetArt Films
 directorOfPhotography: Alis Locanta
 cameraOperator: Heinz Cabro, Alis Locanta
 editor: Alis Locanta
-firstAc: Antoinette De Bevoise
+firstAC: Antoinette De Bevoise
 costumeDesigner: Eva Dividendo
 makeupArtist: Mariana Villareal
 boomOperator: G.M. Cusa
@@ -362,8 +362,8 @@ title: Sandra's Sporty Girls 2 - The Trainer
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/nataly-gold-and-ginger-fox/movie/20161214/SANDRA_S_SPORTY_GIRLS_EPISODE_2_-_THE_TRAINER
-cast: Nataly Gold; https://www.vivthomas.com/model/nataly-gold; f
-cast: Ginger Fox; https://www.vivthomas.com/model/ginger-fox; f
+model: n:Nataly Gold; id:/model/vivthomas/nataly-gold; u:https://www.vivthomas.com/model/nataly-gold; g:f
+model: n:Ginger Fox; id:/model/vivthomas/ginger-fox; u:https://www.vivthomas.com/model/ginger-fox; g:f
 released: 2016-12-14
 director:   Sandra Shine
 rating: 9.0
@@ -424,8 +424,8 @@ title: All About Me 2 - Narcissistic
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/nataly-von-and-lexi-dona/movie/20161209/ALL_ABOUT_ME_EPISODE_2_-_NARCISSISTIC
-cast: Nataly Von; https://www.vivthomas.com/model/nataly-von; f
-cast: Lexi Dona; https://www.vivthomas.com/model/lexi-dona; f
+model: n:Nataly Von; id:/model/vivthomas/nataly-von; u:https://www.vivthomas.com/model/nataly-von; g:f
+model: n:Lexi Dona; id:/model/vivthomas/lexi-dona; u:https://www.vivthomas.com/model/lexi-dona; g:f
 released: 2016-12-09
 director:   Alis Locanta
 rating: 9.2
@@ -499,8 +499,8 @@ title: Sandra's Sporty Girls 1 - The Rivalry
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/chelsy-sun-and-nancy-a/movie/20161207/SANDRA_S_SPORTY_GIRLS_EPISODE_1_-_THE_RIVALRY
-cast: Chelsy Sun; https://www.vivthomas.com/model/chelsy-sun; f
-cast: Nancy A; https://www.vivthomas.com/model/nancy-a; f
+model: n:Chelsy Sun; id:/model/vivthomas/chelsy-sun; u:https://www.vivthomas.com/model/chelsy-sun; g:f
+model: n:Nancy A; id:/model/vivthomas/nancy-a; u:https://www.vivthomas.com/model/nancy-a; g:f
 released: 2016-12-07
 director:   Sandra Shine
 rating: 9.3
@@ -569,8 +569,8 @@ title: Summer Memories 1 - Recollection
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/sweet-cat-and-nikita-bellucci/movie/20161202/SUMMER_MEMORIES_EPISODE_1_-_RECOLLECTION
-cast: Sweet Cat; https://www.vivthomas.com/model/sweet-cat; f
-cast: Nikita Bellucci; https://www.vivthomas.com/model/nikita-bellucci; f
+model: n:Sweet Cat; id:/model/vivthomas/sweet-cat; u:https://www.vivthomas.com/model/sweet-cat; g:f
+model: n:Nikita Bellucci; id:/model/vivthomas/nikita-bellucci; u:https://www.vivthomas.com/model/nikita-bellucci; g:f
 released: 2016-12-02
 director:   Alis Locanta
 rating: 9.3
@@ -642,8 +642,8 @@ title: My First - Reloaded 1 - Prominent
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/noe-milk-and-julia-roca/movie/20161130/MY_FIRST_-_RELOADED_EPISODE_1_-_PROMINENT
-cast: Noe Milk; https://www.vivthomas.com/model/noe-milk; f
-cast: Julia Roca; https://www.vivthomas.com/model/julia-roca; f
+model: n:Noe Milk; id:/model/vivthomas/noe-milk; u:https://www.vivthomas.com/model/noe-milk; g:f
+model: n:Julia Roca; id:/model/vivthomas/julia-roca; u:https://www.vivthomas.com/model/julia-roca; g:f
 released: 2016-11-30
 director:   Alis Locanta
 rating: 9.3
@@ -715,8 +715,8 @@ title: Vox Reloaded 1 - Reminder
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/nikita-bellucci-and-sweet-cat/movie/20161125/VOX_RELOADED_EPISODE_1_-_REMINDER
-cast: Nikita Bellucci; https://www.vivthomas.com/model/nikita-bellucci; f
-cast: Sweet Cat; https://www.vivthomas.com/model/sweet-cat; f
+model: n:Nikita Bellucci; id:/model/vivthomas/nikita-bellucci; u:https://www.vivthomas.com/model/nikita-bellucci; g:f
+model: n:Sweet Cat; id:/model/vivthomas/sweet-cat; u:https://www.vivthomas.com/model/sweet-cat; g:f
 released: 2016-11-25
 director:   Alis Locanta
 rating: 9.5
@@ -792,8 +792,8 @@ title: All About Me 1 - Egotistical
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/paula-shy-and-nataly-von/movie/20161123/ALL_ABOUT_ME_EPISODE_1_-_EGOTISTICAL
-cast: Paula Shy; https://www.vivthomas.com/model/paula-shy; f
-cast: Nataly Von; https://www.vivthomas.com/model/nataly-von; f
+model: n:Paula Shy; id:/model/vivthomas/paula-shy; u:https://www.vivthomas.com/model/paula-shy; g:f
+model: n:Nataly Von; id:/model/vivthomas/nataly-von; u:https://www.vivthomas.com/model/nataly-von; g:f
 released: 2016-11-23
 director:   Alis Locanta
 rating: 9.3
@@ -867,8 +867,8 @@ title: Memento - Reloaded 4 - Recapture
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/aria-logan-and-penelope-cum/movie/20161118/MEMENTO_-_RELOADED_EPISODE_4_-_RECAPTURE
-cast: Aria Logan; https://www.vivthomas.com/model/aria-logan; f
-cast: Penelope Cum; https://www.vivthomas.com/model/penelope-cum; f
+model: n:Aria Logan; id:/model/vivthomas/aria-logan; u:https://www.vivthomas.com/model/aria-logan; g:f
+model: n:Penelope Cum; id:/model/vivthomas/penelope-cum; u:https://www.vivthomas.com/model/penelope-cum; g:f
 released: 2016-11-18
 director:   Alis Locanta
 rating: 9.3
@@ -943,8 +943,8 @@ title: Private Practice 4 - Habitude
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/noe-milk-and-alexa-tomas/movie/20161116/PRIVATE_PRACTICE_EPISODE_4_-_HABITUDE
-cast: Noe Milk; https://www.vivthomas.com/model/noe-milk; f
-cast: Alexa Tomas; https://www.vivthomas.com/model/alexa-tomas; f
+model: n:Noe Milk; id:/model/vivthomas/noe-milk; u:https://www.vivthomas.com/model/noe-milk; g:f
+model: n:Alexa Tomas; id:/model/vivthomas/alexa-tomas; u:https://www.vivthomas.com/model/alexa-tomas; g:f
 released: 2016-11-16
 director:   Alis Locanta
 rating: 9.5
@@ -1024,9 +1024,9 @@ title: The Initiation of a Maid 4 - Investiture
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/lena-love-and-michelle-h-and-zoe-doll/movie/20161111/THE_INITIATION_OF_A_MAID_EPISODE_4_-_INVESTITURE
-cast: Lena Love; https://www.vivthomas.com/model/lena-love; f
-cast: Michelle H; https://www.vivthomas.com/model/michelle-h; f
-cast: Zoe Doll; https://www.vivthomas.com/model/zoe-doll; f
+model: n:Lena Love; id:/model/vivthomas/lena-love; u:https://www.vivthomas.com/model/lena-love; g:f
+model: n:Michelle H; id:/model/vivthomas/michelle-h; u:https://www.vivthomas.com/model/michelle-h; g:f
+model: n:Zoe Doll; id:/model/vivthomas/zoe-doll; u:https://www.vivthomas.com/model/zoe-doll; g:f
 released: 2016-11-11
 director:   Alis Locanta
 rating: 9.5
@@ -1108,8 +1108,8 @@ title: Be Mine - Reloaded 4 - Subservient
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/zoe-doll-and-alexa-tomas/movie/20161109/BE_MINE_-_RELOADED_EPISODE_4_-_SUBSERVIENT
-cast: Zoe Doll; https://www.vivthomas.com/model/zoe-doll; f
-cast: Alexa Tomas; https://www.vivthomas.com/model/alexa-tomas; f
+model: n:Zoe Doll; id:/model/vivthomas/zoe-doll; u:https://www.vivthomas.com/model/zoe-doll; g:f
+model: n:Alexa Tomas; id:/model/vivthomas/alexa-tomas; u:https://www.vivthomas.com/model/alexa-tomas; g:f
 released: 2016-11-09
 director:   Alis Locanta
 rating: 9.4
@@ -1184,8 +1184,8 @@ title: Memento - Reloaded 3 - Souvenir
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/arian-and-carolina-abril/movie/20161104/MEMENTO_-_RELOADED_EPISODE_3_-_SOUVENIR
-cast: Arian; https://www.vivthomas.com/model/arian; f
-cast: Carolina Abril; https://www.vivthomas.com/model/carolina-abril; f
+model: n:Arian; id:/model/vivthomas/arian; u:https://www.vivthomas.com/model/arian; g:f
+model: n:Carolina Abril; id:/model/vivthomas/carolina-abril; u:https://www.vivthomas.com/model/carolina-abril; g:f
 released: 2016-11-04
 director:   Alis Locanta
 rating: 9.3
@@ -1252,8 +1252,8 @@ title: Private Practice 3 - Unique
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/alexa-tomas-and-lena-love/movie/20161102/PRIVATE_PRACTICE_EPISODE_3_-_UNIQUE
-cast: Alexa Tomas; https://www.vivthomas.com/model/alexa-tomas; f
-cast: Lena Love; https://www.vivthomas.com/model/lena-love; f
+model: n:Alexa Tomas; id:/model/vivthomas/alexa-tomas; u:https://www.vivthomas.com/model/alexa-tomas; g:f
+model: n:Lena Love; id:/model/vivthomas/lena-love; u:https://www.vivthomas.com/model/lena-love; g:f
 released: 2016-11-02
 director:   Alis Locanta
 rating: 9.4
@@ -1330,8 +1330,8 @@ title: The Initiation of a Maid 3 - Damsel
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/michelle-h-and-zoe-doll/movie/20161028/THE_INITIATION_OF_A_MAID_EPISODE_3_-_DAMSEL
-cast: Michelle H; https://www.vivthomas.com/model/michelle-h; f
-cast: Zoe Doll; https://www.vivthomas.com/model/zoe-doll; f
+model: n:Michelle H; id:/model/vivthomas/michelle-h; u:https://www.vivthomas.com/model/michelle-h; g:f
+model: n:Zoe Doll; id:/model/vivthomas/zoe-doll; u:https://www.vivthomas.com/model/zoe-doll; g:f
 released: 2016-10-28
 director:   Alis Locanta
 rating: 9.4
@@ -1409,8 +1409,8 @@ title: Precious Moments 4 - Voluptuous
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/viola-and-eva-berger/movie/20161026/PRECIOUS_MOMENTS_EPISODE_4_-_VOLUPTUOUS
-cast: Viola; https://www.vivthomas.com/model/viola; f
-cast: Eva Berger; https://www.vivthomas.com/model/eva-berger; f
+model: n:Viola; id:/model/vivthomas/viola; u:https://www.vivthomas.com/model/viola; g:f
+model: n:Eva Berger; id:/model/vivthomas/eva-berger; u:https://www.vivthomas.com/model/eva-berger; g:f
 released: 2016-10-26
 director:   Sandra Shine
 rating: 9.4
@@ -1470,8 +1470,8 @@ title: Be Mine - Reloaded 3 - Enthrall
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/dorothy-black-and-lexi-lowe/movie/20161021/BE_MINE_-_RELOADED_EPISODE_3_-_ENTHRALL
-cast: Dorothy Black; https://www.vivthomas.com/model/dorothy-black; f
-cast: Lexi Lowe; https://www.vivthomas.com/model/lexi-lowe; f
+model: n:Dorothy Black; id:/model/vivthomas/dorothy-black; u:https://www.vivthomas.com/model/dorothy-black; g:f
+model: n:Lexi Lowe; id:/model/vivthomas/lexi-lowe; u:https://www.vivthomas.com/model/lexi-lowe; g:f
 released: 2016-10-21
 director:   Alis Locanta
 rating: 9.5
@@ -1544,8 +1544,8 @@ title: Precious Moments 3 - Untwine
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/nesty-a-and-shrima-malati/movie/20161019/PRECIOUS_MOMENTS_EPISODE_3_-_UNTWINE
-cast: Nesty A; https://www.vivthomas.com/model/nesty-a; f
-cast: Shrima Malati; https://www.vivthomas.com/model/shrima-malati; f
+model: n:Nesty A; id:/model/vivthomas/nesty-a; u:https://www.vivthomas.com/model/nesty-a; g:f
+model: n:Shrima Malati; id:/model/vivthomas/shrima-malati; u:https://www.vivthomas.com/model/shrima-malati; g:f
 released: 2016-10-19
 director:   Sandra Shine
 rating: 9.5
@@ -1620,8 +1620,8 @@ title: Memento - Reloaded 2 - Secluded
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/cristal-caitlin-and-eveline-dellai/movie/20161014/MEMENTO_-_RELOADED_EPISODE_2_-_SECLUDED
-cast: Cristal Caitlin; https://www.vivthomas.com/model/cristal-caitlin; f
-cast: Eveline Dellai; https://www.vivthomas.com/model/eveline-dellai; f
+model: n:Cristal Caitlin; id:/model/vivthomas/cristal-caitlin; u:https://www.vivthomas.com/model/cristal-caitlin; g:f
+model: n:Eveline Dellai; id:/model/vivthomas/eveline-dellai; u:https://www.vivthomas.com/model/eveline-dellai; g:f
 released: 2016-10-14
 director:   Alis Locanta
 rating: 9.2
@@ -1696,8 +1696,8 @@ title: Precious Moments 2 - Adorable
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/alessandra-jane-and-evelina-darling/movie/20161012/PRECIOUS_MOMENTS_EPISODE_2_-_ADORABLE
-cast: Alessandra Jane; https://www.vivthomas.com/model/alessandra-jane; f
-cast: Evelina Darling; https://www.vivthomas.com/model/evelina-darling; f
+model: n:Alessandra Jane; id:/model/vivthomas/alessandra-jane; u:https://www.vivthomas.com/model/alessandra-jane; g:f
+model: n:Evelina Darling; id:/model/vivthomas/evelina-darling; u:https://www.vivthomas.com/model/evelina-darling; g:f
 released: 2016-10-12
 director:   Sandra Shine
 rating: 9.4
@@ -1760,8 +1760,8 @@ title: Private Practice 2 - Uncovered
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/noe-milk-and-lexi-lowe/movie/20161007/PRIVATE_PRACTICE_EPISODE_2_-_UNCOVERED
-cast: Noe Milk; https://www.vivthomas.com/model/noe-milk; f
-cast: Lexi Lowe; https://www.vivthomas.com/model/lexi-lowe; f
+model: n:Noe Milk; id:/model/vivthomas/noe-milk; u:https://www.vivthomas.com/model/noe-milk; g:f
+model: n:Lexi Lowe; id:/model/vivthomas/lexi-lowe; u:https://www.vivthomas.com/model/lexi-lowe; g:f
 released: 2016-10-07
 director:   Alis Locanta
 rating: 9.2
@@ -1839,8 +1839,8 @@ title: Precious Moments 1 - The Artist
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/stefany-moon-and-tiffany-doll/movie/20161005/PRECIOUS_MOMENTS_EPISODE_1_-_THE_ARTIST
-cast: Stefany Moon; https://www.vivthomas.com/model/stefany-moon; f
-cast: Tiffany Doll; https://www.vivthomas.com/model/tiffany-doll; f
+model: n:Stefany Moon; id:/model/vivthomas/stefany-moon; u:https://www.vivthomas.com/model/stefany-moon; g:f
+model: n:Tiffany Doll; id:/model/vivthomas/tiffany-doll; u:https://www.vivthomas.com/model/tiffany-doll; g:f
 released: 2016-10-05
 director:   Sandra Shine
 rating: 9.4
@@ -1903,8 +1903,8 @@ title: The Initiation of a Maid 2 - Dawning
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/lena-love-and-michelle-h/movie/20160930/THE_INITIATION_OF_A_MAID_EPISODE_2_-_DAWNING
-cast: Lena Love; https://www.vivthomas.com/model/lena-love; f
-cast: Michelle H; https://www.vivthomas.com/model/michelle-h; f
+model: n:Lena Love; id:/model/vivthomas/lena-love; u:https://www.vivthomas.com/model/lena-love; g:f
+model: n:Michelle H; id:/model/vivthomas/michelle-h; u:https://www.vivthomas.com/model/michelle-h; g:f
 released: 2016-09-30
 director:   Alis Locanta
 rating: 9.4
@@ -1987,8 +1987,8 @@ title: Love Lesson 4 - Reconciliation
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/henessy-a-and-gina-gerson/movie/20160928/LOVE_LESSON_EPISODE_4_-_RECONCILIATION
-cast: Henessy A; https://www.vivthomas.com/model/henessy-a; f
-cast: Gina Gerson; https://www.vivthomas.com/model/gina-gerson; f
+model: n:Henessy A; id:/model/vivthomas/henessy-a; u:https://www.vivthomas.com/model/henessy-a; g:f
+model: n:Gina Gerson; id:/model/vivthomas/gina-gerson; u:https://www.vivthomas.com/model/gina-gerson; g:f
 released: 2016-09-28
 director:   Sandra Shine
 rating: 9.4
@@ -2049,8 +2049,8 @@ title: Private Practice 1 - Covert
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/alexa-tomas-and-lexi-lowe/movie/20160923/PRIVATE_PRACTICE_EPISODE_1_-_COVERT
-cast: Alexa Tomas; https://www.vivthomas.com/model/alexa-tomas; f
-cast: Lexi Lowe; https://www.vivthomas.com/model/lexi-lowe; f
+model: n:Alexa Tomas; id:/model/vivthomas/alexa-tomas; u:https://www.vivthomas.com/model/alexa-tomas; g:f
+model: n:Lexi Lowe; id:/model/vivthomas/lexi-lowe; u:https://www.vivthomas.com/model/lexi-lowe; g:f
 released: 2016-09-23
 director:   Alis Locanta
 rating: 9.5
@@ -2118,8 +2118,8 @@ title: Love Lesson 3 - Rememberence
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/anina-silk-and-henessy-a/movie/20160921/LOVE_LESSON_EPISODE_3_-_REMEMBERENCE
-cast: Anina Silk; https://www.vivthomas.com/model/anina-silk; f
-cast: Henessy A; https://www.vivthomas.com/model/henessy-a; f
+model: n:Anina Silk; id:/model/vivthomas/anina-silk; u:https://www.vivthomas.com/model/anina-silk; g:f
+model: n:Henessy A; id:/model/vivthomas/henessy-a; u:https://www.vivthomas.com/model/henessy-a; g:f
 released: 2016-09-21
 director:   Sandra Shine
 rating: 9.3
@@ -2179,8 +2179,8 @@ title: Be Mine - Reloaded 2 - Indulgent
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/penelope-cum-and-arian/movie/20160916/BE_MINE_-_RELOADED_EPISODE_2_-_INDULGENT
-cast: Penelope Cum; https://www.vivthomas.com/model/penelope-cum; f
-cast: Arian; https://www.vivthomas.com/model/arian; f
+model: n:Penelope Cum; id:/model/vivthomas/penelope-cum; u:https://www.vivthomas.com/model/penelope-cum; g:f
+model: n:Arian; id:/model/vivthomas/arian; u:https://www.vivthomas.com/model/arian; g:f
 released: 2016-09-16
 director:   Alis Locanta
 rating: 9.3
@@ -2256,8 +2256,8 @@ title: Love Lesson 2 - Playful
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/gina-gerson-and-ivana-sugar/movie/20160914/LOVE_LESSON_EPISODE_2_-_PLAYFUL
-cast: Gina Gerson; https://www.vivthomas.com/model/gina-gerson; f
-cast: Ivana Sugar; https://www.vivthomas.com/model/ivana-sugar; f
+model: n:Gina Gerson; id:/model/vivthomas/gina-gerson; u:https://www.vivthomas.com/model/gina-gerson; g:f
+model: n:Ivana Sugar; id:/model/vivthomas/ivana-sugar; u:https://www.vivthomas.com/model/ivana-sugar; g:f
 released: 2016-09-14
 director:   Sandra Shine
 rating: 9.5
@@ -2339,8 +2339,8 @@ title: Memento - Reloaded 1 - Excited
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/leila-smith-and-kira-zen/movie/20160909/MEMENTO_-_RELOADED_EPISODE_1_-_EXCITED
-cast: Leila Smith; https://www.vivthomas.com/model/leila-smith; f
-cast: Kira Zen; https://www.vivthomas.com/model/kira-zen; f
+model: n:Leila Smith; id:/model/vivthomas/leila-smith; u:https://www.vivthomas.com/model/leila-smith; g:f
+model: n:Kira Zen; id:/model/vivthomas/kira-zen; u:https://www.vivthomas.com/model/kira-zen; g:f
 released: 2016-09-09
 director:   Alis Locanta
 rating: 9.5
@@ -2423,8 +2423,8 @@ title: Love Lesson 1 - Brazen
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/ivana-sugar-and-anina-silk/movie/20160907/LOVE_LESSON_EPISODE_1_-_BRAZEN
-cast: Ivana Sugar; https://www.vivthomas.com/model/ivana-sugar; f
-cast: Anina Silk; https://www.vivthomas.com/model/anina-silk; f
+model: n:Ivana Sugar; id:/model/vivthomas/ivana-sugar; u:https://www.vivthomas.com/model/ivana-sugar; g:f
+model: n:Anina Silk; id:/model/vivthomas/anina-silk; u:https://www.vivthomas.com/model/anina-silk; g:f
 released: 2016-09-07
 director:   Sandra Shine
 rating: 9.2
@@ -2509,8 +2509,8 @@ title: The Initiation of a Maid 1 - Validation
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/zoe-doll-and-lena-love/movie/20160902/THE_INITIATION_OF_A_MAID_EPISODE_1_-_VALIDATION
-cast: Zoe Doll; https://www.vivthomas.com/model/zoe-doll; f
-cast: Lena Love; https://www.vivthomas.com/model/lena-love; f
+model: n:Zoe Doll; id:/model/vivthomas/zoe-doll; u:https://www.vivthomas.com/model/zoe-doll; g:f
+model: n:Lena Love; id:/model/vivthomas/lena-love; u:https://www.vivthomas.com/model/lena-love; g:f
 released: 2016-09-02
 director:   Alis Locanta
 rating: 9.3
@@ -2595,8 +2595,8 @@ title: Be Mine - Reloaded 1 - Embolden
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/eveline-dellai-and-leila-smith/movie/20160831/BE_MINE_-_RELOADED_EPISODE_1_-_EMBOLDEN
-cast: Eveline Dellai; https://www.vivthomas.com/model/eveline-dellai; f
-cast: Leila Smith; https://www.vivthomas.com/model/leila-smith; f
+model: n:Eveline Dellai; id:/model/vivthomas/eveline-dellai; u:https://www.vivthomas.com/model/eveline-dellai; g:f
+model: n:Leila Smith; id:/model/vivthomas/leila-smith; u:https://www.vivthomas.com/model/leila-smith; g:f
 released: 2016-08-31
 director:   Alis Locanta
 rating: 9.2
@@ -2671,8 +2671,8 @@ title: Milf Stories - Dorothy Black 4 - Lusting
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/dorothy-black-and-lexi-lowe/movie/20160826/MILF_STORIES_-_DOROTHY_BLACK_EPISODE_4_-_LUSTING
-cast: Dorothy Black; https://www.vivthomas.com/model/dorothy-black; f
-cast: Lexi Lowe; https://www.vivthomas.com/model/lexi-lowe; f
+model: n:Dorothy Black; id:/model/vivthomas/dorothy-black; u:https://www.vivthomas.com/model/dorothy-black; g:f
+model: n:Lexi Lowe; id:/model/vivthomas/lexi-lowe; u:https://www.vivthomas.com/model/lexi-lowe; g:f
 released: 2016-08-26
 director:   Alis Locanta
 rating: 9.4
@@ -2746,8 +2746,8 @@ title: The Heat - Reloaded 4 - Vivid
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/arian-and-cristal-caitlin/movie/20160824/THE_HEAT_-_RELOADED_EPISODE_4_-_VIVID
-cast: Arian; https://www.vivthomas.com/model/arian; f
-cast: Cristal Caitlin; https://www.vivthomas.com/model/cristal-caitlin; f
+model: n:Arian; id:/model/vivthomas/arian; u:https://www.vivthomas.com/model/arian; g:f
+model: n:Cristal Caitlin; id:/model/vivthomas/cristal-caitlin; u:https://www.vivthomas.com/model/cristal-caitlin; g:f
 released: 2016-08-24
 director:   Alis Locanta
 rating: 9.3
@@ -2821,8 +2821,8 @@ title: Do You Wanna Play With Me 4 - Joyous
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/lola-a-and-jessie-volt/movie/20160819/DO_YOU_WANNA_PLAY_WITH_ME_EPISODE_4_-_JOYOUS
-cast: Lola A; https://www.vivthomas.com/model/lola-a; f
-cast: Jessie Volt; https://www.vivthomas.com/model/jessie-volt; f
+model: n:Lola A; id:/model/vivthomas/lola-a; u:https://www.vivthomas.com/model/lola-a; g:f
+model: n:Jessie Volt; id:/model/vivthomas/jessie-volt; u:https://www.vivthomas.com/model/jessie-volt; g:f
 released: 2016-08-19
 director:   Alis Locanta
 rating: 9.5
@@ -2891,8 +2891,8 @@ title: The Road Goes On - Reloaded 4 - Galvanize
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/leila-smith-and-cristal-caitlin/movie/20160817/THE_ROAD_GOES_ON_-_RELOADED_EPISODE_4_-_GALVANIZE
-cast: Leila Smith; https://www.vivthomas.com/model/leila-smith; f
-cast: Cristal Caitlin; https://www.vivthomas.com/model/cristal-caitlin; f
+model: n:Leila Smith; id:/model/vivthomas/leila-smith; u:https://www.vivthomas.com/model/leila-smith; g:f
+model: n:Cristal Caitlin; id:/model/vivthomas/cristal-caitlin; u:https://www.vivthomas.com/model/cristal-caitlin; g:f
 released: 2016-08-17
 director:   Alis Locanta
 rating: 9.4
@@ -2964,9 +2964,9 @@ title: The Lesbian Bachelorette 4 - Unison
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/michelle-h-and-lena-love-and-alexa-tomas/movie/20160812/THE_LESBIAN_BACHELORETTE_EPISODE_4_-_UNISON
-cast: Michelle H; https://www.vivthomas.com/model/michelle-h; f
-cast: Lena Love; https://www.vivthomas.com/model/lena-love; f
-cast: Alexa Tomas; https://www.vivthomas.com/model/alexa-tomas; f
+model: n:Michelle H; id:/model/vivthomas/michelle-h; u:https://www.vivthomas.com/model/michelle-h; g:f
+model: n:Lena Love; id:/model/vivthomas/lena-love; u:https://www.vivthomas.com/model/lena-love; g:f
+model: n:Alexa Tomas; id:/model/vivthomas/alexa-tomas; u:https://www.vivthomas.com/model/alexa-tomas; g:f
 released: 2016-08-12
 director:   Alis Locanta
 rating: 9.4
@@ -3048,8 +3048,8 @@ title: Hypersexuality 4 - Desired
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/lola-a-and-julia-roca/movie/20160810/HYPERSEXUALITY_EPISODE_4_-_DESIRED
-cast: Lola A; https://www.vivthomas.com/model/lola-a; f
-cast: Julia Roca; https://www.vivthomas.com/model/julia-roca; f
+model: n:Lola A; id:/model/vivthomas/lola-a; u:https://www.vivthomas.com/model/lola-a; g:f
+model: n:Julia Roca; id:/model/vivthomas/julia-roca; u:https://www.vivthomas.com/model/julia-roca; g:f
 released: 2016-08-10
 director:   Alis Locanta
 rating: 9.4
@@ -3117,8 +3117,8 @@ title: Milf Stories - Dorothy Black 3 - Affair
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/lexi-lowe-and-alexa-tomas/movie/20160805/MILF_STORIES_-_DOROTHY_BLACK_EPISODE_3_-_AFFAIR
-cast: Lexi Lowe; https://www.vivthomas.com/model/lexi-lowe; f
-cast: Alexa Tomas; https://www.vivthomas.com/model/alexa-tomas; f
+model: n:Lexi Lowe; id:/model/vivthomas/lexi-lowe; u:https://www.vivthomas.com/model/lexi-lowe; g:f
+model: n:Alexa Tomas; id:/model/vivthomas/alexa-tomas; u:https://www.vivthomas.com/model/alexa-tomas; g:f
 released: 2016-08-05
 director:   Alis Locanta
 rating: 9.5
@@ -3199,8 +3199,8 @@ title: The Heat - Reloaded 3 - Frenzy
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/eveline-dellai-and-kira-zen/movie/20160803/THE_HEAT_-_RELOADED_EPISODE_3_-_FRENZY
-cast: Eveline Dellai; https://www.vivthomas.com/model/eveline-dellai; f
-cast: Kira Zen; https://www.vivthomas.com/model/kira-zen; f
+model: n:Eveline Dellai; id:/model/vivthomas/eveline-dellai; u:https://www.vivthomas.com/model/eveline-dellai; g:f
+model: n:Kira Zen; id:/model/vivthomas/kira-zen; u:https://www.vivthomas.com/model/kira-zen; g:f
 released: 2016-08-03
 director:   Alis Locanta
 rating: 9.3
@@ -3275,8 +3275,8 @@ title: Do You Wanna Play With Me 3 - Erogenous
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/henessy-a-and-anissa-kate/movie/20160729/DO_YOU_WANNA_PLAY_WITH_ME_EPISODE_3_-_EROGENOUS
-cast: Henessy A; https://www.vivthomas.com/model/henessy-a; f
-cast: Anissa Kate; https://www.vivthomas.com/model/anissa-kate; f
+model: n:Henessy A; id:/model/vivthomas/henessy-a; u:https://www.vivthomas.com/model/henessy-a; g:f
+model: n:Anissa Kate; id:/model/vivthomas/anissa-kate; u:https://www.vivthomas.com/model/anissa-kate; g:f
 released: 2016-07-29
 director:   Alis Locanta
 rating: 9.5
@@ -3348,8 +3348,8 @@ title: The Road Goes On - Reloaded 3 - Carouse
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/kira-zen-and-leila-smith/movie/20160727/THE_ROAD_GOES_ON_-_RELOADED_EPISODE_3_-_CAROUSE
-cast: Kira Zen; https://www.vivthomas.com/model/kira-zen; f
-cast: Leila Smith; https://www.vivthomas.com/model/leila-smith; f
+model: n:Kira Zen; id:/model/vivthomas/kira-zen; u:https://www.vivthomas.com/model/kira-zen; g:f
+model: n:Leila Smith; id:/model/vivthomas/leila-smith; u:https://www.vivthomas.com/model/leila-smith; g:f
 released: 2016-07-27
 director:   Alis Locanta
 rating: 9.5
@@ -3427,8 +3427,8 @@ title: The Lesbian Bachelorette 3 - Desirable
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/alexa-tomas-and-zoe-doll/movie/20160722/THE_LESBIAN_BACHELORETTE_EPISODE_3_-_DESIRABLE
-cast: Alexa Tomas; https://www.vivthomas.com/model/alexa-tomas; f
-cast: Zoe Doll; https://www.vivthomas.com/model/zoe-doll; f
+model: n:Alexa Tomas; id:/model/vivthomas/alexa-tomas; u:https://www.vivthomas.com/model/alexa-tomas; g:f
+model: n:Zoe Doll; id:/model/vivthomas/zoe-doll; u:https://www.vivthomas.com/model/zoe-doll; g:f
 released: 2016-07-22
 director:   Alis Locanta
 rating: 9.4
@@ -3511,8 +3511,8 @@ title: Hypersexuality 3 - Eventful
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/kira-zen-and-jessie-volt/movie/20160720/HYPERSEXUALITY_EPISODE_3_-_EVENTFUL
-cast: Kira Zen; https://www.vivthomas.com/model/kira-zen; f
-cast: Jessie Volt; https://www.vivthomas.com/model/jessie-volt; f
+model: n:Kira Zen; id:/model/vivthomas/kira-zen; u:https://www.vivthomas.com/model/kira-zen; g:f
+model: n:Jessie Volt; id:/model/vivthomas/jessie-volt; u:https://www.vivthomas.com/model/jessie-volt; g:f
 released: 2016-07-20
 director:   Alis Locanta
 rating: 9.4
@@ -3584,8 +3584,8 @@ title: Milf Stories: Dorothy Black 2 - Legend
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/dorothy-black-and-noe-milk/movie/20160715/MILF_STORIES__DOROTHY_BLACK_EPISODE_2___LEGEND
-cast: Dorothy Black; https://www.vivthomas.com/model/dorothy-black; f
-cast: Noe Milk; https://www.vivthomas.com/model/noe-milk; f
+model: n:Dorothy Black; id:/model/vivthomas/dorothy-black; u:https://www.vivthomas.com/model/dorothy-black; g:f
+model: n:Noe Milk; id:/model/vivthomas/noe-milk; u:https://www.vivthomas.com/model/noe-milk; g:f
 released: 2016-07-15
 director:   Alis Locanta
 rating: 9.3
@@ -3668,8 +3668,8 @@ title: The Heat - Reloaded 2 - Aridity
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/aria-logan-and-arian/movie/20160713/THE_HEAT_-_RELOADED_EPISODE_2_-_ARIDITY
-cast: Aria Logan; https://www.vivthomas.com/model/aria-logan; f
-cast: Arian; https://www.vivthomas.com/model/arian; f
+model: n:Aria Logan; id:/model/vivthomas/aria-logan; u:https://www.vivthomas.com/model/aria-logan; g:f
+model: n:Arian; id:/model/vivthomas/arian; u:https://www.vivthomas.com/model/arian; g:f
 released: 2016-07-13
 director:   Alis Locanta
 rating: 9.2
@@ -3742,8 +3742,8 @@ title: Do You Wanna Play With Me 2 - Pleasured
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/kira-zen-and-cristal-caitlin/movie/20160708/DO_YOU_WANNA_PLAY_WITH_ME_EPISODE_2_-_PLEASURED
-cast: Kira Zen; https://www.vivthomas.com/model/kira-zen; f
-cast: Cristal Caitlin; https://www.vivthomas.com/model/cristal-caitlin; f
+model: n:Kira Zen; id:/model/vivthomas/kira-zen; u:https://www.vivthomas.com/model/kira-zen; g:f
+model: n:Cristal Caitlin; id:/model/vivthomas/cristal-caitlin; u:https://www.vivthomas.com/model/cristal-caitlin; g:f
 released: 2016-07-08
 director:   Alis Locanta
 rating: 9.4
@@ -3821,8 +3821,8 @@ title: The Road Goes On Reloaded 2 - Consummate
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/jessie-volt-and-lola-a/movie/20160706/THE_ROAD_GOES_ON_RELOADED_EPISODE_2_-_CONSUMMATE
-cast: Jessie Volt; https://www.vivthomas.com/model/jessie-volt; f
-cast: Lola A; https://www.vivthomas.com/model/lola-a; f
+model: n:Jessie Volt; id:/model/vivthomas/jessie-volt; u:https://www.vivthomas.com/model/jessie-volt; g:f
+model: n:Lola A; id:/model/vivthomas/lola-a; u:https://www.vivthomas.com/model/lola-a; g:f
 released: 2016-07-06
 director:   Alis Locanta
 rating: 9.3
@@ -3893,8 +3893,8 @@ title: The Lesbian Bachelorette 2 - Emphatic
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/alexa-tomas-and-lena-love/movie/20160701/THE_LESBIAN_BACHELORETTE_EPISODE_2_-_EMPHATIC
-cast: Alexa Tomas; https://www.vivthomas.com/model/alexa-tomas; f
-cast: Lena Love; https://www.vivthomas.com/model/lena-love; f
+model: n:Alexa Tomas; id:/model/vivthomas/alexa-tomas; u:https://www.vivthomas.com/model/alexa-tomas; g:f
+model: n:Lena Love; id:/model/vivthomas/lena-love; u:https://www.vivthomas.com/model/lena-love; g:f
 released: 2016-07-01
 director:   Alis Locanta
 rating: 9.5
@@ -3977,8 +3977,8 @@ title: Hypersexuality 2 - Agile
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/nekane-and-henessy-a/movie/20160629/HYPERSEXUALITY_EPISODE_2_-_AGILE
-cast: Nekane; https://www.vivthomas.com/model/nekane; f
-cast: Henessy A; https://www.vivthomas.com/model/henessy-a; f
+model: n:Nekane; id:/model/vivthomas/nekane; u:https://www.vivthomas.com/model/nekane; g:f
+model: n:Henessy A; id:/model/vivthomas/henessy-a; u:https://www.vivthomas.com/model/henessy-a; g:f
 released: 2016-06-29
 director:   Alis Locanta
 rating: 9.4
@@ -4051,8 +4051,8 @@ title: Milf Stories: Dorothy Black 1 - Fantasies
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/alexa-tomas-and-dorothy-black/movie/20160624/MILF_STORIES__DOROTHY_BLACK_EPISODE_1___FANTASIES
-cast: Alexa Tomas; https://www.vivthomas.com/model/alexa-tomas; f
-cast: Dorothy Black; https://www.vivthomas.com/model/dorothy-black; f
+model: n:Alexa Tomas; id:/model/vivthomas/alexa-tomas; u:https://www.vivthomas.com/model/alexa-tomas; g:f
+model: n:Dorothy Black; id:/model/vivthomas/dorothy-black; u:https://www.vivthomas.com/model/dorothy-black; g:f
 released: 2016-06-24
 director:   Alis Locanta
 rating: 9.5
@@ -4133,8 +4133,8 @@ title: The Heat - Reloaded 1 - Sexual Tension
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/penelope-cum-and-carolina-abril/movie/20160622/THE_HEAT_-_RELOADED_EPISODE_1_-_SEXUAL_TENSION
-cast: Penelope Cum; https://www.vivthomas.com/model/penelope-cum; f
-cast: Carolina Abril; https://www.vivthomas.com/model/carolina-abril; f
+model: n:Penelope Cum; id:/model/vivthomas/penelope-cum; u:https://www.vivthomas.com/model/penelope-cum; g:f
+model: n:Carolina Abril; id:/model/vivthomas/carolina-abril; u:https://www.vivthomas.com/model/carolina-abril; g:f
 released: 2016-06-22
 director:   Alis Locanta
 rating: 9.3
@@ -4205,8 +4205,8 @@ title: Do You Wanna Play With Me 1 - Enact
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/leila-smith-and-lola-a/movie/20160617/DO_YOU_WANNA_PLAY_WITH_ME_EPISODE_1_-_ENACT
-cast: Leila Smith; https://www.vivthomas.com/model/leila-smith; f
-cast: Lola A; https://www.vivthomas.com/model/lola-a; f
+model: n:Leila Smith; id:/model/vivthomas/leila-smith; u:https://www.vivthomas.com/model/leila-smith; g:f
+model: n:Lola A; id:/model/vivthomas/lola-a; u:https://www.vivthomas.com/model/lola-a; g:f
 released: 2016-06-17
 director:   Alis Locanta
 rating: 9.4
@@ -4276,8 +4276,8 @@ title: The Road Goes On Reloaded 1 - Frolic
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/eveline-dellai-and-arian/movie/20160615/THE_ROAD_GOES_ON_RELOADED_EPISODE_1_-_FROLIC
-cast: Eveline Dellai; https://www.vivthomas.com/model/eveline-dellai; f
-cast: Arian; https://www.vivthomas.com/model/arian; f
+model: n:Eveline Dellai; id:/model/vivthomas/eveline-dellai; u:https://www.vivthomas.com/model/eveline-dellai; g:f
+model: n:Arian; id:/model/vivthomas/arian; u:https://www.vivthomas.com/model/arian; g:f
 released: 2016-06-15
 director:   Alis Locanta
 rating: 9.1
@@ -4344,8 +4344,8 @@ title: The Lesbian Bachelorette 1 - Carnal
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/alexa-tomas-and-michelle-h/movie/20160610/THE_LESBIAN_BACHELORETTE_EPISODE_1_-_CARNAL
-cast: Alexa Tomas; https://www.vivthomas.com/model/alexa-tomas; f
-cast: Michelle H; https://www.vivthomas.com/model/michelle-h; f
+model: n:Alexa Tomas; id:/model/vivthomas/alexa-tomas; u:https://www.vivthomas.com/model/alexa-tomas; g:f
+model: n:Michelle H; id:/model/vivthomas/michelle-h; u:https://www.vivthomas.com/model/michelle-h; g:f
 released: 2016-06-10
 director:   Alis Locanta
 rating: 9.5
@@ -4427,8 +4427,8 @@ title: Hypersexuality 1 - Vigorous
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/ena-sweet-and-anissa-kate/movie/20160608/HYPERSEXUALITY_EPISODE_1_-_VIGOROUS
-cast: Ena Sweet; https://www.vivthomas.com/model/ena-sweet; f
-cast: Anissa Kate; https://www.vivthomas.com/model/anissa-kate; f
+model: n:Ena Sweet; id:/model/vivthomas/ena-sweet; u:https://www.vivthomas.com/model/ena-sweet; g:f
+model: n:Anissa Kate; id:/model/vivthomas/anissa-kate; u:https://www.vivthomas.com/model/anissa-kate; g:f
 released: 2016-06-08
 director:   Alis Locanta
 rating: 9.3
@@ -4502,8 +4502,8 @@ title: Dreams Come True 4 - Capricious
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/julia-roca-and-lola-a/movie/20160606/DREAMS_COME_TRUE_EPISODE_4_-_CAPRICIOUS
-cast: Julia Roca; https://www.vivthomas.com/model/julia-roca; f
-cast: Lola A; https://www.vivthomas.com/model/lola-a; f
+model: n:Julia Roca; id:/model/vivthomas/julia-roca; u:https://www.vivthomas.com/model/julia-roca; g:f
+model: n:Lola A; id:/model/vivthomas/lola-a; u:https://www.vivthomas.com/model/lola-a; g:f
 released: 2016-06-06
 director:   Alis Locanta
 rating: 9.3
@@ -4577,8 +4577,8 @@ title: Kinky Trip 4 - Licentious
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/anissa-kate-and-henessy-a/movie/20160603/KINKY_TRIP_EPISODE_4_-_LICENTIOUS
-cast: Anissa Kate; https://www.vivthomas.com/model/anissa-kate; f
-cast: Henessy A; https://www.vivthomas.com/model/henessy-a; f
+model: n:Anissa Kate; id:/model/vivthomas/anissa-kate; u:https://www.vivthomas.com/model/anissa-kate; g:f
+model: n:Henessy A; id:/model/vivthomas/henessy-a; u:https://www.vivthomas.com/model/henessy-a; g:f
 released: 2016-06-03
 director:   Alis Locanta
 rating: 9.4
@@ -4659,8 +4659,8 @@ title: Passionate Session 4 - Enamored
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/nekane-and-arwen-gold/movie/20160601/PASSIONATE_SESSION_EPISODE_4_-_ENAMORED
-cast: Nekane; https://www.vivthomas.com/model/nekane; f
-cast: Arwen Gold; https://www.vivthomas.com/model/arwen-gold; f
+model: n:Nekane; id:/model/vivthomas/nekane; u:https://www.vivthomas.com/model/nekane; g:f
+model: n:Arwen Gold; id:/model/vivthomas/arwen-gold; u:https://www.vivthomas.com/model/arwen-gold; g:f
 released: 2016-06-01
 director:   Alis Locanta
 rating: 9.3
@@ -4737,8 +4737,8 @@ title: Take Me Away To That Special Place 4 - Opulence
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/julia-roca-and-henessy-a/movie/20160530/TAKE_ME_AWAY_TO_THAT_SPECIAL_PLACE_EPISODE_4_-_OPULENCE
-cast: Julia Roca; https://www.vivthomas.com/model/julia-roca; f
-cast: Henessy A; https://www.vivthomas.com/model/henessy-a; f
+model: n:Julia Roca; id:/model/vivthomas/julia-roca; u:https://www.vivthomas.com/model/julia-roca; g:f
+model: n:Henessy A; id:/model/vivthomas/henessy-a; u:https://www.vivthomas.com/model/henessy-a; g:f
 released: 2016-05-30
 director:   Alis Locanta
 rating: 9.5
@@ -4818,8 +4818,8 @@ title: Dirty Weekend 4 - Erotic
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/talia-mint-and-sophia-laure/movie/20160527/DIRTY_WEEKEND_EPISODE_4_-_EROTIC
-cast: Talia Mint; https://www.vivthomas.com/model/talia-mint; f
-cast: Sophia Laure; https://www.vivthomas.com/model/sophia-laure; f
+model: n:Talia Mint; id:/model/vivthomas/talia-mint; u:https://www.vivthomas.com/model/talia-mint; g:f
+model: n:Sophia Laure; id:/model/vivthomas/sophia-laure; u:https://www.vivthomas.com/model/sophia-laure; g:f
 released: 2016-05-27
 director:   Alis Locanta
 rating: 9.3
@@ -4899,9 +4899,9 @@ title: Mature Attraction 4 - Indulge
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/alyssa-reece-and-dorothy-black-and-taissia-a/movie/20160525/MATURE_ATTRACTION_EPISODE_4_-_INDULGE
-cast: Alyssa Reece; https://www.vivthomas.com/model/alyssa-reece; f
-cast: Dorothy Black; https://www.vivthomas.com/model/dorothy-black; f
-cast: Taissia A; https://www.vivthomas.com/model/taissia-a; f
+model: n:Alyssa Reece; id:/model/vivthomas/alyssa-reece; u:https://www.vivthomas.com/model/alyssa-reece; g:f
+model: n:Dorothy Black; id:/model/vivthomas/dorothy-black; u:https://www.vivthomas.com/model/dorothy-black; g:f
+model: n:Taissia A; id:/model/vivthomas/taissia-a; u:https://www.vivthomas.com/model/taissia-a; g:f
 released: 2016-05-25
 director:   Alis Locanta
 rating: 9.4
@@ -4979,8 +4979,8 @@ title: Dreams Come True 3 - Aspiration
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/arwen-gold-and-nekane/movie/20160523/DREAMS_COME_TRUE_EPISODE_3_-_ASPIRATION
-cast: Arwen Gold; https://www.vivthomas.com/model/arwen-gold; f
-cast: Nekane; https://www.vivthomas.com/model/nekane; f
+model: n:Arwen Gold; id:/model/vivthomas/arwen-gold; u:https://www.vivthomas.com/model/arwen-gold; g:f
+model: n:Nekane; id:/model/vivthomas/nekane; u:https://www.vivthomas.com/model/nekane; g:f
 released: 2016-05-23
 director:   Alis Locanta
 rating: 9.3
@@ -5056,8 +5056,8 @@ title: Kinky Trip 3 - Sensuous
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/alyssa-reece-and-talia-mint/movie/20160520/KINKY_TRIP_EPISODE_3_-_SENSUOUS
-cast: Alyssa Reece; https://www.vivthomas.com/model/alyssa-reece; f
-cast: Talia Mint; https://www.vivthomas.com/model/talia-mint; f
+model: n:Alyssa Reece; id:/model/vivthomas/alyssa-reece; u:https://www.vivthomas.com/model/alyssa-reece; g:f
+model: n:Talia Mint; id:/model/vivthomas/talia-mint; u:https://www.vivthomas.com/model/talia-mint; g:f
 released: 2016-05-20
 director:   Alis Locanta
 rating: 9.3
@@ -5133,8 +5133,8 @@ title: Passionate Session 3 - Impassioned
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/lena-love-and-naomi-nevena/movie/20160518/PASSIONATE_SESSION_EPISODE_3_-_IMPASSIONED
-cast: Lena Love; https://www.vivthomas.com/model/lena-love; f
-cast: Naomi Nevena; https://www.vivthomas.com/model/naomi-nevena; f
+model: n:Lena Love; id:/model/vivthomas/lena-love; u:https://www.vivthomas.com/model/lena-love; g:f
+model: n:Naomi Nevena; id:/model/vivthomas/naomi-nevena; u:https://www.vivthomas.com/model/naomi-nevena; g:f
 released: 2016-05-18
 director:   Alis Locanta
 rating: 9.4
@@ -5209,8 +5209,8 @@ title: Take Me Away To That Special Place 3 - Special
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/alyssa-reece-and-taissia-a/movie/20160516/TAKE_ME_AWAY_TO_THAT_SPECIAL_PLACE_EPISODE_3_-_SPECIAL
-cast: Alyssa Reece; https://www.vivthomas.com/model/alyssa-reece; f
-cast: Taissia A; https://www.vivthomas.com/model/taissia-a; f
+model: n:Alyssa Reece; id:/model/vivthomas/alyssa-reece; u:https://www.vivthomas.com/model/alyssa-reece; g:f
+model: n:Taissia A; id:/model/vivthomas/taissia-a; u:https://www.vivthomas.com/model/taissia-a; g:f
 released: 2016-05-16
 director:   Alis Locanta
 rating: 9.5
@@ -5286,8 +5286,8 @@ title: Dirty Weekend 3 - Enticing
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/naomi-nevena-and-violette-pink/movie/20160513/DIRTY_WEEKEND_EPISODE_3_-_ENTICING
-cast: Naomi Nevena; https://www.vivthomas.com/model/naomi-nevena; f
-cast: Violette Pink; https://www.vivthomas.com/model/violette-pink; f
+model: n:Naomi Nevena; id:/model/vivthomas/naomi-nevena; u:https://www.vivthomas.com/model/naomi-nevena; g:f
+model: n:Violette Pink; id:/model/vivthomas/violette-pink; u:https://www.vivthomas.com/model/violette-pink; g:f
 released: 2016-05-13
 director:   Alis Locanta
 rating: 9.4
@@ -5362,8 +5362,8 @@ title: Mature Attraction 3 - Sophisticated
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/lena-love-and-violette-pink/movie/20160511/MATURE_ATTRACTION_EPISODE_3_-_SOPHISTICATED
-cast: Lena Love; https://www.vivthomas.com/model/lena-love; f
-cast: Violette Pink; https://www.vivthomas.com/model/violette-pink; f
+model: n:Lena Love; id:/model/vivthomas/lena-love; u:https://www.vivthomas.com/model/lena-love; g:f
+model: n:Violette Pink; id:/model/vivthomas/violette-pink; u:https://www.vivthomas.com/model/violette-pink; g:f
 released: 2016-05-11
 director:   Alis Locanta
 rating: 9.3
@@ -5448,8 +5448,8 @@ title: Dreams Come True 2 - Idealize
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/anissa-kate-and-ena-sweet/movie/20160509/DREAMS_COME_TRUE_EPISODE_2_-_IDEALIZE
-cast: Anissa Kate; https://www.vivthomas.com/model/anissa-kate; f
-cast: Ena Sweet; https://www.vivthomas.com/model/ena-sweet; f
+model: n:Anissa Kate; id:/model/vivthomas/anissa-kate; u:https://www.vivthomas.com/model/anissa-kate; g:f
+model: n:Ena Sweet; id:/model/vivthomas/ena-sweet; u:https://www.vivthomas.com/model/ena-sweet; g:f
 released: 2016-05-09
 director:   Alis Locanta
 rating: 9.2
@@ -5519,8 +5519,8 @@ title: Kinky Trip 2 - Naughty
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/arwen-gold-and-julia-roca/movie/20160506/KINKY_TRIP_EPISODE_2_-_NAUGHTY
-cast: Arwen Gold; https://www.vivthomas.com/model/arwen-gold; f
-cast: Julia Roca; https://www.vivthomas.com/model/julia-roca; f
+model: n:Arwen Gold; id:/model/vivthomas/arwen-gold; u:https://www.vivthomas.com/model/arwen-gold; g:f
+model: n:Julia Roca; id:/model/vivthomas/julia-roca; u:https://www.vivthomas.com/model/julia-roca; g:f
 released: 2016-05-06
 director:   Alis Locanta
 rating: 9.4
@@ -5596,8 +5596,8 @@ title: Passionate Session 2 - Serene
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/alyssa-reece-and-taissia-a/movie/20160504/PASSIONATE_SESSION_EPISODE_2_-_SERENE
-cast: Alyssa Reece; https://www.vivthomas.com/model/alyssa-reece; f
-cast: Taissia A; https://www.vivthomas.com/model/taissia-a; f
+model: n:Alyssa Reece; id:/model/vivthomas/alyssa-reece; u:https://www.vivthomas.com/model/alyssa-reece; g:f
+model: n:Taissia A; id:/model/vivthomas/taissia-a; u:https://www.vivthomas.com/model/taissia-a; g:f
 released: 2016-05-04
 director:   Alis Locanta
 rating: 9.3
@@ -5674,8 +5674,8 @@ title: Take Me Away To That Special Place 2 - Beauty
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/talia-mint-and-naomi-nevena/movie/20160502/TAKE_ME_AWAY_TO_THAT_SPECIAL_PLACE_EPISODE_2_-_BEAUTY
-cast: Talia Mint; https://www.vivthomas.com/model/talia-mint; f
-cast: Naomi Nevena; https://www.vivthomas.com/model/naomi-nevena; f
+model: n:Talia Mint; id:/model/vivthomas/talia-mint; u:https://www.vivthomas.com/model/talia-mint; g:f
+model: n:Naomi Nevena; id:/model/vivthomas/naomi-nevena; u:https://www.vivthomas.com/model/naomi-nevena; g:f
 released: 2016-05-02
 director:   Alis Locanta
 rating: 9.4
@@ -5748,8 +5748,8 @@ title: Dirty Weekend 2 - Racy
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/sophia-laure-and-violette-pink/movie/20160429/DIRTY_WEEKEND_EPISODE_2_-_RACY
-cast: Sophia Laure; https://www.vivthomas.com/model/sophia-laure; f
-cast: Violette Pink; https://www.vivthomas.com/model/violette-pink; f
+model: n:Sophia Laure; id:/model/vivthomas/sophia-laure; u:https://www.vivthomas.com/model/sophia-laure; g:f
+model: n:Violette Pink; id:/model/vivthomas/violette-pink; u:https://www.vivthomas.com/model/violette-pink; g:f
 released: 2016-04-29
 director:   Alis Locanta
 rating: 9.3
@@ -5829,8 +5829,8 @@ title: Mature Attraction 2 - Allure
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/dorothy-black-and-talia-mint/movie/20160427/MATURE_ATTRACTION_EPISODE_2_-_ALLURE
-cast: Dorothy Black; https://www.vivthomas.com/model/dorothy-black; f
-cast: Talia Mint; https://www.vivthomas.com/model/talia-mint; f
+model: n:Dorothy Black; id:/model/vivthomas/dorothy-black; u:https://www.vivthomas.com/model/dorothy-black; g:f
+model: n:Talia Mint; id:/model/vivthomas/talia-mint; u:https://www.vivthomas.com/model/talia-mint; g:f
 released: 2016-04-27
 director:   Alis Locanta
 rating: 9.5
@@ -5904,8 +5904,8 @@ title: Dreams Come True 1 - Affectionate
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/henessy-a-and-lola-a/movie/20160425/DREAMS_COME_TRUE_EPISODE_1_-_AFFECTIONATE
-cast: Henessy A; https://www.vivthomas.com/model/henessy-a; f
-cast: Lola A; https://www.vivthomas.com/model/lola-a; f
+model: n:Henessy A; id:/model/vivthomas/henessy-a; u:https://www.vivthomas.com/model/henessy-a; g:f
+model: n:Lola A; id:/model/vivthomas/lola-a; u:https://www.vivthomas.com/model/lola-a; g:f
 released: 2016-04-25
 director:   Alis Locanta
 rating: 9.5
@@ -5976,8 +5976,8 @@ title: Kinky Trip 1 - Audacious
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/violette-pink-and-sophia-laure/movie/20160422/KINKY_TRIP_EPISODE_1_-_AUDACIOUS
-cast: Violette Pink; https://www.vivthomas.com/model/violette-pink; f
-cast: Sophia Laure; https://www.vivthomas.com/model/sophia-laure; f
+model: n:Violette Pink; id:/model/vivthomas/violette-pink; u:https://www.vivthomas.com/model/violette-pink; g:f
+model: n:Sophia Laure; id:/model/vivthomas/sophia-laure; u:https://www.vivthomas.com/model/sophia-laure; g:f
 released: 2016-04-22
 director:   Alis Locanta
 rating: 9.4
@@ -6045,8 +6045,8 @@ title: Passionate Session 1 - Lustful
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/lena-love-and-talia-mint/movie/20160420/PASSIONATE_SESSION_EPISODE_1_-_LUSTFUL
-cast: Lena Love; https://www.vivthomas.com/model/lena-love; f
-cast: Talia Mint; https://www.vivthomas.com/model/talia-mint; f
+model: n:Lena Love; id:/model/vivthomas/lena-love; u:https://www.vivthomas.com/model/lena-love; g:f
+model: n:Talia Mint; id:/model/vivthomas/talia-mint; u:https://www.vivthomas.com/model/talia-mint; g:f
 released: 2016-04-20
 director:   Alis Locanta
 rating: 9.3
@@ -6114,8 +6114,8 @@ title: Take Me Away To That Special Place 1 - Reminiscence
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/alyssa-reece-and-dorothy-black/movie/20160418/TAKE_ME_AWAY_TO_THAT_SPECIAL_PLACE_EPISODE_1_-_REMINISCENCE
-cast: Alyssa Reece; https://www.vivthomas.com/model/alyssa-reece; f
-cast: Dorothy Black; https://www.vivthomas.com/model/dorothy-black; f
+model: n:Alyssa Reece; id:/model/vivthomas/alyssa-reece; u:https://www.vivthomas.com/model/alyssa-reece; g:f
+model: n:Dorothy Black; id:/model/vivthomas/dorothy-black; u:https://www.vivthomas.com/model/dorothy-black; g:f
 released: 2016-04-18
 director:   Alis Locanta
 rating: 9.4
@@ -6183,8 +6183,8 @@ title: Dirty Weekend 1 - Salacious
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/naomi-nevena-and-talia-mint/movie/20160415/DIRTY_WEEKEND_EPISODE_1_-_SALACIOUS
-cast: Naomi Nevena; https://www.vivthomas.com/model/naomi-nevena; f
-cast: Talia Mint; https://www.vivthomas.com/model/talia-mint; f
+model: n:Naomi Nevena; id:/model/vivthomas/naomi-nevena; u:https://www.vivthomas.com/model/naomi-nevena; g:f
+model: n:Talia Mint; id:/model/vivthomas/talia-mint; u:https://www.vivthomas.com/model/talia-mint; g:f
 released: 2016-04-15
 director:   Alis Locanta
 rating: 9.3
@@ -6258,8 +6258,8 @@ title: Mature Attraction 1 - Blissful
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/violette-pink-and-lena-love/movie/20160413/MATURE_ATTRACTION_EPISODE_1_-_BLISSFUL
-cast: Violette Pink; https://www.vivthomas.com/model/violette-pink; f
-cast: Lena Love; https://www.vivthomas.com/model/lena-love; f
+model: n:Violette Pink; id:/model/vivthomas/violette-pink; u:https://www.vivthomas.com/model/violette-pink; g:f
+model: n:Lena Love; id:/model/vivthomas/lena-love; u:https://www.vivthomas.com/model/lena-love; g:f
 released: 2016-04-13
 director:   Alis Locanta
 rating: 9.4
@@ -6327,8 +6327,8 @@ title: Velvety Feel
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/sweet-cat-and-lorena-garcia/movie/20160411/VELVETY_FEEL
-cast: Sweet Cat; https://www.vivthomas.com/model/sweet-cat; f
-cast: Lorena Garcia; https://www.vivthomas.com/model/lorena-garcia; f
+model: n:Sweet Cat; id:/model/vivthomas/sweet-cat; u:https://www.vivthomas.com/model/sweet-cat; g:f
+model: n:Lorena Garcia; id:/model/vivthomas/lorena-garcia; u:https://www.vivthomas.com/model/lorena-garcia; g:f
 released: 2016-04-11
 director:   Don Caravaggio
 rating: 9.5
@@ -6383,8 +6383,8 @@ title: Cam Love 4 - Sensation
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/tracy-lindsay-and-carolina-abril/movie/20160408/CAM_LOVE_EPISODE_4_-_SENSATION
-cast: Tracy Lindsay; https://www.vivthomas.com/model/tracy-lindsay; f
-cast: Carolina Abril; https://www.vivthomas.com/model/carolina-abril; f
+model: n:Tracy Lindsay; id:/model/vivthomas/tracy-lindsay; u:https://www.vivthomas.com/model/tracy-lindsay; g:f
+model: n:Carolina Abril; id:/model/vivthomas/carolina-abril; u:https://www.vivthomas.com/model/carolina-abril; g:f
 released: 2016-04-08
 director:   Alis Locanta
 rating: 9.4
@@ -6462,8 +6462,8 @@ title: Voyeurism 4 - Adored
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/carolina-abril-and-silvie-luca/movie/20160406/VOYEURISM_EPISODE_4_-_ADORED
-cast: Carolina Abril; https://www.vivthomas.com/model/carolina-abril; f
-cast: Silvie Luca; https://www.vivthomas.com/model/silvie-luca; f
+model: n:Carolina Abril; id:/model/vivthomas/carolina-abril; u:https://www.vivthomas.com/model/carolina-abril; g:f
+model: n:Silvie Luca; id:/model/vivthomas/silvie-luca; u:https://www.vivthomas.com/model/silvie-luca; g:f
 released: 2016-04-06
 director:   Alis Locanta
 rating: 9.5
@@ -6538,8 +6538,8 @@ title: Celebration Oral Sex 4 - Adoration
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/cayla-lions-and-tracy-lindsay/movie/20160404/CELEBRATION_ORAL_SEX_EPISODE_4_-_ADORATION
-cast: Cayla Lions; https://www.vivthomas.com/model/cayla-lions; f
-cast: Tracy Lindsay; https://www.vivthomas.com/model/tracy-lindsay; f
+model: n:Cayla Lions; id:/model/vivthomas/cayla-lions; u:https://www.vivthomas.com/model/cayla-lions; g:f
+model: n:Tracy Lindsay; id:/model/vivthomas/tracy-lindsay; u:https://www.vivthomas.com/model/tracy-lindsay; g:f
 released: 2016-04-04
 director:   Alis Locanta
 rating: 9.4
@@ -6576,8 +6576,8 @@ title: Faraway So Close 4 - Persist
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/silvie-luca-and-cayla-lions/movie/20160401/FARAWAY_SO_CLOSE_EPISODE_4_-_PERSIST
-cast: Silvie Luca; https://www.vivthomas.com/model/silvie-luca; f
-cast: Cayla Lions; https://www.vivthomas.com/model/cayla-lions; f
+model: n:Silvie Luca; id:/model/vivthomas/silvie-luca; u:https://www.vivthomas.com/model/silvie-luca; g:f
+model: n:Cayla Lions; id:/model/vivthomas/cayla-lions; u:https://www.vivthomas.com/model/cayla-lions; g:f
 released: 2016-04-01
 director:   Alis Locanta
 rating: 9.4
@@ -6656,8 +6656,8 @@ title: 6000rpm 4 - Rousing
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/victoria-puppy-and-eileen-sue/movie/20160330/6000RPM_EPISODE_4_-_ROUSING
-cast: Victoria Puppy; https://www.vivthomas.com/model/victoria-puppy; f
-cast: Eileen Sue; https://www.vivthomas.com/model/eileen-sue; f
+model: n:Victoria Puppy; id:/model/vivthomas/victoria-puppy; u:https://www.vivthomas.com/model/victoria-puppy; g:f
+model: n:Eileen Sue; id:/model/vivthomas/eileen-sue; u:https://www.vivthomas.com/model/eileen-sue; g:f
 released: 2016-03-30
 director:   Alis Locanta
 rating: 9.4
@@ -6697,8 +6697,8 @@ title: Getting Closer 4 - Clutch
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/eileen-sue-and-baby-jewel/movie/20160328/GETTING_CLOSER_EPISODE_4_-_CLUTCH
-cast: Eileen Sue; https://www.vivthomas.com/model/eileen-sue; f
-cast: Baby Jewel; https://www.vivthomas.com/model/baby-jewel; f
+model: n:Eileen Sue; id:/model/vivthomas/eileen-sue; u:https://www.vivthomas.com/model/eileen-sue; g:f
+model: n:Baby Jewel; id:/model/vivthomas/baby-jewel; u:https://www.vivthomas.com/model/baby-jewel; g:f
 released: 2016-03-28
 director:   Alis Locanta
 rating: 9.4
@@ -6772,8 +6772,8 @@ title: Cam Love 3 - Cherish
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/amirah-adara-and-kari-a/movie/20160325/CAM_LOVE_EPISODE_3_-_CHERISH
-cast: Amirah Adara; https://www.vivthomas.com/model/amirah-adara; f
-cast: Kari A; https://www.vivthomas.com/model/kari-a; f
+model: n:Amirah Adara; id:/model/vivthomas/amirah-adara; u:https://www.vivthomas.com/model/amirah-adara; g:f
+model: n:Kari A; id:/model/vivthomas/kari-a; u:https://www.vivthomas.com/model/kari-a; g:f
 released: 2016-03-25
 director:   Alis Locanta
 rating: 9.3
@@ -6850,8 +6850,8 @@ title: Voyeurism 3 - Peering
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/kari-a-and-francys-belle/movie/20160323/VOYEURISM_EPISODE_3_-_PEERING
-cast: Kari A; https://www.vivthomas.com/model/kari-a; f
-cast: Francys Belle; https://www.vivthomas.com/model/francys-belle; f
+model: n:Kari A; id:/model/vivthomas/kari-a; u:https://www.vivthomas.com/model/kari-a; g:f
+model: n:Francys Belle; id:/model/vivthomas/francys-belle; u:https://www.vivthomas.com/model/francys-belle; g:f
 released: 2016-03-23
 director:   Alis Locanta
 rating: 9.4
@@ -6921,8 +6921,8 @@ title: Celebration Oral Sex 3 - Euphoric
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/eileen-sue-and-baby-jewel/movie/20160321/CELEBRATION_ORAL_SEX_EPISODE_3_-_EUPHORIC
-cast: Eileen Sue; https://www.vivthomas.com/model/eileen-sue; f
-cast: Baby Jewel; https://www.vivthomas.com/model/baby-jewel; f
+model: n:Eileen Sue; id:/model/vivthomas/eileen-sue; u:https://www.vivthomas.com/model/eileen-sue; g:f
+model: n:Baby Jewel; id:/model/vivthomas/baby-jewel; u:https://www.vivthomas.com/model/baby-jewel; g:f
 released: 2016-03-21
 director:   Alis Locanta
 rating: 9.4
@@ -6998,8 +6998,8 @@ title: Faraway So Close 3 - Reckless
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/kari-a-and-francys-belle/movie/20160318/FARAWAY_SO_CLOSE_EPISODE_3_-_RECKLESS
-cast: Kari A; https://www.vivthomas.com/model/kari-a; f
-cast: Francys Belle; https://www.vivthomas.com/model/francys-belle; f
+model: n:Kari A; id:/model/vivthomas/kari-a; u:https://www.vivthomas.com/model/kari-a; g:f
+model: n:Francys Belle; id:/model/vivthomas/francys-belle; u:https://www.vivthomas.com/model/francys-belle; g:f
 released: 2016-03-18
 director:   Alis Locanta
 rating: 9.5
@@ -7075,8 +7075,8 @@ title: 6000rpm 3 - Frisky
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/tiffany-doll-and-baby-jewel/movie/20160316/6000RPM_EPISODE_3_-_FRISKY
-cast: Tiffany Doll; https://www.vivthomas.com/model/tiffany-doll; f
-cast: Baby Jewel; https://www.vivthomas.com/model/baby-jewel; f
+model: n:Tiffany Doll; id:/model/vivthomas/tiffany-doll; u:https://www.vivthomas.com/model/tiffany-doll; g:f
+model: n:Baby Jewel; id:/model/vivthomas/baby-jewel; u:https://www.vivthomas.com/model/baby-jewel; g:f
 released: 2016-03-16
 director:   Alis Locanta
 rating: 9.3
@@ -7142,8 +7142,8 @@ title: Getting Closer 3 - Embrace
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/tracy-lindsay-and-silvie-luca/movie/20160314/GETTING_CLOSER_EPISODE_3_-_EMBRACE
-cast: Tracy Lindsay; https://www.vivthomas.com/model/tracy-lindsay; f
-cast: Silvie Luca; https://www.vivthomas.com/model/silvie-luca; f
+model: n:Tracy Lindsay; id:/model/vivthomas/tracy-lindsay; u:https://www.vivthomas.com/model/tracy-lindsay; g:f
+model: n:Silvie Luca; id:/model/vivthomas/silvie-luca; u:https://www.vivthomas.com/model/silvie-luca; g:f
 released: 2016-03-14
 director:   Alis Locanta
 rating: 9.4
@@ -7212,8 +7212,8 @@ title: Cam Love 2 - Enjoyment
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/tiffany-doll-and-victoria-puppy/movie/20160311/CAM_LOVE_EPISODE_2-_ENJOYMENT
-cast: Tiffany Doll; https://www.vivthomas.com/model/tiffany-doll; f
-cast: Victoria Puppy; https://www.vivthomas.com/model/victoria-puppy; f
+model: n:Tiffany Doll; id:/model/vivthomas/tiffany-doll; u:https://www.vivthomas.com/model/tiffany-doll; g:f
+model: n:Victoria Puppy; id:/model/vivthomas/victoria-puppy; u:https://www.vivthomas.com/model/victoria-puppy; g:f
 released: 2016-03-11
 director:   Alis Locanta
 rating: 9.3
@@ -7279,8 +7279,8 @@ title: Voyeurism 2 - Flash
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/amirah-adara-and-kari-a/movie/20160309/VOYEURISM_EPISODE_2_-_FLASH
-cast: Amirah Adara; https://www.vivthomas.com/model/amirah-adara; f
-cast: Kari A; https://www.vivthomas.com/model/kari-a; f
+model: n:Amirah Adara; id:/model/vivthomas/amirah-adara; u:https://www.vivthomas.com/model/amirah-adara; g:f
+model: n:Kari A; id:/model/vivthomas/kari-a; u:https://www.vivthomas.com/model/kari-a; g:f
 released: 2016-03-09
 director:   Alis Locanta
 rating: 9.3
@@ -7351,8 +7351,8 @@ title: Celebration Oral Sex 2 - Party
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/silvie-luca-and-cayla-lions/movie/20160307/CELEBRATION_ORAL_SEX_EPISODE_2_-_PARTY
-cast: Silvie Luca; https://www.vivthomas.com/model/silvie-luca; f
-cast: Cayla Lions; https://www.vivthomas.com/model/cayla-lions; f
+model: n:Silvie Luca; id:/model/vivthomas/silvie-luca; u:https://www.vivthomas.com/model/silvie-luca; g:f
+model: n:Cayla Lions; id:/model/vivthomas/cayla-lions; u:https://www.vivthomas.com/model/cayla-lions; g:f
 released: 2016-03-07
 director:   Alis Locanta
 rating: 9.4
@@ -7422,8 +7422,8 @@ title: Faraway So Close 2 - Astray
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/eileen-sue-and-amirah-adara/movie/20160304/FARAWAY_SO_CLOSE_EPISODE_2_-_ASTRAY
-cast: Eileen Sue; https://www.vivthomas.com/model/eileen-sue; f
-cast: Amirah Adara; https://www.vivthomas.com/model/amirah-adara; f
+model: n:Eileen Sue; id:/model/vivthomas/eileen-sue; u:https://www.vivthomas.com/model/eileen-sue; g:f
+model: n:Amirah Adara; id:/model/vivthomas/amirah-adara; u:https://www.vivthomas.com/model/amirah-adara; g:f
 released: 2016-03-04
 director:   Alis Locanta
 rating: 9.5
@@ -7501,8 +7501,8 @@ title: 6000rpm 2 - Desired
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/francys-belle-and-kari-a/movie/20160302/6000RPM_EPISODE_2_-_DESIRED
-cast: Francys Belle; https://www.vivthomas.com/model/francys-belle; f
-cast: Kari A; https://www.vivthomas.com/model/kari-a; f
+model: n:Francys Belle; id:/model/vivthomas/francys-belle; u:https://www.vivthomas.com/model/francys-belle; g:f
+model: n:Kari A; id:/model/vivthomas/kari-a; u:https://www.vivthomas.com/model/kari-a; g:f
 released: 2016-03-02
 director:   Alis Locanta
 rating: 9.4
@@ -7578,8 +7578,8 @@ title: Getting Closer 2 - Yearning
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/amirah-adara-and-tiffany-doll/movie/20160229/GETTING_CLOSER_EPISODE_2_-_YEARNING
-cast: Amirah Adara; https://www.vivthomas.com/model/amirah-adara; f
-cast: Tiffany Doll; https://www.vivthomas.com/model/tiffany-doll; f
+model: n:Amirah Adara; id:/model/vivthomas/amirah-adara; u:https://www.vivthomas.com/model/amirah-adara; g:f
+model: n:Tiffany Doll; id:/model/vivthomas/tiffany-doll; u:https://www.vivthomas.com/model/tiffany-doll; g:f
 released: 2016-02-29
 director:   Alis Locanta
 rating: 9.4
@@ -7648,8 +7648,8 @@ title: Cam Love 1 - Lingerie
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/cayla-lions-and-tracy-lindsay/movie/20160226/CAM_LOVE_EPISODE_1_-_LINGERIE
-cast: Cayla Lions; https://www.vivthomas.com/model/cayla-lions; f
-cast: Tracy Lindsay; https://www.vivthomas.com/model/tracy-lindsay; f
+model: n:Cayla Lions; id:/model/vivthomas/cayla-lions; u:https://www.vivthomas.com/model/cayla-lions; g:f
+model: n:Tracy Lindsay; id:/model/vivthomas/tracy-lindsay; u:https://www.vivthomas.com/model/tracy-lindsay; g:f
 released: 2016-02-26
 director:   Alis Locanta
 rating: 9.4
@@ -7724,8 +7724,8 @@ title: Voyeurism 1 - Peep
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/tiffany-doll-and-eileen-sue/movie/20160224/VOYEURISM_EPISODE_1_-_PEEP
-cast: Tiffany Doll; https://www.vivthomas.com/model/tiffany-doll; f
-cast: Eileen Sue; https://www.vivthomas.com/model/eileen-sue; f
+model: n:Tiffany Doll; id:/model/vivthomas/tiffany-doll; u:https://www.vivthomas.com/model/tiffany-doll; g:f
+model: n:Eileen Sue; id:/model/vivthomas/eileen-sue; u:https://www.vivthomas.com/model/eileen-sue; g:f
 released: 2016-02-24
 director:   Alis Locanta
 rating: 9.4
@@ -7801,8 +7801,8 @@ title: Celebration Oral Sex 1 - Elation
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/amirah-adara-and-victoria-puppy/movie/20160222/CELEBRATION_ORAL_SEX_EPISODE_1_-_ELATION
-cast: Amirah Adara; https://www.vivthomas.com/model/amirah-adara; f
-cast: Victoria Puppy; https://www.vivthomas.com/model/victoria-puppy; f
+model: n:Amirah Adara; id:/model/vivthomas/amirah-adara; u:https://www.vivthomas.com/model/amirah-adara; g:f
+model: n:Victoria Puppy; id:/model/vivthomas/victoria-puppy; u:https://www.vivthomas.com/model/victoria-puppy; g:f
 released: 2016-02-22
 director:   Alis Locanta
 rating: 9.3
@@ -7870,8 +7870,8 @@ title: Faraway So Close 1 - Withdrawn
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/tracy-lindsay-and-silvie-luca/movie/20160219/FARAWAY_SO_CLOSE_EPISODE_1_-_WITHDRAWN
-cast: Tracy Lindsay; https://www.vivthomas.com/model/tracy-lindsay; f
-cast: Silvie Luca; https://www.vivthomas.com/model/silvie-luca; f
+model: n:Tracy Lindsay; id:/model/vivthomas/tracy-lindsay; u:https://www.vivthomas.com/model/tracy-lindsay; g:f
+model: n:Silvie Luca; id:/model/vivthomas/silvie-luca; u:https://www.vivthomas.com/model/silvie-luca; g:f
 released: 2016-02-19
 director:   Alis Locanta
 rating: 9.4
@@ -7943,8 +7943,8 @@ title: 6000rpm 1 - Adrenaline
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/amirah-adara-and-tiffany-doll/movie/20160217/6000RPM_EPISODE_1_-_ADRENALINE
-cast: Amirah Adara; https://www.vivthomas.com/model/amirah-adara; f
-cast: Tiffany Doll; https://www.vivthomas.com/model/tiffany-doll; f
+model: n:Amirah Adara; id:/model/vivthomas/amirah-adara; u:https://www.vivthomas.com/model/amirah-adara; g:f
+model: n:Tiffany Doll; id:/model/vivthomas/tiffany-doll; u:https://www.vivthomas.com/model/tiffany-doll; g:f
 released: 2016-02-17
 director:   Alis Locanta
 rating: 9.5
@@ -8014,8 +8014,8 @@ title: Getting Closer 1 - Invitation
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/victoria-puppy-and-eileen-sue/movie/20160215/GETTING_CLOSER_EPISODE_1_-_INVITATION
-cast: Victoria Puppy; https://www.vivthomas.com/model/victoria-puppy; f
-cast: Eileen Sue; https://www.vivthomas.com/model/eileen-sue; f
+model: n:Victoria Puppy; id:/model/vivthomas/victoria-puppy; u:https://www.vivthomas.com/model/victoria-puppy; g:f
+model: n:Eileen Sue; id:/model/vivthomas/eileen-sue; u:https://www.vivthomas.com/model/eileen-sue; g:f
 released: 2016-02-15
 director:   Alis Locanta
 rating: 9.3
@@ -8090,13 +8090,13 @@ title: Valentines Day
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/victoria-puppy-and-baby-jewel-and-amirah-adara-and-eileen-sue-and-tiffany-doll-and-francys-belle-and-kari-a/movie/20160214/VALENTINES_DAY
-cast: Victoria Puppy; https://www.vivthomas.com/model/victoria-puppy; f
-cast: Baby Jewel; https://www.vivthomas.com/model/baby-jewel; f
-cast: Amirah Adara; https://www.vivthomas.com/model/amirah-adara; f
-cast: Eileen Sue; https://www.vivthomas.com/model/eileen-sue; f
-cast: Tiffany Doll; https://www.vivthomas.com/model/tiffany-doll; f
-cast: Francys Belle; https://www.vivthomas.com/model/francys-belle; f
-cast: Kari A; https://www.vivthomas.com/model/kari-a; f
+model: n:Victoria Puppy; id:/model/vivthomas/victoria-puppy; u:https://www.vivthomas.com/model/victoria-puppy; g:f
+model: n:Baby Jewel; id:/model/vivthomas/baby-jewel; u:https://www.vivthomas.com/model/baby-jewel; g:f
+model: n:Amirah Adara; id:/model/vivthomas/amirah-adara; u:https://www.vivthomas.com/model/amirah-adara; g:f
+model: n:Eileen Sue; id:/model/vivthomas/eileen-sue; u:https://www.vivthomas.com/model/eileen-sue; g:f
+model: n:Tiffany Doll; id:/model/vivthomas/tiffany-doll; u:https://www.vivthomas.com/model/tiffany-doll; g:f
+model: n:Francys Belle; id:/model/vivthomas/francys-belle; u:https://www.vivthomas.com/model/francys-belle; g:f
+model: n:Kari A; id:/model/vivthomas/kari-a; u:https://www.vivthomas.com/model/kari-a; g:f
 released: 2016-02-14
 director:   Alis Locanta
 rating: 9.4
@@ -8136,8 +8136,8 @@ title: Day Dream
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/brandy-smile-and-stacy-snake/movie/20160212/DAY_DREAM
-cast: Brandy Smile; https://www.vivthomas.com/model/brandy-smile; f
-cast: Stacy Snake; https://www.vivthomas.com/model/stacy-snake; f
+model: n:Brandy Smile; id:/model/vivthomas/brandy-smile; u:https://www.vivthomas.com/model/brandy-smile; g:f
+model: n:Stacy Snake; id:/model/vivthomas/stacy-snake; u:https://www.vivthomas.com/model/stacy-snake; g:f
 released: 2016-02-12
 director:   Sandra Shine
 rating: 9.5
@@ -8198,8 +8198,8 @@ title: Lingerie Obsession 4 - Extremity
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/taylor-sands-and-lola-a/movie/20160210/LINGERIE_OBSESSION_EPISODE_4_-_EXTREMITY
-cast: Taylor Sands; https://www.vivthomas.com/model/taylor-sands; f
-cast: Lola A; https://www.vivthomas.com/model/lola-a; f
+model: n:Taylor Sands; id:/model/vivthomas/taylor-sands; u:https://www.vivthomas.com/model/taylor-sands; g:f
+model: n:Lola A; id:/model/vivthomas/lola-a; u:https://www.vivthomas.com/model/lola-a; g:f
 released: 2016-02-10
 director:   Alis Locanta
 rating: 9.4
@@ -8255,8 +8255,8 @@ title: And In The End 4 - Finality
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/patritcy-and-katya-clover/movie/20160208/AND_IN_THE_END_EPISODE_4_-_FINALITY
-cast: Patritcy; https://www.vivthomas.com/model/patritcy; f
-cast: Katya Clover; https://www.vivthomas.com/model/katya-clover; f
+model: n:Patritcy; id:/model/vivthomas/patritcy; u:https://www.vivthomas.com/model/patritcy; g:f
+model: n:Katya Clover; id:/model/vivthomas/katya-clover; u:https://www.vivthomas.com/model/katya-clover; g:f
 released: 2016-02-08
 director:   Alis Locanta
 rating: 9.4
@@ -8321,8 +8321,8 @@ title: Red Passion 4 - Affinity
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/alexa-tomas-and-naomi-nevena/movie/20160205/RED_PASSION_EPISODE_4_-_AFFINITY
-cast: Alexa Tomas; https://www.vivthomas.com/model/alexa-tomas; f
-cast: Naomi Nevena; https://www.vivthomas.com/model/naomi-nevena; f
+model: n:Alexa Tomas; id:/model/vivthomas/alexa-tomas; u:https://www.vivthomas.com/model/alexa-tomas; g:f
+model: n:Naomi Nevena; id:/model/vivthomas/naomi-nevena; u:https://www.vivthomas.com/model/naomi-nevena; g:f
 released: 2016-02-05
 director:   Alis Locanta
 rating: 9.3
@@ -8393,8 +8393,8 @@ title: My Sweet Diary 4 - Cherished
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/taylor-sands-and-lola-a/movie/20160203/MY_SWEET_DIARY_EPISODE_4_-_CHERISHED
-cast: Taylor Sands; https://www.vivthomas.com/model/taylor-sands; f
-cast: Lola A; https://www.vivthomas.com/model/lola-a; f
+model: n:Taylor Sands; id:/model/vivthomas/taylor-sands; u:https://www.vivthomas.com/model/taylor-sands; g:f
+model: n:Lola A; id:/model/vivthomas/lola-a; u:https://www.vivthomas.com/model/lola-a; g:f
 released: 2016-02-03
 director:   Alis Locanta
 rating: 9.5
@@ -8468,8 +8468,8 @@ title: First Time Stories 4 - Epilogue
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/lea-guerlin-and-nekane/movie/20160201/FIRST_TIME_STORIES_EPISODE_4_-_EPILOGUE
-cast: Lea Guerlin; https://www.vivthomas.com/model/lea-guerlin; f
-cast: Nekane; https://www.vivthomas.com/model/nekane; f
+model: n:Lea Guerlin; id:/model/vivthomas/lea-guerlin; u:https://www.vivthomas.com/model/lea-guerlin; g:f
+model: n:Nekane; id:/model/vivthomas/nekane; u:https://www.vivthomas.com/model/nekane; g:f
 released: 2016-02-01
 director:   Alis Locanta
 rating: 9.4
@@ -8548,8 +8548,8 @@ title: One Small Step 4 - Controlled
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/henessy-a-and-alexa-tomas/movie/20160129/ONE_SMALL_STEP_EPISODE_4_-_CONTROLLED
-cast: Henessy A; https://www.vivthomas.com/model/henessy-a; f
-cast: Alexa Tomas; https://www.vivthomas.com/model/alexa-tomas; f
+model: n:Henessy A; id:/model/vivthomas/henessy-a; u:https://www.vivthomas.com/model/henessy-a; g:f
+model: n:Alexa Tomas; id:/model/vivthomas/alexa-tomas; u:https://www.vivthomas.com/model/alexa-tomas; g:f
 released: 2016-01-29
 director:   Alis Locanta
 rating: 9.5
@@ -8619,8 +8619,8 @@ title: Lingerie Obsession 3 - Infatuate
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/katya-clover-and-talia-mint/movie/20160127/LINGERIE_OBSESSION_EPISODE_3_-_INFATUATE
-cast: Katya Clover; https://www.vivthomas.com/model/katya-clover; f
-cast: Talia Mint; https://www.vivthomas.com/model/talia-mint; f
+model: n:Katya Clover; id:/model/vivthomas/katya-clover; u:https://www.vivthomas.com/model/katya-clover; g:f
+model: n:Talia Mint; id:/model/vivthomas/talia-mint; u:https://www.vivthomas.com/model/talia-mint; g:f
 released: 2016-01-27
 director:   Alis Locanta
 rating: 9.5
@@ -8697,8 +8697,8 @@ title: And In The End 3 - Content
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/alexa-tomas-and-lea-guerlin/movie/20160125/AND_IN_THE_END_EPISODE_3_-_CONTENT
-cast: Alexa Tomas; https://www.vivthomas.com/model/alexa-tomas; f
-cast: Lea Guerlin; https://www.vivthomas.com/model/lea-guerlin; f
+model: n:Alexa Tomas; id:/model/vivthomas/alexa-tomas; u:https://www.vivthomas.com/model/alexa-tomas; g:f
+model: n:Lea Guerlin; id:/model/vivthomas/lea-guerlin; u:https://www.vivthomas.com/model/lea-guerlin; g:f
 released: 2016-01-25
 director:   Alis Locanta
 rating: 9.5
@@ -8773,8 +8773,8 @@ title: Red Passion 3 - Affair
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/taylor-sands-and-patritcy/movie/20160122/RED_PASSION_EPISODE_3_-_AFFAIR
-cast: Taylor Sands; https://www.vivthomas.com/model/taylor-sands; f
-cast: Patritcy; https://www.vivthomas.com/model/patritcy; f
+model: n:Taylor Sands; id:/model/vivthomas/taylor-sands; u:https://www.vivthomas.com/model/taylor-sands; g:f
+model: n:Patritcy; id:/model/vivthomas/patritcy; u:https://www.vivthomas.com/model/patritcy; g:f
 released: 2016-01-22
 director:   Alis Locanta
 rating: 9.4
@@ -8839,8 +8839,8 @@ title: My Sweet Diary 3 - Whisper
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/talia-mint-and-katya-clover/movie/20160120/MY_SWEET_DIARY_EPISODE_3_-_WHISPER
-cast: Talia Mint; https://www.vivthomas.com/model/talia-mint; f
-cast: Katya Clover; https://www.vivthomas.com/model/katya-clover; f
+model: n:Talia Mint; id:/model/vivthomas/talia-mint; u:https://www.vivthomas.com/model/talia-mint; g:f
+model: n:Katya Clover; id:/model/vivthomas/katya-clover; u:https://www.vivthomas.com/model/katya-clover; g:f
 released: 2016-01-20
 director:   Alis Locanta
 rating: 9.3
@@ -8919,8 +8919,8 @@ title: Vine 4 - Gaiety
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/ivana-sugar-and-lucy-heart/movie/20160118/VINE_EPISODE_4_-_GAIETY
-cast: Ivana Sugar; https://www.vivthomas.com/model/ivana-sugar; f
-cast: Lucy Heart; https://www.vivthomas.com/model/lucy-heart; f
+model: n:Ivana Sugar; id:/model/vivthomas/ivana-sugar; u:https://www.vivthomas.com/model/ivana-sugar; g:f
+model: n:Lucy Heart; id:/model/vivthomas/lucy-heart; u:https://www.vivthomas.com/model/lucy-heart; g:f
 released: 2016-01-18
 director:   Sandra Shine
 rating: 9.3
@@ -8981,8 +8981,8 @@ title: First Time Stories 3 - Supreme
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/talia-mint-and-katya-clover/movie/20160115/FIRST_TIME_STORIES_EPISODE_3_-_SUPREME
-cast: Talia Mint; https://www.vivthomas.com/model/talia-mint; f
-cast: Katya Clover; https://www.vivthomas.com/model/katya-clover; f
+model: n:Talia Mint; id:/model/vivthomas/talia-mint; u:https://www.vivthomas.com/model/talia-mint; g:f
+model: n:Katya Clover; id:/model/vivthomas/katya-clover; u:https://www.vivthomas.com/model/katya-clover; g:f
 released: 2016-01-15
 director:   Alis Locanta
 rating: 9.4
@@ -9044,8 +9044,8 @@ title: One Small Step 3 - Virtue
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/taylor-sands-and-lorena-garcia/movie/20160113/ONE_SMALL_STEP_EPISODE_3_-_VIRTUE
-cast: Taylor Sands; https://www.vivthomas.com/model/taylor-sands; f
-cast: Lorena Garcia; https://www.vivthomas.com/model/lorena-garcia; f
+model: n:Taylor Sands; id:/model/vivthomas/taylor-sands; u:https://www.vivthomas.com/model/taylor-sands; g:f
+model: n:Lorena Garcia; id:/model/vivthomas/lorena-garcia; u:https://www.vivthomas.com/model/lorena-garcia; g:f
 released: 2016-01-13
 director:   Alis Locanta
 rating: 9.5
@@ -9109,8 +9109,8 @@ title: Lingerie Obsession 2 - Captivation
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/nekane-and-lea-guerlin/movie/20160111/LINGERIE_OBSESSION_EPISODE_2_-_CAPTIVATION
-cast: Nekane; https://www.vivthomas.com/model/nekane; f
-cast: Lea Guerlin; https://www.vivthomas.com/model/lea-guerlin; f
+model: n:Nekane; id:/model/vivthomas/nekane; u:https://www.vivthomas.com/model/nekane; g:f
+model: n:Lea Guerlin; id:/model/vivthomas/lea-guerlin; u:https://www.vivthomas.com/model/lea-guerlin; g:f
 released: 2016-01-11
 director:   Alis Locanta
 rating: 9.4
@@ -9178,8 +9178,8 @@ title: Vine 3 - Delicacy
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/kiara-lord-and-henessy-a/movie/20160108/VINE_EPISODE_3_-_DELICACY
-cast: Kiara Lord; https://www.vivthomas.com/model/kiara-lord; f
-cast: Henessy A; https://www.vivthomas.com/model/henessy-a; f
+model: n:Kiara Lord; id:/model/vivthomas/kiara-lord; u:https://www.vivthomas.com/model/kiara-lord; g:f
+model: n:Henessy A; id:/model/vivthomas/henessy-a; u:https://www.vivthomas.com/model/henessy-a; g:f
 released: 2016-01-08
 director:   Sandra Shine
 rating: 9.4
@@ -9238,8 +9238,8 @@ title: Lucky Exchange
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/natalie-gold-and-lorena-garcia/movie/20160106/LUCKY_EXCHANGE
-cast: Natalie Gold; https://www.vivthomas.com/model/natalie-gold; f
-cast: Lorena Garcia; https://www.vivthomas.com/model/lorena-garcia; f
+model: n:Natalie Gold; id:/model/vivthomas/natalie-gold; u:https://www.vivthomas.com/model/natalie-gold; g:f
+model: n:Lorena Garcia; id:/model/vivthomas/lorena-garcia; u:https://www.vivthomas.com/model/lorena-garcia; g:f
 released: 2016-01-06
 director:   Don Caravaggio
 rating: 9.5
@@ -9286,8 +9286,8 @@ title: And In The End 2 - Interdict
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/talia-mint-and-patritcy/movie/20160104/AND_IN_THE_END_EPISODE_2_-_INTERDICT
-cast: Talia Mint; https://www.vivthomas.com/model/talia-mint; f
-cast: Patritcy; https://www.vivthomas.com/model/patritcy; f
+model: n:Talia Mint; id:/model/vivthomas/talia-mint; u:https://www.vivthomas.com/model/talia-mint; g:f
+model: n:Patritcy; id:/model/vivthomas/patritcy; u:https://www.vivthomas.com/model/patritcy; g:f
 released: 2016-01-04
 director:   Alis Locanta
 rating: 9.3
@@ -9352,8 +9352,8 @@ title: Red Passion 2 - Impulsive
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/nekane-and-henessy-a/movie/20160101/RED_PASSION_EPISODE_2_-_IMPULSIVE
-cast: Nekane; https://www.vivthomas.com/model/nekane; f
-cast: Henessy A; https://www.vivthomas.com/model/henessy-a; f
+model: n:Nekane; id:/model/vivthomas/nekane; u:https://www.vivthomas.com/model/nekane; g:f
+model: n:Henessy A; id:/model/vivthomas/henessy-a; u:https://www.vivthomas.com/model/henessy-a; g:f
 released: 2016-01-01
 director:   Alis Locanta
 rating: 9.5

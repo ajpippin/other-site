@@ -9,7 +9,7 @@ title: Girls Love Sex - Mistress
 type: movie
 site: sa
 url: https://www.sexart.com/model/whitney-conroy/movie/20141231/GIRLS_LOVE_SEX_-_MISTRESS
-cast: Whitney Conroy; https://www.sexart.com/model/whitney-conroy; g:f
+model: n:Whitney Conroy; id:/model/sexart/whitney-conroy; u:https://www.sexart.com/model/whitney-conroy; g:f
 released: 2014-12-31
 director: Alis Locanta
 rating: 9.2
@@ -23,7 +23,7 @@ runtime: 19:03
 writer: Alis Locanta
 executiveProducer: MetArt Films
 producer: Estelle Adams
-directorPhotography: Alis Locanta
+directorOfPhotography: Alis Locanta
 cameraOperator: Jorge Villalobos, Duliamo Ergacia
 editor: Alis Locanta
 makeupArtist: Rita Rola
@@ -69,8 +69,8 @@ title: Fantastico
 type: movie
 site: sa
 url: https://www.sexart.com/model/joel-tomas-and-taylor-sands/movie/20141228/FANTASTICO
-cast: Joel Tomas; https://www.sexart.com/model/joel-tomas; g:m
-cast: Taylor Sands; https://www.sexart.com/model/taylor-sands; g:f
+model: n:Joel Tomas; id:/model/sexart/joel-tomas; u:https://www.sexart.com/model/joel-tomas; g:m
+model: n:Taylor Sands; id:/model/sexart/taylor-sands; u:https://www.sexart.com/model/taylor-sands; g:f
 released: 2014-12-28
 director: Alis Locanta
 rating: 9.2
@@ -83,7 +83,7 @@ description: Alis Locanta introduces the stars of "Fantastico" — Taylor Sands 
 runtime: 18:05
 executiveProducer: MetArt Films
 producer: Estelle Adams
-directorPhotography: Alis Locanta
+directorOfPhotography: Alis Locanta
 cameraOperator: Jorge Villalobos, Duliamo Ergacia
 stillPhotographer: Duliamo Ergacia
 editor: Alis Locanta
@@ -132,8 +132,8 @@ title: Aquafun
 type: movie
 site: sa
 url: https://www.sexart.com/model/iwia-a-and-lucy-li/movie/20141226/AQUAFUN
-cast: Iwia A; https://www.sexart.com/model/iwia-a; g:f
-cast: Lucy Li; https://www.sexart.com/model/lucy-li; g:f
+model: n:Iwia A; id:/model/sexart/iwia-a; u:https://www.sexart.com/model/iwia-a; g:f
+model: n:Lucy Li; id:/model/sexart/lucy-li; u:https://www.sexart.com/model/lucy-li; g:f
 released: 2014-12-26
 director: Andrej Lupin
 rating: 9.4
@@ -193,7 +193,7 @@ title: Her Night
 type: movie
 site: sa
 url: https://www.sexart.com/model/sapphira-a/movie/20141224/HER_NIGHT
-cast: Sapphira A; https://www.sexart.com/model/sapphira-a; g:f
+model: n:Sapphira A; id:/model/sexart/sapphira-a; u:https://www.sexart.com/model/sapphira-a; g:f
 released: 2014-12-24
 director: Andrej Lupin
 rating: 9.5
@@ -250,8 +250,8 @@ title: Holiday
 type: movie
 site: sa
 url: https://www.sexart.com/model/lutro-and-ivana-sugar/movie/20141221/HOLIDAY
-cast: Lutro; https://www.sexart.com/model/lutro; g:m
-cast: Ivana Sugar; https://www.sexart.com/model/ivana-sugar; g:f
+model: n:Lutro; id:/model/sexart/lutro; u:https://www.sexart.com/model/lutro; g:m
+model: n:Ivana Sugar; id:/model/sexart/ivana-sugar; u:https://www.sexart.com/model/ivana-sugar; g:f
 released: 2014-12-21
 director: Andrej Lupin
 rating: 9.2
@@ -324,8 +324,8 @@ title: Shards of Summer
 type: movie
 site: sa
 url: https://www.sexart.com/model/tracy-lindsay-and-aiko-bell/movie/20141219/SHARDS_OF_SUMMER
-cast: Tracy Lindsay; https://www.sexart.com/model/tracy-lindsay; g:f
-cast: Aiko Bell; https://www.sexart.com/model/aiko-bell; g:f
+model: n:Tracy Lindsay; id:/model/sexart/tracy-lindsay; u:https://www.sexart.com/model/tracy-lindsay; g:f
+model: n:Aiko Bell; id:/model/sexart/aiko-bell; u:https://www.sexart.com/model/aiko-bell; g:f
 released: 2014-12-19
 director: Andrej Lupin
 rating: 9.5
@@ -393,7 +393,7 @@ title: Incandescence - Ariel Rebel
 type: movie
 site: sa
 url: https://www.sexart.com/model/ariel-rebel/movie/20141217/INCANDESCENCE_-_ARIEL_REBEL
-cast: Ariel Rebel; https://www.sexart.com/model/ariel-rebel; g:f
+model: n:Ariel Rebel; id:/model/sexart/ariel-rebel; u:https://www.sexart.com/model/ariel-rebel; g:f
 released: 2014-12-17
 director: Alis Locanta
 rating: 9.4
@@ -407,7 +407,7 @@ runtime: 15:02
 writer: Alis Locanta
 executiveProducer: MetArt Films
 producer: Estelle Adams
-directorPhotography: Alis Locanta
+directorOfPhotography: Alis Locanta
 cameraOperator: Duliamo Ergacia
 editor: Alis Locanta
 costumeDesigner: Eva Dividendo
@@ -454,8 +454,8 @@ title: Racetrack
 type: movie
 site: sa
 url: https://www.sexart.com/model/helena-sculptura-and-thomas-lee/movie/20141214/RACETRACK
-cast: Helena Sculptura; https://www.sexart.com/model/helena-sculptura; g:f
-cast: Thomas Lee; https://www.sexart.com/model/thomas-lee; g:m
+model: n:Helena Sculptura; id:/model/sexart/helena-sculptura; u:https://www.sexart.com/model/helena-sculptura; g:f
+model: n:Thomas Lee; id:/model/sexart/thomas-lee; u:https://www.sexart.com/model/thomas-lee; g:m
 released: 2014-12-14
 director: Andrej Lupin
 rating: 9.1
@@ -525,8 +525,8 @@ title: Be Mine III
 type: movie
 site: sa
 url: https://www.sexart.com/model/silvie-luca-and-amarna-miller/movie/20141212/BE_MINE_III
-cast: Silvie Luca; https://www.sexart.com/model/silvie-luca; g:f
-cast: Amarna Miller; https://www.sexart.com/model/amarna-miller; g:f
+model: n:Silvie Luca; id:/model/sexart/silvie-luca; u:https://www.sexart.com/model/silvie-luca; g:f
+model: n:Amarna Miller; id:/model/sexart/amarna-miller; u:https://www.sexart.com/model/amarna-miller; g:f
 released: 2014-12-12
 director: Alis Locanta
 rating: 9.3
@@ -605,7 +605,7 @@ title: Red Vinyl
 type: movie
 site: sa
 url: https://www.sexart.com/model/andrea-p/movie/20141210/RED_VINYL
-cast: Andrea P; https://www.sexart.com/model/andrea-p; g:f
+model: n:Andrea P; id:/model/sexart/andrea-p; u:https://www.sexart.com/model/andrea-p; g:f
 released: 2014-12-10
 director: Paul Black
 rating: 9.1
@@ -670,8 +670,8 @@ title: One Night
 type: movie
 site: sa
 url: https://www.sexart.com/model/lutro-and-eveline-neill/movie/20141207/ONE_NIGHT
-cast: Lutro; https://www.sexart.com/model/lutro; g:m
-cast: Eveline Neill; https://www.sexart.com/model/eveline-neill; g:f
+model: n:Lutro; id:/model/sexart/lutro; u:https://www.sexart.com/model/lutro; g:m
+model: n:Eveline Neill; id:/model/sexart/eveline-neill; u:https://www.sexart.com/model/eveline-neill; g:f
 released: 2014-12-07
 director: Andrej Lupin
 rating: 9.1
@@ -735,8 +735,8 @@ title: Doubleface
 type: movie
 site: sa
 url: https://www.sexart.com/model/mango-a-and-julia-roca/movie/20141205/DOUBLEFACE
-cast: Mango A; https://www.sexart.com/model/mango-a; g:f
-cast: Julia Roca; https://www.sexart.com/model/julia-roca; g:f
+model: n:Mango A; id:/model/sexart/mango-a; u:https://www.sexart.com/model/mango-a; g:f
+model: n:Julia Roca; id:/model/sexart/julia-roca; u:https://www.sexart.com/model/julia-roca; g:f
 released: 2014-12-05
 director: Alis Locanta
 rating: 9.4
@@ -749,7 +749,7 @@ description: In titling his "Doubleface," Alis Locanta isn't addressing an act o
 runtime: 14:37
 executiveProducer: MetArt Films
 producer: Estelle Adams
-directorPhotography: Alis Locanta
+directorOfPhotography: Alis Locanta
 cameraOperator: Jorge Villalobos, Duliamo Ergacia
 costumeDesigner: Eva Dividendo
 makeupArtist: Rita Rola
@@ -804,7 +804,7 @@ title: Incandescence - Alexa Tomas
 type: movie
 site: sa
 url: https://www.sexart.com/model/alexa-tomas/movie/20141203/INCANDESCENCE_-_ALEXA_TOMAS
-cast: Alexa Tomas; https://www.sexart.com/model/alexa-tomas; g:f
+model: n:Alexa Tomas; id:/model/sexart/alexa-tomas; u:https://www.sexart.com/model/alexa-tomas; g:f
 released: 2014-12-03
 director: Alis Locanta
 rating: 9.4
@@ -818,7 +818,7 @@ runtime: 13:23
 writer: Alis Locanta
 executiveProducer: MetArt Films
 producer: Estelle Adams
-directorPhotography: Alis Locanta
+directorOfPhotography: Alis Locanta
 cameraOperator: Jorge Villalobos, Duliamo Ergacia
 costumeDesigner: Eva Dividendo
 makeupArtist: Rita Rola
@@ -864,8 +864,8 @@ title: Love For Sale - Milestone - Chapter 4
 type: movie
 site: sa
 url: https://www.sexart.com/model/samantha-bentley-and-tracy-lindsay/movie/20141130/LOVE_FOR_SALE_-_MILESTONE_-_CHAPTER_4
-cast: Samantha Bentley; https://www.sexart.com/model/samantha-bentley; g:f
-cast: Tracy Lindsay; https://www.sexart.com/model/tracy-lindsay; g:f
+model: n:Samantha Bentley; id:/model/sexart/samantha-bentley; u:https://www.sexart.com/model/samantha-bentley; g:f
+model: n:Tracy Lindsay; id:/model/sexart/tracy-lindsay; u:https://www.sexart.com/model/tracy-lindsay; g:f
 released: 2014-11-30
 director: Alis Locanta
 rating: 9.5
@@ -879,7 +879,7 @@ runtime: 31:02
 writer: Estelle Adams, Adam Golden, Alis Locanta
 executiveProducer: MetArt Films
 producer: Estelle Adams
-directorPhotography: Alis Locanta
+directorOfPhotography: Alis Locanta
 cameraOperator: Duliamo Ergacia, Joe Imparato
 costumeDesigner: Eva Dividendo
 makeupArtist: Rita Rola
@@ -963,8 +963,8 @@ title: Lift
 type: movie
 site: sa
 url: https://www.sexart.com/model/margot-a-and-whitney-conroy/movie/20141128/LIFT
-cast: Margot A; https://www.sexart.com/model/margot-a; g:f
-cast: Whitney Conroy; https://www.sexart.com/model/whitney-conroy; g:f
+model: n:Margot A; id:/model/sexart/margot-a; u:https://www.sexart.com/model/margot-a; g:f
+model: n:Whitney Conroy; id:/model/sexart/whitney-conroy; u:https://www.sexart.com/model/whitney-conroy; g:f
 released: 2014-11-28
 director: Andrej Lupin
 rating: 9.5
@@ -1032,7 +1032,7 @@ title: Lost in a Dream Vol 3
 type: movie
 site: sa
 url: https://www.sexart.com/model/sapphira-a/movie/20141126/LOST_IN_A_DREAM_VOL_3
-cast: Sapphira A; https://www.sexart.com/model/sapphira-a; g:f
+model: n:Sapphira A; id:/model/sexart/sapphira-a; u:https://www.sexart.com/model/sapphira-a; g:f
 released: 2014-11-26
 director: Alis Locanta
 rating: 9.4
@@ -1046,7 +1046,7 @@ runtime: 14:47
 writer: Alis Locanta
 executiveProducer: MetArt Films
 producer: Tony Intropido
-directorPhotography: Alis Locanta
+directorOfPhotography: Alis Locanta
 cameraOperator: Jorge Villalobos, Duliamo Ergacia
 editor: Alis Locanta
 costumeDesigner: Eva Dividendo
@@ -1090,8 +1090,8 @@ title: Love For Sale - Safeword - Chapter 3
 type: movie
 site: sa
 url: https://www.sexart.com/model/suzie-carina-and-tracy-lindsay/movie/20141123/LOVE_FOR_SALE_-_SAFEWORD_-_CHAPTER_3
-cast: Suzie Carina; https://www.sexart.com/model/suzie-carina; g:f
-cast: Tracy Lindsay; https://www.sexart.com/model/tracy-lindsay; g:f
+model: n:Suzie Carina; id:/model/sexart/suzie-carina; u:https://www.sexart.com/model/suzie-carina; g:f
+model: n:Tracy Lindsay; id:/model/sexart/tracy-lindsay; u:https://www.sexart.com/model/tracy-lindsay; g:f
 released: 2014-11-23
 director: Alis Locanta
 rating: 9.3
@@ -1105,7 +1105,7 @@ runtime: 31:35
 writer: Adam Golden, Estelle Adams, Alis Locanta
 executiveProducer: MetArt Films
 producer: Estelle Adams
-directorPhotography: Alis Locanta
+directorOfPhotography: Alis Locanta
 cameraOperator: Duliamo Ergacia, Joe Imparato
 costumeDesigner: Eva Dividendo
 makeupArtist: Rita Rola
@@ -1177,8 +1177,8 @@ title: Another Love Journey
 type: movie
 site: sa
 url: https://www.sexart.com/model/silvie-luca-and-taylor-sands/movie/20141121/ANOTHER_LOVE_JOURNEY
-cast: Silvie Luca; https://www.sexart.com/model/silvie-luca; g:f
-cast: Taylor Sands; https://www.sexart.com/model/taylor-sands; g:f
+model: n:Silvie Luca; id:/model/sexart/silvie-luca; u:https://www.sexart.com/model/silvie-luca; g:f
+model: n:Taylor Sands; id:/model/sexart/taylor-sands; u:https://www.sexart.com/model/taylor-sands; g:f
 released: 2014-11-21
 director: Alis Locanta
 rating: 9.1
@@ -1191,7 +1191,7 @@ description: Before there is an image on the screen sounds of passion can be hea
 runtime: 18:08
 writer: Alis Locanta
 producer: Estelle Adams
-directorPhotography: Alis Locanta
+directorOfPhotography: Alis Locanta
 cameraOperator: Duliamo Ergacia, Jorge Villalobos
 stillPhotographer: Duliamo Ergacia
 editor: Alis Locanta
@@ -1256,7 +1256,7 @@ title: Feminine
 type: movie
 site: sa
 url: https://www.sexart.com/model/michaela-isizzu/movie/20141119/FEMININE
-cast: Michaela Isizzu; https://www.sexart.com/model/michaela-isizzu; g:f
+model: n:Michaela Isizzu; id:/model/sexart/michaela-isizzu; u:https://www.sexart.com/model/michaela-isizzu; g:f
 released: 2014-11-19
 director: Andrej Lupin
 rating: 9.5
@@ -1318,8 +1318,8 @@ title: Love For Sale - Crossdressing - Chapter 2
 type: movie
 site: sa
 url: https://www.sexart.com/model/tracy-lindsay-and-amarna-miller/movie/20141116/LOVE_FOR_SALE_-_CROSSDRESSING_-_CHAPTER_2
-cast: Tracy Lindsay; https://www.sexart.com/model/tracy-lindsay; g:f
-cast: Amarna Miller; https://www.sexart.com/model/amarna-miller; g:f
+model: n:Tracy Lindsay; id:/model/sexart/tracy-lindsay; u:https://www.sexart.com/model/tracy-lindsay; g:f
+model: n:Amarna Miller; id:/model/sexart/amarna-miller; u:https://www.sexart.com/model/amarna-miller; g:f
 released: 2014-11-16
 director: Alis Locanta
 rating: 9.2
@@ -1333,7 +1333,7 @@ runtime: 31:53
 writer: Adam Golden, Alis Locanta, Estelle Adams
 executiveProducer: MetArt Films
 producer: Estelle Adams
-directorPhotography: Alis Locanta
+directorOfPhotography: Alis Locanta
 cameraOperator: Duliamo Ergacia, Joe Imparato
 costumeDesigner: Eva Dividendo
 makeupArtist: Rita Rola
@@ -1401,8 +1401,8 @@ title: The Audition
 type: movie
 site: sa
 url: https://www.sexart.com/model/grace-c-and-iwia-a/movie/20141114/THE_AUDITION
-cast: Grace C; https://www.sexart.com/model/grace-c; g:f
-cast: Iwia A; https://www.sexart.com/model/iwia-a; g:f
+model: n:Grace C; id:/model/sexart/grace-c; u:https://www.sexart.com/model/grace-c; g:f
+model: n:Iwia A; id:/model/sexart/iwia-a; u:https://www.sexart.com/model/iwia-a; g:f
 released: 2014-11-14
 director: Alis Locanta
 rating: 9.3
@@ -1413,7 +1413,7 @@ file: SexArt-20141114-The-Audition-wide.jpg 160
 fileprefix: SexArt-20141114-The-Audition-
 description: Among Alis Locanta's most notable virtues as an artist is his versatility. He's as comfortable and confident with richly detailed long form narratives as he is with virtually plot-free single-girl masturbation features. "The Audition" boasts the spare simplicity of a single girl production, with the added bonus of featuring two girls. And Locanta has cast a particularly appealing pair here: Iwia A and Grace C. The film takes place in a colorful, simple, and stylishly decorated bedroom. Grace sits on the bed studying a script and helps Iwia with her lines as she films an audition video with a tripod-mounted camera. This scant bit of "plot" is something of a visual appetizer and once the auditioning is done the girls devote their attention to one another. With Iwia nude and on all fours, Grace slides underneath her and delicately licks and kisses her pussy and clit. Then Grace strips off her white panties and tank top and Iwia returns the favor. There's nothing dramatic, theatrical, or overblown about this interlude, it's simply two exceptionally beautiful girls enjoying a bit of casual but rewarding lesbian sex play. After fingering Grace from behind the two petite beauties recline, side by side, and using a single hand apiece, masturbate each other to orgasm simultaneously. Iwia A, Grace C, and Alis Locanta all pass "The Audition" with flying colors.
 runtime: 15:07
-directorPhotography: Alis Locanta
+directorOfPhotography: Alis Locanta
 cameraOperator: Joe Imparato, Jorge Villalobos
 editor: Alis Locanta
 tag: ass grabbing
@@ -1470,7 +1470,7 @@ title: Girls Love Sex - Noche de Fiesta
 type: movie
 site: sa
 url: https://www.sexart.com/model/alexa-tomas/movie/20141112/GIRLS_LOVE_SEX_-_NOCHE_DE_FIESTA
-cast: Alexa Tomas; https://www.sexart.com/model/alexa-tomas; g:f
+model: n:Alexa Tomas; id:/model/sexart/alexa-tomas; u:https://www.sexart.com/model/alexa-tomas; g:f
 released: 2014-11-12
 director: Alis Locanta
 rating: 9.4
@@ -1484,7 +1484,7 @@ runtime: 18:02
 writer: Alis Locanta
 executiveProducer: MetArt Films
 producer: Estelle Adams
-directorPhotography: Alis Locanta
+directorOfPhotography: Alis Locanta
 cameraOperator: Jorge Villalobos, Duliamo Ergacia
 costumeDesigner: Eva Dividendo
 makeupArtist: Rita Rola
@@ -1536,8 +1536,8 @@ title: Love For Sale - Harder - Chapter 1
 type: movie
 site: sa
 url: https://www.sexart.com/model/tracy-lindsay-and-flora/movie/20141109/LOVE_FOR_SALE_-_HARDER_-_CHAPTER_1
-cast: Tracy Lindsay; https://www.sexart.com/model/tracy-lindsay; g:f
-cast: Flora; https://www.sexart.com/model/flora; g:f
+model: n:Tracy Lindsay; id:/model/sexart/tracy-lindsay; u:https://www.sexart.com/model/tracy-lindsay; g:f
+model: n:Flora; id:/model/sexart/flora; u:https://www.sexart.com/model/flora; g:f
 released: 2014-11-09
 director: Alis Locanta
 rating: 9.4
@@ -1551,7 +1551,7 @@ runtime: 29:02
 writer: Estelle Adams, Alis Locanta, Adam Golden
 executiveProducer: MetArt Films
 producer: Estelle Adams
-directorPhotography: Alis Locanta
+directorOfPhotography: Alis Locanta
 cameraOperator: Joe Imparato, Duliamo Ergacia
 stillPhotographer: Duliamo Ergacia
 costumeDesigner: Eva Dividendo
@@ -1629,8 +1629,8 @@ title: Touch of Sun
 type: movie
 site: sa
 url: https://www.sexart.com/model/aiko-bell-and-chelsea-sun/movie/20141107/TOUCH_OF_SUN
-cast: Aiko Bell; https://www.sexart.com/model/aiko-bell; g:f
-cast: Chelsea Sun; https://www.sexart.com/model/chelsea-sun; g:f
+model: n:Aiko Bell; id:/model/sexart/aiko-bell; u:https://www.sexart.com/model/aiko-bell; g:f
+model: n:Chelsea Sun; id:/model/sexart/chelsea-sun; u:https://www.sexart.com/model/chelsea-sun; g:f
 released: 2014-11-07
 director: Andrej Lupin
 rating: 9.3
@@ -1701,7 +1701,7 @@ title: Girls Love Sex - Exhibitionist
 type: movie
 site: sa
 url: https://www.sexart.com/model/mango-a/movie/20141105/GIRLS_LOVE_SEX_-_EXHIBITIONIST
-cast: Mango A; https://www.sexart.com/model/mango-a; g:f
+model: n:Mango A; id:/model/sexart/mango-a; u:https://www.sexart.com/model/mango-a; g:f
 released: 2014-11-05
 director: Alis Locanta
 rating: 9.6
@@ -1769,8 +1769,8 @@ title: Out Of Business
 type: movie
 site: sa
 url: https://www.sexart.com/model/silvie-deluxe-and-thomas-lee/movie/20141102/OUT_OF_BUSINESS
-cast: Silvie Deluxe; https://www.sexart.com/model/silvie-deluxe; g:f
-cast: Thomas Lee; https://www.sexart.com/model/thomas-lee; g:m
+model: n:Silvie Deluxe; id:/model/sexart/silvie-deluxe; u:https://www.sexart.com/model/silvie-deluxe; g:f
+model: n:Thomas Lee; id:/model/sexart/thomas-lee; u:https://www.sexart.com/model/thomas-lee; g:m
 released: 2014-11-02
 director: Andrej Lupin
 rating: 9.4
@@ -1832,8 +1832,8 @@ title: My Little Apartment
 type: movie
 site: sa
 url: https://www.sexart.com/model/nataly-von-and-blue-angel/movie/20141031/MY_LITTLE_APARTMENT
-cast: Nataly Von; https://www.sexart.com/model/nataly-von; g:f
-cast: Blue Angel; https://www.sexart.com/model/blue-angel; g:f
+model: n:Nataly Von; id:/model/sexart/nataly-von; u:https://www.sexart.com/model/nataly-von; g:f
+model: n:Blue Angel; id:/model/sexart/blue-angel; u:https://www.sexart.com/model/blue-angel; g:f
 released: 2014-10-31
 director: Andrej Lupin
 rating: 9.3
@@ -1895,7 +1895,7 @@ title: Flawless
 type: movie
 site: sa
 url: https://www.sexart.com/model/sapphira-a/movie/20141029/FLAWLESS
-cast: Sapphira A; https://www.sexart.com/model/sapphira-a; g:f
+model: n:Sapphira A; id:/model/sexart/sapphira-a; u:https://www.sexart.com/model/sapphira-a; g:f
 released: 2014-10-29
 director: Andrej Lupin
 rating: 9.4
@@ -1956,8 +1956,8 @@ title: Inside Couple
 type: movie
 site: sa
 url: https://www.sexart.com/model/taylor-sands-and-juan-lucho/movie/20141026/INSIDE_COUPLE
-cast: Taylor Sands; https://www.sexart.com/model/taylor-sands; g:f
-cast: Juan Lucho; https://www.sexart.com/model/juan-lucho; g:m
+model: n:Taylor Sands; id:/model/sexart/taylor-sands; u:https://www.sexart.com/model/taylor-sands; g:f
+model: n:Juan Lucho; id:/model/sexart/juan-lucho; u:https://www.sexart.com/model/juan-lucho; g:m
 released: 2014-10-26
 director: Alis Locanta
 rating: 9.1
@@ -1971,7 +1971,7 @@ runtime: 25:06
 writer: Alis Locanta
 executiveProducer: MetArt Films
 producer: Tony Intropido
-directorPhotography: Alis Locanta
+directorOfPhotography: Alis Locanta
 cameraOperator: Jorge Villalobos, Duliamo Ergacia
 stillPhotographer: Duliamo Ergacia
 editor: Alis Locanta
@@ -2031,8 +2031,8 @@ title: Secretly 2
 type: movie
 site: sa
 url: https://www.sexart.com/model/whitney-conroy-and-julia-roca/movie/20141024/SECRETLY_2
-cast: Whitney Conroy; https://www.sexart.com/model/whitney-conroy; g:f
-cast: Julia Roca; https://www.sexart.com/model/julia-roca; g:f
+model: n:Whitney Conroy; id:/model/sexart/whitney-conroy; u:https://www.sexart.com/model/whitney-conroy; g:f
+model: n:Julia Roca; id:/model/sexart/julia-roca; u:https://www.sexart.com/model/julia-roca; g:f
 released: 2014-10-24
 director: Alis Locanta
 rating: 9.3
@@ -2046,7 +2046,7 @@ runtime: 24:22
 writer: Alis Locanta
 executiveProducer: MetArt Films
 producer: Estelle Adams
-directorPhotography: Alis Locanta
+directorOfPhotography: Alis Locanta
 cameraOperator: Jorge Villalobos, Duliamo Ergacia
 stillPhotographer: Duliamo Ergacia
 editor: Alis Locanta
@@ -2099,7 +2099,7 @@ title: Energy
 type: movie
 site: sa
 url: https://www.sexart.com/model/michaela-isizzu/movie/20141022/ENERGY
-cast: Michaela Isizzu; https://www.sexart.com/model/michaela-isizzu; g:f
+model: n:Michaela Isizzu; id:/model/sexart/michaela-isizzu; u:https://www.sexart.com/model/michaela-isizzu; g:f
 released: 2014-10-22
 director: Andrej Lupin
 rating: 9.5
@@ -2153,8 +2153,8 @@ title: Weekend - Episode 4 - Time For Love
 type: movie
 site: sa
 url: https://www.sexart.com/model/lexi-dona-and-jason-x/movie/20141019/WEEKEND_-_EPISODE_4_-_TIME_FOR_LOVE
-cast: Lexi Dona; https://www.sexart.com/model/lexi-dona; g:f
-cast: Jason X; https://www.sexart.com/model/jason-x; g:m
+model: n:Lexi Dona; id:/model/sexart/lexi-dona; u:https://www.sexart.com/model/lexi-dona; g:f
+model: n:Jason X; id:/model/sexart/jason-x; u:https://www.sexart.com/model/jason-x; g:m
 released: 2014-10-19
 director: Andrej Lupin
 rating: 9.2
@@ -2225,8 +2225,8 @@ title: Rain
 type: movie
 site: sa
 url: https://www.sexart.com/model/vanda-lust-and-ivana-sugar/movie/20141017/RAIN
-cast: Vanda Lust; https://www.sexart.com/model/vanda-lust; g:f
-cast: Ivana Sugar; https://www.sexart.com/model/ivana-sugar; g:f
+model: n:Vanda Lust; id:/model/sexart/vanda-lust; u:https://www.sexart.com/model/vanda-lust; g:f
+model: n:Ivana Sugar; id:/model/sexart/ivana-sugar; u:https://www.sexart.com/model/ivana-sugar; g:f
 released: 2014-10-17
 director: Andrej Lupin
 rating: 9.3
@@ -2300,7 +2300,7 @@ title: Obsessed
 type: movie
 site: sa
 url: https://www.sexart.com/model/tania-g/movie/20141015/OBSESSED
-cast: Tania G; https://www.sexart.com/model/tania-g; g:f
+model: n:Tania G; id:/model/sexart/tania-g; u:https://www.sexart.com/model/tania-g; g:f
 released: 2014-10-15
 director: Alis Locanta
 rating: 9.2
@@ -2313,7 +2313,7 @@ description: Tania G walks to her car in a crowded parking lot, opens the door, 
 runtime: 14:57
 executiveProducer: MetArt Films
 producer: Estelle Adams
-directorPhotography: Alis Locanta
+directorOfPhotography: Alis Locanta
 cameraOperator: Jorge Villalobos, Duliamo Ergacia
 stillPhotographer: Duliamo Ergacia
 costumeDesigner: Eva Dividendo
@@ -2352,12 +2352,12 @@ title: Weekend - Episode 3 - Lust
 type: movie
 site: sa
 url: https://www.sexart.com/model/william-zeff-and-lutro-and-jason-x-and-dominica-phoenix-and-katy-rose-and-lexi-dona/movie/20141012/WEEKEND_-_EPISODE_3_-_LUST
-cast: William Zeff; https://www.sexart.com/model/william-zeff; g:m
-cast: Lutro; https://www.sexart.com/model/lutro; g:m
-cast: Jason X; https://www.sexart.com/model/jason-x; g:m
-cast: Dominica Phoenix; https://www.sexart.com/model/dominica-phoenix; g:f
-cast: Katy Rose; https://www.sexart.com/model/katy-rose; g:f
-cast: Lexi Dona; https://www.sexart.com/model/lexi-dona; g:f
+model: n:William Zeff; id:/model/sexart/william-zeff; u:https://www.sexart.com/model/william-zeff; g:m
+model: n:Lutro; id:/model/sexart/lutro; u:https://www.sexart.com/model/lutro; g:m
+model: n:Jason X; id:/model/sexart/jason-x; u:https://www.sexart.com/model/jason-x; g:m
+model: n:Dominica Phoenix; id:/model/sexart/dominica-phoenix; u:https://www.sexart.com/model/dominica-phoenix; g:f
+model: n:Katy Rose; id:/model/sexart/katy-rose; u:https://www.sexart.com/model/katy-rose; g:f
+model: n:Lexi Dona; id:/model/sexart/lexi-dona; u:https://www.sexart.com/model/lexi-dona; g:f
 released: 2014-10-12
 director: Andrej Lupin
 rating: 9.2
@@ -2428,8 +2428,8 @@ title: Symphony
 type: movie
 site: sa
 url: https://www.sexart.com/model/iwia-a-and-suzie-carina/movie/20141010/SYMPHONY
-cast: Iwia A; https://www.sexart.com/model/iwia-a; g:f
-cast: Suzie Carina; https://www.sexart.com/model/suzie-carina; g:f
+model: n:Iwia A; id:/model/sexart/iwia-a; u:https://www.sexart.com/model/iwia-a; g:f
+model: n:Suzie Carina; id:/model/sexart/suzie-carina; u:https://www.sexart.com/model/suzie-carina; g:f
 released: 2014-10-10
 director: Andrej Lupin
 rating: 9.4
@@ -2496,7 +2496,7 @@ title: La Cinco De La Tarde
 type: movie
 site: sa
 url: https://www.sexart.com/model/alexa-tomas/movie/20141008/LA_CINCO_DE_LA_TARDE
-cast: Alexa Tomas; https://www.sexart.com/model/alexa-tomas; g:f
+model: n:Alexa Tomas; id:/model/sexart/alexa-tomas; u:https://www.sexart.com/model/alexa-tomas; g:f
 released: 2014-10-08
 director: Alis Locanta
 rating: 9.2
@@ -2510,7 +2510,7 @@ runtime: 16:23
 writer: Alis Locanta
 executiveProducer: MetArt Films
 producer: Estelle Adams
-directorPhotography: Alis Locanta
+directorOfPhotography: Alis Locanta
 cameraOperator: Duliamo Ergacia
 stillPhotographer: Duliamo Ergacia
 costumeDesigner: Eva Dividendo
@@ -2566,11 +2566,11 @@ title: Weekend - Episode 2 - Infidelity
 type: movie
 site: sa
 url: https://www.sexart.com/model/katy-rose-and-jason-x-and-lexi-dona-and-dominica-phoenix-and-lutro/movie/20141005/WEEKEND_-_EPISODE_2_-_INFIDELITY
-cast: Katy Rose; https://www.sexart.com/model/katy-rose; g:f
-cast: Jason X; https://www.sexart.com/model/jason-x; g:m
-cast: Lexi Dona; https://www.sexart.com/model/lexi-dona; g:f
-cast: Dominica Phoenix; https://www.sexart.com/model/dominica-phoenix; g:f
-cast: Lutro; https://www.sexart.com/model/lutro; g:m
+model: n:Katy Rose; id:/model/sexart/katy-rose; u:https://www.sexart.com/model/katy-rose; g:f
+model: n:Jason X; id:/model/sexart/jason-x; u:https://www.sexart.com/model/jason-x; g:m
+model: n:Lexi Dona; id:/model/sexart/lexi-dona; u:https://www.sexart.com/model/lexi-dona; g:f
+model: n:Dominica Phoenix; id:/model/sexart/dominica-phoenix; u:https://www.sexart.com/model/dominica-phoenix; g:f
+model: n:Lutro; id:/model/sexart/lutro; u:https://www.sexart.com/model/lutro; g:m
 released: 2014-10-05
 director: Andrej Lupin
 rating: 9.1
@@ -2654,8 +2654,8 @@ title: Unplugged
 type: movie
 site: sa
 url: https://www.sexart.com/model/amarna-miller-and-samantha-bentley/movie/20141003/UNPLUGGED
-cast: Amarna Miller; https://www.sexart.com/model/amarna-miller; g:f
-cast: Samantha Bentley; https://www.sexart.com/model/samantha-bentley; g:f
+model: n:Amarna Miller; id:/model/sexart/amarna-miller; u:https://www.sexart.com/model/amarna-miller; g:f
+model: n:Samantha Bentley; id:/model/sexart/samantha-bentley; u:https://www.sexart.com/model/samantha-bentley; g:f
 released: 2014-10-03
 director: Alis Locanta
 rating: 9.4
@@ -2669,7 +2669,7 @@ runtime: 19:58
 writer: Alis Locanta
 executiveProducer: MetArt Films
 producer: Estelle Adams
-directorPhotography: Alis Locanta
+directorOfPhotography: Alis Locanta
 cameraOperator: Joe Imparato, Duliamo Ergacia
 costumeDesigner: Eva Dividendo
 makeupArtist: Rita Rola
@@ -2735,7 +2735,7 @@ title: Lost in a Dream Vol 6
 type: movie
 site: sa
 url: https://www.sexart.com/model/silvie-luca/movie/20141001/LOST_IN_A_DREAM_VOL_6
-cast: Silvie Luca; https://www.sexart.com/model/silvie-luca; g:f
+model: n:Silvie Luca; id:/model/sexart/silvie-luca; u:https://www.sexart.com/model/silvie-luca; g:f
 released: 2014-10-01
 director: Alis Locanta
 rating: 9.3
@@ -2800,12 +2800,12 @@ title: Weekend - Episode 1 - Welcome
 type: movie
 site: sa
 url: https://www.sexart.com/model/katy-rose-and-jason-x-and-dominica-phoenix-and-william-zeff-and-lutro-and-lexi-dona/movie/20140928/WEEKEND_-_EPISODE_1_-_WELCOME
-cast: Katy Rose; https://www.sexart.com/model/katy-rose; g:f
-cast: Jason X; https://www.sexart.com/model/jason-x; g:m
-cast: Dominica Phoenix; https://www.sexart.com/model/dominica-phoenix; g:f
-cast: William Zeff; https://www.sexart.com/model/william-zeff; g:m
-cast: Lutro; https://www.sexart.com/model/lutro; g:m
-cast: Lexi Dona; https://www.sexart.com/model/lexi-dona; g:f
+model: n:Katy Rose; id:/model/sexart/katy-rose; u:https://www.sexart.com/model/katy-rose; g:f
+model: n:Jason X; id:/model/sexart/jason-x; u:https://www.sexart.com/model/jason-x; g:m
+model: n:Dominica Phoenix; id:/model/sexart/dominica-phoenix; u:https://www.sexart.com/model/dominica-phoenix; g:f
+model: n:William Zeff; id:/model/sexart/william-zeff; u:https://www.sexart.com/model/william-zeff; g:m
+model: n:Lutro; id:/model/sexart/lutro; u:https://www.sexart.com/model/lutro; g:m
+model: n:Lexi Dona; id:/model/sexart/lexi-dona; u:https://www.sexart.com/model/lexi-dona; g:f
 released: 2014-09-28
 director: Andrej Lupin
 rating: 9.2
@@ -2885,8 +2885,8 @@ title: Coach
 type: movie
 site: sa
 url: https://www.sexart.com/model/alyssa-reece-and-lena-love/movie/20140926/COACH
-cast: Alyssa Reece; https://www.sexart.com/model/alyssa-reece; g:f
-cast: Lena Love; https://www.sexart.com/model/lena-love; g:f
+model: n:Alyssa Reece; id:/model/sexart/alyssa-reece; u:https://www.sexart.com/model/alyssa-reece; g:f
+model: n:Lena Love; id:/model/sexart/lena-love; u:https://www.sexart.com/model/lena-love; g:f
 released: 2014-09-26
 director: Andrej Lupin
 rating: 9.1
@@ -2960,7 +2960,7 @@ title: Lost in a Dream Vol 5
 type: movie
 site: sa
 url: https://www.sexart.com/model/tracy-lindsay/movie/20140924/LOST_IN_A_DREAM_VOL_5
-cast: Tracy Lindsay; https://www.sexart.com/model/tracy-lindsay; g:f
+model: n:Tracy Lindsay; id:/model/sexart/tracy-lindsay; u:https://www.sexart.com/model/tracy-lindsay; g:f
 released: 2014-09-24
 director: Alis Locanta
 rating: 9.4
@@ -2974,7 +2974,7 @@ runtime: 23:16
 writer: Alis Locanta
 executiveProducer: MetArt Films
 producer: Estelle Adams
-directorPhotography: Alis Locanta
+directorOfPhotography: Alis Locanta
 cameraOperator: Duliamo Ergacia, Jorge Villalobos
 stillPhotographer: Duliamo Ergacia
 costumeDesigner: Eva Dividendo
@@ -3030,8 +3030,8 @@ title: Soldier
 type: movie
 site: sa
 url: https://www.sexart.com/model/tim-bauer-and-tracy-smile/movie/20140921/SOLDIER
-cast: Tim Bauer; https://www.sexart.com/model/tim-bauer; g:m
-cast: Tracy Smile; https://www.sexart.com/model/tracy-smile; g:f
+model: n:Tim Bauer; id:/model/sexart/tim-bauer; u:https://www.sexart.com/model/tim-bauer; g:m
+model: n:Tracy Smile; id:/model/sexart/tracy-smile; u:https://www.sexart.com/model/tracy-smile; g:f
 released: 2014-09-21
 director: Andrej Lupin
 rating: 9.2
@@ -3106,8 +3106,8 @@ title: The Villa
 type: movie
 site: sa
 url: https://www.sexart.com/model/taylor-sands-and-tess-b/movie/20140919/THE_VILLA
-cast: Taylor Sands; https://www.sexart.com/model/taylor-sands; g:f
-cast: Tess B; https://www.sexart.com/model/tess-b; g:f
+model: n:Taylor Sands; id:/model/sexart/taylor-sands; u:https://www.sexart.com/model/taylor-sands; g:f
+model: n:Tess B; id:/model/sexart/tess-b; u:https://www.sexart.com/model/tess-b; g:f
 released: 2014-09-19
 director: Alis Locanta
 rating: 9.2
@@ -3122,7 +3122,7 @@ runtime: 14:54
 writer: Alis Locanta
 executiveProducer: MetArt Films
 producer: Estelle Adams
-directorPhotography: Alis Locanta
+directorOfPhotography: Alis Locanta
 cinematographer: Alis Locanta
 stillPhotographer: Duliamo Ergacia
 firstAC: Jorge Villalobos
@@ -3188,7 +3188,7 @@ title: Lost in a Dream Vol 2
 type: movie
 site: sa
 url: https://www.sexart.com/model/whitney-conroy/movie/20140917/LOST_IN_A_DREAM_VOL_2
-cast: Whitney Conroy; https://www.sexart.com/model/whitney-conroy; g:f
+model: n:Whitney Conroy; id:/model/sexart/whitney-conroy; u:https://www.sexart.com/model/whitney-conroy; g:f
 released: 2014-09-17
 director: Alis Locanta
 rating: 9.3
@@ -3202,7 +3202,7 @@ runtime: 21:43
 writer: Alis Locanta
 executiveProducer: MetArt Films
 producer: Tony Intropido
-directorPhotography: Alis Locanta
+directorOfPhotography: Alis Locanta
 cameraOperator: Duliamo Ergacia, Jorge Villalobos
 stillPhotographer: Duliamo Ergacia
 editor: Alis Locanta
@@ -3258,8 +3258,8 @@ title: Surprise
 type: movie
 site: sa
 url: https://www.sexart.com/model/lutro-and-vanda-lust/movie/20140914/SURPRISE
-cast: Lutro; https://www.sexart.com/model/lutro; g:m
-cast: Vanda Lust; https://www.sexart.com/model/vanda-lust; g:f
+model: n:Lutro; id:/model/sexart/lutro; u:https://www.sexart.com/model/lutro; g:m
+model: n:Vanda Lust; id:/model/sexart/vanda-lust; u:https://www.sexart.com/model/vanda-lust; g:f
 released: 2014-09-14
 director: Andrej Lupin
 rating: 9.1
@@ -3330,8 +3330,8 @@ title: Awakening
 type: movie
 site: sa
 url: https://www.sexart.com/model/rosaline-rosa-and-sabrina-moor/movie/20140912/AWAKENING
-cast: Rosaline Rosa; https://www.sexart.com/model/rosaline-rosa; g:f
-cast: Sabrina Moor; https://www.sexart.com/model/sabrina-moor; g:f
+model: n:Rosaline Rosa; id:/model/sexart/rosaline-rosa; u:https://www.sexart.com/model/rosaline-rosa; g:f
+model: n:Sabrina Moor; id:/model/sexart/sabrina-moor; u:https://www.sexart.com/model/sabrina-moor; g:f
 released: 2014-09-12
 director: Andrej Lupin
 rating: 9.2
@@ -3400,7 +3400,7 @@ title: Contact
 type: movie
 site: sa
 url: https://www.sexart.com/model/sapphira-a/movie/20140910/CONTACT
-cast: Sapphira A; https://www.sexart.com/model/sapphira-a; g:f
+model: n:Sapphira A; id:/model/sexart/sapphira-a; u:https://www.sexart.com/model/sapphira-a; g:f
 released: 2014-09-10
 director: Andrej Lupin
 rating: 9.2
@@ -3457,8 +3457,8 @@ title: Saturday Night
 type: movie
 site: sa
 url: https://www.sexart.com/model/lola-taylor-and-franck-franco/movie/20140907/SATURDAY_NIGHT
-cast: Lola Taylor; https://www.sexart.com/model/lola-taylor; g:f
-cast: Franck Franco; https://www.sexart.com/model/franck-franco; g:m
+model: n:Lola Taylor; id:/model/sexart/lola-taylor; u:https://www.sexart.com/model/lola-taylor; g:f
+model: n:Franck Franco; id:/model/sexart/franck-franco; u:https://www.sexart.com/model/franck-franco; g:m
 released: 2014-09-07
 director: Alis Locanta
 rating: 8.8
@@ -3470,7 +3470,7 @@ fileprefix: SexArt-20140907-Saturday-Night-
 description: In "Saturday Night" a couple is hosting a dinner party. Lola Taylor is in the kitchen preparing the food while Franck Franco is in the living room entertaining their friends. When Franco excuses himself and enters the kitchen to see how things are going a much more intimate party — a party of two — begins. Although she's still intent on preparing the meal, Lola quickly succumbs to Franco's amorous advances. The action moves quickly, fueled not simply by passion, but by the knowledge that their lusty interlude could be interrupted by a curious house guest at any moment. Soon Taylor is perched on the edge of the counter, her legs spread wide, one foot in the sink, with Franco hungrily munching away at her half-shaved pussy. After removing Taylor's panties and lowering his own trousers only as much as needed for the task at hand, Franck proceeds to fuck Lola until she moans and squeals with delight. Transported by lust and desire, the twosome are oblivious to the outside world — and to their friends who continue to party elsewhere in the house. Lola drops to her knees and treats Franco to a lengthy and loving session of fellatio, much of it hands-free, an act enhanced — for the viewer as well as the lucky recipient — by Lola's teasing eye-contact with her partner. Then, with Taylor standing against the counter, Franco enters her from behind and vigorously bangs her to orgasm and then ejaculates on her round rump. Suddenly realizing they mustn't ignore their guests any longer they hurriedly clean up, get dressed, and return to the party. This is one "Saturday Night" you don't want to miss!
 runtime: 17:45
 executiveProducer: MetArt Films
-directorPhotography: Alis Locanta
+directorOfPhotography: Alis Locanta
 cameraOperator: Duliamo Ergacia
 stillPhotographer: Duliamo Ergacia
 editor: Alis Locanta
@@ -3523,8 +3523,8 @@ title: Shoes
 type: movie
 site: sa
 url: https://www.sexart.com/model/tania-g-and-frida/movie/20140905/SHOES
-cast: Tania G; https://www.sexart.com/model/tania-g; g:f
-cast: Frida; https://www.sexart.com/model/frida; g:f
+model: n:Tania G; id:/model/sexart/tania-g; u:https://www.sexart.com/model/tania-g; g:f
+model: n:Frida; id:/model/sexart/frida; u:https://www.sexart.com/model/frida; g:f
 released: 2014-09-05
 director: Alis Locanta
 rating: 9.2
@@ -3536,7 +3536,7 @@ fileprefix: SexArt-20140905-Shoes-
 description: An elegantly dressed woman strolls along a bustling waterfront. When she spots a young woman chatting on the phone in the distance her eyes light up. Soon she's following this apparently randomly chosen stranger through the city. Alis Locanta's "Shoes" certainly begins on an intriguing note, but it's when Frida turns and notices that Tania G has been pursuing her, that the film gets even more interesting. As the line between reality and fantasy begins to blur, Tania leads Frida into a large empty room. Tania begins to purposefully strip Frida of her clothing. After applying lipstick to Frida's lips, Tania removes Frida's sneakers and replaces them with a pair of stylish high heels. With this introduction and preparation complete, "Shoes," which is subtitled "You Are My Babe," begins in earnest. Now we're in some stylized interior space. Frida reclines nude on the floor and Tania, wearing only a pair of black panties, begins aggressively making love to her. Locanta's camera is agile, revealing, and surprising — one moment it's in close as Tania ravenously sucks and licks Frida's glistening pussy, the next it's high overhead looking down on the twosome from above. Although it's subtly telegraphed, this is very much a tale of dominance and submission. Tania delights in controlling the interlude and manipulating her beautiful young conquest, and Frida is more than happy to submit to the seduction and is easily and repeatedly brought to peaks of intense pleasure. Even when the tables are turned and Frida pleasures Tania, the balance of power remains slightly unequal, and even after they've shuddered and moaned through a delirious orgasm in the scissors position the roles of seducer and seduced remain intact. In search of high style, kink-tinged lesbian erotica? It's got to be the "Shoes."
 runtime: 17:30
 executiveProducer: MetArt Films
-directorPhotography: Alis Locanta
+directorOfPhotography: Alis Locanta
 cameraOperator: Duliamo Ergacia
 stillPhotographer: Duliamo Ergacia
 editor: Alis Locanta
@@ -3594,7 +3594,7 @@ title: Io Ballo Da Sola 2
 type: movie
 site: sa
 url: https://www.sexart.com/model/alexa-tomas/movie/20140903/IO_BALLO_DA_SOLA_2
-cast: Alexa Tomas; https://www.sexart.com/model/alexa-tomas; g:f
+model: n:Alexa Tomas; id:/model/sexart/alexa-tomas; u:https://www.sexart.com/model/alexa-tomas; g:f
 released: 2014-09-03
 director: Alis Locanta
 rating: 9.4
@@ -3606,7 +3606,7 @@ fileprefix: SexArt-20140903-Io-Ballo-Da-Sola-02-
 description: As Alis Locanta's camera — in this case the 4K state of the digital art Red Camera MX — moves along a hallway we hear Alexa Tomas before we see her. Alone in her home she's dancing and enthusiastically singing along with the music she's listening to on a pair of headphones. "Io Ballo Da Sola 2" utilizes the same premise as the original, and to excellent effect. Pausing to reflect after the song has ended, Alexa leans against a wall and runs her hands across the filmy fabric of her mini-dress. In deliberate stages she exposes her petite breasts, removes her dress to reveal a pair of scant white panties, and then proceeds to masturbate. For this entire sequence the camera, positioned outside the room, remains static and ambient music plays over and around Alexa's moans and sighs of pleasure. Then Alexa changes her mind, and Locanta changes his style. The Spanish beauty walks quickly to her bedroom, and the camera, now handheld, follows along, the music silenced. Once she's comfortably arranged on the bright white linens of her bed the second half of "Io Ballo Da Sola 2" adopts a much more intimate, immediate, and far more explicit style. Alexa relies on the stimulation provided by her fingers and hands for the first part of this segment, but she soon produces a crystal probe and immediately puts it to use. After liberally lubricating it with her saliva, she inserts one end in her pussy. Then, as her fever rises, she removes the probe and reinserts it, only this time flipping it around so that the three thick spheres that served as a handle now plunge with increasing vigor into her hungry center until orgasm overwhelms her. "Io Ballo Da Sola 2" delivers an intense and intimate private erotic interlude with equal portions of style, beauty, passion, and heat.
 runtime: 15:47
 executiveProducer: MetArt Films
-directorPhotography: Alis Locanta
+directorOfPhotography: Alis Locanta
 cameraOperator: Duliamo Ergacia
 stillPhotographer: Duliamo Ergacia
 editor: Alis Locanta
@@ -3661,8 +3661,8 @@ title: First
 type: movie
 site: sa
 url: https://www.sexart.com/model/johny-d-and-iwia-a/movie/20140831/FIRST
-cast: Johny D; https://www.sexart.com/model/johny-d; g:m
-cast: Iwia A; https://www.sexart.com/model/iwia-a; g:f
+model: n:Johny D; id:/model/sexart/johny-d; u:https://www.sexart.com/model/johny-d; g:m
+model: n:Iwia A; id:/model/sexart/iwia-a; u:https://www.sexart.com/model/iwia-a; g:f
 released: 2014-08-31
 director: Andrej Lupin
 rating: 9.3
@@ -3675,7 +3675,7 @@ description: In life — and in the exaggerated approximation of it presented in
 runtime: 30:07
 executiveProducer: MetArt Films
 producer: Ariel Piper Fawn
-directorPhotography: Andrej Lupin
+directorOfPhotography: Andrej Lupin
 cinematographer: John Humble
 cameraOperator: David Jones
 stillPhotographer: David Jones
@@ -3742,8 +3742,8 @@ title: Stay Here With Me
 type: movie
 site: sa
 url: https://www.sexart.com/model/margot-a-and-mango-a/movie/20140829/STAY_HERE_WITH_ME
-cast: Margot A; https://www.sexart.com/model/margot-a; g:f
-cast: Mango A; https://www.sexart.com/model/mango-a; g:f
+model: n:Margot A; id:/model/sexart/margot-a; u:https://www.sexart.com/model/margot-a; g:f
+model: n:Mango A; id:/model/sexart/mango-a; u:https://www.sexart.com/model/mango-a; g:f
 released: 2014-08-29
 director: Alis Locanta
 rating: 9.4
@@ -3755,7 +3755,7 @@ fileprefix: SexArt-20140829-Stay-Here-With-Me-
 description: As Mango A and Margot A wander the streets of the city two things are immediately obvious: they make a truly striking couple, and they're clearly involved in a joyous romantic relationship. After this set-up, director Alis Locanta spins "Stay," if only briefly, in a different direction. Mango A wakes from a restful night's sleep. The smile on her face tells us the night's activities and subsequent dreams were exceedingly pleasant. But as she opens her eyes she realizes she's alone, and her mood suddenly reflects sadness, loss, and abandonment. This is but a temporary condition, however, as Mango quickly realizes that Margot is in the adjoining room getting dressed and preparing to leave. It only takes a bit of seductive persuasion to coax Margot back into bed, however, and the reunited lovers spend the rest of the morning making love to one another. Margot, as if to atone for her untimely attempted exit, strokes and teases Mango's pussy, kisses and sucks a stiffening nipple, and then slides between her partner's legs where she proceeds to lick her to ecstasy. After reaching a powerful peak of stimulation Mango maneuvers herself into the superior position of a sixty-nine, but Mango hasn't achieved her ultimate orgasm yet and she's soon upright, sitting on Margot's beautiful face, being hungrily eaten until she's overwhelmed by pleasure. At this juncture Mango proceeds to skillfully pleasure Margot, using a flicking tongue and slick, insistent fingers, until a delicious climax is delivered and thoroughly enjoyed. A brief and intriguing epilog adds additional detail to a relationship that is more complex than it first appears, and brings "Stay" to a thought-provoking and satisfying conclusion.
 runtime: 22:44
 executiveProducer: MetArt Films
-directorPhotography: Alis Locanta
+directorOfPhotography: Alis Locanta
 cameraOperator: Duliamo Ergacia
 stillPhotographer: Duliamo Ergacia
 editor: Alis Locanta
@@ -3825,7 +3825,7 @@ title: Diary
 type: movie
 site: sa
 url: https://www.sexart.com/model/michaela-isizzu/movie/20140827/DIARY
-cast: Michaela Isizzu; https://www.sexart.com/model/michaela-isizzu; g:f
+model: n:Michaela Isizzu; id:/model/sexart/michaela-isizzu; u:https://www.sexart.com/model/michaela-isizzu; g:f
 released: 2014-08-27
 director: Andrej Lupin
 rating: 9.5
@@ -3838,7 +3838,7 @@ description: Keeping a journal can be an entertaining, enlightening, and educati
 runtime: 11:15
 executiveProducer: MetArt Films
 producer: Ariel Piper Fawn
-directorPhotography: Andrej Lupin
+directorOfPhotography: Andrej Lupin
 cinematographer: John Humble
 cameraOperator: David Jones
 stillPhotographer: David Jones
@@ -3879,8 +3879,8 @@ title: Que Es La Pasion
 type: movie
 site: sa
 url: https://www.sexart.com/model/amarna-miller-and-juan-lucho/movie/20140824/QUE_ES_LA_PASION
-cast: Amarna Miller; https://www.sexart.com/model/amarna-miller; g:f
-cast: Juan Lucho; https://www.sexart.com/model/juan-lucho; g:m
+model: n:Amarna Miller; id:/model/sexart/amarna-miller; u:https://www.sexart.com/model/amarna-miller; g:f
+model: n:Juan Lucho; id:/model/sexart/juan-lucho; u:https://www.sexart.com/model/juan-lucho; g:m
 released: 2014-08-24
 director: Alis Locanta
 rating: 9.3
@@ -3893,7 +3893,7 @@ description: Spain's Amarna Miller not only stars in "Qué Es La Pasión," she a
 runtime: 19:31
 writer: Amarna Miller, Alis Locanta
 executiveProducer: MetArt Films
-directorPhotography: Alis Locanta
+directorOfPhotography: Alis Locanta
 cameraOperator: Duliamo Ergacia
 stillPhotographer: Duliamo Ergacia
 editor: Alis Locanta
@@ -3937,8 +3937,8 @@ title: Rear Window
 type: movie
 site: sa
 url: https://www.sexart.com/model/whitney-conroy-and-tess-b/movie/20140822/REAR_WINDOW
-cast: Whitney Conroy; https://www.sexart.com/model/whitney-conroy; g:f
-cast: Tess B; https://www.sexart.com/model/tess-b; g:f
+model: n:Whitney Conroy; id:/model/sexart/whitney-conroy; u:https://www.sexart.com/model/whitney-conroy; g:f
+model: n:Tess B; id:/model/sexart/tess-b; u:https://www.sexart.com/model/tess-b; g:f
 released: 2014-08-22
 director: Alis Locanta
 rating: 9.3
@@ -3951,7 +3951,7 @@ description: Alis Locanta's "Rear Window" borrows its title and utilizes a hint 
 runtime: 24:09
 executiveProducer: MetArt Films
 producer: Tony Intropido
-directorPhotography: Alis Locanta
+directorOfPhotography: Alis Locanta
 cameraOperator: Duliamo Ergacia
 stillPhotographer: Duliamo Ergacia
 costumeDesigner: Eva Dividendo
@@ -4015,7 +4015,7 @@ title: Distractions
 type: movie
 site: sa
 url: https://www.sexart.com/model/luna/movie/20140820/DISTRACTIONS
-cast: Luna; https://www.sexart.com/model/luna; g:m
+model: n:Luna; id:/model/sexart/luna; u:https://www.sexart.com/model/luna; g:m
 released: 2014-08-20
 director: Alis Locanta
 rating: 9.3
@@ -4029,7 +4029,7 @@ runtime: 13:04
 writer: Alis Locanta
 executiveProducer: MetArt Films
 producer: Tony Intropido
-directorPhotography: Alis Locanta
+directorOfPhotography: Alis Locanta
 cameraOperator: Jorge Villalobos, Duliamo Ergacia
 stillPhotographer: Duliamo Ergacia
 editor: Alis Locanta
@@ -4077,8 +4077,8 @@ title: Bed of Roses
 type: movie
 site: sa
 url: https://www.sexart.com/model/juan-lucho-and-taissia-a/movie/20140817/BED_OF_ROSES
-cast: Juan Lucho; https://www.sexart.com/model/juan-lucho; g:m
-cast: Taissia A; https://www.sexart.com/model/taissia-a; g:f
+model: n:Juan Lucho; id:/model/sexart/juan-lucho; u:https://www.sexart.com/model/juan-lucho; g:m
+model: n:Taissia A; id:/model/sexart/taissia-a; u:https://www.sexart.com/model/taissia-a; g:f
 released: 2014-08-17
 director: Alis Locanta
 rating: 9.2
@@ -4091,7 +4091,7 @@ description: A romance is a dynamic, ever-changing, constantly evolving relation
 runtime: 20:58
 executiveProducer: MetArt Films
 producer: Estelle Adams
-directorPhotography: Alis Locanta
+directorOfPhotography: Alis Locanta
 cameraOperator: Jorge Villalobos, Duliamo Ergacia
 editor: Alis Locanta
 costumeDesigner: Eva Dividendo
@@ -4142,8 +4142,8 @@ title: Txt Us
 type: movie
 site: sa
 url: https://www.sexart.com/model/silvie-luca-and-tracy-lindsay/movie/20140815/TXT_US
-cast: Silvie Luca; https://www.sexart.com/model/silvie-luca; g:f
-cast: Tracy Lindsay; https://www.sexart.com/model/tracy-lindsay; g:f
+model: n:Silvie Luca; id:/model/sexart/silvie-luca; u:https://www.sexart.com/model/silvie-luca; g:f
+model: n:Tracy Lindsay; id:/model/sexart/tracy-lindsay; u:https://www.sexart.com/model/tracy-lindsay; g:f
 released: 2014-08-15
 director: Alis Locanta
 rating: 9.4
@@ -4156,7 +4156,7 @@ description: In October of 2013 Sexart released Alis Locanta's "Txt Me," a singl
 runtime: 23:16
 executiveProducer: MetArt Films
 producer: Estelle Adams
-directorPhotography: Alis Locanta
+directorOfPhotography: Alis Locanta
 cameraOperator: Jorge Villalobos, Duliamo Ergacia
 editor: Alis Locanta
 costumeDesigner: Eva Dividendo
@@ -4220,7 +4220,7 @@ title: Leaving Home
 type: movie
 site: sa
 url: https://www.sexart.com/model/sapphira-a/movie/20140813/LEAVING_HOME
-cast: Sapphira A; https://www.sexart.com/model/sapphira-a; g:f
+model: n:Sapphira A; id:/model/sexart/sapphira-a; u:https://www.sexart.com/model/sapphira-a; g:f
 released: 2014-08-13
 director: Alis Locanta
 rating: 9.4
@@ -4233,7 +4233,7 @@ description: Sapphira A is among the most popular models on the Metart Network, 
 runtime: 11:26
 executiveProducer: MetArt Films
 producer: Estelle Adams
-directorPhotography: Alis Locanta
+directorOfPhotography: Alis Locanta
 cameraOperator: Jorge Villalobos, Duliamo Ergacia
 editor: Alis Locanta
 costumeDesigner: Eva Dividendo
@@ -4283,8 +4283,8 @@ title: My First
 type: movie
 site: sa
 url: https://www.sexart.com/model/whitney-conroy-and-flora/movie/20140810/MY_FIRST
-cast: Whitney Conroy; https://www.sexart.com/model/whitney-conroy; g:f
-cast: Flora; https://www.sexart.com/model/flora; g:f
+model: n:Whitney Conroy; id:/model/sexart/whitney-conroy; u:https://www.sexart.com/model/whitney-conroy; g:f
+model: n:Flora; id:/model/sexart/flora; u:https://www.sexart.com/model/flora; g:f
 released: 2014-08-10
 director: Alis Locanta
 rating: 9.5
@@ -4297,7 +4297,7 @@ description: Sapphira A is among the most popular models on the Metart Network, 
 runtime: 11:26
 executiveProducer: MetArt Films
 producer: Estelle Adams
-directorPhotography: Alis Locanta
+directorOfPhotography: Alis Locanta
 cameraOperator: Jorge Villalobos, Duliamo Ergacia
 editor: Alis Locanta
 costumeDesigner: Eva Dividendo
@@ -4347,8 +4347,8 @@ title: Pour Toi Mon Amour 2
 type: movie
 site: sa
 url: https://www.sexart.com/model/frida-and-lola-reve/movie/20140808/POUR_TOI_MON_AMOUR_2
-cast: Frida; https://www.sexart.com/model/frida; g:f
-cast: Lola Reve; https://www.sexart.com/model/lola-reve; g:f
+model: n:Frida; id:/model/sexart/frida; u:https://www.sexart.com/model/frida; g:f
+model: n:Lola Reve; id:/model/sexart/lola-reve; u:https://www.sexart.com/model/lola-reve; g:f
 released: 2014-08-08
 director: Alis Locanta
 rating: 9.4
@@ -4361,7 +4361,7 @@ description: French has long been considered the international "language of love
 runtime: 21:15
 executiveProducer: MetArt Films
 producer: Estelle Adams
-directorPhotography: Alis Locanta
+directorOfPhotography: Alis Locanta
 cameraOperator: Jorge Villalobos, Duliamo Ergacia
 stillPhotographer: Duliamo Ergacia
 editor: Alis Locanta
@@ -4428,7 +4428,7 @@ title: Blowing In The Wind
 type: movie
 site: sa
 url: https://www.sexart.com/model/sophie-lynx/movie/20140806/BLOWING_IN_THE_WIND
-cast: Sophie Lynx; https://www.sexart.com/model/sophie-lynx; g:f
+model: n:Sophie Lynx; id:/model/sexart/sophie-lynx; u:https://www.sexart.com/model/sophie-lynx; g:f
 released: 2014-08-06
 director: Alis Locanta
 rating: 9.2
@@ -4440,7 +4440,7 @@ description: Alis Locanta's "Blowing in the Wind" begins on a somewhat somber, i
 runtime: 13:09
 executiveProducer: MetArt Films
 producer: Estelle Adams
-directorPhotography: Alis Locanta
+directorOfPhotography: Alis Locanta
 cameraOperator: Duliamo Ergacia, Jorge Villalobos
 stillPhotographer: Duliamo Ergacia
 editor: Alis Locanta
@@ -4494,9 +4494,9 @@ title: Waltz With Me - Summer
 type: movie
 site: sa
 url: https://www.sexart.com/model/alexis-brill-and-juan-lucho-and-franck-franco/movie/20140803/WALTZ_WITH_ME_-_SUMMER
-cast: Alexis Brill; https://www.sexart.com/model/alexis-brill; g:f
-cast: Juan Lucho; https://www.sexart.com/model/juan-lucho; g:m
-cast: Franck Franco; https://www.sexart.com/model/franck-franco; g:m
+model: n:Alexis Brill; id:/model/sexart/alexis-brill; u:https://www.sexart.com/model/alexis-brill; g:f
+model: n:Juan Lucho; id:/model/sexart/juan-lucho; u:https://www.sexart.com/model/juan-lucho; g:m
+model: n:Franck Franco; id:/model/sexart/franck-franco; u:https://www.sexart.com/model/franck-franco; g:m
 released: 2014-08-03
 director: Alis Locanta
 rating: 9.2
@@ -4509,7 +4509,7 @@ description: With its circular, seasonal narrative, and its signature cinematic 
 runtime: 12:32
 executiveProducer: MetArt Films
 producer: Tony Intropido
-directorPhotography: Alis Locanta
+directorOfPhotography: Alis Locanta
 cameraOperator: Jorge Villalobos, Duliamo Ergacia
 stillPhotographer: Duliamo Ergacia
 editor: Alis Locanta
@@ -4560,8 +4560,8 @@ title: Flashback
 type: movie
 site: sa
 url: https://www.sexart.com/model/iwia-a-and-chelsea-sun/movie/20140801/FLASHBACK
-cast: Iwia A; https://www.sexart.com/model/iwia-a; g:f
-cast: Chelsea Sun; https://www.sexart.com/model/chelsea-sun; g:f
+model: n:Iwia A; id:/model/sexart/iwia-a; u:https://www.sexart.com/model/iwia-a; g:f
+model: n:Chelsea Sun; id:/model/sexart/chelsea-sun; u:https://www.sexart.com/model/chelsea-sun; g:f
 released: 2014-08-01
 director: Andrej Lupin
 rating: 9.4
@@ -4574,7 +4574,7 @@ description: It's a dark, wet, and dreary afternoon. A young woman — Iwia A �
 runtime: 21:35
 executiveProducer: MetArt Films
 producer: Ariel Piper Fawn
-directorPhotography: Andrej Lupin
+directorOfPhotography: Andrej Lupin
 cinematographer: John Humble
 cameraOperator: David Jones
 stillPhotographer: David Jones
@@ -4636,7 +4636,7 @@ title: Just For You
 type: movie
 site: sa
 url: https://www.sexart.com/model/michaela-isizzu/movie/20140730/JUST_FOR_YOU
-cast: Michaela Isizzu; https://www.sexart.com/model/michaela-isizzu; g:f
+model: n:Michaela Isizzu; id:/model/sexart/michaela-isizzu; u:https://www.sexart.com/model/michaela-isizzu; g:f
 released: 2014-07-30
 director: Andrej Lupin
 rating: 9.6
@@ -4649,7 +4649,7 @@ description: As one of the most popular and highly rated models at Sexart — sh
 runtime: 11:00
 executiveProducer: MetArt Films
 producer: Ariel Piper Fawn
-directorPhotography: Andrej Lupin
+directorOfPhotography: Andrej Lupin
 cinematographer: John Humble, David Jones
 cameraOperator: David Jones
 editor: Andrej Lupin, Adele Hollis
@@ -4694,11 +4694,11 @@ title: Waltz With Me - Spring
 type: movie
 site: sa
 url: https://www.sexart.com/model/alexis-brill-and-juan-lucho-and-taylor-sands-and-amarna-miller-and-franck-franco/movie/20140727/WALTZ_WITH_ME_-_SPRING
-cast: Alexis Brill; https://www.sexart.com/model/alexis-brill; g:f
-cast: Juan Lucho; https://www.sexart.com/model/juan-lucho; g:m
-cast: Taylor Sands; https://www.sexart.com/model/taylor-sands; g:f
-cast: Amarna Miller; https://www.sexart.com/model/amarna-miller; g:f
-cast: Franck Franco; https://www.sexart.com/model/franck-franco; g:m
+model: n:Alexis Brill; id:/model/sexart/alexis-brill; u:https://www.sexart.com/model/alexis-brill; g:f
+model: n:Juan Lucho; id:/model/sexart/juan-lucho; u:https://www.sexart.com/model/juan-lucho; g:m
+model: n:Taylor Sands; id:/model/sexart/taylor-sands; u:https://www.sexart.com/model/taylor-sands; g:f
+model: n:Amarna Miller; id:/model/sexart/amarna-miller; u:https://www.sexart.com/model/amarna-miller; g:f
+model: n:Franck Franco; id:/model/sexart/franck-franco; u:https://www.sexart.com/model/franck-franco; g:m
 released: 2014-07-27
 director: Alis Locanta
 rating: 9.2
@@ -4710,7 +4710,7 @@ description: Time passes, relationships evolve, and Alis Locanta's latest series
 runtime: 14:12
 executiveProducer: MetArt Films
 producer: Estelle Adams
-directorPhotography: Alis Locanta
+directorOfPhotography: Alis Locanta
 cameraOperator: Duliamo Ergacia, Jorge Villalobos
 stillPhotographer: Duliamo Ergacia
 editor: Alis Locanta
@@ -4777,8 +4777,8 @@ title: Summer Day
 type: movie
 site: sa
 url: https://www.sexart.com/model/lucy-li-and-suzie-carina/movie/20140725/SUMMER_DAY
-cast: Lucy Li; https://www.sexart.com/model/lucy-li; g:f
-cast: Suzie Carina; https://www.sexart.com/model/suzie-carina; g:f
+model: n:Lucy Li; id:/model/sexart/lucy-li; u:https://www.sexart.com/model/lucy-li; g:f
+model: n:Suzie Carina; id:/model/sexart/suzie-carina; u:https://www.sexart.com/model/suzie-carina; g:f
 released: 2014-07-25
 director: Andrej Lupin
 rating: 9.4
@@ -4792,7 +4792,7 @@ description: With a light and lilting samba on the soundtrack setting the tone, 
 runtime: 26:55
 executiveProducer: MetArt Films
 producer: Ariel Piper Fawn
-directorPhotography: Andrej Lupin
+directorOfPhotography: Andrej Lupin
 cinematographer: John Humble
 cameraOperator: David Jones
 stillPhotographer: David Jones
@@ -4857,7 +4857,7 @@ title: 123 Fahrenheit
 type: movie
 site: sa
 url: https://www.sexart.com/model/melena-a/movie/20140723/123_FAHRENHEIT
-cast: Melena A; https://www.sexart.com/model/melena-a; g:f
+model: n:Melena A; id:/model/sexart/melena-a; u:https://www.sexart.com/model/melena-a; g:f
 released: 2014-07-23
 director: Alis Locanta
 rating: 9.5
@@ -4870,7 +4870,7 @@ description: Melena A is the stuff Top Models are made of. As this is written sh
 runtime: 15:54
 executiveProducer: MetArt Films
 producer: Estelle Adams
-directorPhotography: Alis Locanta
+directorOfPhotography: Alis Locanta
 cameraOperator: Jorge Villalobos, Duliamo Ergacia
 stillPhotographer: Duliamo Ergacia
 editor: Alis Locanta
@@ -4920,11 +4920,11 @@ title: Waltz With Me - Winter
 type: movie
 site: sa
 url: https://www.sexart.com/model/franck-franco-and-alexis-brill-and-juan-lucho-and-amarna-miller-and-taylor-sands/movie/20140720/WALTZ_WITH_ME_-_WINTER
-cast: Franck Franco; https://www.sexart.com/model/franck-franco; g:m
-cast: Alexis Brill; https://www.sexart.com/model/alexis-brill; g:f
-cast: Juan Lucho; https://www.sexart.com/model/juan-lucho; g:m
-cast: Amarna Miller; https://www.sexart.com/model/amarna-miller; g:f
-cast: Taylor Sands; https://www.sexart.com/model/taylor-sands; g:f
+model: n:Franck Franco; id:/model/sexart/franck-franco; u:https://www.sexart.com/model/franck-franco; g:m
+model: n:Alexis Brill; id:/model/sexart/alexis-brill; u:https://www.sexart.com/model/alexis-brill; g:f
+model: n:Juan Lucho; id:/model/sexart/juan-lucho; u:https://www.sexart.com/model/juan-lucho; g:m
+model: n:Amarna Miller; id:/model/sexart/amarna-miller; u:https://www.sexart.com/model/amarna-miller; g:f
+model: n:Taylor Sands; id:/model/sexart/taylor-sands; u:https://www.sexart.com/model/taylor-sands; g:f
 released: 2014-07-20
 director: Alis Locanta
 rating: 9.1
@@ -4938,7 +4938,7 @@ runtime: 17:15
 writer: Alan Russell, Alis Locanta
 executiveProducer: MetArt Films
 producer: Estelle Adams
-directorPhotography: Alis Locanta
+directorOfPhotography: Alis Locanta
 cameraOperator: Jorge Villalobos, Duliamo Ergacia
 stillPhotographer: Duliamo Ergacia
 editor: Alis Locanta
@@ -5003,9 +5003,9 @@ title: Haute Couture - Black & White
 type: movie
 site: sa
 url: https://www.sexart.com/model/mango-a-and-margot-a-and-alyssa-reece/movie/20140718/HAUTE_COUTURE_-_BLACK_&_WHITE
-cast: Mango A; https://www.sexart.com/model/mango-a; g:f
-cast: Margot A; https://www.sexart.com/model/margot-a; g:f
-cast: Alyssa Reece; https://www.sexart.com/model/alyssa-reece; g:f
+model: n:Mango A; id:/model/sexart/mango-a; u:https://www.sexart.com/model/mango-a; g:f
+model: n:Margot A; id:/model/sexart/margot-a; u:https://www.sexart.com/model/margot-a; g:f
+model: n:Alyssa Reece; id:/model/sexart/alyssa-reece; u:https://www.sexart.com/model/alyssa-reece; g:f
 released: 2014-07-18
 director: Alis Locanta
 rating: 9.4
@@ -5020,7 +5020,7 @@ runtime: 19:57
 writer: Alis Locanta
 executiveProducer: MetArt Films
 producer: Estelle Adams
-directorPhotography: Alis Locanta
+directorOfPhotography: Alis Locanta
 cameraOperator: Duliamo Ergacia, Jorge Villalobos
 stillPhotographer: Duliamo Ergacia
 editor: Alis Locanta
@@ -5087,7 +5087,7 @@ title: Se Telefonando
 type: movie
 site: sa
 url: https://www.sexart.com/model/luna/movie/20140716/SE_TELEFONANDO
-cast: Luna; https://www.sexart.com/model/luna; g:m
+model: n:Luna; id:/model/sexart/luna; u:https://www.sexart.com/model/luna; g:m
 released: 2014-07-16
 director: Alis Locanta
 rating: 9.1
@@ -5100,7 +5100,7 @@ description: Due to a minor miscommunication in post production, the sequel to A
 runtime: 14:27
 executiveProducer: MetArt Films
 producer: Estelle Adams
-directorPhotography: Alis Locanta
+directorOfPhotography: Alis Locanta
 cameraOperator: Duliamo Ergacia, Jorge Villalobos
 stillPhotographer: Duliamo Ergacia
 editor: Alis Locanta
@@ -5147,11 +5147,11 @@ title: Waltz With Me - Autumn
 type: movie
 site: sa
 url: https://www.sexart.com/model/juan-lucho-and-amarna-miller-and-taylor-sands-and-alexis-brill-and-franck-franco/movie/20140713/WALTZ_WITH_ME_-_AUTUMN
-cast: Juan Lucho; https://www.sexart.com/model/juan-lucho; g:m
-cast: Amarna Miller; https://www.sexart.com/model/amarna-miller; g:f
-cast: Taylor Sands; https://www.sexart.com/model/taylor-sands; g:f
-cast: Alexis Brill; https://www.sexart.com/model/alexis-brill; g:f
-cast: Franck Franco; https://www.sexart.com/model/franck-franco; g:m
+model: n:Juan Lucho; id:/model/sexart/juan-lucho; u:https://www.sexart.com/model/juan-lucho; g:m
+model: n:Amarna Miller; id:/model/sexart/amarna-miller; u:https://www.sexart.com/model/amarna-miller; g:f
+model: n:Taylor Sands; id:/model/sexart/taylor-sands; u:https://www.sexart.com/model/taylor-sands; g:f
+model: n:Alexis Brill; id:/model/sexart/alexis-brill; u:https://www.sexart.com/model/alexis-brill; g:f
+model: n:Franck Franco; id:/model/sexart/franck-franco; u:https://www.sexart.com/model/franck-franco; g:m
 released: 2014-07-13
 director: Alis Locanta
 rating: 9.2
@@ -5164,7 +5164,7 @@ description: Alis Locanta, in collaboration with scenarist Alan Russell, utilize
 runtime: 15:35
 executiveProducer: MetArt Films
 producer: Estelle Adams
-directorPhotography: Alis Locanta
+directorOfPhotography: Alis Locanta
 cameraOperator: Jorge Villalobos, Duliamo Ergacia
 stillPhotographer: Duliamo Ergacia
 editor: Alis Locanta
@@ -5230,8 +5230,8 @@ title: Back Home
 type: movie
 site: sa
 url: https://www.sexart.com/model/julia-roca-and-taylor-sands/movie/20140711/BACK_HOME
-cast: Julia Roca; https://www.sexart.com/model/julia-roca; g:f
-cast: Taylor Sands; https://www.sexart.com/model/taylor-sands; g:f
+model: n:Julia Roca; id:/model/sexart/julia-roca; u:https://www.sexart.com/model/julia-roca; g:f
+model: n:Taylor Sands; id:/model/sexart/taylor-sands; u:https://www.sexart.com/model/taylor-sands; g:f
 released: 2014-07-11
 director: Alis Locanta
 rating: 9.3
@@ -5244,7 +5244,7 @@ description: After an unexplained absence — perhaps as the result of an argume
 runtime: 19:46
 executiveProducer: MetArt Films
 producer: Estelle Adams
-directorPhotography: Alis Locanta
+directorOfPhotography: Alis Locanta
 cameraOperator: Jorge Villalobos, Duliamo Ergacia
 stillPhotographer: Duliamo Ergacia
 editor: Alis Locanta
@@ -5307,7 +5307,7 @@ title: Haute Couture - Yellow
 type: movie
 site: sa
 url: https://www.sexart.com/model/alyssa-reece/movie/20140709/HAUTE_COUTURE_-_YELLOW
-cast: Alyssa Reece; https://www.sexart.com/model/alyssa-reece; g:f
+model: n:Alyssa Reece; id:/model/sexart/alyssa-reece; u:https://www.sexart.com/model/alyssa-reece; g:f
 released: 2014-07-09
 director: Alis Locanta
 rating: 9.0
@@ -5320,7 +5320,7 @@ description: Fans of Alis Locanta's fashion-centric "Haute Couture" series recei
 runtime: 14:47
 executiveProducer: MetArt Films
 producer: Estelle Adams
-directorPhotography: Alis Locanta
+directorOfPhotography: Alis Locanta
 cameraOperator: Jorge Villalobos, Duliamo Ergacia
 editor: Alis Locanta
 costumeDesigner: Eva Dividendo
@@ -5375,8 +5375,8 @@ title: Just A Minute
 type: movie
 site: sa
 url: https://www.sexart.com/model/thomas-lee-and-silvie-deluxe/movie/20140706/JUST_A_MINUTE
-cast: Thomas Lee; https://www.sexart.com/model/thomas-lee; g:m
-cast: Silvie Deluxe; https://www.sexart.com/model/silvie-deluxe; g:f
+model: n:Thomas Lee; id:/model/sexart/thomas-lee; u:https://www.sexart.com/model/thomas-lee; g:m
+model: n:Silvie Deluxe; id:/model/sexart/silvie-deluxe; u:https://www.sexart.com/model/silvie-deluxe; g:f
 released: 2014-07-06
 director: Andrej Lupin
 rating: 9.4
@@ -5389,7 +5389,7 @@ description: With "Just a Minute," director Andrej Lupin has crafted a lively, n
 runtime: 20:21
 executiveProducer: MetArt Films
 producer: Ariel Piper Fawn
-directorPhotography: Andrej Lupin
+directorOfPhotography: Andrej Lupin
 cinematographer: John Humble
 cameraOperator: David Jones
 stillPhotographer: David Jones
@@ -5446,8 +5446,8 @@ title: The Heat 2
 type: movie
 site: sa
 url: https://www.sexart.com/model/tania-g-and-lola-reve/movie/20140704/THE_HEAT_2
-cast: Tania G; https://www.sexart.com/model/tania-g; g:f
-cast: Lola Reve; https://www.sexart.com/model/lola-reve; g:f
+model: n:Tania G; id:/model/sexart/tania-g; u:https://www.sexart.com/model/tania-g; g:f
+model: n:Lola Reve; id:/model/sexart/lola-reve; u:https://www.sexart.com/model/lola-reve; g:f
 released: 2014-07-04
 director: Alis Locanta
 rating: 9.2
@@ -5460,7 +5460,7 @@ description: Atmosphere, attitude, and animal attraction — along with an intri
 runtime: 23:22
 executiveProducer: MetArt Films
 producer: Estelle Adams
-directorPhotography: Alis Locanta
+directorOfPhotography: Alis Locanta
 cameraOperator: Duliamo Ergacia, Jorge Villalobos
 editor: Alis Locanta
 costumeDesigner: Eva Dividendo
@@ -5531,7 +5531,7 @@ title: Haute Couture - Pink
 type: movie
 site: sa
 url: https://www.sexart.com/model/margot-a/movie/20140702/HAUTE_COUTURE_-_PINK
-cast: Margot A; https://www.sexart.com/model/margot-a; g:f
+model: n:Margot A; id:/model/sexart/margot-a; u:https://www.sexart.com/model/margot-a; g:f
 released: 2014-07-02
 director: Alis Locanta
 rating: 9.2
@@ -5544,7 +5544,7 @@ description: The second installment of Alis Locanta's fashion-themed mini-series
 runtime: 12:48
 executiveProducer: MetArt Films
 producer: Estelle Adams
-directorPhotography: Alis Locanta
+directorOfPhotography: Alis Locanta
 cameraOperator: Duliamo Ergacia, Jorge Villalobos
 stillPhotographer: Duliamo Ergacia
 editor: Alis Locanta
@@ -5603,8 +5603,8 @@ title: With Love
 type: movie
 site: sa
 url: https://www.sexart.com/model/lucy-li-and-william-zeff/movie/20140629/WITH_LOVE
-cast: Lucy Li; https://www.sexart.com/model/lucy-li; g:f
-cast: William Zeff; https://www.sexart.com/model/william-zeff; g:m
+model: n:Lucy Li; id:/model/sexart/lucy-li; u:https://www.sexart.com/model/lucy-li; g:f
+model: n:William Zeff; id:/model/sexart/william-zeff; u:https://www.sexart.com/model/william-zeff; g:m
 released: 2014-06-29
 director: Andrej Lupin
 rating: 9.1
@@ -5617,7 +5617,7 @@ description: Intimacy and sincerity are two of the key ingredients in Andrej Lup
 runtime: 23:50
 executiveProducer: MetArt Films
 producer: Ariel Piper Fawn
-directorPhotography: Andrej Lupin
+directorOfPhotography: Andrej Lupin
 cinematographer: John Humble
 cameraOperator: David Jones
 stillPhotographer: David Jones
@@ -5673,8 +5673,8 @@ title: On The Sly
 type: movie
 site: sa
 url: https://www.sexart.com/model/rosaline-rosa-and-vanda-lust/movie/20140627/ON_THE_SLY
-cast: Rosaline Rosa; https://www.sexart.com/model/rosaline-rosa; g:f
-cast: Vanda Lust; https://www.sexart.com/model/vanda-lust; g:f
+model: n:Rosaline Rosa; id:/model/sexart/rosaline-rosa; u:https://www.sexart.com/model/rosaline-rosa; g:f
+model: n:Vanda Lust; id:/model/sexart/vanda-lust; u:https://www.sexart.com/model/vanda-lust; g:f
 released: 2014-06-27
 director: Andrej Lupin
 rating: 9.1
@@ -5687,7 +5687,7 @@ description: It's late on a beautiful, breezy night. Blonde Vanda Lust and her d
 runtime: 20:39
 executiveProducer: MetArt Films
 producer: Ariel Piper Fawn
-directorPhotography: Andrej Lupin
+directorOfPhotography: Andrej Lupin
 cinematographer: John Humble
 cameraOperator: David Jones
 stillPhotographer: David Jones
@@ -5753,7 +5753,7 @@ title: Haute Couture - Baby Blue
 type: movie
 site: sa
 url: https://www.sexart.com/model/mango-a/movie/20140625/HAUTE_COUTURE_-_BABY_BLUE
-cast: Mango A; https://www.sexart.com/model/mango-a; g:f
+model: n:Mango A; id:/model/sexart/mango-a; u:https://www.sexart.com/model/mango-a; g:f
 released: 2014-06-25
 director: Alis Locanta
 rating: 9.5
@@ -5766,7 +5766,7 @@ description: Anyone who has ever indulged in a fantasy about a fashion model wil
 runtime: 16:07
 executiveProducer: MetArt Films
 producer: Estelle Adams
-directorPhotography: Alis Locanta
+directorOfPhotography: Alis Locanta
 cameraOperator: Duliamo Ergacia, Jorge Villalobos
 stillPhotographer: Duliamo Ergacia
 editor: Alis Locanta
@@ -5820,8 +5820,8 @@ title: Lubricous
 type: movie
 site: sa
 url: https://www.sexart.com/model/katy-rose-and-lutro/movie/20140622/LUBRICOUS
-cast: Katy Rose; https://www.sexart.com/model/katy-rose; g:f
-cast: Lutro; https://www.sexart.com/model/lutro; g:m
+model: n:Katy Rose; id:/model/sexart/katy-rose; u:https://www.sexart.com/model/katy-rose; g:f
+model: n:Lutro; id:/model/sexart/lutro; u:https://www.sexart.com/model/lutro; g:m
 released: 2014-06-22
 director: Andrej Lupin
 rating: 9.1
@@ -5834,7 +5834,7 @@ description: A broad spectrum of pleasures — tactile, physical, emotional, vis
 runtime: 21:24
 executiveProducer: MetArt Films
 producer: Ariel Piper Fawn
-directorPhotography: Andrej Lupin
+directorOfPhotography: Andrej Lupin
 cinematographer: John Humble
 stillPhotographer: David Jones
 editor: Andrej Lupin, Adele Hollis
@@ -5883,8 +5883,8 @@ title: Blind Date
 type: movie
 site: sa
 url: https://www.sexart.com/model/alyssa-reece-and-margot-a/movie/20140620/BLIND_DATE
-cast: Alyssa Reece; https://www.sexart.com/model/alyssa-reece; g:f
-cast: Margot A; https://www.sexart.com/model/margot-a; g:f
+model: n:Alyssa Reece; id:/model/sexart/alyssa-reece; u:https://www.sexart.com/model/alyssa-reece; g:f
+model: n:Margot A; id:/model/sexart/margot-a; u:https://www.sexart.com/model/margot-a; g:f
 released: 2014-06-20
 director: Alis Locanta
 rating: 9.3
@@ -5897,7 +5897,7 @@ description: Their romance has been growing more and more powerful over time. Th
 runtime: 18:35
 executiveProducer: MetArt Films
 producer: Estelle Adams
-directorPhotography: Alis Locanta
+directorOfPhotography: Alis Locanta
 cameraOperator: Jorge Villalobos, Duliamo Ergacia
 stillPhotographer: Duliamo Ergacia
 editor: Alis Locanta
@@ -5969,7 +5969,7 @@ title: I Can't Wait
 type: movie
 site: sa
 url: https://www.sexart.com/model/sapphira-a/movie/20140618/I_CAN_T_WAIT
-cast: Sapphira A; https://www.sexart.com/model/sapphira-a; g:f
+model: n:Sapphira A; id:/model/sexart/sapphira-a; u:https://www.sexart.com/model/sapphira-a; g:f
 released: 2014-06-18
 director: Andrej Lupin
 rating: 9.3
@@ -5982,7 +5982,7 @@ description: Sapphira has been looking forward to this night with eager anticipa
 runtime: 13:54
 executiveProducer: MetArt Films
 producer: Ariel Piper Fawn
-directorPhotography: Andrej Lupin
+directorOfPhotography: Andrej Lupin
 cinematographer: John Humble
 stillPhotographer: David Jones
 editor: Adele Hollis, Andrej Lupin
@@ -6023,8 +6023,8 @@ title: Casting
 type: movie
 site: sa
 url: https://www.sexart.com/model/faube-cox-and-isabella-amor/movie/20140615/CASTING
-cast: Faube Cox; https://www.sexart.com/model/faube-cox; g:m
-cast: Isabella Amor; https://www.sexart.com/model/isabella-amor; g:f
+model: n:Faube Cox; id:/model/sexart/faube-cox; u:https://www.sexart.com/model/faube-cox; g:m
+model: n:Isabella Amor; id:/model/sexart/isabella-amor; u:https://www.sexart.com/model/isabella-amor; g:f
 released: 2014-06-15
 director: Andrej Lupin
 rating: 8.9
@@ -6037,7 +6037,7 @@ description: In her first ever appearance in a Sexart erotic movie, Isabella Amo
 runtime: 25:27
 executiveProducer: MetArt Films
 producer: Ariel Piper Fawn
-directorPhotography: Andrej Lupin
+directorOfPhotography: Andrej Lupin
 cinematographer: John Humble
 stillPhotographer: David Jones
 editor: Adele Hollis, Andrej Lupin
@@ -6083,8 +6083,8 @@ title: Cafe
 type: movie
 site: sa
 url: https://www.sexart.com/model/sabrina-moor-and-ivana-sugar/movie/20140613/CAFE
-cast: Sabrina Moor; https://www.sexart.com/model/sabrina-moor; g:f
-cast: Ivana Sugar; https://www.sexart.com/model/ivana-sugar; g:f
+model: n:Sabrina Moor; id:/model/sexart/sabrina-moor; u:https://www.sexart.com/model/sabrina-moor; g:f
+model: n:Ivana Sugar; id:/model/sexart/ivana-sugar; u:https://www.sexart.com/model/ivana-sugar; g:f
 released: 2014-06-13
 director: Andrej Lupin
 rating: 9.4
@@ -6097,7 +6097,7 @@ description: When Ivana Sugar arrives at an outdoor café on a sunny afternoon t
 runtime: 24:54
 executiveProducer: MetArt Films
 producer: Ariel Piper Fawn
-directorPhotography: Andrej Lupin
+directorOfPhotography: Andrej Lupin
 cinematographer: John Humble
 stillPhotographer: David Jones
 editor: Adele Hollis, Andrej Lupin
@@ -6160,7 +6160,7 @@ title: Eva 18
 type: movie
 site: sa
 url: https://www.sexart.com/model/eva-alegra/movie/20140611/EVA_18
-cast: Eva Alegra; https://www.sexart.com/model/eva-alegra; g:f
+model: n:Eva Alegra; id:/model/sexart/eva-alegra; u:https://www.sexart.com/model/eva-alegra; g:f
 released: 2014-06-11
 director: Alis Locanta
 rating: 9.2
@@ -6173,7 +6173,7 @@ description: Among his many talents, Sexart's Alis Locanta has earned a reputati
 runtime: 12:39
 executiveProducer: MetArt Films
 producer: Estelle Adams
-directorPhotography: Alis Locanta
+directorOfPhotography: Alis Locanta
 cameraOperator: Jorge Villalobos, Duliamo Ergacia
 stillPhotographer: Duliamo Ergacia
 editor: Alis Locanta
@@ -6213,8 +6213,8 @@ title: At The Right Time
 type: movie
 site: sa
 url: https://www.sexart.com/model/lutro-and-jenny-simons/movie/20140608/AT_THE_RIGHT_TIME
-cast: Lutro; https://www.sexart.com/model/lutro; g:m
-cast: Jenny Simons; https://www.sexart.com/model/jenny-simons; g:f
+model: n:Lutro; id:/model/sexart/lutro; u:https://www.sexart.com/model/lutro; g:m
+model: n:Jenny Simons; id:/model/sexart/jenny-simons; u:https://www.sexart.com/model/jenny-simons; g:f
 released: 2014-06-08
 director: Andrej Lupin
 rating: 8.9
@@ -6227,7 +6227,7 @@ description: The subtitle of the latest offering in Andrej Lupin's stylish and n
 runtime: 20:01
 executiveProducer: MetArt Films
 producer: Ariel Piper Fawn
-directorPhotography: Andrej Lupin
+directorOfPhotography: Andrej Lupin
 cinematographer: John Humble
 stillPhotographer: David Jones
 editor: Adele Hollis, Andrej Lupin
@@ -6282,8 +6282,8 @@ title: Heart of Darkness
 type: movie
 site: sa
 url: https://www.sexart.com/model/miela-a-and-jenny-appach/movie/20140606/HEART_OF_DARKNESS
-cast: Miela A; https://www.sexart.com/model/miela-a; g:f
-cast: Jenny Appach; https://www.sexart.com/model/jenny-appach; g:f
+model: n:Miela A; id:/model/sexart/miela-a; u:https://www.sexart.com/model/miela-a; g:f
+model: n:Jenny Appach; id:/model/sexart/jenny-appach; u:https://www.sexart.com/model/jenny-appach; g:f
 released: 2014-06-06
 director: Alis Locanta
 rating: 9.1
@@ -6295,7 +6295,7 @@ fileprefix: SexArt-20140606-Heart-of-Darkness-
 description: The title of this appetizing offering from Sexart director Alis Locanta refers to the setting — a dark room illuminated by a single lamp high above the action — and not something sinister, apocalyptic, or at all Conradian. With a ritualistic flourish Jenny Appach plates her sushi dinner. But the platter she carefully places each morsel upon isn't made of wood or ceramic, it's Miela A's gloriously nude body. After enjoying a savory snack Appach proceeds to the main course — she removes her panties, climbs up onto the table, straddles Miela, and the tempting twosome proceed to enjoy the textures, flavors, and erotic stimulation of a brief bout of sixty-nine. The two beauties then get serious about getting off as they masturbate, face to face. "Heart of Darkness" heads to its conclusion with Appach face-down on the glass table top, a pair of chopsticks clenched in her moaning mouth, as Miela fingers her from behind to a final, satisfying, climax. More of a hot and savory appetizer than an elaborate entrée, "Heart of Darkness" gives steamy and stylish new meaning to the term "dinner and a movie."
 runtime: 10:26
 producer: Estelle Adams
-directorPhotography: Alis Locanta
+directorOfPhotography: Alis Locanta
 cameraOperator: Jorge Villalobos, Duliamo Ergacia
 editor: Alis Locanta
 costumeDesigner: Eva Dividendo
@@ -6341,7 +6341,7 @@ title: Girls Love Sex - Dreams
 type: movie
 site: sa
 url: https://www.sexart.com/model/silvie-luca/movie/20140604/GIRLS_LOVE_SEX_-_DREAMS
-cast: Silvie Luca; https://www.sexart.com/model/silvie-luca; g:f
+model: n:Silvie Luca; id:/model/sexart/silvie-luca; u:https://www.sexart.com/model/silvie-luca; g:f
 released: 2014-06-04
 director: Alis Locanta
 rating: 8.9
@@ -6353,7 +6353,7 @@ fileprefix: SexArt-20140604-Girls-Love-Sex--Dreams-
 description: Created by the late, great erotic artist Zalman King in the early days of Sexart, the intimate interview series "Girls Love Sex" has been lovingly revived by Alis Locanta with the addition of "International" to the title. Czech erotic model Silvie Luca is the interview subject of this episode, titled "Girls Love Sex — Dreams." After eagerly and enthusiastically providing personal and professional details to an off-camera interviewer, the long-limbed brunette recounts, in considerable detail, a powerful erotic dream she's recently experienced. In recounting the dream — which finds her participating in a threesome with two men in the bathroom of a crowded nightclub, as well as a profoundly orgasmic and spiritually satisfying encounter with a lover she's become obsessed with — Silvie works herself into such a state that she abruptly ends the interview. What follows is a completely uninhibited, utterly unselfconscious session of exquisitely intense, multi-finger masturbation. With images of her wild somnolent imaginings dancing in her head, and her fingers deftly manipulating her thick nipples and luscious pussy, Silvie eventually induces an orgasm that is prolonged, vocal, and so satisfying that she beams with ecstasy in the afterglow. A particularly pretty girl and her most intimate desires are fully revealed in "Girls Love Sex — Dreams." For lovers of beautiful, single-girl erotic cinema, it's a dream come true.
 runtime: 18:22
 producer: Estelle Adams
-directorPhotography: Alis Locanta
+directorOfPhotography: Alis Locanta
 cameraOperator: Duliamo Ergacia, Jorge Villalobos
 stillPhotographer: Duliamo Ergacia
 editor: Alis Locanta
@@ -6394,8 +6394,8 @@ title: Possessione
 type: movie
 site: sa
 url: https://www.sexart.com/model/franck-franco-and-taissia-a/movie/20140601/POSSESSIONE
-cast: Franck Franco; https://www.sexart.com/model/franck-franco; g:m
-cast: Taissia A; https://www.sexart.com/model/taissia-a; g:f
+model: n:Franck Franco; id:/model/sexart/franck-franco; u:https://www.sexart.com/model/franck-franco; g:m
+model: n:Taissia A; id:/model/sexart/taissia-a; u:https://www.sexart.com/model/taissia-a; g:f
 released: 2014-06-01
 director: Alis Locanta
 rating: 9.2
@@ -6407,7 +6407,7 @@ fileprefix: SexArt-20140601-Possessione-
 description: It shouldn't come as a surprise that, in a film about sex-play, director Alis Locanta plays a game or two with the viewer and his or her expectations. He begins "Possessione" with an engaging bit of tease as long-haired and flirtatious Taissia A (making her Sexart film debut) dances provocatively during the title sequence. But this isn't simply tease, the artist is also telegraphing a subtle clue. Next he drops in a sinister bit of foreshadowing as the camera follows grim and intent Franck Franco down hallways and into a room containing a surprise. Another cut and it's a beautiful, sunshiny day and two lovers — Taissia and Franck — stroll, flirt, and kiss without a care in the world. "Possessione" then details a night of kink that boasts elements of dominance, submission, bondage, and domination that's shot through with passion and enwrapped in romance. On the surface, this is a dominance scenario, but why is the lover so delighted with her position? And why is the master so intent on pleasing her, rather than satisfying his own selfish needs? That's another skillful bit of Locanta's subtle gamesmanship — he uses the conventions of kink to reveal the entirely wholesome and inspiring romantic bond this loving couple share. Who's in control? Franck as he fingers bound and helpless Taissia's pussy? Or Taissia when she sucks Franck's cock and licks his balls? And what about the sizzling multi-position fuck that follows? Viewers with an interest in the unconventional are urged to submit to "Possessione." No safe word required.
 runtime: 26:48
 executiveProducer: MetArt Films
-directorPhotography: Alis Locanta
+directorOfPhotography: Alis Locanta
 cameraOperator: Duliamo Ergacia
 stillPhotographer: Duliamo Ergacia
 editor: Alis Locanta
@@ -6458,8 +6458,8 @@ title: Taylor and Sophie
 type: movie
 site: sa
 url: https://www.sexart.com/model/taylor-sands-and-sophie-lynx/movie/20140530/TAYLOR_AND_SOPHIE
-cast: Taylor Sands; https://www.sexart.com/model/taylor-sands; g:f
-cast: Sophie Lynx; https://www.sexart.com/model/sophie-lynx; g:f
+model: n:Taylor Sands; id:/model/sexart/taylor-sands; u:https://www.sexart.com/model/taylor-sands; g:f
+model: n:Sophie Lynx; id:/model/sexart/sophie-lynx; u:https://www.sexart.com/model/sophie-lynx; g:f
 released: 2014-05-30
 director: Alis Locanta
 rating: 9.2
@@ -6471,7 +6471,7 @@ fileprefix: SexArt-20140530-Taylor-and-Sophie-
 description: Two women sit in a parked car. The street is quiet, dark, traffic nonexistent. The glare of a street lamp illuminates the car's cramped interior. The inky night, the location, and the setting subtly suggest the forbidden, as if there's something illicit and taboo about the rendezvous we witness in Alis Locanta's "Taylor & Sophie." But the two stars of the film — brunette Taylor Sands and raven-tressed Sophie Lynx — are not in the least bit concerned. Their pleasure in each other's company is obvious, and their love and attraction to one another is the only thing that matters. A dark backstreet? The snug front seats of an automobile? What do these details matter when they have each other? And so their tryst begins. Lynx, the more seasoned and worldly seeming of the two, takes the lead. She lowers Taylor's bra and sucks hungrily at her exposed breasts even as her hand searches for access to what lurks behind the white cotton crotch of Sands' panties. Maneuvering in these close quarters isn't exactly easy, but where there's a will there's most definitely a way and Sophie quickly brings her lover to climax. Taylor may be more innocent in outward appearance, but she's every bit as expert in the erotic arts as her partner and she makes Lynx moan and gasp with delight with her knowing touch. Turning sideways in her seat, with car door as headboard, Sands then spreads her legs and Lynx dives between them, sucking, kissing, and probing the fleshy treats so enthusiastically offered. After Taylor's orgasm subsides she returns the kindness and Lynx is rendered giddy and glowing as excitement becomes ecstasy and overwhelms her senses. An illicit affair? A clandestine relationship? The circumstances and the setting are unimportant, in "Taylor & Sophie," love, lust, sex, affection, and satisfaction are paramount.
 runtime: 15:49
 executiveProducer: MetArt Films
-directorPhotography: Alis Locanta
+directorOfPhotography: Alis Locanta
 cameraOperator: Duliamo Ergacia
 editor: Alis Locanta
 firstAC: Jorge Villalobos
@@ -6516,7 +6516,7 @@ title: Lonely
 type: movie
 site: sa
 url: https://www.sexart.com/model/michaela-isizzu/movie/20140528/LONELY
-cast: Michaela Isizzu; https://www.sexart.com/model/michaela-isizzu; g:f
+model: n:Michaela Isizzu; id:/model/sexart/michaela-isizzu; u:https://www.sexart.com/model/michaela-isizzu; g:f
 released: 2014-05-28
 director: Andrej Lupin
 rating: 9.5
@@ -6529,7 +6529,7 @@ description: The chill of autumn is in the air. The trees have lost most of thei
 runtime: 16:00
 executiveProducer: MetArt Films
 producer: Ariel Piper Fawn
-directorPhotography: Andrej Lupin
+directorOfPhotography: Andrej Lupin
 cinematographer: John Humble
 stillPhotographer: David Jones
 editor: Andrej Lupin, Adele Hollis
@@ -6558,8 +6558,8 @@ title: Drive
 type: movie
 site: sa
 url: https://www.sexart.com/model/silvie-deluxe-and-matt-ice/movie/20140525/DRIVE
-cast: Silvie Deluxe; https://www.sexart.com/model/silvie-deluxe; g:f
-cast: Matt Ice; https://www.sexart.com/model/matt-ice; g:m
+model: n:Silvie Deluxe; id:/model/sexart/silvie-deluxe; u:https://www.sexart.com/model/silvie-deluxe; g:f
+model: n:Matt Ice; id:/model/sexart/matt-ice; u:https://www.sexart.com/model/matt-ice; g:m
 released: 2014-05-25
 director: Andrej Lupin
 rating: 9.1
@@ -6572,7 +6572,7 @@ description: Matt Ice steers his car along the streets of the city. Silvie Delux
 runtime: 17:46
 executiveProducer: MetArt Films
 producer: Ariel Piper Fawn
-directorPhotography: Andrej Lupin
+directorOfPhotography: Andrej Lupin
 cinematographer: John Humble
 stillPhotographer: David Jones
 editor: Adele Hollis, Andrej Lupin
@@ -6611,8 +6611,8 @@ title: New Day
 type: movie
 site: sa
 url: https://www.sexart.com/model/eveline-neill-and-katy-rose/movie/20140523/NEW_DAY
-cast: Eveline Neill; https://www.sexart.com/model/eveline-neill; g:f
-cast: Katy Rose; https://www.sexart.com/model/katy-rose; g:f
+model: n:Eveline Neill; id:/model/sexart/eveline-neill; u:https://www.sexart.com/model/eveline-neill; g:f
+model: n:Katy Rose; id:/model/sexart/katy-rose; u:https://www.sexart.com/model/katy-rose; g:f
 released: 2014-05-23
 director: Andrej Lupin
 rating: 9.1
@@ -6625,7 +6625,7 @@ description: It's early morning and two lovers — Eveline Neill and Katy Rose �
 runtime: 23:38
 executiveProducer: MetArt Films
 producer: Ariel Piper Fawn
-directorPhotography: Andrej Lupin
+directorOfPhotography: Andrej Lupin
 cinematographer: John Humble
 stillPhotographer: David Jones
 editor: Andrej Lupin, Adele Hollis
@@ -6660,7 +6660,7 @@ title: Running Free
 type: movie
 site: sa
 url: https://www.sexart.com/model/candice-luka/movie/20140521/RUNNING_FREE
-cast: Candice Luka; https://www.sexart.com/model/candice-luka; g:f
+model: n:Candice Luka; id:/model/sexart/candice-luka; u:https://www.sexart.com/model/candice-luka; g:f
 released: 2014-05-21
 director: Alis Locanta
 rating: 9.4
@@ -6672,7 +6672,7 @@ fileprefix: SexArt-20140521-Running-Free-
 description: After working up a sweat on a fast-paced mid-day run, Candice Luka returns home and cools down with a bottle of chilled spring water. But in Alis Locanta's "Running Free," it doesn't take long before this cool-down session begins to heat up. Alone in the kitchen, the lithe, lean brunette begins to caress her svelte body. Off comes her tank top, revealing a sheer white bra. Off come her running shorts, revealing a matching white thong. Clad only in her lingerie, Candice now fully devotes her energy to pleasuring herself. The bra and panties are eventually dispensed with as Luka's masturbation increases in intensity. Soon her probing, sliding fingers have worked her into a state in which standing is no longer an option. She takes a seat in the corner of the stainless steel counter top and spreads her long legs. Two fingers rhythmically penetrate her pussy while fingers of her other hand work skillfully on her clitoris. When orgasm arrives it is sweet, extended, and powerful. "Running Free" captures a spontaneous erotic interlude that is both intimate and intense.
 runtime: 16:01
 executiveProducer: MetArt Films
-directorPhotography: Alis Locanta
+directorOfPhotography: Alis Locanta
 cameraOperator: Duliamo Ergacia
 stillPhotographer: Duliamo Ergacia
 editor: Alis Locanta
@@ -6710,8 +6710,8 @@ title: Play With Me
 type: movie
 site: sa
 url: https://www.sexart.com/model/chelsea-sun-and-thomas-lee/movie/20140518/PLAY_WITH_ME
-cast: Chelsea Sun; https://www.sexart.com/model/chelsea-sun; g:f
-cast: Thomas Lee; https://www.sexart.com/model/thomas-lee; g:m
+model: n:Chelsea Sun; id:/model/sexart/chelsea-sun; u:https://www.sexart.com/model/chelsea-sun; g:f
+model: n:Thomas Lee; id:/model/sexart/thomas-lee; u:https://www.sexart.com/model/thomas-lee; g:m
 released: 2014-05-18
 director: Andrej Lupin
 rating: 9.0
@@ -6724,7 +6724,7 @@ description: It starts with an innocent, playful prank: Thomas Lee pilots a remo
 runtime: 20:54
 executiveProducer: MetArt Films
 producer: Ariel Piper Fawn
-directorPhotography: Andrej Lupin
+directorOfPhotography: Andrej Lupin
 cinematographer: John Humble
 stillPhotographer: David Jones
 editor: Adele Hollis, Andrej Lupin
@@ -6760,8 +6760,8 @@ title: 2 Jealous
 type: movie
 site: sa
 url: https://www.sexart.com/model/mango-a-and-alyssa-reece/movie/20140516/2_JEALOUS
-cast: Mango A; https://www.sexart.com/model/mango-a; g:f
-cast: Alyssa Reece; https://www.sexart.com/model/alyssa-reece; g:f
+model: n:Mango A; id:/model/sexart/mango-a; u:https://www.sexart.com/model/mango-a; g:f
+model: n:Alyssa Reece; id:/model/sexart/alyssa-reece; u:https://www.sexart.com/model/alyssa-reece; g:f
 released: 2014-05-16
 director: Alis Locanta
 rating: 9.3
@@ -6773,7 +6773,7 @@ fileprefix: SexArt-20140516-2-Jealous-
 description: In "2 Jealous," director-writer Alis Locanta reexamines a subject he has explored before, most notably in an earlier work titled "Jealousy." It's a powerful emotion, and it can have profoundly destructive effects in a relationship. But, if it can be understood and conquered, it can also strengthen a romantic bond. And so it is in "2 Jealous." Mango A returns in the early morning after a night of innocent fun with friends. Her lover, Alyssa Reece, jealous and angry, accuses her of infidelity. While Mango proclaims her innocence Alyssa's anger builds until it explodes. Suddenly realizing that she's hurting the woman she loves, and that she's putting their romance at risk, Alyssa breaks down and apologizes. The twosome retreat to the soft, cozy comfort of their bed, and begin the slow, emotionally charged, and erotically intense act of after-argument lovemaking. The fury of their fight is quickly forgotten and Mango proceeds to tenderly pleasure her partner. Alyssa's hunger for Mango's affection and attention is intense and she's soon at the edge of orgasmic ecstasy. But rather than give in and succumb to climax, Alyssa begs Mango to stop so that she can taste her lover's sex. By the time "2 Jealous" reaches it's orgasmic conclusion, thanks to a feverish session of mutual masturbation, the incident and emotion that triggered their fight are both long forgotten, jealousy and any negative emotions have been banished, and love, pleasure, and romantic connection have returned. "2 Jealous" is beautifully performed and filmed, and it's supremely satisfying, too.
 runtime: 19:48
 executiveProducer: MetArt Films
-directorPhotography: Alis Locanta
+directorOfPhotography: Alis Locanta
 cameraOperator: Duliamo Ergacia
 editor: Alis Locanta
 firstAC: Jorge Villalobos
@@ -6815,7 +6815,7 @@ title: In Your Eyes
 type: movie
 site: sa
 url: https://www.sexart.com/model/whitney-conroy/movie/20140514/IN_YOUR_EYES
-cast: Whitney Conroy; https://www.sexart.com/model/whitney-conroy; g:f
+model: n:Whitney Conroy; id:/model/sexart/whitney-conroy; u:https://www.sexart.com/model/whitney-conroy; g:f
 released: 2014-05-14
 director: Andrej Lupin
 rating: 8.9
@@ -6828,7 +6828,7 @@ description: Here's the situation: Whether it was at work, at a party, on the st
 runtime: 11:26
 executiveProducer: MetArt Films
 producer: Ariel Piper Fawn
-directorPhotography: Andrej Lupin
+directorOfPhotography: Andrej Lupin
 cinematographer: John Humble
 stillPhotographer: David Jones
 editor: Adele Hollis, Andrej Lupin
@@ -6858,8 +6858,8 @@ title: FLY
 type: movie
 site: sa
 url: https://www.sexart.com/model/kristof-cale-and-lucy-li/movie/20140511/FLY
-cast: Kristof Cale; https://www.sexart.com/model/kristof-cale; g:m
-cast: Lucy Li; https://www.sexart.com/model/lucy-li; g:f
+model: n:Kristof Cale; id:/model/sexart/kristof-cale; u:https://www.sexart.com/model/kristof-cale; g:m
+model: n:Lucy Li; id:/model/sexart/lucy-li; u:https://www.sexart.com/model/lucy-li; g:f
 released: 2014-05-11
 director: Andrej Lupin
 rating: 9.2
@@ -6872,7 +6872,7 @@ description: Unfinished drinks from the previous night sit on the bedside table.
 runtime: 22:14
 executiveProducer: MetArt Films
 producer: Ariel Piper Fawn
-directorPhotography: Andrej Lupin
+directorOfPhotography: Andrej Lupin
 cinematographer: John Humble
 stillPhotographer: David Jones
 editor: Adele Hollis, Andrej Lupin
@@ -6902,8 +6902,8 @@ title: Secretly
 type: movie
 site: sa
 url: https://www.sexart.com/model/iwia-a-and-tracy-lindsay/movie/20140509/SECRETLY
-cast: Iwia A; https://www.sexart.com/model/iwia-a; g:f
-cast: Tracy Lindsay; https://www.sexart.com/model/tracy-lindsay; g:f
+model: n:Iwia A; id:/model/sexart/iwia-a; u:https://www.sexart.com/model/iwia-a; g:f
+model: n:Tracy Lindsay; id:/model/sexart/tracy-lindsay; u:https://www.sexart.com/model/tracy-lindsay; g:f
 released: 2014-05-09
 director: Alis Locanta
 rating: 9.2
@@ -6915,7 +6915,7 @@ fileprefix: SexArt-20140509-Secretly-
 description: Director Alis Locanta skillfully employs an array of techniques to create a sense of privacy and shared intimacy in his latest exploration of Sapphic eroticism, "Secretly." Although the film's stars — Iwia A and Tracy Lindsay — do engage in conversation, the words they speak are whispered, murmured, inaudible to the viewer and meant only for each other. The power of their bond — the sense of mutual yearning, hunger, desire and connection — is conveyed by expression, movement, touch, and action. Iwia is the initiator and instigator of the encounter captured in "Secretly," and Tracy willingly and eagerly participates in the seduction. "Secretly" presents a sexual sojourn in which the journey is every bit as important as the destination. Nothing is rushed, every moment, every sensation is savored by both participants. Orgasm is the goal, but getting to that exquisite point is every bit as enjoyable to these secret lovers, alone in a world populated by just these two. Once Tracy has had her momentary fill, she disrobes Iwia and, using tongue and fingers, expresses her love and gratitude to her receptive and appreciative lover. And finally, in a heated bout of mutual satisfaction, the women make love, legs entwined, pussy to pussy, in the scissors position. There's poetry here, and passion, love and lust — join these two lovers as they enjoy each other "Secretly."
 runtime: 26:43
 executiveProducer: MetArt Films
-directorPhotography: Alis Locanta
+directorOfPhotography: Alis Locanta
 cameraOperator: Duliamo Ergacia
 editor: Alis Locanta
 firstAC: Jorge Villalobos
@@ -6963,7 +6963,7 @@ title: Dolce Forno
 type: movie
 site: sa
 url: https://www.sexart.com/model/lorena-b/movie/20140507/DOLCE_FORNO
-cast: Lorena B; https://www.sexart.com/model/lorena-b; g:f
+model: n:Lorena B; id:/model/sexart/lorena-b; u:https://www.sexart.com/model/lorena-b; g:f
 released: 2014-05-07
 director: Alis Locanta
 rating: 9.6
@@ -6975,7 +6975,7 @@ fileprefix: SexArt-20140507-Dolce-Forno-
 description: Lorena B is idling around the kitchen on a sunny afternoon waiting for a dish she's preparing to finish baking. Alone in the house the Spanish beauty lets her mind wander and soon her imaginings take a turn for the erotic. She slips out of her diaphanous dress and lets her hands roam around her lingerie-clad body for several pleasurable moments before stripping off her panties and beginning to masturbate in earnest. Leaning against the glossy, reflective cabinets, Lorena's image is doubled as she ups the intensity of her self-stimulation. Soon she's breathing hard and her torso glows with a sheen of dewy perspiration. Lorena uses both hands to energetically stimulate herself and it's not too long before she's so aroused that standing is no longer an option. She takes a seat, spreads her long legs, and feverishly fingers her pussy and strokes her clitoris until she's overwhelmed by the sweet release of an exquisite orgasm. Director Alis Locanta's "Dolce Forno" stylishly serves up an enticing and irresistible erotic feast for the viewer's senses. We never do learn what's in the oven, but when Lorena's doing the cooking you know it's got to be delicious!
 runtime: 15:42
 executiveProducer: MetArt Films
-directorPhotography: Alis Locanta
+directorOfPhotography: Alis Locanta
 cameraOperator: Duliamo Ergacia
 editor: Alis Locanta
 firstAC: Jorge Villalobos
@@ -7006,8 +7006,8 @@ title: Firestarter
 type: movie
 site: sa
 url: https://www.sexart.com/model/lola-taylor-and-juan-lucho/movie/20140504/FIRESTARTER
-cast: Lola Taylor; https://www.sexart.com/model/lola-taylor; g:f
-cast: Juan Lucho; https://www.sexart.com/model/juan-lucho; g:m
+model: n:Lola Taylor; id:/model/sexart/lola-taylor; u:https://www.sexart.com/model/lola-taylor; g:f
+model: n:Juan Lucho; id:/model/sexart/juan-lucho; u:https://www.sexart.com/model/juan-lucho; g:m
 released: 2014-05-04
 director: Alis Locanta
 rating: 8.8
@@ -7019,7 +7019,7 @@ fileprefix: SexArt-20140504-Firestarter-
 description: Alis Locanta's "Firestarter" opens with a frenzied, frenetic explosion of visual and aural energy. Edgy, propulsive, and provocative, the introductory segment lasts just long enough to bring the film's two stars — Lola Taylor and Juan Lucho — together after a chance meeting on the bustling streets of a city center after dark. Once the couple is behind closed doors "Firestarter" shifts from a rolling boil to a steady, steamy simmer as the new twosome waste little time getting to know each other. After the most perfunctory of preliminaries Lucho is between Taylor's creamy thighs bringing her to the first of several orgasms. After eating and fingering her from behind, Lucho replaces his tongue and fingers with his cock and they fuck in the doggie style before moving to a spoon position with orgasmic results. Thoroughly, if temporarily, satisfied, Lola takes a break to perform a long, leisurely, and loving blowjob, before straddling Lucho for yet another satisfying screw, this time in the upright cowgirl position. Lola Taylor isn't greedy, though, and with a few deft strokes she brings Lucho to a splashy finish. Spontaneous, passionate, powerfully erotic, and compulsively watchable, where there's heat, there's "Firestarter."
 runtime: 23:51
 executiveProducer: MetArt Films
-directorPhotography: Alis Locanta
+directorOfPhotography: Alis Locanta
 cameraOperator: Duliamo Ergacia
 editor: Alis Locanta
 firstAC: Jorge Villalobos
@@ -7059,8 +7059,8 @@ title: Someone Is Watching
 type: movie
 site: sa
 url: https://www.sexart.com/model/gina-gerson-and-frida/movie/20140502/SOMEONE_IS_WATCHING
-cast: Gina Gerson; https://www.sexart.com/model/gina-gerson; g:f
-cast: Frida; https://www.sexart.com/model/frida; g:f
+model: n:Gina Gerson; id:/model/sexart/gina-gerson; u:https://www.sexart.com/model/gina-gerson; g:f
+model: n:Frida; id:/model/sexart/frida; u:https://www.sexart.com/model/frida; g:f
 released: 2014-05-02
 director: Andrej Lupin
 rating: 9.2
@@ -7073,7 +7073,7 @@ description: Gina Gerson and her lover, Frida, are settling in for a quiet night
 runtime: 17:31
 executiveProducer: MetArt Films
 producer: Ariel Piper Fawn
-directorPhotography: Andrej Lupin
+directorOfPhotography: Andrej Lupin
 cinematographer: John Humble
 stillPhotographer: David Jones
 editor: Andrej Lupin, Adele Hollis
@@ -7116,7 +7116,7 @@ title: Se Telefonando 2
 type: movie
 site: sa
 url: https://www.sexart.com/model/melena-a/movie/20140430/SE_TELEFONANDO_2
-cast: Melena A; https://www.sexart.com/model/melena-a; g:f
+model: n:Melena A; id:/model/sexart/melena-a; u:https://www.sexart.com/model/melena-a; g:f
 released: 2014-04-30
 director: Alis Locanta
 rating: 9.5
@@ -7128,7 +7128,7 @@ fileprefix: SexArt-20140430-Se-Telefonando-02-
 description: A young woman — Russian beauty Melena A — is having an animated and lively telephone conversation as "Se Telefonando 2" opens. Clad in cozy slippers, hot pink short-shorts, and a white top, she lounges on a rug in the living room chatting energetically. But it's when the call ends that Alis Locanta's film really begins. The young woman, alone and aroused, begins to caress her nubile body. She rubs the crotch of her shorts and squeezes her breasts, and her arousal rapidly escalates. Incrementally, bit by bit, Melena's sexual fever rises. A hand slips into her shorts, those shorts are soon pulled down, the more pleasure she gives herself, the more she craves. The shorts come off, then the blouse, and then the bra. Moaning with delight Melena strokes and fingers herself with rapidly increasing intensity. And when her plunging, sliding, frigging fingers have worked her into an inflamed state she pulls out a crystal probe and dials up the intensity higher, still. Melena's pursuit of pleasure here is determined, focused, single-minded, raw, and relentless. And after working herself into a near frenzy with both ends of the sex toy she pushes it home and rubs her clitoris until a shattering orgasm overtakes and overwhelms her. Dazed, drained, and completely satisfied, she collapses onto the soft rug. If you appreciate exquisite beauty and unrestrained female autoeroticism, "Se Telefonando 2" has got your number.
 runtime: 19:05
 executiveProducer: MetArt Films
-directorPhotography: Alis Locanta
+directorOfPhotography: Alis Locanta
 cameraOperator: Duliamo Ergacia
 editor: Alis Locanta
 firstAC: Jorge Villalobos
@@ -7164,8 +7164,8 @@ title: The Heat
 type: movie
 site: sa
 url: https://www.sexart.com/model/whitney-conroy-and-kari-a/movie/20140427/THE_HEAT
-cast: Whitney Conroy; https://www.sexart.com/model/whitney-conroy; g:f
-cast: Kari A; https://www.sexart.com/model/kari-a; g:f
+model: n:Whitney Conroy; id:/model/sexart/whitney-conroy; u:https://www.sexart.com/model/whitney-conroy; g:f
+model: n:Kari A; id:/model/sexart/kari-a; u:https://www.sexart.com/model/kari-a; g:f
 released: 2014-04-27
 director: Alis Locanta
 rating: 9.3
@@ -7177,7 +7177,7 @@ fileprefix: SexArt-20140427-The-Heat-
 description: Alis Locanta's "The Heat," has a distinctive and engaging neo-noir flavor. Much of that can be attributed to the haunting acoustic jazz soundtrack, but it extends to the cinematic style the director employs as well as the performances of his two stars. And the performances of those two exceptionally appealing stars — Whitney Conroy and Kari A — are all the more notable in view of the fact that not a single word is spoken during the entire film. Emotion, desire, hunger, and lust are all conveyed with body language, facial expression, eye-contact, movement, and touch. Like the cigarillo that Whitney Conroy puffs on in the introductory portion of the film, "The Heat" burns steadily from beginning to end. After a bit of mutual tease Conroy proceeds to pleasure Kari. The seduction is direct, aggressive, and it results in what is quite obviously a powerfully satisfying orgasm. The film then shifts gears, momentarily, before Kari plays the aggressor to the more than willing Whitney. But even after Whitney achieves climax, "The Heat" continues to build and a follow-up session finger-banging brings the film to a breathless finish. Incendiary lesbian erotica, with an intriguing dose of cool style, makes "The Heat" sizzle and steam with sultry sexual fire.
 runtime: 23:15
 executiveProducer: MetArt Films
-directorPhotography: Alis Locanta
+directorOfPhotography: Alis Locanta
 editor: Alis Locanta
 firstAC: Jorge Villalobos
 costumeDesigner: Eva Dividendo
@@ -7223,8 +7223,8 @@ title: In Motion
 type: movie
 site: sa
 url: https://www.sexart.com/model/faube-cox-and-lexi-dona/movie/20140425/IN_MOTION
-cast: Faube Cox; https://www.sexart.com/model/faube-cox; g:m
-cast: Lexi Dona; https://www.sexart.com/model/lexi-dona; g:f
+model: n:Faube Cox; id:/model/sexart/faube-cox; u:https://www.sexart.com/model/faube-cox; g:m
+model: n:Lexi Dona; id:/model/sexart/lexi-dona; u:https://www.sexart.com/model/lexi-dona; g:f
 released: 2014-04-25
 director: Andrej Lupin
 rating: 9.1
@@ -7237,7 +7237,7 @@ description: A man enters a dimly lit room. He puts on his shoes, takes a drink 
 runtime: 19:58
 executiveProducer: MetArt Films
 producer: Ariel Piper Fawn
-directorPhotography: Andrej Lupin
+directorOfPhotography: Andrej Lupin
 cinematographer: John Humble
 stillPhotographer: David Jones
 editor: Andrej Lupin, Adele Hollis
@@ -7273,7 +7273,7 @@ title: My Day
 type: movie
 site: sa
 url: https://www.sexart.com/model/sapphira-a/movie/20140423/MY_DAY
-cast: Sapphira A; https://www.sexart.com/model/sapphira-a; g:f
+model: n:Sapphira A; id:/model/sexart/sapphira-a; u:https://www.sexart.com/model/sapphira-a; g:f
 released: 2014-04-23
 director: Andrej Lupin
 rating: 9.4
@@ -7286,7 +7286,7 @@ description: The room is quiet, the midday light filling the bedroom is muted, d
 runtime: 15:33
 executiveProducer: MetArt Films
 producer: Ariel Piper Fawn
-directorPhotography: Andrej Lupin
+directorOfPhotography: Andrej Lupin
 cinematographer: John Humble
 stillPhotographer: David Jones
 editor: Andrej Lupin, Adele Hollis
@@ -7322,8 +7322,8 @@ title: Il Lungo Addio
 type: movie
 site: sa
 url: https://www.sexart.com/model/cayenne-klein-and-juan-lucho/movie/20140420/IL_LUNGO_ADDIO
-cast: Cayenne Klein; https://www.sexart.com/model/cayenne-klein; g:f
-cast: Juan Lucho; https://www.sexart.com/model/juan-lucho; g:m
+model: n:Cayenne Klein; id:/model/sexart/cayenne-klein; u:https://www.sexart.com/model/cayenne-klein; g:f
+model: n:Juan Lucho; id:/model/sexart/juan-lucho; u:https://www.sexart.com/model/juan-lucho; g:m
 released: 2014-04-20
 director: Alis Locanta
 rating: 8.9
@@ -7335,7 +7335,7 @@ fileprefix: SexArt-20140420-Il-Lungo-Addio-
 description: The title of Alis Locanta's "Il Lungo Addio" means "The Long Goodbye" in English, and he's subtitled the film "Goodbye My Love," to underscore the theme of looming separation. And so we have a downcast Juan Lucho bidding farewell to Cayenne Klein as he drops her off at the station. But as Cayenne heads off with her luggage, and Lucho walks sadly away, the blonde has second thoughts. She joyfully returns to the arms of her lover and spontaneously cancels her trip. Back at home the couple celebrate their unbroken union by enjoying a long, loving, and joyous session of lovemaking. Lucho expresses his love for Cayenne by treating her to an extended bout of enthusiastic cunnilingus that leaves her glowing with satisfaction and beaming with joyous affection. Ms. Klein is no less enthusiastic when it comes to administering oral delight, and delivers a thorough sucking and stroking to her lover's throbbing tool. Next she straddles Lucho and enjoys a vigorous ride in the reverse cowgirl stance before segueing into the spoon position with orgasmic results, finally ending up on her back as Juan pumps to an ecstatic eruption. The smiles of bliss, love, and joy on Cayenne Klein's beautiful face speak volumes — the film may spring from the pain of separation, but the lovers so sincerely portrayed in "Il Lungo Addio" are going to stay together for a long time to come!
 runtime: 23:28
 executiveProducer: MetArt Films
-directorPhotography: Alis Locanta
+directorOfPhotography: Alis Locanta
 cameraOperator: Duliamo Ergacia
 editor: Alis Locanta
 firstAC: Jorge Villalobos
@@ -7370,8 +7370,8 @@ title: Vintage Collection - ENJOY
 type: movie
 site: sa
 url: https://www.sexart.com/model/victoria-daniels-and-ariel-piper-fawn/movie/20140418/VINTAGE_COLLECTION_-_ENJOY
-cast: Victoria Daniels; https://www.sexart.com/model/victoria-daniels; g:f
-cast: Ariel Piper Fawn; https://www.sexart.com/model/ariel-piper-fawn; g:f
+model: n:Victoria Daniels; id:/model/sexart/victoria-daniels; u:https://www.sexart.com/model/victoria-daniels; g:f
+model: n:Ariel Piper Fawn; id:/model/sexart/ariel-piper-fawn; u:https://www.sexart.com/model/ariel-piper-fawn; g:f
 released: 2014-04-18
 director: Andrej Lupin
 rating: 9.4
@@ -7384,7 +7384,7 @@ description: Unlike several of the previous installments of this series by Andre
 runtime: 21:20
 executiveProducer: MetArt Films
 producer: Ariel Piper Fawn
-directorPhotography: Andrej Lupin
+directorOfPhotography: Andrej Lupin
 cinematographer: John Humble
 stillPhotographer: David Jones
 editor: Adele Hollis, Andrej Lupin
@@ -7430,7 +7430,7 @@ title: Ain't Talkin' 'Bout Love
 type: movie
 site: sa
 url: https://www.sexart.com/model/amarna-miller/movie/20140416/AIN_T_TALKIN___BOUT_LOVE
-cast: Amarna Miller; https://www.sexart.com/model/amarna-miller; g:f
+model: n:Amarna Miller; id:/model/sexart/amarna-miller; u:https://www.sexart.com/model/amarna-miller; g:f
 released: 2014-04-16
 director: Alis Locanta
 rating: 9.2
@@ -7442,7 +7442,7 @@ fileprefix: SexArt-20140416-Girls-Love-Sex--Aint-Talkin-Bout-Love-
 description: The late, great, writer-director, and erotic cinema innovator Zalman King created the "Girls Love Sex" series for Sexart in the final phase of his career and life. Now Alis Locanta steps into King's imposing shoes for his own interpretation of the master's established format with "Ain't Talkin' 'Bout Love," the first installment of the "Girls Love Sex International" series. While the format doesn't differ too greatly from the original, the film does have a distinctly European flavor. Amarna Miller is the focus, star, and interview subject here. Seated on a couch she enthusiastically and candidly discusses her sexual history and her career as an erotic model. As the red-haired Spanish beauty grows more relaxed in the course of conversation she describes, in some detail, a relationship from her past. And when the memories of that intense and passionate entanglement overwhelm her with sensual recollections she terminates the interview and gives in to her erotic desires. What follows is an intimate, honest, sincere, and uninhibited episode of female autoeroticism. By the time she has completely satisfied herself the viewer will be, likewise, completely satisfied, and will come away with a detailed and compelling impression of a beautiful young woman in her sexual prime. Honesty, intimacy, and explicit eroticism allow Alis Locanta's "Ain't Talkin' 'Bout Love" to speak a universally understood language.
 runtime: 22:10
 executiveProducer: MetArt Films
-directorPhotography: Alis Locanta
+directorOfPhotography: Alis Locanta
 cameraOperator: Duliamo Ergacia
 editor: Alis Locanta
 firstAC: Jorge Villalobos
@@ -7475,10 +7475,10 @@ title: The Writer #10 - She's leaving home
 type: movie
 site: sa
 url: https://www.sexart.com/model/luna-and-whitney-conroy-and-franck-franco-and-taylor-sands/movie/20140413/THE_WRITER_-_SHE_S_LEAVING_HOME
-cast: Luna; https://www.sexart.com/model/luna; g:m
-cast: Whitney Conroy; https://www.sexart.com/model/whitney-conroy; g:f
-cast: Franck Franco; https://www.sexart.com/model/franck-franco; g:m
-cast: Taylor Sands; https://www.sexart.com/model/taylor-sands; g:f
+model: n:Luna; id:/model/sexart/luna; u:https://www.sexart.com/model/luna; g:m
+model: n:Whitney Conroy; id:/model/sexart/whitney-conroy; u:https://www.sexart.com/model/whitney-conroy; g:f
+model: n:Franck Franco; id:/model/sexart/franck-franco; u:https://www.sexart.com/model/franck-franco; g:m
+model: n:Taylor Sands; id:/model/sexart/taylor-sands; u:https://www.sexart.com/model/taylor-sands; g:f
 released: 2014-04-13
 director: Alis Locanta
 rating: 9.3
@@ -7491,7 +7491,7 @@ description: With "The Writer — She's Leaving Home," Alis Locanta's formidable
 runtime: 43:34
 writer: Alan Russell, Alis Locanta
 executiveProducer: MetArt Films
-directorPhotography: Alis Locanta
+directorOfPhotography: Alis Locanta
 cameraOperator: Duliamo Ergacia
 editor: Alis Locanta
 firstAC: Jorge Villalobos
@@ -7553,8 +7553,8 @@ title: Be Mine II
 type: movie
 site: sa
 url: https://www.sexart.com/model/tracy-lindsay-and-mango-a/movie/20140411/BE_MINE_II
-cast: Tracy Lindsay; https://www.sexart.com/model/tracy-lindsay; g:f
-cast: Mango A; https://www.sexart.com/model/mango-a; g:f
+model: n:Tracy Lindsay; id:/model/sexart/tracy-lindsay; u:https://www.sexart.com/model/tracy-lindsay; g:f
+model: n:Mango A; id:/model/sexart/mango-a; u:https://www.sexart.com/model/mango-a; g:f
 released: 2014-04-11
 director: Alis Locanta
 rating: 9.5
@@ -7568,7 +7568,7 @@ runtime: 31:25
 writer: Alis Locanta
 executiveProducer: MetArt Films
 producer: MetArt Films
-directorPhotography: Alis Locanta
+directorOfPhotography: Alis Locanta
 cameraOperator: Duliamo Ergacia
 editor: Alis Locanta
 firstAC: Jorge Villalobos
@@ -7619,7 +7619,7 @@ title: Workout
 type: movie
 site: sa
 url: https://www.sexart.com/model/bailey-ryder/movie/20140409/WORKOUT
-cast: Bailey Ryder; https://www.sexart.com/model/bailey-ryder; g:f
+model: n:Bailey Ryder; id:/model/sexart/bailey-ryder; u:https://www.sexart.com/model/bailey-ryder; g:f
 released: 2014-04-09
 director: Andrej Lupin
 rating: 8.8
@@ -7632,7 +7632,7 @@ description: For her third appearance in a Sexart HD erotic feature, raven-haire
 runtime: 14:25
 executiveProducer: MetArt Films
 producer: Ariel Piper Fawn
-directorPhotography: Andrej Lupin
+directorOfPhotography: Andrej Lupin
 cinematographer: John Humble
 stillPhotographer: David Jones
 editor: Adele Hollis, Andrej Lupin
@@ -7666,9 +7666,9 @@ title: The Writer #9 - Night Train
 type: movie
 site: sa
 url: https://www.sexart.com/model/franck-franco-and-luna-and-whitney-conroy/movie/20140406/THE_WRITER_-_NIGHT_TRAIN
-cast: Franck Franco; https://www.sexart.com/model/franck-franco; g:m
-cast: Luna; https://www.sexart.com/model/luna; g:m
-cast: Whitney Conroy; https://www.sexart.com/model/whitney-conroy; g:f
+model: n:Franck Franco; id:/model/sexart/franck-franco; u:https://www.sexart.com/model/franck-franco; g:m
+model: n:Luna; id:/model/sexart/luna; u:https://www.sexart.com/model/luna; g:m
+model: n:Whitney Conroy; id:/model/sexart/whitney-conroy; u:https://www.sexart.com/model/whitney-conroy; g:f
 released: 2014-04-06
 director: Alis Locanta
 rating: 9.1
@@ -7681,7 +7681,7 @@ description: In "The Writer — Night Train," the ninth episode of Alis Locanta'
 runtime: 32:44
 writer: Alan Russell, Alis Locanta
 executiveProducer: MetArt Films
-directorPhotography: Alis Locanta
+directorOfPhotography: Alis Locanta
 cameraOperator: Duliamo Ergacia
 editor: Alis Locanta
 firstAC: Jorge Villalobos
@@ -7733,8 +7733,8 @@ title: Faith
 type: movie
 site: sa
 url: https://www.sexart.com/model/alyssa-reece-and-aiko-bell/movie/20140404/FAITH
-cast: Alyssa Reece; https://www.sexart.com/model/alyssa-reece; g:f
-cast: Aiko Bell; https://www.sexart.com/model/aiko-bell; g:f
+model: n:Alyssa Reece; id:/model/sexart/alyssa-reece; u:https://www.sexart.com/model/alyssa-reece; g:f
+model: n:Aiko Bell; id:/model/sexart/aiko-bell; u:https://www.sexart.com/model/aiko-bell; g:f
 released: 2014-04-04
 director: Andrej Lupin
 rating: 9.2
@@ -7747,7 +7747,7 @@ description: The sky is overcast, leaden. A bitter wind blows through the bleak,
 runtime: 26:30
 executiveProducer: MetArt Films
 producer: Ariel Piper Fawn
-directorPhotography: Andrej Lupin
+directorOfPhotography: Andrej Lupin
 cinematographer: John Humble
 stillPhotographer: David Jones
 editor: Andrej Lupin, Adele Hollis
@@ -7791,7 +7791,7 @@ title: Lost in a Dream - Vol. 4
 type: movie
 site: sa
 url: https://www.sexart.com/model/taylor-sands/movie/20140402/LOST_IN_A_DREAM_-_VOL._4
-cast: Taylor Sands; https://www.sexart.com/model/taylor-sands; g:f
+model: n:Taylor Sands; id:/model/sexart/taylor-sands; u:https://www.sexart.com/model/taylor-sands; g:f
 released: 2014-04-02
 director: Alis Locanta
 rating: 9.1
@@ -7803,7 +7803,7 @@ fileprefix: SexArt-20140402-Lost-in-a-Dream-04-
 description: A newcomer to the site — Taylor Sands — makes her first two Sexart erotic film appearances in "Lost in a Dream Vol. #4." And that's not a typographical error or misstatement, either. As Alis Locanta's film opens we discover Ms. Sands, clad in a diaphanous nightie, enjoying an mid-afternoon nap. Subtle movements of the pretty girl's face let us know that she has entered the dream state. Soon thereafter we see what she's dreaming. This is where the "second" Taylor Sands makes her entrance. It's clearly the same girl, but through styling and technical magic her appearance is subtly altered. The Taylor asleep in a chair is innocent, winsome, a sweet girl-next-door type. The Taylor in the dream is glamorous, aroused, alluring, mysterious. And so we watch as the sleeping beauty dreams of her erotic doppelgänger. Dream Taylor first appears in black panties, bra, and heels, she toys with her breasts and then begins to masturbate. As the dream progresses the intensity of activity builds — gentle rubbing turns to vigorous frigging, frigging segues into fingering, and fingers are ultimately replaced by an orgasm-inducing crystal probe. So intense are the erotic visions of her reverie that sleeping Taylor begins to duplicate dream Taylor's actions. "Lost in a Dream Vol. #4" takes the viewer on an intriguing and satisfying journey into the sexual subconscious.
 runtime: 18:30
 producer: MetArt Films
-directorPhotography: Alis Locanta
+directorOfPhotography: Alis Locanta
 cameraOperator: Duliamo Ergacia
 editor: Alis Locanta
 firstAC: Jorge Villalobos
@@ -7842,10 +7842,10 @@ title: The Writer #8 - Formar Palabras
 type: movie
 site: sa
 url: https://www.sexart.com/model/franck-franco-and-luna-and-whitney-conroy-and-sophie-lynx/movie/20140330/THE_WRITER_-_FORMAR_PALABRAS
-cast: Franck Franco; https://www.sexart.com/model/franck-franco; g:m
-cast: Luna; https://www.sexart.com/model/luna; g:m
-cast: Whitney Conroy; https://www.sexart.com/model/whitney-conroy; g:f
-cast: Sophie Lynx; https://www.sexart.com/model/sophie-lynx; g:f
+model: n:Franck Franco; id:/model/sexart/franck-franco; u:https://www.sexart.com/model/franck-franco; g:m
+model: n:Luna; id:/model/sexart/luna; u:https://www.sexart.com/model/luna; g:m
+model: n:Whitney Conroy; id:/model/sexart/whitney-conroy; u:https://www.sexart.com/model/whitney-conroy; g:f
+model: n:Sophie Lynx; id:/model/sexart/sophie-lynx; u:https://www.sexart.com/model/sophie-lynx; g:f
 released: 2014-03-30
 director: Alis Locanta
 rating: 9.3
@@ -7858,7 +7858,7 @@ description: Even though his characters are well established, and even though th
 runtime: 42:50
 writer: Alan Russell, Alis Locanta
 executiveProducer: MetArt Films
-directorPhotography: Alis Locanta
+directorOfPhotography: Alis Locanta
 cameraOperator: Duliamo Ergacia
 editor: Alis Locanta
 firstAC: Jorge Villalobos
@@ -7928,8 +7928,8 @@ title: Stay Sweet
 type: movie
 site: sa
 url: https://www.sexart.com/model/tracy-a-and-lorena-b/movie/20140328/STAY_SWEET
-cast: Tracy A; https://www.sexart.com/model/tracy-a; g:f
-cast: Lorena B; https://www.sexart.com/model/lorena-b; g:f
+model: n:Tracy A; id:/model/sexart/tracy-a; u:https://www.sexart.com/model/tracy-a; g:f
+model: n:Lorena B; id:/model/sexart/lorena-b; u:https://www.sexart.com/model/lorena-b; g:f
 released: 2014-03-28
 director: Don Caravaggio
 rating: 9.4
@@ -7942,7 +7942,7 @@ description: The two stars of Don Caravaggio's "Stay Sweet" make a fine pair by 
 runtime: 18:38
 executiveProducer: MetArt Films
 producer: Don Caravaggio
-directorPhotography: Jean Baptiste
+directorOfPhotography: Jean Baptiste
 cameraOperator: Gui Avon
 editor: Lorena B
 tag: bathroom
@@ -7981,7 +7981,7 @@ title: Mirror
 type: movie
 site: sa
 url: https://www.sexart.com/model/michaela-isizzu/movie/20140326/MIRROR
-cast: Michaela Isizzu; https://www.sexart.com/model/michaela-isizzu; g:f
+model: n:Michaela Isizzu; id:/model/sexart/michaela-isizzu; u:https://www.sexart.com/model/michaela-isizzu; g:f
 released: 2014-03-26
 director: Andrej Lupin
 rating: 9.5
@@ -7994,7 +7994,7 @@ description: Breathtaking brunette Michaela Isizzu arrives home, alone, after a 
 runtime: 12:12
 executiveProducer: MetArt Films
 producer: Ariel Piper Fawn
-directorPhotography: Andrej Lupin
+directorOfPhotography: Andrej Lupin
 cinematographer: John Humble
 stillPhotographer: David Jones
 editor: Adele Hollis, Andrej Lupin
@@ -8027,10 +8027,10 @@ title: The Writer #7 - You Belong To Me
 type: movie
 site: sa
 url: https://www.sexart.com/model/luna-and-tess-b-and-whitney-conroy-and-franck-franco/movie/20140323/THE_WRITER_-_YOU_BELONG_TO_ME
-cast: Luna; https://www.sexart.com/model/luna; g:m
-cast: Tess B; https://www.sexart.com/model/tess-b; g:f
-cast: Whitney Conroy; https://www.sexart.com/model/whitney-conroy; g:f
-cast: Franck Franco; https://www.sexart.com/model/franck-franco; g:m
+model: n:Luna; id:/model/sexart/luna; u:https://www.sexart.com/model/luna; g:m
+model: n:Tess B; id:/model/sexart/tess-b; u:https://www.sexart.com/model/tess-b; g:f
+model: n:Whitney Conroy; id:/model/sexart/whitney-conroy; u:https://www.sexart.com/model/whitney-conroy; g:f
+model: n:Franck Franco; id:/model/sexart/franck-franco; u:https://www.sexart.com/model/franck-franco; g:m
 released: 2014-03-23
 director: Alis Locanta
 rating: 9.4
@@ -8043,7 +8043,7 @@ description: A new character gets introduced in "The Writer – You Belong to Me
 runtime: 42:47
 writer: Alis Locanta, Alan Russell
 executiveProducer: MetArt Films
-directorPhotography: Alis Locanta
+directorOfPhotography: Alis Locanta
 cameraOperator: Duliamo Ergacia
 editor: Alis Locanta
 firstAC: Jorge Villalobos
@@ -8106,9 +8106,9 @@ title: Message In A Bottle
 type: movie
 site: sa
 url: https://www.sexart.com/model/mima-a-and-thomas-lee-and-ariel-piper-fawn/movie/20140321/MESSAGE_IN_A_BOTTLE
-cast: Mima A; https://www.sexart.com/model/mima-a; g:f
-cast: Thomas Lee; https://www.sexart.com/model/thomas-lee; g:m
-cast: Ariel Piper Fawn; https://www.sexart.com/model/ariel-piper-fawn; g:f
+model: n:Mima A; id:/model/sexart/mima-a; u:https://www.sexart.com/model/mima-a; g:f
+model: n:Thomas Lee; id:/model/sexart/thomas-lee; u:https://www.sexart.com/model/thomas-lee; g:m
+model: n:Ariel Piper Fawn; id:/model/sexart/ariel-piper-fawn; u:https://www.sexart.com/model/ariel-piper-fawn; g:f
 released: 2014-03-21
 director: Andrej Lupin
 rating: 9.2
@@ -8121,7 +8121,7 @@ description: The Metart Network's multi-talented supermodel/actress/producer, Ar
 runtime: 22:07
 executiveProducer: MetArt Films
 producer: Ariel Piper Fawn
-directorPhotography: Andrej Lupin
+directorOfPhotography: Andrej Lupin
 cinematographer: John Humble
 stillPhotographer: David Jones
 editor: Andrej Lupin, Adele Hollis
@@ -8157,7 +8157,7 @@ title: MUSA
 type: movie
 site: sa
 url: https://www.sexart.com/model/alissia-loop/movie/20140319/MUSA
-cast: Alissia Loop; https://www.sexart.com/model/alissia-loop; g:f
+model: n:Alissia Loop; id:/model/sexart/alissia-loop; u:https://www.sexart.com/model/alissia-loop; g:f
 released: 2014-03-19
 director: Paul Black
 rating: 8.8
@@ -8199,10 +8199,10 @@ title: The Writer #6 - Free Spirit
 type: movie
 site: sa
 url: https://www.sexart.com/model/cayenne-klein-and-whitney-conroy-and-luna-and-franck-franco/movie/20140316/THE_WRITER_-_FREE_SPIRIT
-cast: Cayenne Klein; https://www.sexart.com/model/cayenne-klein; g:f
-cast: Whitney Conroy; https://www.sexart.com/model/whitney-conroy; g:f
-cast: Luna; https://www.sexart.com/model/luna; g:m
-cast: Franck Franco; https://www.sexart.com/model/franck-franco; g:m
+model: n:Cayenne Klein; id:/model/sexart/cayenne-klein; u:https://www.sexart.com/model/cayenne-klein; g:f
+model: n:Whitney Conroy; id:/model/sexart/whitney-conroy; u:https://www.sexart.com/model/whitney-conroy; g:f
+model: n:Luna; id:/model/sexart/luna; u:https://www.sexart.com/model/luna; g:m
+model: n:Franck Franco; id:/model/sexart/franck-franco; u:https://www.sexart.com/model/franck-franco; g:m
 released: 2014-03-16
 director: Alis Locanta
 rating: 9.1
@@ -8215,7 +8215,7 @@ description: Episode 6 of Alis Locanta's "The Writer" series is titled "Free Spi
 runtime: 47:04
 writer: Alis Locanta, Alan Russell
 executiveProducer: MetArt Films
-directorPhotography: Alis Locanta
+directorOfPhotography: Alis Locanta
 cameraOperator: Duliamo Ergacia
 editor: Alis Locanta
 firstAC: Jorge Villalobos
@@ -8287,8 +8287,8 @@ title: Liberation
 type: movie
 site: sa
 url: https://www.sexart.com/model/kristof-cale-and-linda-sweet/movie/20140314/LIBERATION
-cast: Kristof Cale; https://www.sexart.com/model/kristof-cale; g:m
-cast: Linda Sweet; https://www.sexart.com/model/linda-sweet; g:f
+model: n:Kristof Cale; id:/model/sexart/kristof-cale; u:https://www.sexart.com/model/kristof-cale; g:m
+model: n:Linda Sweet; id:/model/sexart/linda-sweet; u:https://www.sexart.com/model/linda-sweet; g:f
 released: 2014-03-14
 director: Andrej Lupin
 rating: 9.2
@@ -8301,7 +8301,7 @@ description: "Liberation," directed by Andrej Lupin, takes place in a smoky and 
 runtime: 18:00
 executiveProducer: MetArt Films
 producer: Ariel Piper Fawn
-directorPhotography: Andrej Lupin
+directorOfPhotography: Andrej Lupin
 cinematographer: John Humble
 stillPhotographer: David Jones
 editor: Adele Hollis, Andrej Lupin
@@ -8345,7 +8345,7 @@ title: Shower Quickie
 type: movie
 site: sa
 url: https://www.sexart.com/model/lauren-crist/movie/20140312/SHOWER_QUICKIE
-cast: Lauren Crist; https://www.sexart.com/model/lauren-crist; g:f
+model: n:Lauren Crist; id:/model/sexart/lauren-crist; u:https://www.sexart.com/model/lauren-crist; g:f
 released: 2014-03-12
 director: Andrej Lupin
 rating: 9.2
@@ -8358,7 +8358,7 @@ description: Andrej Lupin has titled his latest film "Shower Quickie," and that 
 runtime: 14:36
 executiveProducer: MetArt Films
 producer: Ariel Piper Fawn
-directorPhotography: Andrej Lupin
+directorOfPhotography: Andrej Lupin
 cinematographer: John Humble
 stillPhotographer: David Jones
 editor: Adele Hollis, Andrej Lupin
@@ -8389,10 +8389,10 @@ title: The Writer #5 - Listen to me
 type: movie
 site: sa
 url: https://www.sexart.com/model/franck-franco-and-whitney-conroy-and-amirah-adara-and-luna/movie/20140309/THE_WRITER_-_LISTEN_TO_ME
-cast: Franck Franco; https://www.sexart.com/model/franck-franco; g:m
-cast: Whitney Conroy; https://www.sexart.com/model/whitney-conroy; g:f
-cast: Amirah Adara; https://www.sexart.com/model/amirah-adara; g:f
-cast: Luna; https://www.sexart.com/model/luna; g:m
+model: n:Franck Franco; id:/model/sexart/franck-franco; u:https://www.sexart.com/model/franck-franco; g:m
+model: n:Whitney Conroy; id:/model/sexart/whitney-conroy; u:https://www.sexart.com/model/whitney-conroy; g:f
+model: n:Amirah Adara; id:/model/sexart/amirah-adara; u:https://www.sexart.com/model/amirah-adara; g:f
+model: n:Luna; id:/model/sexart/luna; u:https://www.sexart.com/model/luna; g:m
 released: 2014-03-09
 director: Alis Locanta
 rating: 9.2
@@ -8404,7 +8404,7 @@ fileprefix: SexArt-20140309-The-Writer-05--Listen-to-Me-
 description: Real life, fantasy, and fiction remain intriguingly and inextricably entwined in the fifth installment of Alis Locanta's erotic super-series, "The Writer – Listen to Me." Pulled in different directions by her personal and professional lives, Luna invents a satisfying new story and proceeds to work out the details. Those details concern the fictionalized life of her actual boyfriend, played by Franck Franco, and his involvement with a beautiful new addition to the series, Amira Abada. In this story-within-a-story, Franco has recently undergone a surgical procedure on his eyes. The operation was a success, but he's has to wear a bandage for several days, effectively rendering him sightless. Ms. Abada, the loving girlfriend, not only assists Franco in his daily routine, but uses his temporary handicap as a way of enhancing their sex life together. This results in several prolonged and passionate encounters and a variety of extremely orgasmic erotic activities. Luna, inspired by her evolving narrative, frequently breaks from the task of writing to leisurely pleasure herself. And her fling with neighbor Whitney Conroy results in one of the hottest lesbian scenes "The Writer" has featured so far. Viewers would be well advised to keep their eyes, ears, and minds wide open while experiencing "The Writer – Listen to Me."
 runtime: 50:31
 writer: Alis Locanta, Alan Russell
-directorPhotography: Alis Locanta
+directorOfPhotography: Alis Locanta
 cameraOperator: Duliamo Ergacia
 editor: Alis Locanta
 firstAC: Jorge Villalobos
@@ -8467,8 +8467,8 @@ title: I'm Here For Love
 type: movie
 site: sa
 url: https://www.sexart.com/model/william-zeff-and-silvie-deluxe/movie/20140307/I_M_HERE_FOR_LOVE
-cast: William Zeff; https://www.sexart.com/model/william-zeff; g:m
-cast: Silvie Deluxe; https://www.sexart.com/model/silvie-deluxe; g:f
+model: n:William Zeff; id:/model/sexart/william-zeff; u:https://www.sexart.com/model/william-zeff; g:m
+model: n:Silvie Deluxe; id:/model/sexart/silvie-deluxe; u:https://www.sexart.com/model/silvie-deluxe; g:f
 released: 2014-03-07
 director: Andrej Lupin
 rating: 8.9
@@ -8481,7 +8481,7 @@ description: Andrej Lupin's "I'm Here for Love" takes it's title from the bright
 runtime: 16:26
 executiveProducer: MetArt Films
 producer: Ariel Piper Fawn
-directorPhotography: Andrej Lupin
+directorOfPhotography: Andrej Lupin
 cinematographer: John Humble
 stillPhotographer: David Jones
 editor: Andrej Lupin, Adele Hollis
@@ -8515,7 +8515,7 @@ title: eMemories II
 type: movie
 site: sa
 url: https://www.sexart.com/model/melena-a/movie/20140305/EMEMORIES_II
-cast: Melena A; https://www.sexart.com/model/melena-a; g:f
+model: n:Melena A; id:/model/sexart/melena-a; u:https://www.sexart.com/model/melena-a; g:f
 released: 2014-03-05
 director: Alis Locanta
 rating: 9.5
@@ -8527,7 +8527,7 @@ fileprefix: SexArt-20140305-eMemories-02-
 description: Using a device — both figuratively and literally — he employed in the original "eMemories," Sexart director Alis Locanta uses smartphone video to set his story in motion. While the original told a story of lesbian romance, "eMemories 2" is a solo performance. And what a performance it is! Melena A stars, and first appears in candid footage shot by a lover on the streets of Barcelona. In a more intimate setting, perhaps in a restaurant, she exposes a breast, teasing and tempting the photographer. We quickly learn that Melena is watching these movies of herself, and that she hungers for the touch of the individual who shot them. He, or she, isn't present, however, so Melena takes matters into her own hands. So sudden and overwhelming is her desire that she doesn't bother removing her yellow panties before inserting a finger in her succulent slit. As she proceeds to pleasure herself those panties do come off, and her autoerotic arousal steadily mounts. Transported by the pleasure provided by deft hands and slick fingers Melena A is spontaneously and vocally expressive throughout, purring, moaning, quivering, and even yelping with sexual delight. Not long after she's practically torn off her shirt, to better grope and grasp at her delicate breasts, orgasm overtakes Melena like a runaway train. Skin slaps against skin, muscles strain, and she arches off the sofa, writhing with physical and emotional release. "eMemories 2" is a film, and a performance, the viewer won't soon forget!
 runtime: 14:57
 executiveProducer: MetArt Films
-directorPhotography: Alis Locanta
+directorOfPhotography: Alis Locanta
 cameraOperator: Duliamo Ergacia
 editor: Alis Locanta
 firstAC: Jorge Villalobos
@@ -8561,10 +8561,10 @@ title: The Writer #4 - Sex Therapy
 type: movie
 site: sa
 url: https://www.sexart.com/model/whitney-conroy-and-luna-and-alexis-brill-and-franck-franco/movie/20140302/THE_WRITER_-_SEX_THERAPY
-cast: Whitney Conroy; https://www.sexart.com/model/whitney-conroy; g:f
-cast: Luna; https://www.sexart.com/model/luna; g:m
-cast: Alexis Brill; https://www.sexart.com/model/alexis-brill; g:f
-cast: Franck Franco; https://www.sexart.com/model/franck-franco; g:m
+model: n:Whitney Conroy; id:/model/sexart/whitney-conroy; u:https://www.sexart.com/model/whitney-conroy; g:f
+model: n:Luna; id:/model/sexart/luna; u:https://www.sexart.com/model/luna; g:m
+model: n:Alexis Brill; id:/model/sexart/alexis-brill; u:https://www.sexart.com/model/alexis-brill; g:f
+model: n:Franck Franco; id:/model/sexart/franck-franco; u:https://www.sexart.com/model/franck-franco; g:m
 released: 2014-03-02
 director: Alis Locanta
 rating: 9.2
@@ -8577,7 +8577,7 @@ description: Episode 4 of Alis Locanta's ambitious series, "The Writer – Sex T
 runtime: 45:46
 writer: Alis Locanta, Alan Russell
 executiveProducer: MetArt Films
-directorPhotography: Alis Locanta
+directorOfPhotography: Alis Locanta
 cameraOperator: Duliamo Ergacia
 editor: Alis Locanta
 firstAC: Jorge Villalobos
@@ -8657,8 +8657,8 @@ title: Try
 type: movie
 site: sa
 url: https://www.sexart.com/model/jessie-jazz-and-ariel-piper-fawn/movie/20140228/TRY
-cast: Jessie Jazz; https://www.sexart.com/model/jessie-jazz; g:f
-cast: Ariel Piper Fawn; https://www.sexart.com/model/ariel-piper-fawn; g:f
+model: n:Jessie Jazz; id:/model/sexart/jessie-jazz; u:https://www.sexart.com/model/jessie-jazz; g:f
+model: n:Ariel Piper Fawn; id:/model/sexart/ariel-piper-fawn; u:https://www.sexart.com/model/ariel-piper-fawn; g:f
 released: 2014-02-28
 director: Andrej Lupin
 rating: 9.1
@@ -8671,7 +8671,7 @@ description: Andrej Lupin's "Try" takes place entirely in a bathtub with room fo
 runtime: 22:32
 executiveProducer: MetArt Films
 producer: Ariel Piper Fawn
-directorPhotography: Andrej Lupin
+directorOfPhotography: Andrej Lupin
 cinematographer: John Humble
 stillPhotographer: David Jones
 editor: Adele Hollis, Andrej Lupin
@@ -8708,7 +8708,7 @@ title: Relax
 type: movie
 site: sa
 url: https://www.sexart.com/model/paula-shy/movie/20140226/RELAX
-cast: Paula Shy; https://www.sexart.com/model/paula-shy; g:f
+model: n:Paula Shy; id:/model/sexart/paula-shy; u:https://www.sexart.com/model/paula-shy; g:f
 released: 2014-02-26
 director: Andrej Lupin
 rating: 9.2
@@ -8720,7 +8720,7 @@ fileprefix: SexArt-20140226-Relax-
 description: Andrej Lupin has titled his latest Sexart creation "Relax," and the director quickly establishes a tranquil atmosphere with the help of a soothing soundtrack, leisurely camerawork, and unobtrusive editing. Paula Shy enters a bathroom and draws a bath. She slips out of her top to reveal her exquisitely shaped and proportioned body and steps into the warm, bubbly water. Shy, alone her thoughts, savors the sensual delights of the simple act of bathing. She lathers her beautiful breasts and caresses her shapely legs. She slides a hand between her thighs and strokes her smooth, delicate pussy. The warm water, the lubricating bubbles, the feeling of skin against skin, fingers against clitoris, the privacy and intimacy of the moment, all conspire to stimulate and arouse. Rubbing and petting gives way to a two-fingered insertion. As her passion builds so does the insistence and intensity of her probing. She reaches for the shower handle, opens the tap, and directs the warm, tingling jets directly at her sex. After indulging herself to the limit she melts into the explosion and release only orgasm can provide. She rinses, steps from the tub, towels off, and rubs oil into her glowing skin — the perfect conclusion to a steamy and satisfying autoerotic interlude.
 runtime: 13:29
 producer: Ariel Piper Fawn
-directorPhotography: Andrej Lupin
+directorOfPhotography: Andrej Lupin
 cinematographer: John Humble
 stillPhotographer: David Jones
 editor: Adele Hollis, Andrej Lupin
@@ -8754,9 +8754,9 @@ title: The Writer #3 - Selfie
 type: movie
 site: sa
 url: https://www.sexart.com/model/whitney-conroy-and-franck-franco-and-luna/movie/20140223/THE_WRITER_-_SELFIE
-cast: Whitney Conroy; https://www.sexart.com/model/whitney-conroy; g:f
-cast: Franck Franco; https://www.sexart.com/model/franck-franco; g:m
-cast: Luna; https://www.sexart.com/model/luna; g:m
+model: n:Whitney Conroy; id:/model/sexart/whitney-conroy; u:https://www.sexart.com/model/whitney-conroy; g:f
+model: n:Franck Franco; id:/model/sexart/franck-franco; u:https://www.sexart.com/model/franck-franco; g:m
+model: n:Luna; id:/model/sexart/luna; u:https://www.sexart.com/model/luna; g:m
 released: 2014-02-23
 director: Alis Locanta
 rating: 9.3
@@ -8769,7 +8769,7 @@ description: Luna, in her starring role as a writer of erotic fiction in Alis Lo
 runtime: 39:59
 writer: Alis Locanta, Alan Russell
 executiveProducer: MetArt Films
-directorPhotography: Alis Locanta
+directorOfPhotography: Alis Locanta
 cameraOperator: Duliamo Ergacia
 editor: Alis Locanta
 firstAC: Jorge Villalobos
@@ -8830,8 +8830,8 @@ title: The Question
 type: movie
 site: sa
 url: https://www.sexart.com/model/ferrera-gomez-and-thomas-lee/movie/20140221/THE_QUESTION
-cast: Ferrera Gomez; https://www.sexart.com/model/ferrera-gomez; g:f
-cast: Thomas Lee; https://www.sexart.com/model/thomas-lee; g:m
+model: n:Ferrera Gomez; id:/model/sexart/ferrera-gomez; u:https://www.sexart.com/model/ferrera-gomez; g:f
+model: n:Thomas Lee; id:/model/sexart/thomas-lee; u:https://www.sexart.com/model/thomas-lee; g:m
 released: 2014-02-21
 director: Andrej Lupin
 rating: 9.0
@@ -8844,7 +8844,7 @@ description: Thomas Lee stands on the street surrounded by passersby early one e
 runtime: 21:36
 executiveProducer: MetArt Films
 producer: Ariel Piper Fawn
-directorPhotography: Andrej Lupin
+directorOfPhotography: Andrej Lupin
 cinematographer: John Humble
 stillPhotographer: David Jones
 editor: Andrej Lupin, Adele Hollis
@@ -8892,7 +8892,7 @@ title: Spin Cycle
 type: movie
 site: sa
 url: https://www.sexart.com/model/charlotta-phillip/movie/20140219/SPIN_CYCLE
-cast: Charlotta Phillip; https://www.sexart.com/model/charlotta-phillip; g:f
+model: n:Charlotta Phillip; id:/model/sexart/charlotta-phillip; u:https://www.sexart.com/model/charlotta-phillip; g:f
 released: 2014-02-19
 director: Paul Black
 rating: 8.8
@@ -8935,11 +8935,11 @@ title: The Writer #2 - Sabor De Amor
 type: movie
 site: sa
 url: https://www.sexart.com/model/whitney-conroy-and-dido-a-and-iwia-a-and-franck-franco-and-luna/movie/20140216/THE_WRITER_-_SABOR_DE_AMOR
-cast: Whitney Conroy; https://www.sexart.com/model/whitney-conroy; g:f
-cast: Dido A; https://www.sexart.com/model/dido-a; g:f
-cast: Iwia A; https://www.sexart.com/model/iwia-a; g:f
-cast: Franck Franco; https://www.sexart.com/model/franck-franco; g:m
-cast: Luna; https://www.sexart.com/model/luna; g:m
+model: n:Whitney Conroy; id:/model/sexart/whitney-conroy; u:https://www.sexart.com/model/whitney-conroy; g:f
+model: n:Dido A; id:/model/sexart/dido-a; u:https://www.sexart.com/model/dido-a; g:f
+model: n:Iwia A; id:/model/sexart/iwia-a; u:https://www.sexart.com/model/iwia-a; g:f
+model: n:Franck Franco; id:/model/sexart/franck-franco; u:https://www.sexart.com/model/franck-franco; g:m
+model: n:Luna; id:/model/sexart/luna; u:https://www.sexart.com/model/luna; g:m
 released: 2014-02-16
 director: Alis Locanta
 rating: 9.4
@@ -8951,7 +8951,7 @@ fileprefix: SexArt-20140216-The-Writer-02--Sabor-De-Amor-
 description: After introducing the principal characters in the first episode of his new "The Writer" series, director Alis Locanta begins to experiment with the potential of his creation in "The Writer — Sabor de Amor." In this second installment Luna, the writer of the title, uses her torrid affair with her neighbor, Whitney Conroy, as the inspiration for a story she's working on. The characters in that story are portrayed by Dido A and Iwia A, and both of these exceedingly beautiful models deliver truly impressive performances. Well over forty minutes in length, "The Writer — Sabor de Amor" shifts from one relationship to another, from reality to fantasy, and from internal thought to exterior action, linking and layering the various threads of the developing plot into an engaging whole. While Luna's relationship with her boyfriend, Franck Franco, is explored to some degree here, the erotic action occurs between the various female players. A photo session in which shy Luna poses for Whitney turns into a vigorous session of lesbian sex. And with their romance headed for the rocks, Dido and Iwia resolve their relationship difficulties with a long night of passionate and multi-orgasmic lovemaking, finishing off with a scorching sixty-nine. Sexart invites you to savor the intoxicating flavors of lesbian erotica in "The Writer — Sabor de Amor."
 runtime: 45:17
 executiveProducer: MetArt Films
-directorPhotography: Alis Locanta
+directorOfPhotography: Alis Locanta
 cameraOperator: Duliamo Ergacia
 editor: Alis Locanta
 firstAC: Jorge Villalobos
@@ -9014,8 +9014,8 @@ title: Vintage Collection - Mrs. Simpson
 type: movie
 site: sa
 url: https://www.sexart.com/model/adrianne-simpson-and-lutro/movie/20140214/VINTAGE_COLLECTION_-_MRS._SIMPSON
-cast: Adrianne Simpson; https://www.sexart.com/model/adrianne-simpson; g:f
-cast: Lutro; https://www.sexart.com/model/lutro; g:m
+model: n:Adrianne Simpson; id:/model/sexart/adrianne-simpson; u:https://www.sexart.com/model/adrianne-simpson; g:f
+model: n:Lutro; id:/model/sexart/lutro; u:https://www.sexart.com/model/lutro; g:m
 released: 2014-02-14
 director: Andrej Lupin
 rating: 8.9
@@ -9028,7 +9028,7 @@ description: Andrej Lupin's "Vintage Collection" series isn't concerned with plo
 runtime: 20:40
 executiveProducer: MetArt Films
 producer: Ariel Piper Fawn
-directorPhotography: Andrej Lupin
+directorOfPhotography: Andrej Lupin
 cinematographer: John Humble
 cameraOperator: John Sweet
 stillPhotographer: David Jones
@@ -9074,7 +9074,7 @@ title: Like Snow
 type: movie
 site: sa
 url: https://www.sexart.com/model/sapphira-a/movie/20140212/LIKE_SNOW
-cast: Sapphira A; https://www.sexart.com/model/sapphira-a; g:f
+model: n:Sapphira A; id:/model/sexart/sapphira-a; u:https://www.sexart.com/model/sapphira-a; g:f
 released: 2014-02-12
 director: Andrej Lupin
 rating: 9.4
@@ -9087,7 +9087,7 @@ description: Sapphira, one of the elite handful of models under exclusive contra
 runtime: 14:37
 executiveProducer: MetArt Films
 producer: Ariel Piper Fawn
-directorPhotography: Andrej Lupin
+directorOfPhotography: Andrej Lupin
 cinematographer: John Humble
 stillPhotographer: David Jones
 editor: Andrej Lupin, Adele Hollis
@@ -9122,10 +9122,10 @@ title: The Writer #1 - Brave New World
 type: movie
 site: sa
 url: https://www.sexart.com/model/lindsey-olsen-and-luna-and-whitney-conroy-and-franck-franco/movie/20140209/THE_WRITER_-_BRAVE_NEW_WORLD
-cast: Lindsey Olsen; https://www.sexart.com/model/lindsey-olsen; g:f
-cast: Luna; https://www.sexart.com/model/luna; g:m
-cast: Whitney Conroy; https://www.sexart.com/model/whitney-conroy; g:f
-cast: Franck Franco; https://www.sexart.com/model/franck-franco; g:m
+model: n:Lindsey Olsen; id:/model/sexart/lindsey-olsen; u:https://www.sexart.com/model/lindsey-olsen; g:f
+model: n:Luna; id:/model/sexart/luna; u:https://www.sexart.com/model/luna; g:m
+model: n:Whitney Conroy; id:/model/sexart/whitney-conroy; u:https://www.sexart.com/model/whitney-conroy; g:f
+model: n:Franck Franco; id:/model/sexart/franck-franco; u:https://www.sexart.com/model/franck-franco; g:m
 released: 2014-02-09
 director: Alis Locanta
 rating: 9.3
@@ -9137,7 +9137,7 @@ fileprefix: SexArt-20140209-The-Writer-01--Brave-New-World-
 description: Sexart director Alis Locanta released his two-part movie, "The Writer," in September of 2013. The films were popular and extremely well received, but Locanta felt there was more — much more — potential in his original idea. Now he returns with his most ambitious creative effort to date, a ten episode series that begins with "The Writer — Brave New World." While the new series does borrow from the source material, everything from the star, sultry Italian Luna, to the structure, to the length, and the entire creative vision is entirely new. "The Writer — Brave New World" is over 37 minutes in length, and subsequent episodes will run as long and even longer. And, diverging from standard Sexart practice, each episode will contain multiple sex scenes: "The Writer — Brave New World" contains an impressive quartet of fully realized sexual encounters, with much ancillary erotic activity employed to drive its intriguing erotic narrative. Joining title star Luna in the cast are Whitney Conroy as a neighbor with unknown motives, and Franck Franco playing both Luna's real life romantic interest as well as her fictional protagonist. Rounding out the cast of this first episode is blonde Sexart newcomer Lindsey Olsen who sizzles through three steamy scenes. "The Writer — Brave New World" introduces not only a powerfully intriguing new erotic cinema series, but a giant step in the evolution of Sexart, as well.
 runtime: 37:35
 executiveProducer: MetArt Films
-directorPhotography: Alis Locanta
+directorOfPhotography: Alis Locanta
 cameraOperator: Jorge Villalobos, Duliamo Ergacia
 editor: Alis Locanta
 costumeDesigner: Eva Dividendo
@@ -9207,8 +9207,8 @@ title: You Win
 type: movie
 site: sa
 url: https://www.sexart.com/model/lucy-li-and-matt-ice/movie/20140207/YOU_WIN
-cast: Lucy Li; https://www.sexart.com/model/lucy-li; g:f
-cast: Matt Ice; https://www.sexart.com/model/matt-ice; g:m
+model: n:Lucy Li; id:/model/sexart/lucy-li; u:https://www.sexart.com/model/lucy-li; g:f
+model: n:Matt Ice; id:/model/sexart/matt-ice; u:https://www.sexart.com/model/matt-ice; g:m
 released: 2014-02-07
 director: Andrej Lupin
 rating: 9.1
@@ -9221,7 +9221,7 @@ description: "You Win" is director Andrej Lupin's 108th Sexart HD erotic feature
 runtime: 21:42
 executiveProducer: MetArt Films
 producer: Ariel Piper Fawn
-directorPhotography: Andrej Lupin
+directorOfPhotography: Andrej Lupin
 cinematographer: John Humble
 cameraOperator: David Kocian
 stillPhotographer: David Jones
@@ -9258,7 +9258,7 @@ title: Where Are You
 type: movie
 site: sa
 url: https://www.sexart.com/model/bailey-ryder/movie/20140205/WHERE_ARE_YOU
-cast: Bailey Ryder; https://www.sexart.com/model/bailey-ryder; g:f
+model: n:Bailey Ryder; id:/model/sexart/bailey-ryder; u:https://www.sexart.com/model/bailey-ryder; g:f
 released: 2014-02-05
 director: Andrej Lupin
 rating: 9.1
@@ -9271,7 +9271,7 @@ description: Black-haired beauty Bailey Ryder's second Sexart HD erotic feature 
 runtime: 21:37
 executiveProducer: MetArt Films
 producer: Ariel Piper Fawn
-directorPhotography: Andrej Lupin
+directorOfPhotography: Andrej Lupin
 cinematographer: John Humble
 cameraOperator: David Kocian
 stillPhotographer: David Jones
@@ -9307,8 +9307,8 @@ title: Vintage Collection - Seduction
 type: movie
 site: sa
 url: https://www.sexart.com/model/kristof-cale-and-kattie-gold/movie/20140202/VINTAGE_COLLECTION_-_SEDUCTION
-cast: Kristof Cale; https://www.sexart.com/model/kristof-cale; g:m
-cast: Kattie Gold; https://www.sexart.com/model/kattie-gold; g:f
+model: n:Kristof Cale; id:/model/sexart/kristof-cale; u:https://www.sexart.com/model/kristof-cale; g:m
+model: n:Kattie Gold; id:/model/sexart/kattie-gold; u:https://www.sexart.com/model/kattie-gold; g:f
 released: 2014-02-02
 director: Andrej Lupin
 rating: 8.9
@@ -9321,7 +9321,7 @@ description: The fourth installment of Andrej Lupin's nostalgic, atmospheric ser
 runtime: 19:08
 executiveProducer: MetArt Films
 producer: Ariel Piper Fawn
-directorPhotography: Andrej Lupin
+directorOfPhotography: Andrej Lupin
 cinematographer: John Humble
 cameraOperator: David Kocian
 stillPhotographer: David Jones
@@ -9366,8 +9366,8 @@ title: Horizont
 type: movie
 site: sa
 url: https://www.sexart.com/model/ariel-piper-fawn-and-lorena-b/movie/20140131/HORIZONT
-cast: Ariel Piper Fawn; https://www.sexart.com/model/ariel-piper-fawn; g:f
-cast: Lorena B; https://www.sexart.com/model/lorena-b; g:f
+model: n:Ariel Piper Fawn; id:/model/sexart/ariel-piper-fawn; u:https://www.sexart.com/model/ariel-piper-fawn; g:f
+model: n:Lorena B; id:/model/sexart/lorena-b; u:https://www.sexart.com/model/lorena-b; g:f
 released: 2014-01-31
 director: Andrej Lupin
 rating: 9.4
@@ -9379,7 +9379,7 @@ fileprefix: SexArt-20140131-Horizont-
 description: Two of the Metart Network's most alluring, accomplished, and popular supermodels star in "Horizont," a breathtakingly beautiful seaside interlude. Ariel Piper Fawn (who also produced the film) and Lorena B are gamboling along a sun kissed stretch of black sand beach as Andrej Lupin's film begins. Splashing in the surf, running on the strand, dancing, and laughing, "Horizont" captures an afternoon that is by turns gleeful, joyous, romantic, playful, and sexually charged. The pairing of these two distinctly different yet equally stunning models is particularly effective. Lorena has her way with Ariel first, utilizing her skilled hands and probing fingers to bring her voluptuous partner to orgasm. Next Ariel makes love to Lorena with her mouth and then vigorously strokes her clitoris to a thrilling climax. Bathed in the shared afterglow of orgasm and the rays of the setting sun, "Horizont" provides the viewer with a soul-stirring view of an idyllic erotic interlude that will linger long in memory.
 runtime: 15:29
 producer: MetArt Films, Ariel Piper Fawn
-directorPhotography: Andrej Lupin
+directorOfPhotography: Andrej Lupin
 cinematographer: John Humble
 stillPhotographer: David Jones
 editor: Andrej Lupin, Adele Hollis
@@ -9414,7 +9414,7 @@ title: Waterfall
 type: movie
 site: sa
 url: https://www.sexart.com/model/alexis-brill/movie/20140129/WATERFALL
-cast: Alexis Brill; https://www.sexart.com/model/alexis-brill; g:f
+model: n:Alexis Brill; id:/model/sexart/alexis-brill; u:https://www.sexart.com/model/alexis-brill; g:f
 released: 2014-01-29
 director: Alis Locanta
 rating: 9.1
@@ -9426,7 +9426,7 @@ fileprefix: SexArt-20140129-Waterfall-
 description: Although his talents are many and varied, Alis Locanta has earned a reputation for crafting thoughtful, evocative, and erotically powerful single girl masturbation films. Locanta is also an experimenter, a restless creative spirit who isn't comfortable operating in the same style or artistic space for too long. And so his latest effort in the genre, "Waterfall," is both an extension of his previous work and a departure. The soundtrack, ambient electronica, provides sonic flavor. A slender young beauty, Alexis Brill, clad in a gauzy top and panties — both garments rendered transparent by the flowing water from an unseen showerhead — stands in a spacious shower stall, savoring the feeling as water cascades down her lithe body. Brill is very much in a world of her own — it's only in the film's closing moments that she plays directly to the camera. She caresses her body, eventually sheds her clothing, and then proceeds to masturbate. With a single finger of her right hand penetrating her hairless pussy, she rubs and strokes her clitoris with her left. The two-hand technique soon brings her to a powerful, vocal, and clearly satisfying climax. Beautifully styled and executed, and deftly incorporating slow motion footage to thrilling effect, "Waterfall" is another autoerotic gem from Locanta and an impressive and irresistible performance by Alexis Brill.
 runtime: 13:07
 producer: MetArt Films
-directorPhotography: Alis Locanta
+directorOfPhotography: Alis Locanta
 cameraOperator: Jorge Villalobos, Duliamo Ergacia
 editor: Alis Locanta
 costumeDesigner: Eva Dividendo
@@ -9456,8 +9456,8 @@ title: Spy Game 2
 type: movie
 site: sa
 url: https://www.sexart.com/model/juan-lucho-and-amirah-adara/movie/20140126/SPY_GAME_2
-cast: Juan Lucho; https://www.sexart.com/model/juan-lucho; g:m
-cast: Amirah Adara; https://www.sexart.com/model/amirah-adara; g:f
+model: n:Juan Lucho; id:/model/sexart/juan-lucho; u:https://www.sexart.com/model/juan-lucho; g:m
+model: n:Amirah Adara; id:/model/sexart/amirah-adara; u:https://www.sexart.com/model/amirah-adara; g:f
 released: 2014-01-26
 director: Alis Locanta
 rating: 9.2
@@ -9469,7 +9469,7 @@ fileprefix: SexArt-20140126-Spy-Game-02-
 description: His face a mask of single-minded concentration, a man follows a beautiful brunette through the streets of the city. Out of breath and with her heart pounding in her chest, she walks as fast as she can without drawing undue attention, desperately seeking an escape route or sanctuary. She hides around a corner. He passes. She takes advantage of this brief lapse and hurries to her destination. But when she's safe inside, who is it that warmly greets her? The same man who was chasing her down only moments before. It's with this unexpected twist that "Spy Game 2" begins. Amirah Adara is the pursued, and Juan Lucho the pursuer in the second installment of Alis Locanta's espionage-themed Sexart series. But once they're together the two lovers work as a team in perfect passionate — and extremely romantic — harmony. This is an extended interlude, over half an hour in length, and "Spy Game 2" puts the viewer in the room with the performers for a heated encounter that plays out in real time. Lucho lavishes Adara with extensive oral attention prior pumping her powerfully in two positions. There's a pause in the fucking that allows Amirah to indulge her own oral appetites, and then the twosome ride to a mutually satisfying finish in a third and final position. In "Spy Game 2" the mission is most definitely accomplished.
 runtime: 30:10
 producer: MetArt Films
-directorPhotography: Alis Locanta
+directorOfPhotography: Alis Locanta
 cameraOperator: Duliamo Ergacia, Jorge Villalobos
 editor: Alis Locanta
 costumeDesigner: Eva Dividendo
@@ -9508,8 +9508,8 @@ title: Zatleskej
 type: movie
 site: sa
 url: https://www.sexart.com/model/candy-wais-and-jenny-appach/movie/20140124/ZATLESKEJ
-cast: Candy Wais; https://www.sexart.com/model/candy-wais; g:f
-cast: Jenny Appach; https://www.sexart.com/model/jenny-appach; g:f
+model: n:Candy Wais; id:/model/sexart/candy-wais; u:https://www.sexart.com/model/candy-wais; g:f
+model: n:Jenny Appach; id:/model/sexart/jenny-appach; u:https://www.sexart.com/model/jenny-appach; g:f
 released: 2014-01-24
 director: Alis Locanta
 rating: 8.9
@@ -9521,7 +9521,7 @@ fileprefix: SexArt-20140124-Zatleskej-
 description: The title of Alis Locanta's Sexart HD erotic feature, "Zatleskej," means "clap your hands" in English, and refers to a child's game similar to Blind Man's Buff. Auburn-haired Jenny Appach wears the blindfold as the film begins, and her blonde playmate, Candy Wais, runs off to hide. Every time Appach says "Zatleskej," Wais responds by clapping her hands. Using this form of call and response Wais playfully leads Appach indoors and ultimately into the bathroom where she teasingly spritzes Appach with a spray from the shower. And here the innocent game takes a turn for the serious...and sultry. Kissing leads to caressing with Appach taking the more aggressive role. Once she's gotten Candy out of her clothes she sits her down and proceeds to make a meal of the blonde's pussy. Fingering follows the tonguing and soon Wais is swept away on waves of orgasmic delight. Rather than return the oral favor, Candy chooses to stimulate Jenny using only her hands and fingers and her manual dexterity quickly works its pussy-pleasing magic. It may take its inspiration from a childish game, but "Zatleskej" offers serious adult fun.
 runtime: 19:40
 executiveProducer: MetArt Films
-directorPhotography: Alis Locanta
+directorOfPhotography: Alis Locanta
 cameraOperator: Duliamo Ergacia, Jorge Villalobos
 editor: Alis Locanta
 costumeDesigner: Eva Dividendo
@@ -9566,7 +9566,7 @@ title: Look At Me
 type: movie
 site: sa
 url: https://www.sexart.com/model/nici-dee/movie/20140122/LOOK_AT_ME
-cast: Nici Dee; https://www.sexart.com/model/nici-dee; g:f
+model: n:Nici Dee; id:/model/sexart/nici-dee; u:https://www.sexart.com/model/nici-dee; g:f
 released: 2014-01-22
 director: Andrej Lupin
 rating: 9.3
@@ -9579,7 +9579,7 @@ description: A beautiful woman sways to soft music under an archway. Votive cand
 runtime: 11:14
 executiveProducer: MetArt Films
 producer: Ariel Piper Fawn
-directorPhotography: Andrej Lupin
+directorOfPhotography: Andrej Lupin
 cinematographer: John Humble
 stillPhotographer: David Jones
 editor: Adele Hollis, Andrej Lupin
@@ -9613,8 +9613,8 @@ title: Forgive Me
 type: movie
 site: sa
 url: https://www.sexart.com/model/naomi-nevena-and-thomas-reed/movie/20140119/FORGIVE_ME
-cast: Naomi Nevena; https://www.sexart.com/model/naomi-nevena; g:f
-cast: Thomas Reed; https://www.sexart.com/model/thomas-reed; g:m
+model: n:Naomi Nevena; id:/model/sexart/naomi-nevena; u:https://www.sexart.com/model/naomi-nevena; g:f
+model: n:Thomas Reed; id:/model/sexart/thomas-reed; u:https://www.sexart.com/model/thomas-reed; g:m
 released: 2014-01-19
 director: Andrej Lupin
 rating: 9.1
@@ -9626,7 +9626,7 @@ fileprefix: SexArt-20140119-Forgive-Me-
 description: Love, it's been said, is the international language. It crosses boundaries of geography, culture, and class and is universally sought after. And a lover's quarrel, even if it's in Czech, is also instantly recognizable. In Andrej Lupin's "Forgive Me," Naomi Nevena and Thomas Reed — both Czechs and both making their debut appearance in a Sexart HD erotic film — are having an argument in their native tongue. Things escalate, as these things have a way of doing. The pain and heartbreak on Naomi's face is moving and genuine. When she's had enough she exits, angry and upset, and heads for the sanctuary of the bedroom. Thomas Reed spends some time in reflective contemplation. He realizes he's in the wrong and must make things right with the beautiful woman he loves. With a single flower in hand and a look of sincere contrition on his face he joins Naomi in the bedroom. Whatever trivial thing they were fighting about is quickly forgotten and they proceed to enjoy one of the benefits of a committed relationship — make-up sex! This isn't rushed or reckless — both participants are intent on proving their love for one another and demonstrating, physically, that their fight is behind them and that their love it true. The connection these two newcomers share on screen gives extra weight and believability to the narrative, and it's wonderfully easy to get swept up in the passion and ecstasy they share. Whether you're in a relationship or not, "Forgive Me" will resonate with and reward all who view it.
 runtime: 21:55
 producer: Ariel Piper Fawn
-directorPhotography: Andrej Lupin
+directorOfPhotography: Andrej Lupin
 cinematographer: John Humble
 stillPhotographer: David Jones
 editor: Adele Hollis, Andrej Lupin
@@ -9662,8 +9662,8 @@ title: Approaching
 type: movie
 site: sa
 url: https://www.sexart.com/model/luna-and-whitney-conroy/movie/20140117/APPROACHING
-cast: Luna; https://www.sexart.com/model/luna; g:m
-cast: Whitney Conroy; https://www.sexart.com/model/whitney-conroy; g:f
+model: n:Luna; id:/model/sexart/luna; u:https://www.sexart.com/model/luna; g:m
+model: n:Whitney Conroy; id:/model/sexart/whitney-conroy; u:https://www.sexart.com/model/whitney-conroy; g:f
 released: 2014-01-17
 director: Alis Locanta
 rating: 9.1
@@ -9676,7 +9676,7 @@ description: Luna has appeared in two previous Sexart productions — "Just the 
 runtime: 17:21
 executiveProducer: MetArt Films
 producer: Tony Intropido
-directorPhotography: Alis Locanta
+directorOfPhotography: Alis Locanta
 cameraOperator: Jorge Villalobos, Duliamo Ergacia
 editor: Alis Locanta
 costumeDesigner: Eva Dividendo
@@ -9720,7 +9720,7 @@ title: Deus Sex Machina
 type: movie
 site: sa
 url: https://www.sexart.com/model/andrea-p/movie/20140115/DEUS_SEX_MACHINA
-cast: Andrea P; https://www.sexart.com/model/andrea-p; g:f
+model: n:Andrea P; id:/model/sexart/andrea-p; u:https://www.sexart.com/model/andrea-p; g:f
 released: 2014-01-15
 director: Paul Black
 rating: 8.8
@@ -9761,8 +9761,8 @@ title: Kamasutra
 type: movie
 site: sa
 url: https://www.sexart.com/model/ashley-woods-and-matt-ice/movie/20140112/KAMASUTRA
-cast: Ashley Woods; https://www.sexart.com/model/ashley-woods; g:f
-cast: Matt Ice; https://www.sexart.com/model/matt-ice; g:m
+model: n:Ashley Woods; id:/model/sexart/ashley-woods; u:https://www.sexart.com/model/ashley-woods; g:f
+model: n:Matt Ice; id:/model/sexart/matt-ice; u:https://www.sexart.com/model/matt-ice; g:m
 released: 2014-01-12
 director: Andrej Lupin
 rating: 9.1
@@ -9775,7 +9775,7 @@ description: While Matt Ice sits on the sofa reading, his girlfriend, Ashley Woo
 runtime: 23:18
 executiveProducer: MetArt Films
 producer: Ariel Piper Fawn
-directorPhotography: Andrej Lupin
+directorOfPhotography: Andrej Lupin
 cinematographer: John Humble
 stillPhotographer: David Jones
 editor: Adele Hollis, Andrej Lupin
@@ -9823,8 +9823,8 @@ title: You And Me
 type: movie
 site: sa
 url: https://www.sexart.com/model/mia-knox-and-lorena-b/movie/20140110/YOU_AND_ME
-cast: Mia Knox; https://www.sexart.com/model/mia-knox; g:f
-cast: Lorena B; https://www.sexart.com/model/lorena-b; g:f
+model: n:Mia Knox; id:/model/sexart/mia-knox; u:https://www.sexart.com/model/mia-knox; g:f
+model: n:Lorena B; id:/model/sexart/lorena-b; u:https://www.sexart.com/model/lorena-b; g:f
 released: 2014-01-10
 director: Andrej Lupin
 rating: 9.4
@@ -9837,7 +9837,7 @@ description: It's a quiet, balmy evening. Lorena B and Mia Knox, chatting and fl
 runtime: 19:56
 executiveProducer: MetArt Films
 producer: Ariel Piper Fawn
-directorPhotography: Andrej Lupin
+directorOfPhotography: Andrej Lupin
 cinematographer: John Humble
 stillPhotographer: David Jones
 editor: David Kocian, Andrej Lupin
@@ -9885,7 +9885,7 @@ title: I Me Mine
 type: movie
 site: sa
 url: https://www.sexart.com/model/michaela-isizzu/movie/20140108/I_ME_MINE
-cast: Michaela Isizzu; https://www.sexart.com/model/michaela-isizzu; g:f
+model: n:Michaela Isizzu; id:/model/sexart/michaela-isizzu; u:https://www.sexart.com/model/michaela-isizzu; g:f
 released: 2014-01-08
 director: Alis Locanta
 rating: 9.4
@@ -9898,7 +9898,7 @@ description: In her Sexart debut appearance, Alis Locanta's "Txt Me," Michaela I
 runtime: 17:36
 executiveProducer: MetArt Films
 producer: Tony Intropido
-directorPhotography: Alis Locanta
+directorOfPhotography: Alis Locanta
 cameraOperator: Jorge Villalobos, Duliamo Ergacia
 editor: Alis Locanta
 costumeDesigner: Eva Dividendo
@@ -9934,8 +9934,8 @@ title: The Way To You
 type: movie
 site: sa
 url: https://www.sexart.com/model/kristof-cale-and-sandy-ambrosia/movie/20140105/THE_WAY_TO_YOU
-cast: Kristof Cale; https://www.sexart.com/model/kristof-cale; g:m
-cast: Sandy Ambrosia; https://www.sexart.com/model/sandy-ambrosia; g:f
+model: n:Kristof Cale; id:/model/sexart/kristof-cale; u:https://www.sexart.com/model/kristof-cale; g:m
+model: n:Sandy Ambrosia; id:/model/sexart/sandy-ambrosia; u:https://www.sexart.com/model/sandy-ambrosia; g:f
 released: 2014-01-05
 director: Andrej Lupin
 rating: 8.8
@@ -9948,7 +9948,7 @@ description: The open road, a chance meeting, and love — or, rather, lust — 
 runtime: 17:49
 executiveProducer: MetArt Films
 producer: Ariel Piper Fawn
-directorPhotography: Andrej Lupin
+directorOfPhotography: Andrej Lupin
 cinematographer: John Humble
 cameraOperator: David Kocian
 stillPhotographer: David Jones
@@ -9996,8 +9996,8 @@ title: Night For Two
 type: movie
 site: sa
 url: https://www.sexart.com/model/paula-shy-and-jenny-appach/movie/20140103/NIGHT_FOR_TWO
-cast: Paula Shy; https://www.sexart.com/model/paula-shy; g:f
-cast: Jenny Appach; https://www.sexart.com/model/jenny-appach; g:f
+model: n:Paula Shy; id:/model/sexart/paula-shy; u:https://www.sexart.com/model/paula-shy; g:f
+model: n:Jenny Appach; id:/model/sexart/jenny-appach; u:https://www.sexart.com/model/jenny-appach; g:f
 released: 2014-01-03
 director: Andrej Lupin
 rating: 9.2
@@ -10010,7 +10010,7 @@ description: "Night for Two" begins on a cheerful, innocent note. Two girls — 
 runtime: 23:51
 executiveProducer: MetArt Films
 producer: Ariel Piper Fawn
-directorPhotography: Andrej Lupin
+directorOfPhotography: Andrej Lupin
 cinematographer: John Humble
 cameraOperator: David Kocian
 stillPhotographer: David Jones
@@ -10064,7 +10064,7 @@ title: Care
 type: movie
 site: sa
 url: https://www.sexart.com/model/jessie-jazz/movie/20140101/CARE
-cast: Jessie Jazz; https://www.sexart.com/model/jessie-jazz; g:f
+model: n:Jessie Jazz; id:/model/sexart/jessie-jazz; u:https://www.sexart.com/model/jessie-jazz; g:f
 released: 2014-01-01
 director: Andrej Lupin
 rating: 9.0
@@ -10077,7 +10077,7 @@ description: The rising sun of morning fills a bedroom with soft, diffused light
 runtime: 13:16
 executiveProducer: MetArt Films
 producer: Ariel Piper Fawn
-directorPhotography: Andrej Lupin
+directorOfPhotography: Andrej Lupin
 cinematographer: John Humble
 cameraOperator: David Kocian
 stillPhotographer: David Jones

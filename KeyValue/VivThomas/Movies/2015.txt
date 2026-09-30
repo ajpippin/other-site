@@ -9,8 +9,8 @@ title: My Sweet Diary 2 - Enticing
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/naomi-nevena-and-cara-st.-germain/movie/20151230/MY_SWEET_DIARY_EPISODE_2_-_ENTICING
-cast: Naomi Nevena; https://www.vivthomas.com/model/naomi-nevena; f
-cast: Cara St. Germain; https://www.vivthomas.com/model/cara-st.-germain; f
+model: n:Naomi Nevena; id:/model/vivthomas/naomi-nevena; u:https://www.vivthomas.com/model/naomi-nevena; g:f
+model: n:Cara St. Germain; id:/model/vivthomas/cara-st-germain; u:https://www.vivthomas.com/model/cara-st.-germain; g:f
 released: 2015-12-30
 director:   Alis Locanta
 rating: 9.1
@@ -84,8 +84,8 @@ title: First Time Stories 2 - Fantasy
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/henessy-a-and-lea-guerlin/movie/20151228/FIRST_TIME_STORIES_EPISODE_2_-_FANTASY
-cast: Henessy A; https://www.vivthomas.com/model/henessy-a; f
-cast: Lea Guerlin; https://www.vivthomas.com/model/lea-guerlin; f
+model: n:Henessy A; id:/model/vivthomas/henessy-a; u:https://www.vivthomas.com/model/henessy-a; g:f
+model: n:Lea Guerlin; id:/model/vivthomas/lea-guerlin; u:https://www.vivthomas.com/model/lea-guerlin; g:f
 released: 2015-12-28
 director:   Alis Locanta
 rating: 9.4
@@ -150,8 +150,8 @@ title: One Small Step 2 - Petite
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/lola-a-and-patritcy/movie/20151225/ONE_SMALL_STEP_EPISODE_2_-_PETITE
-cast: Lola A; https://www.vivthomas.com/model/lola-a; f
-cast: Patritcy; https://www.vivthomas.com/model/patritcy; f
+model: n:Lola A; id:/model/vivthomas/lola-a; u:https://www.vivthomas.com/model/lola-a; g:f
+model: n:Patritcy; id:/model/vivthomas/patritcy; u:https://www.vivthomas.com/model/patritcy; g:f
 released: 2015-12-25
 director:   Alis Locanta
 rating: 9.1
@@ -214,8 +214,8 @@ title: Vine 2 - Affluent
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/minnie-manga-and-vanda-lust/movie/20151223/VINE_EPISODE_2_-_AFFLUENT
-cast: Minnie Manga; https://www.vivthomas.com/model/minnie-manga; f
-cast: Vanda Lust; https://www.vivthomas.com/model/vanda-lust; f
+model: n:Minnie Manga; id:/model/vivthomas/minnie-manga; u:https://www.vivthomas.com/model/minnie-manga; g:f
+model: n:Vanda Lust; id:/model/vivthomas/vanda-lust; u:https://www.vivthomas.com/model/vanda-lust; g:f
 released: 2015-12-23
 director:   Sandra Shine
 rating: 9.4
@@ -266,8 +266,8 @@ title: Lingerie Obsession 1 - Alluring
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/alexa-tomas-and-cara-st.-germain/movie/20151221/LINGERIE_OBSESSION_EPISODE_1_-_ALLURING
-cast: Alexa Tomas; https://www.vivthomas.com/model/alexa-tomas; f
-cast: Cara St. Germain; https://www.vivthomas.com/model/cara-st.-germain; f
+model: n:Alexa Tomas; id:/model/vivthomas/alexa-tomas; u:https://www.vivthomas.com/model/alexa-tomas; g:f
+model: n:Cara St. Germain; id:/model/vivthomas/cara-st-germain; u:https://www.vivthomas.com/model/cara-st.-germain; g:f
 released: 2015-12-21
 director:   Alis Locanta
 rating: 9.4
@@ -347,8 +347,8 @@ title: And In The End 1 - Immaculate
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/henessy-a-and-nekane/movie/20151218/AND_IN_THE_END_EPISODE_1_-_IMMACULATE
-cast: Henessy A; https://www.vivthomas.com/model/henessy-a; f
-cast: Nekane; https://www.vivthomas.com/model/nekane; f
+model: n:Henessy A; id:/model/vivthomas/henessy-a; u:https://www.vivthomas.com/model/henessy-a; g:f
+model: n:Nekane; id:/model/vivthomas/nekane; u:https://www.vivthomas.com/model/nekane; g:f
 released: 2015-12-18
 director:   Alis Locanta
 rating: 9.4
@@ -409,8 +409,8 @@ title: The Intruders
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/lorena-garcia-and-lola-a/movie/20151216/THE_INTRUDERS
-cast: Lorena Garcia; https://www.vivthomas.com/model/lorena-garcia; f
-cast: Lola A; https://www.vivthomas.com/model/lola-a; f
+model: n:Lorena Garcia; id:/model/vivthomas/lorena-garcia; u:https://www.vivthomas.com/model/lorena-garcia; g:f
+model: n:Lola A; id:/model/vivthomas/lola-a; u:https://www.vivthomas.com/model/lola-a; g:f
 released: 2015-12-16
 director:   Don Caravaggio
 rating: 9.6
@@ -467,8 +467,8 @@ title: Red Passion 1 - Tryst
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/naomi-nevena-and-cara-st.-germain/movie/20151214/RED_PASSION_EPISODE_1_-_TRYST
-cast: Naomi Nevena; https://www.vivthomas.com/model/naomi-nevena; f
-cast: Cara St. Germain; https://www.vivthomas.com/model/cara-st.-germain; f
+model: n:Naomi Nevena; id:/model/vivthomas/naomi-nevena; u:https://www.vivthomas.com/model/naomi-nevena; g:f
+model: n:Cara St. Germain; id:/model/vivthomas/cara-st-germain; u:https://www.vivthomas.com/model/cara-st.-germain; g:f
 released: 2015-12-14
 director:   Alis Locanta
 rating: 9.1
@@ -539,8 +539,8 @@ title: My Sweet Diary 1 - Piquant
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/henessy-a-and-lea-guerlin/movie/20151211/MY_SWEET_DIARY_EPISODE_1_-_PIQUANT
-cast: Henessy A; https://www.vivthomas.com/model/henessy-a; f
-cast: Lea Guerlin; https://www.vivthomas.com/model/lea-guerlin; f
+model: n:Henessy A; id:/model/vivthomas/henessy-a; u:https://www.vivthomas.com/model/henessy-a; g:f
+model: n:Lea Guerlin; id:/model/vivthomas/lea-guerlin; u:https://www.vivthomas.com/model/lea-guerlin; g:f
 released: 2015-12-11
 director:   Alis Locanta
 rating: 9.4
@@ -610,8 +610,8 @@ title: Vine 1 - Blossom
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/hanna-sweet-and-subil-arch/movie/20151209/VINE_EPISODE_1_-_BLOSSOM
-cast: Hanna Sweet; https://www.vivthomas.com/model/hanna-sweet; f
-cast: Subil Arch; https://www.vivthomas.com/model/subil-arch; f
+model: n:Hanna Sweet; id:/model/vivthomas/hanna-sweet; u:https://www.vivthomas.com/model/hanna-sweet; g:f
+model: n:Subil Arch; id:/model/vivthomas/subil-arch; u:https://www.vivthomas.com/model/subil-arch; g:f
 released: 2015-12-09
 director:   Sandra Shine
 rating: 9.4
@@ -667,8 +667,8 @@ title: First Time Stories 1 - Parable
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/taylor-sands-and-lola-a/movie/20151207/FIRST_TIME_STORIES_EPISODE_1_-_PARABLE
-cast: Taylor Sands; https://www.vivthomas.com/model/taylor-sands; f
-cast: Lola A; https://www.vivthomas.com/model/lola-a; f
+model: n:Taylor Sands; id:/model/vivthomas/taylor-sands; u:https://www.vivthomas.com/model/taylor-sands; g:f
+model: n:Lola A; id:/model/vivthomas/lola-a; u:https://www.vivthomas.com/model/lola-a; g:f
 released: 2015-12-07
 director:   Alis Locanta
 rating: 9.3
@@ -742,7 +742,7 @@ title: Bailando Sola
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/lorena-garcia/movie/20151204/BAILANDO_SOLA
-cast: Lorena Garcia; https://www.vivthomas.com/model/lorena-garcia; f
+model: n:Lorena Garcia; id:/model/vivthomas/lorena-garcia; u:https://www.vivthomas.com/model/lorena-garcia; g:f
 released: 2015-12-04
 director:   Don Caravaggio
 rating: 9.6
@@ -789,8 +789,8 @@ title: One Small Step 1 - Auspice
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/katya-clover-and-talia-mint/movie/20151202/ONE_SMALL_STEP_EPISODE_1_-_AUSPICE
-cast: Katya Clover; https://www.vivthomas.com/model/katya-clover; f
-cast: Talia Mint; https://www.vivthomas.com/model/talia-mint; f
+model: n:Katya Clover; id:/model/vivthomas/katya-clover; u:https://www.vivthomas.com/model/katya-clover; g:f
+model: n:Talia Mint; id:/model/vivthomas/talia-mint; u:https://www.vivthomas.com/model/talia-mint; g:f
 released: 2015-12-02
 director:   Alis Locanta
 rating: 9.4
@@ -861,8 +861,8 @@ title: Dance For Me 4 - Shine
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/tina-walker-and-alexis-brill/movie/20151130/DANCE_FOR_ME_EPISODE_4_-_SHINE
-cast: Tina Walker; https://www.vivthomas.com/model/tina-walker; f
-cast: Alexis Brill; https://www.vivthomas.com/model/alexis-brill; f
+model: n:Tina Walker; id:/model/vivthomas/tina-walker; u:https://www.vivthomas.com/model/tina-walker; g:f
+model: n:Alexis Brill; id:/model/vivthomas/alexis-brill; u:https://www.vivthomas.com/model/alexis-brill; g:f
 released: 2015-11-30
 director:   Guy Ranieri Sblattero
 rating: 9.2
@@ -912,8 +912,8 @@ title: Don't Stop 4 - Enamoured
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/jemma-valentine-and-kitty-lovedream/movie/20151127/DON_T_STOP_EPISODE_4_-_ENAMOURED
-cast: Jemma Valentine; https://www.vivthomas.com/model/jemma-valentine; f
-cast: Kitty Lovedream; https://www.vivthomas.com/model/kitty-lovedream; f
+model: n:Jemma Valentine; id:/model/vivthomas/jemma-valentine; u:https://www.vivthomas.com/model/jemma-valentine; g:f
+model: n:Kitty Lovedream; id:/model/vivthomas/kitty-lovedream; u:https://www.vivthomas.com/model/kitty-lovedream; g:f
 released: 2015-11-27
 director:   Guy Ranieri Sblattero
 rating: 9.3
@@ -961,8 +961,8 @@ title: A Day In The Life 4 - 8pm
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/candee-licious-and-mona-kim/movie/20151125/A_DAY_IN_THE_LIFE_EPISODE_4_-_8PM
-cast: Candee Licious; https://www.vivthomas.com/model/candee-licious; f
-cast: Mona Kim; https://www.vivthomas.com/model/mona-kim; f
+model: n:Candee Licious; id:/model/vivthomas/candee-licious; u:https://www.vivthomas.com/model/candee-licious; g:f
+model: n:Mona Kim; id:/model/vivthomas/mona-kim; u:https://www.vivthomas.com/model/mona-kim; g:f
 released: 2015-11-25
 director:   Guy Ranieri Sblattero
 rating: 9.3
@@ -1004,8 +1004,8 @@ title: Rem 4 - Wet
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/kitty-lovedream-and-diana-dolce/movie/20151123/REM_EPISODE_4_-_WET
-cast: Kitty Lovedream; https://www.vivthomas.com/model/kitty-lovedream; f
-cast: Diana Dolce; https://www.vivthomas.com/model/diana-dolce; f
+model: n:Kitty Lovedream; id:/model/vivthomas/kitty-lovedream; u:https://www.vivthomas.com/model/kitty-lovedream; g:f
+model: n:Diana Dolce; id:/model/vivthomas/diana-dolce; u:https://www.vivthomas.com/model/diana-dolce; g:f
 released: 2015-11-23
 director:   Guy Ranieri Sblattero
 rating: 9.2
@@ -1058,8 +1058,8 @@ title: Discreet Service 2015 4 - Adorn
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/amirah-adara-and-lauren/movie/20151120/DISCREET_SERVICE_2015_EPISODE_4_-_ADORN
-cast: Amirah Adara; https://www.vivthomas.com/model/amirah-adara; f
-cast: Lauren; https://www.vivthomas.com/model/lauren; f
+model: n:Amirah Adara; id:/model/vivthomas/amirah-adara; u:https://www.vivthomas.com/model/amirah-adara; g:f
+model: n:Lauren; id:/model/vivthomas/lauren; u:https://www.vivthomas.com/model/lauren; g:f
 released: 2015-11-20
 director:   Guy Ranieri Sblattero
 rating: 9.4
@@ -1118,8 +1118,8 @@ title: Sex Lust & VideoTape 4 - Relish
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/tina-walker-and-henessy-a/movie/20151118/SEX_LUST_&_VIDEOTAPE_EPISODE_4_-_RELISH
-cast: Tina Walker; https://www.vivthomas.com/model/tina-walker; f
-cast: Henessy A; https://www.vivthomas.com/model/henessy-a; f
+model: n:Tina Walker; id:/model/vivthomas/tina-walker; u:https://www.vivthomas.com/model/tina-walker; g:f
+model: n:Henessy A; id:/model/vivthomas/henessy-a; u:https://www.vivthomas.com/model/henessy-a; g:f
 released: 2015-11-18
 director:   Guy Ranieri Sblattero
 rating: 9.3
@@ -1179,8 +1179,8 @@ title: The Lingerie Consultancy 4 - Temptress
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/amirah-adara-and-anita-b/movie/20151116/THE_LINGERIE_CONSULTANCY_EPISODE_4_-_TEMPTRESS
-cast: Amirah Adara; https://www.vivthomas.com/model/amirah-adara; f
-cast: Anita B; https://www.vivthomas.com/model/anita-b; f
+model: n:Amirah Adara; id:/model/vivthomas/amirah-adara; u:https://www.vivthomas.com/model/amirah-adara; g:f
+model: n:Anita B; id:/model/vivthomas/anita-b; u:https://www.vivthomas.com/model/anita-b; g:f
 released: 2015-11-16
 director:   Guy Ranieri Sblattero
 rating: 9.2
@@ -1233,8 +1233,8 @@ title: Roommate Obsession 4 - Passion
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/candy-sweet-and-cindy-loarn/movie/20151113/ROOMMATE_OBSESSION_EPISODE_4_-_PASSION
-cast: Candy Sweet; https://www.vivthomas.com/model/candy-sweet; f
-cast: Cindy Loarn; https://www.vivthomas.com/model/cindy-loarn; f
+model: n:Candy Sweet; id:/model/vivthomas/candy-sweet; u:https://www.vivthomas.com/model/candy-sweet; g:f
+model: n:Cindy Loarn; id:/model/vivthomas/cindy-loarn; u:https://www.vivthomas.com/model/cindy-loarn; g:f
 released: 2015-11-13
 director:   Guy Ranieri Sblattero
 rating: 9.3
@@ -1294,8 +1294,8 @@ title: Power Play 4 - Restrain Me
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/henessy-a-and-tiffany-doll/movie/20151111/POWER_PLAY_EPISODE_4_-_RESTRAIN_ME
-cast: Henessy A; https://www.vivthomas.com/model/henessy-a; f
-cast: Tiffany Doll; https://www.vivthomas.com/model/tiffany-doll; f
+model: n:Henessy A; id:/model/vivthomas/henessy-a; u:https://www.vivthomas.com/model/henessy-a; g:f
+model: n:Tiffany Doll; id:/model/vivthomas/tiffany-doll; u:https://www.vivthomas.com/model/tiffany-doll; g:f
 released: 2015-11-11
 director:   Guy Ranieri Sblattero
 rating: 9.5
@@ -1348,8 +1348,8 @@ title: Dance For Me 3 - Amorous
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/felicia-kiss-and-candee-licious/movie/20151109/DANCE_FOR_ME_EPISODE_3_-_AMOROUS
-cast: Felicia Kiss; https://www.vivthomas.com/model/felicia-kiss; f
-cast: Candee Licious; https://www.vivthomas.com/model/candee-licious; f
+model: n:Felicia Kiss; id:/model/vivthomas/felicia-kiss; u:https://www.vivthomas.com/model/felicia-kiss; g:f
+model: n:Candee Licious; id:/model/vivthomas/candee-licious; u:https://www.vivthomas.com/model/candee-licious; g:f
 released: 2015-11-09
 director:   Guy Ranieri Sblattero
 rating: 9.1
@@ -1408,8 +1408,8 @@ title: Don't Stop 3 - Rendezvous
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/amirah-adara-and-anita-b/movie/20151106/DON_T_STOP_EPISODE_3_-_RENDEZVOUS
-cast: Amirah Adara; https://www.vivthomas.com/model/amirah-adara; f
-cast: Anita B; https://www.vivthomas.com/model/anita-b; f
+model: n:Amirah Adara; id:/model/vivthomas/amirah-adara; u:https://www.vivthomas.com/model/amirah-adara; g:f
+model: n:Anita B; id:/model/vivthomas/anita-b; u:https://www.vivthomas.com/model/anita-b; g:f
 released: 2015-11-06
 director:   Guy Ranieri Sblattero
 rating: 9.4
@@ -1458,8 +1458,8 @@ title: A Day In The Life 3 - 1pm
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/anina-silk-and-diana-dolce/movie/20151104/A_DAY_IN_THE_LIFE_EPISODE_3_-_1PM
-cast: Anina Silk; https://www.vivthomas.com/model/anina-silk; f
-cast: Diana Dolce; https://www.vivthomas.com/model/diana-dolce; f
+model: n:Anina Silk; id:/model/vivthomas/anina-silk; u:https://www.vivthomas.com/model/anina-silk; g:f
+model: n:Diana Dolce; id:/model/vivthomas/diana-dolce; u:https://www.vivthomas.com/model/diana-dolce; g:f
 released: 2015-11-04
 director:   Guy Ranieri Sblattero
 rating: 9.2
@@ -1514,8 +1514,8 @@ title: REM 3 - Hospital
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/candy-sweet-and-lauren/movie/20151102/REM_EPISODE_3_-_HOSPITAL
-cast: Candy Sweet; https://www.vivthomas.com/model/candy-sweet; f
-cast: Lauren; https://www.vivthomas.com/model/lauren; f
+model: n:Candy Sweet; id:/model/vivthomas/candy-sweet; u:https://www.vivthomas.com/model/candy-sweet; g:f
+model: n:Lauren; id:/model/vivthomas/lauren; u:https://www.vivthomas.com/model/lauren; g:f
 released: 2015-11-02
 director:   Guy Ranieri Sblattero
 rating: 9.2
@@ -1576,8 +1576,8 @@ title: Discreet Service 2015 3 - Tempt
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/bessie-and-milana-blanc/movie/20151030/DISCREET_SERVICE_2015_EPISODE_3_-_TEMPT
-cast: Bessie; https://www.vivthomas.com/model/bessie; f
-cast: Milana Blanc; https://www.vivthomas.com/model/milana-blanc; f
+model: n:Bessie; id:/model/vivthomas/bessie; u:https://www.vivthomas.com/model/bessie; g:f
+model: n:Milana Blanc; id:/model/vivthomas/milana-blanc; u:https://www.vivthomas.com/model/milana-blanc; g:f
 released: 2015-10-30
 director:   Guy Ranieri Sblattero
 rating: 9.1
@@ -1626,8 +1626,8 @@ title: Sex Lust & Videotape 3 - Voluptuous
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/alexis-brill-and-katerina-muti/movie/20151028/SEX_LUST_&_VIDEOTAPE_EPISODE_3_-_VOLUPTUOUS
-cast: Alexis Brill; https://www.vivthomas.com/model/alexis-brill; f
-cast: Katerina Muti; https://www.vivthomas.com/model/katerina-muti; f
+model: n:Alexis Brill; id:/model/vivthomas/alexis-brill; u:https://www.vivthomas.com/model/alexis-brill; g:f
+model: n:Katerina Muti; id:/model/vivthomas/katerina-muti; u:https://www.vivthomas.com/model/katerina-muti; g:f
 released: 2015-10-28
 director:   Guy Ranieri Sblattero
 rating: 9.3
@@ -1677,8 +1677,8 @@ title: The Lingerie Consultancy 3 - Panty Lover
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/tina-walker-and-tiffany-doll/movie/20151026/THE_LINGERIE_CONSULTANCY_EPISODE_3_-_PANTY_LOVER
-cast: Tina Walker; https://www.vivthomas.com/model/tina-walker; f
-cast: Tiffany Doll; https://www.vivthomas.com/model/tiffany-doll; f
+model: n:Tina Walker; id:/model/vivthomas/tina-walker; u:https://www.vivthomas.com/model/tina-walker; g:f
+model: n:Tiffany Doll; id:/model/vivthomas/tiffany-doll; u:https://www.vivthomas.com/model/tiffany-doll; g:f
 released: 2015-10-26
 director:   Guy Ranieri Sblattero
 rating: 9.3
@@ -1736,8 +1736,8 @@ title: Roommate Obsession 3 - Veneration
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/mona-kim-and-anita-b/movie/20151023/ROOMMATE_OBSESSION_EPISODE_3_-_VENERATION
-cast: Mona Kim; https://www.vivthomas.com/model/mona-kim; f
-cast: Anita B; https://www.vivthomas.com/model/anita-b; f
+model: n:Mona Kim; id:/model/vivthomas/mona-kim; u:https://www.vivthomas.com/model/mona-kim; g:f
+model: n:Anita B; id:/model/vivthomas/anita-b; u:https://www.vivthomas.com/model/anita-b; g:f
 released: 2015-10-23
 director:   Guy Ranieri Sblattero
 rating: 9.4
@@ -1785,8 +1785,8 @@ title: Power Play 3 - Watch Me
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/diana-dolce-and-jemma-valentine/movie/20151021/POWER_PLAY_EPISODE_3_-_WATCH_ME
-cast: Diana Dolce; https://www.vivthomas.com/model/diana-dolce; f
-cast: Jemma Valentine; https://www.vivthomas.com/model/jemma-valentine; f
+model: n:Diana Dolce; id:/model/vivthomas/diana-dolce; u:https://www.vivthomas.com/model/diana-dolce; g:f
+model: n:Jemma Valentine; id:/model/vivthomas/jemma-valentine; u:https://www.vivthomas.com/model/jemma-valentine; g:f
 released: 2015-10-21
 director:   Guy Ranieri Sblattero
 rating: 9.2
@@ -1842,8 +1842,8 @@ title: Dance For Me 2 - Rollick
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/anina-silk-and-kitty-lovedream/movie/20151019/DANCE_FOR_ME_EPISODE_2_-_ROLLICK
-cast: Anina Silk; https://www.vivthomas.com/model/anina-silk; f
-cast: Kitty Lovedream; https://www.vivthomas.com/model/kitty-lovedream; f
+model: n:Anina Silk; id:/model/vivthomas/anina-silk; u:https://www.vivthomas.com/model/anina-silk; g:f
+model: n:Kitty Lovedream; id:/model/vivthomas/kitty-lovedream; u:https://www.vivthomas.com/model/kitty-lovedream; g:f
 released: 2015-10-19
 director:   Guy Ranieri Sblattero
 rating: 9.4
@@ -1894,8 +1894,8 @@ title: Don't Stop 2 - Perdure
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/cindy-loarn-and-meg-magic/movie/20151016/DON_T_STOP_EPISODE_2_-_PERDURE
-cast: Cindy Loarn; https://www.vivthomas.com/model/cindy-loarn; f
-cast: Meg Magic; https://www.vivthomas.com/model/meg-magic; f
+model: n:Cindy Loarn; id:/model/vivthomas/cindy-loarn; u:https://www.vivthomas.com/model/cindy-loarn; g:f
+model: n:Meg Magic; id:/model/vivthomas/meg-magic; u:https://www.vivthomas.com/model/meg-magic; g:f
 released: 2015-10-16
 director:   Guy Ranieri Sblattero
 rating: 9.2
@@ -1942,8 +1942,8 @@ title: A Day In The Life 2 - 4pm
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/anita-b-and-felicia-kiss/movie/20151014/A_DAY_IN_THE_LIFE_EPISODE_2_-_4PM
-cast: Anita B; https://www.vivthomas.com/model/anita-b; f
-cast: Felicia Kiss; https://www.vivthomas.com/model/felicia-kiss; f
+model: n:Anita B; id:/model/vivthomas/anita-b; u:https://www.vivthomas.com/model/anita-b; g:f
+model: n:Felicia Kiss; id:/model/vivthomas/felicia-kiss; u:https://www.vivthomas.com/model/felicia-kiss; g:f
 released: 2015-10-14
 director:   Guy Ranieri Sblattero
 rating: 9.1
@@ -1995,8 +1995,8 @@ title: REM 2 - Hot Ice
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/anina-silk-and-angelina-brill/movie/20151012/REM_EPISODE_2_-_HOT_ICE
-cast: Anina Silk; https://www.vivthomas.com/model/anina-silk; f
-cast: Angelina Brill; https://www.vivthomas.com/model/angelina-brill; f
+model: n:Anina Silk; id:/model/vivthomas/anina-silk; u:https://www.vivthomas.com/model/anina-silk; g:f
+model: n:Angelina Brill; id:/model/vivthomas/angelina-brill; u:https://www.vivthomas.com/model/angelina-brill; g:f
 released: 2015-10-12
 director:   Guy Ranieri Sblattero
 rating: 9.1
@@ -2042,8 +2042,8 @@ title: Discreet Service 2015 2 - Affection
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/alexa-tomas-and-amirah-adara/movie/20151009/DISCREET_SERVICE_2015_EPISODE_2_-_AFFECTION
-cast: Alexa Tomas; https://www.vivthomas.com/model/alexa-tomas; f
-cast: Amirah Adara; https://www.vivthomas.com/model/amirah-adara; f
+model: n:Alexa Tomas; id:/model/vivthomas/alexa-tomas; u:https://www.vivthomas.com/model/alexa-tomas; g:f
+model: n:Amirah Adara; id:/model/vivthomas/amirah-adara; u:https://www.vivthomas.com/model/amirah-adara; g:f
 released: 2015-10-09
 director:   Guy Ranieri Sblattero
 rating: 9.4
@@ -2090,8 +2090,8 @@ title: Sex Lust & VideoTape 2 - Arousal
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/meg-magic-and-candy-sweet/movie/20151007/SEX_LUST_&_VIDEOTAPE_EPISODE_2_-_AROUSAL
-cast: Meg Magic; https://www.vivthomas.com/model/meg-magic; f
-cast: Candy Sweet; https://www.vivthomas.com/model/candy-sweet; f
+model: n:Meg Magic; id:/model/vivthomas/meg-magic; u:https://www.vivthomas.com/model/meg-magic; g:f
+model: n:Candy Sweet; id:/model/vivthomas/candy-sweet; u:https://www.vivthomas.com/model/candy-sweet; g:f
 released: 2015-10-07
 director:   Guy Ranieri Sblattero
 rating: 9.3
@@ -2141,8 +2141,8 @@ title: The Lingerie Consultancy 2 - Sweet Seduction
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/felicia-kiss-and-mona-kim/movie/20151005/THE_LINGERIE_CONSULTANCY_EPISODE_2_-_SWEET_SEDUCTION
-cast: Felicia Kiss; https://www.vivthomas.com/model/felicia-kiss; f
-cast: Mona Kim; https://www.vivthomas.com/model/mona-kim; f
+model: n:Felicia Kiss; id:/model/vivthomas/felicia-kiss; u:https://www.vivthomas.com/model/felicia-kiss; g:f
+model: n:Mona Kim; id:/model/vivthomas/mona-kim; u:https://www.vivthomas.com/model/mona-kim; g:f
 released: 2015-10-05
 director:   Guy Ranieri Sblattero
 rating: 9.1
@@ -2185,8 +2185,8 @@ title: Roommate Obsession 2 - Craving
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/alexis-brill-and-tiffany-doll/movie/20151002/ROOMMATE_OBSESSION_EPISODE_2_-_CRAVING
-cast: Alexis Brill; https://www.vivthomas.com/model/alexis-brill; f
-cast: Tiffany Doll; https://www.vivthomas.com/model/tiffany-doll; f
+model: n:Alexis Brill; id:/model/vivthomas/alexis-brill; u:https://www.vivthomas.com/model/alexis-brill; g:f
+model: n:Tiffany Doll; id:/model/vivthomas/tiffany-doll; u:https://www.vivthomas.com/model/tiffany-doll; g:f
 released: 2015-10-02
 director:   Guy Ranieri Sblattero
 rating: 9.4
@@ -2240,8 +2240,8 @@ title: Power Play 2 - Dominate Me
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/tina-walker-and-katerina-muti/movie/20150930/POWER_PLAY_EPISODE_2_-_DOMINATE_ME
-cast: Tina Walker; https://www.vivthomas.com/model/tina-walker; f
-cast: Katerina Muti; https://www.vivthomas.com/model/katerina-muti; f
+model: n:Tina Walker; id:/model/vivthomas/tina-walker; u:https://www.vivthomas.com/model/tina-walker; g:f
+model: n:Katerina Muti; id:/model/vivthomas/katerina-muti; u:https://www.vivthomas.com/model/katerina-muti; g:f
 released: 2015-09-30
 director:   Guy Ranieri Sblattero
 rating: 9.3
@@ -2293,8 +2293,8 @@ title: Dance For Me 1 - Revelry
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/angelina-brill-and-diana-dolce/movie/20150928/DANCE_FOR_ME_EPISODE_1_-_REVELRY
-cast: Angelina Brill; https://www.vivthomas.com/model/angelina-brill; f
-cast: Diana Dolce; https://www.vivthomas.com/model/diana-dolce; f
+model: n:Angelina Brill; id:/model/vivthomas/angelina-brill; u:https://www.vivthomas.com/model/angelina-brill; g:f
+model: n:Diana Dolce; id:/model/vivthomas/diana-dolce; u:https://www.vivthomas.com/model/diana-dolce; g:f
 released: 2015-09-28
 director:   Guy Ranieri Sblattero
 rating: 9.2
@@ -2342,8 +2342,8 @@ title: Don't Stop 1 - Persevere
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/henessy-a-and-tiffany-doll/movie/20150925/DON_T_STOP_EPISODE_1_-_PERSEVERE
-cast: Henessy A; https://www.vivthomas.com/model/henessy-a; f
-cast: Tiffany Doll; https://www.vivthomas.com/model/tiffany-doll; f
+model: n:Henessy A; id:/model/vivthomas/henessy-a; u:https://www.vivthomas.com/model/henessy-a; g:f
+model: n:Tiffany Doll; id:/model/vivthomas/tiffany-doll; u:https://www.vivthomas.com/model/tiffany-doll; g:f
 released: 2015-09-25
 director:   Guy Ranieri Sblattero
 rating: 9.5
@@ -2399,8 +2399,8 @@ title: A Day In The Life 1 - 8am
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/jemma-valentine-and-angelina-brill/movie/20150923/A_DAY_IN_THE_LIFE_EPISODE_1_-_8AM
-cast: Jemma Valentine; https://www.vivthomas.com/model/jemma-valentine; f
-cast: Angelina Brill; https://www.vivthomas.com/model/angelina-brill; f
+model: n:Jemma Valentine; id:/model/vivthomas/jemma-valentine; u:https://www.vivthomas.com/model/jemma-valentine; g:f
+model: n:Angelina Brill; id:/model/vivthomas/angelina-brill; u:https://www.vivthomas.com/model/angelina-brill; g:f
 released: 2015-09-23
 director:   Guy Ranieri Sblattero
 rating: 9.3
@@ -2453,8 +2453,8 @@ title: Rem 1 - Classroom
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/lauren-and-alexa-tomas/movie/20150921/REM_EPISODE_1_-_CLASSROOM
-cast: Lauren; https://www.vivthomas.com/model/lauren; f
-cast: Alexa Tomas; https://www.vivthomas.com/model/alexa-tomas; f
+model: n:Lauren; id:/model/vivthomas/lauren; u:https://www.vivthomas.com/model/lauren; g:f
+model: n:Alexa Tomas; id:/model/vivthomas/alexa-tomas; u:https://www.vivthomas.com/model/alexa-tomas; g:f
 released: 2015-09-21
 director:   Guy Ranieri Sblattero
 rating: 9.4
@@ -2501,8 +2501,8 @@ title: Discreet Service 2015 1 - Discerning
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/milana-blanc-and-candy-sweet/movie/20150918/DISCREET_SERVICE_2015_EPISODE_1_-_DISCERNING
-cast: Milana Blanc; https://www.vivthomas.com/model/milana-blanc; f
-cast: Candy Sweet; https://www.vivthomas.com/model/candy-sweet; f
+model: n:Milana Blanc; id:/model/vivthomas/milana-blanc; u:https://www.vivthomas.com/model/milana-blanc; g:f
+model: n:Candy Sweet; id:/model/vivthomas/candy-sweet; u:https://www.vivthomas.com/model/candy-sweet; g:f
 released: 2015-09-18
 director:   Guy Ranieri Sblattero
 rating: 9.3
@@ -2553,8 +2553,8 @@ title: Sex Lust and Videotape 1 - Yearning
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/amirah-adara-and-mona-kim/movie/20150916/SEX_LUST_AND_VIDEOTAPE_EPISODE_1_-_YEARNING
-cast: Amirah Adara; https://www.vivthomas.com/model/amirah-adara; f
-cast: Mona Kim; https://www.vivthomas.com/model/mona-kim; f
+model: n:Amirah Adara; id:/model/vivthomas/amirah-adara; u:https://www.vivthomas.com/model/amirah-adara; g:f
+model: n:Mona Kim; id:/model/vivthomas/mona-kim; u:https://www.vivthomas.com/model/mona-kim; g:f
 released: 2015-09-16
 director:   Guy Ranieri Sblattero
 rating: 9.4
@@ -2606,8 +2606,8 @@ title: The Lingerie Consultancy 1 - Elegant Beauty
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/alexis-brill-and-henessy-a/movie/20150914/THE_LINGERIE_CONSULTANCY_EPISODE_1_-_ELEGANT_BEAUTY
-cast: Alexis Brill; https://www.vivthomas.com/model/alexis-brill; f
-cast: Henessy A; https://www.vivthomas.com/model/henessy-a; f
+model: n:Alexis Brill; id:/model/vivthomas/alexis-brill; u:https://www.vivthomas.com/model/alexis-brill; g:f
+model: n:Henessy A; id:/model/vivthomas/henessy-a; u:https://www.vivthomas.com/model/henessy-a; g:f
 released: 2015-09-14
 director:   Guy Ranieri Sblattero
 rating: 9.5
@@ -2654,8 +2654,8 @@ title: Roommate Obsession 1 - Desire
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/angelina-brill-and-kitty-lovedream/movie/20150911/ROOMMATE_OBSESSION_EPISODE_1_-_DESIRE
-cast: Angelina Brill; https://www.vivthomas.com/model/angelina-brill; f
-cast: Kitty Lovedream; https://www.vivthomas.com/model/kitty-lovedream; f
+model: n:Angelina Brill; id:/model/vivthomas/angelina-brill; u:https://www.vivthomas.com/model/angelina-brill; g:f
+model: n:Kitty Lovedream; id:/model/vivthomas/kitty-lovedream; u:https://www.vivthomas.com/model/kitty-lovedream; g:f
 released: 2015-09-11
 director:   Guy Ranieri Sblattero
 rating: 9.1
@@ -2704,8 +2704,8 @@ title: Power Play 1 - Spank Me
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/felicia-kiss-and-amirah-adara/movie/20150909/POWER_PLAY_EPISODE_1_-_SPANK_ME
-cast: Felicia Kiss; https://www.vivthomas.com/model/felicia-kiss; f
-cast: Amirah Adara; https://www.vivthomas.com/model/amirah-adara; f
+model: n:Felicia Kiss; id:/model/vivthomas/felicia-kiss; u:https://www.vivthomas.com/model/felicia-kiss; g:f
+model: n:Amirah Adara; id:/model/vivthomas/amirah-adara; u:https://www.vivthomas.com/model/amirah-adara; g:f
 released: 2015-09-09
 director:   Guy Ranieri Sblattero
 rating: 9.3
@@ -2757,8 +2757,8 @@ title: Fashion & Fetish 4 - Simulacrum
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/anissa-kate-and-jimena-lago/movie/20150907/FASHION_&_FETISH_EPISODE_4_-_SIMULACRUM
-cast: Anissa Kate; https://www.vivthomas.com/model/anissa-kate; f
-cast: Jimena Lago; https://www.vivthomas.com/model/jimena-lago; f
+model: n:Anissa Kate; id:/model/vivthomas/anissa-kate; u:https://www.vivthomas.com/model/anissa-kate; g:f
+model: n:Jimena Lago; id:/model/vivthomas/jimena-lago; u:https://www.vivthomas.com/model/jimena-lago; g:f
 released: 2015-09-07
 director:   Guy Ranieri Sblattero
 rating: 9.3
@@ -2808,8 +2808,8 @@ title: Love Match 4 - Ardor
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/anissa-kate-and-erica-fontes/movie/20150904/LOVE_MATCH_EPISODE_4_-_ARDOR
-cast: Anissa Kate; https://www.vivthomas.com/model/anissa-kate; f
-cast: Erica Fontes; https://www.vivthomas.com/model/erica-fontes; f
+model: n:Anissa Kate; id:/model/vivthomas/anissa-kate; u:https://www.vivthomas.com/model/anissa-kate; g:f
+model: n:Erica Fontes; id:/model/vivthomas/erica-fontes; u:https://www.vivthomas.com/model/erica-fontes; g:f
 released: 2015-09-04
 director:   Guy Ranieri Sblattero
 rating: 9.3
@@ -2837,8 +2837,8 @@ title: Vacancy 4 - Aridity
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/erica-fontes-and-ava-courcelles/movie/20150902/VACANCY_EPISODE_4_-_ARIDITY
-cast: Erica Fontes; https://www.vivthomas.com/model/erica-fontes; f
-cast: Ava Courcelles; https://www.vivthomas.com/model/ava-courcelles; f
+model: n:Erica Fontes; id:/model/vivthomas/erica-fontes; u:https://www.vivthomas.com/model/erica-fontes; g:f
+model: n:Ava Courcelles; id:/model/vivthomas/ava-courcelles; u:https://www.vivthomas.com/model/ava-courcelles; g:f
 released: 2015-09-02
 director:   Guy Ranieri Sblattero
 rating: 9.2
@@ -2867,8 +2867,8 @@ title: Fashion & Fetish 3 - Inamorata
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/jimena-lago-and-talia-mint/movie/20150831/FASHION_&_FETISH_EPISODE_3_-_INAMORATA
-cast: Jimena Lago; https://www.vivthomas.com/model/jimena-lago; f
-cast: Talia Mint; https://www.vivthomas.com/model/talia-mint; f
+model: n:Jimena Lago; id:/model/vivthomas/jimena-lago; u:https://www.vivthomas.com/model/jimena-lago; g:f
+model: n:Talia Mint; id:/model/vivthomas/talia-mint; u:https://www.vivthomas.com/model/talia-mint; g:f
 released: 2015-08-31
 director:   Guy Ranieri Sblattero
 rating: 9.4
@@ -2910,8 +2910,8 @@ title: Love Match 3 - Fervor
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/jimena-lago-and-ava-courcelles/movie/20150828/LOVE_MATCH_EPISODE_3_-_FERVOR
-cast: Jimena Lago; https://www.vivthomas.com/model/jimena-lago; f
-cast: Ava Courcelles; https://www.vivthomas.com/model/ava-courcelles; f
+model: n:Jimena Lago; id:/model/vivthomas/jimena-lago; u:https://www.vivthomas.com/model/jimena-lago; g:f
+model: n:Ava Courcelles; id:/model/vivthomas/ava-courcelles; u:https://www.vivthomas.com/model/ava-courcelles; g:f
 released: 2015-08-28
 director:   Guy Ranieri Sblattero
 rating: 9.2
@@ -2954,8 +2954,8 @@ title: Vacancy 3 - Lacuna
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/anissa-kate-and-ava-courcelles/movie/20150826/VACANCY_EPISODE_3_-_LACUNA
-cast: Anissa Kate; https://www.vivthomas.com/model/anissa-kate; f
-cast: Ava Courcelles; https://www.vivthomas.com/model/ava-courcelles; f
+model: n:Anissa Kate; id:/model/vivthomas/anissa-kate; u:https://www.vivthomas.com/model/anissa-kate; g:f
+model: n:Ava Courcelles; id:/model/vivthomas/ava-courcelles; u:https://www.vivthomas.com/model/ava-courcelles; g:f
 released: 2015-08-26
 director:   Guy Ranieri Sblattero
 rating: 9.4
@@ -3002,9 +3002,9 @@ title: Truth or Dare 5 - Vacillate
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/julia-roca-and-talia-mint-and-leila-smith/movie/20150824/TRUTH_OR_DARE_EPISODE_5_-_VACILLATE
-cast: Julia Roca; https://www.vivthomas.com/model/julia-roca; f
-cast: Talia Mint; https://www.vivthomas.com/model/talia-mint; f
-cast: Leila Smith; https://www.vivthomas.com/model/leila-smith; f
+model: n:Julia Roca; id:/model/vivthomas/julia-roca; u:https://www.vivthomas.com/model/julia-roca; g:f
+model: n:Talia Mint; id:/model/vivthomas/talia-mint; u:https://www.vivthomas.com/model/talia-mint; g:f
+model: n:Leila Smith; id:/model/vivthomas/leila-smith; u:https://www.vivthomas.com/model/leila-smith; g:f
 released: 2015-08-24
 director:   Guy Ranieri Sblattero
 rating: 9.3
@@ -3056,8 +3056,8 @@ title: Truth or Dare 4 - Avouch
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/leila-smith-and-julia-roca/movie/20150821/TRUTH_OR_DARE_EPISODE_4_-_AVOUCH
-cast: Leila Smith; https://www.vivthomas.com/model/leila-smith; f
-cast: Julia Roca; https://www.vivthomas.com/model/julia-roca; f
+model: n:Leila Smith; id:/model/vivthomas/leila-smith; u:https://www.vivthomas.com/model/leila-smith; g:f
+model: n:Julia Roca; id:/model/vivthomas/julia-roca; u:https://www.vivthomas.com/model/julia-roca; g:f
 released: 2015-08-21
 director:   Guy Ranieri Sblattero
 rating: 9.5
@@ -3103,8 +3103,8 @@ title: Feed Me Your Love
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/lorena-garcia-and-leila-smith/movie/20150819/FEED_ME_YOUR_LOVE
-cast: Lorena Garcia; https://www.vivthomas.com/model/lorena-garcia; f
-cast: Leila Smith; https://www.vivthomas.com/model/leila-smith; f
+model: n:Lorena Garcia; id:/model/vivthomas/lorena-garcia; u:https://www.vivthomas.com/model/lorena-garcia; g:f
+model: n:Leila Smith; id:/model/vivthomas/leila-smith; u:https://www.vivthomas.com/model/leila-smith; g:f
 released: 2015-08-19
 director:   Don Caravaggio
 rating: 9.5
@@ -3150,8 +3150,8 @@ title: Truth or Dare 3 - Candor
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/talia-mint-and-leila-smith/movie/20150817/TRUTH_OR_DARE_EPISODE_3_-_CANDOR
-cast: Talia Mint; https://www.vivthomas.com/model/talia-mint; f
-cast: Leila Smith; https://www.vivthomas.com/model/leila-smith; f
+model: n:Talia Mint; id:/model/vivthomas/talia-mint; u:https://www.vivthomas.com/model/talia-mint; g:f
+model: n:Leila Smith; id:/model/vivthomas/leila-smith; u:https://www.vivthomas.com/model/leila-smith; g:f
 released: 2015-08-17
 director:   Guy Ranieri Sblattero
 rating: 9.4
@@ -3197,8 +3197,8 @@ title: The Message
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/eva-g-and-lorena-garcia/movie/20150814/THE_MESSAGE
-cast: Eva G; https://www.vivthomas.com/model/eva-g; f
-cast: Lorena Garcia; https://www.vivthomas.com/model/lorena-garcia; f
+model: n:Eva G; id:/model/vivthomas/eva-g; u:https://www.vivthomas.com/model/eva-g; g:f
+model: n:Lorena Garcia; id:/model/vivthomas/lorena-garcia; u:https://www.vivthomas.com/model/lorena-garcia; g:f
 released: 2015-08-14
 director:   Don Caravaggio
 rating: 9.5
@@ -3245,8 +3245,8 @@ title: Truth or Dare 2 - Vitalize
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/julia-roca-and-talia-mint/movie/20150812/TRUTH_OR_DARE_EPISODE_2_-_VITALIZE
-cast: Julia Roca; https://www.vivthomas.com/model/julia-roca; f
-cast: Talia Mint; https://www.vivthomas.com/model/talia-mint; f
+model: n:Julia Roca; id:/model/vivthomas/julia-roca; u:https://www.vivthomas.com/model/julia-roca; g:f
+model: n:Talia Mint; id:/model/vivthomas/talia-mint; u:https://www.vivthomas.com/model/talia-mint; g:f
 released: 2015-08-12
 director:   Guy Ranieri Sblattero
 rating: 9.2
@@ -3292,8 +3292,8 @@ title: Truth or Dare 1 - Impugn
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/leila-smith-and-julia-roca/movie/20150810/TRUTH_OR_DARE_EPISODE_1_-_IMPUGN
-cast: Leila Smith; https://www.vivthomas.com/model/leila-smith; f
-cast: Julia Roca; https://www.vivthomas.com/model/julia-roca; f
+model: n:Leila Smith; id:/model/vivthomas/leila-smith; u:https://www.vivthomas.com/model/leila-smith; g:f
+model: n:Julia Roca; id:/model/vivthomas/julia-roca; u:https://www.vivthomas.com/model/julia-roca; g:f
 released: 2015-08-10
 director:   Guy Ranieri Sblattero
 rating: 9.4
@@ -3342,8 +3342,8 @@ title: Fashion & Fetish 2 - Compulsion
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/ena-sweet-and-anissa-kate/movie/20150807/FASHION_&_FETISH_EPISODE_2_-_COMPULSION
-cast: Ena Sweet; https://www.vivthomas.com/model/ena-sweet; f
-cast: Anissa Kate; https://www.vivthomas.com/model/anissa-kate; f
+model: n:Ena Sweet; id:/model/vivthomas/ena-sweet; u:https://www.vivthomas.com/model/ena-sweet; g:f
+model: n:Anissa Kate; id:/model/vivthomas/anissa-kate; u:https://www.vivthomas.com/model/anissa-kate; g:f
 released: 2015-08-07
 director:   Guy Ranieri Sblattero
 rating: 9.4
@@ -3398,8 +3398,8 @@ title: Love Match 2 - Dilection
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/jimena-lago-and-ena-sweet/movie/20150805/LOVE_MATCH_EPISODE_2_-_DILECTION
-cast: Jimena Lago; https://www.vivthomas.com/model/jimena-lago; f
-cast: Ena Sweet; https://www.vivthomas.com/model/ena-sweet; f
+model: n:Jimena Lago; id:/model/vivthomas/jimena-lago; u:https://www.vivthomas.com/model/jimena-lago; g:f
+model: n:Ena Sweet; id:/model/vivthomas/ena-sweet; u:https://www.vivthomas.com/model/ena-sweet; g:f
 released: 2015-08-05
 director:   Guy Ranieri Sblattero
 rating: 9.3
@@ -3449,8 +3449,8 @@ title: Vacancy 2 - Appetency
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/ava-courcelles-and-ena-sweet/movie/20150803/VACANCY_EPISODE_2_-_APPETENCY
-cast: Ava Courcelles; https://www.vivthomas.com/model/ava-courcelles; f
-cast: Ena Sweet; https://www.vivthomas.com/model/ena-sweet; f
+model: n:Ava Courcelles; id:/model/vivthomas/ava-courcelles; u:https://www.vivthomas.com/model/ava-courcelles; g:f
+model: n:Ena Sweet; id:/model/vivthomas/ena-sweet; u:https://www.vivthomas.com/model/ena-sweet; g:f
 released: 2015-08-03
 director:   Guy Ranieri Sblattero
 rating: 9.3
@@ -3508,8 +3508,8 @@ title: Fashion & Fetish 1 - Proclivity
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/talia-mint-and-erica-fontes/movie/20150731/FASHION_&_FETISH_EPISODE_1_-_PROCLIVITY
-cast: Talia Mint; https://www.vivthomas.com/model/talia-mint; f
-cast: Erica Fontes; https://www.vivthomas.com/model/erica-fontes; f
+model: n:Talia Mint; id:/model/vivthomas/talia-mint; u:https://www.vivthomas.com/model/talia-mint; g:f
+model: n:Erica Fontes; id:/model/vivthomas/erica-fontes; u:https://www.vivthomas.com/model/erica-fontes; g:f
 released: 2015-07-31
 director:   Guy Ranieri Sblattero
 rating: 9.1
@@ -3565,8 +3565,8 @@ title: Love Match 1 - Lust
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/talia-mint-and-anissa-kate/movie/20150729/LOVE_MATCH_EPISODE_1_-_LUST
-cast: Talia Mint; https://www.vivthomas.com/model/talia-mint; f
-cast: Anissa Kate; https://www.vivthomas.com/model/anissa-kate; f
+model: n:Talia Mint; id:/model/vivthomas/talia-mint; u:https://www.vivthomas.com/model/talia-mint; g:f
+model: n:Anissa Kate; id:/model/vivthomas/anissa-kate; u:https://www.vivthomas.com/model/anissa-kate; g:f
 released: 2015-07-29
 director:   Guy Ranieri Sblattero
 rating: 9.3
@@ -3615,8 +3615,8 @@ title: Vacancy 1 - Appetition
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/talia-mint-and-ava-courcelles/movie/20150727/VACANCY_EPISODE_1_-_APPETITION
-cast: Talia Mint; https://www.vivthomas.com/model/talia-mint; f
-cast: Ava Courcelles; https://www.vivthomas.com/model/ava-courcelles; f
+model: n:Talia Mint; id:/model/vivthomas/talia-mint; u:https://www.vivthomas.com/model/talia-mint; g:f
+model: n:Ava Courcelles; id:/model/vivthomas/ava-courcelles; u:https://www.vivthomas.com/model/ava-courcelles; g:f
 released: 2015-07-27
 director:   Guy Ranieri Sblattero
 rating: 9.3
@@ -3661,7 +3661,7 @@ title: Proletariat
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/carmen-croft/movie/20150724/PROLETARIAT
-cast: Carmen Croft; https://www.vivthomas.com/model/carmen-croft; f
+model: n:Carmen Croft; id:/model/vivthomas/carmen-croft; u:https://www.vivthomas.com/model/carmen-croft; g:f
 released: 2015-07-24
 director:   Viv Thomas
 rating: 8.8
@@ -3704,8 +3704,8 @@ title: Learning Curve 4 - First Time Being Dominated
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/amber-nevada-and-amarna-miller/movie/20150722/LEARNING_CURVE_EPISODE_4_-_FIRST_TIME_BEING_DOMINATED
-cast: Amber Nevada; https://www.vivthomas.com/model/amber-nevada; f
-cast: Amarna Miller; https://www.vivthomas.com/model/amarna-miller; f
+model: n:Amber Nevada; id:/model/vivthomas/amber-nevada; u:https://www.vivthomas.com/model/amber-nevada; g:f
+model: n:Amarna Miller; id:/model/vivthomas/amarna-miller; u:https://www.vivthomas.com/model/amarna-miller; g:f
 released: 2015-07-22
 director:   Guy Ranieri Sblattero
 rating: 9.3
@@ -3757,8 +3757,8 @@ title: Private Show 4 - Glimpse
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/bailey-ryder-and-amarna-miller/movie/20150720/PRIVATE_SHOW_EPISODE_4_-_GLIMPSE
-cast: Bailey Ryder; https://www.vivthomas.com/model/bailey-ryder; f
-cast: Amarna Miller; https://www.vivthomas.com/model/amarna-miller; f
+model: n:Bailey Ryder; id:/model/vivthomas/bailey-ryder; u:https://www.vivthomas.com/model/bailey-ryder; g:f
+model: n:Amarna Miller; id:/model/vivthomas/amarna-miller; u:https://www.vivthomas.com/model/amarna-miller; g:f
 released: 2015-07-20
 director:   Guy Ranieri Sblattero
 rating: 9.3
@@ -3802,8 +3802,8 @@ title: Gambling 4 - Kismet
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/taylor-sands-and-lady-dee/movie/20150717/GAMBLING_EPISODE_4_-_KISMET
-cast: Taylor Sands; https://www.vivthomas.com/model/taylor-sands; f
-cast: Lady Dee; https://www.vivthomas.com/model/lady-dee; f
+model: n:Taylor Sands; id:/model/vivthomas/taylor-sands; u:https://www.vivthomas.com/model/taylor-sands; g:f
+model: n:Lady Dee; id:/model/vivthomas/lady-dee; u:https://www.vivthomas.com/model/lady-dee; g:f
 released: 2015-07-17
 director:   Guy Ranieri Sblattero
 rating: 9.2
@@ -3851,8 +3851,8 @@ title: Learning Curve 3 - First Time Posing Nude
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/amber-nevada-and-carolina-abril/movie/20150715/LEARNING_CURVE_EPISODE_3_-_FIRST_TIME_POSING_NUDE
-cast: Amber Nevada; https://www.vivthomas.com/model/amber-nevada; f
-cast: Carolina Abril; https://www.vivthomas.com/model/carolina-abril; f
+model: n:Amber Nevada; id:/model/vivthomas/amber-nevada; u:https://www.vivthomas.com/model/amber-nevada; g:f
+model: n:Carolina Abril; id:/model/vivthomas/carolina-abril; u:https://www.vivthomas.com/model/carolina-abril; g:f
 released: 2015-07-15
 director:   Guy Ranieri Sblattero
 rating: 9.5
@@ -3909,8 +3909,8 @@ title: Private Show 3 - Recondite
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/lady-dee-and-amarna-miller/movie/20150713/PRIVATE_SHOW_EPISODE_3_-_RECONDITE
-cast: Lady Dee; https://www.vivthomas.com/model/lady-dee; f
-cast: Amarna Miller; https://www.vivthomas.com/model/amarna-miller; f
+model: n:Lady Dee; id:/model/vivthomas/lady-dee; u:https://www.vivthomas.com/model/lady-dee; g:f
+model: n:Amarna Miller; id:/model/vivthomas/amarna-miller; u:https://www.vivthomas.com/model/amarna-miller; g:f
 released: 2015-07-13
 director:   Guy Ranieri Sblattero
 rating: 9.4
@@ -3961,8 +3961,8 @@ title: Gambling 3 - Stakes
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/taylor-sands-and-bailey-ryder/movie/20150710/GAMBLING_EPISODE_3_-_STAKES
-cast: Taylor Sands; https://www.vivthomas.com/model/taylor-sands; f
-cast: Bailey Ryder; https://www.vivthomas.com/model/bailey-ryder; f
+model: n:Taylor Sands; id:/model/vivthomas/taylor-sands; u:https://www.vivthomas.com/model/taylor-sands; g:f
+model: n:Bailey Ryder; id:/model/vivthomas/bailey-ryder; u:https://www.vivthomas.com/model/bailey-ryder; g:f
 released: 2015-07-10
 director:   Guy Ranieri Sblattero
 rating: 9.2
@@ -4015,8 +4015,8 @@ title: Goodbye My Love 4 - Indemnity
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/leila-smith-and-tiffany-doll/movie/20150708/GOODBYE_MY_LOVE_EPISODE_4_-_INDEMNITY
-cast: Leila Smith; https://www.vivthomas.com/model/leila-smith; f
-cast: Tiffany Doll; https://www.vivthomas.com/model/tiffany-doll; f
+model: n:Leila Smith; id:/model/vivthomas/leila-smith; u:https://www.vivthomas.com/model/leila-smith; g:f
+model: n:Tiffany Doll; id:/model/vivthomas/tiffany-doll; u:https://www.vivthomas.com/model/tiffany-doll; g:f
 released: 2015-07-08
 director:   Guy Ranieri Sblattero
 rating: 9.3
@@ -4069,8 +4069,8 @@ title: Holiday 4 - Stimulating
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/silvie-luca-and-carolina-abril/movie/20150706/HOLIDAY_SCENE_4_-_STIMULATING
-cast: Silvie Luca; https://www.vivthomas.com/model/silvie-luca; f
-cast: Carolina Abril; https://www.vivthomas.com/model/carolina-abril; f
+model: n:Silvie Luca; id:/model/vivthomas/silvie-luca; u:https://www.vivthomas.com/model/silvie-luca; g:f
+model: n:Carolina Abril; id:/model/vivthomas/carolina-abril; u:https://www.vivthomas.com/model/carolina-abril; g:f
 released: 2015-07-06
 director:   Guy Ranieri Sblattero
 rating: 9.5
@@ -4125,8 +4125,8 @@ title: Senses 4 - Touch
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/silvie-luca-and-tiffany-doll/movie/20150703/SENSES_SCENE_4_-_TOUCH
-cast: Silvie Luca; https://www.vivthomas.com/model/silvie-luca; f
-cast: Tiffany Doll; https://www.vivthomas.com/model/tiffany-doll; f
+model: n:Silvie Luca; id:/model/vivthomas/silvie-luca; u:https://www.vivthomas.com/model/silvie-luca; g:f
+model: n:Tiffany Doll; id:/model/vivthomas/tiffany-doll; u:https://www.vivthomas.com/model/tiffany-doll; g:f
 released: 2015-07-03
 director:   Guy Ranieri Sblattero
 rating: 9.4
@@ -4173,8 +4173,8 @@ title: Learning Curve 2 - First Time Anal
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/amarna-miller-and-carolina-abril/movie/20150701/LEARNING_CURVE_EPISODE_2_-_FIRST_TIME_ANAL
-cast: Amarna Miller; https://www.vivthomas.com/model/amarna-miller; f
-cast: Carolina Abril; https://www.vivthomas.com/model/carolina-abril; f
+model: n:Amarna Miller; id:/model/vivthomas/amarna-miller; u:https://www.vivthomas.com/model/amarna-miller; g:f
+model: n:Carolina Abril; id:/model/vivthomas/carolina-abril; u:https://www.vivthomas.com/model/carolina-abril; g:f
 released: 2015-07-01
 director:   Guy Ranieri Sblattero
 rating: 9.5
@@ -4228,8 +4228,8 @@ title: Private Show 2 - Clandestine
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/amber-nevada-and-bailey-ryder/movie/20150629/PRIVATE_SHOW_EPISODE_2_-_CLANDESTINE
-cast: Amber Nevada; https://www.vivthomas.com/model/amber-nevada; f
-cast: Bailey Ryder; https://www.vivthomas.com/model/bailey-ryder; f
+model: n:Amber Nevada; id:/model/vivthomas/amber-nevada; u:https://www.vivthomas.com/model/amber-nevada; g:f
+model: n:Bailey Ryder; id:/model/vivthomas/bailey-ryder; u:https://www.vivthomas.com/model/bailey-ryder; g:f
 released: 2015-06-29
 director:   Guy Ranieri Sblattero
 rating: 9.1
@@ -4278,8 +4278,8 @@ title: Gambling 2 - Indulge
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/lady-dee-and-amber-nevada/movie/20150626/GAMBLING_EPISODE_2_-_INDULGE
-cast: Lady Dee; https://www.vivthomas.com/model/lady-dee; f
-cast: Amber Nevada; https://www.vivthomas.com/model/amber-nevada; f
+model: n:Lady Dee; id:/model/vivthomas/lady-dee; u:https://www.vivthomas.com/model/lady-dee; g:f
+model: n:Amber Nevada; id:/model/vivthomas/amber-nevada; u:https://www.vivthomas.com/model/amber-nevada; g:f
 released: 2015-06-26
 director:   Guy Ranieri Sblattero
 rating: 9.1
@@ -4330,8 +4330,8 @@ title: Sapphires
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/madlin-moon-and-nia-black/movie/20150624/SAPPHIRES
-cast: Madlin Moon; https://www.vivthomas.com/model/madlin-moon; f
-cast: Nia Black; https://www.vivthomas.com/model/nia-black; f
+model: n:Madlin Moon; id:/model/vivthomas/madlin-moon; u:https://www.vivthomas.com/model/madlin-moon; g:f
+model: n:Nia Black; id:/model/vivthomas/nia-black; u:https://www.vivthomas.com/model/nia-black; g:f
 released: 2015-06-24
 director:   Viv Thomas
 rating: 9.3
@@ -4382,8 +4382,8 @@ title: Learning Curve 1 - First Time Lesbian
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/carolina-abril-and-bailey-ryder/movie/20150622/LEARNING_CURVE_EPISODE_1_-_FIRST_TIME_LESBIAN
-cast: Carolina Abril; https://www.vivthomas.com/model/carolina-abril; f
-cast: Bailey Ryder; https://www.vivthomas.com/model/bailey-ryder; f
+model: n:Carolina Abril; id:/model/vivthomas/carolina-abril; u:https://www.vivthomas.com/model/carolina-abril; g:f
+model: n:Bailey Ryder; id:/model/vivthomas/bailey-ryder; u:https://www.vivthomas.com/model/bailey-ryder; g:f
 released: 2015-06-22
 director:   Guy Ranieri Sblattero
 rating: 9.1
@@ -4412,7 +4412,7 @@ title: Celestial
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/lia-tailor/movie/20150619/CELESTIAL
-cast: Lia Tailor; https://www.vivthomas.com/model/lia-tailor; f
+model: n:Lia Tailor; id:/model/vivthomas/lia-tailor; u:https://www.vivthomas.com/model/lia-tailor; g:f
 released: 2015-06-19
 director:   Viv Thomas
 rating: 9.4
@@ -4453,8 +4453,8 @@ title: Private Show 1 - Furtive
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/taylor-sands-and-amarna-miller/movie/20150617/PRIVATE_SHOW_EPISODE_1_-_FURTIVE
-cast: Taylor Sands; https://www.vivthomas.com/model/taylor-sands; f
-cast: Amarna Miller; https://www.vivthomas.com/model/amarna-miller; f
+model: n:Taylor Sands; id:/model/vivthomas/taylor-sands; u:https://www.vivthomas.com/model/taylor-sands; g:f
+model: n:Amarna Miller; id:/model/vivthomas/amarna-miller; u:https://www.vivthomas.com/model/amarna-miller; g:f
 released: 2015-06-17
 director:   Guy Ranieri Sblattero
 rating: 9.3
@@ -4497,8 +4497,8 @@ title: Gambling 1 - Bouillotte
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/taylor-sands-and-amber-nevada/movie/20150615/GAMBLING_EPISODE_1_-_BOUILLOTTE
-cast: Taylor Sands; https://www.vivthomas.com/model/taylor-sands; f
-cast: Amber Nevada; https://www.vivthomas.com/model/amber-nevada; f
+model: n:Taylor Sands; id:/model/vivthomas/taylor-sands; u:https://www.vivthomas.com/model/taylor-sands; g:f
+model: n:Amber Nevada; id:/model/vivthomas/amber-nevada; u:https://www.vivthomas.com/model/amber-nevada; g:f
 released: 2015-06-15
 director:   Guy Ranieri Sblattero
 rating: 9.4
@@ -4549,7 +4549,7 @@ title: Prism
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/paula-shy/movie/20150612/PRISM
-cast: Paula Shy; https://www.vivthomas.com/model/paula-shy; f
+model: n:Paula Shy; id:/model/vivthomas/paula-shy; u:https://www.vivthomas.com/model/paula-shy; g:f
 released: 2015-06-12
 director:   Viv Thomas
 rating: 9.5
@@ -4588,8 +4588,8 @@ title: Goodbye My Love 3 - Accede
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/carolina-abril-and-leila-smith/movie/20150610/GOODBYE_MY_LOVE_EPISODE_3_-_ACCEDE
-cast: Carolina Abril; https://www.vivthomas.com/model/carolina-abril; f
-cast: Leila Smith; https://www.vivthomas.com/model/leila-smith; f
+model: n:Carolina Abril; id:/model/vivthomas/carolina-abril; u:https://www.vivthomas.com/model/carolina-abril; g:f
+model: n:Leila Smith; id:/model/vivthomas/leila-smith; u:https://www.vivthomas.com/model/leila-smith; g:f
 released: 2015-06-10
 director:   Guy Ranieri Sblattero
 rating: 9.4
@@ -4644,8 +4644,8 @@ title: Holiday 3 - Piquant
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/amber-nevada-and-angel-piaf/movie/20150608/HOLIDAY_SCENE_3_-_PIQUANT
-cast: Amber Nevada; https://www.vivthomas.com/model/amber-nevada; f
-cast: Angel Piaf; https://www.vivthomas.com/model/angel-piaf; f
+model: n:Amber Nevada; id:/model/vivthomas/amber-nevada; u:https://www.vivthomas.com/model/amber-nevada; g:f
+model: n:Angel Piaf; id:/model/vivthomas/angel-piaf; u:https://www.vivthomas.com/model/angel-piaf; g:f
 released: 2015-06-08
 director:   Guy Ranieri Sblattero
 rating: 9.2
@@ -4691,7 +4691,7 @@ title: Flare
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/madlin-moon/movie/20150605/FLARE
-cast: Madlin Moon; https://www.vivthomas.com/model/madlin-moon; f
+model: n:Madlin Moon; id:/model/vivthomas/madlin-moon; u:https://www.vivthomas.com/model/madlin-moon; g:f
 released: 2015-06-05
 director:   Viv Thomas
 rating: 9.3
@@ -4736,8 +4736,8 @@ title: Senses 3 - Sound
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/tiffany-doll-and-amber-nevada/movie/20150603/SENSES_SCENE_3_-_SOUND
-cast: Tiffany Doll; https://www.vivthomas.com/model/tiffany-doll; f
-cast: Amber Nevada; https://www.vivthomas.com/model/amber-nevada; f
+model: n:Tiffany Doll; id:/model/vivthomas/tiffany-doll; u:https://www.vivthomas.com/model/tiffany-doll; g:f
+model: n:Amber Nevada; id:/model/vivthomas/amber-nevada; u:https://www.vivthomas.com/model/amber-nevada; g:f
 released: 2015-06-03
 director:   Guy Ranieri Sblattero
 rating: 9.3
@@ -4790,8 +4790,8 @@ title: Goodbye My Love 2 - Expiation
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/angel-piaf-and-leila-smith/movie/20150601/GOODBYE_MY_LOVE_EPISODE_2_-_EXPIATION
-cast: Angel Piaf; https://www.vivthomas.com/model/angel-piaf; f
-cast: Leila Smith; https://www.vivthomas.com/model/leila-smith; f
+model: n:Angel Piaf; id:/model/vivthomas/angel-piaf; u:https://www.vivthomas.com/model/angel-piaf; g:f
+model: n:Leila Smith; id:/model/vivthomas/leila-smith; u:https://www.vivthomas.com/model/leila-smith; g:f
 released: 2015-06-01
 director:   Guy Ranieri Sblattero
 rating: 9.3
@@ -4835,8 +4835,8 @@ title: Holiday 2 - Enthralling
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/silvie-luca-and-amber-nevada/movie/20150529/HOLIDAY_SCENE_2_-_ENTHRALLING
-cast: Silvie Luca; https://www.vivthomas.com/model/silvie-luca; f
-cast: Amber Nevada; https://www.vivthomas.com/model/amber-nevada; f
+model: n:Silvie Luca; id:/model/vivthomas/silvie-luca; u:https://www.vivthomas.com/model/silvie-luca; g:f
+model: n:Amber Nevada; id:/model/vivthomas/amber-nevada; u:https://www.vivthomas.com/model/amber-nevada; g:f
 released: 2015-05-29
 director: Guy Ranieri Sblattero
 rating: 9.4
@@ -4881,8 +4881,8 @@ title: Senses 2 - Sight
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/angel-piaf-and-tiffany-doll/movie/20150527/SENSES_SCENE_2_-_SIGHT
-cast: Angel Piaf; https://www.vivthomas.com/model/angel-piaf; f
-cast: Tiffany Doll; https://www.vivthomas.com/model/tiffany-doll; f
+model: n:Angel Piaf; id:/model/vivthomas/angel-piaf; u:https://www.vivthomas.com/model/angel-piaf; g:f
+model: n:Tiffany Doll; id:/model/vivthomas/tiffany-doll; u:https://www.vivthomas.com/model/tiffany-doll; g:f
 released: 2015-05-27
 director:   Guy Ranieri Sblattero
 rating: 9.2
@@ -4932,7 +4932,7 @@ title: Bourgeois
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/madlin-moon/movie/20150525/BOURGEOIS
-cast: Madlin Moon; https://www.vivthomas.com/model/madlin-moon; f
+model: n:Madlin Moon; id:/model/vivthomas/madlin-moon; u:https://www.vivthomas.com/model/madlin-moon; g:f
 released: 2015-05-25
 director:   Viv Thomas
 rating: 9.0
@@ -4980,8 +4980,8 @@ title: Goodbye My Love 1 - Reclamation
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/leila-smith-and-silvie-luca/movie/20150522/GOODBYE_MY_LOVE_EPISODE_1_-_RECLAMATION
-cast: Leila Smith; https://www.vivthomas.com/model/leila-smith; f
-cast: Silvie Luca; https://www.vivthomas.com/model/silvie-luca; f
+model: n:Leila Smith; id:/model/vivthomas/leila-smith; u:https://www.vivthomas.com/model/leila-smith; g:f
+model: n:Silvie Luca; id:/model/vivthomas/silvie-luca; u:https://www.vivthomas.com/model/silvie-luca; g:f
 released: 2015-05-22
 director:   Guy Ranieri Sblattero
 rating: 9.5
@@ -5029,8 +5029,8 @@ title: Holiday 1 - Charming
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/silvie-luca-and-angel-piaf/movie/20150520/HOLIDAY_SCENE_1_-_CHARMING
-cast: Silvie Luca; https://www.vivthomas.com/model/silvie-luca; f
-cast: Angel Piaf; https://www.vivthomas.com/model/angel-piaf; f
+model: n:Silvie Luca; id:/model/vivthomas/silvie-luca; u:https://www.vivthomas.com/model/silvie-luca; g:f
+model: n:Angel Piaf; id:/model/vivthomas/angel-piaf; u:https://www.vivthomas.com/model/angel-piaf; g:f
 released: 2015-05-20
 director:   Guy Ranieri Sblattero
 rating: 9.2
@@ -5085,8 +5085,8 @@ title: Senses 1 - Taste
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/tiffany-doll-and-carolina-abril/movie/20150518/SENSES_SCENE_1_-_TASTE
-cast: Tiffany Doll; https://www.vivthomas.com/model/tiffany-doll; f
-cast: Carolina Abril; https://www.vivthomas.com/model/carolina-abril; f
+model: n:Tiffany Doll; id:/model/vivthomas/tiffany-doll; u:https://www.vivthomas.com/model/tiffany-doll; g:f
+model: n:Carolina Abril; id:/model/vivthomas/carolina-abril; u:https://www.vivthomas.com/model/carolina-abril; g:f
 released: 2015-05-18
 director:   Guy Ranieri Sblattero
 rating: 9.2
@@ -5139,7 +5139,7 @@ title: Ashen
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/lia-tailor/movie/20150515/ASHEN
-cast: Lia Tailor; https://www.vivthomas.com/model/lia-tailor; f
+model: n:Lia Tailor; id:/model/vivthomas/lia-tailor; u:https://www.vivthomas.com/model/lia-tailor; g:f
 released: 2015-05-15
 director:   Viv Thomas
 rating: 9.3
@@ -5179,8 +5179,8 @@ title: Reading Room 4 - Inculcation
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/alexandra-stein-and-lorena-garcia/movie/20150513/READING_ROOM_SCENE_4_-_INCULCATION
-cast: Alexandra Stein; https://www.vivthomas.com/model/alexandra-stein; f
-cast: Lorena Garcia; https://www.vivthomas.com/model/lorena-garcia; f
+model: n:Alexandra Stein; id:/model/vivthomas/alexandra-stein; u:https://www.vivthomas.com/model/alexandra-stein; g:f
+model: n:Lorena Garcia; id:/model/vivthomas/lorena-garcia; u:https://www.vivthomas.com/model/lorena-garcia; g:f
 released: 2015-05-13
 director:   Guy Ranieri Sblattero
 rating: 9.5
@@ -5225,8 +5225,8 @@ title: Reading Room 3 - Construal
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/apolonia-and-alexandra-stein/movie/20150511/READING_ROOM_SCENE_3_-_CONSTRUAL
-cast: Apolonia; https://www.vivthomas.com/model/apolonia; f
-cast: Alexandra Stein; https://www.vivthomas.com/model/alexandra-stein; f
+model: n:Apolonia; id:/model/vivthomas/apolonia; u:https://www.vivthomas.com/model/apolonia; g:f
+model: n:Alexandra Stein; id:/model/vivthomas/alexandra-stein; u:https://www.vivthomas.com/model/alexandra-stein; g:f
 released: 2015-05-11
 director:   Guy Ranieri Sblattero
 rating: 9.3
@@ -5250,8 +5250,8 @@ title: Reading Room 2 - Inference
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/apolonia-and-misha-cross/movie/20150508/READING_ROOM_SCENE_2_-_INFERENCE
-cast: Apolonia; https://www.vivthomas.com/model/apolonia; f
-cast: Misha Cross; https://www.vivthomas.com/model/misha-cross; f
+model: n:Apolonia; id:/model/vivthomas/apolonia; u:https://www.vivthomas.com/model/apolonia; g:f
+model: n:Misha Cross; id:/model/vivthomas/misha-cross; u:https://www.vivthomas.com/model/misha-cross; g:f
 released: 2015-05-08
 director:   Guy Ranieri Sblattero
 rating: 9.3
@@ -5303,8 +5303,8 @@ title: Reading Room 1 - Articulation
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/lorena-garcia-and-alexandra-stein/movie/20150506/READING_ROOM_SCENE_1_-_ARTICULATION
-cast: Lorena Garcia; https://www.vivthomas.com/model/lorena-garcia; f
-cast: Alexandra Stein; https://www.vivthomas.com/model/alexandra-stein; f
+model: n:Lorena Garcia; id:/model/vivthomas/lorena-garcia; u:https://www.vivthomas.com/model/lorena-garcia; g:f
+model: n:Alexandra Stein; id:/model/vivthomas/alexandra-stein; u:https://www.vivthomas.com/model/alexandra-stein; g:f
 released: 2015-05-06
 director:   Guy Ranieri Sblattero
 rating: 9.5
@@ -5353,8 +5353,8 @@ title: Imperfection 4 - Solecism
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/misha-cross-and-tracy-lindsay/movie/20150504/IMPERFECTION_SCENE_4_-_SOLECISM
-cast: Misha Cross; https://www.vivthomas.com/model/misha-cross; f
-cast: Tracy Lindsay; https://www.vivthomas.com/model/tracy-lindsay; f
+model: n:Misha Cross; id:/model/vivthomas/misha-cross; u:https://www.vivthomas.com/model/misha-cross; g:f
+model: n:Tracy Lindsay; id:/model/vivthomas/tracy-lindsay; u:https://www.vivthomas.com/model/tracy-lindsay; g:f
 released: 2015-05-04
 director:   Guy Ranieri Sblattero
 rating: 9.4
@@ -5405,8 +5405,8 @@ title: Imperfection 3 - Peccadillo
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/tracy-lindsay-and-anna-siline/movie/20150501/IMPERFECTION_SCENE_3_-_PECCADILLO
-cast: Tracy Lindsay; https://www.vivthomas.com/model/tracy-lindsay; f
-cast: Anna Siline; https://www.vivthomas.com/model/anna-siline; f
+model: n:Tracy Lindsay; id:/model/vivthomas/tracy-lindsay; u:https://www.vivthomas.com/model/tracy-lindsay; g:f
+model: n:Anna Siline; id:/model/vivthomas/anna-siline; u:https://www.vivthomas.com/model/anna-siline; g:f
 released: 2015-05-01
 director:   Guy Ranieri Sblattero
 rating: 9.1
@@ -5457,8 +5457,8 @@ title: Imperfection 2 - Privation
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/alexandra-stein-and-tracy-lindsay/movie/20150429/IMPERFECTION_SCENE_2_-_PRIVATION
-cast: Alexandra Stein; https://www.vivthomas.com/model/alexandra-stein; f
-cast: Tracy Lindsay; https://www.vivthomas.com/model/tracy-lindsay; f
+model: n:Alexandra Stein; id:/model/vivthomas/alexandra-stein; u:https://www.vivthomas.com/model/alexandra-stein; g:f
+model: n:Tracy Lindsay; id:/model/vivthomas/tracy-lindsay; u:https://www.vivthomas.com/model/tracy-lindsay; g:f
 released: 2015-04-29
 director:   Guy Ranieri Sblattero
 rating: 9.0
@@ -5505,8 +5505,8 @@ title: Imperfection 1 - Inutility
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/apolonia-and-tracy-lindsay/movie/20150427/IMPERFECTION_SCENE_1_-_INUTILITY
-cast: Apolonia; https://www.vivthomas.com/model/apolonia; f
-cast: Tracy Lindsay; https://www.vivthomas.com/model/tracy-lindsay; f
+model: n:Apolonia; id:/model/vivthomas/apolonia; u:https://www.vivthomas.com/model/apolonia; g:f
+model: n:Tracy Lindsay; id:/model/vivthomas/tracy-lindsay; u:https://www.vivthomas.com/model/tracy-lindsay; g:f
 released: 2015-04-27
 director:   Guy Ranieri Sblattero
 rating: 9.3
@@ -5563,8 +5563,8 @@ title: After Hours 4 - Dusk
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/misha-cross-and-lorena-garcia/movie/20150424/AFTER_HOURS_SCENE_4_-_DUSK
-cast: Misha Cross; https://www.vivthomas.com/model/misha-cross; f
-cast: Lorena Garcia; https://www.vivthomas.com/model/lorena-garcia; f
+model: n:Misha Cross; id:/model/vivthomas/misha-cross; u:https://www.vivthomas.com/model/misha-cross; g:f
+model: n:Lorena Garcia; id:/model/vivthomas/lorena-garcia; u:https://www.vivthomas.com/model/lorena-garcia; g:f
 released: 2015-04-24
 director:   Guy Ranieri Sblattero
 rating: 9.5
@@ -5613,8 +5613,8 @@ title: After Hours 3 - Eclipse
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/lorena-garcia-and-apolonia/movie/20150422/AFTER_HOURS_SCENE_3_-_ECLIPSE
-cast: Lorena Garcia; https://www.vivthomas.com/model/lorena-garcia; f
-cast: Apolonia; https://www.vivthomas.com/model/apolonia; f
+model: n:Lorena Garcia; id:/model/vivthomas/lorena-garcia; u:https://www.vivthomas.com/model/lorena-garcia; g:f
+model: n:Apolonia; id:/model/vivthomas/apolonia; u:https://www.vivthomas.com/model/apolonia; g:f
 released: 2015-04-22
 director:   Guy Ranieri Sblattero
 rating: 9.5
@@ -5663,8 +5663,8 @@ title: After Hours 2 - Opacity
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/anna-siline-and-lorena-garcia/movie/20150420/AFTER_HOURS_SCENE_2_-_OPACITY
-cast: Anna Siline; https://www.vivthomas.com/model/anna-siline; f
-cast: Lorena Garcia; https://www.vivthomas.com/model/lorena-garcia; f
+model: n:Anna Siline; id:/model/vivthomas/anna-siline; u:https://www.vivthomas.com/model/anna-siline; g:f
+model: n:Lorena Garcia; id:/model/vivthomas/lorena-garcia; u:https://www.vivthomas.com/model/lorena-garcia; g:f
 released: 2015-04-20
 director:   Guy Ranieri Sblattero
 rating: 9.3
@@ -5712,8 +5712,8 @@ title: After Hours 1 - Caliginosity
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/tracy-lindsay-and-lorena-garcia/movie/20150417/AFTER_HOURS_SCENE_1_-_CALIGINOSITY
-cast: Tracy Lindsay; https://www.vivthomas.com/model/tracy-lindsay; f
-cast: Lorena Garcia; https://www.vivthomas.com/model/lorena-garcia; f
+model: n:Tracy Lindsay; id:/model/vivthomas/tracy-lindsay; u:https://www.vivthomas.com/model/tracy-lindsay; g:f
+model: n:Lorena Garcia; id:/model/vivthomas/lorena-garcia; u:https://www.vivthomas.com/model/lorena-garcia; g:f
 released: 2015-04-17
 director:   Guy Ranieri Sblattero
 rating: 9.6
@@ -5759,8 +5759,8 @@ title: Sex Message III 4 - Affricate
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/hanna-sweet-and-aiko-bell/movie/20150415/SEX_MESSAGE_III_SCENE_4_-_AFFRICATE
-cast: Hanna Sweet; https://www.vivthomas.com/model/hanna-sweet; f
-cast: Aiko Bell; https://www.vivthomas.com/model/aiko-bell; f
+model: n:Hanna Sweet; id:/model/vivthomas/hanna-sweet; u:https://www.vivthomas.com/model/hanna-sweet; g:f
+model: n:Aiko Bell; id:/model/vivthomas/aiko-bell; u:https://www.vivthomas.com/model/aiko-bell; g:f
 released: 2015-04-15
 director:   Andrej Lupin
 rating: 9.3
@@ -5806,8 +5806,8 @@ title: Sex Message III 3 - Disseminate
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/lexi-dona-and-alexis-crystal/movie/20150413/SEX_MESSAGE_III_SCENE_3_-_DISSEMINATE
-cast: Lexi Dona; https://www.vivthomas.com/model/lexi-dona; f
-cast: Alexis Crystal; https://www.vivthomas.com/model/alexis-crystal; f
+model: n:Lexi Dona; id:/model/vivthomas/lexi-dona; u:https://www.vivthomas.com/model/lexi-dona; g:f
+model: n:Alexis Crystal; id:/model/vivthomas/alexis-crystal; u:https://www.vivthomas.com/model/alexis-crystal; g:f
 released: 2015-04-13
 director:   Andrej Lupin
 rating: 9.5
@@ -5858,8 +5858,8 @@ title: Sex Message III 2 - Enlighten
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/alexis-crystal-and-uma/movie/20150410/SEX_MESSAGE_III_SCENE_2_-_ENLIGHTEN
-cast: Alexis Crystal; https://www.vivthomas.com/model/alexis-crystal; f
-cast: Uma; https://www.vivthomas.com/model/uma; f
+model: n:Alexis Crystal; id:/model/vivthomas/alexis-crystal; u:https://www.vivthomas.com/model/alexis-crystal; g:f
+model: n:Uma; id:/model/vivthomas/uma; u:https://www.vivthomas.com/model/uma; g:f
 released: 2015-04-10
 director:   Andrej Lupin
 rating: 9.5
@@ -5915,8 +5915,8 @@ title: Sex Message III 1 - Disclosure
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/alexis-crystal-and-silvie-luca/movie/20150408/SEX_MESSAGE_III_SCENE_1_-_DISCLOSURE
-cast: Alexis Crystal; https://www.vivthomas.com/model/alexis-crystal; f
-cast: Silvie Luca; https://www.vivthomas.com/model/silvie-luca; f
+model: n:Alexis Crystal; id:/model/vivthomas/alexis-crystal; u:https://www.vivthomas.com/model/alexis-crystal; g:f
+model: n:Silvie Luca; id:/model/vivthomas/silvie-luca; u:https://www.vivthomas.com/model/silvie-luca; g:f
 released: 2015-04-08
 director:   Andrej Lupin
 rating: 9.5
@@ -5968,8 +5968,8 @@ title: Our Legacy 5 - Pedagogue
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/jasmin-b-and-sylvia-lauren/movie/20150406/PEDAGOGUE
-cast: Jasmin B; https://www.vivthomas.com/model/jasmin-b; f
-cast: Sylvia Lauren; https://www.vivthomas.com/model/sylvia-lauren; f
+model: n:Jasmin B; id:/model/vivthomas/jasmin-b; u:https://www.vivthomas.com/model/jasmin-b; g:f
+model: n:Sylvia Lauren; id:/model/vivthomas/sylvia-lauren; u:https://www.vivthomas.com/model/sylvia-lauren; g:f
 released: 2015-04-06
 director:   Viv Thomas
 rating: 9.1
@@ -6014,8 +6014,8 @@ title: Our Legacy 4 - Preceptor
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/cassye-a-and-roxanne-c/movie/20150403/PRECEPTOR
-cast: Cassye A; https://www.vivthomas.com/model/cassye-a; f
-cast: Roxanne C; https://www.vivthomas.com/model/roxanne-c; f
+model: n:Cassye A; id:/model/vivthomas/cassye-a; u:https://www.vivthomas.com/model/cassye-a; g:f
+model: n:Roxanne C; id:/model/vivthomas/roxanne-c; u:https://www.vivthomas.com/model/roxanne-c; g:f
 released: 2015-04-03
 director:   Viv Thomas
 rating: 9.0
@@ -6056,8 +6056,8 @@ title: Our Legacy 3 - Sage
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/madison-parker-and-regina-ice/movie/20150401/SAGE
-cast: Madison Parker; https://www.vivthomas.com/model/madison-parker; f
-cast: Regina Ice; https://www.vivthomas.com/model/regina-ice; f
+model: n:Madison Parker; id:/model/vivthomas/madison-parker; u:https://www.vivthomas.com/model/madison-parker; g:f
+model: n:Regina Ice; id:/model/vivthomas/regina-ice; u:https://www.vivthomas.com/model/regina-ice; g:f
 released: 2015-04-01
 director:   Viv Thomas
 rating: 9.1
@@ -6106,8 +6106,8 @@ title: Our Legacy 2 - Vanguard
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/cindy-hope-and-sylvia-lauren/movie/20150330/VANGUARD
-cast: Cindy Hope; https://www.vivthomas.com/model/cindy-hope; f
-cast: Sylvia Lauren; https://www.vivthomas.com/model/sylvia-lauren; f
+model: n:Cindy Hope; id:/model/vivthomas/cindy-hope; u:https://www.vivthomas.com/model/cindy-hope; g:f
+model: n:Sylvia Lauren; id:/model/vivthomas/sylvia-lauren; u:https://www.vivthomas.com/model/sylvia-lauren; g:f
 released: 2015-03-30
 director:   Viv Thomas
 rating: 9.2
@@ -6153,8 +6153,8 @@ title: Our Legacy 1 - Usher
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/cindy-love-and-dorothy-black/movie/20150327/USHER
-cast: Cindy Love; https://www.vivthomas.com/model/cindy-love; f
-cast: Dorothy Black; https://www.vivthomas.com/model/dorothy-black; f
+model: n:Cindy Love; id:/model/vivthomas/cindy-love; u:https://www.vivthomas.com/model/cindy-love; g:f
+model: n:Dorothy Black; id:/model/vivthomas/dorothy-black; u:https://www.vivthomas.com/model/dorothy-black; g:f
 released: 2015-03-27
 director:   Viv Thomas
 rating: 9.1
@@ -6204,8 +6204,8 @@ title: In His Shoes 4 - Insolia
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/leila-smith-and-jimena-lago/movie/20150325/IN_HIS_SHOES_EPISODE_4_-_INSOLIA
-cast: Leila Smith; https://www.vivthomas.com/model/leila-smith; f
-cast: Jimena Lago; https://www.vivthomas.com/model/jimena-lago; f
+model: n:Leila Smith; id:/model/vivthomas/leila-smith; u:https://www.vivthomas.com/model/leila-smith; g:f
+model: n:Jimena Lago; id:/model/vivthomas/jimena-lago; u:https://www.vivthomas.com/model/jimena-lago; g:f
 released: 2015-03-25
 director:   Guy Ranieri Sblattero
 rating: 9.3
@@ -6253,8 +6253,8 @@ title: In His Shoes 3 - Strapped
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/leila-smith-and-ava-courcelles/movie/20150323/IN_HIS_SHOES_EPISODE_3_-_STRAPPED
-cast: Leila Smith; https://www.vivthomas.com/model/leila-smith; f
-cast: Ava Courcelles; https://www.vivthomas.com/model/ava-courcelles; f
+model: n:Leila Smith; id:/model/vivthomas/leila-smith; u:https://www.vivthomas.com/model/leila-smith; g:f
+model: n:Ava Courcelles; id:/model/vivthomas/ava-courcelles; u:https://www.vivthomas.com/model/ava-courcelles; g:f
 released: 2015-03-23
 director:   Guy Ranieri Sblattero
 rating: 9.3
@@ -6301,8 +6301,8 @@ title: In His Shoes 2 - Platform
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/suzie-carina-and-jimena-lago/movie/20150320/IN_HIS_SHOES_EPISODE_2_-_PLATFORM
-cast: Suzie Carina; https://www.vivthomas.com/model/suzie-carina; f
-cast: Jimena Lago; https://www.vivthomas.com/model/jimena-lago; f
+model: n:Suzie Carina; id:/model/vivthomas/suzie-carina; u:https://www.vivthomas.com/model/suzie-carina; g:f
+model: n:Jimena Lago; id:/model/vivthomas/jimena-lago; u:https://www.vivthomas.com/model/jimena-lago; g:f
 released: 2015-03-20
 director:   Guy Ranieri Sblattero
 rating: 9.2
@@ -6347,8 +6347,8 @@ title: In His Shoes 1 - Fantasy
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/leila-smith-and-ana-rose/movie/20150318/IN_HIS_SHOES_EPISODE_1_-_FANTASY
-cast: Leila Smith; https://www.vivthomas.com/model/leila-smith; f
-cast: Ana Rose; https://www.vivthomas.com/model/ana-rose; f
+model: n:Leila Smith; id:/model/vivthomas/leila-smith; u:https://www.vivthomas.com/model/leila-smith; g:f
+model: n:Ana Rose; id:/model/vivthomas/ana-rose; u:https://www.vivthomas.com/model/ana-rose; g:f
 released: 2015-03-18
 director:   Guy Ranieri Sblattero
 rating: 9.1
@@ -6401,8 +6401,8 @@ title: French Kiss 4 - Intimacy
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/samia-duarte-and-tiffany-doll/movie/20150316/FRENCH_KISS_EPISODE_4_-_INTIMACY
-cast: Samia Duarte; https://www.vivthomas.com/model/samia-duarte; f
-cast: Tiffany Doll; https://www.vivthomas.com/model/tiffany-doll; f
+model: n:Samia Duarte; id:/model/vivthomas/samia-duarte; u:https://www.vivthomas.com/model/samia-duarte; g:f
+model: n:Tiffany Doll; id:/model/vivthomas/tiffany-doll; u:https://www.vivthomas.com/model/tiffany-doll; g:f
 released: 2015-03-16
 director:   Guy Ranieri Sblattero
 rating: 9.2
@@ -6451,8 +6451,8 @@ title: French Kiss 3 - Harmony
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/samia-duarte-and-leila-smith/movie/20150313/FRENCH_KISS_EPISODE_3_-_HARMONY
-cast: Samia Duarte; https://www.vivthomas.com/model/samia-duarte; f
-cast: Leila Smith; https://www.vivthomas.com/model/leila-smith; f
+model: n:Samia Duarte; id:/model/vivthomas/samia-duarte; u:https://www.vivthomas.com/model/samia-duarte; g:f
+model: n:Leila Smith; id:/model/vivthomas/leila-smith; u:https://www.vivthomas.com/model/leila-smith; g:f
 released: 2015-03-13
 director:   Guy Ranieri Sblattero
 rating: 9.4
@@ -6504,8 +6504,8 @@ title: French Kiss 2 - Companion
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/tiffany-doll-and-jimena-lago/movie/20150311/FRENCH_KISS_EPISODE_2_-_COMPANION
-cast: Tiffany Doll; https://www.vivthomas.com/model/tiffany-doll; f
-cast: Jimena Lago; https://www.vivthomas.com/model/jimena-lago; f
+model: n:Tiffany Doll; id:/model/vivthomas/tiffany-doll; u:https://www.vivthomas.com/model/tiffany-doll; g:f
+model: n:Jimena Lago; id:/model/vivthomas/jimena-lago; u:https://www.vivthomas.com/model/jimena-lago; g:f
 released: 2015-03-11
 director:   Guy Ranieri Sblattero
 rating: 9.4
@@ -6553,8 +6553,8 @@ title: French Kiss 1 - Unity
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/tiffany-doll-and-leila-smith/movie/20150309/FRENCH_KISS_EPISODE_1_-_UNITY
-cast: Tiffany Doll; https://www.vivthomas.com/model/tiffany-doll; f
-cast: Leila Smith; https://www.vivthomas.com/model/leila-smith; f
+model: n:Tiffany Doll; id:/model/vivthomas/tiffany-doll; u:https://www.vivthomas.com/model/tiffany-doll; g:f
+model: n:Leila Smith; id:/model/vivthomas/leila-smith; u:https://www.vivthomas.com/model/leila-smith; g:f
 released: 2015-03-09
 director:   Guy Ranieri Sblattero
 rating: 9.5
@@ -6603,8 +6603,8 @@ title: Look At Me 4 - Perpension
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/ava-courcelles-and-suzie-carina/movie/20150306/LOOK_AT_ME_EPISODE_4_-_PERPENSION
-cast: Ava Courcelles; https://www.vivthomas.com/model/ava-courcelles; f
-cast: Suzie Carina; https://www.vivthomas.com/model/suzie-carina; f
+model: n:Ava Courcelles; id:/model/vivthomas/ava-courcelles; u:https://www.vivthomas.com/model/ava-courcelles; g:f
+model: n:Suzie Carina; id:/model/vivthomas/suzie-carina; u:https://www.vivthomas.com/model/suzie-carina; g:f
 released: 2015-03-06
 director:   Guy Ranieri Sblattero
 rating: 9.2
@@ -6655,8 +6655,8 @@ title: Look At Me 3 - Advertence
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/suzie-carina-and-ana-rose/movie/20150304/LOOK_AT_ME_EPISODE_3_-_ADVERTENCE
-cast: Suzie Carina; https://www.vivthomas.com/model/suzie-carina; f
-cast: Ana Rose; https://www.vivthomas.com/model/ana-rose; f
+model: n:Suzie Carina; id:/model/vivthomas/suzie-carina; u:https://www.vivthomas.com/model/suzie-carina; g:f
+model: n:Ana Rose; id:/model/vivthomas/ana-rose; u:https://www.vivthomas.com/model/ana-rose; g:f
 released: 2015-03-04
 director:   Guy Ranieri Sblattero
 rating: 9.3
@@ -6701,8 +6701,8 @@ title: Look At Me 2 - Etiquette
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/ana-rose-and-ava-courcelles/movie/20150302/LOOK_AT_ME_EPISODE_2_-_ETIQUETTE
-cast: Ana Rose; https://www.vivthomas.com/model/ana-rose; f
-cast: Ava Courcelles; https://www.vivthomas.com/model/ava-courcelles; f
+model: n:Ana Rose; id:/model/vivthomas/ana-rose; u:https://www.vivthomas.com/model/ana-rose; g:f
+model: n:Ava Courcelles; id:/model/vivthomas/ava-courcelles; u:https://www.vivthomas.com/model/ava-courcelles; g:f
 released: 2015-03-02
 director:   Guy Ranieri Sblattero
 rating: 9.1
@@ -6749,8 +6749,8 @@ title: Look At Me 1 - Cognizance
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/ana-rose-and-jimena-lago/movie/20150227/LOOK_AT_ME_EPISODE_1_-_COGNIZANCE
-cast: Ana Rose; https://www.vivthomas.com/model/ana-rose; f
-cast: Jimena Lago; https://www.vivthomas.com/model/jimena-lago; f
+model: n:Ana Rose; id:/model/vivthomas/ana-rose; u:https://www.vivthomas.com/model/ana-rose; g:f
+model: n:Jimena Lago; id:/model/vivthomas/jimena-lago; u:https://www.vivthomas.com/model/jimena-lago; g:f
 released: 2015-02-27
 director:   Guy Ranieri Sblattero
 rating: 9.2
@@ -6798,8 +6798,8 @@ title: Dominance 4 - Meliority
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/eva-berger-and-bella-blond/movie/20150225/DOMINANCE_SCENE_4_-_MELIORITY
-cast: Eva Berger; https://www.vivthomas.com/model/eva-berger; f
-cast: Bella Blond; https://www.vivthomas.com/model/bella-blond; f
+model: n:Eva Berger; id:/model/vivthomas/eva-berger; u:https://www.vivthomas.com/model/eva-berger; g:f
+model: n:Bella Blond; id:/model/vivthomas/bella-blond; u:https://www.vivthomas.com/model/bella-blond; g:f
 released: 2015-02-25
 director:   John Sweet
 rating: 9.3
@@ -6853,8 +6853,8 @@ title: Dominance 3 - Vigor
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/kiara-lord-and-eva-berger/movie/20150223/DOMINANCE_SCENE_3_-_VIGOR
-cast: Kiara Lord; https://www.vivthomas.com/model/kiara-lord; f
-cast: Eva Berger; https://www.vivthomas.com/model/eva-berger; f
+model: n:Kiara Lord; id:/model/vivthomas/kiara-lord; u:https://www.vivthomas.com/model/kiara-lord; g:f
+model: n:Eva Berger; id:/model/vivthomas/eva-berger; u:https://www.vivthomas.com/model/eva-berger; g:f
 released: 2015-02-23
 director:   John Sweet
 rating: 9.3
@@ -6902,8 +6902,8 @@ title: Dominance 2 - Duress
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/eva-berger-and-cristal-caitlin/movie/20150220/DOMINANCE_SCENE_2_-_DURESS
-cast: Eva Berger; https://www.vivthomas.com/model/eva-berger; f
-cast: Cristal Caitlin; https://www.vivthomas.com/model/cristal-caitlin; f
+model: n:Eva Berger; id:/model/vivthomas/eva-berger; u:https://www.vivthomas.com/model/eva-berger; g:f
+model: n:Cristal Caitlin; id:/model/vivthomas/cristal-caitlin; u:https://www.vivthomas.com/model/cristal-caitlin; g:f
 released: 2015-02-20
 director:   John Sweet
 rating: 9.4
@@ -6956,8 +6956,8 @@ title: Dominance 1 - Ascendancy
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/jessica-manole-and-eva-berger/movie/20150218/DOMINANCE_SCENE_1_-_ASCENDANCY
-cast: Jessica Manole; https://www.vivthomas.com/model/jessica-manole; f
-cast: Eva Berger; https://www.vivthomas.com/model/eva-berger; f
+model: n:Jessica Manole; id:/model/vivthomas/jessica-manole; u:https://www.vivthomas.com/model/jessica-manole; g:f
+model: n:Eva Berger; id:/model/vivthomas/eva-berger; u:https://www.vivthomas.com/model/eva-berger; g:f
 released: 2015-02-18
 director:   Qweedo Climber
 rating: 9.1
@@ -7016,8 +7016,8 @@ title: Lady 4 - Contessa
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/kari-a-and-rosaline-rose/movie/20150216/LADY_SCENE_4_-_CONTESSA
-cast: Kari A; https://www.vivthomas.com/model/kari-a; f
-cast: Rosaline Rose; https://www.vivthomas.com/model/rosaline-rose; f
+model: n:Kari A; id:/model/vivthomas/kari-a; u:https://www.vivthomas.com/model/kari-a; g:f
+model: n:Rosaline Rose; id:/model/vivthomas/rosaline-rose; u:https://www.vivthomas.com/model/rosaline-rose; g:f
 released: 2015-02-16
 director:   John Sweet
 rating: 9.4
@@ -7066,8 +7066,8 @@ title: Lady 3 - Marquise
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/tracy-smile-and-kari-a/movie/20150213/LADY_SCENE_3_-_MARQUISE
-cast: Tracy Smile; https://www.vivthomas.com/model/tracy-smile; f
-cast: Kari A; https://www.vivthomas.com/model/kari-a; f
+model: n:Tracy Smile; id:/model/vivthomas/tracy-smile; u:https://www.vivthomas.com/model/tracy-smile; g:f
+model: n:Kari A; id:/model/vivthomas/kari-a; u:https://www.vivthomas.com/model/kari-a; g:f
 released: 2015-02-13
 director:   John Sweet
 rating: 9.3
@@ -7113,8 +7113,8 @@ title: Lady 2 - Aristocrat
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/kari-a-and-candy-sweet/movie/20150211/LADY_SCENE_2_-_ARISTOCRAT
-cast: Kari A; https://www.vivthomas.com/model/kari-a; f
-cast: Candy Sweet; https://www.vivthomas.com/model/candy-sweet; f
+model: n:Kari A; id:/model/vivthomas/kari-a; u:https://www.vivthomas.com/model/kari-a; g:f
+model: n:Candy Sweet; id:/model/vivthomas/candy-sweet; u:https://www.vivthomas.com/model/candy-sweet; g:f
 released: 2015-02-11
 director:   John Sweet
 rating: 9.3
@@ -7162,8 +7162,8 @@ title: Lady 1 - Princess
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/roxy-mendez-and-kari-a/movie/20150209/LADY_SCENE_1_-_PRINCESS
-cast: Roxy Mendez; https://www.vivthomas.com/model/roxy-mendez; f
-cast: Kari A; https://www.vivthomas.com/model/kari-a; f
+model: n:Roxy Mendez; id:/model/vivthomas/roxy-mendez; u:https://www.vivthomas.com/model/roxy-mendez; g:f
+model: n:Kari A; id:/model/vivthomas/kari-a; u:https://www.vivthomas.com/model/kari-a; g:f
 released: 2015-02-09
 director:   John Sweet
 rating: 9.2
@@ -7215,8 +7215,8 @@ title: Venice 4 - Masquerade
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/roxy-mendez-and-tracy-smile/movie/20150206/VENICE_SCENE_4_-_MASQUERADE
-cast: Roxy Mendez; https://www.vivthomas.com/model/roxy-mendez; f
-cast: Tracy Smile; https://www.vivthomas.com/model/tracy-smile; f
+model: n:Roxy Mendez; id:/model/vivthomas/roxy-mendez; u:https://www.vivthomas.com/model/roxy-mendez; g:f
+model: n:Tracy Smile; id:/model/vivthomas/tracy-smile; u:https://www.vivthomas.com/model/tracy-smile; g:f
 released: 2015-02-06
 director:   Andrej Lupin
 rating: 9.3
@@ -7266,8 +7266,8 @@ title: Venice 3 - Zanni
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/candy-sweet-and-roxy-mendez/movie/20150204/VENICE_SCENE_3_-_ZANNI
-cast: Candy Sweet; https://www.vivthomas.com/model/candy-sweet; f
-cast: Roxy Mendez; https://www.vivthomas.com/model/roxy-mendez; f
+model: n:Candy Sweet; id:/model/vivthomas/candy-sweet; u:https://www.vivthomas.com/model/candy-sweet; g:f
+model: n:Roxy Mendez; id:/model/vivthomas/roxy-mendez; u:https://www.vivthomas.com/model/roxy-mendez; g:f
 released: 2015-02-04
 director:   Andrej Lupin
 rating: 9.4
@@ -7322,8 +7322,8 @@ title: Venice 2 - Arlecchino
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/tracy-smile-and-rosaline-rose/movie/20150202/VENICE_SCENE_2_-_ARLECCHINO
-cast: Tracy Smile; https://www.vivthomas.com/model/tracy-smile; f
-cast: Rosaline Rose; https://www.vivthomas.com/model/rosaline-rose; f
+model: n:Tracy Smile; id:/model/vivthomas/tracy-smile; u:https://www.vivthomas.com/model/tracy-smile; g:f
+model: n:Rosaline Rose; id:/model/vivthomas/rosaline-rose; u:https://www.vivthomas.com/model/rosaline-rose; g:f
 released: 2015-02-02
 director:   Andrej Lupin
 rating: 9.3
@@ -7377,8 +7377,8 @@ title: Venice 1 - Carnevale
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/candy-sweet-and-rosaline-rose/movie/20150130/VENICE_SCENE_1_-_CARNEVALE
-cast: Candy Sweet; https://www.vivthomas.com/model/candy-sweet; f
-cast: Rosaline Rose; https://www.vivthomas.com/model/rosaline-rose; f
+model: n:Candy Sweet; id:/model/vivthomas/candy-sweet; u:https://www.vivthomas.com/model/candy-sweet; g:f
+model: n:Rosaline Rose; id:/model/vivthomas/rosaline-rose; u:https://www.vivthomas.com/model/rosaline-rose; g:f
 released: 2015-01-30
 director:   Andrej Lupin
 rating: 9.1
@@ -7434,8 +7434,8 @@ title: The Bet 4
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/kiara-lord-and-cristal-caitlin/movie/20150128/THE_BET_SCENE_4
-cast: Kiara Lord; https://www.vivthomas.com/model/kiara-lord; f
-cast: Cristal Caitlin; https://www.vivthomas.com/model/cristal-caitlin; f
+model: n:Kiara Lord; id:/model/vivthomas/kiara-lord; u:https://www.vivthomas.com/model/kiara-lord; g:f
+model: n:Cristal Caitlin; id:/model/vivthomas/cristal-caitlin; u:https://www.vivthomas.com/model/cristal-caitlin; g:f
 released: 2015-01-28
 director:   Andrej Lupin
 rating: 9.3
@@ -7490,8 +7490,8 @@ title: The Bet 3
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/bella-blond-and-cristal-caitlin/movie/20150126/THE_BET_SCENE_3
-cast: Bella Blond; https://www.vivthomas.com/model/bella-blond; f
-cast: Cristal Caitlin; https://www.vivthomas.com/model/cristal-caitlin; f
+model: n:Bella Blond; id:/model/vivthomas/bella-blond; u:https://www.vivthomas.com/model/bella-blond; g:f
+model: n:Cristal Caitlin; id:/model/vivthomas/cristal-caitlin; u:https://www.vivthomas.com/model/cristal-caitlin; g:f
 released: 2015-01-26
 director:   Andrej Lupin
 rating: 9.5
@@ -7539,8 +7539,8 @@ title: The Bet 2
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/kiara-lord-and-bella-blond/movie/20150123/THE_BET_SCENE_2
-cast: Kiara Lord; https://www.vivthomas.com/model/kiara-lord; f
-cast: Bella Blond; https://www.vivthomas.com/model/bella-blond; f
+model: n:Kiara Lord; id:/model/vivthomas/kiara-lord; u:https://www.vivthomas.com/model/kiara-lord; g:f
+model: n:Bella Blond; id:/model/vivthomas/bella-blond; u:https://www.vivthomas.com/model/bella-blond; g:f
 released: 2015-01-23
 director:   Andrej Lupin
 rating: 9.2
@@ -7579,8 +7579,8 @@ title: The Bet 1
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/cristal-caitlin-and-eva-berger/movie/20150121/THE_BET_SCENE_1
-cast: Cristal Caitlin; https://www.vivthomas.com/model/cristal-caitlin; f
-cast: Eva Berger; https://www.vivthomas.com/model/eva-berger; f
+model: n:Cristal Caitlin; id:/model/vivthomas/cristal-caitlin; u:https://www.vivthomas.com/model/cristal-caitlin; g:f
+model: n:Eva Berger; id:/model/vivthomas/eva-berger; u:https://www.vivthomas.com/model/eva-berger; g:f
 released: 2015-01-21
 director:   Andrej Lupin
 rating: 9.2
@@ -7625,8 +7625,8 @@ title: Sex Message II 4
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/nataly-von-and-aiko-bell/movie/20150119/SEX_MESSAGE_II_SCENE_4
-cast: Nataly Von; https://www.vivthomas.com/model/nataly-von; f
-cast: Aiko Bell; https://www.vivthomas.com/model/aiko-bell; f
+model: n:Nataly Von; id:/model/vivthomas/nataly-von; u:https://www.vivthomas.com/model/nataly-von; g:f
+model: n:Aiko Bell; id:/model/vivthomas/aiko-bell; u:https://www.vivthomas.com/model/aiko-bell; g:f
 released: 2015-01-19
 director:   Andrej Lupin
 rating: 9.3
@@ -7681,8 +7681,8 @@ title: Sex Message II 3
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/hanna-sweet-and-blue-angel/movie/20150116/SEX_MESSAGE_II_SCENE_3
-cast: Hanna Sweet; https://www.vivthomas.com/model/hanna-sweet; f
-cast: Blue Angel; https://www.vivthomas.com/model/blue-angel; f
+model: n:Hanna Sweet; id:/model/vivthomas/hanna-sweet; u:https://www.vivthomas.com/model/hanna-sweet; g:f
+model: n:Blue Angel; id:/model/vivthomas/blue-angel; u:https://www.vivthomas.com/model/blue-angel; g:f
 released: 2015-01-16
 director:   Andrej Lupin
 rating: 9.5
@@ -7736,8 +7736,8 @@ title: Sex Message II 2
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/eveline-neill-and-rosaline-rose/movie/20150114/SEX_MESSAGE_II_SCENE_2
-cast: Eveline Neill; https://www.vivthomas.com/model/eveline-neill; f
-cast: Rosaline Rose; https://www.vivthomas.com/model/rosaline-rose; f
+model: n:Eveline Neill; id:/model/vivthomas/eveline-neill; u:https://www.vivthomas.com/model/eveline-neill; g:f
+model: n:Rosaline Rose; id:/model/vivthomas/rosaline-rose; u:https://www.vivthomas.com/model/rosaline-rose; g:f
 released: 2015-01-14
 director:   Andrej Lupin
 rating: 9.3
@@ -7790,8 +7790,8 @@ title: Sex Message II 1
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/chelsy-sun-and-timea-bella/movie/20150112/SEX_MESSAGE_II_SCENE_1
-cast: Chelsy Sun; https://www.vivthomas.com/model/chelsy-sun; f
-cast: Timea Bella; https://www.vivthomas.com/model/timea-bella; f
+model: n:Chelsy Sun; id:/model/vivthomas/chelsy-sun; u:https://www.vivthomas.com/model/chelsy-sun; g:f
+model: n:Timea Bella; id:/model/vivthomas/timea-bella; u:https://www.vivthomas.com/model/timea-bella; g:f
 released: 2015-01-12
 director:   Andrej Lupin
 rating: 9.4
@@ -7847,9 +7847,9 @@ title: The Gym 4
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/uma-and-alexis-crystal-and-lexi-dona/movie/20150109/THE_GYM_SCENE_4
-cast: Uma; https://www.vivthomas.com/model/uma; f
-cast: Alexis Crystal; https://www.vivthomas.com/model/alexis-crystal; f
-cast: Lexi Dona; https://www.vivthomas.com/model/lexi-dona; f
+model: n:Uma; id:/model/vivthomas/uma; u:https://www.vivthomas.com/model/uma; g:f
+model: n:Alexis Crystal; id:/model/vivthomas/alexis-crystal; u:https://www.vivthomas.com/model/alexis-crystal; g:f
+model: n:Lexi Dona; id:/model/vivthomas/lexi-dona; u:https://www.vivthomas.com/model/lexi-dona; g:f
 released: 2015-01-09
 director:   Andrej Lupin
 rating: 9.5
@@ -7916,8 +7916,8 @@ title: The Gym 3
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/uma-and-alexis-crystal/movie/20150107/THE_GYM_SCENE_3
-cast: Uma; https://www.vivthomas.com/model/uma; f
-cast: Alexis Crystal; https://www.vivthomas.com/model/alexis-crystal; f
+model: n:Uma; id:/model/vivthomas/uma; u:https://www.vivthomas.com/model/uma; g:f
+model: n:Alexis Crystal; id:/model/vivthomas/alexis-crystal; u:https://www.vivthomas.com/model/alexis-crystal; g:f
 released: 2015-01-07
 director:   Andrej Lupin
 rating: 9.5
@@ -7967,8 +7967,8 @@ title: The Gym 2
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/lexi-dona-and-alexis-crystal/movie/20150105/THE_GYM_SCENE_2
-cast: Lexi Dona; https://www.vivthomas.com/model/lexi-dona; f
-cast: Alexis Crystal; https://www.vivthomas.com/model/alexis-crystal; f
+model: n:Lexi Dona; id:/model/vivthomas/lexi-dona; u:https://www.vivthomas.com/model/lexi-dona; g:f
+model: n:Alexis Crystal; id:/model/vivthomas/alexis-crystal; u:https://www.vivthomas.com/model/alexis-crystal; g:f
 released: 2015-01-05
 director:   Andrej Lupin
 rating: 9.5
@@ -8020,8 +8020,8 @@ title: The Gym 1
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/uma-and-lexi-dona/movie/20150102/THE_GYM_SCENE_1
-cast: Uma; https://www.vivthomas.com/model/uma; f
-cast: Lexi Dona; https://www.vivthomas.com/model/lexi-dona; f
+model: n:Uma; id:/model/vivthomas/uma; u:https://www.vivthomas.com/model/uma; g:f
+model: n:Lexi Dona; id:/model/vivthomas/lexi-dona; u:https://www.vivthomas.com/model/lexi-dona; g:f
 released: 2015-01-02
 director:   Andrej Lupin
 rating: 9.5

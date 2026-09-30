@@ -9,7 +9,7 @@ title: Colorful
 type: gallery
 site: sa
 url: https://www.sexart.com/model/agatha-vega/gallery/20201231/COLORFUL
-cast: Agatha Vega; https://www.sexart.com/model/agatha-vega; f
+model: n:Agatha Vega; id:/model/sexart/agatha-vega; u:https://www.sexart.com/model/agatha-vega; g:f
 released: 2020-12-31
 photographer: Vicente Silva
 rating: 9.6
@@ -44,7 +44,7 @@ title: Chocolate Lace
 type: gallery
 site: sa
 url: https://www.sexart.com/model/katy-rose/gallery/20201229/CHOCOLATE_LACE
-cast: Katy Rose; https://www.sexart.com/model/katy-rose;
+model: n:Katy Rose; id:/model/sexart/katy-rose; u:https://www.sexart.com/model/katy-rose
 released: 2020-12-29
 photographer: Erro
 rating: 9.5
@@ -79,7 +79,7 @@ title: Royal
 type: gallery
 site: sa
 url: https://www.sexart.com/model/vos/gallery/20201228/ROYAL
-cast: Vos; https://www.sexart.com/model/vos;
+model: n:Vos; id:/model/sexart/vos; u:https://www.sexart.com/model/vos
 released: 2020-12-28
 photographer: Alex Lynn
 rating: 9.3
@@ -115,7 +115,7 @@ title: Glam
 type: gallery
 site: sa
 url: https://www.sexart.com/model/cara-mell/gallery/20201226/GLAM
-cast: Cara Mell; https://www.sexart.com/model/cara-mell;
+model: n:Cara Mell; id:/model/sexart/cara-mell; u:https://www.sexart.com/model/cara-mell
 released: 2020-12-26
 photographer: Deltagamma
 rating: 9.5
@@ -156,7 +156,7 @@ title: Santa Baby
 type: gallery
 site: sa
 url: https://www.sexart.com/model/eva-elfie/gallery/20201224/SANTA_BABY
-cast: Eva Elfie; https://www.sexart.com/model/eva-elfie;
+model: n:Eva Elfie; id:/model/sexart/eva-elfie; u:https://www.sexart.com/model/eva-elfie
 released: 2020-12-24
 photographer: Vicente Silva
 rating: 9.4
@@ -192,7 +192,7 @@ title: Holiday Mood
 type: gallery
 site: sa
 url: https://www.sexart.com/model/stefania-beatty/gallery/20201222/HOLIDAY_MOOD
-cast: Stefania Beatty; https://www.sexart.com/model/stefania-beatty;
+model: n:Stefania Beatty; id:/model/sexart/stefania-beatty; u:https://www.sexart.com/model/stefania-beatty
 released: 2020-12-22
 photographer: Nudero
 rating: 9.4
@@ -206,7 +206,7 @@ title: Golden Girl
 type: gallery
 site: sa
 url: https://www.sexart.com/model/sophie-gem/gallery/20201221/GOLDEN_GIRL
-cast: Sophie Gem; https://www.sexart.com/model/sophie-gem;
+model: n:Sophie Gem; id:/model/sexart/sophie-gem; u:https://www.sexart.com/model/sophie-gem
 released: 2020-12-21
 photographer: Tora Ness
 rating: 9.5
@@ -240,7 +240,7 @@ title: Window Seat
 type: gallery
 site: sa
 url: https://www.sexart.com/model/sienna/gallery/20201219/WINDOW_SEAT
-cast: Sienna; https://www.sexart.com/model/sienna;
+model: n:Sienna; id:/model/sexart/sienna; u:https://www.sexart.com/model/sienna
 released: 2020-12-19
 photographer: Blake Jasper
 rating: 9.4
@@ -273,7 +273,7 @@ title: Field of Dreams
 type: gallery
 site: sa
 url: https://www.sexart.com/model/elle-tan/gallery/20201217/FIELD_OF_DREAMS
-cast: Elle Tan; https://www.sexart.com/model/elle-tan;
+model: n:Elle Tan; id:/model/sexart/elle-tan; u:https://www.sexart.com/model/elle-tan
 released: 2020-12-17
 photographer: Matiss
 rating: 9.5
@@ -304,7 +304,7 @@ title: Jacuzzi
 type: gallery
 site: sa
 url: https://www.sexart.com/model/netta/gallery/20201215/JACUZZI
-cast: Netta; https://www.sexart.com/model/netta;
+model: n:Netta; id:/model/sexart/netta; u:https://www.sexart.com/model/netta
 released: 2020-12-15
 photographer: Vicente Silva
 rating: 9.3
@@ -344,7 +344,7 @@ title: Selfie For You
 type: gallery
 site: sa
 url: https://www.sexart.com/model/stasey/gallery/20201214/SELFIE_FOR_YOU
-cast: Stasey; https://www.sexart.com/model/stasey;
+model: n:Stasey; id:/model/sexart/stasey; u:https://www.sexart.com/model/stasey
 released: 2020-12-14
 photographer: Vicente Silva
 rating: 9.1
@@ -379,7 +379,7 @@ title: Afternoon Delight
 type: gallery
 site: sa
 url: https://www.sexart.com/model/nancy-a/gallery/20201212/AFTERNOON_DELIGHT
-cast: Nancy A; https://www.sexart.com/model/nancy-a;
+model: n:Nancy A; id:/model/sexart/nancy-a; u:https://www.sexart.com/model/nancy-a
 released: 2020-12-12
 photographer: Deltagamma
 rating: 9.6
@@ -417,7 +417,7 @@ title: Pleasure Park
 type: gallery
 site: sa
 url: https://www.sexart.com/model/aislin/gallery/20201210/PLEASURE_PARK
-cast: Aislin; https://www.sexart.com/model/aislin;
+model: n:Aislin; id:/model/sexart/aislin; u:https://www.sexart.com/model/aislin
 released: 2020-12-10
 photographer: Blake Jasper
 rating: 9.2
@@ -451,7 +451,7 @@ title: Pink Silk
 type: gallery
 site: sa
 url: https://www.sexart.com/model/vanessa-angel/gallery/20201208/PINK_SILK
-cast: Vanessa Angel; https://www.sexart.com/model/vanessa-angel;
+model: n:Vanessa Angel; id:/model/sexart/vanessa-angel; u:https://www.sexart.com/model/vanessa-angel
 released: 2020-12-08
 photographer: Deltagamma
 rating: 9.1
@@ -485,7 +485,7 @@ title: Class Act
 type: gallery
 site: sa
 url: https://www.sexart.com/model/leona-mia/gallery/20201207/CLASS_ACT
-cast: Leona Mia; https://www.sexart.com/model/leona-mia;
+model: n:Leona Mia; id:/model/sexart/leona-mia; u:https://www.sexart.com/model/leona-mia
 released: 2020-12-07
 photographer: Erro
 rating: 9.6
@@ -523,7 +523,7 @@ title: Shower Session
 type: gallery
 site: sa
 url: https://www.sexart.com/model/adel-morel/gallery/20201205/SHOWER_SESSION
-cast: Adel Morel; https://www.sexart.com/model/adel-morel;
+model: n:Adel Morel; id:/model/sexart/adel-morel; u:https://www.sexart.com/model/adel-morel
 released: 2020-12-05
 photographer: Blake Jasper
 rating: 9.1
@@ -560,7 +560,7 @@ title: Warming Up
 type: gallery
 site: sa
 url: https://www.sexart.com/model/sarika-a/gallery/20201203/WARMING_UP
-cast: Sarika A; https://www.sexart.com/model/sarika-a;
+model: n:Sarika A; id:/model/sexart/sarika-a; u:https://www.sexart.com/model/sarika-a
 released: 2020-12-03
 photographer: Walter Schotten
 rating: 9.3
@@ -606,7 +606,7 @@ title: Bombshell
 type: gallery
 site: sa
 url: https://www.sexart.com/model/alecia-fox/gallery/20201201/BOMBSHELL
-cast: Alecia Fox; https://www.sexart.com/model/alecia-fox; f
+model: n:Alecia Fox; id:/model/sexart/alecia-fox; u:https://www.sexart.com/model/alecia-fox; g:f
 released: 2020-12-01
 photographer: Nudero
 rating: 9.3
@@ -642,7 +642,7 @@ title: Trundle
 type: gallery
 site: sa
 url: https://www.sexart.com/model/cassia/gallery/20201130/TRUNDLE
-cast: Cassia; https://www.sexart.com/model/cassia;
+model: n:Cassia; id:/model/sexart/cassia; u:https://www.sexart.com/model/cassia
 released: 2020-11-30
 photographer: Erro
 rating: 9.6
@@ -681,7 +681,7 @@ title: Plum Sweet
 type: gallery
 site: sa
 url: https://www.sexart.com/model/kay-j/gallery/20201128/PLUM_SWEET
-cast: Kay J; https://www.sexart.com/model/kay-j;
+model: n:Kay J; id:/model/sexart/kay-j; u:https://www.sexart.com/model/kay-j
 released: 2020-11-28
 photographer: Blake Jasper
 rating: 9.3
@@ -718,7 +718,7 @@ title: Passion
 type: gallery
 site: sa
 url: https://www.sexart.com/model/gerda-rubia/gallery/20201126/PASSION
-cast: Gerda Rubia; https://www.sexart.com/model/gerda-rubia;
+model: n:Gerda Rubia; id:/model/sexart/gerda-rubia; u:https://www.sexart.com/model/gerda-rubia
 released: 2020-11-26
 photographer: Deltagamma
 rating: 9.4
@@ -754,7 +754,7 @@ title: Teaser
 type: gallery
 site: sa
 url: https://www.sexart.com/model/siiri/gallery/20201124/TEASER
-cast: Siiri; https://www.sexart.com/model/siiri;
+model: n:Siiri; id:/model/sexart/siiri; u:https://www.sexart.com/model/siiri
 released: 2020-11-24
 photographer: Tora Ness
 rating: 9.4
@@ -798,7 +798,7 @@ title: Outdoor Pink
 type: gallery
 site: sa
 url: https://www.sexart.com/model/hayli-sanders/gallery/20201123/OUTDOOR_PINK
-cast: Hayli Sanders; https://www.sexart.com/model/hayli-sanders;
+model: n:Hayli Sanders; id:/model/sexart/hayli-sanders; u:https://www.sexart.com/model/hayli-sanders
 released: 2020-11-23
 photographer: Blake Jasper
 rating: 9.1
@@ -832,7 +832,7 @@ title: Sensual Garden
 type: gallery
 site: sa
 url: https://www.sexart.com/model/sarah-kay/gallery/20201121/SENSUAL_GARDEN
-cast: Sarah Kay; https://www.sexart.com/model/sarah-kay;
+model: n:Sarah Kay; id:/model/sexart/sarah-kay; u:https://www.sexart.com/model/sarah-kay
 released: 2020-11-21
 photographer: Alex Lynn
 rating: 9.1
@@ -871,8 +871,8 @@ title: Couple's Night
 type: gallery
 site: sa
 url: https://www.sexart.com/model/casey-and-lara-sugar/gallery/20201119/COUPLE_S_NIGHT
-cast: Casey; https://www.sexart.com/model/casey;
-cast: Lara Sugar; https://www.sexart.com/model/lara-sugar;
+model: n:Casey; id:/model/sexart/casey; u:https://www.sexart.com/model/casey
+model: n:Lara Sugar; id:/model/sexart/lara-sugar; u:https://www.sexart.com/model/lara-sugar
 released: 2020-11-19
 photographer: Tora Ness
 rating: 9.4
@@ -919,7 +919,7 @@ title: Grand
 type: gallery
 site: sa
 url: https://www.sexart.com/model/stella-cardo/gallery/20201117/GRAND
-cast: Stella Cardo; https://www.sexart.com/model/stella-cardo; f
+model: n:Stella Cardo; id:/model/sexart/stella-cardo; u:https://www.sexart.com/model/stella-cardo; g:f
 released: 2020-11-17
 photographer: Flora
 rating: 9.5
@@ -958,7 +958,7 @@ title: Black Robe
 type: gallery
 site: sa
 url: https://www.sexart.com/model/alexis-crystal/gallery/20201116/BLACK_ROBE
-cast: Alexis Crystal; https://www.sexart.com/model/alexis-crystal;
+model: n:Alexis Crystal; id:/model/sexart/alexis-crystal; u:https://www.sexart.com/model/alexis-crystal
 released: 2020-11-16
 photographer: Erro
 rating: 9.4
@@ -998,7 +998,7 @@ title: Feather Fun
 type: gallery
 site: sa
 url: https://www.sexart.com/model/amber-pearl/gallery/20201114/FEATHER_FUN
-cast: Amber Pearl; https://www.sexart.com/model/amber-pearl;
+model: n:Amber Pearl; id:/model/sexart/amber-pearl; u:https://www.sexart.com/model/amber-pearl
 released: 2020-11-14
 photographer: Nudero
 rating: 9.1
@@ -1037,7 +1037,7 @@ title: Lollipop
 type: gallery
 site: sa
 url: https://www.sexart.com/model/sienna/gallery/20201112/LOLLIPOP
-cast: Sienna; https://www.sexart.com/model/sienna;
+model: n:Sienna; id:/model/sexart/sienna; u:https://www.sexart.com/model/sienna
 released: 2020-11-12
 photographer: Vicente Silva
 rating: 9.5
@@ -1075,8 +1075,8 @@ title: Filmmaker
 type: gallery
 site: sa
 url: https://www.sexart.com/model/oxana-chic-and-corey/gallery/20201110/FILMMAKER
-cast: Oxana Chic; https://www.sexart.com/model/oxana-chic;
-cast: Corey; https://www.sexart.com/model/corey;
+model: n:Oxana Chic; id:/model/sexart/oxana-chic; u:https://www.sexart.com/model/oxana-chic
+model: n:Corey; id:/model/sexart/corey; u:https://www.sexart.com/model/corey
 released: 2020-11-10
 photographer: Tora Ness
 rating: 9.1
@@ -1119,7 +1119,7 @@ title: Al Fresco
 type: gallery
 site: sa
 url: https://www.sexart.com/model/lisa-dawn/gallery/20201109/AL_FRESCO
-cast: Lisa Dawn; https://www.sexart.com/model/lisa-dawn;
+model: n:Lisa Dawn; id:/model/sexart/lisa-dawn; u:https://www.sexart.com/model/lisa-dawn
 released: 2020-11-09
 photographer: Blake Jasper
 rating: 9.3
@@ -1155,7 +1155,7 @@ title: Inviting
 type: gallery
 site: sa
 url: https://www.sexart.com/model/nimfa/gallery/20201107/INVITING
-cast: Nimfa; https://www.sexart.com/model/nimfa;
+model: n:Nimfa; id:/model/sexart/nimfa; u:https://www.sexart.com/model/nimfa
 released: 2020-11-07
 photographer: Erro
 rating: 9.5
@@ -1194,7 +1194,7 @@ title: Like Velvet
 type: gallery
 site: sa
 url: https://www.sexart.com/model/jia-lissa/gallery/20201105/LIKE_VELVET
-cast: Jia Lissa; https://www.sexart.com/model/jia-lissa;
+model: n:Jia Lissa; id:/model/sexart/jia-lissa; u:https://www.sexart.com/model/jia-lissa
 released: 2020-11-05
 photographer: Flora
 rating: 9.5
@@ -1232,7 +1232,7 @@ title: Arrangement
 type: gallery
 site: sa
 url: https://www.sexart.com/model/bernie/gallery/20201103/ARRANGEMENT
-cast: Bernie; https://www.sexart.com/model/bernie;
+model: n:Bernie; id:/model/sexart/bernie; u:https://www.sexart.com/model/bernie
 released: 2020-11-03
 photographer: Tora Ness
 rating: 9.3
@@ -1270,7 +1270,7 @@ title: Bridal
 type: gallery
 site: sa
 url: https://www.sexart.com/model/keira-blue/gallery/20201102/BRIDAL
-cast: Keira Blue; https://www.sexart.com/model/keira-blue; f
+model: n:Keira Blue; id:/model/sexart/keira-blue; u:https://www.sexart.com/model/keira-blue; g:f
 released: 2020-11-02
 photographer: Deltagamma
 rating: 9.4
@@ -1310,7 +1310,7 @@ title: Sensual Summer
 type: gallery
 site: sa
 url: https://www.sexart.com/model/aislin/gallery/20201031/SENSUAL_SUMMER
-cast: Aislin; https://www.sexart.com/model/aislin;
+model: n:Aislin; id:/model/sexart/aislin; u:https://www.sexart.com/model/aislin
 released: 2020-10-31
 photographer: Blake Jasper
 rating: 9.4
@@ -1347,7 +1347,7 @@ title: Outdoor Love
 type: gallery
 site: sa
 url: https://www.sexart.com/model/ava/gallery/20201029/OUTDOOR_LOVE
-cast: Ava; https://www.sexart.com/model/ava;
+model: n:Ava; id:/model/sexart/ava; u:https://www.sexart.com/model/ava
 released: 2020-10-29
 photographer: Blake Jasper
 rating: 9.4
@@ -1389,7 +1389,7 @@ title: Patio Chair
 type: gallery
 site: sa
 url: https://www.sexart.com/model/mara-blake/gallery/20201027/PATIO_CHAIR
-cast: Mara Blake; https://www.sexart.com/model/mara-blake;
+model: n:Mara Blake; id:/model/sexart/mara-blake; u:https://www.sexart.com/model/mara-blake
 released: 2020-10-27
 photographer: Vicente Silva
 rating: 9.4
@@ -1428,7 +1428,7 @@ title: Perky
 type: gallery
 site: sa
 url: https://www.sexart.com/model/isabele/gallery/20201026/PERKY
-cast: Isabele; https://www.sexart.com/model/isabele;
+model: n:Isabele; id:/model/sexart/isabele; u:https://www.sexart.com/model/isabele
 released: 2020-10-26
 photographer: Albert Varin
 rating: 9.1
@@ -1461,7 +1461,7 @@ title: Peek
 type: gallery
 site: sa
 url: https://www.sexart.com/model/taylor-sands/gallery/20201024/PEEK
-cast: Taylor Sands; https://www.sexart.com/model/taylor-sands;
+model: n:Taylor Sands; id:/model/sexart/taylor-sands; u:https://www.sexart.com/model/taylor-sands
 released: 2020-10-24
 photographer: Deltagamma
 rating: 9.5
@@ -1498,7 +1498,7 @@ title: Red Dress
 type: gallery
 site: sa
 url: https://www.sexart.com/model/adel-morel/gallery/20201022/RED_DRESS
-cast: Adel Morel; https://www.sexart.com/model/adel-morel;
+model: n:Adel Morel; id:/model/sexart/adel-morel; u:https://www.sexart.com/model/adel-morel
 released: 2020-10-22
 photographer: Blake Jasper
 rating: 9.4
@@ -1532,7 +1532,7 @@ title: Elegante
 type: gallery
 site: sa
 url: https://www.sexart.com/model/anna-delos/gallery/20201020/ELEGANTE
-cast: Anna Delos; https://www.sexart.com/model/anna-delos; f
+model: n:Anna Delos; id:/model/sexart/anna-delos; u:https://www.sexart.com/model/anna-delos; g:f
 released: 2020-10-20
 photographer: Nudero
 rating: 9.4
@@ -1572,7 +1572,7 @@ title: Matching Set
 type: gallery
 site: sa
 url: https://www.sexart.com/model/bjorg-larson/gallery/20201019/MATCHING_SET
-cast: Bjorg Larson; https://www.sexart.com/model/bjorg-larson; f
+model: n:Bjorg Larson; id:/model/sexart/bjorg-larson; u:https://www.sexart.com/model/bjorg-larson; g:f
 released: 2020-10-19
 photographer: Blake Jasper
 rating: 9.3
@@ -1612,7 +1612,7 @@ title: Burgundy
 type: gallery
 site: sa
 url: https://www.sexart.com/model/vanessa-decker/gallery/20201017/BURGUNDY
-cast: Vanessa Decker; https://www.sexart.com/model/vanessa-decker;
+model: n:Vanessa Decker; id:/model/sexart/vanessa-decker; u:https://www.sexart.com/model/vanessa-decker
 released: 2020-10-17
 photographer: Erro
 rating: 9.5
@@ -1654,7 +1654,7 @@ title: Me Time
 type: gallery
 site: sa
 url: https://www.sexart.com/model/csilla/gallery/20201015/ME_TIME
-cast: Csilla; https://www.sexart.com/model/csilla;
+model: n:Csilla; id:/model/sexart/csilla; u:https://www.sexart.com/model/csilla
 released: 2020-10-15
 photographer: Deltagamma
 rating: 9.3
@@ -1689,7 +1689,7 @@ title: Soothing
 type: gallery
 site: sa
 url: https://www.sexart.com/model/lucretia-k/gallery/20201013/SOOTHING
-cast: Lucretia K; https://www.sexart.com/model/lucretia-k;
+model: n:Lucretia K; id:/model/sexart/lucretia-k; u:https://www.sexart.com/model/lucretia-k
 released: 2020-10-13
 photographer: Blake Jasper
 rating: 9.0
@@ -1729,7 +1729,7 @@ title: Popcorn
 type: gallery
 site: sa
 url: https://www.sexart.com/model/rebecca-volpetti/gallery/20201012/POPCORN
-cast: Rebecca Volpetti; https://www.sexart.com/model/rebecca-volpetti;
+model: n:Rebecca Volpetti; id:/model/sexart/rebecca-volpetti; u:https://www.sexart.com/model/rebecca-volpetti
 released: 2020-10-12
 photographer: Alex Lynn
 rating: 9.5
@@ -1767,7 +1767,7 @@ title: Polkadot
 type: gallery
 site: sa
 url: https://www.sexart.com/model/paula-shy/gallery/20201010/POLKADOT
-cast: Paula Shy; https://www.sexart.com/model/paula-shy;
+model: n:Paula Shy; id:/model/sexart/paula-shy; u:https://www.sexart.com/model/paula-shy
 released: 2020-10-10
 photographer: Deltagamma
 rating: 9.3
@@ -1804,7 +1804,7 @@ title: Up The Skirt
 type: gallery
 site: sa
 url: https://www.sexart.com/model/hayli-sanders/gallery/20201008/UP_THE_SKIRT
-cast: Hayli Sanders; https://www.sexart.com/model/hayli-sanders;
+model: n:Hayli Sanders; id:/model/sexart/hayli-sanders; u:https://www.sexart.com/model/hayli-sanders
 released: 2020-10-08
 photographer: Blake Jasper
 rating: 9.2
@@ -1836,7 +1836,7 @@ title: Lush
 type: gallery
 site: sa
 url: https://www.sexart.com/model/mary-rock/gallery/20201006/LUSH
-cast: Mary Rock; https://www.sexart.com/model/mary-rock; f
+model: n:Mary Rock; id:/model/sexart/mary-rock; u:https://www.sexart.com/model/mary-rock; g:f
 released: 2020-10-06
 photographer: Nudero
 rating: 9.1
@@ -1872,7 +1872,7 @@ title: Roaring
 type: gallery
 site: sa
 url: https://www.sexart.com/model/cassie-fire/gallery/20201005/ROARING
-cast: Cassie Fire; https://www.sexart.com/model/cassie-fire;
+model: n:Cassie Fire; id:/model/sexart/cassie-fire; u:https://www.sexart.com/model/cassie-fire
 released: 2020-10-05
 photographer: Erro
 rating: 9.1
@@ -1910,7 +1910,7 @@ title: My Mood
 type: gallery
 site: sa
 url: https://www.sexart.com/model/gerda-rubia/gallery/20201003/MY_MOOD
-cast: Gerda Rubia; https://www.sexart.com/model/gerda-rubia;
+model: n:Gerda Rubia; id:/model/sexart/gerda-rubia; u:https://www.sexart.com/model/gerda-rubia
 released: 2020-10-03
 photographer: Deltagamma
 rating: 9.4
@@ -1950,7 +1950,7 @@ title: Remira
 type: gallery
 site: sa
 url: https://www.sexart.com/model/remira-rivas/gallery/20201001/REMIRA
-cast: Remira Rivas; https://www.sexart.com/model/remira-rivas;
+model: n:Remira Rivas; id:/model/sexart/remira-rivas; u:https://www.sexart.com/model/remira-rivas
 released: 2020-10-01
 photographer: Blake Jasper
 rating: 9.0
@@ -1987,7 +1987,7 @@ title: Lace Fantasy
 type: gallery
 site: sa
 url: https://www.sexart.com/model/amelia-gin/gallery/20200929/LACE_FANTASY
-cast: Amelia Gin; https://www.sexart.com/model/amelia-gin;
+model: n:Amelia Gin; id:/model/sexart/amelia-gin; u:https://www.sexart.com/model/amelia-gin
 released: 2020-09-29
 photographer: Alex Lynn
 rating: 9.3
@@ -2029,7 +2029,7 @@ title: Cruzin'
 type: gallery
 site: sa
 url: https://www.sexart.com/model/stacy-cruz/gallery/20200928/CRUZIN_
-cast: Stacy Cruz; https://www.sexart.com/model/stacy-cruz;
+model: n:Stacy Cruz; id:/model/sexart/stacy-cruz; u:https://www.sexart.com/model/stacy-cruz
 released: 2020-09-28
 photographer: Erro
 rating: 9.6
@@ -2071,7 +2071,7 @@ title: What's Cookin'
 type: gallery
 site: sa
 url: https://www.sexart.com/model/keira-blue/gallery/20200926/WHAT_S_COOKIN_
-cast: Keira Blue; https://www.sexart.com/model/keira-blue; f
+model: n:Keira Blue; id:/model/sexart/keira-blue; u:https://www.sexart.com/model/keira-blue; g:f
 released: 2020-09-26
 photographer: Vicente Silva
 rating: 9.4
@@ -2109,7 +2109,7 @@ title: Honey On Top
 type: gallery
 site: sa
 url: https://www.sexart.com/model/olivia-honey/gallery/20200924/HONEY_ON_TOP
-cast: Olivia Honey; https://www.sexart.com/model/olivia-honey;
+model: n:Olivia Honey; id:/model/sexart/olivia-honey; u:https://www.sexart.com/model/olivia-honey
 released: 2020-09-24
 photographer: Albert Varin
 rating: 9.1
@@ -2149,7 +2149,7 @@ title: Sexting
 type: gallery
 site: sa
 url: https://www.sexart.com/model/adel-morel/gallery/20200922/SEXTING
-cast: Adel Morel; https://www.sexart.com/model/adel-morel;
+model: n:Adel Morel; id:/model/sexart/adel-morel; u:https://www.sexart.com/model/adel-morel
 released: 2020-09-22
 photographer: Blake Jasper
 rating: 9.2
@@ -2189,7 +2189,7 @@ title: My Rose
 type: gallery
 site: sa
 url: https://www.sexart.com/model/valery-leche/gallery/20200921/MY_ROSE
-cast: Valery Leche; https://www.sexart.com/model/valery-leche;
+model: n:Valery Leche; id:/model/sexart/valery-leche; u:https://www.sexart.com/model/valery-leche
 released: 2020-09-21
 photographer: Vicente Silva
 rating: 9.3
@@ -2228,7 +2228,7 @@ title: Barre
 type: gallery
 site: sa
 url: https://www.sexart.com/model/sarika-a/gallery/20200919/BARRE
-cast: Sarika A; https://www.sexart.com/model/sarika-a;
+model: n:Sarika A; id:/model/sexart/sarika-a; u:https://www.sexart.com/model/sarika-a
 released: 2020-09-19
 photographer: Nudero
 rating: 9.4
@@ -2265,7 +2265,7 @@ title: Spanish Fly
 type: gallery
 site: sa
 url: https://www.sexart.com/model/lorena-b/gallery/20200917/SPANISH_FLY
-cast: Lorena B; https://www.sexart.com/model/lorena-b;
+model: n:Lorena B; id:/model/sexart/lorena-b; u:https://www.sexart.com/model/lorena-b
 released: 2020-09-17
 photographer: Don Caravaggio
 rating: 9.6
@@ -2299,7 +2299,7 @@ title: Summer's End
 type: gallery
 site: sa
 url: https://www.sexart.com/model/kacy-lane/gallery/20200915/SUMMER_S_END
-cast: Kacy Lane; https://www.sexart.com/model/kacy-lane;
+model: n:Kacy Lane; id:/model/sexart/kacy-lane; u:https://www.sexart.com/model/kacy-lane
 released: 2020-09-15
 photographer: Vicente Silva
 rating: 9.3
@@ -2333,7 +2333,7 @@ title: Party Favors
 type: gallery
 site: sa
 url: https://www.sexart.com/model/tina-tiny/gallery/20200914/PARTY_FAVORS
-cast: Tina Tiny; https://www.sexart.com/model/tina-tiny;
+model: n:Tina Tiny; id:/model/sexart/tina-tiny; u:https://www.sexart.com/model/tina-tiny
 released: 2020-09-14
 photographer: Alex Lynn
 rating: 9.2
@@ -2367,7 +2367,7 @@ title: Cherry
 type: gallery
 site: sa
 url: https://www.sexart.com/model/aislin/gallery/20200912/CHERRY
-cast: Aislin; https://www.sexart.com/model/aislin;
+model: n:Aislin; id:/model/sexart/aislin; u:https://www.sexart.com/model/aislin
 released: 2020-09-12
 photographer: Blake Jasper
 rating: 9.1
@@ -2404,7 +2404,7 @@ title: Happy Hour
 type: gallery
 site: sa
 url: https://www.sexart.com/model/adeline/gallery/20200910/HAPPY_HOUR
-cast: Adeline; https://www.sexart.com/model/adeline;
+model: n:Adeline; id:/model/sexart/adeline; u:https://www.sexart.com/model/adeline
 released: 2020-09-10
 photographer: Albert Varin
 rating: 9.3
@@ -2442,7 +2442,7 @@ title: Office Break
 type: gallery
 site: sa
 url: https://www.sexart.com/model/mirabella/gallery/20200908/OFFICE_BREAK
-cast: Mirabella; https://www.sexart.com/model/mirabella; f
+model: n:Mirabella; id:/model/sexart/mirabella; u:https://www.sexart.com/model/mirabella; g:f
 released: 2020-09-08
 photographer: Vicente Silva
 rating: 9.4
@@ -2479,8 +2479,8 @@ title: Lick
 type: gallery
 site: sa
 url: https://www.sexart.com/model/kiere-and-mina/gallery/20200907/LICK
-cast: Kiere; https://www.sexart.com/model/kiere; f
-cast: Mina; https://www.sexart.com/model/mina;
+model: n:Kiere; id:/model/sexart/kiere; u:https://www.sexart.com/model/kiere; g:f
+model: n:Mina; id:/model/sexart/mina; u:https://www.sexart.com/model/mina
 released: 2020-09-07
 photographer: Tora Ness
 rating: 9.3
@@ -2526,7 +2526,7 @@ title: Pink Poison
 type: gallery
 site: sa
 url: https://www.sexart.com/model/alecia-fox/gallery/20200905/PINK_POISON
-cast: Alecia Fox; https://www.sexart.com/model/alecia-fox; f
+model: n:Alecia Fox; id:/model/sexart/alecia-fox; u:https://www.sexart.com/model/alecia-fox; g:f
 released: 2020-09-05
 photographer: Nudero
 rating: 9.3
@@ -2560,7 +2560,7 @@ title: Fresh Feeling
 type: gallery
 site: sa
 url: https://www.sexart.com/model/tiffany-tatum/gallery/20200903/FRESH_FEELING
-cast: Tiffany Tatum; https://www.sexart.com/model/tiffany-tatum;
+model: n:Tiffany Tatum; id:/model/sexart/tiffany-tatum; u:https://www.sexart.com/model/tiffany-tatum
 released: 2020-09-03
 photographer: Erro
 rating: 9.6
@@ -2598,7 +2598,7 @@ title: Vacation
 type: gallery
 site: sa
 url: https://www.sexart.com/model/eva-elfie/gallery/20200901/VACATION
-cast: Eva Elfie; https://www.sexart.com/model/eva-elfie;
+model: n:Eva Elfie; id:/model/sexart/eva-elfie; u:https://www.sexart.com/model/eva-elfie
 released: 2020-09-01
 photographer: Vicente Silva
 rating: 9.4
@@ -2634,7 +2634,7 @@ title: Newcomer
 type: gallery
 site: sa
 url: https://www.sexart.com/model/ava/gallery/20200831/NEWCOMER
-cast: Ava; https://www.sexart.com/model/ava;
+model: n:Ava; id:/model/sexart/ava; u:https://www.sexart.com/model/ava
 released: 2020-08-31
 photographer: Blake Jasper
 rating: 9.4
@@ -2673,7 +2673,7 @@ title: Rose Colored
 type: gallery
 site: sa
 url: https://www.sexart.com/model/leona-mia/gallery/20200829/ROSE_COLORED
-cast: Leona Mia; https://www.sexart.com/model/leona-mia;
+model: n:Leona Mia; id:/model/sexart/leona-mia; u:https://www.sexart.com/model/leona-mia
 released: 2020-08-29
 photographer: Erro
 rating: 9.6
@@ -2715,7 +2715,7 @@ title: Mood Light
 type: gallery
 site: sa
 url: https://www.sexart.com/model/agatha-vega/gallery/20200827/MOOD_LIGHT
-cast: Agatha Vega; https://www.sexart.com/model/agatha-vega; f
+model: n:Agatha Vega; id:/model/sexart/agatha-vega; u:https://www.sexart.com/model/agatha-vega; g:f
 released: 2020-08-27
 photographer: Vicente Silva
 rating: 9.5
@@ -2756,7 +2756,7 @@ title: Impatience
 type: gallery
 site: sa
 url: https://www.sexart.com/model/oxana-chic/gallery/20200825/IMPATIENCE
-cast: Oxana Chic; https://www.sexart.com/model/oxana-chic;
+model: n:Oxana Chic; id:/model/sexart/oxana-chic; u:https://www.sexart.com/model/oxana-chic
 released: 2020-08-25
 photographer: Tora Ness
 rating: 9.3
@@ -2789,7 +2789,7 @@ title: Ombre
 type: gallery
 site: sa
 url: https://www.sexart.com/model/lili-f/gallery/20200824/OMBRE
-cast: Lili F; https://www.sexart.com/model/lili-f;
+model: n:Lili F; id:/model/sexart/lili-f; u:https://www.sexart.com/model/lili-f
 released: 2020-08-24
 photographer: Vicente Silva
 rating: 9.2
@@ -2840,7 +2840,7 @@ title: Another World
 type: gallery
 site: sa
 url: https://www.sexart.com/model/nimfa/gallery/20200822/ANOTHER_WORLD
-cast: Nimfa; https://www.sexart.com/model/nimfa;
+model: n:Nimfa; id:/model/sexart/nimfa; u:https://www.sexart.com/model/nimfa
 released: 2020-08-22
 photographer: Walter Schotten
 rating: 9.4
@@ -2873,7 +2873,7 @@ title: Infatuated
 type: gallery
 site: sa
 url: https://www.sexart.com/model/stella-cardo/gallery/20200820/INFATUATED
-cast: Stella Cardo; https://www.sexart.com/model/stella-cardo; f
+model: n:Stella Cardo; id:/model/sexart/stella-cardo; u:https://www.sexart.com/model/stella-cardo; g:f
 released: 2020-08-20
 photographer: Erro
 rating: 9.7
@@ -2919,7 +2919,7 @@ title: Classic Beauty
 type: gallery
 site: sa
 url: https://www.sexart.com/model/michaela-isizzu/gallery/20200818/CLASSIC_BEAUTY
-cast: Michaela Isizzu; https://www.sexart.com/model/michaela-isizzu; f
+model: n:Michaela Isizzu; id:/model/sexart/michaela-isizzu; u:https://www.sexart.com/model/michaela-isizzu; g:f
 released: 2020-08-18
 photographer: Deltagamma
 rating: 9.4
@@ -2956,7 +2956,7 @@ title: Leather
 type: gallery
 site: sa
 url: https://www.sexart.com/model/melena-a/gallery/20200817/LEATHER
-cast: Melena A; https://www.sexart.com/model/melena-a;
+model: n:Melena A; id:/model/sexart/melena-a; u:https://www.sexart.com/model/melena-a
 released: 2020-08-17
 photographer: Walter Schotten
 rating: 9.5
@@ -2994,7 +2994,7 @@ title: Natural Glow
 type: gallery
 site: sa
 url: https://www.sexart.com/model/vanessa-angel/gallery/20200815/NATURAL_GLOW
-cast: Vanessa Angel; https://www.sexart.com/model/vanessa-angel;
+model: n:Vanessa Angel; id:/model/sexart/vanessa-angel; u:https://www.sexart.com/model/vanessa-angel
 released: 2020-08-15
 photographer: Erro
 rating: 9.4
@@ -3029,7 +3029,7 @@ title: Lazy Day
 type: gallery
 site: sa
 url: https://www.sexart.com/model/siiri/gallery/20200813/LAZY_DAY
-cast: Siiri; https://www.sexart.com/model/siiri;
+model: n:Siiri; id:/model/sexart/siiri; u:https://www.sexart.com/model/siiri
 released: 2020-08-13
 photographer: Tora Ness
 rating: 9.1
@@ -3061,7 +3061,7 @@ title: In The Studio
 type: gallery
 site: sa
 url: https://www.sexart.com/model/elouisa/gallery/20200811/IN_THE_STUDIO
-cast: Elouisa; https://www.sexart.com/model/elouisa;
+model: n:Elouisa; id:/model/sexart/elouisa; u:https://www.sexart.com/model/elouisa
 released: 2020-08-11
 photographer: Alex Lynn
 rating: 9.0
@@ -3100,7 +3100,7 @@ title: Wake Me Up
 type: gallery
 site: sa
 url: https://www.sexart.com/model/keira-blue/gallery/20200810/WAKE_ME_UP
-cast: Keira Blue; https://www.sexart.com/model/keira-blue; f
+model: n:Keira Blue; id:/model/sexart/keira-blue; u:https://www.sexart.com/model/keira-blue; g:f
 released: 2020-08-10
 photographer: Vicente Silva
 rating: 9.4
@@ -3135,7 +3135,7 @@ title: Cushion
 type: gallery
 site: sa
 url: https://www.sexart.com/model/laina/gallery/20200808/CUSHION
-cast: Laina; https://www.sexart.com/model/laina;
+model: n:Laina; id:/model/sexart/laina; u:https://www.sexart.com/model/laina
 released: 2020-08-08
 photographer: Koenart
 rating: 9.2
@@ -3170,7 +3170,7 @@ title: Goddess
 type: gallery
 site: sa
 url: https://www.sexart.com/model/luna-c/gallery/20200806/GODDESS
-cast: Luna C; https://www.sexart.com/model/luna-c;
+model: n:Luna C; id:/model/sexart/luna-c; u:https://www.sexart.com/model/luna-c
 released: 2020-08-06
 photographer: Erro
 rating: 9.4
@@ -3209,7 +3209,7 @@ title: Pearl Panties
 type: gallery
 site: sa
 url: https://www.sexart.com/model/bernie/gallery/20200804/PEARL_PANTIES
-cast: Bernie; https://www.sexart.com/model/bernie;
+model: n:Bernie; id:/model/sexart/bernie; u:https://www.sexart.com/model/bernie
 released: 2020-08-04
 photographer: Tora Ness
 rating: 9.5
@@ -3247,7 +3247,7 @@ title: In The Mood
 type: gallery
 site: sa
 url: https://www.sexart.com/model/lea-rose/gallery/20200803/IN_THE_MOOD
-cast: Lea Rose; https://www.sexart.com/model/lea-rose;
+model: n:Lea Rose; id:/model/sexart/lea-rose; u:https://www.sexart.com/model/lea-rose
 released: 2020-08-03
 photographer: Erro
 rating: 9.2
@@ -3284,7 +3284,7 @@ title: New Friend
 type: gallery
 site: sa
 url: https://www.sexart.com/model/cassia/gallery/20200801/NEW_FRIEND
-cast: Cassia; https://www.sexart.com/model/cassia;
+model: n:Cassia; id:/model/sexart/cassia; u:https://www.sexart.com/model/cassia
 released: 2020-08-01
 photographer: Vicente Silva
 rating: 9.4
@@ -3320,7 +3320,7 @@ title: Happy Solo
 type: gallery
 site: sa
 url: https://www.sexart.com/model/mila-azul/gallery/20200730/HAPPY_SOLO
-cast: Mila Azul; https://www.sexart.com/model/mila-azul; f
+model: n:Mila Azul; id:/model/sexart/mila-azul; u:https://www.sexart.com/model/mila-azul; g:f
 released: 2020-07-30
 photographer: Deltagamma
 rating: 9.6
@@ -3362,7 +3362,7 @@ title: Strip Games
 type: gallery
 site: sa
 url: https://www.sexart.com/model/lisa-dawn/gallery/20200728/STRIP_GAMES
-cast: Lisa Dawn; https://www.sexart.com/model/lisa-dawn;
+model: n:Lisa Dawn; id:/model/sexart/lisa-dawn; u:https://www.sexart.com/model/lisa-dawn
 released: 2020-07-28
 photographer: Vicente Silva
 rating: 9.3
@@ -3397,7 +3397,7 @@ title: Beckoning
 type: gallery
 site: sa
 url: https://www.sexart.com/model/jenny-wild/gallery/20200727/BECKONING
-cast: Jenny Wild; https://www.sexart.com/model/jenny-wild;
+model: n:Jenny Wild; id:/model/sexart/jenny-wild; u:https://www.sexart.com/model/jenny-wild
 released: 2020-07-27
 photographer: Erro
 rating: 9.5
@@ -3437,7 +3437,7 @@ title: Scenery
 type: gallery
 site: sa
 url: https://www.sexart.com/model/lorena-b/gallery/20200725/SCENERY
-cast: Lorena B; https://www.sexart.com/model/lorena-b;
+model: n:Lorena B; id:/model/sexart/lorena-b; u:https://www.sexart.com/model/lorena-b
 released: 2020-07-25
 photographer: Don Caravaggio
 rating: 9.6
@@ -3478,7 +3478,7 @@ title: All Class
 type: gallery
 site: sa
 url: https://www.sexart.com/model/nimfa/gallery/20200723/ALL_CLASS
-cast: Nimfa; https://www.sexart.com/model/nimfa;
+model: n:Nimfa; id:/model/sexart/nimfa; u:https://www.sexart.com/model/nimfa
 released: 2020-07-23
 photographer: Erro
 rating: 9.5
@@ -3513,8 +3513,8 @@ title: Connection
 type: gallery
 site: sa
 url: https://www.sexart.com/model/sophie-gem-and-siiri/gallery/20200721/CONNECTION
-cast: Sophie Gem; https://www.sexart.com/model/sophie-gem;
-cast: Siiri; https://www.sexart.com/model/siiri;
+model: n:Sophie Gem; id:/model/sexart/sophie-gem; u:https://www.sexart.com/model/sophie-gem
+model: n:Siiri; id:/model/sexart/siiri; u:https://www.sexart.com/model/siiri
 released: 2020-07-21
 photographer: Tora Ness
 rating: 9.2
@@ -3563,7 +3563,7 @@ title: Free Time
 type: gallery
 site: sa
 url: https://www.sexart.com/model/shayla/gallery/20200720/FREE_TIME
-cast: Shayla; https://www.sexart.com/model/shayla;
+model: n:Shayla; id:/model/sexart/shayla; u:https://www.sexart.com/model/shayla
 released: 2020-07-20
 photographer: Vicente Silva
 rating: 9.4
@@ -3602,7 +3602,7 @@ title: Booty Shorts
 type: gallery
 site: sa
 url: https://www.sexart.com/model/hailey/gallery/20200718/BOOTY_SHORTS
-cast: Hailey; https://www.sexart.com/model/hailey;
+model: n:Hailey; id:/model/sexart/hailey; u:https://www.sexart.com/model/hailey
 released: 2020-07-18
 photographer: Matiss
 rating: 9.3
@@ -3640,7 +3640,7 @@ title: White Heels
 type: gallery
 site: sa
 url: https://www.sexart.com/model/nedda-a/gallery/20200716/WHITE_HEELS
-cast: Nedda A; https://www.sexart.com/model/nedda-a;
+model: n:Nedda A; id:/model/sexart/nedda-a; u:https://www.sexart.com/model/nedda-a
 released: 2020-07-16
 photographer: Erro
 rating: 9.5
@@ -3676,7 +3676,7 @@ title: Feeling Smooth
 type: gallery
 site: sa
 url: https://www.sexart.com/model/mara-blake/gallery/20200714/FEELING_SMOOTH
-cast: Mara Blake; https://www.sexart.com/model/mara-blake;
+model: n:Mara Blake; id:/model/sexart/mara-blake; u:https://www.sexart.com/model/mara-blake
 released: 2020-07-14
 photographer: Vicente Silva
 rating: 9.4
@@ -3717,7 +3717,7 @@ title: Anchors Away
 type: gallery
 site: sa
 url: https://www.sexart.com/model/lucretia-k/gallery/20200713/ANCHORS_AWAY
-cast: Lucretia K; https://www.sexart.com/model/lucretia-k;
+model: n:Lucretia K; id:/model/sexart/lucretia-k; u:https://www.sexart.com/model/lucretia-k
 released: 2020-07-13
 photographer: Alex Lynn
 rating: 9.4
@@ -3757,7 +3757,7 @@ title: Nature Queen
 type: gallery
 site: sa
 url: https://www.sexart.com/model/georgia/gallery/20200711/NATURE_QUEEN
-cast: Georgia; https://www.sexart.com/model/georgia;
+model: n:Georgia; id:/model/sexart/georgia; u:https://www.sexart.com/model/georgia
 released: 2020-07-11
 photographer: Matiss
 rating: 9.6
@@ -3794,7 +3794,7 @@ title: Laying Low
 type: gallery
 site: sa
 url: https://www.sexart.com/model/stasey/gallery/20200709/LAYING_LOW
-cast: Stasey; https://www.sexart.com/model/stasey;
+model: n:Stasey; id:/model/sexart/stasey; u:https://www.sexart.com/model/stasey
 released: 2020-07-09
 photographer: Vicente Silva
 rating: 9.2
@@ -3832,7 +3832,7 @@ title: Warm Light
 type: gallery
 site: sa
 url: https://www.sexart.com/model/mary-rock/gallery/20200707/WARM_LIGHT
-cast: Mary Rock; https://www.sexart.com/model/mary-rock; f
+model: n:Mary Rock; id:/model/sexart/mary-rock; u:https://www.sexart.com/model/mary-rock; g:f
 released: 2020-07-07
 photographer: Nudero
 rating: 9.3
@@ -3869,7 +3869,7 @@ title: Fiery
 type: gallery
 site: sa
 url: https://www.sexart.com/model/charli-red/gallery/20200706/FIERY
-cast: Charli Red; https://www.sexart.com/model/charli-red;
+model: n:Charli Red; id:/model/sexart/charli-red; u:https://www.sexart.com/model/charli-red
 released: 2020-07-06
 photographer: Erro
 rating: 9.6
@@ -3904,7 +3904,7 @@ title: Americana
 type: gallery
 site: sa
 url: https://www.sexart.com/model/michaela-isizzu/gallery/20200704/AMERICANA
-cast: Michaela Isizzu; https://www.sexart.com/model/michaela-isizzu; f
+model: n:Michaela Isizzu; id:/model/sexart/michaela-isizzu; u:https://www.sexart.com/model/michaela-isizzu; g:f
 released: 2020-07-04
 photographer: Deltagamma
 rating: 9.4
@@ -3918,7 +3918,7 @@ title: Natural Curl
 type: gallery
 site: sa
 url: https://www.sexart.com/model/gia-ren/gallery/20200702/NATURAL_CURL
-cast: Gia Ren; https://www.sexart.com/model/gia-ren;
+model: n:Gia Ren; id:/model/sexart/gia-ren; u:https://www.sexart.com/model/gia-ren
 released: 2020-07-02
 photographer: Deltagamma
 rating: 9.3
@@ -3959,7 +3959,7 @@ title: Margaret
 type: gallery
 site: sa
 url: https://www.sexart.com/model/margaret-clay/gallery/20200630/MARGARET
-cast: Margaret Clay; https://www.sexart.com/model/margaret-clay; f
+model: n:Margaret Clay; id:/model/sexart/margaret-clay; u:https://www.sexart.com/model/margaret-clay; g:f
 released: 2020-06-30
 photographer: Blake Jasper
 rating: 9.1
@@ -3999,7 +3999,7 @@ title: Ray of Light
 type: gallery
 site: sa
 url: https://www.sexart.com/model/amelia-gin/gallery/20200629/RAY_OF_LIGHT
-cast: Amelia Gin; https://www.sexart.com/model/amelia-gin;
+model: n:Amelia Gin; id:/model/sexart/amelia-gin; u:https://www.sexart.com/model/amelia-gin
 released: 2020-06-29
 photographer: Alex Lynn
 rating: 9.3
@@ -4034,7 +4034,7 @@ title: Stockings
 type: gallery
 site: sa
 url: https://www.sexart.com/model/lucy-heart/gallery/20200627/STOCKINGS
-cast: Lucy Heart; https://www.sexart.com/model/lucy-heart;
+model: n:Lucy Heart; id:/model/sexart/lucy-heart; u:https://www.sexart.com/model/lucy-heart
 released: 2020-06-27
 photographer: Deltagamma
 rating: 9.3
@@ -4072,7 +4072,7 @@ title: Bubble Bath
 type: gallery
 site: sa
 url: https://www.sexart.com/model/kacy-lane/gallery/20200625/BUBBLE_BATH
-cast: Kacy Lane; https://www.sexart.com/model/kacy-lane;
+model: n:Kacy Lane; id:/model/sexart/kacy-lane; u:https://www.sexart.com/model/kacy-lane
 released: 2020-06-25
 photographer: Vicente Silva
 rating: 9.3
@@ -4108,7 +4108,7 @@ title: Clara
 type: gallery
 site: sa
 url: https://www.sexart.com/model/clara/gallery/20200623/CLARA
-cast: Clara; https://www.sexart.com/model/clara;
+model: n:Clara; id:/model/sexart/clara; u:https://www.sexart.com/model/clara
 released: 2020-06-23
 photographer: Tora Ness
 rating: 9.1
@@ -4143,7 +4143,7 @@ title: Solo Debut
 type: gallery
 site: sa
 url: https://www.sexart.com/model/valery-leche/gallery/20200622/SOLO_DEBUT
-cast: Valery Leche; https://www.sexart.com/model/valery-leche;
+model: n:Valery Leche; id:/model/sexart/valery-leche; u:https://www.sexart.com/model/valery-leche
 released: 2020-06-22
 photographer: Vicente Silva
 rating: 9.2
@@ -4181,7 +4181,7 @@ title: Pink Feather
 type: gallery
 site: sa
 url: https://www.sexart.com/model/sapphira-a/gallery/20200620/PINK_FEATHER
-cast: Sapphira A; https://www.sexart.com/model/sapphira-a;
+model: n:Sapphira A; id:/model/sexart/sapphira-a; u:https://www.sexart.com/model/sapphira-a
 released: 2020-06-20
 photographer: Deltagamma
 rating: 9.1
@@ -4221,7 +4221,7 @@ title: Soft Glance
 type: gallery
 site: sa
 url: https://www.sexart.com/model/tiffany-tatum/gallery/20200618/SOFT_GLANCE
-cast: Tiffany Tatum; https://www.sexart.com/model/tiffany-tatum;
+model: n:Tiffany Tatum; id:/model/sexart/tiffany-tatum; u:https://www.sexart.com/model/tiffany-tatum
 released: 2020-06-18
 photographer: Erro
 rating: 9.4
@@ -4258,8 +4258,8 @@ title: Ladies in Red
 type: gallery
 site: sa
 url: https://www.sexart.com/model/sophie-gem-and-siiri/gallery/20200616/LADIES_IN_RED
-cast: Sophie Gem; https://www.sexart.com/model/sophie-gem;
-cast: Siiri; https://www.sexart.com/model/siiri;
+model: n:Sophie Gem; id:/model/sexart/sophie-gem; u:https://www.sexart.com/model/sophie-gem
+model: n:Siiri; id:/model/sexart/siiri; u:https://www.sexart.com/model/siiri
 released: 2020-06-16
 photographer: Tora Ness
 rating: 9.3
@@ -4302,7 +4302,7 @@ title: Keep Calm
 type: gallery
 site: sa
 url: https://www.sexart.com/model/leyla-lee/gallery/20200615/KEEP_CALM
-cast: Leyla Lee; https://www.sexart.com/model/leyla-lee;
+model: n:Leyla Lee; id:/model/sexart/leyla-lee; u:https://www.sexart.com/model/leyla-lee
 released: 2020-06-15
 photographer: Blake Jasper
 rating: 9.0
@@ -4336,7 +4336,7 @@ title: Anchor
 type: gallery
 site: sa
 url: https://www.sexart.com/model/jasmine-jazz/gallery/20200613/ANCHOR
-cast: Jasmine Jazz; https://www.sexart.com/model/jasmine-jazz;
+model: n:Jasmine Jazz; id:/model/sexart/jasmine-jazz; u:https://www.sexart.com/model/jasmine-jazz
 released: 2020-06-13
 photographer: Alex Lynn
 rating: 9.5
@@ -4373,7 +4373,7 @@ title: Phone Sex
 type: gallery
 site: sa
 url: https://www.sexart.com/model/lisa-dawn/gallery/20200611/PHONE_SEX
-cast: Lisa Dawn; https://www.sexart.com/model/lisa-dawn;
+model: n:Lisa Dawn; id:/model/sexart/lisa-dawn; u:https://www.sexart.com/model/lisa-dawn
 released: 2020-06-11
 photographer: Deltagamma
 rating: 9.3
@@ -4413,7 +4413,7 @@ title: Time for Myself
 type: gallery
 site: sa
 url: https://www.sexart.com/model/cassia/gallery/20200609/TIME_FOR_MYSELF
-cast: Cassia; https://www.sexart.com/model/cassia;
+model: n:Cassia; id:/model/sexart/cassia; u:https://www.sexart.com/model/cassia
 released: 2020-06-09
 photographer: Vicente Silva
 rating: 9.4
@@ -4455,7 +4455,7 @@ title: Sheer Bodysuit
 type: gallery
 site: sa
 url: https://www.sexart.com/model/crystal-maiden/gallery/20200608/SHEER_BODYSUIT
-cast: Crystal Maiden; https://www.sexart.com/model/crystal-maiden;
+model: n:Crystal Maiden; id:/model/sexart/crystal-maiden; u:https://www.sexart.com/model/crystal-maiden
 released: 2020-06-08
 photographer: Alex Lynn
 rating: 8.9
@@ -4493,7 +4493,7 @@ title: Blondie
 type: gallery
 site: sa
 url: https://www.sexart.com/model/lilit-a/gallery/20200606/BLONDIE
-cast: Lilit A; https://www.sexart.com/model/lilit-a;
+model: n:Lilit A; id:/model/sexart/lilit-a; u:https://www.sexart.com/model/lilit-a
 released: 2020-06-06
 photographer: Alex Lynn
 rating: 9.5
@@ -4535,7 +4535,7 @@ title: First Time
 type: gallery
 site: sa
 url: https://www.sexart.com/model/candy-kate/gallery/20200604/FIRST_TIME
-cast: Candy Kate; https://www.sexart.com/model/candy-kate;
+model: n:Candy Kate; id:/model/sexart/candy-kate; u:https://www.sexart.com/model/candy-kate
 released: 2020-06-04
 photographer: Erro
 rating: 9.4
@@ -4570,7 +4570,7 @@ title: Sensuality
 type: gallery
 site: sa
 url: https://www.sexart.com/model/josephine-jackson/gallery/20200602/SENSUALITY
-cast: Josephine Jackson; https://www.sexart.com/model/josephine-jackson;
+model: n:Josephine Jackson; id:/model/sexart/josephine-jackson; u:https://www.sexart.com/model/josephine-jackson
 released: 2020-06-02
 photographer: Iona
 rating: 9.3
@@ -4612,7 +4612,7 @@ title: Summer Lovin'
 type: gallery
 site: sa
 url: https://www.sexart.com/model/agatha/gallery/20200601/SUMMER_LOVIN_
-cast: Agatha; https://www.sexart.com/model/agatha;
+model: n:Agatha; id:/model/sexart/agatha; u:https://www.sexart.com/model/agatha
 released: 2020-06-01
 photographer: Koenart
 rating: 9.3
@@ -4649,7 +4649,7 @@ title: Favorite Pair
 type: gallery
 site: sa
 url: https://www.sexart.com/model/sybil-a/gallery/20200530/FAVORITE_PAIR
-cast: Sybil A; https://www.sexart.com/model/sybil-a;
+model: n:Sybil A; id:/model/sexart/sybil-a; u:https://www.sexart.com/model/sybil-a
 released: 2020-05-30
 photographer: Blake Jasper
 rating: 9.4
@@ -4687,7 +4687,7 @@ title: Perfect Weather
 type: gallery
 site: sa
 url: https://www.sexart.com/model/briana/gallery/20200528/PERFECT_WEATHER
-cast: Briana; https://www.sexart.com/model/briana;
+model: n:Briana; id:/model/sexart/briana; u:https://www.sexart.com/model/briana
 released: 2020-05-28
 photographer: Koenart
 rating: 9.4
@@ -4719,7 +4719,7 @@ title: Flirty
 type: gallery
 site: sa
 url: https://www.sexart.com/model/alecia-fox/gallery/20200526/FLIRTY
-cast: Alecia Fox; https://www.sexart.com/model/alecia-fox; f
+model: n:Alecia Fox; id:/model/sexart/alecia-fox; u:https://www.sexart.com/model/alecia-fox; g:f
 released: 2020-05-26
 photographer: Don Caravaggio
 rating: 9.4
@@ -4755,7 +4755,7 @@ title: Sheer Red
 type: gallery
 site: sa
 url: https://www.sexart.com/model/alice-shea/gallery/20200525/SHEER_RED
-cast: Alice Shea; https://www.sexart.com/model/alice-shea;
+model: n:Alice Shea; id:/model/sexart/alice-shea; u:https://www.sexart.com/model/alice-shea
 released: 2020-05-25
 photographer: Nudero
 rating: 9.3
@@ -4795,7 +4795,7 @@ title: Zest
 type: gallery
 site: sa
 url: https://www.sexart.com/model/sienna/gallery/20200523/ZEST
-cast: Sienna; https://www.sexart.com/model/sienna;
+model: n:Sienna; id:/model/sexart/sienna; u:https://www.sexart.com/model/sienna
 released: 2020-05-23
 photographer: Vicente Silva
 rating: 9.4
@@ -4809,7 +4809,7 @@ title: Jersey Dress
 type: gallery
 site: sa
 url: https://www.sexart.com/model/bjorg-larson/gallery/20200521/JERSEY_DRESS
-cast: Bjorg Larson; https://www.sexart.com/model/bjorg-larson; f
+model: n:Bjorg Larson; id:/model/sexart/bjorg-larson; u:https://www.sexart.com/model/bjorg-larson; g:f
 released: 2020-05-21
 photographer: Dave Lee
 rating: 9.3
@@ -4825,7 +4825,7 @@ title: Feeling Romance
 type: gallery
 site: sa
 url: https://www.sexart.com/model/sophie-gem/gallery/20200519/FEELING_ROMANCE
-cast: Sophie Gem; https://www.sexart.com/model/sophie-gem;
+model: n:Sophie Gem; id:/model/sexart/sophie-gem; u:https://www.sexart.com/model/sophie-gem
 released: 2020-05-19
 photographer: Tora Ness
 rating: 9.4
@@ -4867,7 +4867,7 @@ title: Hand Mirror
 type: gallery
 site: sa
 url: https://www.sexart.com/model/mila-azul/gallery/20200518/HAND_MIRROR
-cast: Mila Azul; https://www.sexart.com/model/mila-azul; f
+model: n:Mila Azul; id:/model/sexart/mila-azul; u:https://www.sexart.com/model/mila-azul; g:f
 released: 2020-05-18
 photographer: Deltagamma
 rating: 9.5
@@ -4906,7 +4906,7 @@ title: Poise
 type: gallery
 site: sa
 url: https://www.sexart.com/model/lorena-b/gallery/20200516/POISE
-cast: Lorena B; https://www.sexart.com/model/lorena-b;
+model: n:Lorena B; id:/model/sexart/lorena-b; u:https://www.sexart.com/model/lorena-b
 released: 2020-05-16
 photographer: Don Caravaggio
 rating: 9.6
@@ -4943,7 +4943,7 @@ title: In Lace
 type: gallery
 site: sa
 url: https://www.sexart.com/model/laina/gallery/20200514/IN_LACE
-cast: Laina; https://www.sexart.com/model/laina;
+model: n:Laina; id:/model/sexart/laina; u:https://www.sexart.com/model/laina
 released: 2020-05-14
 photographer: Koenart
 rating: 9.4
@@ -4981,7 +4981,7 @@ title: Afternoon Light
 type: gallery
 site: sa
 url: https://www.sexart.com/model/mary-rock/gallery/20200512/AFTERNOON_LIGHT
-cast: Mary Rock; https://www.sexart.com/model/mary-rock; f
+model: n:Mary Rock; id:/model/sexart/mary-rock; u:https://www.sexart.com/model/mary-rock; g:f
 released: 2020-05-12
 photographer: Nudero
 rating: 9.3
@@ -5016,7 +5016,7 @@ title: Getting Ready
 type: gallery
 site: sa
 url: https://www.sexart.com/model/kacy-lane/gallery/20200511/GETTING_READY
-cast: Kacy Lane; https://www.sexart.com/model/kacy-lane;
+model: n:Kacy Lane; id:/model/sexart/kacy-lane; u:https://www.sexart.com/model/kacy-lane
 released: 2020-05-11
 photographer: Vicente Silva
 rating: 9.5
@@ -5057,7 +5057,7 @@ title: Pillow Play
 type: gallery
 site: sa
 url: https://www.sexart.com/model/mirabella/gallery/20200509/PILLOW_PLAY
-cast: Mirabella; https://www.sexart.com/model/mirabella; f
+model: n:Mirabella; id:/model/sexart/mirabella; u:https://www.sexart.com/model/mirabella; g:f
 released: 2020-05-09
 photographer: Erro
 rating: 9.6
@@ -5095,7 +5095,7 @@ title: Solo Game
 type: gallery
 site: sa
 url: https://www.sexart.com/model/eva-elfie/gallery/20200507/SOLO_GAME
-cast: Eva Elfie; https://www.sexart.com/model/eva-elfie;
+model: n:Eva Elfie; id:/model/sexart/eva-elfie; u:https://www.sexart.com/model/eva-elfie
 released: 2020-05-07
 photographer: Vicente Silva
 rating: 9.4
@@ -5133,7 +5133,7 @@ title: Auburn
 type: gallery
 site: sa
 url: https://www.sexart.com/model/jia-lissa/gallery/20200505/AUBURN
-cast: Jia Lissa; https://www.sexart.com/model/jia-lissa;
+model: n:Jia Lissa; id:/model/sexart/jia-lissa; u:https://www.sexart.com/model/jia-lissa
 released: 2020-05-05
 photographer: Flora
 rating: 9.4
@@ -5167,7 +5167,7 @@ title: Innocent Eyes
 type: gallery
 site: sa
 url: https://www.sexart.com/model/kitri/gallery/20200504/INNOCENT_EYES
-cast: Kitri; https://www.sexart.com/model/kitri;
+model: n:Kitri; id:/model/sexart/kitri; u:https://www.sexart.com/model/kitri
 released: 2020-05-04
 photographer: Don Caravaggio
 rating: 9.3
@@ -5199,8 +5199,8 @@ title: Movie Night
 type: gallery
 site: sa
 url: https://www.sexart.com/model/marciana-and-siiri/gallery/20200502/MOVIE_NIGHT
-cast: Marciana; https://www.sexart.com/model/marciana;
-cast: Siiri; https://www.sexart.com/model/siiri;
+model: n:Marciana; id:/model/sexart/marciana; u:https://www.sexart.com/model/marciana
+model: n:Siiri; id:/model/sexart/siiri; u:https://www.sexart.com/model/siiri
 released: 2020-05-02
 photographer: Tora Ness
 rating: 9.2
@@ -5248,7 +5248,7 @@ title: Executive Chair
 type: gallery
 site: sa
 url: https://www.sexart.com/model/sherice/gallery/20200430/EXECUTIVE_CHAIR
-cast: Sherice; https://www.sexart.com/model/sherice; f
+model: n:Sherice; id:/model/sexart/sherice; u:https://www.sexart.com/model/sherice; g:f
 released: 2020-04-30
 photographer: Erro
 rating: 9.7
@@ -5284,7 +5284,7 @@ title: Linen
 type: gallery
 site: sa
 url: https://www.sexart.com/model/paulina/gallery/20200428/LINEN
-cast: Paulina; https://www.sexart.com/model/paulina;
+model: n:Paulina; id:/model/sexart/paulina; u:https://www.sexart.com/model/paulina
 released: 2020-04-28
 photographer: Tora Ness
 rating: 9.1
@@ -5322,7 +5322,7 @@ title: Au Naturale
 type: gallery
 site: sa
 url: https://www.sexart.com/model/flaca/gallery/20200427/AU_NATURALE
-cast: Flaca; https://www.sexart.com/model/flaca; f
+model: n:Flaca; id:/model/sexart/flaca; u:https://www.sexart.com/model/flaca; g:f
 released: 2020-04-27
 photographer: Vicente Silva
 rating: 9.3
@@ -5359,7 +5359,7 @@ title: Cocktail Dress
 type: gallery
 site: sa
 url: https://www.sexart.com/model/anie-darling/gallery/20200425/COCKTAIL_DRESS
-cast: Anie Darling; https://www.sexart.com/model/anie-darling;
+model: n:Anie Darling; id:/model/sexart/anie-darling; u:https://www.sexart.com/model/anie-darling
 released: 2020-04-25
 photographer: Don Caravaggio
 rating: 9.5
@@ -5394,7 +5394,7 @@ title: On The Table
 type: gallery
 site: sa
 url: https://www.sexart.com/model/tiffany-tatum/gallery/20200423/ON_THE_TABLE
-cast: Tiffany Tatum; https://www.sexart.com/model/tiffany-tatum;
+model: n:Tiffany Tatum; id:/model/sexart/tiffany-tatum; u:https://www.sexart.com/model/tiffany-tatum
 released: 2020-04-23
 photographer: Erro
 rating: 9.5
@@ -5426,7 +5426,7 @@ title: Deep Learning
 type: gallery
 site: sa
 url: https://www.sexart.com/model/mara-blake/gallery/20200421/DEEP_LEARNING
-cast: Mara Blake; https://www.sexart.com/model/mara-blake;
+model: n:Mara Blake; id:/model/sexart/mara-blake; u:https://www.sexart.com/model/mara-blake
 released: 2020-04-21
 photographer: Vicente Silva
 rating: 9.5
@@ -5470,7 +5470,7 @@ title: Puffies
 type: gallery
 site: sa
 url: https://www.sexart.com/model/keira-blue/gallery/20200420/PUFFIES
-cast: Keira Blue; https://www.sexart.com/model/keira-blue; f
+model: n:Keira Blue; id:/model/sexart/keira-blue; u:https://www.sexart.com/model/keira-blue; g:f
 released: 2020-04-20
 photographer: Deltagamma
 rating: 9.4
@@ -5503,8 +5503,8 @@ title: Vacation Spot
 type: gallery
 site: sa
 url: https://www.sexart.com/model/corey-and-oxana-chic/gallery/20200418/VACATION_SPOT
-cast: Corey; https://www.sexart.com/model/corey;
-cast: Oxana Chic; https://www.sexart.com/model/oxana-chic;
+model: n:Corey; id:/model/sexart/corey; u:https://www.sexart.com/model/corey
+model: n:Oxana Chic; id:/model/sexart/oxana-chic; u:https://www.sexart.com/model/oxana-chic
 released: 2020-04-18
 photographer: Tora Ness
 rating: 9.0
@@ -5545,7 +5545,7 @@ title: Riley
 type: gallery
 site: sa
 url: https://www.sexart.com/model/riley-anne/gallery/20200416/RILEY
-cast: Riley Anne; https://www.sexart.com/model/riley-anne;
+model: n:Riley Anne; id:/model/sexart/riley-anne; u:https://www.sexart.com/model/riley-anne
 released: 2020-04-16
 photographer: Don Caravaggio
 rating: 9.5
@@ -5579,7 +5579,7 @@ title: Citrus
 type: gallery
 site: sa
 url: https://www.sexart.com/model/kiere/gallery/20200414/CITRUS
-cast: Kiere; https://www.sexart.com/model/kiere; f
+model: n:Kiere; id:/model/sexart/kiere; u:https://www.sexart.com/model/kiere; g:f
 released: 2020-04-14
 photographer: Tora Ness
 rating: 9.3
@@ -5619,7 +5619,7 @@ title: Cozy Time
 type: gallery
 site: sa
 url: https://www.sexart.com/model/mango-a/gallery/20200413/COZY_TIME
-cast: Mango A; https://www.sexart.com/model/mango-a;
+model: n:Mango A; id:/model/sexart/mango-a; u:https://www.sexart.com/model/mango-a
 released: 2020-04-13
 photographer: Don Caravaggio
 rating: 9.5
@@ -5658,7 +5658,7 @@ title: Patio Fun
 type: gallery
 site: sa
 url: https://www.sexart.com/model/bjorg-larson/gallery/20200411/PATIO_FUN
-cast: Bjorg Larson; https://www.sexart.com/model/bjorg-larson; f
+model: n:Bjorg Larson; id:/model/sexart/bjorg-larson; u:https://www.sexart.com/model/bjorg-larson; g:f
 released: 2020-04-11
 photographer: Dave Lee
 rating: 9.2
@@ -5692,8 +5692,8 @@ title: Webcam
 type: gallery
 site: sa
 url: https://www.sexart.com/model/leaya-and-dionisia/gallery/20200409/WEBCAM
-cast: Leaya; https://www.sexart.com/model/leaya;
-cast: Dionisia; https://www.sexart.com/model/dionisia;
+model: n:Leaya; id:/model/sexart/leaya; u:https://www.sexart.com/model/leaya
+model: n:Dionisia; id:/model/sexart/dionisia; u:https://www.sexart.com/model/dionisia
 released: 2020-04-09
 photographer: Tora Ness
 rating: 9.0
@@ -5749,7 +5749,7 @@ title: Alone Time
 type: gallery
 site: sa
 url: https://www.sexart.com/model/katty-muss/gallery/20200407/ALONE_TIME
-cast: Katty Muss; https://www.sexart.com/model/katty-muss;
+model: n:Katty Muss; id:/model/sexart/katty-muss; u:https://www.sexart.com/model/katty-muss
 released: 2020-04-07
 photographer: Nudero
 rating: 9.3
@@ -5793,7 +5793,7 @@ title: With Love
 type: gallery
 site: sa
 url: https://www.sexart.com/model/marciana/gallery/20200406/WITH_LOVE
-cast: Marciana; https://www.sexart.com/model/marciana;
+model: n:Marciana; id:/model/sexart/marciana; u:https://www.sexart.com/model/marciana
 released: 2020-04-06
 photographer: Tora Ness
 rating: 9.2
@@ -5841,7 +5841,7 @@ title: Mood Lighting
 type: gallery
 site: sa
 url: https://www.sexart.com/model/adel-morel/gallery/20200404/MOOD_LIGHTING
-cast: Adel Morel; https://www.sexart.com/model/adel-morel;
+model: n:Adel Morel; id:/model/sexart/adel-morel; u:https://www.sexart.com/model/adel-morel
 released: 2020-04-04
 photographer: Vicente Silva
 rating: 9.4
@@ -5885,7 +5885,7 @@ title: Outdoor
 type: gallery
 site: sa
 url: https://www.sexart.com/model/nedda-a/gallery/20200402/OUTDOOR
-cast: Nedda A; https://www.sexart.com/model/nedda-a;
+model: n:Nedda A; id:/model/sexart/nedda-a; u:https://www.sexart.com/model/nedda-a
 released: 2020-04-02
 photographer: Erro
 rating: 9.4
@@ -5933,7 +5933,7 @@ title: Choked
 type: gallery
 site: sa
 url: https://www.sexart.com/model/sophie-gem/gallery/20200331/CHOKED
-cast: Sophie Gem; https://www.sexart.com/model/sophie-gem;
+model: n:Sophie Gem; id:/model/sexart/sophie-gem; u:https://www.sexart.com/model/sophie-gem
 released: 2020-03-31
 photographer: Tora Ness
 rating: 9.6
@@ -5981,7 +5981,7 @@ title: Checkered
 type: gallery
 site: sa
 url: https://www.sexart.com/model/lea-rose/gallery/20200330/CHECKERED
-cast: Lea Rose; https://www.sexart.com/model/lea-rose;
+model: n:Lea Rose; id:/model/sexart/lea-rose; u:https://www.sexart.com/model/lea-rose
 released: 2020-03-30
 photographer: Erro
 rating: 9.3
@@ -6023,7 +6023,7 @@ title: Clean
 type: gallery
 site: sa
 url: https://www.sexart.com/model/delizi/gallery/20200328/CLEAN
-cast: Delizi; https://www.sexart.com/model/delizi;
+model: n:Delizi; id:/model/sexart/delizi; u:https://www.sexart.com/model/delizi
 released: 2020-03-28
 photographer: Alan Forza
 rating: 9.3
@@ -6063,7 +6063,7 @@ title: Dark Pink
 type: gallery
 site: sa
 url: https://www.sexart.com/model/luna-c/gallery/20200326/DARK_PINK
-cast: Luna C; https://www.sexart.com/model/luna-c;
+model: n:Luna C; id:/model/sexart/luna-c; u:https://www.sexart.com/model/luna-c
 released: 2020-03-26
 photographer: Erro
 rating: 9.3
@@ -6105,7 +6105,7 @@ title: Strapped
 type: gallery
 site: sa
 url: https://www.sexart.com/model/stefania-beatty/gallery/20200324/STRAPPED
-cast: Stefania Beatty; https://www.sexart.com/model/stefania-beatty;
+model: n:Stefania Beatty; id:/model/sexart/stefania-beatty; u:https://www.sexart.com/model/stefania-beatty
 released: 2020-03-24
 photographer: Alex Lynn
 rating: 9.4
@@ -6148,7 +6148,7 @@ title: Feel Me
 type: gallery
 site: sa
 url: https://www.sexart.com/model/leona-mia/gallery/20200323/FEEL_ME
-cast: Leona Mia; https://www.sexart.com/model/leona-mia;
+model: n:Leona Mia; id:/model/sexart/leona-mia; u:https://www.sexart.com/model/leona-mia
 released: 2020-03-23
 photographer: Erro
 rating: 9.6
@@ -6187,8 +6187,8 @@ title: My Captain
 type: gallery
 site: sa
 url: https://www.sexart.com/model/casey-and-corey/gallery/20200321/MY_CAPTAIN
-cast: Casey; https://www.sexart.com/model/casey;
-cast: Corey; https://www.sexart.com/model/corey;
+model: n:Casey; id:/model/sexart/casey; u:https://www.sexart.com/model/casey
+model: n:Corey; id:/model/sexart/corey; u:https://www.sexart.com/model/corey
 released: 2020-03-21
 photographer: Tora Ness
 rating: 9.1
@@ -6235,7 +6235,7 @@ title: Long & Lean
 type: gallery
 site: sa
 url: https://www.sexart.com/model/nimfa/gallery/20200319/LONG_&_LEAN
-cast: Nimfa; https://www.sexart.com/model/nimfa;
+model: n:Nimfa; id:/model/sexart/nimfa; u:https://www.sexart.com/model/nimfa
 released: 2020-03-19
 photographer: Walter Schotten
 rating: 9.4
@@ -6276,7 +6276,7 @@ title: Benched
 type: gallery
 site: sa
 url: https://www.sexart.com/model/briana/gallery/20200317/BENCHED
-cast: Briana; https://www.sexart.com/model/briana;
+model: n:Briana; id:/model/sexart/briana; u:https://www.sexart.com/model/briana
 released: 2020-03-17
 photographer: Koenart
 rating: 9.3
@@ -6316,7 +6316,7 @@ title: Sensual Undress
 type: gallery
 site: sa
 url: https://www.sexart.com/model/alice-shea/gallery/20200316/SENSUAL_UNDRESS
-cast: Alice Shea; https://www.sexart.com/model/alice-shea;
+model: n:Alice Shea; id:/model/sexart/alice-shea; u:https://www.sexart.com/model/alice-shea
 released: 2020-03-16
 photographer: Nudero
 rating: 9.2
@@ -6358,7 +6358,7 @@ title: In Pearls
 type: gallery
 site: sa
 url: https://www.sexart.com/model/anicka/gallery/20200314/IN_PEARLS
-cast: Anicka; https://www.sexart.com/model/anicka;
+model: n:Anicka; id:/model/sexart/anicka; u:https://www.sexart.com/model/anicka
 released: 2020-03-14
 photographer: Matiss
 rating: 9.3
@@ -6397,7 +6397,7 @@ title: Lace Bodysuit
 type: gallery
 site: sa
 url: https://www.sexart.com/model/georgia/gallery/20200312/LACE_BODYSUIT
-cast: Georgia; https://www.sexart.com/model/georgia;
+model: n:Georgia; id:/model/sexart/georgia; u:https://www.sexart.com/model/georgia
 released: 2020-03-12
 photographer: Matiss
 rating: 9.6
@@ -6439,7 +6439,7 @@ title: Siren
 type: gallery
 site: sa
 url: https://www.sexart.com/model/bambi-joli/gallery/20200310/SIREN
-cast: Bambi Joli; https://www.sexart.com/model/bambi-joli;
+model: n:Bambi Joli; id:/model/sexart/bambi-joli; u:https://www.sexart.com/model/bambi-joli
 released: 2020-03-10
 photographer: Erro
 rating: 9.3
@@ -6481,7 +6481,7 @@ title: Show & Tell
 type: gallery
 site: sa
 url: https://www.sexart.com/model/elle-tan/gallery/20200309/SHOW_&_TELL
-cast: Elle Tan; https://www.sexart.com/model/elle-tan;
+model: n:Elle Tan; id:/model/sexart/elle-tan; u:https://www.sexart.com/model/elle-tan
 released: 2020-03-09
 photographer: Matiss
 rating: 9.5
@@ -6519,7 +6519,7 @@ title: Rapunzel
 type: gallery
 site: sa
 url: https://www.sexart.com/model/leona-mia/gallery/20200307/RAPUNZEL
-cast: Leona Mia; https://www.sexart.com/model/leona-mia;
+model: n:Leona Mia; id:/model/sexart/leona-mia; u:https://www.sexart.com/model/leona-mia
 released: 2020-03-07
 photographer: Erro
 rating: 9.6
@@ -6559,8 +6559,8 @@ title: Entice Her
 type: gallery
 site: sa
 url: https://www.sexart.com/model/casey-and-oxana-chic/gallery/20200305/ENTICE_HER
-cast: Casey; https://www.sexart.com/model/casey;
-cast: Oxana Chic; https://www.sexart.com/model/oxana-chic;
+model: n:Casey; id:/model/sexart/casey; u:https://www.sexart.com/model/casey
+model: n:Oxana Chic; id:/model/sexart/oxana-chic; u:https://www.sexart.com/model/oxana-chic
 released: 2020-03-05
 photographer: Tora Ness
 rating: 9.1
@@ -6614,7 +6614,7 @@ title: In Heels
 type: gallery
 site: sa
 url: https://www.sexart.com/model/nimfa/gallery/20200303/IN_HEELS
-cast: Nimfa; https://www.sexart.com/model/nimfa;
+model: n:Nimfa; id:/model/sexart/nimfa; u:https://www.sexart.com/model/nimfa
 released: 2020-03-03
 photographer: Erro
 rating: 9.5
@@ -6657,7 +6657,7 @@ title: Sweetly
 type: gallery
 site: sa
 url: https://www.sexart.com/model/shayla/gallery/20200302/SWEETLY
-cast: Shayla; https://www.sexart.com/model/shayla;
+model: n:Shayla; id:/model/sexart/shayla; u:https://www.sexart.com/model/shayla
 released: 2020-03-02
 photographer: Vicente Silva
 rating: 9.3
@@ -6702,7 +6702,7 @@ title: Gift Wrapped
 type: gallery
 site: sa
 url: https://www.sexart.com/model/ryana/gallery/20200229/GIFT_WRAPPED
-cast: Ryana; https://www.sexart.com/model/ryana;
+model: n:Ryana; id:/model/sexart/ryana; u:https://www.sexart.com/model/ryana
 released: 2020-02-29
 photographer: Alex Lynn
 rating: 9.5
@@ -6745,7 +6745,7 @@ title: Spreading
 type: gallery
 site: sa
 url: https://www.sexart.com/model/cassia/gallery/20200227/SPREADING
-cast: Cassia; https://www.sexart.com/model/cassia;
+model: n:Cassia; id:/model/sexart/cassia; u:https://www.sexart.com/model/cassia
 released: 2020-02-27
 photographer: Vicente Silva
 rating: 9.4
@@ -6794,7 +6794,7 @@ title: Alone In My Room
 type: gallery
 site: sa
 url: https://www.sexart.com/model/kacy-lane/gallery/20200225/ALONE_IN_MY_ROOM
-cast: Kacy Lane; https://www.sexart.com/model/kacy-lane;
+model: n:Kacy Lane; id:/model/sexart/kacy-lane; u:https://www.sexart.com/model/kacy-lane
 released: 2020-02-25
 photographer: Vicente Silva
 rating: 9.5
@@ -6834,7 +6834,7 @@ title: Classic
 type: gallery
 site: sa
 url: https://www.sexart.com/model/nancy-a/gallery/20200224/CLASSIC
-cast: Nancy A; https://www.sexart.com/model/nancy-a;
+model: n:Nancy A; id:/model/sexart/nancy-a; u:https://www.sexart.com/model/nancy-a
 released: 2020-02-24
 photographer: Erro
 rating: 9.6
@@ -6873,7 +6873,7 @@ title: Cooking
 type: gallery
 site: sa
 url: https://www.sexart.com/model/eva-elfie/gallery/20200222/COOKING
-cast: Eva Elfie; https://www.sexart.com/model/eva-elfie;
+model: n:Eva Elfie; id:/model/sexart/eva-elfie; u:https://www.sexart.com/model/eva-elfie
 released: 2020-02-22
 photographer: Vicente Silva
 rating: 9.4
@@ -6918,7 +6918,7 @@ title: Flesh Tone
 type: gallery
 site: sa
 url: https://www.sexart.com/model/nikki-hill/gallery/20200220/FLESH_TONE
-cast: Nikki Hill; https://www.sexart.com/model/nikki-hill;
+model: n:Nikki Hill; id:/model/sexart/nikki-hill; u:https://www.sexart.com/model/nikki-hill
 released: 2020-02-20
 photographer: Blake Jasper
 rating: 9.2
@@ -6960,7 +6960,7 @@ title: Rock Garden
 type: gallery
 site: sa
 url: https://www.sexart.com/model/laina/gallery/20200218/ROCK_GARDEN
-cast: Laina; https://www.sexart.com/model/laina;
+model: n:Laina; id:/model/sexart/laina; u:https://www.sexart.com/model/laina
 released: 2020-02-18
 photographer: Koenart
 rating: 9.3
@@ -6999,7 +6999,7 @@ title: My Butterfly
 type: gallery
 site: sa
 url: https://www.sexart.com/model/lovenia-lux/gallery/20200217/MY_BUTTERFLY
-cast: Lovenia Lux; https://www.sexart.com/model/lovenia-lux;
+model: n:Lovenia Lux; id:/model/sexart/lovenia-lux; u:https://www.sexart.com/model/lovenia-lux
 released: 2020-02-17
 photographer: Vicente Silva
 rating: 9.3
@@ -7038,7 +7038,7 @@ title: Sensual Glow
 type: gallery
 site: sa
 url: https://www.sexart.com/model/mirabella/gallery/20200215/SENSUAL_GLOW
-cast: Mirabella; https://www.sexart.com/model/mirabella; f
+model: n:Mirabella; id:/model/sexart/mirabella; u:https://www.sexart.com/model/mirabella; g:f
 released: 2020-02-15
 photographer: Erro
 rating: 9.5
@@ -7080,7 +7080,7 @@ title: Valentine Surprise
 type: gallery
 site: sa
 url: https://www.sexart.com/model/hayli-sanders/gallery/20200214/VALENTINE_SURPRISE
-cast: Hayli Sanders; https://www.sexart.com/model/hayli-sanders;
+model: n:Hayli Sanders; id:/model/sexart/hayli-sanders; u:https://www.sexart.com/model/hayli-sanders
 released: 2020-02-14
 photographer: Blake Jasper
 rating: 9.4
@@ -7128,7 +7128,7 @@ title: Gather
 type: gallery
 site: sa
 url: https://www.sexart.com/model/casey/gallery/20200212/GATHER
-cast: Casey; https://www.sexart.com/model/casey;
+model: n:Casey; id:/model/sexart/casey; u:https://www.sexart.com/model/casey
 released: 2020-02-12
 photographer: Tora Ness
 rating: 9.2
@@ -7169,7 +7169,7 @@ title: Calming Bath
 type: gallery
 site: sa
 url: https://www.sexart.com/model/oxana-chic/gallery/20200210/CALMING_BATH
-cast: Oxana Chic; https://www.sexart.com/model/oxana-chic;
+model: n:Oxana Chic; id:/model/sexart/oxana-chic; u:https://www.sexart.com/model/oxana-chic
 released: 2020-02-10
 photographer: Tora Ness
 rating: 9.3
@@ -7214,7 +7214,7 @@ title: My Suite
 type: gallery
 site: sa
 url: https://www.sexart.com/model/jasmine-jazz/gallery/20200208/MY_SUITE
-cast: Jasmine Jazz; https://www.sexart.com/model/jasmine-jazz;
+model: n:Jasmine Jazz; id:/model/sexart/jasmine-jazz; u:https://www.sexart.com/model/jasmine-jazz
 released: 2020-02-08
 photographer: Erro
 rating: 9.6
@@ -7258,7 +7258,7 @@ title: Studio Time
 type: gallery
 site: sa
 url: https://www.sexart.com/model/adel-morel/gallery/20200206/STUDIO_TIME
-cast: Adel Morel; https://www.sexart.com/model/adel-morel;
+model: n:Adel Morel; id:/model/sexart/adel-morel; u:https://www.sexart.com/model/adel-morel
 released: 2020-02-06
 photographer: Koenart
 rating: 9.6
@@ -7295,7 +7295,7 @@ title: A Little Taste
 type: gallery
 site: sa
 url: https://www.sexart.com/model/alecia-fox/gallery/20200204/A_LITTLE_TASTE
-cast: Alecia Fox; https://www.sexart.com/model/alecia-fox; f
+model: n:Alecia Fox; id:/model/sexart/alecia-fox; u:https://www.sexart.com/model/alecia-fox; g:f
 released: 2020-02-04
 photographer: Don Caravaggio
 rating: 9.4
@@ -7341,7 +7341,7 @@ title: Open Spread
 type: gallery
 site: sa
 url: https://www.sexart.com/model/nimfa/gallery/20200203/OPEN_SPREAD
-cast: Nimfa; https://www.sexart.com/model/nimfa;
+model: n:Nimfa; id:/model/sexart/nimfa; u:https://www.sexart.com/model/nimfa
 released: 2020-02-03
 photographer: Walter Schotten
 rating: 9.4
@@ -7383,7 +7383,7 @@ title: Garter Belt
 type: gallery
 site: sa
 url: https://www.sexart.com/model/mary-rock/gallery/20200201/GARTER_BELT
-cast: Mary Rock; https://www.sexart.com/model/mary-rock; f
+model: n:Mary Rock; id:/model/sexart/mary-rock; u:https://www.sexart.com/model/mary-rock; g:f
 released: 2020-02-01
 photographer: Nudero
 rating: 9.3
@@ -7428,7 +7428,7 @@ title: Ripped
 type: gallery
 site: sa
 url: https://www.sexart.com/model/paulina/gallery/20200130/RIPPED
-cast: Paulina; https://www.sexart.com/model/paulina;
+model: n:Paulina; id:/model/sexart/paulina; u:https://www.sexart.com/model/paulina
 released: 2020-01-30
 photographer: Tora Ness
 rating: 9.3
@@ -7464,7 +7464,7 @@ title: Lavender
 type: gallery
 site: sa
 url: https://www.sexart.com/model/lee-anne/gallery/20200128/LAVENDER
-cast: Lee Anne; https://www.sexart.com/model/lee-anne;
+model: n:Lee Anne; id:/model/sexart/lee-anne; u:https://www.sexart.com/model/lee-anne
 released: 2020-01-28
 photographer: Erro
 rating: 9.3
@@ -7503,7 +7503,7 @@ title: Video Chat
 type: gallery
 site: sa
 url: https://www.sexart.com/model/sophie-gem/gallery/20200127/VIDEO_CHAT
-cast: Sophie Gem; https://www.sexart.com/model/sophie-gem;
+model: n:Sophie Gem; id:/model/sexart/sophie-gem; u:https://www.sexart.com/model/sophie-gem
 released: 2020-01-27
 photographer: Tora Ness
 rating: 9.4
@@ -7545,7 +7545,7 @@ title: Manicured
 type: gallery
 site: sa
 url: https://www.sexart.com/model/cassia/gallery/20200125/MANICURED
-cast: Cassia; https://www.sexart.com/model/cassia;
+model: n:Cassia; id:/model/sexart/cassia; u:https://www.sexart.com/model/cassia
 released: 2020-01-25
 photographer: Erro
 rating: 9.4
@@ -7591,7 +7591,7 @@ title: Beauty In Nature
 type: gallery
 site: sa
 url: https://www.sexart.com/model/elle-tan/gallery/20200123/BEAUTY_IN_NATURE
-cast: Elle Tan; https://www.sexart.com/model/elle-tan;
+model: n:Elle Tan; id:/model/sexart/elle-tan; u:https://www.sexart.com/model/elle-tan
 released: 2020-01-23
 photographer: Matiss
 rating: 9.5
@@ -7630,7 +7630,7 @@ title: Selena
 type: gallery
 site: sa
 url: https://www.sexart.com/model/selena-dias/gallery/20200121/SELENA
-cast: Selena Dias; https://www.sexart.com/model/selena-dias;
+model: n:Selena Dias; id:/model/sexart/selena-dias; u:https://www.sexart.com/model/selena-dias
 released: 2020-01-21
 photographer: Nudero
 rating: 9.2
@@ -7671,7 +7671,7 @@ title: Pink Lace
 type: gallery
 site: sa
 url: https://www.sexart.com/model/nancy-a/gallery/20200120/PINK_LACE
-cast: Nancy A; https://www.sexart.com/model/nancy-a;
+model: n:Nancy A; id:/model/sexart/nancy-a; u:https://www.sexart.com/model/nancy-a
 released: 2020-01-20
 photographer: Erro
 rating: 9.6
@@ -7713,7 +7713,7 @@ title: Winter Vibe
 type: gallery
 site: sa
 url: https://www.sexart.com/model/leona-mia/gallery/20200118/WINTER_VIBE
-cast: Leona Mia; https://www.sexart.com/model/leona-mia;
+model: n:Leona Mia; id:/model/sexart/leona-mia; u:https://www.sexart.com/model/leona-mia
 released: 2020-01-18
 photographer: Flora
 rating: 9.4
@@ -7753,7 +7753,7 @@ title: Fire in the Lace
 type: gallery
 site: sa
 url: https://www.sexart.com/model/cassie-fire/gallery/20200116/FIRE_IN_THE_LACE
-cast: Cassie Fire; https://www.sexart.com/model/cassie-fire;
+model: n:Cassie Fire; id:/model/sexart/cassie-fire; u:https://www.sexart.com/model/cassie-fire
 released: 2020-01-16
 photographer: Erro
 rating: 9.3
@@ -7795,7 +7795,7 @@ title: Warm Me Up
 type: gallery
 site: sa
 url: https://www.sexart.com/model/alice-shea/gallery/20200114/WARM_ME_UP
-cast: Alice Shea; https://www.sexart.com/model/alice-shea;
+model: n:Alice Shea; id:/model/sexart/alice-shea; u:https://www.sexart.com/model/alice-shea
 released: 2020-01-14
 photographer: Blake Jasper
 rating: 9.3
@@ -7837,7 +7837,7 @@ title: Stretch Flex
 type: gallery
 site: sa
 url: https://www.sexart.com/model/stella-flex/gallery/20200113/STRETCH_FLEX
-cast: Stella Flex; https://www.sexart.com/model/stella-flex;
+model: n:Stella Flex; id:/model/sexart/stella-flex; u:https://www.sexart.com/model/stella-flex
 released: 2020-01-13
 photographer: Erro
 rating: 9.5
@@ -7877,8 +7877,8 @@ title: The Glance
 type: gallery
 site: sa
 url: https://www.sexart.com/model/casey-and-oxana-chic/gallery/20200111/THE_GLANCE
-cast: Casey; https://www.sexart.com/model/casey;
-cast: Oxana Chic; https://www.sexart.com/model/oxana-chic;
+model: n:Casey; id:/model/sexart/casey; u:https://www.sexart.com/model/casey
+model: n:Oxana Chic; id:/model/sexart/oxana-chic; u:https://www.sexart.com/model/oxana-chic
 released: 2020-01-11
 photographer: Tora Ness
 rating: 9.3
@@ -7939,7 +7939,7 @@ title: Mary Rock
 type: gallery
 site: sa
 url: https://www.sexart.com/model/mary-rock/gallery/20200109/MARY_ROCK
-cast: Mary Rock; https://www.sexart.com/model/mary-rock; f
+model: n:Mary Rock; id:/model/sexart/mary-rock; u:https://www.sexart.com/model/mary-rock; g:f
 released: 2020-01-09
 photographer: Nudero
 rating: 9.3
@@ -7978,7 +7978,7 @@ title: Holiday Lace
 type: gallery
 site: sa
 url: https://www.sexart.com/model/sophie-gem/gallery/20200107/HOLIDAY_LACE
-cast: Sophie Gem; https://www.sexart.com/model/sophie-gem;
+model: n:Sophie Gem; id:/model/sexart/sophie-gem; u:https://www.sexart.com/model/sophie-gem
 released: 2020-01-07
 photographer: Tora Ness
 rating: 9.4
@@ -8022,7 +8022,7 @@ title: Butterfly Spread
 type: gallery
 site: sa
 url: https://www.sexart.com/model/nedda-a/gallery/20200106/BUTTERFLY_SPREAD
-cast: Nedda A; https://www.sexart.com/model/nedda-a;
+model: n:Nedda A; id:/model/sexart/nedda-a; u:https://www.sexart.com/model/nedda-a
 released: 2020-01-06
 photographer: Erro
 rating: 9.5
@@ -8066,8 +8066,8 @@ title: Enlighten
 type: gallery
 site: sa
 url: https://www.sexart.com/model/marciana-and-paulina/gallery/20200104/ENLIGHTEN
-cast: Marciana; https://www.sexart.com/model/marciana;
-cast: Paulina; https://www.sexart.com/model/paulina;
+model: n:Marciana; id:/model/sexart/marciana; u:https://www.sexart.com/model/marciana
+model: n:Paulina; id:/model/sexart/paulina; u:https://www.sexart.com/model/paulina
 released: 2020-01-04
 photographer: Tora Ness
 rating: 9.2
@@ -8127,7 +8127,7 @@ title: Top Debut
 type: gallery
 site: sa
 url: https://www.sexart.com/model/kacy-lane/gallery/20200102/TOP_DEBUT
-cast: Kacy Lane; https://www.sexart.com/model/kacy-lane;
+model: n:Kacy Lane; id:/model/sexart/kacy-lane; u:https://www.sexart.com/model/kacy-lane
 released: 2020-01-02
 photographer: Vicente Silva
 rating: 9.5

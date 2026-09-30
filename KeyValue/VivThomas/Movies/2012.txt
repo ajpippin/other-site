@@ -9,8 +9,8 @@ title: The Art of Sex 2 #3
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/cathy-heaven-and-renato/movie/20121230/THE_ART_OF_SEX_2_PART_3
-cast: Cathy Heaven; https://www.vivthomas.com/model/cathy-heaven; f
-cast: Renato; https://www.vivthomas.com/model/renato; f
+model: n:Cathy Heaven; id:/model/vivthomas/cathy-heaven; u:https://www.vivthomas.com/model/cathy-heaven; g:f
+model: n:Renato; id:/model/vivthomas/renato; u:https://www.vivthomas.com/model/renato; g:f
 released: 2012-12-30
 director:   Viv Thomas
 rating: 9.2
@@ -51,8 +51,8 @@ title: The Art of Sex 2 #2
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/iwia-a-and-steve-q/movie/20121228/THE_ART_OF_SEX_2_PART_2
-cast: Iwia A; https://www.vivthomas.com/model/iwia-a; f
-cast: Steve Q; https://www.vivthomas.com/model/steve-q; f
+model: n:Iwia A; id:/model/vivthomas/iwia-a; u:https://www.vivthomas.com/model/iwia-a; g:f
+model: n:Steve Q; id:/model/vivthomas/steve-q; u:https://www.vivthomas.com/model/steve-q; g:f
 released: 2012-12-28
 director:   Viv Thomas
 rating: 9.5
@@ -95,8 +95,8 @@ title: The Art of Sex 2 #1
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/matt-bird-and-ivana-sugar/movie/20121226/THE_ART_OF_SEX_2_PART_1
-cast: Matt Bird; https://www.vivthomas.com/model/matt-bird; f
-cast: Ivana Sugar; https://www.vivthomas.com/model/ivana-sugar; f
+model: n:Matt Bird; id:/model/vivthomas/matt-bird; u:https://www.vivthomas.com/model/matt-bird; g:f
+model: n:Ivana Sugar; id:/model/vivthomas/ivana-sugar; u:https://www.vivthomas.com/model/ivana-sugar; g:f
 released: 2012-12-26
 director:   Viv Thomas
 rating: 9.3
@@ -142,7 +142,7 @@ title: The Megan Coxxx Collection #4
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/megan-coxxx/movie/20121224/THE_MEGAN_COXXX_COLLECTION_PART_4
-cast: Megan Coxxx; https://www.vivthomas.com/model/megan-coxxx; f
+model: n:Megan Coxxx; id:/model/vivthomas/megan-coxxx; u:https://www.vivthomas.com/model/megan-coxxx; g:f
 released: 2012-12-24
 director:   Viv Thomas
 rating: 9.2
@@ -186,7 +186,7 @@ title: Kitty Cat #1
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/kitty-cat/movie/20121222/KITTY_CAT_PART_1
-cast: Kitty Cat; https://www.vivthomas.com/model/kitty-cat; f
+model: n:Kitty Cat; id:/model/vivthomas/kitty-cat; u:https://www.vivthomas.com/model/kitty-cat; g:f
 released: 2012-12-22
 director:   Viv Thomas
 rating: 9.1
@@ -229,8 +229,8 @@ title: Tides of Lust #5
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/jo-and-nicole-smith/movie/20121220/TIDES_OF_LUST_PART_5
-cast: Jo; https://www.vivthomas.com/model/jo; f
-cast: Nicole Smith; https://www.vivthomas.com/model/nicole-smith; f
+model: n:Jo; id:/model/vivthomas/jo; u:https://www.vivthomas.com/model/jo; g:f
+model: n:Nicole Smith; id:/model/vivthomas/nicole-smith; u:https://www.vivthomas.com/model/nicole-smith; g:f
 released: 2012-12-20
 director:   Viv Thomas
 rating: 9.4
@@ -284,7 +284,7 @@ title: Cindy Read #1
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/cindy-read/movie/20121215/CINDY_READ_PART_1
-cast: Cindy Read; https://www.vivthomas.com/model/cindy-read; f
+model: n:Cindy Read; id:/model/vivthomas/cindy-read; u:https://www.vivthomas.com/model/cindy-read; g:f
 released: 2012-12-15
 director:   Viv Thomas
 rating: 9.1
@@ -330,8 +330,8 @@ title: Tides of Lust #4
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/eve-angel-and-viktoria-diamond/movie/20121213/TIDES_OF_LUST_PART_4
-cast: Eve Angel; https://www.vivthomas.com/model/eve-angel; f
-cast: Viktoria Diamond; https://www.vivthomas.com/model/viktoria-diamond; f
+model: n:Eve Angel; id:/model/vivthomas/eve-angel; u:https://www.vivthomas.com/model/eve-angel; g:f
+model: n:Viktoria Diamond; id:/model/vivthomas/viktoria-diamond; u:https://www.vivthomas.com/model/viktoria-diamond; g:f
 released: 2012-12-13
 director:   Viv Thomas
 rating: 9.4
@@ -386,7 +386,7 @@ title: Jazmine Bloom #1
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/jazmine-bloom/movie/20121208/JAZMINE_BLOOM_PART_1
-cast: Jazmine Bloom; https://www.vivthomas.com/model/jazmine-bloom; f
+model: n:Jazmine Bloom; id:/model/vivthomas/jazmine-bloom; u:https://www.vivthomas.com/model/jazmine-bloom; g:f
 released: 2012-12-08
 director:   Viv Thomas
 rating: 9.0
@@ -434,11 +434,11 @@ title: Tides of Lust #3
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/viktoria-diamond-and-jo-and-nicole-smith-and-lana-s-and-eve-angel/movie/20121206/TIDES_OF_LUST_PART_3
-cast: Viktoria Diamond; https://www.vivthomas.com/model/viktoria-diamond; f
-cast: Jo; https://www.vivthomas.com/model/jo; f
-cast: Nicole Smith; https://www.vivthomas.com/model/nicole-smith; f
-cast: Lana S; https://www.vivthomas.com/model/lana-s; f
-cast: Eve Angel; https://www.vivthomas.com/model/eve-angel; f
+model: n:Viktoria Diamond; id:/model/vivthomas/viktoria-diamond; u:https://www.vivthomas.com/model/viktoria-diamond; g:f
+model: n:Jo; id:/model/vivthomas/jo; u:https://www.vivthomas.com/model/jo; g:f
+model: n:Nicole Smith; id:/model/vivthomas/nicole-smith; u:https://www.vivthomas.com/model/nicole-smith; g:f
+model: n:Lana S; id:/model/vivthomas/lana-s; u:https://www.vivthomas.com/model/lana-s; g:f
+model: n:Eve Angel; id:/model/vivthomas/eve-angel; u:https://www.vivthomas.com/model/eve-angel; g:f
 released: 2012-12-06
 director:   Viv Thomas
 rating: 9.4
@@ -486,8 +486,8 @@ title: Tides of Lust #2
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/nicole-smith-and-lana-s/movie/20121129/TIDES_OF_LUST_PART_2
-cast: Nicole Smith; https://www.vivthomas.com/model/nicole-smith; f
-cast: Lana S; https://www.vivthomas.com/model/lana-s; f
+model: n:Nicole Smith; id:/model/vivthomas/nicole-smith; u:https://www.vivthomas.com/model/nicole-smith; g:f
+model: n:Lana S; id:/model/vivthomas/lana-s; u:https://www.vivthomas.com/model/lana-s; g:f
 released: 2012-11-29
 director:   Viv Thomas
 rating: 9.4
@@ -546,8 +546,8 @@ title: Tides of Lust #1
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/jo-and-eve-angel/movie/20121122/TIDES_OF_LUST_PART_1
-cast: Jo; https://www.vivthomas.com/model/jo; f
-cast: Eve Angel; https://www.vivthomas.com/model/eve-angel; f
+model: n:Jo; id:/model/vivthomas/jo; u:https://www.vivthomas.com/model/jo; g:f
+model: n:Eve Angel; id:/model/vivthomas/eve-angel; u:https://www.vivthomas.com/model/eve-angel; g:f
 released: 2012-11-22
 director:   Viv Thomas
 rating: 9.5
@@ -591,8 +591,8 @@ title: Barbie & Inna #1
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/inna-a-and-barbie-white/movie/20121117/BARBIE_&_INNA_PART_1
-cast: Inna A; https://www.vivthomas.com/model/inna-a; f
-cast: Barbie White; https://www.vivthomas.com/model/barbie-white; f
+model: n:Inna A; id:/model/vivthomas/inna-a; u:https://www.vivthomas.com/model/inna-a; g:f
+model: n:Barbie White; id:/model/vivthomas/barbie-white; u:https://www.vivthomas.com/model/barbie-white; g:f
 released: 2012-11-17
 director:   Viv Thomas
 rating: 9.2
@@ -646,8 +646,8 @@ title: Office Girls #3.5
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/rebecca-more-and-suzie-carina/movie/20121109/OFFICE_GIRLS_3_PART_5
-cast: Rebecca More; https://www.vivthomas.com/model/rebecca-more; f
-cast: Suzie Carina; https://www.vivthomas.com/model/suzie-carina; f
+model: n:Rebecca More; id:/model/vivthomas/rebecca-more; u:https://www.vivthomas.com/model/rebecca-more; g:f
+model: n:Suzie Carina; id:/model/vivthomas/suzie-carina; u:https://www.vivthomas.com/model/suzie-carina; g:f
 released: 2012-11-09
 director:   Viv Thomas
 rating: 9.3
@@ -693,8 +693,8 @@ title: Office Girls 3 #4
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/lexi-lowe-and-rebecca-more/movie/20121102/OFFICE_GIRLS_3_PART_4
-cast: Lexi Lowe; https://www.vivthomas.com/model/lexi-lowe; f
-cast: Rebecca More; https://www.vivthomas.com/model/rebecca-more; f
+model: n:Lexi Lowe; id:/model/vivthomas/lexi-lowe; u:https://www.vivthomas.com/model/lexi-lowe; g:f
+model: n:Rebecca More; id:/model/vivthomas/rebecca-more; u:https://www.vivthomas.com/model/rebecca-more; g:f
 released: 2012-11-02
 director:   Viv Thomas
 rating: 9.4
@@ -751,7 +751,7 @@ title: Shay Hendrix, Demitri and Andy Mann #1
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/shay-hendrix/movie/20121028/SHAY_HENDRIX,_DEMITRI_AND_ANDY_MANN_PART_1
-cast: Shay Hendrix; https://www.vivthomas.com/model/shay-hendrix; f
+model: n:Shay Hendrix; id:/model/vivthomas/shay-hendrix; u:https://www.vivthomas.com/model/shay-hendrix; g:f
 released: 2012-10-28
 director:   Viv Thomas
 rating: 8.9
@@ -800,8 +800,8 @@ title: Office Girls 3 #3
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/suzie-carina-and-paige-turnah/movie/20121026/OFFICE_GIRLS_3_PART_3
-cast: Suzie Carina; https://www.vivthomas.com/model/suzie-carina; f
-cast: Paige Turnah; https://www.vivthomas.com/model/paige-turnah; f
+model: n:Suzie Carina; id:/model/vivthomas/suzie-carina; u:https://www.vivthomas.com/model/suzie-carina; g:f
+model: n:Paige Turnah; id:/model/vivthomas/paige-turnah; u:https://www.vivthomas.com/model/paige-turnah; g:f
 released: 2012-10-26
 director:   Viv Thomas
 rating: 9.3
@@ -858,7 +858,7 @@ title: Joanna & Matt Bird #1
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/joanne-sweet/movie/20121021/JOANNA_&_MATT_BIRD_PART_1
-cast: Joanne Sweet; https://www.vivthomas.com/model/joanne-sweet; f
+model: n:Joanne Sweet; id:/model/vivthomas/joanne-sweet; u:https://www.vivthomas.com/model/joanne-sweet; g:f
 released: 2012-10-21
 director:   Viv Thomas
 rating: 9.4
@@ -904,8 +904,8 @@ title: Office Girls 3 #2
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/lexi-lowe-and-paige-turnah/movie/20121019/OFFICE_GIRLS_3_PART_2
-cast: Lexi Lowe; https://www.vivthomas.com/model/lexi-lowe; f
-cast: Paige Turnah; https://www.vivthomas.com/model/paige-turnah; f
+model: n:Lexi Lowe; id:/model/vivthomas/lexi-lowe; u:https://www.vivthomas.com/model/lexi-lowe; g:f
+model: n:Paige Turnah; id:/model/vivthomas/paige-turnah; u:https://www.vivthomas.com/model/paige-turnah; g:f
 released: 2012-10-19
 director:   Viv Thomas
 rating: 9.4
@@ -960,9 +960,9 @@ title: Office Girls 3 #1
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/rebecca-more-and-suzie-carina-and-lexi-lowe/movie/20121017/OFFICE_GIRLS_3_PART_1
-cast: Rebecca More; https://www.vivthomas.com/model/rebecca-more; f
-cast: Suzie Carina; https://www.vivthomas.com/model/suzie-carina; f
-cast: Lexi Lowe; https://www.vivthomas.com/model/lexi-lowe; f
+model: n:Rebecca More; id:/model/vivthomas/rebecca-more; u:https://www.vivthomas.com/model/rebecca-more; g:f
+model: n:Suzie Carina; id:/model/vivthomas/suzie-carina; u:https://www.vivthomas.com/model/suzie-carina; g:f
+model: n:Lexi Lowe; id:/model/vivthomas/lexi-lowe; u:https://www.vivthomas.com/model/lexi-lowe; g:f
 released: 2012-10-17
 director:   Viv Thomas
 rating: 9.1
@@ -1008,7 +1008,7 @@ title: Anita & Roger #1
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/anita-c/movie/20121013/ANITA_&_ROGER_PART_1
-cast: Anita C; https://www.vivthomas.com/model/anita-c; f
+model: n:Anita C; id:/model/vivthomas/anita-c; u:https://www.vivthomas.com/model/anita-c; g:f
 released: 2012-10-13
 director:   Viv Thomas
 rating: 9.2
@@ -1057,7 +1057,7 @@ title: Sticky Fingers 2 #16
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/kylie-a/movie/20121007/STICKY_FINGERS_2_PART_16
-cast: Kylie A; https://www.vivthomas.com/model/kylie-a; f
+model: n:Kylie A; id:/model/vivthomas/kylie-a; u:https://www.vivthomas.com/model/kylie-a; g:f
 released: 2012-10-07
 director:   Viv Thomas
 rating: 9.3
@@ -1100,7 +1100,7 @@ title: Sticky Fingers 2 #15
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/nikky-case/movie/20121005/STICKY_FINGERS_2_PART_15
-cast: Nikky Case; https://www.vivthomas.com/model/nikky-case; f
+model: n:Nikky Case; id:/model/vivthomas/nikky-case; u:https://www.vivthomas.com/model/nikky-case; g:f
 released: 2012-10-05
 director:   Viv Thomas
 rating: 9.6
@@ -1144,7 +1144,7 @@ title: Sticky Fingers 2 #14
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/alissa-a/movie/20121003/STICKY_FINGERS_2_PART_14
-cast: Alissa A; https://www.vivthomas.com/model/alissa-a; f
+model: n:Alissa A; id:/model/vivthomas/alissa-a; u:https://www.vivthomas.com/model/alissa-a; g:f
 released: 2012-10-03
 director:   Viv Thomas
 rating: 9.5
@@ -1187,8 +1187,8 @@ title: Shades of Blue #4
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/antonya-a-and-blue-angel/movie/20120921/SHADES_OF_BLUE_PART_4
-cast: Antonya A; https://www.vivthomas.com/model/antonya-a; f
-cast: Blue Angel; https://www.vivthomas.com/model/blue-angel; f
+model: n:Antonya A; id:/model/vivthomas/antonya-a; u:https://www.vivthomas.com/model/antonya-a; g:f
+model: n:Blue Angel; id:/model/vivthomas/blue-angel; u:https://www.vivthomas.com/model/blue-angel; g:f
 released: 2012-09-21
 director:   Viv Thomas
 rating: 9.4
@@ -1235,8 +1235,8 @@ title: Shades of Blue #3
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/blue-angel-and-viktoria-diamond/movie/20120919/SHADES_OF_BLUE_PART_3
-cast: Blue Angel; https://www.vivthomas.com/model/blue-angel; f
-cast: Viktoria Diamond; https://www.vivthomas.com/model/viktoria-diamond; f
+model: n:Blue Angel; id:/model/vivthomas/blue-angel; u:https://www.vivthomas.com/model/blue-angel; g:f
+model: n:Viktoria Diamond; id:/model/vivthomas/viktoria-diamond; u:https://www.vivthomas.com/model/viktoria-diamond; g:f
 released: 2012-09-19
 director:   Viv Thomas
 rating: 9.2
@@ -1301,8 +1301,8 @@ title: Shades of Blue #2
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/cindy-hope-and-blue-angel/movie/20120917/SHADES_OF_BLUE_PART_2
-cast: Cindy Hope; https://www.vivthomas.com/model/cindy-hope; f
-cast: Blue Angel; https://www.vivthomas.com/model/blue-angel; f
+model: n:Cindy Hope; id:/model/vivthomas/cindy-hope; u:https://www.vivthomas.com/model/cindy-hope; g:f
+model: n:Blue Angel; id:/model/vivthomas/blue-angel; u:https://www.vivthomas.com/model/blue-angel; g:f
 released: 2012-09-17
 director:   Viv Thomas
 rating: 9.4
@@ -1355,8 +1355,8 @@ title: Shades of Blue #1
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/blue-angel-and-brandy-smile/movie/20120915/SHADES_OF_BLUE_PART_1
-cast: Blue Angel; https://www.vivthomas.com/model/blue-angel; f
-cast: Brandy Smile; https://www.vivthomas.com/model/brandy-smile; f
+model: n:Blue Angel; id:/model/vivthomas/blue-angel; u:https://www.vivthomas.com/model/blue-angel; g:f
+model: n:Brandy Smile; id:/model/vivthomas/brandy-smile; u:https://www.vivthomas.com/model/brandy-smile; g:f
 released: 2012-09-15
 director:   Viv Thomas
 rating: 9.3
@@ -1407,7 +1407,7 @@ title: Sticky Fingers 2 #13
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/silvia-saint/movie/20120913/STICKY_FINGERS_2_PART_13
-cast: Silvia Saint; https://www.vivthomas.com/model/silvia-saint; f
+model: n:Silvia Saint; id:/model/vivthomas/silvia-saint; u:https://www.vivthomas.com/model/silvia-saint; g:f
 released: 2012-09-13
 director:   Viv Thomas
 rating: 8.9
@@ -1447,7 +1447,7 @@ title: Sticky Fingers 2 #12
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/sophie-moon/movie/20120911/STICKY_FINGERS_2_PART_12
-cast: Sophie Moon; https://www.vivthomas.com/model/sophie-moon; f
+model: n:Sophie Moon; id:/model/vivthomas/sophie-moon; u:https://www.vivthomas.com/model/sophie-moon; g:f
 released: 2012-09-11
 director:   Viv Thomas
 rating: 9.5
@@ -1489,7 +1489,7 @@ title: Sticky Fingers 2 #11
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/hannah-hunter/movie/20120909/STICKY_FINGERS_2_PART_11
-cast: Hannah Hunter; https://www.vivthomas.com/model/hannah-hunter; f
+model: n:Hannah Hunter; id:/model/vivthomas/hannah-hunter; u:https://www.vivthomas.com/model/hannah-hunter; g:f
 released: 2012-09-09
 director:   Viv Thomas
 rating: 9.2
@@ -1534,7 +1534,7 @@ title: Sticky Fingers 2 #10
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/nikki-ryder/movie/20120907/STICKY_FINGERS_2_PART_10
-cast: Nikki Ryder; https://www.vivthomas.com/model/nikki-ryder; f
+model: n:Nikki Ryder; id:/model/vivthomas/nikki-ryder; u:https://www.vivthomas.com/model/nikki-ryder; g:f
 released: 2012-09-07
 director:   Viv Thomas
 rating: 8.9
@@ -1581,7 +1581,7 @@ title: Sticky Fingers 2 #9
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/angie-george/movie/20120905/STICKY_FINGERS_2_PART_9
-cast: Angie George; https://www.vivthomas.com/model/angie-george; f
+model: n:Angie George; id:/model/vivthomas/angie-george; u:https://www.vivthomas.com/model/angie-george; g:f
 released: 2012-09-05
 director:   Viv Thomas
 rating: 9.3
@@ -1629,7 +1629,7 @@ title: Sticky Fingers 2 #8
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/aphrodite-night/movie/20120903/STICKY_FINGERS_2_PART_8
-cast: Aphrodite Night; https://www.vivthomas.com/model/aphrodite-night; f
+model: n:Aphrodite Night; id:/model/vivthomas/aphrodite-night; u:https://www.vivthomas.com/model/aphrodite-night; g:f
 released: 2012-09-03
 director:   Viv Thomas
 rating: 9.1
@@ -1668,7 +1668,7 @@ title: Sticky Fingers 2 #7
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/gina-b/movie/20120901/STICKY_FINGERS_2_PART_7
-cast: Gina B; https://www.vivthomas.com/model/gina-b; f
+model: n:Gina B; id:/model/vivthomas/gina-b; u:https://www.vivthomas.com/model/gina-b; g:f
 released: 2012-09-01
 director:   Viv Thomas
 rating: 9.3
@@ -1710,7 +1710,7 @@ title: Touch of Spice #5
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/viktoria-diamond/movie/20120828/TOUCH_OF_SPICE_PART_5
-cast: Viktoria Diamond; https://www.vivthomas.com/model/viktoria-diamond; f
+model: n:Viktoria Diamond; id:/model/vivthomas/viktoria-diamond; u:https://www.vivthomas.com/model/viktoria-diamond; g:f
 released: 2012-08-28
 director:   Viv Thomas
 rating: 9.5
@@ -1753,7 +1753,7 @@ title: The Megan Coxxx Collection #3
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/megan-coxxx/movie/20120826/THE_MEGAN_COXXX_COLLECTION_PART_3
-cast: Megan Coxxx; https://www.vivthomas.com/model/megan-coxxx; f
+model: n:Megan Coxxx; id:/model/vivthomas/megan-coxxx; u:https://www.vivthomas.com/model/megan-coxxx; g:f
 released: 2012-08-26
 director:   Viv Thomas
 rating: 9.1
@@ -1794,7 +1794,7 @@ title: Touch of Spice #4
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/kitty-cat/movie/20120825/TOUCH_OF_SPICE_PART_4
-cast: Kitty Cat; https://www.vivthomas.com/model/kitty-cat; f
+model: n:Kitty Cat; id:/model/vivthomas/kitty-cat; u:https://www.vivthomas.com/model/kitty-cat; g:f
 released: 2012-08-25
 director:   Viv Thomas
 rating: 9.2
@@ -1841,7 +1841,7 @@ title: Touch of Spice #3
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/mira-sunset/movie/20120823/TOUCH_OF_SPICE_PART_3
-cast: Mira Sunset; https://www.vivthomas.com/model/mira-sunset; f
+model: n:Mira Sunset; id:/model/vivthomas/mira-sunset; u:https://www.vivthomas.com/model/mira-sunset; g:f
 released: 2012-08-23
 director:   Viv Thomas
 rating: 9.1
@@ -1888,7 +1888,7 @@ title: Touch of Spice #2
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/cipriana-a/movie/20120821/TOUCH_OF_SPICE_PART_2
-cast: Cipriana A; https://www.vivthomas.com/model/cipriana-a; f
+model: n:Cipriana A; id:/model/vivthomas/cipriana-a; u:https://www.vivthomas.com/model/cipriana-a; g:f
 released: 2012-08-21
 director:   Viv Thomas
 rating: 9.4
@@ -1933,7 +1933,7 @@ title: The Megan Coxxx Collection #2
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/megan-coxxx/movie/20120819/THE_MEGAN_COXXX_COLLECTION_PART_2
-cast: Megan Coxxx; https://www.vivthomas.com/model/megan-coxxx; f
+model: n:Megan Coxxx; id:/model/vivthomas/megan-coxxx; u:https://www.vivthomas.com/model/megan-coxxx; g:f
 released: 2012-08-19
 director:   Viv Thomas
 rating: 9.4
@@ -1976,8 +1976,8 @@ title: Touch of Spice #1
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/matt-bird-and-lana-s/movie/20120818/TOUCH_OF_SPICE_PART_1
-cast: Matt Bird; https://www.vivthomas.com/model/matt-bird; m
-cast: Lana S; https://www.vivthomas.com/model/lana-s; f
+model: n:Matt Bird; id:/model/vivthomas/matt-bird; u:https://www.vivthomas.com/model/matt-bird; g:m
+model: n:Lana S; id:/model/vivthomas/lana-s; u:https://www.vivthomas.com/model/lana-s; g:f
 released: 2012-08-18
 director:   Viv Thomas
 rating: 9.4
@@ -2025,7 +2025,7 @@ title: Sticky Fingers 2 #6
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/franki-a/movie/20120814/STICKY_FINGERS_2_PART_6
-cast: Franki A; https://www.vivthomas.com/model/franki-a; f
+model: n:Franki A; id:/model/vivthomas/franki-a; u:https://www.vivthomas.com/model/franki-a; g:f
 released: 2012-08-14
 director:   Viv Thomas
 rating: 9.1
@@ -2067,7 +2067,7 @@ title: The Megan Coxxx Collection #1
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/megan-coxxx/movie/20120812/THE_MEGAN_COXXX_COLLECTION_PART_1
-cast: Megan Coxxx; https://www.vivthomas.com/model/megan-coxxx; f
+model: n:Megan Coxxx; id:/model/vivthomas/megan-coxxx; u:https://www.vivthomas.com/model/megan-coxxx; g:f
 released: 2012-08-12
 director:   Viv Thomas
 rating: 9.4
@@ -2112,7 +2112,7 @@ title: Sticky Fingers 2 #5
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/stella-stevens/movie/20120810/STICKY_FINGERS_2_PART_5
-cast: Stella Stevens; https://www.vivthomas.com/model/stella-stevens; f
+model: n:Stella Stevens; id:/model/vivthomas/stella-stevens; u:https://www.vivthomas.com/model/stella-stevens; g:f
 released: 2012-08-10
 director:   Viv Thomas
 rating: 9.4
@@ -2154,7 +2154,7 @@ title: Sandra Rodriguez and Bruce
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/sandra-rodriguez/movie/20120806/SANDRA_RODRIGUEZ_AND_BRUCE_PART_1
-cast: Sandra Rodriguez; https://www.vivthomas.com/model/sandra-rodriguez; f
+model: n:Sandra Rodriguez; id:/model/vivthomas/sandra-rodriguez; u:https://www.vivthomas.com/model/sandra-rodriguez; g:f
 released: 2012-08-06
 director:   Viv Thomas
 rating: 9.1
@@ -2207,7 +2207,7 @@ title: Sticky Fingers 2 #4
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/zuzana-drabinova/movie/20120804/STICKY_FINGERS_2_PART_4
-cast: Zuzana Drabinova; https://www.vivthomas.com/model/zuzana-drabinova; f
+model: n:Zuzana Drabinova; id:/model/vivthomas/zuzana-drabinova; u:https://www.vivthomas.com/model/zuzana-drabinova; g:f
 released: 2012-08-04
 director:   Viv Thomas
 rating: 9.3
@@ -2248,7 +2248,7 @@ title: Sticky Fingers 2 #3
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/jennifer-love/movie/20120802/STICKY_FINGERS_2_PART_3
-cast: Jennifer Love; https://www.vivthomas.com/model/jennifer-love; f
+model: n:Jennifer Love; id:/model/vivthomas/jennifer-love; u:https://www.vivthomas.com/model/jennifer-love; g:f
 released: 2012-08-02
 director:   Viv Thomas
 rating: 9.3
@@ -2295,7 +2295,7 @@ title: Sticky Fingers 2 #2
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/peaches-a/movie/20120731/STICKY_FINGERS_2_PART_2
-cast: Peaches A; https://www.vivthomas.com/model/peaches-a; f
+model: n:Peaches A; id:/model/vivthomas/peaches-a; u:https://www.vivthomas.com/model/peaches-a; g:f
 released: 2012-07-31
 director:   Viv Thomas
 rating: 9.3
@@ -2331,7 +2331,7 @@ title: Sticky Fingers 2 #1
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/white-angel/movie/20120729/STICKY_FINGERS_2_PART_1
-cast: White Angel; https://www.vivthomas.com/model/white-angel; f
+model: n:White Angel; id:/model/vivthomas/white-angel; u:https://www.vivthomas.com/model/white-angel; g:f
 released: 2012-07-29
 director:   Viv Thomas
 rating: 9.2
@@ -2383,8 +2383,8 @@ title: I Dream of Jo #2.5
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/jo-and-antonya-a/movie/20120727/I_DREAM_OF_JO_2_PART_5
-cast: Jo; https://www.vivthomas.com/model/jo; f
-cast: Antonya A; https://www.vivthomas.com/model/antonya-a; f
+model: n:Jo; id:/model/vivthomas/jo; u:https://www.vivthomas.com/model/jo; g:f
+model: n:Antonya A; id:/model/vivthomas/antonya-a; u:https://www.vivthomas.com/model/antonya-a; g:f
 released: 2012-07-27
 director:   Viv Thomas
 rating: 9.5
@@ -2432,7 +2432,7 @@ title: I Dream of Jo #2.4
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/jo/movie/20120725/I_DREAM_OF_JO_2_PART_4
-cast: Jo; https://www.vivthomas.com/model/jo; f
+model: n:Jo; id:/model/vivthomas/jo; u:https://www.vivthomas.com/model/jo; g:f
 released: 2012-07-25
 director:   Viv Thomas
 rating: 9.5
@@ -2477,9 +2477,9 @@ title: I Dream of Jo #2.3
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/antonya-a-and-jo-and-brandy-smile/movie/20120723/I_DREAM_OF_JO_2_PART_3
-cast: Antonya A; https://www.vivthomas.com/model/antonya-a; f
-cast: Jo; https://www.vivthomas.com/model/jo; f
-cast: Brandy Smile; https://www.vivthomas.com/model/brandy-smile; f
+model: n:Antonya A; id:/model/vivthomas/antonya-a; u:https://www.vivthomas.com/model/antonya-a; g:f
+model: n:Jo; id:/model/vivthomas/jo; u:https://www.vivthomas.com/model/jo; g:f
+model: n:Brandy Smile; id:/model/vivthomas/brandy-smile; u:https://www.vivthomas.com/model/brandy-smile; g:f
 released: 2012-07-23
 director:   Viv Thomas
 rating: 9.4
@@ -2538,7 +2538,7 @@ title: I Dream of Jo #2.2
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/jo/movie/20120721/I_DREAM_OF_JO_2_PART_2
-cast: Jo; https://www.vivthomas.com/model/jo; f
+model: n:Jo; id:/model/vivthomas/jo; u:https://www.vivthomas.com/model/jo; g:f
 released: 2012-07-21
 director:   Viv Thomas
 rating: 9.5
@@ -2577,8 +2577,8 @@ title: I Dream of Jo #2.1
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/jo-and-eve-angel/movie/20120719/I_DREAM_OF_JO_2_PART_1
-cast: Jo; https://www.vivthomas.com/model/jo; f
-cast: Eve Angel; https://www.vivthomas.com/model/eve-angel; f
+model: n:Jo; id:/model/vivthomas/jo; u:https://www.vivthomas.com/model/jo; g:f
+model: n:Eve Angel; id:/model/vivthomas/eve-angel; u:https://www.vivthomas.com/model/eve-angel; g:f
 released: 2012-07-19
 director:   Viv Thomas
 rating: 9.5
@@ -2624,7 +2624,7 @@ title: Private Orgasms #6
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/tea-j/movie/20120709/PRIVATE_ORGASMS_PART_6
-cast: Tea J; https://www.vivthomas.com/model/tea-j; f
+model: n:Tea J; id:/model/vivthomas/tea-j; u:https://www.vivthomas.com/model/tea-j; g:f
 released: 2012-07-09
 director:   Viv Thomas
 rating: 9.3
@@ -2670,7 +2670,7 @@ title: Private Orgasms #5
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/anita-c/movie/20120707/PRIVATE_ORGASMS_PART_5
-cast: Anita C; https://www.vivthomas.com/model/anita-c; f
+model: n:Anita C; id:/model/vivthomas/anita-c; u:https://www.vivthomas.com/model/anita-c; g:f
 released: 2012-07-07
 director:   Viv Thomas
 rating: 9.1
@@ -2718,7 +2718,7 @@ title: Private Orgasms #4
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/sandra-sanchez/movie/20120705/PRIVATE_ORGASMS_PART_4
-cast: Sandra Sanchez; https://www.vivthomas.com/model/sandra-sanchez; f
+model: n:Sandra Sanchez; id:/model/vivthomas/sandra-sanchez; u:https://www.vivthomas.com/model/sandra-sanchez; g:f
 released: 2012-07-05
 director:   Viv Thomas
 rating: 9.2
@@ -2763,7 +2763,7 @@ title: Private Orgasms #3
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/elisa-a/movie/20120703/PRIVATE_ORGASMS_PART_3
-cast: Elisa A; https://www.vivthomas.com/model/elisa-a; f
+model: n:Elisa A; id:/model/vivthomas/elisa-a; u:https://www.vivthomas.com/model/elisa-a; g:f
 released: 2012-07-03
 director:   Viv Thomas
 rating: 9.1
@@ -2812,7 +2812,7 @@ title: Private Orgasms #2
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/suzie-carina/movie/20120701/PRIVATE_ORGASMS_PART_2
-cast: Suzie Carina; https://www.vivthomas.com/model/suzie-carina; f
+model: n:Suzie Carina; id:/model/vivthomas/suzie-carina; u:https://www.vivthomas.com/model/suzie-carina; g:f
 released: 2012-07-01
 director:   Viv Thomas
 rating: 9.3
@@ -2856,7 +2856,7 @@ title: Private Orgasms #1
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/nicole-smith/movie/20120629/PRIVATE_ORGASMS_PART_1
-cast: Nicole Smith; https://www.vivthomas.com/model/nicole-smith; f
+model: n:Nicole Smith; id:/model/vivthomas/nicole-smith; u:https://www.vivthomas.com/model/nicole-smith; g:f
 released: 2012-06-29
 director:   Viv Thomas
 rating: 9.4
@@ -2900,8 +2900,8 @@ title: Woman's Touch: Breast Play 5
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/sandra-sanchez-and-tea-j/movie/20120621/WOMAN_S_TOUCH__BREAST_PLAY_PART_5
-cast: Sandra Sanchez; https://www.vivthomas.com/model/sandra-sanchez; f
-cast: Tea J; https://www.vivthomas.com/model/tea-j; f
+model: n:Sandra Sanchez; id:/model/vivthomas/sandra-sanchez; u:https://www.vivthomas.com/model/sandra-sanchez; g:f
+model: n:Tea J; id:/model/vivthomas/tea-j; u:https://www.vivthomas.com/model/tea-j; g:f
 released: 2012-06-21
 director:   Viv Thomas
 rating: 9.3
@@ -2952,8 +2952,8 @@ title: Woman's Touch: Breast Play 4
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/anita-c-and-elisa-a/movie/20120619/WOMAN_S_TOUCH__BREAST_PLAY_PART_4
-cast: Anita C; https://www.vivthomas.com/model/anita-c; f
-cast: Elisa A; https://www.vivthomas.com/model/elisa-a; f
+model: n:Anita C; id:/model/vivthomas/anita-c; u:https://www.vivthomas.com/model/anita-c; g:f
+model: n:Elisa A; id:/model/vivthomas/elisa-a; u:https://www.vivthomas.com/model/elisa-a; g:f
 released: 2012-06-19
 director:   Viv Thomas
 rating: 9.2
@@ -3007,8 +3007,8 @@ title: Woman's Touch: Breast Play 3
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/sandra-sanchez-and-suzie-carina/movie/20120617/WOMAN_S_TOUCH__BREAST_PLAY_PART_3
-cast: Sandra Sanchez; https://www.vivthomas.com/model/sandra-sanchez; f
-cast: Suzie Carina; https://www.vivthomas.com/model/suzie-carina; f
+model: n:Sandra Sanchez; id:/model/vivthomas/sandra-sanchez; u:https://www.vivthomas.com/model/sandra-sanchez; g:f
+model: n:Suzie Carina; id:/model/vivthomas/suzie-carina; u:https://www.vivthomas.com/model/suzie-carina; g:f
 released: 2012-06-17
 director:   Viv Thomas
 rating: 9.3
@@ -3058,8 +3058,8 @@ title: Woman's Touch: Breast Play 2
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/anita-c-and-elisa-a/movie/20120615/WOMAN_S_TOUCH__BREAST_PLAY_PART_2
-cast: Anita C; https://www.vivthomas.com/model/anita-c; f
-cast: Elisa A; https://www.vivthomas.com/model/elisa-a; f
+model: n:Anita C; id:/model/vivthomas/anita-c; u:https://www.vivthomas.com/model/anita-c; g:f
+model: n:Elisa A; id:/model/vivthomas/elisa-a; u:https://www.vivthomas.com/model/elisa-a; g:f
 released: 2012-06-15
 director:   Viv Thomas
 rating: 9.3
@@ -3115,8 +3115,8 @@ title: Woman's Touch: Breast Play 1
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/suzie-carina-and-tea-j/movie/20120613/WOMAN_S_TOUCH__BREAST_PLAY_PART_1
-cast: Suzie Carina; https://www.vivthomas.com/model/suzie-carina; f
-cast: Tea J; https://www.vivthomas.com/model/tea-j; f
+model: n:Suzie Carina; id:/model/vivthomas/suzie-carina; u:https://www.vivthomas.com/model/suzie-carina; g:f
+model: n:Tea J; id:/model/vivthomas/tea-j; u:https://www.vivthomas.com/model/tea-j; g:f
 released: 2012-06-13
 director:   Viv Thomas
 rating: 9.4
@@ -3169,7 +3169,7 @@ title: Cathy Heaven
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/cathy-heaven/movie/20120603/CATHY_HEAVEN_PART_1
-cast: Cathy Heaven; https://www.vivthomas.com/model/cathy-heaven; f
+model: n:Cathy Heaven; id:/model/vivthomas/cathy-heaven; u:https://www.vivthomas.com/model/cathy-heaven; g:f
 released: 2012-06-03
 director:   Viv Thomas
 rating: 9.3
@@ -3215,8 +3215,8 @@ title: Lisa and Eve Angel
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/eve-angel-and-lisa-c/movie/20120601/LISA_AND_EVE_ANGEL_PART_1
-cast: Eve Angel; https://www.vivthomas.com/model/eve-angel; f
-cast: Lisa C; https://www.vivthomas.com/model/lisa-c; f
+model: n:Eve Angel; id:/model/vivthomas/eve-angel; u:https://www.vivthomas.com/model/eve-angel; g:f
+model: n:Lisa C; id:/model/vivthomas/lisa-c; u:https://www.vivthomas.com/model/lisa-c; g:f
 released: 2012-06-01
 director:   Viv Thomas
 rating: 9.5
@@ -3266,8 +3266,8 @@ title: Bellina and Jamie
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/bellina-a-and-jamie-c/movie/20120530/BELLINA_AND_JAMIE_PART_1
-cast: Bellina A; https://www.vivthomas.com/model/bellina-a; f
-cast: Jamie C; https://www.vivthomas.com/model/jamie-c; f
+model: n:Bellina A; id:/model/vivthomas/bellina-a; u:https://www.vivthomas.com/model/bellina-a; g:f
+model: n:Jamie C; id:/model/vivthomas/jamie-c; u:https://www.vivthomas.com/model/jamie-c; g:f
 released: 2012-05-30
 director:   Viv Thomas
 rating: 9.2
@@ -3313,8 +3313,8 @@ title: Zuzana & Lola
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/zuzana-b-and-lola-a/movie/20120528/ZUZANA_&_LOLA_PART_1
-cast: Zuzana B; https://www.vivthomas.com/model/zuzana-b; f
-cast: Lola A; https://www.vivthomas.com/model/lola-a; f
+model: n:Zuzana B; id:/model/vivthomas/zuzana-b; u:https://www.vivthomas.com/model/zuzana-b; g:f
+model: n:Lola A; id:/model/vivthomas/lola-a; u:https://www.vivthomas.com/model/lola-a; g:f
 released: 2012-05-28
 director:   Viv Thomas
 rating: 9.5
@@ -3364,7 +3364,7 @@ title: Bellina Solo
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/bellina-a/movie/20120526/BELLINA_SOLO_PART_1
-cast: Bellina A; https://www.vivthomas.com/model/bellina-a; f
+model: n:Bellina A; id:/model/vivthomas/bellina-a; u:https://www.vivthomas.com/model/bellina-a; g:f
 released: 2012-05-26
 director:   Viv Thomas
 rating: 9.2
@@ -3405,7 +3405,7 @@ title: Sex Games #5
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/blue-angel/movie/20120430/SEX_GAMES_PART_5
-cast: Blue Angel; https://www.vivthomas.com/model/blue-angel; f
+model: n:Blue Angel; id:/model/vivthomas/blue-angel; u:https://www.vivthomas.com/model/blue-angel; g:f
 released: 2012-04-30
 director:   Viv Thomas
 rating: 9.5
@@ -3455,7 +3455,7 @@ title: Sex Games #4
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/gina-c/movie/20120428/SEX_GAMES_PART_4
-cast: Gina C; https://www.vivthomas.com/model/gina-c; f
+model: n:Gina C; id:/model/vivthomas/gina-c; u:https://www.vivthomas.com/model/gina-c; g:f
 released: 2012-04-28
 director:   Viv Thomas
 rating: 9.4
@@ -3505,7 +3505,7 @@ title: Sex Games #3
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/shay-hendrix/movie/20120426/SEX_GAMES_PART_3
-cast: Shay Hendrix; https://www.vivthomas.com/model/shay-hendrix; f
+model: n:Shay Hendrix; id:/model/vivthomas/shay-hendrix; u:https://www.vivthomas.com/model/shay-hendrix; g:f
 released: 2012-04-26
 director:   Viv Thomas
 rating: 8.9
@@ -3553,7 +3553,7 @@ title: Sex Games #2
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/carmen-croft/movie/20120424/SEX_GAMES_PART_2
-cast: Carmen Croft; https://www.vivthomas.com/model/carmen-croft; f
+model: n:Carmen Croft; id:/model/vivthomas/carmen-croft; u:https://www.vivthomas.com/model/carmen-croft; g:f
 released: 2012-04-24
 director:   Viv Thomas
 rating: 9.2
@@ -3601,7 +3601,7 @@ title: Sex Games #1
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/colette-a/movie/20120422/SEX_GAMES_PART_1
-cast: Colette A; https://www.vivthomas.com/model/colette-a; f
+model: n:Colette A; id:/model/vivthomas/colette-a; u:https://www.vivthomas.com/model/colette-a; g:f
 released: 2012-04-22
 director:   Viv Thomas
 rating: 9.4
@@ -3652,7 +3652,7 @@ title: Heels and Hose #2.4
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/lea-de-mae/movie/20120420/HEELS_AND_HOSE_2_PART_4
-cast: Lea De Mae; https://www.vivthomas.com/model/lea-de-mae; f
+model: n:Lea De Mae; id:/model/vivthomas/lea-de-mae; u:https://www.vivthomas.com/model/lea-de-mae; g:f
 released: 2012-04-20
 director:   Viv Thomas
 rating: 9.0
@@ -3697,7 +3697,7 @@ title: Heels and Hose #2.3
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/miriam-a/movie/20120418/HEELS_AND_HOSE_2_PART_3
-cast: Miriam A; https://www.vivthomas.com/model/miriam-a; f
+model: n:Miriam A; id:/model/vivthomas/miriam-a; u:https://www.vivthomas.com/model/miriam-a; g:f
 released: 2012-04-18
 director:   Viv Thomas
 rating: 9.1
@@ -3745,7 +3745,7 @@ title: Heels and Hose #2.2
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/alissa-a/movie/20120416/HEELS_AND_HOSE_2_PART_2
-cast: Alissa A; https://www.vivthomas.com/model/alissa-a; f
+model: n:Alissa A; id:/model/vivthomas/alissa-a; u:https://www.vivthomas.com/model/alissa-a; g:f
 released: 2012-04-16
 director:   Viv Thomas
 rating: 9.2
@@ -3795,7 +3795,7 @@ title: Heels and Hose #2.1
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/mia-stone/movie/20120414/HEELS_AND_HOSE_2_PART_1
-cast: Mia Stone; https://www.vivthomas.com/model/mia-stone; f
+model: n:Mia Stone; id:/model/vivthomas/mia-stone; u:https://www.vivthomas.com/model/mia-stone; g:f
 released: 2012-04-14
 director:   Viv Thomas
 rating: 9.3
@@ -3838,7 +3838,7 @@ title: Wet and Dripping #6
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/jo/movie/20120412/WET_AND_DRIPPING_PART_6
-cast: Jo; https://www.vivthomas.com/model/jo; f
+model: n:Jo; id:/model/vivthomas/jo; u:https://www.vivthomas.com/model/jo; g:f
 released: 2012-04-12
 director:   Viv Thomas
 rating: 9.4
@@ -3882,7 +3882,7 @@ title: Wet and Dripping #5
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/carmen-croft/movie/20120410/WET_AND_DRIPPING_PART_5
-cast: Carmen Croft; https://www.vivthomas.com/model/carmen-croft; f
+model: n:Carmen Croft; id:/model/vivthomas/carmen-croft; u:https://www.vivthomas.com/model/carmen-croft; g:f
 released: 2012-04-10
 director:   Viv Thomas
 rating: 9.3
@@ -3931,7 +3931,7 @@ title: Wet and Dripping #4
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/eve-angel/movie/20120408/WET_AND_DRIPPING_PART_4
-cast: Eve Angel; https://www.vivthomas.com/model/eve-angel; f
+model: n:Eve Angel; id:/model/vivthomas/eve-angel; u:https://www.vivthomas.com/model/eve-angel; g:f
 released: 2012-04-08
 director:   Viv Thomas
 rating: 9.5
@@ -3975,7 +3975,7 @@ title: Wet and Dripping #3
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/angelina-wild/movie/20120406/WET_AND_DRIPPING_PART_3
-cast: Angelina Wild; https://www.vivthomas.com/model/angelina-wild; f
+model: n:Angelina Wild; id:/model/vivthomas/angelina-wild; u:https://www.vivthomas.com/model/angelina-wild; g:f
 released: 2012-04-06
 director:   Viv Thomas
 rating: 9.2
@@ -4016,7 +4016,7 @@ title: Wet and Dripping #2
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/sunny-diamond/movie/20120404/WET_AND_DRIPPING_PART_2
-cast: Sunny Diamond; https://www.vivthomas.com/model/sunny-diamond; f
+model: n:Sunny Diamond; id:/model/vivthomas/sunny-diamond; u:https://www.vivthomas.com/model/sunny-diamond; g:f
 released: 2012-04-04
 director:   Viv Thomas
 rating: 9.1
@@ -4057,7 +4057,7 @@ title: Wet and Dripping #1
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/nicole-smith/movie/20120402/WET_AND_DRIPPING_PART_1
-cast: Nicole Smith; https://www.vivthomas.com/model/nicole-smith; f
+model: n:Nicole Smith; id:/model/vivthomas/nicole-smith; u:https://www.vivthomas.com/model/nicole-smith; g:f
 released: 2012-04-02
 director:   Viv Thomas
 rating: 9.5
@@ -4110,8 +4110,8 @@ title: Hot Wet Lesbians #5
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/eve-angel-and-sandra-shine/movie/20120325/HOT_WET_LESBIANS_PART_5
-cast: Eve Angel; https://www.vivthomas.com/model/eve-angel; f
-cast: Sandra Shine; https://www.vivthomas.com/model/sandra-shine; f
+model: n:Eve Angel; id:/model/vivthomas/eve-angel; u:https://www.vivthomas.com/model/eve-angel; g:f
+model: n:Sandra Shine; id:/model/vivthomas/sandra-shine; u:https://www.vivthomas.com/model/sandra-shine; g:f
 released: 2012-03-25
 director:   Viv Thomas
 rating: 9.6
@@ -4164,8 +4164,8 @@ title: Hot Wet Lesbians #4
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/michelle-moist-and-shay-hendrix/movie/20120323/HOT_WET_LESBIANS_PART_4
-cast: Michelle Moist; https://www.vivthomas.com/model/michelle-moist; f
-cast: Shay Hendrix; https://www.vivthomas.com/model/shay-hendrix; f
+model: n:Michelle Moist; id:/model/vivthomas/michelle-moist; u:https://www.vivthomas.com/model/michelle-moist; g:f
+model: n:Shay Hendrix; id:/model/vivthomas/shay-hendrix; u:https://www.vivthomas.com/model/shay-hendrix; g:f
 released: 2012-03-23
 director:   Viv Thomas
 rating: 9.1
@@ -4228,8 +4228,8 @@ title: Hot Wet Lesbians #3
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/blue-angel-and-angelina-wild/movie/20120321/HOT_WET_LESBIANS_PART_3
-cast: Blue Angel; https://www.vivthomas.com/model/blue-angel; f
-cast: Angelina Wild; https://www.vivthomas.com/model/angelina-wild; f
+model: n:Blue Angel; id:/model/vivthomas/blue-angel; u:https://www.vivthomas.com/model/blue-angel; g:f
+model: n:Angelina Wild; id:/model/vivthomas/angelina-wild; u:https://www.vivthomas.com/model/angelina-wild; g:f
 released: 2012-03-21
 director:   Viv Thomas
 rating: 9.1
@@ -4283,8 +4283,8 @@ title: Hot Wet Lesbians #2
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/jo-and-vera-a/movie/20120319/HOT_WET_LESBIANS_PART_2
-cast: Jo; https://www.vivthomas.com/model/jo; f
-cast: Vera A; https://www.vivthomas.com/model/vera-a; f
+model: n:Jo; id:/model/vivthomas/jo; u:https://www.vivthomas.com/model/jo; g:f
+model: n:Vera A; id:/model/vivthomas/vera-a; u:https://www.vivthomas.com/model/vera-a; g:f
 released: 2012-03-19
 director:   Viv Thomas
 rating: 9.4
@@ -4337,8 +4337,8 @@ title: Hot Wet Lesbians #1
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/kelly-cat-and-cipriana-a/movie/20120317/HOT_WET_LESBIANS_PART_1
-cast: Kelly Cat; https://www.vivthomas.com/model/kelly-cat; f
-cast: Cipriana A; https://www.vivthomas.com/model/cipriana-a; f
+model: n:Kelly Cat; id:/model/vivthomas/kelly-cat; u:https://www.vivthomas.com/model/kelly-cat; g:f
+model: n:Cipriana A; id:/model/vivthomas/cipriana-a; u:https://www.vivthomas.com/model/cipriana-a; g:f
 released: 2012-03-17
 director:   Viv Thomas
 rating: 9.5
@@ -4394,8 +4394,8 @@ title: Stockings and Lace #5
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/eve-angel-and-colette-a/movie/20120220/STOCKINGS_AND_LACE_PART_5
-cast: Eve Angel; https://www.vivthomas.com/model/eve-angel; f
-cast: Colette A; https://www.vivthomas.com/model/colette-a; f
+model: n:Eve Angel; id:/model/vivthomas/eve-angel; u:https://www.vivthomas.com/model/eve-angel; g:f
+model: n:Colette A; id:/model/vivthomas/colette-a; u:https://www.vivthomas.com/model/colette-a; g:f
 released: 2012-02-20
 director:   Viv Thomas
 rating: 9.5
@@ -4459,8 +4459,8 @@ title: Stockings and Lace #4
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/lexi-lowe-and-cindy-hope/movie/20120218/STOCKINGS_AND_LACE_PART_4
-cast: Lexi Lowe; https://www.vivthomas.com/model/lexi-lowe; f
-cast: Cindy Hope; https://www.vivthomas.com/model/cindy-hope; f
+model: n:Lexi Lowe; id:/model/vivthomas/lexi-lowe; u:https://www.vivthomas.com/model/lexi-lowe; g:f
+model: n:Cindy Hope; id:/model/vivthomas/cindy-hope; u:https://www.vivthomas.com/model/cindy-hope; g:f
 released: 2012-02-18
 director:   Viv Thomas
 rating: 9.4
@@ -4510,8 +4510,8 @@ title: Stockings and Lace #3
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/nesty-a-and-nicole-sweet/movie/20120216/STOCKINGS_AND_LACE_PART_3
-cast: Nesty A; https://www.vivthomas.com/model/nesty-a; f
-cast: Nicole Sweet; https://www.vivthomas.com/model/nicole-sweet; f
+model: n:Nesty A; id:/model/vivthomas/nesty-a; u:https://www.vivthomas.com/model/nesty-a; g:f
+model: n:Nicole Sweet; id:/model/vivthomas/nicole-sweet; u:https://www.vivthomas.com/model/nicole-sweet; g:f
 released: 2012-02-16
 director:   Viv Thomas
 rating: 9.2
@@ -4566,8 +4566,8 @@ title: Stockings and Lace #2
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/vera-a-and-candy-alexa/movie/20120214/STOCKINGS_AND_LACE_PART_2
-cast: Vera A; https://www.vivthomas.com/model/vera-a; f
-cast: Candy Alexa; https://www.vivthomas.com/model/candy-alexa; f
+model: n:Vera A; id:/model/vivthomas/vera-a; u:https://www.vivthomas.com/model/vera-a; g:f
+model: n:Candy Alexa; id:/model/vivthomas/candy-alexa; u:https://www.vivthomas.com/model/candy-alexa; g:f
 released: 2012-02-14
 director:   Viv Thomas
 rating: 9.6
@@ -4623,8 +4623,8 @@ title: Stockings and Lace #1
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/sandra-shine-and-cindy-hope/movie/20120212/STOCKINGS_AND_LACE_PART_1
-cast: Sandra Shine; https://www.vivthomas.com/model/sandra-shine; f
-cast: Cindy Hope; https://www.vivthomas.com/model/cindy-hope; f
+model: n:Sandra Shine; id:/model/vivthomas/sandra-shine; u:https://www.vivthomas.com/model/sandra-shine; g:f
+model: n:Cindy Hope; id:/model/vivthomas/cindy-hope; u:https://www.vivthomas.com/model/cindy-hope; g:f
 released: 2012-02-12
 director:   Viv Thomas
 rating: 9.3
@@ -4691,8 +4691,8 @@ title: Simply The Best #5
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/jo-and-sandra-shine/movie/20120202/SIMPLY_THE_BEST_PART_5
-cast: Jo; https://www.vivthomas.com/model/jo; f
-cast: Sandra Shine; https://www.vivthomas.com/model/sandra-shine; f
+model: n:Jo; id:/model/vivthomas/jo; u:https://www.vivthomas.com/model/jo; g:f
+model: n:Sandra Shine; id:/model/vivthomas/sandra-shine; u:https://www.vivthomas.com/model/sandra-shine; g:f
 released: 2012-02-02
 director:   Viv Thomas
 rating: 9.6
@@ -4750,8 +4750,8 @@ title: Simply The Best #4
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/vera-a-and-eve-angel/movie/20120131/SIMPLY_THE_BEST_PART_4
-cast: Vera A; https://www.vivthomas.com/model/vera-a; f
-cast: Eve Angel; https://www.vivthomas.com/model/eve-angel; f
+model: n:Vera A; id:/model/vivthomas/vera-a; u:https://www.vivthomas.com/model/vera-a; g:f
+model: n:Eve Angel; id:/model/vivthomas/eve-angel; u:https://www.vivthomas.com/model/eve-angel; g:f
 released: 2012-01-31
 director:   Viv Thomas
 rating: 9.5
@@ -4808,8 +4808,8 @@ title: Simply The Best #3
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/sandra-shine-and-antonya-a/movie/20120129/SIMPLY_THE_BEST_PART_3
-cast: Sandra Shine; https://www.vivthomas.com/model/sandra-shine; f
-cast: Antonya A; https://www.vivthomas.com/model/antonya-a; f
+model: n:Sandra Shine; id:/model/vivthomas/sandra-shine; u:https://www.vivthomas.com/model/sandra-shine; g:f
+model: n:Antonya A; id:/model/vivthomas/antonya-a; u:https://www.vivthomas.com/model/antonya-a; g:f
 released: 2012-01-29
 director:   Viv Thomas
 rating: 9.5
@@ -4862,8 +4862,8 @@ title: Simply The Best #2
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/jo-and-eve-angel/movie/20120127/SIMPLY_THE_BEST_PART_2
-cast: Jo; https://www.vivthomas.com/model/jo; f
-cast: Eve Angel; https://www.vivthomas.com/model/eve-angel; f
+model: n:Jo; id:/model/vivthomas/jo; u:https://www.vivthomas.com/model/jo; g:f
+model: n:Eve Angel; id:/model/vivthomas/eve-angel; u:https://www.vivthomas.com/model/eve-angel; g:f
 released: 2012-01-27
 director:   Viv Thomas
 rating: 9.5
@@ -4920,9 +4920,9 @@ title: Simply The Best #1
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/sandra-shine-and-antonya-a-and-vera-a/movie/20120125/SIMPLY_THE_BEST_PART_1
-cast: Sandra Shine; https://www.vivthomas.com/model/sandra-shine; f
-cast: Antonya A; https://www.vivthomas.com/model/antonya-a; f
-cast: Vera A; https://www.vivthomas.com/model/vera-a; f
+model: n:Sandra Shine; id:/model/vivthomas/sandra-shine; u:https://www.vivthomas.com/model/sandra-shine; g:f
+model: n:Antonya A; id:/model/vivthomas/antonya-a; u:https://www.vivthomas.com/model/antonya-a; g:f
+model: n:Vera A; id:/model/vivthomas/vera-a; u:https://www.vivthomas.com/model/vera-a; g:f
 released: 2012-01-25
 director:   Viv Thomas
 rating: 9.5
@@ -4993,7 +4993,7 @@ title: Every Woman Has A Foot Fantasy #3
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/ava-lustra/movie/20120123/LEG_SEX_PART_3
-cast: Ava Lustra; https://www.vivthomas.com/model/ava-lustra; f
+model: n:Ava Lustra; id:/model/vivthomas/ava-lustra; u:https://www.vivthomas.com/model/ava-lustra; g:f
 released: 2012-01-23
 director:   Viv Thomas
 rating: 9.0
@@ -5067,7 +5067,7 @@ title: Every Woman Has A Foot Fantasy #2
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/ava-lustra/movie/20120121/LEG_SEX_PART_2
-cast: Ava Lustra; https://www.vivthomas.com/model/ava-lustra; f
+model: n:Ava Lustra; id:/model/vivthomas/ava-lustra; u:https://www.vivthomas.com/model/ava-lustra; g:f
 released: 2012-01-21
 director:   Viv Thomas
 rating: 9.0
@@ -5123,7 +5123,7 @@ title: Every Woman Has A Foot Fantasy #1
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/ava-lustra/movie/20120119/LEG_SEX_PART_1
-cast: Ava Lustra; https://www.vivthomas.com/model/ava-lustra; f
+model: n:Ava Lustra; id:/model/vivthomas/ava-lustra; u:https://www.vivthomas.com/model/ava-lustra; g:f
 released: 2012-01-19
 director:   Viv Thomas
 rating: 8.7

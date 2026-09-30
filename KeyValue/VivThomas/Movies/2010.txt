@@ -9,8 +9,8 @@ title: Sandy Does Hardcore #5
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/sasha-a-and-sandy-d/movie/20101231/SANDY_DOES_HARDCORE_PART_5
-cast: Sasha A; https://www.vivthomas.com/model/sasha-a; f
-cast: Sandy D; https://www.vivthomas.com/model/sandy-d; f
+model: n:Sasha A; id:/model/vivthomas/sasha-a; u:https://www.vivthomas.com/model/sasha-a; g:f
+model: n:Sandy D; id:/model/vivthomas/sandy-d; u:https://www.vivthomas.com/model/sandy-d; g:f
 released: 2010-12-31
 director:   Viv Thomas
 rating: 9.2
@@ -67,8 +67,8 @@ title: Members Only Vol #2.4
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/missy-nicole-and-liz-honey/movie/20101230/MEMBERS_ONLY_VOL_2_PART_4
-cast: Missy Nicole; https://www.vivthomas.com/model/missy-nicole; f
-cast: Liz Honey; https://www.vivthomas.com/model/liz-honey; f
+model: n:Missy Nicole; id:/model/vivthomas/missy-nicole; u:https://www.vivthomas.com/model/missy-nicole; g:f
+model: n:Liz Honey; id:/model/vivthomas/liz-honey; u:https://www.vivthomas.com/model/liz-honey; g:f
 released: 2010-12-30
 director:   Viv Thomas
 rating: 9.1
@@ -121,8 +121,8 @@ title: Sandy Does Hardcore #4
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/sandy-d-and-rita-faltoyano/movie/20101229/SANDY_DOES_HARDCORE_PART_4
-cast: Sandy D; https://www.vivthomas.com/model/sandy-d; f
-cast: Rita Faltoyano; https://www.vivthomas.com/model/rita-faltoyano; f
+model: n:Sandy D; id:/model/vivthomas/sandy-d; u:https://www.vivthomas.com/model/sandy-d; g:f
+model: n:Rita Faltoyano; id:/model/vivthomas/rita-faltoyano; u:https://www.vivthomas.com/model/rita-faltoyano; g:f
 released: 2010-12-29
 director:   Viv Thomas
 rating: 9.3
@@ -169,8 +169,8 @@ title: Members Only Vol #2.3
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/jasmin-b-and-melissa-a/movie/20101228/MEMBERS_ONLY_VOL_2_PART_3
-cast: Jasmin B; https://www.vivthomas.com/model/jasmin-b; f
-cast: Melissa A; https://www.vivthomas.com/model/melissa-a; f
+model: n:Jasmin B; id:/model/vivthomas/jasmin-b; u:https://www.vivthomas.com/model/jasmin-b; g:f
+model: n:Melissa A; id:/model/vivthomas/melissa-a; u:https://www.vivthomas.com/model/melissa-a; g:f
 released: 2010-12-28
 director:   Viv Thomas
 rating: 8.8
@@ -224,8 +224,8 @@ title: Sandy Does Hardcore #3
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/sandy-d-and-kathy-moore/movie/20101227/SANDY_DOES_HARDCORE_PART_3
-cast: Sandy D; https://www.vivthomas.com/model/sandy-d; f
-cast: Kathy Moore; https://www.vivthomas.com/model/kathy-moore; f
+model: n:Sandy D; id:/model/vivthomas/sandy-d; u:https://www.vivthomas.com/model/sandy-d; g:f
+model: n:Kathy Moore; id:/model/vivthomas/kathy-moore; u:https://www.vivthomas.com/model/kathy-moore; g:f
 released: 2010-12-27
 director:   Viv Thomas
 rating: 9.0
@@ -276,8 +276,8 @@ title: Members Only Vol #2.2
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/valentina-rush-and-kristi-klenot/movie/20101226/MEMBERS_ONLY_VOL_2_PART_2
-cast: Valentina Rush; https://www.vivthomas.com/model/valentina-rush; f
-cast: Kristi Klenot; https://www.vivthomas.com/model/kristi-klenot; f
+model: n:Valentina Rush; id:/model/vivthomas/valentina-rush; u:https://www.vivthomas.com/model/valentina-rush; g:f
+model: n:Kristi Klenot; id:/model/vivthomas/kristi-klenot; u:https://www.vivthomas.com/model/kristi-klenot; g:f
 released: 2010-12-26
 director:   Viv Thomas
 rating: 9.2
@@ -327,8 +327,8 @@ title: Sandy Does Hardcore #2
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/sophie-a-and-sandy-d/movie/20101225/SANDY_DOES_HARDCORE_PART_2
-cast: Sophie A; https://www.vivthomas.com/model/sophie-a; f
-cast: Sandy D; https://www.vivthomas.com/model/sandy-d; f
+model: n:Sophie A; id:/model/vivthomas/sophie-a; u:https://www.vivthomas.com/model/sophie-a; g:f
+model: n:Sandy D; id:/model/vivthomas/sandy-d; u:https://www.vivthomas.com/model/sandy-d; g:f
 released: 2010-12-25
 director:   Viv Thomas
 rating: 9.1
@@ -387,8 +387,8 @@ title: Members Only Vol #2.1
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/daria-glower-and-natalli-deangelo/movie/20101224/MEMBERS_ONLY_VOL_2_PART_1
-cast: Daria Glower; https://www.vivthomas.com/model/daria-glower; f
-cast: Natalli DeAngelo; https://www.vivthomas.com/model/natalli-deangelo; f
+model: n:Daria Glower; id:/model/vivthomas/daria-glower; u:https://www.vivthomas.com/model/daria-glower; g:f
+model: n:Natalli DeAngelo; id:/model/vivthomas/natalli-deangelo; u:https://www.vivthomas.com/model/natalli-deangelo; g:f
 released: 2010-12-24
 director:   Viv Thomas
 rating: 9.0
@@ -449,8 +449,8 @@ title: Sandy Does Hardcore #1
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/suzy-a-and-sandy-d/movie/20101223/SANDY_DOES_HARDCORE_PART_1
-cast: Suzy A; https://www.vivthomas.com/model/suzy-a; f
-cast: Sandy D; https://www.vivthomas.com/model/sandy-d; f
+model: n:Suzy A; id:/model/vivthomas/suzy-a; u:https://www.vivthomas.com/model/suzy-a; g:f
+model: n:Sandy D; id:/model/vivthomas/sandy-d; u:https://www.vivthomas.com/model/sandy-d; g:f
 released: 2010-12-23
 director:   Viv Thomas
 rating: 9.0
@@ -503,14 +503,14 @@ title: Mums and Daughters #2.3
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/antonya-a-and-elle-a-and-sasha-b-and-nikita-d-and-blue-angel-and-sonia-red-and-jenny-m-and-natalia-forrest/movie/20101222/MUMS_AND_DAUGHTERS_2_PART_3
-cast: Antonya A; https://www.vivthomas.com/model/antonya-a; f
-cast: Elle A; https://www.vivthomas.com/model/elle-a; f
-cast: Sasha B; https://www.vivthomas.com/model/sasha-b; f
-cast: Nikita D; https://www.vivthomas.com/model/nikita-d; f
-cast: Blue Angel; https://www.vivthomas.com/model/blue-angel; f
-cast: Sonia Red; https://www.vivthomas.com/model/sonia-red; f
-cast: Jenny M; https://www.vivthomas.com/model/jenny-m; f
-cast: Natalia Forrest; https://www.vivthomas.com/model/natalia-forrest; f
+model: n:Antonya A; id:/model/vivthomas/antonya-a; u:https://www.vivthomas.com/model/antonya-a; g:f
+model: n:Elle A; id:/model/vivthomas/elle-a; u:https://www.vivthomas.com/model/elle-a; g:f
+model: n:Sasha B; id:/model/vivthomas/sasha-b; u:https://www.vivthomas.com/model/sasha-b; g:f
+model: n:Nikita D; id:/model/vivthomas/nikita-d; u:https://www.vivthomas.com/model/nikita-d; g:f
+model: n:Blue Angel; id:/model/vivthomas/blue-angel; u:https://www.vivthomas.com/model/blue-angel; g:f
+model: n:Sonia Red; id:/model/vivthomas/sonia-red; u:https://www.vivthomas.com/model/sonia-red; g:f
+model: n:Jenny M; id:/model/vivthomas/jenny-m; u:https://www.vivthomas.com/model/jenny-m; g:f
+model: n:Natalia Forrest; id:/model/vivthomas/natalia-forrest; u:https://www.vivthomas.com/model/natalia-forrest; g:f
 released: 2010-12-22
 director:   Viv Thomas
 rating: 9.2
@@ -604,9 +604,9 @@ title: Mums and Daughters #2.2
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/sonia-red-and-blue-angel-and-zoe-b/movie/20101220/MUMS_AND_DAUGHTERS_2_PART_2
-cast: Sonia Red; https://www.vivthomas.com/model/sonia-red; f
-cast: Blue Angel; https://www.vivthomas.com/model/blue-angel; f
-cast: Zoe B; https://www.vivthomas.com/model/zoe-b; f
+model: n:Sonia Red; id:/model/vivthomas/sonia-red; u:https://www.vivthomas.com/model/sonia-red; g:f
+model: n:Blue Angel; id:/model/vivthomas/blue-angel; u:https://www.vivthomas.com/model/blue-angel; g:f
+model: n:Zoe B; id:/model/vivthomas/zoe-b; u:https://www.vivthomas.com/model/zoe-b; g:f
 released: 2010-12-20
 director:   Viv Thomas
 rating: 9.2
@@ -681,11 +681,11 @@ title: Mums and Daughters #2.1
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/laetitia-a-and-dorothy-black-and-cj-a-and-zara-a-and-kia-winston/movie/20101218/MUMS_AND_DAUGHTERS_2_PART_1
-cast: Laetitia A; https://www.vivthomas.com/model/laetitia-a; f
-cast: Dorothy Black; https://www.vivthomas.com/model/dorothy-black; f
-cast: CJ A; https://www.vivthomas.com/model/cj-a; f
-cast: Zara A; https://www.vivthomas.com/model/zara-a; f
-cast: Kia Winston; https://www.vivthomas.com/model/kia-winston; f
+model: n:Laetitia A; id:/model/vivthomas/laetitia-a; u:https://www.vivthomas.com/model/laetitia-a; g:f
+model: n:Dorothy Black; id:/model/vivthomas/dorothy-black; u:https://www.vivthomas.com/model/dorothy-black; g:f
+model: n:CJ A; id:/model/vivthomas/cj-a; u:https://www.vivthomas.com/model/cj-a; g:f
+model: n:Zara A; id:/model/vivthomas/zara-a; u:https://www.vivthomas.com/model/zara-a; g:f
+model: n:Kia Winston; id:/model/vivthomas/kia-winston; u:https://www.vivthomas.com/model/kia-winston; g:f
 released: 2010-12-18
 director:   Viv Thomas
 rating: 9.4
@@ -762,9 +762,9 @@ title: Sirens #5
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/demi-a-and-nella-a-and-zoe-b/movie/20101211/SIRENS_PART_5
-cast: Demi A; https://www.vivthomas.com/model/demi-a; f
-cast: Nella A; https://www.vivthomas.com/model/nella-a; f
-cast: Zoe B; https://www.vivthomas.com/model/zoe-b; f
+model: n:Demi A; id:/model/vivthomas/demi-a; u:https://www.vivthomas.com/model/demi-a; g:f
+model: n:Nella A; id:/model/vivthomas/nella-a; u:https://www.vivthomas.com/model/nella-a; g:f
+model: n:Zoe B; id:/model/vivthomas/zoe-b; u:https://www.vivthomas.com/model/zoe-b; g:f
 released: 2010-12-11
 director:   Viv Thomas
 rating: 9.3
@@ -825,8 +825,8 @@ title: Sirens #4
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/lola-c-and-zafira-a/movie/20101209/SIRENS_PART_4
-cast: Lola C; https://www.vivthomas.com/model/lola-c; f
-cast: Zafira A; https://www.vivthomas.com/model/zafira-a; f
+model: n:Lola C; id:/model/vivthomas/lola-c; u:https://www.vivthomas.com/model/lola-c; g:f
+model: n:Zafira A; id:/model/vivthomas/zafira-a; u:https://www.vivthomas.com/model/zafira-a; g:f
 released: 2010-12-09
 director:   Viv Thomas
 rating: 9.4
@@ -882,8 +882,8 @@ title: Sirens #3
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/nella-a-and-zafira-a/movie/20101207/SIRENS_PART_3
-cast: Nella A; https://www.vivthomas.com/model/nella-a; f
-cast: Zafira A; https://www.vivthomas.com/model/zafira-a; f
+model: n:Nella A; id:/model/vivthomas/nella-a; u:https://www.vivthomas.com/model/nella-a; g:f
+model: n:Zafira A; id:/model/vivthomas/zafira-a; u:https://www.vivthomas.com/model/zafira-a; g:f
 released: 2010-12-07
 director:   Viv Thomas
 rating: 9.5
@@ -929,11 +929,11 @@ title: Summer 2010 #1
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/blue-angel-and-brandy-smile-and-sandra-shine-and-vera-a-and-jo/movie/20101207/SUMMER_2010_PART_1
-cast: Blue Angel; https://www.vivthomas.com/model/blue-angel; f
-cast: Brandy Smile; https://www.vivthomas.com/model/brandy-smile; f
-cast: Sandra Shine; https://www.vivthomas.com/model/sandra-shine; f
-cast: Vera A; https://www.vivthomas.com/model/vera-a; f
-cast: Jo; https://www.vivthomas.com/model/jo; f
+model: n:Blue Angel; id:/model/vivthomas/blue-angel; u:https://www.vivthomas.com/model/blue-angel; g:f
+model: n:Brandy Smile; id:/model/vivthomas/brandy-smile; u:https://www.vivthomas.com/model/brandy-smile; g:f
+model: n:Sandra Shine; id:/model/vivthomas/sandra-shine; u:https://www.vivthomas.com/model/sandra-shine; g:f
+model: n:Vera A; id:/model/vivthomas/vera-a; u:https://www.vivthomas.com/model/vera-a; g:f
+model: n:Jo; id:/model/vivthomas/jo; u:https://www.vivthomas.com/model/jo; g:f
 released: 2010-12-07
 director:   Viv Thomas
 rating: 9.4
@@ -986,9 +986,9 @@ title: Sirens #2
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/zoe-b-and-vanessa-h-and-lola-c/movie/20101205/SIRENS_PART_2
-cast: Zoe B; https://www.vivthomas.com/model/zoe-b; f
-cast: Vanessa H; https://www.vivthomas.com/model/vanessa-h; f
-cast: Lola C; https://www.vivthomas.com/model/lola-c; f
+model: n:Zoe B; id:/model/vivthomas/zoe-b; u:https://www.vivthomas.com/model/zoe-b; g:f
+model: n:Vanessa H; id:/model/vivthomas/vanessa-h; u:https://www.vivthomas.com/model/vanessa-h; g:f
+model: n:Lola C; id:/model/vivthomas/lola-c; u:https://www.vivthomas.com/model/lola-c; g:f
 released: 2010-12-05
 director:   Viv Thomas
 rating: 9.4
@@ -1044,8 +1044,8 @@ title: Sirens #1
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/lola-c-and-nella-a/movie/20101203/SIRENS_PART_1
-cast: Lola C; https://www.vivthomas.com/model/lola-c; f
-cast: Nella A; https://www.vivthomas.com/model/nella-a; f
+model: n:Lola C; id:/model/vivthomas/lola-c; u:https://www.vivthomas.com/model/lola-c; g:f
+model: n:Nella A; id:/model/vivthomas/nella-a; u:https://www.vivthomas.com/model/nella-a; g:f
 released: 2010-12-03
 director:   Viv Thomas
 rating: 9.5
@@ -1104,8 +1104,8 @@ title: Sandy's Fantasies #2.6
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/cindy-a-and-sandy-d/movie/20101201/SANDY_S_FANTASIES_2_PART_6
-cast: Cindy A; https://www.vivthomas.com/model/cindy-a; f
-cast: Sandy D; https://www.vivthomas.com/model/sandy-d; f
+model: n:Cindy A; id:/model/vivthomas/cindy-a; u:https://www.vivthomas.com/model/cindy-a; g:f
+model: n:Sandy D; id:/model/vivthomas/sandy-d; u:https://www.vivthomas.com/model/sandy-d; g:f
 released: 2010-12-01
 director:   Viv Thomas
 rating: 9.1
@@ -1168,7 +1168,7 @@ title: Sandy's Fantasies #2.5
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/greta-a/movie/20101129/SANDY_S_FANTASIES_2_PART_5
-cast: Greta A; https://www.vivthomas.com/model/greta-a; f
+model: n:Greta A; id:/model/vivthomas/greta-a; u:https://www.vivthomas.com/model/greta-a; g:f
 released: 2010-11-29
 director:   Viv Thomas
 rating: 9.1
@@ -1226,8 +1226,8 @@ title: Sandy's Fantasies #2.4
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/sandy-d-and-casey-t/movie/20101127/SANDY_S_FANTASIES_2_PART_4
-cast: Sandy D; https://www.vivthomas.com/model/sandy-d; f
-cast: Casey T; https://www.vivthomas.com/model/casey-t; f
+model: n:Sandy D; id:/model/vivthomas/sandy-d; u:https://www.vivthomas.com/model/sandy-d; g:f
+model: n:Casey T; id:/model/vivthomas/casey-t; u:https://www.vivthomas.com/model/casey-t; g:f
 released: 2010-11-27
 director:   Viv Thomas
 rating: 9.0
@@ -1277,8 +1277,8 @@ title: Sandy's Fantasies #2.3
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/greta-a-and-sandy-d/movie/20101125/SANDY_S_FANTASIES_2_PART_3
-cast: Greta A; https://www.vivthomas.com/model/greta-a; f
-cast: Sandy D; https://www.vivthomas.com/model/sandy-d; f
+model: n:Greta A; id:/model/vivthomas/greta-a; u:https://www.vivthomas.com/model/greta-a; g:f
+model: n:Sandy D; id:/model/vivthomas/sandy-d; u:https://www.vivthomas.com/model/sandy-d; g:f
 released: 2010-11-25
 director:   Viv Thomas
 rating: 9.1
@@ -1325,8 +1325,8 @@ title: Sandy's Fantasies #2.2
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/laura-c-and-sandy-d/movie/20101123/SANDY_S_FANTASIES_2_PART_2
-cast: Laura C; https://www.vivthomas.com/model/laura-c; f
-cast: Sandy D; https://www.vivthomas.com/model/sandy-d; f
+model: n:Laura C; id:/model/vivthomas/laura-c; u:https://www.vivthomas.com/model/laura-c; g:f
+model: n:Sandy D; id:/model/vivthomas/sandy-d; u:https://www.vivthomas.com/model/sandy-d; g:f
 released: 2010-11-23
 director:   Viv Thomas
 rating: 9.0
@@ -1390,8 +1390,8 @@ title: Sandy's Fantasies #2.1
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/greta-a-and-sandy-d/movie/20101121/SANDY_S_FANTASIES_2_PART_1
-cast: Greta A; https://www.vivthomas.com/model/greta-a; f
-cast: Sandy D; https://www.vivthomas.com/model/sandy-d; f
+model: n:Greta A; id:/model/vivthomas/greta-a; u:https://www.vivthomas.com/model/greta-a; g:f
+model: n:Sandy D; id:/model/vivthomas/sandy-d; u:https://www.vivthomas.com/model/sandy-d; g:f
 released: 2010-11-21
 director:   Viv Thomas
 rating: 8.9
@@ -1445,8 +1445,8 @@ title: Bonus - Art of Kissing 3 Extras 1
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/victoria-kruz-and-gina-e/movie/20101110/BONUS_-_ART_OF_KISSING_3_EXTRAS_1
-cast: Victoria Kruz; https://www.vivthomas.com/model/victoria-kruz; f
-cast: Gina E; https://www.vivthomas.com/model/gina-e; f
+model: n:Victoria Kruz; id:/model/vivthomas/victoria-kruz; u:https://www.vivthomas.com/model/victoria-kruz; g:f
+model: n:Gina E; id:/model/vivthomas/gina-e; u:https://www.vivthomas.com/model/gina-e; g:f
 released: 2010-11-10
 director:   Viv Thomas
 rating: 9.4
@@ -1479,8 +1479,8 @@ title: No Fear in Love #4
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/natalia-forrest-and-sonia-red/movie/20101107/NO_FEAR_IN_LOVE_PART_4
-cast: Natalia Forrest; https://www.vivthomas.com/model/natalia-forrest; f
-cast: Sonia Red; https://www.vivthomas.com/model/sonia-red; f
+model: n:Natalia Forrest; id:/model/vivthomas/natalia-forrest; u:https://www.vivthomas.com/model/natalia-forrest; g:f
+model: n:Sonia Red; id:/model/vivthomas/sonia-red; u:https://www.vivthomas.com/model/sonia-red; g:f
 released: 2010-11-07
 director:   Viv Thomas
 rating: 9.3
@@ -1549,8 +1549,8 @@ title: No Fear in Love #3
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/zoe-b-and-jenny-m/movie/20101105/NO_FEAR_IN_LOVE_PART_3
-cast: Zoe B; https://www.vivthomas.com/model/zoe-b; f
-cast: Jenny M; https://www.vivthomas.com/model/jenny-m; f
+model: n:Zoe B; id:/model/vivthomas/zoe-b; u:https://www.vivthomas.com/model/zoe-b; g:f
+model: n:Jenny M; id:/model/vivthomas/jenny-m; u:https://www.vivthomas.com/model/jenny-m; g:f
 released: 2010-11-05
 director:   Viv Thomas
 rating: 9.4
@@ -1603,8 +1603,8 @@ title: No Fear in Love #2
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/blue-angel-and-nikita-d/movie/20101103/NO_FEAR_IN_LOVE_PART_2
-cast: Blue Angel; https://www.vivthomas.com/model/blue-angel; f
-cast: Nikita D; https://www.vivthomas.com/model/nikita-d; f
+model: n:Blue Angel; id:/model/vivthomas/blue-angel; u:https://www.vivthomas.com/model/blue-angel; g:f
+model: n:Nikita D; id:/model/vivthomas/nikita-d; u:https://www.vivthomas.com/model/nikita-d; g:f
 released: 2010-11-03
 director:   Viv Thomas
 rating: 9.4
@@ -1641,8 +1641,8 @@ title: No Fear in Love #1
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/sonia-red-and-lucie-b/movie/20101101/NO_FEAR_IN_LOVE_PART_1
-cast: Sonia Red; https://www.vivthomas.com/model/sonia-red; f
-cast: Lucie B; https://www.vivthomas.com/model/lucie-b; f
+model: n:Sonia Red; id:/model/vivthomas/sonia-red; u:https://www.vivthomas.com/model/sonia-red; g:f
+model: n:Lucie B; id:/model/vivthomas/lucie-b; u:https://www.vivthomas.com/model/lucie-b; g:f
 released: 2010-11-01
 director:   Viv Thomas
 rating: 9.3
@@ -1680,9 +1680,9 @@ title: My Mum's Best Friend #6
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/natalia-forrest-and-marlyn-a-and-natalie-d/movie/20101018/MY_MUM_S_BEST_FRIEND_PART_6
-cast: Natalia Forrest; https://www.vivthomas.com/model/natalia-forrest; f
-cast: Marlyn A; https://www.vivthomas.com/model/marlyn-a; f
-cast: Natalie D; https://www.vivthomas.com/model/natalie-d; f
+model: n:Natalia Forrest; id:/model/vivthomas/natalia-forrest; u:https://www.vivthomas.com/model/natalia-forrest; g:f
+model: n:Marlyn A; id:/model/vivthomas/marlyn-a; u:https://www.vivthomas.com/model/marlyn-a; g:f
+model: n:Natalie D; id:/model/vivthomas/natalie-d; u:https://www.vivthomas.com/model/natalie-d; g:f
 released: 2010-10-18
 director:   Viv Thomas
 rating: 9.2
@@ -1722,8 +1722,8 @@ title: My Mum's Best Friend #5
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/cate-harrington-and-natalie-d/movie/20101016/MY_MUM_S_BEST_FRIEND_PART_5
-cast: Cate Harrington; https://www.vivthomas.com/model/cate-harrington; f
-cast: Natalie D; https://www.vivthomas.com/model/natalie-d; f
+model: n:Cate Harrington; id:/model/vivthomas/cate-harrington; u:https://www.vivthomas.com/model/cate-harrington; g:f
+model: n:Natalie D; id:/model/vivthomas/natalie-d; u:https://www.vivthomas.com/model/natalie-d; g:f
 released: 2010-10-16
 director:   Viv Thomas
 rating: 9.0
@@ -1764,8 +1764,8 @@ title: No Fear in Love Extras 2
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/sonia-red-and-lucie-b/movie/20101015/NO_FEAR_IN_LOVE_EXTRAS_2
-cast: Sonia Red; https://www.vivthomas.com/model/sonia-red; f
-cast: Lucie B; https://www.vivthomas.com/model/lucie-b; f
+model: n:Sonia Red; id:/model/vivthomas/sonia-red; u:https://www.vivthomas.com/model/sonia-red; g:f
+model: n:Lucie B; id:/model/vivthomas/lucie-b; u:https://www.vivthomas.com/model/lucie-b; g:f
 released: 2010-10-15
 director:   Viv Thomas
 rating: 9.0
@@ -1792,8 +1792,8 @@ title: My Mum's Best Friend #4
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/cate-harrington-and-sally-a/movie/20101014/MY_MUM_S_BEST_FRIEND_PART_4
-cast: Cate Harrington; https://www.vivthomas.com/model/cate-harrington; f
-cast: Sally A; https://www.vivthomas.com/model/sally-a; f
+model: n:Cate Harrington; id:/model/vivthomas/cate-harrington; u:https://www.vivthomas.com/model/cate-harrington; g:f
+model: n:Sally A; id:/model/vivthomas/sally-a; u:https://www.vivthomas.com/model/sally-a; g:f
 released: 2010-10-14
 director:   Viv Thomas
 rating: 9.1
@@ -1832,8 +1832,8 @@ title: My Mum's Best Friend #3
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/marlyn-a-and-sally-a/movie/20101012/MY_MUM_S_BEST_FRIEND_PART_3
-cast: Marlyn A; https://www.vivthomas.com/model/marlyn-a; f
-cast: Sally A; https://www.vivthomas.com/model/sally-a; f
+model: n:Marlyn A; id:/model/vivthomas/marlyn-a; u:https://www.vivthomas.com/model/marlyn-a; g:f
+model: n:Sally A; id:/model/vivthomas/sally-a; u:https://www.vivthomas.com/model/sally-a; g:f
 released: 2010-10-12
 director:   Viv Thomas
 rating: 9.2
@@ -1873,8 +1873,8 @@ title: My Mum's Best Friend #2
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/cate-harrington-and-natalia-forrest/movie/20101010/MY_MUM_S_BEST_FRIEND_PART_2
-cast: Cate Harrington; https://www.vivthomas.com/model/cate-harrington; f
-cast: Natalia Forrest; https://www.vivthomas.com/model/natalia-forrest; f
+model: n:Cate Harrington; id:/model/vivthomas/cate-harrington; u:https://www.vivthomas.com/model/cate-harrington; g:f
+model: n:Natalia Forrest; id:/model/vivthomas/natalia-forrest; u:https://www.vivthomas.com/model/natalia-forrest; g:f
 released: 2010-10-10
 director:   Viv Thomas
 rating: 9.4
@@ -1914,8 +1914,8 @@ title: My Mum's Best Friend #1
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/sally-a-and-natalie-d/movie/20101008/MY_MUM_S_BEST_FRIEND_PART_1
-cast: Sally A; https://www.vivthomas.com/model/sally-a; f
-cast: Natalie D; https://www.vivthomas.com/model/natalie-d; f
+model: n:Sally A; id:/model/vivthomas/sally-a; u:https://www.vivthomas.com/model/sally-a; g:f
+model: n:Natalie D; id:/model/vivthomas/natalie-d; u:https://www.vivthomas.com/model/natalie-d; g:f
 released: 2010-10-08
 director:   Viv Thomas
 rating: 9.0
@@ -1950,8 +1950,8 @@ title: Secrets #3.5
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/brandy-smile-and-blue-angel/movie/20101006/SECRETS_VOL._3_PART_5
-cast: Brandy Smile; https://www.vivthomas.com/model/brandy-smile; f
-cast: Blue Angel; https://www.vivthomas.com/model/blue-angel; f
+model: n:Brandy Smile; id:/model/vivthomas/brandy-smile; u:https://www.vivthomas.com/model/brandy-smile; g:f
+model: n:Blue Angel; id:/model/vivthomas/blue-angel; u:https://www.vivthomas.com/model/blue-angel; g:f
 released: 2010-10-06
 director:   Viv Thomas
 rating: 9.1
@@ -1986,8 +1986,8 @@ title: Secrets #3.4
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/cindy-hope-and-keni-styles/movie/20101004/SECRETS_VOL._3_PART_4
-cast: Cindy Hope; https://www.vivthomas.com/model/cindy-hope; f
-cast: Keni Styles; https://www.vivthomas.com/model/keni-styles; f
+model: n:Cindy Hope; id:/model/vivthomas/cindy-hope; u:https://www.vivthomas.com/model/cindy-hope; g:f
+model: n:Keni Styles; id:/model/vivthomas/keni-styles; u:https://www.vivthomas.com/model/keni-styles; g:f
 released: 2010-10-04
 director:   Viv Thomas
 rating: 9.2
@@ -2024,7 +2024,7 @@ title: Secrets #3.3
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/simony-diamond/movie/20101002/SECRETS_VOL._3_PART_3
-cast: Simony Diamond; https://www.vivthomas.com/model/simony-diamond; f
+model: n:Simony Diamond; id:/model/vivthomas/simony-diamond; u:https://www.vivthomas.com/model/simony-diamond; g:f
 released: 2010-10-02
 director:   Viv Thomas
 rating: 8.9
@@ -2061,8 +2061,8 @@ title: Secrets #3.2
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/cindy-hope-and-sandra-shine/movie/20100930/SECRETS_VOL._3_PART_2
-cast: Cindy Hope; https://www.vivthomas.com/model/cindy-hope; f
-cast: Sandra Shine; https://www.vivthomas.com/model/sandra-shine; f
+model: n:Cindy Hope; id:/model/vivthomas/cindy-hope; u:https://www.vivthomas.com/model/cindy-hope; g:f
+model: n:Sandra Shine; id:/model/vivthomas/sandra-shine; u:https://www.vivthomas.com/model/sandra-shine; g:f
 released: 2010-09-30
 director:   Viv Thomas
 rating: 9.4
@@ -2100,7 +2100,7 @@ title: Secrets #3.1
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/bailey-a/movie/20100928/SECRETS_VOL._3_PART_1
-cast: Bailey A; https://www.vivthomas.com/model/bailey-a; f
+model: n:Bailey A; id:/model/vivthomas/bailey-a; u:https://www.vivthomas.com/model/bailey-a; g:f
 released: 2010-09-28
 director:   Viv Thomas
 rating: 9.2
@@ -2139,8 +2139,8 @@ title: Sandys Holiday Sex Fantasies #3
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/sophie-a-and-sandy-d/movie/20100926/SANDYS_HOLIDAY_SEX_FANTASIES_PART_3
-cast: Sophie A; https://www.vivthomas.com/model/sophie-a; f
-cast: Sandy D; https://www.vivthomas.com/model/sandy-d; f
+model: n:Sophie A; id:/model/vivthomas/sophie-a; u:https://www.vivthomas.com/model/sophie-a; g:f
+model: n:Sandy D; id:/model/vivthomas/sandy-d; u:https://www.vivthomas.com/model/sandy-d; g:f
 released: 2010-09-26
 director:   Viv Thomas
 rating: 9.1
@@ -2163,8 +2163,8 @@ title: Sandys Holiday Sex Fantasies #2
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/tina-a-and-sandy-d/movie/20100924/SANDYS_HOLIDAY_SEX_FANTASIES_PART_2
-cast: Tina A; https://www.vivthomas.com/model/tina-a; f
-cast: Sandy D; https://www.vivthomas.com/model/sandy-d; f
+model: n:Tina A; id:/model/vivthomas/tina-a; u:https://www.vivthomas.com/model/tina-a; g:f
+model: n:Sandy D; id:/model/vivthomas/sandy-d; u:https://www.vivthomas.com/model/sandy-d; g:f
 released: 2010-09-24
 director:   Viv Thomas
 rating: 8.9
@@ -2188,8 +2188,8 @@ title: Sandys Holiday Sex Fantasies #1
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/hannah-b-and-sandy-d/movie/20100922/SANDYS_HOLIDAY_SEX_FANTASIES_PART_1
-cast: Hannah B; https://www.vivthomas.com/model/hannah-b; f
-cast: Sandy D; https://www.vivthomas.com/model/sandy-d; f
+model: n:Hannah B; id:/model/vivthomas/hannah-b; u:https://www.vivthomas.com/model/hannah-b; g:f
+model: n:Sandy D; id:/model/vivthomas/sandy-d; u:https://www.vivthomas.com/model/sandy-d; g:f
 released: 2010-09-22
 director:   Viv Thomas
 rating: 9.1
@@ -2209,7 +2209,7 @@ title: Hot Slots #2.7
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/vanessa-h/movie/20100920/HOT_SLOTS_2_PART_7
-cast: Vanessa H; https://www.vivthomas.com/model/vanessa-h; f
+model: n:Vanessa H; id:/model/vivthomas/vanessa-h; u:https://www.vivthomas.com/model/vanessa-h; g:f
 released: 2010-09-20
 director:   Viv Thomas
 rating: 9.1
@@ -2246,8 +2246,8 @@ title: Hot Slots #2.6
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/demi-a-and-zafira-a/movie/20100918/HOT_SLOTS_2_PART_6
-cast: Demi A; https://www.vivthomas.com/model/demi-a; f
-cast: Zafira A; https://www.vivthomas.com/model/zafira-a; f
+model: n:Demi A; id:/model/vivthomas/demi-a; u:https://www.vivthomas.com/model/demi-a; g:f
+model: n:Zafira A; id:/model/vivthomas/zafira-a; u:https://www.vivthomas.com/model/zafira-a; g:f
 released: 2010-09-18
 director:   Viv Thomas
 rating: 9.1
@@ -2283,8 +2283,8 @@ title: Hot Slots #2.5
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/zoe-b-and-lola-c/movie/20100916/HOT_SLOTS_2_PART_5
-cast: Zoe B; https://www.vivthomas.com/model/zoe-b; f
-cast: Lola C; https://www.vivthomas.com/model/lola-c; f
+model: n:Zoe B; id:/model/vivthomas/zoe-b; u:https://www.vivthomas.com/model/zoe-b; g:f
+model: n:Lola C; id:/model/vivthomas/lola-c; u:https://www.vivthomas.com/model/lola-c; g:f
 released: 2010-09-16
 director:   Viv Thomas
 rating: 9.3
@@ -2321,8 +2321,8 @@ title: Hot Slots #2.4
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/zafira-a-and-zoe-b/movie/20100914/HOT_SLOTS_2_PART_4
-cast: Zafira A; https://www.vivthomas.com/model/zafira-a; f
-cast: Zoe B; https://www.vivthomas.com/model/zoe-b; f
+model: n:Zafira A; id:/model/vivthomas/zafira-a; u:https://www.vivthomas.com/model/zafira-a; g:f
+model: n:Zoe B; id:/model/vivthomas/zoe-b; u:https://www.vivthomas.com/model/zoe-b; g:f
 released: 2010-09-14
 director:   Viv Thomas
 rating: 9.2
@@ -2361,8 +2361,8 @@ title: Hot Slots #2.3
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/zafira-a-and-nella-a/movie/20100912/HOT_SLOTS_2_PART_3
-cast: Zafira A; https://www.vivthomas.com/model/zafira-a; f
-cast: Nella A; https://www.vivthomas.com/model/nella-a; f
+model: n:Zafira A; id:/model/vivthomas/zafira-a; u:https://www.vivthomas.com/model/zafira-a; g:f
+model: n:Nella A; id:/model/vivthomas/nella-a; u:https://www.vivthomas.com/model/nella-a; g:f
 released: 2010-09-12
 director:   Viv Thomas
 rating: 9.4
@@ -2402,8 +2402,8 @@ title: Hot Slots #2.2
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/vanessa-h-and-lola-c/movie/20100910/HOT_SLOTS_2_PART_2
-cast: Vanessa H; https://www.vivthomas.com/model/vanessa-h; f
-cast: Lola C; https://www.vivthomas.com/model/lola-c; f
+model: n:Vanessa H; id:/model/vivthomas/vanessa-h; u:https://www.vivthomas.com/model/vanessa-h; g:f
+model: n:Lola C; id:/model/vivthomas/lola-c; u:https://www.vivthomas.com/model/lola-c; g:f
 released: 2010-09-10
 director:   Viv Thomas
 rating: 9.3
@@ -2441,8 +2441,8 @@ title: Hot Slots #2.1
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/demi-a-and-vanessa-h/movie/20100908/HOT_SLOTS_2_PART_1
-cast: Demi A; https://www.vivthomas.com/model/demi-a; f
-cast: Vanessa H; https://www.vivthomas.com/model/vanessa-h; f
+model: n:Demi A; id:/model/vivthomas/demi-a; u:https://www.vivthomas.com/model/demi-a; g:f
+model: n:Vanessa H; id:/model/vivthomas/vanessa-h; u:https://www.vivthomas.com/model/vanessa-h; g:f
 released: 2010-09-08
 director:   Viv Thomas
 rating: 9.0
@@ -2485,7 +2485,7 @@ title: Babes from Budapest #7
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/monica-a/movie/20100906/BABES_FROM_BUDAPEST_PART_7
-cast: Monica A; https://www.vivthomas.com/model/monica-a; f
+model: n:Monica A; id:/model/vivthomas/monica-a; u:https://www.vivthomas.com/model/monica-a; g:f
 released: 2010-09-06
 director:   Viv Thomas
 rating: 8.9
@@ -2521,7 +2521,7 @@ title: Babes from Budapest #6
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/vera-a/movie/20100904/BABES_FROM_BUDAPEST_PART_6
-cast: Vera A; https://www.vivthomas.com/model/vera-a; f
+model: n:Vera A; id:/model/vivthomas/vera-a; u:https://www.vivthomas.com/model/vera-a; g:f
 released: 2010-09-04
 director:   Viv Thomas
 rating: 8.7
@@ -2562,7 +2562,7 @@ title: Babes from Budapest #5
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/monica-a/movie/20100902/BABES_FROM_BUDAPEST_PART_5
-cast: Monica A; https://www.vivthomas.com/model/monica-a; f
+model: n:Monica A; id:/model/vivthomas/monica-a; u:https://www.vivthomas.com/model/monica-a; g:f
 released: 2010-09-02
 director:   Viv Thomas
 rating: 9.1
@@ -2596,7 +2596,7 @@ title: Babes from Budapest #4
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/sophie-paris/movie/20100831/BABES_FROM_BUDAPEST_PART_4
-cast: Sophie Paris; https://www.vivthomas.com/model/sophie-paris; f
+model: n:Sophie Paris; id:/model/vivthomas/sophie-paris; u:https://www.vivthomas.com/model/sophie-paris; g:f
 released: 2010-08-31
 director:   Viv Thomas
 rating: 8.5
@@ -2635,7 +2635,7 @@ title: Babes from Budapest #3
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/sophie-paris/movie/20100829/BABES_FROM_BUDAPEST_PART_3
-cast: Sophie Paris; https://www.vivthomas.com/model/sophie-paris; f
+model: n:Sophie Paris; id:/model/vivthomas/sophie-paris; u:https://www.vivthomas.com/model/sophie-paris; g:f
 released: 2010-08-29
 director:   Viv Thomas
 rating: 8.6
@@ -2672,8 +2672,8 @@ title: Babes from Budapest #2
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/estelle-a-and-vera-a/movie/20100827/BABES_FROM_BUDAPEST_PART_2
-cast: Estelle A; https://www.vivthomas.com/model/estelle-a; f
-cast: Vera A; https://www.vivthomas.com/model/vera-a; f
+model: n:Estelle A; id:/model/vivthomas/estelle-a; u:https://www.vivthomas.com/model/estelle-a; g:f
+model: n:Vera A; id:/model/vivthomas/vera-a; u:https://www.vivthomas.com/model/vera-a; g:f
 released: 2010-08-27
 director:   Viv Thomas
 rating: 9.0
@@ -2716,7 +2716,7 @@ title: Babes from Budapest #1
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/sophie-paris/movie/20100825/BABES_FROM_BUDAPEST_PART_1
-cast: Sophie Paris; https://www.vivthomas.com/model/sophie-paris; f
+model: n:Sophie Paris; id:/model/vivthomas/sophie-paris; u:https://www.vivthomas.com/model/sophie-paris; g:f
 released: 2010-08-25
 director:   Viv Thomas
 rating: 9.0
@@ -2751,7 +2751,7 @@ title: Days without Youth #6
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/lola-a/movie/20100823/DAYS_WITHOUT_YOUTH_PART_6
-cast: Lola A; https://www.vivthomas.com/model/lola-a; f
+model: n:Lola A; id:/model/vivthomas/lola-a; u:https://www.vivthomas.com/model/lola-a; g:f
 released: 2010-08-23
 director:   Viv Thomas
 rating: 9.2
@@ -2788,8 +2788,8 @@ title: Days without Youth #5
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/lisa-c-and-lola-a/movie/20100821/DAYS_WITHOUT_YOUTH_PART_5
-cast: Lisa C; https://www.vivthomas.com/model/lisa-c; f
-cast: Lola A; https://www.vivthomas.com/model/lola-a; f
+model: n:Lisa C; id:/model/vivthomas/lisa-c; u:https://www.vivthomas.com/model/lisa-c; g:f
+model: n:Lola A; id:/model/vivthomas/lola-a; u:https://www.vivthomas.com/model/lola-a; g:f
 released: 2010-08-21
 director:   Viv Thomas
 rating: 9.4
@@ -2836,8 +2836,8 @@ title: Days without Youth #4
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/lola-a-and-lisa-c/movie/20100820/DAYS_WITHOUT_YOUTH_PART_4
-cast: Lola A; https://www.vivthomas.com/model/lola-a; f
-cast: Lisa C; https://www.vivthomas.com/model/lisa-c; f
+model: n:Lola A; id:/model/vivthomas/lola-a; u:https://www.vivthomas.com/model/lola-a; g:f
+model: n:Lisa C; id:/model/vivthomas/lisa-c; u:https://www.vivthomas.com/model/lisa-c; g:f
 released: 2010-08-20
 director:   Viv Thomas
 rating: 9.3
@@ -2879,7 +2879,7 @@ title: Days without Youth #3
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/lisa-c/movie/20100819/DAYS_WITHOUT_YOUTH_PART_3
-cast: Lisa C; https://www.vivthomas.com/model/lisa-c; f
+model: n:Lisa C; id:/model/vivthomas/lisa-c; u:https://www.vivthomas.com/model/lisa-c; g:f
 released: 2010-08-19
 director:   Viv Thomas
 rating: 9.1
@@ -2920,7 +2920,7 @@ title: Days without Youth #2
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/lisa-c/movie/20100818/DAYS_WITHOUT_YOUTH_PART_2
-cast: Lisa C; https://www.vivthomas.com/model/lisa-c; f
+model: n:Lisa C; id:/model/vivthomas/lisa-c; u:https://www.vivthomas.com/model/lisa-c; g:f
 released: 2010-08-18
 director:   Viv Thomas
 rating: 9.3
@@ -2958,7 +2958,7 @@ title: Days without Youth #1
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/lisa-c/movie/20100817/DAYS_WITHOUT_YOUTH_PART_1
-cast: Lisa C; https://www.vivthomas.com/model/lisa-c; f
+model: n:Lisa C; id:/model/vivthomas/lisa-c; u:https://www.vivthomas.com/model/lisa-c; g:f
 released: 2010-08-17
 director:   Viv Thomas
 rating: 9.2
@@ -2996,8 +2996,8 @@ title: Girl on Girl #3.6
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/kathy-anderson-and-nikki-sun/movie/20100804/GIRL_ON_GIRL_3_PART_6
-cast: Kathy Anderson; https://www.vivthomas.com/model/kathy-anderson; f
-cast: Nikki Sun; https://www.vivthomas.com/model/nikki-sun; f
+model: n:Kathy Anderson; id:/model/vivthomas/kathy-anderson; u:https://www.vivthomas.com/model/kathy-anderson; g:f
+model: n:Nikki Sun; id:/model/vivthomas/nikki-sun; u:https://www.vivthomas.com/model/nikki-sun; g:f
 released: 2010-08-04
 director:   Viv Thomas
 rating: 9.2
@@ -3041,8 +3041,8 @@ title: Girl on Girl #3.5
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/claudia-c-and-jane-b/movie/20100803/GIRL_ON_GIRL_3_PART_5
-cast: Claudia C; https://www.vivthomas.com/model/claudia-c; f
-cast: Jane B; https://www.vivthomas.com/model/jane-b; f
+model: n:Claudia C; id:/model/vivthomas/claudia-c; u:https://www.vivthomas.com/model/claudia-c; g:f
+model: n:Jane B; id:/model/vivthomas/jane-b; u:https://www.vivthomas.com/model/jane-b; g:f
 released: 2010-08-03
 director:   Viv Thomas
 rating: 9.0
@@ -3084,8 +3084,8 @@ title: Girl on Girl #3.4
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/sandra-sanchez-and-caroline-c/movie/20100802/GIRL_ON_GIRL_3_PART_4
-cast: Sandra Sanchez; https://www.vivthomas.com/model/sandra-sanchez; f
-cast: Caroline C; https://www.vivthomas.com/model/caroline-c; f
+model: n:Sandra Sanchez; id:/model/vivthomas/sandra-sanchez; u:https://www.vivthomas.com/model/sandra-sanchez; g:f
+model: n:Caroline C; id:/model/vivthomas/caroline-c; u:https://www.vivthomas.com/model/caroline-c; g:f
 released: 2010-08-02
 director:   Viv Thomas
 rating: 9.2
@@ -3129,8 +3129,8 @@ title: Girl on Girl #3.3
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/destiny-a-and-cindy-b/movie/20100801/GIRL_ON_GIRL_3_PART_3
-cast: Destiny A; https://www.vivthomas.com/model/destiny-a; f
-cast: Cindy B; https://www.vivthomas.com/model/cindy-b; f
+model: n:Destiny A; id:/model/vivthomas/destiny-a; u:https://www.vivthomas.com/model/destiny-a; g:f
+model: n:Cindy B; id:/model/vivthomas/cindy-b; u:https://www.vivthomas.com/model/cindy-b; g:f
 released: 2010-08-01
 director:   Viv Thomas
 rating: 9.0
@@ -3169,8 +3169,8 @@ title: Girl on Girl #3.2
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/jeny-baby-and-eve-mendes/movie/20100731/GIRL_ON_GIRL_3_PART_2
-cast: Jeny Baby; https://www.vivthomas.com/model/jeny-baby; f
-cast: Eve Mendes; https://www.vivthomas.com/model/eve-mendes; f
+model: n:Jeny Baby; id:/model/vivthomas/jeny-baby; u:https://www.vivthomas.com/model/jeny-baby; g:f
+model: n:Eve Mendes; id:/model/vivthomas/eve-mendes; u:https://www.vivthomas.com/model/eve-mendes; g:f
 released: 2010-07-31
 director:   Viv Thomas
 rating: 8.9
@@ -3210,8 +3210,8 @@ title: Girl on Girl #3.1
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/linda-shane-and-lara-craft/movie/20100730/GIRL_ON_GIRL_3_PART_1
-cast: Linda Shane; https://www.vivthomas.com/model/linda-shane; f
-cast: Lara Craft; https://www.vivthomas.com/model/lara-craft; f
+model: n:Linda Shane; id:/model/vivthomas/linda-shane; u:https://www.vivthomas.com/model/linda-shane; g:f
+model: n:Lara Craft; id:/model/vivthomas/lara-craft; u:https://www.vivthomas.com/model/lara-craft; g:f
 released: 2010-07-30
 director:   Viv Thomas
 rating: 9.0
@@ -3251,7 +3251,7 @@ title: No Artistic Merit #6
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/angelina-crow/movie/20100729/NO_ARTISTIC_MERIT_PART_6
-cast: Angelina Crow; https://www.vivthomas.com/model/angelina-crow; f
+model: n:Angelina Crow; id:/model/vivthomas/angelina-crow; u:https://www.vivthomas.com/model/angelina-crow; g:f
 released: 2010-07-29
 director:   Viv Thomas
 rating: 8.9
@@ -3284,7 +3284,7 @@ title: No Artistic Merit #5
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/jenna-lovely/movie/20100728/NO_ARTISTIC_MERIT_PART_5
-cast: Jenna Lovely; https://www.vivthomas.com/model/jenna-lovely; f
+model: n:Jenna Lovely; id:/model/vivthomas/jenna-lovely; u:https://www.vivthomas.com/model/jenna-lovely; g:f
 released: 2010-07-28
 director:   Viv Thomas
 rating: 9.5
@@ -3325,7 +3325,7 @@ title: No Artistic Merit #4
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/sylvia-lauren/movie/20100727/NO_ARTISTIC_MERIT_PART_4
-cast: Sylvia Lauren; https://www.vivthomas.com/model/sylvia-lauren; f
+model: n:Sylvia Lauren; id:/model/vivthomas/sylvia-lauren; u:https://www.vivthomas.com/model/sylvia-lauren; g:f
 released: 2010-07-27
 director:   Viv Thomas
 rating: 9.3
@@ -3368,7 +3368,7 @@ title: No Artistic Merit #3
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/liza-woods/movie/20100726/NO_ARTISTIC_MERIT_PART_3
-cast: Liza Woods; https://www.vivthomas.com/model/liza-woods; f
+model: n:Liza Woods; id:/model/vivthomas/liza-woods; u:https://www.vivthomas.com/model/liza-woods; g:f
 released: 2010-07-26
 director:   Viv Thomas
 rating: 9.0
@@ -3408,7 +3408,7 @@ title: No Artistic Merit #2
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/adriana-russo/movie/20100725/NO_ARTISTIC_MERIT_PART_2
-cast: Adriana Russo; https://www.vivthomas.com/model/adriana-russo; f
+model: n:Adriana Russo; id:/model/vivthomas/adriana-russo; u:https://www.vivthomas.com/model/adriana-russo; g:f
 released: 2010-07-25
 director:   Viv Thomas
 rating: 8.7
@@ -3450,7 +3450,7 @@ title: No Artistic Merit #1
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/angelina-crow/movie/20100724/NO_ARTISTIC_MERIT_PART_1
-cast: Angelina Crow; https://www.vivthomas.com/model/angelina-crow; f
+model: n:Angelina Crow; id:/model/vivthomas/angelina-crow; u:https://www.vivthomas.com/model/angelina-crow; g:f
 released: 2010-07-24
 director:   Viv Thomas
 rating: 9.3
@@ -3489,8 +3489,8 @@ title: Lesbian Encounters #6
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/cindy-hope-and-sandy-d/movie/20100723/LESBIAN_ENCOUNTERS_PART_6
-cast: Cindy Hope; https://www.vivthomas.com/model/cindy-hope; f
-cast: Sandy D; https://www.vivthomas.com/model/sandy-d; f
+model: n:Cindy Hope; id:/model/vivthomas/cindy-hope; u:https://www.vivthomas.com/model/cindy-hope; g:f
+model: n:Sandy D; id:/model/vivthomas/sandy-d; u:https://www.vivthomas.com/model/sandy-d; g:f
 released: 2010-07-23
 director:   Viv Thomas
 rating: 9.3
@@ -3544,8 +3544,8 @@ title: Lesbian Encounters #5
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/gina-b-and-vivien-b/movie/20100722/LESBIAN_ENCOUNTERS_PART_5
-cast: Gina B; https://www.vivthomas.com/model/gina-b; f
-cast: Vivien B; https://www.vivthomas.com/model/vivien-b; f
+model: n:Gina B; id:/model/vivthomas/gina-b; u:https://www.vivthomas.com/model/gina-b; g:f
+model: n:Vivien B; id:/model/vivthomas/vivien-b; u:https://www.vivthomas.com/model/vivien-b; g:f
 released: 2010-07-22
 director:   Viv Thomas
 rating: 9.4
@@ -3592,8 +3592,8 @@ title: Lesbian Encounters #4
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/eve-angel-and-lauryn-may/movie/20100721/LESBIAN_ENCOUNTERS_PART_4
-cast: Eve Angel; https://www.vivthomas.com/model/eve-angel; f
-cast: Lauryn May; https://www.vivthomas.com/model/lauryn-may; f
+model: n:Eve Angel; id:/model/vivthomas/eve-angel; u:https://www.vivthomas.com/model/eve-angel; g:f
+model: n:Lauryn May; id:/model/vivthomas/lauryn-may; u:https://www.vivthomas.com/model/lauryn-may; g:f
 released: 2010-07-21
 director:   Viv Thomas
 rating: 9.4
@@ -3622,8 +3622,8 @@ title: Lesbian Encounters #3
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/judy-nero-and-sandra-shine/movie/20100720/LESBIAN_ENCOUNTERS_PART_3
-cast: Judy nero; https://www.vivthomas.com/model/judy-nero; f
-cast: Sandra Shine; https://www.vivthomas.com/model/sandra-shine; f
+model: n:Judy nero; id:/model/vivthomas/judy-nero; u:https://www.vivthomas.com/model/judy-nero; g:f
+model: n:Sandra Shine; id:/model/vivthomas/sandra-shine; u:https://www.vivthomas.com/model/sandra-shine; g:f
 released: 2010-07-20
 director:   Viv Thomas
 rating: 9.3
@@ -3668,8 +3668,8 @@ title: Lesbian Encounters #2
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/angelika-black-and-jo/movie/20100719/LESBIAN_ENCOUNTERS_PART_2
-cast: Angelika Black; https://www.vivthomas.com/model/angelika-black; f
-cast: Jo; https://www.vivthomas.com/model/jo; f
+model: n:Angelika Black; id:/model/vivthomas/angelika-black; u:https://www.vivthomas.com/model/angelika-black; g:f
+model: n:Jo; id:/model/vivthomas/jo; u:https://www.vivthomas.com/model/jo; g:f
 released: 2010-07-19
 director:   Viv Thomas
 rating: 9.4
@@ -3715,8 +3715,8 @@ title: Lesbian Encounters #1
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/peaches-a-and-lucy-bell/movie/20100718/LESBIAN_ENCOUNTERS_PART_1
-cast: Peaches A; https://www.vivthomas.com/model/peaches-a; f
-cast: Lucy Bell; https://www.vivthomas.com/model/lucy-bell; f
+model: n:Peaches A; id:/model/vivthomas/peaches-a; u:https://www.vivthomas.com/model/peaches-a; g:f
+model: n:Lucy Bell; id:/model/vivthomas/lucy-bell; u:https://www.vivthomas.com/model/lucy-bell; g:f
 released: 2010-07-18
 director:   Viv Thomas
 rating: 9.5
@@ -3768,8 +3768,8 @@ title: Family Affairs #2.6
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/nikita-d-and-tanya-tate/movie/20100717/FAMILY_AFFAIRS_VOL._2_PART_6
-cast: Nikita D; https://www.vivthomas.com/model/nikita-d; f
-cast: Tanya Tate; https://www.vivthomas.com/model/tanya-tate; f
+model: n:Nikita D; id:/model/vivthomas/nikita-d; u:https://www.vivthomas.com/model/nikita-d; g:f
+model: n:Tanya Tate; id:/model/vivthomas/tanya-tate; u:https://www.vivthomas.com/model/tanya-tate; g:f
 released: 2010-07-17
 director:   Viv Thomas
 rating: 9.4
@@ -3819,7 +3819,7 @@ title: Family Affairs #2.5
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/pure-angel/movie/20100716/FAMILY_AFFAIRS_VOL._2_PART_5
-cast: Pure Angel; https://www.vivthomas.com/model/pure-angel; f
+model: n:Pure Angel; id:/model/vivthomas/pure-angel; u:https://www.vivthomas.com/model/pure-angel; g:f
 released: 2010-07-16
 director:   Viv Thomas
 rating: 9.2
@@ -3864,8 +3864,8 @@ title: Family Affairs #2.4
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/peaches-a-and-jenna-lovely/movie/20100715/FAMILY_AFFAIRS_VOL._2_PART_4
-cast: Peaches A; https://www.vivthomas.com/model/peaches-a; f
-cast: Jenna Lovely; https://www.vivthomas.com/model/jenna-lovely; f
+model: n:Peaches A; id:/model/vivthomas/peaches-a; u:https://www.vivthomas.com/model/peaches-a; g:f
+model: n:Jenna Lovely; id:/model/vivthomas/jenna-lovely; u:https://www.vivthomas.com/model/jenna-lovely; g:f
 released: 2010-07-15
 director:   Viv Thomas
 rating: 9.4
@@ -3907,7 +3907,7 @@ title: Family Affairs #2.3
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/madison-parker/movie/20100714/FAMILY_AFFAIRS_VOL._2_PART_3
-cast: Madison Parker; https://www.vivthomas.com/model/madison-parker; f
+model: n:Madison Parker; id:/model/vivthomas/madison-parker; u:https://www.vivthomas.com/model/madison-parker; g:f
 released: 2010-07-14
 director:   Viv Thomas
 rating: 9.4
@@ -3945,7 +3945,7 @@ title: Family Affairs #2.2
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/debbie-white/movie/20100713/FAMILY_AFFAIRS_VOL._2_PART_2
-cast: Debbie White; https://www.vivthomas.com/model/debbie-white; f
+model: n:Debbie White; id:/model/vivthomas/debbie-white; u:https://www.vivthomas.com/model/debbie-white; g:f
 released: 2010-07-13
 director:   Viv Thomas
 rating: 9.3
@@ -3997,9 +3997,9 @@ title: Family Affairs #2.1
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/tanya-tate-and-abbie-cat-and-james-brossman/movie/20100712/FAMILY_AFFAIRS_VOL._2_PART_1
-cast: Tanya Tate; https://www.vivthomas.com/model/tanya-tate; f
-cast: Abbie Cat; https://www.vivthomas.com/model/abbie-cat; f
-cast: James Brossman; https://www.vivthomas.com/model/james-brossman; f
+model: n:Tanya Tate; id:/model/vivthomas/tanya-tate; u:https://www.vivthomas.com/model/tanya-tate; g:f
+model: n:Abbie Cat; id:/model/vivthomas/abbie-cat; u:https://www.vivthomas.com/model/abbie-cat; g:f
+model: n:James Brossman; id:/model/vivthomas/james-brossman; u:https://www.vivthomas.com/model/james-brossman; g:f
 released: 2010-07-12
 director:   Viv Thomas
 rating: 9.2
@@ -4044,8 +4044,8 @@ title: Female Liaisons #5
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/lucie-b-and-katti-a/movie/20100711/FEMALE_LIAISONS_PART_5
-cast: Lucie B; https://www.vivthomas.com/model/lucie-b; f
-cast: Katti A; https://www.vivthomas.com/model/katti-a; f
+model: n:Lucie B; id:/model/vivthomas/lucie-b; u:https://www.vivthomas.com/model/lucie-b; g:f
+model: n:Katti A; id:/model/vivthomas/katti-a; u:https://www.vivthomas.com/model/katti-a; g:f
 released: 2010-07-11
 director:   Viv Thomas
 rating: 9.3
@@ -4083,8 +4083,8 @@ title: Female Liaisons #4
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/suzie-carina-and-vivien-b/movie/20100710/FEMALE_LIAISONS_PART_4
-cast: Suzie Carina; https://www.vivthomas.com/model/suzie-carina; f
-cast: Vivien B; https://www.vivthomas.com/model/vivien-b; f
+model: n:Suzie Carina; id:/model/vivthomas/suzie-carina; u:https://www.vivthomas.com/model/suzie-carina; g:f
+model: n:Vivien B; id:/model/vivthomas/vivien-b; u:https://www.vivthomas.com/model/vivien-b; g:f
 released: 2010-07-10
 director:   Viv Thomas
 rating: 9.2
@@ -4128,8 +4128,8 @@ title: Female Liaisons #3
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/vera-a-and-zara-a/movie/20100709/FEMALE_LIAISONS_PART_3
-cast: Vera A; https://www.vivthomas.com/model/vera-a; f
-cast: Zara A; https://www.vivthomas.com/model/zara-a; f
+model: n:Vera A; id:/model/vivthomas/vera-a; u:https://www.vivthomas.com/model/vera-a; g:f
+model: n:Zara A; id:/model/vivthomas/zara-a; u:https://www.vivthomas.com/model/zara-a; g:f
 released: 2010-07-09
 director:   Viv Thomas
 rating: 9.4
@@ -4176,8 +4176,8 @@ title: Female Liaisons #2
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/micha-a-and-vivien-b/movie/20100708/FEMALE_LIAISONS_PART_2
-cast: Micha A; https://www.vivthomas.com/model/micha-a; f
-cast: Vivien B; https://www.vivthomas.com/model/vivien-b; f
+model: n:Micha A; id:/model/vivthomas/micha-a; u:https://www.vivthomas.com/model/micha-a; g:f
+model: n:Vivien B; id:/model/vivthomas/vivien-b; u:https://www.vivthomas.com/model/vivien-b; g:f
 released: 2010-07-08
 director:   Viv Thomas
 rating: 9.2
@@ -4222,8 +4222,8 @@ title: Female Liaisons #1
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/suzie-carina-and-nikole-w/movie/20100707/FEMALE_LIAISONS_PART_1
-cast: Suzie Carina; https://www.vivthomas.com/model/suzie-carina; f
-cast: Nikole W; https://www.vivthomas.com/model/nikole-w; f
+model: n:Suzie Carina; id:/model/vivthomas/suzie-carina; u:https://www.vivthomas.com/model/suzie-carina; g:f
+model: n:Nikole W; id:/model/vivthomas/nikole-w; u:https://www.vivthomas.com/model/nikole-w; g:f
 released: 2010-07-07
 director:   Viv Thomas
 rating: 9.3
@@ -4261,8 +4261,8 @@ title: Art of Kissing #3.6
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/lucky-a-and-suzie-carina/movie/20100706/ART_OF_KISSING_3_PART_6
-cast: Lucky A; https://www.vivthomas.com/model/lucky-a; f
-cast: Suzie Carina; https://www.vivthomas.com/model/suzie-carina; f
+model: n:Lucky A; id:/model/vivthomas/lucky-a; u:https://www.vivthomas.com/model/lucky-a; g:f
+model: n:Suzie Carina; id:/model/vivthomas/suzie-carina; u:https://www.vivthomas.com/model/suzie-carina; g:f
 released: 2010-07-06
 director:   Viv Thomas
 rating: 9.4
@@ -4295,8 +4295,8 @@ title: Art of Kissing #3.5
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/sylvia-lauren-and-mya-diamond/movie/20100705/ART_OF_KISSING_3_PART_5
-cast: Sylvia Lauren; https://www.vivthomas.com/model/sylvia-lauren; f
-cast: Mya Diamond; https://www.vivthomas.com/model/mya-diamond; f
+model: n:Sylvia Lauren; id:/model/vivthomas/sylvia-lauren; u:https://www.vivthomas.com/model/sylvia-lauren; g:f
+model: n:Mya Diamond; id:/model/vivthomas/mya-diamond; u:https://www.vivthomas.com/model/mya-diamond; g:f
 released: 2010-07-05
 director:   Viv Thomas
 rating: 9.4
@@ -4336,8 +4336,8 @@ title: Art of Kissing #3.4
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/suzie-carina-and-ariel-a/movie/20100704/ART_OF_KISSING_3_PART_4
-cast: Suzie Carina; https://www.vivthomas.com/model/suzie-carina; f
-cast: Ariel A; https://www.vivthomas.com/model/ariel-a; f
+model: n:Suzie Carina; id:/model/vivthomas/suzie-carina; u:https://www.vivthomas.com/model/suzie-carina; g:f
+model: n:Ariel A; id:/model/vivthomas/ariel-a; u:https://www.vivthomas.com/model/ariel-a; g:f
 released: 2010-07-04
 director:   Viv Thomas
 rating: 9.4
@@ -4376,8 +4376,8 @@ title: Art of Kissing #3.3
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/jo-and-nella-a/movie/20100703/ART_OF_KISSING_3_PART_3
-cast: Jo; https://www.vivthomas.com/model/jo; f
-cast: Nella A; https://www.vivthomas.com/model/nella-a; f
+model: n:Jo; id:/model/vivthomas/jo; u:https://www.vivthomas.com/model/jo; g:f
+model: n:Nella A; id:/model/vivthomas/nella-a; u:https://www.vivthomas.com/model/nella-a; g:f
 released: 2010-07-03
 director:   Viv Thomas
 rating: 9.5
@@ -4417,8 +4417,8 @@ title: Art of Kissing #3.2
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/lucky-a-and-mya-diamond/movie/20100702/ART_OF_KISSING_3_PART_2
-cast: Lucky A; https://www.vivthomas.com/model/lucky-a; f
-cast: Mya Diamond; https://www.vivthomas.com/model/mya-diamond; f
+model: n:Lucky A; id:/model/vivthomas/lucky-a; u:https://www.vivthomas.com/model/lucky-a; g:f
+model: n:Mya Diamond; id:/model/vivthomas/mya-diamond; u:https://www.vivthomas.com/model/mya-diamond; g:f
 released: 2010-07-02
 director:   Viv Thomas
 rating: 9.3
@@ -4456,8 +4456,8 @@ title: Art of Kissing #3.1
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/sylvia-lauren-and-ariel-a/movie/20100701/ART_OF_KISSING_3_PART_1
-cast: Sylvia Lauren; https://www.vivthomas.com/model/sylvia-lauren; f
-cast: Ariel A; https://www.vivthomas.com/model/ariel-a; f
+model: n:Sylvia Lauren; id:/model/vivthomas/sylvia-lauren; u:https://www.vivthomas.com/model/sylvia-lauren; g:f
+model: n:Ariel A; id:/model/vivthomas/ariel-a; u:https://www.vivthomas.com/model/ariel-a; g:f
 released: 2010-07-01
 director:   Viv Thomas
 rating: 9.3
@@ -4502,8 +4502,8 @@ title: Hot Silk #5
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/antonya-a-and-blue-angel/movie/20100628/HOT_SILK_PART_5
-cast: Antonya A; https://www.vivthomas.com/model/antonya-a; f
-cast: Blue Angel; https://www.vivthomas.com/model/blue-angel; f
+model: n:Antonya A; id:/model/vivthomas/antonya-a; u:https://www.vivthomas.com/model/antonya-a; g:f
+model: n:Blue Angel; id:/model/vivthomas/blue-angel; u:https://www.vivthomas.com/model/blue-angel; g:f
 released: 2010-06-28
 director:   Viv Thomas
 rating: 9.4
@@ -4548,8 +4548,8 @@ title: Hot Silk #4
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/antonya-a-and-nikita-d/movie/20100627/HOT_SILK_PART_4
-cast: Antonya A; https://www.vivthomas.com/model/antonya-a; f
-cast: Nikita D; https://www.vivthomas.com/model/nikita-d; f
+model: n:Antonya A; id:/model/vivthomas/antonya-a; u:https://www.vivthomas.com/model/antonya-a; g:f
+model: n:Nikita D; id:/model/vivthomas/nikita-d; u:https://www.vivthomas.com/model/nikita-d; g:f
 released: 2010-06-27
 director:   Viv Thomas
 rating: 9.5
@@ -4594,9 +4594,9 @@ title: Hot Silk #3
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/natalia-forrest-and-sonia-red-and-lucie-b/movie/20100626/HOT_SILK_PART_3
-cast: Natalia Forrest; https://www.vivthomas.com/model/natalia-forrest; f
-cast: Sonia Red; https://www.vivthomas.com/model/sonia-red; f
-cast: Lucie B; https://www.vivthomas.com/model/lucie-b; f
+model: n:Natalia Forrest; id:/model/vivthomas/natalia-forrest; u:https://www.vivthomas.com/model/natalia-forrest; g:f
+model: n:Sonia Red; id:/model/vivthomas/sonia-red; u:https://www.vivthomas.com/model/sonia-red; g:f
+model: n:Lucie B; id:/model/vivthomas/lucie-b; u:https://www.vivthomas.com/model/lucie-b; g:f
 released: 2010-06-26
 director:   Viv Thomas
 rating: 9.4
@@ -4647,8 +4647,8 @@ title: Hot Silk #2
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/lucie-b-and-zoe-b/movie/20100625/HOT_SILK_PART_2
-cast: Lucie B; https://www.vivthomas.com/model/lucie-b; f
-cast: Zoe B; https://www.vivthomas.com/model/zoe-b; f
+model: n:Lucie B; id:/model/vivthomas/lucie-b; u:https://www.vivthomas.com/model/lucie-b; g:f
+model: n:Zoe B; id:/model/vivthomas/zoe-b; u:https://www.vivthomas.com/model/zoe-b; g:f
 released: 2010-06-25
 director:   Viv Thomas
 rating: 9.4
@@ -4696,8 +4696,8 @@ title: Hot Silk #1
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/lucie-b-and-jenny-m/movie/20100624/HOT_SILK_PART_1
-cast: Lucie B; https://www.vivthomas.com/model/lucie-b; f
-cast: Jenny M; https://www.vivthomas.com/model/jenny-m; f
+model: n:Lucie B; id:/model/vivthomas/lucie-b; u:https://www.vivthomas.com/model/lucie-b; g:f
+model: n:Jenny M; id:/model/vivthomas/jenny-m; u:https://www.vivthomas.com/model/jenny-m; g:f
 released: 2010-06-24
 director:   Viv Thomas
 rating: 9.4
@@ -4740,7 +4740,7 @@ title: Secrets Vol 2 #6
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/lucy-bell/movie/20100623/SECRETS_VOL_2_PART_6
-cast: Lucy Bell; https://www.vivthomas.com/model/lucy-bell; f
+model: n:Lucy Bell; id:/model/vivthomas/lucy-bell; u:https://www.vivthomas.com/model/lucy-bell; g:f
 released: 2010-06-23
 director:   Viv Thomas
 rating: 9.1
@@ -4784,8 +4784,8 @@ title: Secrets Vol 2 #5
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/zara-a-and-brandy-smile/movie/20100622/SECRETS_VOL_2_PART_5
-cast: Zara A; https://www.vivthomas.com/model/zara-a; f
-cast: Brandy Smile; https://www.vivthomas.com/model/brandy-smile; f
+model: n:Zara A; id:/model/vivthomas/zara-a; u:https://www.vivthomas.com/model/zara-a; g:f
+model: n:Brandy Smile; id:/model/vivthomas/brandy-smile; u:https://www.vivthomas.com/model/brandy-smile; g:f
 released: 2010-06-22
 director:   Viv Thomas
 rating: 9.2
@@ -4826,7 +4826,7 @@ title: Secrets Vol 2 #4
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/pure-angel/movie/20100621/SECRETS_VOL_2_PART_4
-cast: Pure Angel; https://www.vivthomas.com/model/pure-angel; f
+model: n:Pure Angel; id:/model/vivthomas/pure-angel; u:https://www.vivthomas.com/model/pure-angel; g:f
 released: 2010-06-21
 director:   Viv Thomas
 rating: 9.1
@@ -4867,7 +4867,7 @@ title: Secrets Vol 2 #3
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/jordan-sparx/movie/20100620/SECRETS_VOL_2_PART_3
-cast: Jordan Sparx; https://www.vivthomas.com/model/jordan-sparx; f
+model: n:Jordan Sparx; id:/model/vivthomas/jordan-sparx; u:https://www.vivthomas.com/model/jordan-sparx; g:f
 released: 2010-06-20
 director:   Viv Thomas
 rating: 8.5
@@ -4908,8 +4908,8 @@ title: Secrets Vol 2 #2
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/nikita-d-and-lucy-bell/movie/20100619/SECRETS_VOL_2_PART_2
-cast: Nikita D; https://www.vivthomas.com/model/nikita-d; f
-cast: Lucy Bell; https://www.vivthomas.com/model/lucy-bell; f
+model: n:Nikita D; id:/model/vivthomas/nikita-d; u:https://www.vivthomas.com/model/nikita-d; g:f
+model: n:Lucy Bell; id:/model/vivthomas/lucy-bell; u:https://www.vivthomas.com/model/lucy-bell; g:f
 released: 2010-06-19
 director:   Viv Thomas
 rating: 9.3
@@ -4959,7 +4959,7 @@ title: Secrets Vol 2 #1
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/liana-a/movie/20100618/SECRETS_VOL_2_PART_1
-cast: Liana A; https://www.vivthomas.com/model/liana-a; f
+model: n:Liana A; id:/model/vivthomas/liana-a; u:https://www.vivthomas.com/model/liana-a; g:f
 released: 2010-06-18
 director:   Viv Thomas
 rating: 9.0
@@ -4999,8 +4999,8 @@ title: Sammy-Jayne - Hardcore Harem #5
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/loureen-a-and-sammy-jayne-a/movie/20100614/SAMMY-JAYNE_-_HARDCORE_HAREM_PART_5
-cast: Loureen A; https://www.vivthomas.com/model/loureen-a; f
-cast: Sammy-Jayne A; https://www.vivthomas.com/model/sammy-jayne-a; f
+model: n:Loureen A; id:/model/vivthomas/loureen-a; u:https://www.vivthomas.com/model/loureen-a; g:f
+model: n:Sammy-Jayne A; id:/model/vivthomas/sammy-jayne-a; u:https://www.vivthomas.com/model/sammy-jayne-a; g:f
 released: 2010-06-14
 director:   Viv Thomas
 rating: 8.9
@@ -5042,8 +5042,8 @@ title: Sammy-Jayne - Hardcore Harem #4
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/trixi-a-and-sammy-jayne-a/movie/20100613/SAMMY-JAYNE_-_HARDCORE_HAREM_PART_4
-cast: Trixi A; https://www.vivthomas.com/model/trixi-a; f
-cast: Sammy-Jayne A; https://www.vivthomas.com/model/sammy-jayne-a; f
+model: n:Trixi A; id:/model/vivthomas/trixi-a; u:https://www.vivthomas.com/model/trixi-a; g:f
+model: n:Sammy-Jayne A; id:/model/vivthomas/sammy-jayne-a; u:https://www.vivthomas.com/model/sammy-jayne-a; g:f
 released: 2010-06-13
 director:   Viv Thomas
 rating: 9.0
@@ -5092,8 +5092,8 @@ title: Sammy-Jayne - Hardcore Harem #3
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/sammy-jayne-a-and-petra-a/movie/20100612/SAMMY-JAYNE_-_HARDCORE_HAREM_PART_3
-cast: Sammy-Jayne A; https://www.vivthomas.com/model/sammy-jayne-a; f
-cast: Petra A; https://www.vivthomas.com/model/petra-a; f
+model: n:Sammy-Jayne A; id:/model/vivthomas/sammy-jayne-a; u:https://www.vivthomas.com/model/sammy-jayne-a; g:f
+model: n:Petra A; id:/model/vivthomas/petra-a; u:https://www.vivthomas.com/model/petra-a; g:f
 released: 2010-06-12
 director:   Viv Thomas
 rating: 8.7
@@ -5135,8 +5135,8 @@ title: Sammy-Jayne - Hardcore Harem #2
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/jo-and-sammy-jayne-a/movie/20100611/SAMMY-JAYNE_-_HARDCORE_HAREM_PART_2
-cast: Jo; https://www.vivthomas.com/model/jo; f
-cast: Sammy-Jayne A; https://www.vivthomas.com/model/sammy-jayne-a; f
+model: n:Jo; id:/model/vivthomas/jo; u:https://www.vivthomas.com/model/jo; g:f
+model: n:Sammy-Jayne A; id:/model/vivthomas/sammy-jayne-a; u:https://www.vivthomas.com/model/sammy-jayne-a; g:f
 released: 2010-06-11
 director:   Viv Thomas
 rating: 9.0
@@ -5178,8 +5178,8 @@ title: Sammy-Jayne - Hardcore Harem #1
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/sammy-jayne-a-and-vera-a/movie/20100610/SAMMY-JAYNE_-_HARDCORE_HAREM_PART_1
-cast: Sammy-Jayne A; https://www.vivthomas.com/model/sammy-jayne-a; f
-cast: Vera A; https://www.vivthomas.com/model/vera-a; f
+model: n:Sammy-Jayne A; id:/model/vivthomas/sammy-jayne-a; u:https://www.vivthomas.com/model/sammy-jayne-a; g:f
+model: n:Vera A; id:/model/vivthomas/vera-a; u:https://www.vivthomas.com/model/vera-a; g:f
 released: 2010-06-10
 director:   Viv Thomas
 rating: 9.0
@@ -5223,7 +5223,7 @@ title: Sticky Fingers #3.15
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/angelika-black/movie/20100609/STICKY_FINGERS_3_PART_15
-cast: Angelika Black; https://www.vivthomas.com/model/angelika-black; f
+model: n:Angelika Black; id:/model/vivthomas/angelika-black; u:https://www.vivthomas.com/model/angelika-black; g:f
 released: 2010-06-09
 director:   Viv Thomas
 rating: 9.4
@@ -5261,7 +5261,7 @@ title: Sticky Fingers #3.14
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/vivien-b/movie/20100608/STICKY_FINGERS_3_PART_14
-cast: Vivien B; https://www.vivthomas.com/model/vivien-b; f
+model: n:Vivien B; id:/model/vivthomas/vivien-b; u:https://www.vivthomas.com/model/vivien-b; g:f
 released: 2010-06-08
 director:   Viv Thomas
 rating: 9.1
@@ -5298,7 +5298,7 @@ title: Sticky Fingers #3.13
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/walleria-a/movie/20100607/STICKY_FINGERS_3_PART_13
-cast: Walleria A; https://www.vivthomas.com/model/walleria-a; f
+model: n:Walleria A; id:/model/vivthomas/walleria-a; u:https://www.vivthomas.com/model/walleria-a; g:f
 released: 2010-06-07
 director:   Viv Thomas
 rating: 8.9
@@ -5335,7 +5335,7 @@ title: Sticky Fingers #3.12
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/carol-gold/movie/20100606/STICKY_FINGERS_3_PART_12
-cast: Carol Gold; https://www.vivthomas.com/model/carol-gold; f
+model: n:Carol Gold; id:/model/vivthomas/carol-gold; u:https://www.vivthomas.com/model/carol-gold; g:f
 released: 2010-06-06
 director:   Viv Thomas
 rating: 9.5
@@ -5377,7 +5377,7 @@ title: Sticky Fingers #3.11
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/rachel-evans/movie/20100605/STICKY_FINGERS_3_PART_11
-cast: Rachel Evans; https://www.vivthomas.com/model/rachel-evans; f
+model: n:Rachel Evans; id:/model/vivthomas/rachel-evans; u:https://www.vivthomas.com/model/rachel-evans; g:f
 released: 2010-06-05
 director:   Viv Thomas
 rating: 9.2
@@ -5413,7 +5413,7 @@ title: Sticky Fingers #3.10
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/jasmine-rouge/movie/20100604/STICKY_FINGERS_3_PART_10
-cast: Jasmine Rouge; https://www.vivthomas.com/model/jasmine-rouge; f
+model: n:Jasmine Rouge; id:/model/vivthomas/jasmine-rouge; u:https://www.vivthomas.com/model/jasmine-rouge; g:f
 released: 2010-06-04
 director:   Viv Thomas
 rating: 9.3
@@ -5453,7 +5453,7 @@ title: Sticky Fingers #3.9
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/nikita-d/movie/20100603/STICKY_FINGERS_3_PART_9
-cast: Nikita D; https://www.vivthomas.com/model/nikita-d; f
+model: n:Nikita D; id:/model/vivthomas/nikita-d; u:https://www.vivthomas.com/model/nikita-d; g:f
 released: 2010-06-03
 director:   Viv Thomas
 rating: 9.3
@@ -5488,7 +5488,7 @@ title: Sticky Fingers #3.8
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/jenni-a/movie/20100602/STICKY_FINGERS_3_PART_8
-cast: Jenni A; https://www.vivthomas.com/model/jenni-a; f
+model: n:Jenni A; id:/model/vivthomas/jenni-a; u:https://www.vivthomas.com/model/jenni-a; g:f
 released: 2010-06-02
 director:   Viv Thomas
 rating: 9.2
@@ -5524,7 +5524,7 @@ title: Sticky Fingers #3.7
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/lucy-bell/movie/20100601/STICKY_FINGERS_3_PART_7
-cast: Lucy Bell; https://www.vivthomas.com/model/lucy-bell; f
+model: n:Lucy Bell; id:/model/vivthomas/lucy-bell; u:https://www.vivthomas.com/model/lucy-bell; g:f
 released: 2010-06-01
 director:   Viv Thomas
 rating: 9.3
@@ -5564,7 +5564,7 @@ title: Sticky Fingers #3.6
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/cj-a/movie/20100531/STICKY_FINGERS_3_PART_6
-cast: CJ A; https://www.vivthomas.com/model/cj-a; f
+model: n:CJ A; id:/model/vivthomas/cj-a; u:https://www.vivthomas.com/model/cj-a; g:f
 released: 2010-05-31
 director:   Viv Thomas
 rating: 9.2
@@ -5604,7 +5604,7 @@ title: Sticky Fingers #3.5
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/zara-a/movie/20100530/STICKY_FINGERS_3_PART_5
-cast: Zara A; https://www.vivthomas.com/model/zara-a; f
+model: n:Zara A; id:/model/vivthomas/zara-a; u:https://www.vivthomas.com/model/zara-a; g:f
 released: 2010-05-30
 director:   Viv Thomas
 rating: 8.9
@@ -5648,7 +5648,7 @@ title: Sticky Fingers #3.4
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/gina-e/movie/20100529/STICKY_FINGERS_3_PART_4
-cast: Gina E; https://www.vivthomas.com/model/gina-e; f
+model: n:Gina E; id:/model/vivthomas/gina-e; u:https://www.vivthomas.com/model/gina-e; g:f
 released: 2010-05-29
 director:   Viv Thomas
 rating: 9.6
@@ -5685,7 +5685,7 @@ title: Sticky Fingers #3.3
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/alisson-a/movie/20100528/STICKY_FINGERS_3_PART_3
-cast: Alisson A; https://www.vivthomas.com/model/alisson-a; f
+model: n:Alisson A; id:/model/vivthomas/alisson-a; u:https://www.vivthomas.com/model/alisson-a; g:f
 released: 2010-05-28
 director:   Viv Thomas
 rating: 9.2
@@ -5723,7 +5723,7 @@ title: Sticky Fingers #3.2
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/cabiria-a/movie/20100527/STICKY_FINGERS_3_PART_2
-cast: Cabiria A; https://www.vivthomas.com/model/cabiria-a; f
+model: n:Cabiria A; id:/model/vivthomas/cabiria-a; u:https://www.vivthomas.com/model/cabiria-a; g:f
 released: 2010-05-27
 director:   Viv Thomas
 rating: 9.2
@@ -5753,7 +5753,7 @@ title: Sticky Fingers #3.1
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/cindy-hope/movie/20100526/STICKY_FINGERS_3_PART_1
-cast: Cindy Hope; https://www.vivthomas.com/model/cindy-hope; f
+model: n:Cindy Hope; id:/model/vivthomas/cindy-hope; u:https://www.vivthomas.com/model/cindy-hope; g:f
 released: 2010-05-26
 director:   Viv Thomas
 rating: 9.1
@@ -5787,7 +5787,7 @@ title: Clits and Toes #4
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/natalia-forrest/movie/20100525/CLITS_AND_TOES_PART_4
-cast: Natalia Forrest; https://www.vivthomas.com/model/natalia-forrest; f
+model: n:Natalia Forrest; id:/model/vivthomas/natalia-forrest; u:https://www.vivthomas.com/model/natalia-forrest; g:f
 released: 2010-05-25
 director:   Viv Thomas
 rating: 9.0
@@ -5831,7 +5831,7 @@ title: Clits and Toes #3
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/sasha-b/movie/20100524/CLITS_AND_TOES_PART_3
-cast: Sasha B; https://www.vivthomas.com/model/sasha-b; f
+model: n:Sasha B; id:/model/vivthomas/sasha-b; u:https://www.vivthomas.com/model/sasha-b; g:f
 released: 2010-05-24
 director:   Viv Thomas
 rating: 9.0
@@ -5878,7 +5878,7 @@ title: Clits and Toes #2
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/carie-a/movie/20100523/CLITS_AND_TOES_PART_2
-cast: Carie A; https://www.vivthomas.com/model/carie-a; f
+model: n:Carie A; id:/model/vivthomas/carie-a; u:https://www.vivthomas.com/model/carie-a; g:f
 released: 2010-05-23
 director:   Viv Thomas
 rating: 9.2
@@ -5924,7 +5924,7 @@ title: Clits and Toes #1
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/jenny-m/movie/20100522/CLITS_AND_TOES_PART_1
-cast: Jenny M; https://www.vivthomas.com/model/jenny-m; f
+model: n:Jenny M; id:/model/vivthomas/jenny-m; u:https://www.vivthomas.com/model/jenny-m; g:f
 released: 2010-05-22
 director:   Viv Thomas
 rating: 8.8
@@ -5963,8 +5963,8 @@ title: Girlie massage
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/sonia-red-and-nikki-d/movie/20100521/GIRLIE_MASSAGE
-cast: Sonia Red; https://www.vivthomas.com/model/sonia-red; f
-cast: Nikki D; https://www.vivthomas.com/model/nikki-d; f
+model: n:Sonia Red; id:/model/vivthomas/sonia-red; u:https://www.vivthomas.com/model/sonia-red; g:f
+model: n:Nikki D; id:/model/vivthomas/nikki-d; u:https://www.vivthomas.com/model/nikki-d; g:f
 released: 2010-05-21
 director:   Viv Thomas
 rating: 9.4
@@ -6012,7 +6012,7 @@ title: Anal Delight #5
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/sandra-parker/movie/20100520/ANAL_DELIGHT_PART_5
-cast: Sandra Parker; https://www.vivthomas.com/model/sandra-parker; f
+model: n:Sandra Parker; id:/model/vivthomas/sandra-parker; u:https://www.vivthomas.com/model/sandra-parker; g:f
 released: 2010-05-20
 director:   Viv Thomas
 rating: 8.7
@@ -6050,7 +6050,7 @@ title: Anal Delight #4
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/barbara-voice/movie/20100519/ANAL_DELIGHT_PART_4
-cast: Barbara Voice; https://www.vivthomas.com/model/barbara-voice; f
+model: n:Barbara Voice; id:/model/vivthomas/barbara-voice; u:https://www.vivthomas.com/model/barbara-voice; g:f
 released: 2010-05-19
 director:   Viv Thomas
 rating: 8.3
@@ -6086,7 +6086,7 @@ title: Anal Delight #3
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/sylvia-diamond/movie/20100518/ANAL_DELIGHT_PART_3
-cast: Sylvia Diamond; https://www.vivthomas.com/model/sylvia-diamond; f
+model: n:Sylvia Diamond; id:/model/vivthomas/sylvia-diamond; u:https://www.vivthomas.com/model/sylvia-diamond; g:f
 released: 2010-05-18
 director:   Viv Thomas
 rating: 8.8
@@ -6135,7 +6135,7 @@ title: Anal Delight #2
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/sugar-baby/movie/20100517/ANAL_DELIGHT_PART_2
-cast: Sugar Baby; https://www.vivthomas.com/model/sugar-baby; f
+model: n:Sugar Baby; id:/model/vivthomas/sugar-baby; u:https://www.vivthomas.com/model/sugar-baby; g:f
 released: 2010-05-17
 director:   Viv Thomas
 rating: 8.6
@@ -6179,7 +6179,7 @@ title: Anal Delight #1
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/mela-a/movie/20100516/ANAL_DELIGHT_PART_1
-cast: Mela A; https://www.vivthomas.com/model/mela-a; f
+model: n:Mela A; id:/model/vivthomas/mela-a; u:https://www.vivthomas.com/model/mela-a; g:f
 released: 2010-05-16
 director:   Viv Thomas
 rating: 9.0
@@ -6230,8 +6230,8 @@ title: Blonde on Brunette #6
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/ella-a-and-sophie-moon/movie/20100515/BLONDE_ON_BRUNETTE_PART_6
-cast: Ella A; https://www.vivthomas.com/model/ella-a; f
-cast: Sophie Moon; https://www.vivthomas.com/model/sophie-moon; f
+model: n:Ella A; id:/model/vivthomas/ella-a; u:https://www.vivthomas.com/model/ella-a; g:f
+model: n:Sophie Moon; id:/model/vivthomas/sophie-moon; u:https://www.vivthomas.com/model/sophie-moon; g:f
 released: 2010-05-15
 director:   Viv Thomas
 rating: 9.6
@@ -6280,8 +6280,8 @@ title: Blonde on Brunette #5
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/nikki-sands-and-cristina-bella/movie/20100514/BLONDE_ON_BRUNETTE_PART_5
-cast: Nikki Sands; https://www.vivthomas.com/model/nikki-sands; f
-cast: Cristina Bella; https://www.vivthomas.com/model/cristina-bella; f
+model: n:Nikki Sands; id:/model/vivthomas/nikki-sands; u:https://www.vivthomas.com/model/nikki-sands; g:f
+model: n:Cristina Bella; id:/model/vivthomas/cristina-bella; u:https://www.vivthomas.com/model/cristina-bella; g:f
 released: 2010-05-14
 director:   Viv Thomas
 rating: 9.2
@@ -6326,8 +6326,8 @@ title: Blonde on Brunette #4
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/sophie-a-and-sandy-d/movie/20100513/BLONDE_ON_BRUNETTE_PART_4
-cast: Sophie A; https://www.vivthomas.com/model/sophie-a; f
-cast: Sandy D; https://www.vivthomas.com/model/sandy-d; f
+model: n:Sophie A; id:/model/vivthomas/sophie-a; u:https://www.vivthomas.com/model/sophie-a; g:f
+model: n:Sandy D; id:/model/vivthomas/sandy-d; u:https://www.vivthomas.com/model/sandy-d; g:f
 released: 2010-05-13
 director:   Viv Thomas
 rating: 9.0
@@ -6378,7 +6378,7 @@ title: Blonde on Brunette #3
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/niki-a/movie/20100512/BLONDE_ON_BRUNETTE_PART_3
-cast: Niki A; https://www.vivthomas.com/model/niki-a; f
+model: n:Niki A; id:/model/vivthomas/niki-a; u:https://www.vivthomas.com/model/niki-a; g:f
 released: 2010-05-12
 director:   Viv Thomas
 rating: 9.2
@@ -6430,8 +6430,8 @@ title: Blonde on Brunette #2
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/sammy-jayne-a-and-vera-a/movie/20100511/BLONDE_ON_BRUNETTE_PART_2
-cast: Sammy-Jayne A; https://www.vivthomas.com/model/sammy-jayne-a; f
-cast: Vera A; https://www.vivthomas.com/model/vera-a; f
+model: n:Sammy-Jayne A; id:/model/vivthomas/sammy-jayne-a; u:https://www.vivthomas.com/model/sammy-jayne-a; g:f
+model: n:Vera A; id:/model/vivthomas/vera-a; u:https://www.vivthomas.com/model/vera-a; g:f
 released: 2010-05-11
 director:   Viv Thomas
 rating: 9.3
@@ -6474,8 +6474,8 @@ title: Blonde on Brunette #1
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/angie-george-and-natalie-b/movie/20100510/BLONDE_ON_BRUNETTE_PART_1
-cast: Angie George; https://www.vivthomas.com/model/angie-george; f
-cast: Natalie B; https://www.vivthomas.com/model/natalie-b; f
+model: n:Angie George; id:/model/vivthomas/angie-george; u:https://www.vivthomas.com/model/angie-george; g:f
+model: n:Natalie B; id:/model/vivthomas/natalie-b; u:https://www.vivthomas.com/model/natalie-b; g:f
 released: 2010-05-10
 director:   Viv Thomas
 rating: 8.9
@@ -6540,8 +6540,8 @@ title: EXTRA Pink Velvet Scenes #2
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/lisa-c-and-stella-stevens/movie/20100501/EXTRA_PINK_VELVET_SCENES_PART_2
-cast: Lisa C; https://www.vivthomas.com/model/lisa-c; f
-cast: Stella Stevens; https://www.vivthomas.com/model/stella-stevens; f
+model: n:Lisa C; id:/model/vivthomas/lisa-c; u:https://www.vivthomas.com/model/lisa-c; g:f
+model: n:Stella Stevens; id:/model/vivthomas/stella-stevens; u:https://www.vivthomas.com/model/stella-stevens; g:f
 released: 2010-05-01
 director:   Viv Thomas
 rating: 9.4
@@ -6589,7 +6589,7 @@ title: EXTRA Pink Velvet Scenes #1
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/lisa-c/movie/20100430/EXTRA_PINK_VELVET_SCENES_PART_1
-cast: Lisa C; https://www.vivthomas.com/model/lisa-c; f
+model: n:Lisa C; id:/model/vivthomas/lisa-c; u:https://www.vivthomas.com/model/lisa-c; g:f
 released: 2010-04-30
 director:   Viv Thomas
 rating: 9.3
@@ -6640,8 +6640,8 @@ title: Sex with Sophie Moone #6
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/sophie-moon-and-zafira-a/movie/20100429/SEX_WITH_SOPHIE_MOONE_PART_6
-cast: Sophie Moon; https://www.vivthomas.com/model/sophie-moon; f
-cast: Zafira A; https://www.vivthomas.com/model/zafira-a; f
+model: n:Sophie Moon; id:/model/vivthomas/sophie-moon; u:https://www.vivthomas.com/model/sophie-moon; g:f
+model: n:Zafira A; id:/model/vivthomas/zafira-a; u:https://www.vivthomas.com/model/zafira-a; g:f
 released: 2010-04-29
 director:   Viv Thomas
 rating: 9.5
@@ -6690,7 +6690,7 @@ title: Sex with Sophie Moone #5
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/sophie-moon/movie/20100428/SEX_WITH_SOPHIE_MOONE_PART_5
-cast: Sophie Moon; https://www.vivthomas.com/model/sophie-moon; f
+model: n:Sophie Moon; id:/model/vivthomas/sophie-moon; u:https://www.vivthomas.com/model/sophie-moon; g:f
 released: 2010-04-28
 director:   Viv Thomas
 rating: 9.3
@@ -6733,9 +6733,9 @@ title: Sex with Sophie Moone #4
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/missy-nicole-and-sophie-moon-and-jasmin-b/movie/20100427/SEX_WITH_SOPHIE_MOONE_PART_4
-cast: Missy Nicole; https://www.vivthomas.com/model/missy-nicole; f
-cast: Sophie Moon; https://www.vivthomas.com/model/sophie-moon; f
-cast: Jasmin B; https://www.vivthomas.com/model/jasmin-b; f
+model: n:Missy Nicole; id:/model/vivthomas/missy-nicole; u:https://www.vivthomas.com/model/missy-nicole; g:f
+model: n:Sophie Moon; id:/model/vivthomas/sophie-moon; u:https://www.vivthomas.com/model/sophie-moon; g:f
+model: n:Jasmin B; id:/model/vivthomas/jasmin-b; u:https://www.vivthomas.com/model/jasmin-b; g:f
 released: 2010-04-27
 director:   Viv Thomas
 rating: 9.1
@@ -6783,7 +6783,7 @@ title: Sex with Sophie Moone #3
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/sophie-moon/movie/20100426/SEX_WITH_SOPHIE_MOONE_PART_3
-cast: Sophie Moon; https://www.vivthomas.com/model/sophie-moon; f
+model: n:Sophie Moon; id:/model/vivthomas/sophie-moon; u:https://www.vivthomas.com/model/sophie-moon; g:f
 released: 2010-04-26
 director:   Viv Thomas
 rating: 9.4
@@ -6824,8 +6824,8 @@ title: Sex with Sophie Moone #2
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/sophie-moon-and-kylie-a/movie/20100425/SEX_WITH_SOPHIE_MOONE_PART_2
-cast: Sophie Moon; https://www.vivthomas.com/model/sophie-moon; f
-cast: Kylie A; https://www.vivthomas.com/model/kylie-a; f
+model: n:Sophie Moon; id:/model/vivthomas/sophie-moon; u:https://www.vivthomas.com/model/sophie-moon; g:f
+model: n:Kylie A; id:/model/vivthomas/kylie-a; u:https://www.vivthomas.com/model/kylie-a; g:f
 released: 2010-04-25
 director:   Viv Thomas
 rating: 9.5
@@ -6877,7 +6877,7 @@ title: Sex with Sophie Moone #1
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/sophie-moon/movie/20100424/SEX_WITH_SOPHIE_MOONE_PART_1
-cast: Sophie Moon; https://www.vivthomas.com/model/sophie-moon; f
+model: n:Sophie Moon; id:/model/vivthomas/sophie-moon; u:https://www.vivthomas.com/model/sophie-moon; g:f
 released: 2010-04-24
 director:   Viv Thomas
 rating: 9.4
@@ -6921,7 +6921,7 @@ title: Pussies On View #2.5
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/lisa-c/movie/20100423/PUSSIES_ON_VIEW_VOL_2_PART_5
-cast: Lisa C; https://www.vivthomas.com/model/lisa-c; f
+model: n:Lisa C; id:/model/vivthomas/lisa-c; u:https://www.vivthomas.com/model/lisa-c; g:f
 released: 2010-04-23
 director:   Viv Thomas
 rating: 8.9
@@ -6975,7 +6975,7 @@ title: Pussies On View #2.4
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/simony-diamond/movie/20100422/PUSSIES_ON_VIEW_VOL_2_PART_4
-cast: Simony Diamond; https://www.vivthomas.com/model/simony-diamond; f
+model: n:Simony Diamond; id:/model/vivthomas/simony-diamond; u:https://www.vivthomas.com/model/simony-diamond; g:f
 released: 2010-04-22
 director:   Viv Thomas
 rating: 9.2
@@ -7025,7 +7025,7 @@ title: Pussies On View #2.3
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/sylvie-b/movie/20100421/PUSSIES_ON_VIEW_VOL_2_PART_3
-cast: Sylvie B; https://www.vivthomas.com/model/sylvie-b; f
+model: n:Sylvie B; id:/model/vivthomas/sylvie-b; u:https://www.vivthomas.com/model/sylvie-b; g:f
 released: 2010-04-21
 director:   Viv Thomas
 rating: 9.1
@@ -7073,7 +7073,7 @@ title: Pussies On View #2.2
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/mya-diamond/movie/20100420/PUSSIES_ON_VIEW_VOL_2_PART_2
-cast: Mya Diamond; https://www.vivthomas.com/model/mya-diamond; f
+model: n:Mya Diamond; id:/model/vivthomas/mya-diamond; u:https://www.vivthomas.com/model/mya-diamond; g:f
 released: 2010-04-20
 director:   Viv Thomas
 rating: 8.8
@@ -7124,7 +7124,7 @@ title: Pussies On View #2.1
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/cynthia-a/movie/20100419/PUSSIES_ON_VIEW_VOL_2_PART_1
-cast: Cynthia A; https://www.vivthomas.com/model/cynthia-a; f
+model: n:Cynthia A; id:/model/vivthomas/cynthia-a; u:https://www.vivthomas.com/model/cynthia-a; g:f
 released: 2010-04-19
 director:   Viv Thomas
 rating: 9.0
@@ -7175,7 +7175,7 @@ title: Secrets #6
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/alysa-b/movie/20100418/SECRETS_PART_6
-cast: Alysa B; https://www.vivthomas.com/model/alysa-b; f
+model: n:Alysa B; id:/model/vivthomas/alysa-b; u:https://www.vivthomas.com/model/alysa-b; g:f
 released: 2010-04-18
 director:   Viv Thomas
 rating: 9.3
@@ -7226,8 +7226,8 @@ title: Secrets #5
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/blue-angel-and-shalina-devine/movie/20100417/SECRETS_PART_5
-cast: Blue Angel; https://www.vivthomas.com/model/blue-angel; f
-cast: Shalina Devine; https://www.vivthomas.com/model/shalina-devine; f
+model: n:Blue Angel; id:/model/vivthomas/blue-angel; u:https://www.vivthomas.com/model/blue-angel; g:f
+model: n:Shalina Devine; id:/model/vivthomas/shalina-devine; u:https://www.vivthomas.com/model/shalina-devine; g:f
 released: 2010-04-17
 director:   Viv Thomas
 rating: 9.3
@@ -7286,7 +7286,7 @@ title: Secrets #4
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/bianca-arden/movie/20100416/SECRETS_PART_4
-cast: Bianca Arden; https://www.vivthomas.com/model/bianca-arden; f
+model: n:Bianca Arden; id:/model/vivthomas/bianca-arden; u:https://www.vivthomas.com/model/bianca-arden; g:f
 released: 2010-04-16
 director:   Viv Thomas
 rating: 9.4
@@ -7335,7 +7335,7 @@ title: Secrets #3
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/shalina-devine/movie/20100415/SECRETS_PART_3
-cast: Shalina Devine; https://www.vivthomas.com/model/shalina-devine; f
+model: n:Shalina Devine; id:/model/vivthomas/shalina-devine; u:https://www.vivthomas.com/model/shalina-devine; g:f
 released: 2010-04-15
 director:   Viv Thomas
 rating: 9.5
@@ -7394,7 +7394,7 @@ title: Secrets #2
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/keisha-kane/movie/20100414/SECRETS_PART_2
-cast: Keisha Kane; https://www.vivthomas.com/model/keisha-kane; f
+model: n:Keisha Kane; id:/model/vivthomas/keisha-kane; u:https://www.vivthomas.com/model/keisha-kane; g:f
 released: 2010-04-14
 director:   Viv Thomas
 rating: 9.2
@@ -7443,7 +7443,7 @@ title: Secrets #1
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/bailey-a/movie/20100413/SECRETS_PART_1
-cast: Bailey A; https://www.vivthomas.com/model/bailey-a; f
+model: n:Bailey A; id:/model/vivthomas/bailey-a; u:https://www.vivthomas.com/model/bailey-a; g:f
 released: 2010-04-13
 director:   Viv Thomas
 rating: 9.3
@@ -7497,8 +7497,8 @@ title: All About Eve #5
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/eve-angel-and-mia-stone/movie/20100412/ALL_ABOUT_EVE_PART_5
-cast: Eve Angel; https://www.vivthomas.com/model/eve-angel; f
-cast: Mia Stone; https://www.vivthomas.com/model/mia-stone; f
+model: n:Eve Angel; id:/model/vivthomas/eve-angel; u:https://www.vivthomas.com/model/eve-angel; g:f
+model: n:Mia Stone; id:/model/vivthomas/mia-stone; u:https://www.vivthomas.com/model/mia-stone; g:f
 released: 2010-04-12
 director:   Viv Thomas
 rating: 9.4
@@ -7546,8 +7546,8 @@ title: All About Eve #4
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/judith-fox-and-eve-angel/movie/20100411/ALL_ABOUT_EVE_PART_4
-cast: Judith Fox; https://www.vivthomas.com/model/judith-fox; f
-cast: Eve Angel; https://www.vivthomas.com/model/eve-angel; f
+model: n:Judith Fox; id:/model/vivthomas/judith-fox; u:https://www.vivthomas.com/model/judith-fox; g:f
+model: n:Eve Angel; id:/model/vivthomas/eve-angel; u:https://www.vivthomas.com/model/eve-angel; g:f
 released: 2010-04-11
 director:   Viv Thomas
 rating: 9.5
@@ -7597,8 +7597,8 @@ title: All About Eve #3
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/eve-angel-and-sylvia-lauren/movie/20100410/ALL_ABOUT_EVE_PART_3
-cast: Eve Angel; https://www.vivthomas.com/model/eve-angel; f
-cast: Sylvia Lauren; https://www.vivthomas.com/model/sylvia-lauren; f
+model: n:Eve Angel; id:/model/vivthomas/eve-angel; u:https://www.vivthomas.com/model/eve-angel; g:f
+model: n:Sylvia Lauren; id:/model/vivthomas/sylvia-lauren; u:https://www.vivthomas.com/model/sylvia-lauren; g:f
 released: 2010-04-10
 director:   Viv Thomas
 rating: 9.5
@@ -7649,8 +7649,8 @@ title: All About Eve #2
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/eve-angel-and-jamie-a/movie/20100409/ALL_ABOUT_EVE_PART_2
-cast: Eve Angel; https://www.vivthomas.com/model/eve-angel; f
-cast: Jamie A; https://www.vivthomas.com/model/jamie-a; f
+model: n:Eve Angel; id:/model/vivthomas/eve-angel; u:https://www.vivthomas.com/model/eve-angel; g:f
+model: n:Jamie A; id:/model/vivthomas/jamie-a; u:https://www.vivthomas.com/model/jamie-a; g:f
 released: 2010-04-09
 director:   Viv Thomas
 rating: 9.2
@@ -7703,8 +7703,8 @@ title: All About Eve #1
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/sandra-shine-and-eve-angel/movie/20100408/ALL_ABOUT_EVE_PART_1
-cast: Sandra Shine; https://www.vivthomas.com/model/sandra-shine; f
-cast: Eve Angel; https://www.vivthomas.com/model/eve-angel; f
+model: n:Sandra Shine; id:/model/vivthomas/sandra-shine; u:https://www.vivthomas.com/model/sandra-shine; g:f
+model: n:Eve Angel; id:/model/vivthomas/eve-angel; u:https://www.vivthomas.com/model/eve-angel; g:f
 released: 2010-04-08
 director:   Viv Thomas
 rating: 9.4
@@ -7762,7 +7762,7 @@ title: Family Affairs #7
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/valery-summer/movie/20100331/FAMILY_AFFAIRS_PART_7
-cast: Valery Summer; https://www.vivthomas.com/model/valery-summer; f
+model: n:Valery Summer; id:/model/vivthomas/valery-summer; u:https://www.vivthomas.com/model/valery-summer; g:f
 released: 2010-03-31
 director:   Viv Thomas
 rating: 9.5
@@ -7808,8 +7808,8 @@ title: Family Affairs #6
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/zara-a-and-eve-smile/movie/20100330/FAMILY_AFFAIRS_PART_6
-cast: Zara A; https://www.vivthomas.com/model/zara-a; f
-cast: Eve Smile; https://www.vivthomas.com/model/eve-smile; f
+model: n:Zara A; id:/model/vivthomas/zara-a; u:https://www.vivthomas.com/model/zara-a; g:f
+model: n:Eve Smile; id:/model/vivthomas/eve-smile; u:https://www.vivthomas.com/model/eve-smile; g:f
 released: 2010-03-30
 director:   Viv Thomas
 rating: 9.3
@@ -7854,7 +7854,7 @@ title: Family Affairs #5
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/jessica-moore/movie/20100329/FAMILY_AFFAIRS_PART_5
-cast: Jessica Moore; https://www.vivthomas.com/model/jessica-moore; f
+model: n:Jessica Moore; id:/model/vivthomas/jessica-moore; u:https://www.vivthomas.com/model/jessica-moore; g:f
 released: 2010-03-29
 director:   Viv Thomas
 rating: 9.4
@@ -7886,7 +7886,7 @@ title: Family Affairs #4
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/tanya-tate/movie/20100328/FAMILY_AFFAIRS_PART_4
-cast: Tanya Tate; https://www.vivthomas.com/model/tanya-tate; f
+model: n:Tanya Tate; id:/model/vivthomas/tanya-tate; u:https://www.vivthomas.com/model/tanya-tate; g:f
 released: 2010-03-28
 director:   Viv Thomas
 rating: 9.3
@@ -7927,8 +7927,8 @@ title: Family Affairs #3
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/goldie-b-and-tina-gabriel/movie/20100327/FAMILY_AFFAIRS_PART_3
-cast: Goldie B; https://www.vivthomas.com/model/goldie-b; f
-cast: Tina Gabriel; https://www.vivthomas.com/model/tina-gabriel; f
+model: n:Goldie B; id:/model/vivthomas/goldie-b; u:https://www.vivthomas.com/model/goldie-b; g:f
+model: n:Tina Gabriel; id:/model/vivthomas/tina-gabriel; u:https://www.vivthomas.com/model/tina-gabriel; g:f
 released: 2010-03-27
 director:   Viv Thomas
 rating: 9.0
@@ -7972,7 +7972,7 @@ title: Family Affairs #2
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/nesty-a/movie/20100326/FAMILY_AFFAIRS_PART_2
-cast: Nesty A; https://www.vivthomas.com/model/nesty-a; f
+model: n:Nesty A; id:/model/vivthomas/nesty-a; u:https://www.vivthomas.com/model/nesty-a; g:f
 released: 2010-03-26
 director:   Viv Thomas
 rating: 9.2
@@ -8005,7 +8005,7 @@ title: Family Affairs #1
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/carla-cox/movie/20100325/FAMILY_AFFAIRS_PART_1
-cast: Carla Cox; https://www.vivthomas.com/model/carla-cox; f
+model: n:Carla Cox; id:/model/vivthomas/carla-cox; u:https://www.vivthomas.com/model/carla-cox; g:f
 released: 2010-03-25
 director:   Viv Thomas
 rating: 9.4
@@ -8043,8 +8043,8 @@ title: Three Nights with Vera #3
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/vera-a-and-blue-angel/movie/20100324/THREE_NIGHTS_WITH_VERA_PART_3
-cast: Vera A; https://www.vivthomas.com/model/vera-a; f
-cast: Blue Angel; https://www.vivthomas.com/model/blue-angel; f
+model: n:Vera A; id:/model/vivthomas/vera-a; u:https://www.vivthomas.com/model/vera-a; g:f
+model: n:Blue Angel; id:/model/vivthomas/blue-angel; u:https://www.vivthomas.com/model/blue-angel; g:f
 released: 2010-03-24
 director:   Viv Thomas
 rating: 9.5
@@ -8087,8 +8087,8 @@ title: Three Nights with Vera #2
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/vera-a-and-brandy-smile/movie/20100323/THREE_NIGHTS_WITH_VERA_PART_2
-cast: Vera A; https://www.vivthomas.com/model/vera-a; f
-cast: Brandy Smile; https://www.vivthomas.com/model/brandy-smile; f
+model: n:Vera A; id:/model/vivthomas/vera-a; u:https://www.vivthomas.com/model/vera-a; g:f
+model: n:Brandy Smile; id:/model/vivthomas/brandy-smile; u:https://www.vivthomas.com/model/brandy-smile; g:f
 released: 2010-03-23
 director:   Viv Thomas
 rating: 9.1
@@ -8124,8 +8124,8 @@ title: Three Nights with Vera #1
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/vera-a-and-nikita-d/movie/20100322/THREE_NIGHTS_WITH_VERA_PART_1
-cast: Vera A; https://www.vivthomas.com/model/vera-a; f
-cast: Nikita D; https://www.vivthomas.com/model/nikita-d; f
+model: n:Vera A; id:/model/vivthomas/vera-a; u:https://www.vivthomas.com/model/vera-a; g:f
+model: n:Nikita D; id:/model/vivthomas/nikita-d; u:https://www.vivthomas.com/model/nikita-d; g:f
 released: 2010-03-22
 director:   Viv Thomas
 rating: 9.2
@@ -8167,12 +8167,12 @@ tag: watch
 title: Searching for Silvia Extras 1
 type: movie
 site: VivThomas
-cast: n:Janine B; u:https://www.vivthomas.com/model/janine-b
-cast: n:Tara A; u:https://www.vivthomas.com/model/tara-a
-cast: n:Jamie A; u:https://www.vivthomas.com/model/jamie-a
-cast: n:Silvia Saint; u:https://www.vivthomas.com/model/silvia-saint
-cast: n:Henrietta A; u:https://www.vivthomas.com/model/henrietta-a
-cast: n:Jo; u:https://www.vivthomas.com/model/jo
+model: n:Janine B; id:/model/vivthomas/janine-b; u:https://www.vivthomas.com/model/janine-b
+model: n:Tara A; id:/model/vivthomas/tara-a; u:https://www.vivthomas.com/model/tara-a
+model: n:Jamie A; id:/model/vivthomas/jamie-a; u:https://www.vivthomas.com/model/jamie-a
+model: n:Silvia Saint; id:/model/vivthomas/silvia-saint; u:https://www.vivthomas.com/model/silvia-saint
+model: n:Henrietta A; id:/model/vivthomas/henrietta-a; u:https://www.vivthomas.com/model/henrietta-a
+model: n:Jo; id:/model/vivthomas/jo; u:https://www.vivthomas.com/model/jo
 released: 2010-03-30
 director: Viv Thomas
 fileprefix: VivThomas-20100330-searching-for-silvia-extras-01-
@@ -8208,8 +8208,8 @@ title: Girl on Girl #4.7
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/eva-jordan-and-melissa-b/movie/20100321/GIRL_ON_GIRL_4_PART_7
-cast: Eva Jordan; https://www.vivthomas.com/model/eva-jordan; f
-cast: Melissa B; https://www.vivthomas.com/model/melissa-b; f
+model: n:Eva Jordan; id:/model/vivthomas/eva-jordan; u:https://www.vivthomas.com/model/eva-jordan; g:f
+model: n:Melissa B; id:/model/vivthomas/melissa-b; u:https://www.vivthomas.com/model/melissa-b; g:f
 released: 2010-03-21
 director:   Viv Thomas
 rating: 8.9
@@ -8252,8 +8252,8 @@ title: Girl on Girl #4.6
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/sunny-a-and-jo/movie/20100320/GIRL_ON_GIRL_4_PART_6
-cast: Sunny A; https://www.vivthomas.com/model/sunny-a; f
-cast: Jo; https://www.vivthomas.com/model/jo; f
+model: n:Sunny A; id:/model/vivthomas/sunny-a; u:https://www.vivthomas.com/model/sunny-a; g:f
+model: n:Jo; id:/model/vivthomas/jo; u:https://www.vivthomas.com/model/jo; g:f
 released: 2010-03-20
 director:   Viv Thomas
 rating: 9.2
@@ -8286,8 +8286,8 @@ title: Girl on Girl #4.5
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/lolly-a-and-jasmine-rouge/movie/20100319/GIRL_ON_GIRL_4_PART_5
-cast: Lolly A; https://www.vivthomas.com/model/lolly-a; f
-cast: Jasmine Rouge; https://www.vivthomas.com/model/jasmine-rouge; f
+model: n:Lolly A; id:/model/vivthomas/lolly-a; u:https://www.vivthomas.com/model/lolly-a; g:f
+model: n:Jasmine Rouge; id:/model/vivthomas/jasmine-rouge; u:https://www.vivthomas.com/model/jasmine-rouge; g:f
 released: 2010-03-19
 director:   Viv Thomas
 rating: 9.3
@@ -8313,8 +8313,8 @@ title: Girl on Girl #4.4
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/zara-a-and-jane-b/movie/20100318/GIRL_ON_GIRL_4_PART_4
-cast: Zara A; https://www.vivthomas.com/model/zara-a; f
-cast: Jane B; https://www.vivthomas.com/model/jane-b; f
+model: n:Zara A; id:/model/vivthomas/zara-a; u:https://www.vivthomas.com/model/zara-a; g:f
+model: n:Jane B; id:/model/vivthomas/jane-b; u:https://www.vivthomas.com/model/jane-b; g:f
 released: 2010-03-18
 director:   Viv Thomas
 rating: 9.3
@@ -8340,8 +8340,8 @@ title: Girl on Girl #4.3
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/eve-angel-and-vivien-b/movie/20100317/GIRL_ON_GIRL_4_PART_3
-cast: Eve Angel; https://www.vivthomas.com/model/eve-angel; f
-cast: Vivien B; https://www.vivthomas.com/model/vivien-b; f
+model: n:Eve Angel; id:/model/vivthomas/eve-angel; u:https://www.vivthomas.com/model/eve-angel; g:f
+model: n:Vivien B; id:/model/vivthomas/vivien-b; u:https://www.vivthomas.com/model/vivien-b; g:f
 released: 2010-03-17
 director:   Viv Thomas
 rating: 9.3
@@ -8366,8 +8366,8 @@ title: Girl on Girl #4.2
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/cindy-dollar-and-gina-blonde/movie/20100316/GIRL_ON_GIRL_4_PART_2
-cast: Cindy Dollar; https://www.vivthomas.com/model/cindy-dollar; f
-cast: Gina Blonde; https://www.vivthomas.com/model/gina-blonde; f
+model: n:Cindy Dollar; id:/model/vivthomas/cindy-dollar; u:https://www.vivthomas.com/model/cindy-dollar; g:f
+model: n:Gina Blonde; id:/model/vivthomas/gina-blonde; u:https://www.vivthomas.com/model/gina-blonde; g:f
 released: 2010-03-16
 director:   Viv Thomas
 rating: 9.0
@@ -8393,8 +8393,8 @@ title: Girl on Girl #4.1
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/cindy-love-and-gina-b/movie/20100315/GIRL_ON_GIRL_4_PART_1
-cast: Cindy Love; https://www.vivthomas.com/model/cindy-love; f
-cast: Gina B; https://www.vivthomas.com/model/gina-b; f
+model: n:Cindy Love; id:/model/vivthomas/cindy-love; u:https://www.vivthomas.com/model/cindy-love; g:f
+model: n:Gina B; id:/model/vivthomas/gina-b; u:https://www.vivthomas.com/model/gina-b; g:f
 released: 2010-03-15
 director:   Viv Thomas
 rating: 9.1
@@ -8417,7 +8417,7 @@ title: The Art of Sex Extras 2
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/jo/movie/20100310/THE_ART_OF_SEX_EXTRAS_2
-cast: Jo; https://www.vivthomas.com/model/jo; f
+model: n:Jo; id:/model/vivthomas/jo; u:https://www.vivthomas.com/model/jo; g:f
 released: 2010-03-10
 director:   Viv Thomas
 rating: 9.4
@@ -8448,8 +8448,8 @@ title: Inside Peaches #6
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/stella-stevens-and-peaches-a/movie/20100309/INSIDE_PEACHES_PART_6
-cast: Stella Stevens; https://www.vivthomas.com/model/stella-stevens; f
-cast: Peaches A; https://www.vivthomas.com/model/peaches-a; f
+model: n:Stella Stevens; id:/model/vivthomas/stella-stevens; u:https://www.vivthomas.com/model/stella-stevens; g:f
+model: n:Peaches A; id:/model/vivthomas/peaches-a; u:https://www.vivthomas.com/model/peaches-a; g:f
 released: 2010-03-09
 director:   Viv Thomas
 rating: 9.3
@@ -8507,8 +8507,8 @@ title: Inside Peaches #5
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/peaches-a-and-jo/movie/20100308/INSIDE_PEACHES_PART_5
-cast: Peaches A; https://www.vivthomas.com/model/peaches-a; f
-cast: Jo; https://www.vivthomas.com/model/jo; f
+model: n:Peaches A; id:/model/vivthomas/peaches-a; u:https://www.vivthomas.com/model/peaches-a; g:f
+model: n:Jo; id:/model/vivthomas/jo; u:https://www.vivthomas.com/model/jo; g:f
 released: 2010-03-08
 director:   Viv Thomas
 rating: 9.5
@@ -8567,8 +8567,8 @@ title: Inside Peaches #4
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/peaches-a-and-silvia-saint/movie/20100307/INSIDE_PEACHES_PART_4
-cast: Peaches A; https://www.vivthomas.com/model/peaches-a; f
-cast: Silvia Saint; https://www.vivthomas.com/model/silvia-saint; f
+model: n:Peaches A; id:/model/vivthomas/peaches-a; u:https://www.vivthomas.com/model/peaches-a; g:f
+model: n:Silvia Saint; id:/model/vivthomas/silvia-saint; u:https://www.vivthomas.com/model/silvia-saint; g:f
 released: 2010-03-07
 director:   Viv Thomas
 rating: 9.3
@@ -8630,8 +8630,8 @@ title: Inside Peaches #3
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/lisa-c-and-peaches-a/movie/20100306/INSIDE_PEACHES_PART_3
-cast: Lisa C; https://www.vivthomas.com/model/lisa-c; f
-cast: Peaches A; https://www.vivthomas.com/model/peaches-a; f
+model: n:Lisa C; id:/model/vivthomas/lisa-c; u:https://www.vivthomas.com/model/lisa-c; g:f
+model: n:Peaches A; id:/model/vivthomas/peaches-a; u:https://www.vivthomas.com/model/peaches-a; g:f
 released: 2010-03-06
 director:   Viv Thomas
 rating: 9.1
@@ -8687,9 +8687,9 @@ title: Inside Peaches #2
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/peaches-a-and-jo-and-sonia-red/movie/20100305/INSIDE_PEACHES_PART_2
-cast: Peaches A; https://www.vivthomas.com/model/peaches-a; f
-cast: Jo; https://www.vivthomas.com/model/jo; f
-cast: Sonia Red; https://www.vivthomas.com/model/sonia-red; f
+model: n:Peaches A; id:/model/vivthomas/peaches-a; u:https://www.vivthomas.com/model/peaches-a; g:f
+model: n:Jo; id:/model/vivthomas/jo; u:https://www.vivthomas.com/model/jo; g:f
+model: n:Sonia Red; id:/model/vivthomas/sonia-red; u:https://www.vivthomas.com/model/sonia-red; g:f
 released: 2010-03-05
 director:   Viv Thomas
 rating: 9.3
@@ -8745,8 +8745,8 @@ title: Inside Peaches #1
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/peaches-a-and-eve-angel/movie/20100304/INSIDE_PEACHES_PART_1
-cast: Peaches A; https://www.vivthomas.com/model/peaches-a; f
-cast: Eve Angel; https://www.vivthomas.com/model/eve-angel; f
+model: n:Peaches A; id:/model/vivthomas/peaches-a; u:https://www.vivthomas.com/model/peaches-a; g:f
+model: n:Eve Angel; id:/model/vivthomas/eve-angel; u:https://www.vivthomas.com/model/eve-angel; g:f
 released: 2010-03-04
 director:   Viv Thomas
 rating: 9.4
@@ -8802,8 +8802,8 @@ title: Tales of the Clit #6
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/silvia-saint-and-nella-a/movie/20100303/TALES_OF_THE_CLIT_PART_6
-cast: Silvia Saint; https://www.vivthomas.com/model/silvia-saint; f
-cast: Nella A; https://www.vivthomas.com/model/nella-a; f
+model: n:Silvia Saint; id:/model/vivthomas/silvia-saint; u:https://www.vivthomas.com/model/silvia-saint; g:f
+model: n:Nella A; id:/model/vivthomas/nella-a; u:https://www.vivthomas.com/model/nella-a; g:f
 released: 2010-03-03
 director:   Viv Thomas
 rating: 9.2
@@ -8827,8 +8827,8 @@ title: Tales of the Clit #5
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/silvia-saint-and-lisa-c/movie/20100302/TALES_OF_THE_CLIT_PART_5
-cast: Silvia Saint; https://www.vivthomas.com/model/silvia-saint; f
-cast: Lisa C; https://www.vivthomas.com/model/lisa-c; f
+model: n:Silvia Saint; id:/model/vivthomas/silvia-saint; u:https://www.vivthomas.com/model/silvia-saint; g:f
+model: n:Lisa C; id:/model/vivthomas/lisa-c; u:https://www.vivthomas.com/model/lisa-c; g:f
 released: 2010-03-02
 director:   Viv Thomas
 rating: 9.3
@@ -8852,8 +8852,8 @@ title: Tales of the Clit #4
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/suzie-diamond-and-lisa-c/movie/20100301/TALES_OF_THE_CLIT_PART_4
-cast: Suzie Diamond; https://www.vivthomas.com/model/suzie-diamond; f
-cast: Lisa C; https://www.vivthomas.com/model/lisa-c; f
+model: n:Suzie Diamond; id:/model/vivthomas/suzie-diamond; u:https://www.vivthomas.com/model/suzie-diamond; g:f
+model: n:Lisa C; id:/model/vivthomas/lisa-c; u:https://www.vivthomas.com/model/lisa-c; g:f
 released: 2010-03-01
 director:   Viv Thomas
 rating: 9.1
@@ -8877,8 +8877,8 @@ title: Tales of the Clit #3
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/silvia-saint-and-suzie-diamond/movie/20100228/TALES_OF_THE_CLIT_PART_3
-cast: Silvia Saint; https://www.vivthomas.com/model/silvia-saint; f
-cast: Suzie Diamond; https://www.vivthomas.com/model/suzie-diamond; f
+model: n:Silvia Saint; id:/model/vivthomas/silvia-saint; u:https://www.vivthomas.com/model/silvia-saint; g:f
+model: n:Suzie Diamond; id:/model/vivthomas/suzie-diamond; u:https://www.vivthomas.com/model/suzie-diamond; g:f
 released: 2010-02-28
 director:   Viv Thomas
 rating: 8.9
@@ -8904,8 +8904,8 @@ title: Tales of the Clit #2
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/eufrat-a-and-silvia-saint/movie/20100227/TALES_OF_THE_CLIT_PART_2
-cast: Eufrat A; https://www.vivthomas.com/model/eufrat-a; f
-cast: Silvia Saint; https://www.vivthomas.com/model/silvia-saint; f
+model: n:Eufrat A; id:/model/vivthomas/eufrat-a; u:https://www.vivthomas.com/model/eufrat-a; g:f
+model: n:Silvia Saint; id:/model/vivthomas/silvia-saint; u:https://www.vivthomas.com/model/silvia-saint; g:f
 released: 2010-02-27
 director:   Viv Thomas
 rating: 9.3
@@ -8932,8 +8932,8 @@ title: Tales of the Clit #1
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/eufrat-a-and-nella-a/movie/20100226/TALES_OF_THE_CLIT_PART_1
-cast: Eufrat A; https://www.vivthomas.com/model/eufrat-a; f
-cast: Nella A; https://www.vivthomas.com/model/nella-a; f
+model: n:Eufrat A; id:/model/vivthomas/eufrat-a; u:https://www.vivthomas.com/model/eufrat-a; g:f
+model: n:Nella A; id:/model/vivthomas/nella-a; u:https://www.vivthomas.com/model/nella-a; g:f
 released: 2010-02-26
 director:   Viv Thomas
 rating: 9.5
@@ -8961,8 +8961,8 @@ title: Bubblegum Babes #4.6
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/natalie-c-and-pauline-a/movie/20100217/BUBBLEGUM_BABES_4_PART_6
-cast: Natalie C; https://www.vivthomas.com/model/natalie-c; f
-cast: Pauline A; https://www.vivthomas.com/model/pauline-a; f
+model: n:Natalie C; id:/model/vivthomas/natalie-c; u:https://www.vivthomas.com/model/natalie-c; g:f
+model: n:Pauline A; id:/model/vivthomas/pauline-a; u:https://www.vivthomas.com/model/pauline-a; g:f
 released: 2010-02-17
 director:   Viv Thomas
 rating: 9.0
@@ -9016,7 +9016,7 @@ title: Bubblegum Babes #4.5
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/jo/movie/20100216/BUBBLEGUM_BABES_4_PART_5
-cast: Jo; https://www.vivthomas.com/model/jo; f
+model: n:Jo; id:/model/vivthomas/jo; u:https://www.vivthomas.com/model/jo; g:f
 released: 2010-02-16
 director:   Viv Thomas
 rating: 9.4
@@ -9055,8 +9055,8 @@ title: Bubblegum Babes #4.4
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/jamie-a-and-ginie-a/movie/20100215/BUBBLEGUM_BABES_4_PART_4
-cast: Jamie A; https://www.vivthomas.com/model/jamie-a; f
-cast: Ginie A; https://www.vivthomas.com/model/ginie-a; f
+model: n:Jamie A; id:/model/vivthomas/jamie-a; u:https://www.vivthomas.com/model/jamie-a; g:f
+model: n:Ginie A; id:/model/vivthomas/ginie-a; u:https://www.vivthomas.com/model/ginie-a; g:f
 released: 2010-02-15
 director:   Viv Thomas
 rating: 9.1
@@ -9106,8 +9106,8 @@ title: In the Family #6
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/emilianna-a-and-melisande-a/movie/20100214/IN_THE_FAMILY_PART_6
-cast: Emilianna A; https://www.vivthomas.com/model/emilianna-a; f
-cast: Melisande A; https://www.vivthomas.com/model/melisande-a; f
+model: n:Emilianna A; id:/model/vivthomas/emilianna-a; u:https://www.vivthomas.com/model/emilianna-a; g:f
+model: n:Melisande A; id:/model/vivthomas/melisande-a; u:https://www.vivthomas.com/model/melisande-a; g:f
 released: 2010-02-14
 director:   Viv Thomas
 rating: 9.5
@@ -9162,9 +9162,9 @@ title: Bubblegum Babes #4.3
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/jo-and-ginie-a-and-jamie-a/movie/20100214/BUBBLEGUM_BABES_4_PART_3
-cast: Jo; https://www.vivthomas.com/model/jo; f
-cast: Ginie A; https://www.vivthomas.com/model/ginie-a; f
-cast: Jamie A; https://www.vivthomas.com/model/jamie-a; f
+model: n:Jo; id:/model/vivthomas/jo; u:https://www.vivthomas.com/model/jo; g:f
+model: n:Ginie A; id:/model/vivthomas/ginie-a; u:https://www.vivthomas.com/model/ginie-a; g:f
+model: n:Jamie A; id:/model/vivthomas/jamie-a; u:https://www.vivthomas.com/model/jamie-a; g:f
 released: 2010-02-14
 director:   Viv Thomas
 rating: 9.5
@@ -9220,8 +9220,8 @@ title: In the Family #5
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/penny-flame-and-michelle-lay/movie/20100213/IN_THE_FAMILY_PART_5
-cast: Penny Flame; https://www.vivthomas.com/model/penny-flame; f
-cast: Michelle Lay; https://www.vivthomas.com/model/michelle-lay; f
+model: n:Penny Flame; id:/model/vivthomas/penny-flame; u:https://www.vivthomas.com/model/penny-flame; g:f
+model: n:Michelle Lay; id:/model/vivthomas/michelle-lay; u:https://www.vivthomas.com/model/michelle-lay; g:f
 released: 2010-02-13
 director:   Viv Thomas
 rating: 9.4
@@ -9278,7 +9278,7 @@ title: Bubblegum Babes #4.2
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/jamie-a/movie/20100213/BUBBLEGUM_BABES_4_PART_2
-cast: Jamie A; https://www.vivthomas.com/model/jamie-a; f
+model: n:Jamie A; id:/model/vivthomas/jamie-a; u:https://www.vivthomas.com/model/jamie-a; g:f
 released: 2010-02-13
 director:   Viv Thomas
 rating: 9.4
@@ -9322,8 +9322,8 @@ title: In the Family #4
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/melisande-a-and-angela-stone/movie/20100212/IN_THE_FAMILY_PART_4
-cast: Melisande A; https://www.vivthomas.com/model/melisande-a; f
-cast: Angela Stone; https://www.vivthomas.com/model/angela-stone; f
+model: n:Melisande A; id:/model/vivthomas/melisande-a; u:https://www.vivthomas.com/model/melisande-a; g:f
+model: n:Angela Stone; id:/model/vivthomas/angela-stone; u:https://www.vivthomas.com/model/angela-stone; g:f
 released: 2010-02-12
 director:   Viv Thomas
 rating: 9.3
@@ -9369,8 +9369,8 @@ title: Bubblegum Babes #4.1
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/olivia-a-and-ella-a/movie/20100212/BUBBLEGUM_BABES_4_PART_1
-cast: Olivia A; https://www.vivthomas.com/model/olivia-a; f
-cast: Ella A; https://www.vivthomas.com/model/ella-a; f
+model: n:Olivia A; id:/model/vivthomas/olivia-a; u:https://www.vivthomas.com/model/olivia-a; g:f
+model: n:Ella A; id:/model/vivthomas/ella-a; u:https://www.vivthomas.com/model/ella-a; g:f
 released: 2010-02-12
 director:   Viv Thomas
 rating: 9.0
@@ -9419,8 +9419,8 @@ title: In the Family #3
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/emilianna-a-and-michelle-lay/movie/20100211/IN_THE_FAMILY_PART_3
-cast: Emilianna A; https://www.vivthomas.com/model/emilianna-a; f
-cast: Michelle Lay; https://www.vivthomas.com/model/michelle-lay; f
+model: n:Emilianna A; id:/model/vivthomas/emilianna-a; u:https://www.vivthomas.com/model/emilianna-a; g:f
+model: n:Michelle Lay; id:/model/vivthomas/michelle-lay; u:https://www.vivthomas.com/model/michelle-lay; g:f
 released: 2010-02-11
 director:   Viv Thomas
 rating: 9.3
@@ -9471,8 +9471,8 @@ title: In the Family #2
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/delilah-jones-and-angela-stone/movie/20100210/IN_THE_FAMILY_PART_2
-cast: Delilah Jones; https://www.vivthomas.com/model/delilah-jones; f
-cast: Angela Stone; https://www.vivthomas.com/model/angela-stone; f
+model: n:Delilah Jones; id:/model/vivthomas/delilah-jones; u:https://www.vivthomas.com/model/delilah-jones; g:f
+model: n:Angela Stone; id:/model/vivthomas/angela-stone; u:https://www.vivthomas.com/model/angela-stone; g:f
 released: 2010-02-10
 director:   Viv Thomas
 rating: 9.1
@@ -9519,8 +9519,8 @@ title: In the Family #1
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/kinzie-kenner-and-penny-flame/movie/20100209/IN_THE_FAMILY_PART_1
-cast: Kinzie Kenner; https://www.vivthomas.com/model/kinzie-kenner; f
-cast: Penny Flame; https://www.vivthomas.com/model/penny-flame; f
+model: n:Kinzie Kenner; id:/model/vivthomas/kinzie-kenner; u:https://www.vivthomas.com/model/kinzie-kenner; g:f
+model: n:Penny Flame; id:/model/vivthomas/penny-flame; u:https://www.vivthomas.com/model/penny-flame; g:f
 released: 2010-02-09
 director:   Viv Thomas
 rating: 9.4
@@ -9563,8 +9563,8 @@ title: Six Days With Vera #2.3
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/vera-a-and-stella-stevens/movie/20100208/SIX_DAYS_WITH_VERA_VOL._2_PART_3
-cast: Vera A; https://www.vivthomas.com/model/vera-a; f
-cast: Stella Stevens; https://www.vivthomas.com/model/stella-stevens; f
+model: n:Vera A; id:/model/vivthomas/vera-a; u:https://www.vivthomas.com/model/vera-a; g:f
+model: n:Stella Stevens; id:/model/vivthomas/stella-stevens; u:https://www.vivthomas.com/model/stella-stevens; g:f
 released: 2010-02-08
 director:   Viv Thomas
 rating: 9.3
@@ -9617,8 +9617,8 @@ title: Six Days With Vera #2.2
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/vera-a-and-eve-angel/movie/20100207/SIX_DAYS_WITH_VERA_VOL._2_PART_2
-cast: Vera A; https://www.vivthomas.com/model/vera-a; f
-cast: Eve Angel; https://www.vivthomas.com/model/eve-angel; f
+model: n:Vera A; id:/model/vivthomas/vera-a; u:https://www.vivthomas.com/model/vera-a; g:f
+model: n:Eve Angel; id:/model/vivthomas/eve-angel; u:https://www.vivthomas.com/model/eve-angel; g:f
 released: 2010-02-07
 director:   Viv Thomas
 rating: 9.5
@@ -9671,8 +9671,8 @@ title: Six Days With Vera #2.1
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/jo-and-vera-a/movie/20100206/SIX_DAYS_WITH_VERA_VOL._2_PART_1
-cast: Jo; https://www.vivthomas.com/model/jo; f
-cast: Vera A; https://www.vivthomas.com/model/vera-a; f
+model: n:Jo; id:/model/vivthomas/jo; u:https://www.vivthomas.com/model/jo; g:f
+model: n:Vera A; id:/model/vivthomas/vera-a; u:https://www.vivthomas.com/model/vera-a; g:f
 released: 2010-02-06
 director:   Viv Thomas
 rating: 9.5
@@ -9720,9 +9720,9 @@ title: Six Days #3
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/bambi-a-and-vera-a-and-sandra-shine/movie/20100205/SIX_DAYS_PART_3
-cast: Bambi A; https://www.vivthomas.com/model/bambi-a; f
-cast: Vera A; https://www.vivthomas.com/model/vera-a; f
-cast: Sandra Shine; https://www.vivthomas.com/model/sandra-shine; f
+model: n:Bambi A; id:/model/vivthomas/bambi-a; u:https://www.vivthomas.com/model/bambi-a; g:f
+model: n:Vera A; id:/model/vivthomas/vera-a; u:https://www.vivthomas.com/model/vera-a; g:f
+model: n:Sandra Shine; id:/model/vivthomas/sandra-shine; u:https://www.vivthomas.com/model/sandra-shine; g:f
 released: 2010-02-05
 director:   Viv Thomas
 rating: 9.4
@@ -9773,8 +9773,8 @@ title: Six Days #2
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/vera-a-and-bambi-b/movie/20100204/SIX_DAYS_PART_2
-cast: Vera A; https://www.vivthomas.com/model/vera-a; f
-cast: Bambi B; https://www.vivthomas.com/model/bambi-b; f
+model: n:Vera A; id:/model/vivthomas/vera-a; u:https://www.vivthomas.com/model/vera-a; g:f
+model: n:Bambi B; id:/model/vivthomas/bambi-b; u:https://www.vivthomas.com/model/bambi-b; g:f
 released: 2010-02-04
 director:   Viv Thomas
 rating: 9.3
@@ -9826,8 +9826,8 @@ title: Six Days #1
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/sophie-moon-and-vera-a/movie/20100203/SIX_DAYS_PART_1
-cast: Sophie Moon; https://www.vivthomas.com/model/sophie-moon; f
-cast: Vera A; https://www.vivthomas.com/model/vera-a; f
+model: n:Sophie Moon; id:/model/vivthomas/sophie-moon; u:https://www.vivthomas.com/model/sophie-moon; g:f
+model: n:Vera A; id:/model/vivthomas/vera-a; u:https://www.vivthomas.com/model/vera-a; g:f
 released: 2010-02-03
 director:   Viv Thomas
 rating: 9.5
@@ -9878,8 +9878,8 @@ title: I Love Jo #3
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/kylie-a-and-jo/movie/20100202/I_LOVE_JO_PART_3
-cast: Kylie A; https://www.vivthomas.com/model/kylie-a; f
-cast: Jo; https://www.vivthomas.com/model/jo; f
+model: n:Kylie A; id:/model/vivthomas/kylie-a; u:https://www.vivthomas.com/model/kylie-a; g:f
+model: n:Jo; id:/model/vivthomas/jo; u:https://www.vivthomas.com/model/jo; g:f
 released: 2010-02-02
 director:   Viv Thomas
 rating: 9.5
@@ -9929,8 +9929,8 @@ title: I Love Jo #2
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/silvia-saint-and-kylie-a/movie/20100201/I_LOVE_JO_PART_2
-cast: Silvia Saint; https://www.vivthomas.com/model/silvia-saint; f
-cast: Kylie A; https://www.vivthomas.com/model/kylie-a; f
+model: n:Silvia Saint; id:/model/vivthomas/silvia-saint; u:https://www.vivthomas.com/model/silvia-saint; g:f
+model: n:Kylie A; id:/model/vivthomas/kylie-a; u:https://www.vivthomas.com/model/kylie-a; g:f
 released: 2010-02-01
 director:   Viv Thomas
 rating: 9.2
@@ -9976,9 +9976,9 @@ title: I Love Jo #1
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/jo-and-kylie-a-and-penny-flame/movie/20100131/I_LOVE_JO_PART_1
-cast: Jo; https://www.vivthomas.com/model/jo; f
-cast: Kylie A; https://www.vivthomas.com/model/kylie-a; f
-cast: Penny Flame; https://www.vivthomas.com/model/penny-flame; f
+model: n:Jo; id:/model/vivthomas/jo; u:https://www.vivthomas.com/model/jo; g:f
+model: n:Kylie A; id:/model/vivthomas/kylie-a; u:https://www.vivthomas.com/model/kylie-a; g:f
+model: n:Penny Flame; id:/model/vivthomas/penny-flame; u:https://www.vivthomas.com/model/penny-flame; g:f
 released: 2010-01-31
 director:   Viv Thomas
 rating: 9.3
@@ -10032,8 +10032,8 @@ title: Sex Tapes - Jo and Eve Angel #3
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/eve-angel-and-jo/movie/20100130/SEX_TAPES_-_JO_&_EVE_ANGEL_PART_3
-cast: Eve Angel; https://www.vivthomas.com/model/eve-angel; f
-cast: Jo; https://www.vivthomas.com/model/jo; f
+model: n:Eve Angel; id:/model/vivthomas/eve-angel; u:https://www.vivthomas.com/model/eve-angel; g:f
+model: n:Jo; id:/model/vivthomas/jo; u:https://www.vivthomas.com/model/jo; g:f
 released: 2010-01-30
 director:   Viv Thomas
 rating: 9.5
@@ -10080,8 +10080,8 @@ title: Sex Tapes - Jo and Eve Angel #2
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/jo-and-eve-angel/movie/20100129/SEX_TAPES_-_JO_&_EVE_ANGEL_PART_2
-cast: Jo; https://www.vivthomas.com/model/jo; f
-cast: Eve Angel; https://www.vivthomas.com/model/eve-angel; f
+model: n:Jo; id:/model/vivthomas/jo; u:https://www.vivthomas.com/model/jo; g:f
+model: n:Eve Angel; id:/model/vivthomas/eve-angel; u:https://www.vivthomas.com/model/eve-angel; g:f
 released: 2010-01-29
 director:   Viv Thomas
 rating: 9.5
@@ -10125,8 +10125,8 @@ title: Sex Tapes - Jo and Eve Angel #1
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/eve-angel-and-jo/movie/20100128/SEX_TAPES_-_JO_&_EVE_ANGEL_PART_1
-cast: Eve Angel; https://www.vivthomas.com/model/eve-angel; f
-cast: Jo; https://www.vivthomas.com/model/jo; f
+model: n:Eve Angel; id:/model/vivthomas/eve-angel; u:https://www.vivthomas.com/model/eve-angel; g:f
+model: n:Jo; id:/model/vivthomas/jo; u:https://www.vivthomas.com/model/jo; g:f
 released: 2010-01-28
 director:   Viv Thomas
 rating: 9.5
@@ -10169,8 +10169,8 @@ title: Club Girls Lesbian #2.6
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/zoe-a-and-lola-a/movie/20100127/CLUB_GIRLS_LESBIAN_2_PART_6
-cast: Zoe A; https://www.vivthomas.com/model/zoe-a; f
-cast: Lola A; https://www.vivthomas.com/model/lola-a; f
+model: n:Zoe A; id:/model/vivthomas/zoe-a; u:https://www.vivthomas.com/model/zoe-a; g:f
+model: n:Lola A; id:/model/vivthomas/lola-a; u:https://www.vivthomas.com/model/lola-a; g:f
 released: 2010-01-27
 director:   Viv Thomas
 rating: 9.3
@@ -10216,8 +10216,8 @@ title: Club Girls Lesbian #2.5
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/eve-smile-and-gily-sky/movie/20100126/CLUB_GIRLS_LESBIAN_2_PART_5
-cast: Eve Smile; https://www.vivthomas.com/model/eve-smile; f
-cast: Gily Sky; https://www.vivthomas.com/model/gily-sky; f
+model: n:Eve Smile; id:/model/vivthomas/eve-smile; u:https://www.vivthomas.com/model/eve-smile; g:f
+model: n:Gily Sky; id:/model/vivthomas/gily-sky; u:https://www.vivthomas.com/model/gily-sky; g:f
 released: 2010-01-26
 director:   Viv Thomas
 rating: 8.7
@@ -10268,8 +10268,8 @@ title: Club Girls Lesbian #2.4
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/lola-a-and-zara-a/movie/20100125/CLUB_GIRLS_LESBIAN_2_PART_4
-cast: Lola A; https://www.vivthomas.com/model/lola-a; f
-cast: Zara A; https://www.vivthomas.com/model/zara-a; f
+model: n:Lola A; id:/model/vivthomas/lola-a; u:https://www.vivthomas.com/model/lola-a; g:f
+model: n:Zara A; id:/model/vivthomas/zara-a; u:https://www.vivthomas.com/model/zara-a; g:f
 released: 2010-01-25
 director:   Viv Thomas
 rating: 9.4
@@ -10323,8 +10323,8 @@ title: Club Girls Lesbian #2.3
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/jenny-m-and-angelica-heart/movie/20100124/CLUB_GIRLS_LESBIAN_2_PART_3
-cast: Jenny M; https://www.vivthomas.com/model/jenny-m; f
-cast: Angelica Heart; https://www.vivthomas.com/model/angelica-heart; f
+model: n:Jenny M; id:/model/vivthomas/jenny-m; u:https://www.vivthomas.com/model/jenny-m; g:f
+model: n:Angelica Heart; id:/model/vivthomas/angelica-heart; u:https://www.vivthomas.com/model/angelica-heart; g:f
 released: 2010-01-24
 director:   Viv Thomas
 rating: 9.1
@@ -10374,8 +10374,8 @@ title: Club Girls Lesbian #2.2
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/lola-a-and-bianca-b/movie/20100123/CLUB_GIRLS_LESBIAN_2_PART_2
-cast: Lola A; https://www.vivthomas.com/model/lola-a; f
-cast: Bianca B; https://www.vivthomas.com/model/bianca-b; f
+model: n:Lola A; id:/model/vivthomas/lola-a; u:https://www.vivthomas.com/model/lola-a; g:f
+model: n:Bianca B; id:/model/vivthomas/bianca-b; u:https://www.vivthomas.com/model/bianca-b; g:f
 released: 2010-01-23
 director:   Viv Thomas
 rating: 9.3
@@ -10423,8 +10423,8 @@ title: Club Girls Lesbian #2.1
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/trisha-brill-and-lauryn-may/movie/20100122/CLUB_GIRLS_LESBIAN_2_PART_1
-cast: Trisha Brill; https://www.vivthomas.com/model/trisha-brill; f
-cast: Lauryn May; https://www.vivthomas.com/model/lauryn-may; f
+model: n:Trisha Brill; id:/model/vivthomas/trisha-brill; u:https://www.vivthomas.com/model/trisha-brill; g:f
+model: n:Lauryn May; id:/model/vivthomas/lauryn-may; u:https://www.vivthomas.com/model/lauryn-may; g:f
 released: 2010-01-22
 director:   Viv Thomas
 rating: 8.9
@@ -10476,8 +10476,8 @@ title: Hot Slots #1.7
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/jo-and-veronica-b/movie/20100121/HOT_SLOTS_1_PART_7
-cast: Jo; https://www.vivthomas.com/model/jo; f
-cast: Veronica B; https://www.vivthomas.com/model/veronica-b; f
+model: n:Jo; id:/model/vivthomas/jo; u:https://www.vivthomas.com/model/jo; g:f
+model: n:Veronica B; id:/model/vivthomas/veronica-b; u:https://www.vivthomas.com/model/veronica-b; g:f
 released: 2010-01-21
 director:   Viv Thomas
 rating: 9.3
@@ -10527,8 +10527,8 @@ title: Hot Slots #1.6
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/sonia-red-and-nella-a/movie/20100120/HOT_SLOTS_1_PART_6
-cast: Sonia Red; https://www.vivthomas.com/model/sonia-red; f
-cast: Nella A; https://www.vivthomas.com/model/nella-a; f
+model: n:Sonia Red; id:/model/vivthomas/sonia-red; u:https://www.vivthomas.com/model/sonia-red; g:f
+model: n:Nella A; id:/model/vivthomas/nella-a; u:https://www.vivthomas.com/model/nella-a; g:f
 released: 2010-01-20
 director:   Viv Thomas
 rating: 9.2
@@ -10577,8 +10577,8 @@ title: Hot Slots #1.5
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/eve-angel-and-stella-stevens/movie/20100119/HOT_SLOTS_1_PART_5
-cast: Eve Angel; https://www.vivthomas.com/model/eve-angel; f
-cast: Stella Stevens; https://www.vivthomas.com/model/stella-stevens; f
+model: n:Eve Angel; id:/model/vivthomas/eve-angel; u:https://www.vivthomas.com/model/eve-angel; g:f
+model: n:Stella Stevens; id:/model/vivthomas/stella-stevens; u:https://www.vivthomas.com/model/stella-stevens; g:f
 released: 2010-01-19
 director:   Viv Thomas
 rating: 9.3
@@ -10622,8 +10622,8 @@ title: Hot Slots #1.4
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/melory-jane-and-sylvia-lauren/movie/20100118/HOT_SLOTS_1_PART_4
-cast: Melory Jane; https://www.vivthomas.com/model/melory-jane; f
-cast: Sylvia Lauren; https://www.vivthomas.com/model/sylvia-lauren; f
+model: n:Melory Jane; id:/model/vivthomas/melory-jane; u:https://www.vivthomas.com/model/melory-jane; g:f
+model: n:Sylvia Lauren; id:/model/vivthomas/sylvia-lauren; u:https://www.vivthomas.com/model/sylvia-lauren; g:f
 released: 2010-01-18
 director:   Viv Thomas
 rating: 9.0
@@ -10668,8 +10668,8 @@ title: Hot Slots #1.3
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/nella-a-and-nikky-case/movie/20100117/HOT_SLOTS_1_PART_3
-cast: Nella A; https://www.vivthomas.com/model/nella-a; f
-cast: Nikky Case; https://www.vivthomas.com/model/nikky-case; f
+model: n:Nella A; id:/model/vivthomas/nella-a; u:https://www.vivthomas.com/model/nella-a; g:f
+model: n:Nikky Case; id:/model/vivthomas/nikky-case; u:https://www.vivthomas.com/model/nikky-case; g:f
 released: 2010-01-17
 director:   Viv Thomas
 rating: 9.4
@@ -10716,8 +10716,8 @@ title: Hot Slots #1.2
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/zafira-a-and-peaches-a/movie/20100116/HOT_SLOTS_1_PART_2
-cast: Zafira A; https://www.vivthomas.com/model/zafira-a; f
-cast: Peaches A; https://www.vivthomas.com/model/peaches-a; f
+model: n:Zafira A; id:/model/vivthomas/zafira-a; u:https://www.vivthomas.com/model/zafira-a; g:f
+model: n:Peaches A; id:/model/vivthomas/peaches-a; u:https://www.vivthomas.com/model/peaches-a; g:f
 released: 2010-01-16
 director:   Viv Thomas
 rating: 9.4
@@ -10765,8 +10765,8 @@ title: Hot Slots #1.1
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/sonia-red-and-nikky-case/movie/20100115/HOT_SLOTS_1_PART_1
-cast: Sonia Red; https://www.vivthomas.com/model/sonia-red; f
-cast: Nikky Case; https://www.vivthomas.com/model/nikky-case; f
+model: n:Sonia Red; id:/model/vivthomas/sonia-red; u:https://www.vivthomas.com/model/sonia-red; g:f
+model: n:Nikky Case; id:/model/vivthomas/nikky-case; u:https://www.vivthomas.com/model/nikky-case; g:f
 released: 2010-01-15
 director:   Viv Thomas
 rating: 9.5
@@ -10815,8 +10815,8 @@ title: Sex Tapes - Sandy and Anita Pearl #3
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/sandy-d-and-anita-pearl/movie/20100114/SEX_TAPES_-_SANDY_&_ANITA_PEARL_PART_3
-cast: Sandy D; https://www.vivthomas.com/model/sandy-d; f
-cast: Anita Pearl; https://www.vivthomas.com/model/anita-pearl; f
+model: n:Sandy D; id:/model/vivthomas/sandy-d; u:https://www.vivthomas.com/model/sandy-d; g:f
+model: n:Anita Pearl; id:/model/vivthomas/anita-pearl; u:https://www.vivthomas.com/model/anita-pearl; g:f
 released: 2010-01-14
 director:   Viv Thomas
 rating: 9.3
@@ -10859,8 +10859,8 @@ title: Sex Tapes - Sandy and Anita Pearl #2
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/anita-pearl-and-sandy-d/movie/20100113/SEX_TAPES_-_SANDY_&_ANITA_PEARL_PART_2
-cast: Anita Pearl; https://www.vivthomas.com/model/anita-pearl; f
-cast: Sandy D; https://www.vivthomas.com/model/sandy-d; f
+model: n:Anita Pearl; id:/model/vivthomas/anita-pearl; u:https://www.vivthomas.com/model/anita-pearl; g:f
+model: n:Sandy D; id:/model/vivthomas/sandy-d; u:https://www.vivthomas.com/model/sandy-d; g:f
 released: 2010-01-13
 director:   Viv Thomas
 rating: 9.3
@@ -10911,8 +10911,8 @@ title: Sex Tapes - Sandy and Anita Pearl #1
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/anita-pearl-and-sandy-d/movie/20100112/SEX_TAPES_-_SANDY_&_ANITA_PEARL_PART_1
-cast: Anita Pearl; https://www.vivthomas.com/model/anita-pearl; f
-cast: Sandy D; https://www.vivthomas.com/model/sandy-d; f
+model: n:Anita Pearl; id:/model/vivthomas/anita-pearl; u:https://www.vivthomas.com/model/anita-pearl; g:f
+model: n:Sandy D; id:/model/vivthomas/sandy-d; u:https://www.vivthomas.com/model/sandy-d; g:f
 released: 2010-01-12
 director:   Viv Thomas
 rating: 9.3
@@ -10963,8 +10963,8 @@ title: Club Girls Lesbian #1.6
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/eve-angel-and-nella-a/movie/20100111/CLUB_GIRLS__LESBIAN_PART_6
-cast: Eve Angel; https://www.vivthomas.com/model/eve-angel; f
-cast: Nella A; https://www.vivthomas.com/model/nella-a; f
+model: n:Eve Angel; id:/model/vivthomas/eve-angel; u:https://www.vivthomas.com/model/eve-angel; g:f
+model: n:Nella A; id:/model/vivthomas/nella-a; u:https://www.vivthomas.com/model/nella-a; g:f
 released: 2010-01-11
 director:   Viv Thomas
 rating: 9.4
@@ -11019,8 +11019,8 @@ title: Club Girls Lesbian #1.5
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/ginger-b-and-caroline-de-jane/movie/20100110/CLUB_GIRLS__LESBIAN_PART_5
-cast: Ginger B; https://www.vivthomas.com/model/ginger-b; f
-cast: Caroline de Jane; https://www.vivthomas.com/model/caroline-de-jane; f
+model: n:Ginger B; id:/model/vivthomas/ginger-b; u:https://www.vivthomas.com/model/ginger-b; g:f
+model: n:Caroline de Jane; id:/model/vivthomas/caroline-de-jane; u:https://www.vivthomas.com/model/caroline-de-jane; g:f
 released: 2010-01-10
 director:   Viv Thomas
 rating: 9.0
@@ -11078,7 +11078,7 @@ title: Nikita
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/nikita-d/movie/20100110/NIKITA
-cast: Nikita D; https://www.vivthomas.com/model/nikita-d; f
+model: n:Nikita D; id:/model/vivthomas/nikita-d; u:https://www.vivthomas.com/model/nikita-d; g:f
 released: 2010-01-10
 director:   Viv Thomas
 rating: 8.8
@@ -11120,7 +11120,7 @@ title: Kaylie
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/kaylie-a/movie/20100109/KAYLIE
-cast: Kaylie A; https://www.vivthomas.com/model/kaylie-a; f
+model: n:Kaylie A; id:/model/vivthomas/kaylie-a; u:https://www.vivthomas.com/model/kaylie-a; g:f
 released: 2010-01-09
 director:   Viv Thomas
 rating: 9.2
@@ -11158,8 +11158,8 @@ title: Club Girls Lesbian #1.4
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/jasmin-b-and-veronica-b/movie/20100109/
-cast: Jasmin B; https://www.vivthomas.com/model/jasmin-b; f
-cast: Veronica B; https://www.vivthomas.com/model/veronica-b; f
+model: n:Jasmin B; id:/model/vivthomas/jasmin-b; u:https://www.vivthomas.com/model/jasmin-b; g:f
+model: n:Veronica B; id:/model/vivthomas/veronica-b; u:https://www.vivthomas.com/model/veronica-b; g:f
 released: 2010-01-09
 director:   Viv Thomas
 rating: 9.0
@@ -11205,8 +11205,8 @@ title: Club Girls Lesbian #1.3
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/nikole-w-and-micha-a/movie/20100108/
-cast: Nikole W; https://www.vivthomas.com/model/nikole-w; f
-cast: Micha A; https://www.vivthomas.com/model/micha-a; f
+model: n:Nikole W; id:/model/vivthomas/nikole-w; u:https://www.vivthomas.com/model/nikole-w; g:f
+model: n:Micha A; id:/model/vivthomas/micha-a; u:https://www.vivthomas.com/model/micha-a; g:f
 released: 2010-01-08
 director:   Viv Thomas
 rating: 9.2
@@ -11252,8 +11252,8 @@ title: Club Girls Lesbian #1.2
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/blue-angel-and-donna-bell/movie/20100107/
-cast: Blue Angel; https://www.vivthomas.com/model/blue-angel; f
-cast: Donna Bell; https://www.vivthomas.com/model/donna-bell; f
+model: n:Blue Angel; id:/model/vivthomas/blue-angel; u:https://www.vivthomas.com/model/blue-angel; g:f
+model: n:Donna Bell; id:/model/vivthomas/donna-bell; u:https://www.vivthomas.com/model/donna-bell; g:f
 released: 2010-01-07
 director:   Viv Thomas
 rating: 9.2
@@ -11303,7 +11303,7 @@ title: Carie solo
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/carie-a/movie/20100107/CARIE_SOLO
-cast: Carie A; https://www.vivthomas.com/model/carie-a; f
+model: n:Carie A; id:/model/vivthomas/carie-a; u:https://www.vivthomas.com/model/carie-a; g:f
 released: 2010-01-07
 director:   Viv Thomas
 rating: 9.3
@@ -11344,8 +11344,8 @@ title: Club Girls Lesbian #1.1
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/nancy-bell-and-nikita-d/movie/20100106/
-cast: Nancy Bell; https://www.vivthomas.com/model/nancy-bell; f
-cast: Nikita D; https://www.vivthomas.com/model/nikita-d; f
+model: n:Nancy Bell; id:/model/vivthomas/nancy-bell; u:https://www.vivthomas.com/model/nancy-bell; g:f
+model: n:Nikita D; id:/model/vivthomas/nikita-d; u:https://www.vivthomas.com/model/nikita-d; g:f
 released: 2010-01-06
 director:   Viv Thomas
 rating: 9.2
@@ -11397,8 +11397,8 @@ title: Sex Tapes - Lisa and Blue Angel #3
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/lisa-c-and-blue-angel/movie/20100105/SEX_TAPES_-_LISA_AND_BLUE_ANGEL_PART_3
-cast: Lisa C; https://www.vivthomas.com/model/lisa-c; f
-cast: Blue Angel; https://www.vivthomas.com/model/blue-angel; f
+model: n:Lisa C; id:/model/vivthomas/lisa-c; u:https://www.vivthomas.com/model/lisa-c; g:f
+model: n:Blue Angel; id:/model/vivthomas/blue-angel; u:https://www.vivthomas.com/model/blue-angel; g:f
 released: 2010-01-05
 director:   Viv Thomas
 rating: 9.4
@@ -11436,8 +11436,8 @@ title: Sex Tapes - Lisa and Blue Angel #2
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/blue-angel-and-lisa-c/movie/20100104/SEX_TAPES_-_LISA_AND_BLUE_ANGEL_PART_2
-cast: Blue Angel; https://www.vivthomas.com/model/blue-angel; f
-cast: Lisa C; https://www.vivthomas.com/model/lisa-c; f
+model: n:Blue Angel; id:/model/vivthomas/blue-angel; u:https://www.vivthomas.com/model/blue-angel; g:f
+model: n:Lisa C; id:/model/vivthomas/lisa-c; u:https://www.vivthomas.com/model/lisa-c; g:f
 released: 2010-01-04
 director:   Viv Thomas
 rating: 9.3
@@ -11479,8 +11479,8 @@ title: Sex Tapes - Lisa and Blue Angel #1
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/blue-angel-and-lisa-c/movie/20100103/SEX_TAPES_-_LISA_AND_BLUE_ANGEL_PART_1
-cast: Blue Angel; https://www.vivthomas.com/model/blue-angel; f
-cast: Lisa C; https://www.vivthomas.com/model/lisa-c; f
+model: n:Blue Angel; id:/model/vivthomas/blue-angel; u:https://www.vivthomas.com/model/blue-angel; g:f
+model: n:Lisa C; id:/model/vivthomas/lisa-c; u:https://www.vivthomas.com/model/lisa-c; g:f
 released: 2010-01-03
 director:   Viv Thomas
 rating: 9.3
@@ -11526,8 +11526,8 @@ title: Most Subscribed #6
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/peaches-a-and-gina-b/movie/20100102/MOST_SUBSCRIBED_PART_6
-cast: Peaches A; https://www.vivthomas.com/model/peaches-a; f
-cast: Gina B; https://www.vivthomas.com/model/gina-b; f
+model: n:Peaches A; id:/model/vivthomas/peaches-a; u:https://www.vivthomas.com/model/peaches-a; g:f
+model: n:Gina B; id:/model/vivthomas/gina-b; u:https://www.vivthomas.com/model/gina-b; g:f
 released: 2010-01-02
 director:   Viv Thomas
 rating: 9.5
@@ -11577,8 +11577,8 @@ title: Most Subscribed #5
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/vivien-b-and-peaches-a/movie/20100101/MOST_SUBSCRIBED_PART_5
-cast: Vivien B; https://www.vivthomas.com/model/vivien-b; f
-cast: Peaches A; https://www.vivthomas.com/model/peaches-a; f
+model: n:Vivien B; id:/model/vivthomas/vivien-b; u:https://www.vivthomas.com/model/vivien-b; g:f
+model: n:Peaches A; id:/model/vivthomas/peaches-a; u:https://www.vivthomas.com/model/peaches-a; g:f
 released: 2010-01-01
 director:   Viv Thomas
 rating: 9.4

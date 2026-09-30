@@ -8,7 +8,7 @@
 title: Sudden Lust
 type: movie
 site: MetArt
-cast: n:Bella Donna; u:https://www.metart.com/model/bella-donna; g:f
+model: n:Bella Donna; id:/model/metart/bella-donna; u:https://www.metart.com/model/bella-donna; g:f
 released: 2023-12-31
 director: Charles Lightfoot
 fileprefix: MetArt-20231231-sudden-lust-
@@ -41,7 +41,7 @@ tag: united states
 title: Happy Holidays
 type: movie
 site: MetArt
-cast: n:Lety Star; u:https://www.metart.com/model/lety-star; g:f
+model: n:Lety Star; id:/model/metart/lety-star; u:https://www.metart.com/model/lety-star; g:f
 released: 2023-12-26
 director: Luca Helios
 fileprefix: MetArt-20231226-happy-holidays-
@@ -87,7 +87,7 @@ tag: thong
 title: I'm The Gift
 type: movie
 site: MetArt
-cast: n:Aleksrina; u:https://www.metart.com/model/aleksrina; g:f
+model: n:Aleksrina; id:/model/metart/aleksrina; u:https://www.metart.com/model/aleksrina; g:f
 released: 2023-12-24
 director: Nudero
 fileprefix: MetArt-20231224-i-m-the-gift-
@@ -131,7 +131,7 @@ tag: table
 title: Smoking Hot
 type: movie
 site: MetArt
-cast: n:Jessica Brooks; u:https://www.metart.com/model/jessica-brooks; g:f
+model: n:Jessica Brooks; id:/model/metart/jessica-brooks; u:https://www.metart.com/model/jessica-brooks; g:f
 released: 2023-12-19
 director: Cassandra Keyes
 fileprefix: MetArt-20231219-smoking-hot-
@@ -175,7 +175,7 @@ tag: united states
 title: Enjoying The Country
 type: movie
 site: MetArt
-cast: n:Hilary C; u:https://www.metart.com/model/hilary-c; g:f
+model: n:Hilary C; id:/model/metart/hilary-c; u:https://www.metart.com/model/hilary-c; g:f
 released: 2023-12-17
 director: Luca Helios
 fileprefix: MetArt-20231217-enjoying-the-country-
@@ -216,7 +216,7 @@ tag: ukraine
 title: Serene Beauty
 type: movie
 site: MetArt
-cast: n:Mira D; u:https://www.sexart.com/model/mira-d; s:SexArt; g:f
+model: n:Mira D; id:/model/sexart/mira-d; u:https://www.sexart.com/model/mira-d; g:f
 released: 2023-12-12
 director: Koenart
 fileprefix: MetArt-20231212-serene-beauty-
@@ -257,7 +257,7 @@ tag: table
 title: Belong To Yourself
 type: movie
 site: MetArt
-cast: n:Aly Deity; u:https://www.metart.com/model/aly-deity; g:f
+model: n:Aly Deity; id:/model/metart/aly-deity; u:https://www.metart.com/model/aly-deity; g:f
 released: 2023-12-10
 director: Cassandra Keyes
 fileprefix: MetArt-20231210-belong-to-yourself-
@@ -307,7 +307,7 @@ tag: tattoo
 title: Glowing Light
 type: movie
 site: MetArt
-cast: n:Shannah; u:https://www.metart.com/model/shannah; g:f
+model: n:Shannah; id:/model/metart/shannah; u:https://www.metart.com/model/shannah; g:f
 released: 2023-12-05
 director: Slava Vals
 fileprefix: MetArt-20231205-glowing-light-
@@ -356,7 +356,7 @@ tag: tattoo
 title: About My Day
 type: movie
 site: MetArt
-cast: n:Aleida; u:https://www.metart.com/model/aleida; g:f
+model: n:Aleida; id:/model/metart/aleida; u:https://www.metart.com/model/aleida; g:f
 released: 2023-12-03
 director: Robert Graham
 fileprefix: MetArt-20231203-about-my-day-
@@ -404,7 +404,7 @@ tag: tattoo
 title: Maid For Pleasure
 type: movie
 site: MetArt
-cast: n:Katie Jean; u:https://www.metart.com/model/katie-jean; g:f
+model: n:Katie Jean; id:/model/metart/katie-jean; u:https://www.metart.com/model/katie-jean; g:f
 released: 2023-11-28
 director: Indie Blake
 fileprefix: MetArt-20231128-maid-for-pleasure-
@@ -452,7 +452,7 @@ tag: tattoo
 title: Sexophone
 type: movie
 site: MetArt
-cast: n:Sailor; u:https://www.sexart.com/model/sailor; g:f; s:SexArt; g:f
+model: n:Sailor; id:/model/sexart/sailor; u:https://www.sexart.com/model/sailor; g:f
 released: 2023-11-26
 director: Robert Graham
 fileprefix: MetArt-20231126-sexophone-
@@ -493,7 +493,7 @@ tag: ukraine
 title: Curvy Moves
 type: movie
 site: MetArt
-cast: n:Tavia; u:https://www.metart.com/model/tavia; g:f
+model: n:Tavia; id:/model/metart/tavia; u:https://www.metart.com/model/tavia; g:f
 released: 2023-11-21
 director: Indie Blake
 fileprefix: MetArt-20231121-curvy-moves-
@@ -540,7 +540,7 @@ tag: united states
 title: Towards You
 type: movie
 site: MetArt
-cast: n:Luna Pica; u:https://www.sexart.com/model/luna-pica; s:SexArt; g:f
+model: n:Luna Pica; id:/model/sexart/luna-pica; u:https://www.sexart.com/model/luna-pica; g:f
 released: 2023-11-19
 director: Nudero
 fileprefix: MetArt-20231119-towards-you-
@@ -579,7 +579,7 @@ tag: tattoo
 title: Morning Tea
 type: movie
 site: MetArt
-cast: n:Stacy Cruz; u:https://www.sexart.com/model/stacy-cruz; g:f; s:SexArt; g:f
+model: n:Stacy Cruz; id:/model/sexart/stacy-cruz; u:https://www.sexart.com/model/stacy-cruz; g:f
 released: 2023-11-14
 director: Luca Helios
 fileprefix: MetArt-20231114-morning-tea-
@@ -629,7 +629,7 @@ tag: trimmed
 title: Happy Birthday
 type: movie
 site: MetArt
-cast: n:Erika Eden; u:https://www.metart.com/model/erika-eden; g:f
+model: n:Erika Eden; id:/model/metart/erika-eden; u:https://www.metart.com/model/erika-eden; g:f
 released: 2023-11-12
 director: Adel Morel
 fileprefix: MetArt-20231112-happy-birthday-
@@ -676,7 +676,7 @@ tag: upskirt
 title: Morning Flowers
 type: movie
 site: MetArt
-cast: n:Hilary C; u:https://www.metart.com/model/hilary-c; g:f
+model: n:Hilary C; id:/model/metart/hilary-c; u:https://www.metart.com/model/hilary-c; g:f
 released: 2023-11-07
 director: Alex Lynn
 fileprefix: MetArt-20231107-morning-flowers-
@@ -723,7 +723,7 @@ tag: upskirt
 title: Summer Set
 type: movie
 site: MetArt
-cast: n:Rosah; u:https://www.metart.com/model/rosah; g:f
+model: n:Rosah; id:/model/metart/rosah; u:https://www.metart.com/model/rosah; g:f
 released: 2023-11-05
 director: David Menich
 fileprefix: MetArt-20231105-summer-set-
@@ -764,7 +764,7 @@ tag: thailand
 title: Sexy Stretching
 type: movie
 site: MetArt
-cast: n:Lareina Tay; u:https://www.metart.com/model/lareina-tay; g:f
+model: n:Lareina Tay; id:/model/metart/lareina-tay; u:https://www.metart.com/model/lareina-tay; g:f
 released: 2023-10-31
 director: Cassandra Keyes
 fileprefix: MetArt-20231031-sexy-stretching-
@@ -816,7 +816,7 @@ tag: yoga pants
 title: Shower Day
 type: movie
 site: MetArt
-cast: n:Yenn Cat; u:https://www.metart.com/model/yenn-cat; g:f
+model: n:Yenn Cat; id:/model/metart/yenn-cat; u:https://www.metart.com/model/yenn-cat; g:f
 released: 2023-10-29
 director: Chorniy Art
 fileprefix: MetArt-20231029-shower-day-
@@ -861,7 +861,7 @@ tag: ukraine
 title: Twisted Limits
 type: movie
 site: MetArt
-cast: n:Sophia Wonder; u:https://www.metart.com/model/sophia-wonder; g:f
+model: n:Sophia Wonder; id:/model/metart/sophia-wonder; u:https://www.metart.com/model/sophia-wonder; g:f
 released: 2023-10-24
 director: Cecelia
 fileprefix: MetArt-20231024-twisted-limits-
@@ -903,7 +903,7 @@ tag: upskirt
 title: No Sleep Tonight
 type: movie
 site: MetArt
-cast: n:Helina Dream; u:https://www.sexart.com/model/helina-dream; g:f; s:SexArt; g:f
+model: n:Helina Dream; id:/model/sexart/helina-dream; u:https://www.sexart.com/model/helina-dream; g:f
 released: 2023-10-22
 director: Mytro
 fileprefix: MetArt-20231022-no-sleep-tonight-
@@ -948,7 +948,7 @@ tag: ukraine
 title: Perfect Lines
 type: movie
 site: MetArt
-cast: n:Bella Donna; u:https://www.metart.com/model/bella-donna; g:f
+model: n:Bella Donna; id:/model/metart/bella-donna; u:https://www.metart.com/model/bella-donna; g:f
 released: 2023-10-17
 director: Charles Lightfoot
 fileprefix: MetArt-20231017-perfect-lines-
@@ -987,7 +987,7 @@ tag: united states
 title: Stretching Me
 type: movie
 site: MetArt
-cast: n:Luna Pica; u:https://www.sexart.com/model/luna-pica; s:SexArt; g:f
+model: n:Luna Pica; id:/model/sexart/luna-pica; u:https://www.sexart.com/model/luna-pica; g:f
 released: 2023-10-15
 director: Nudero
 fileprefix: MetArt-20231015-stretching-me-
@@ -1034,7 +1034,7 @@ tag: upskirt
 title: Naughty Teacher
 type: movie
 site: MetArt
-cast: n:Jessica Brooks; u:https://www.metart.com/model/jessica-brooks; g:f
+model: n:Jessica Brooks; id:/model/metart/jessica-brooks; u:https://www.metart.com/model/jessica-brooks; g:f
 released: 2023-10-10
 director: Cassandra Keyes
 fileprefix: MetArt-20231010-naughty-teacher-
@@ -1082,7 +1082,7 @@ tag: upskirt
 title: Resplendent
 type: movie
 site: MetArt
-cast: n:Azura Grace; u:https://www.metart.com/model/azura-grace; g:f
+model: n:Azura Grace; id:/model/metart/azura-grace; u:https://www.metart.com/model/azura-grace; g:f
 released: 2023-10-08
 director: Indie Blake
 fileprefix: MetArt-20231008-resplendent-
@@ -1130,7 +1130,7 @@ tag: upskirt
 title: Rapunzel
 type: movie
 site: MetArt
-cast: n:Sati Sol; u:https://www.metart.com/model/sati-sol; g:f
+model: n:Sati Sol; id:/model/metart/sati-sol; u:https://www.metart.com/model/sati-sol; g:f
 released: 2023-10-03
 director: Chorniy Art
 fileprefix: MetArt-20231003-rapunzel-
@@ -1175,7 +1175,7 @@ tag: upskirt
 title: At Your Service
 type: movie
 site: MetArt
-cast: n:Gia Rae; u:https://www.metart.com/model/gia-rae; g:f
+model: n:Gia Rae; id:/model/metart/gia-rae; u:https://www.metart.com/model/gia-rae; g:f
 released: 2023-10-01
 director: Cassandra Keyes
 fileprefix: MetArt-20231001-at-your-service-
@@ -1222,7 +1222,7 @@ tag: upskirt
 title: Sofa Lover
 type: movie
 site: MetArt
-cast: n:Emerald Ocean; u:https://www.sexart.com/model/emerald-ocean; g:f; s:SexArt; g:f
+model: n:Emerald Ocean; id:/model/sexart/emerald-ocean; u:https://www.sexart.com/model/emerald-ocean; g:f
 released: 2023-09-26
 director: Nudero
 fileprefix: MetArt-20230926-sofa-lover-
@@ -1263,7 +1263,7 @@ tag: upskirt
 title: Disclosed
 type: movie
 site: MetArt
-cast: n:Emily Swan; u:https://www.sexart.com/model/emily-swan; s:SexArt; g:f
+model: n:Emily Swan; id:/model/sexart/emily-swan; u:https://www.sexart.com/model/emily-swan; g:f
 released: 2023-09-24
 director: Cassandra Keyes
 fileprefix: MetArt-20230924-disclosed-
@@ -1308,7 +1308,7 @@ tag: upskirt
 title: Metart Party
 type: movie
 site: MetArt
-cast: n:Sveltelana; u:https://www.sexart.com/model/sveltelana; s:SexArt; g:f
+model: n:Sveltelana; id:/model/sexart/sveltelana; u:https://www.sexart.com/model/sveltelana; g:f
 released: 2023-09-19
 director: Alex Lynn
 fileprefix: MetArt-20230919-metart-party-
@@ -1353,7 +1353,7 @@ tag: ukraine
 title: Expecting Company
 type: movie
 site: MetArt
-cast: n:Aly Deity; u:https://www.metart.com/model/aly-deity; g:f
+model: n:Aly Deity; id:/model/metart/aly-deity; u:https://www.metart.com/model/aly-deity; g:f
 released: 2023-09-17
 director: Cassandra Keyes
 fileprefix: MetArt-20230917-expecting-company-
@@ -1402,7 +1402,7 @@ tag: upskirt
 title: On the High City
 type: movie
 site: MetArt
-cast: n:Georgia; u:https://www.sexart.com/model/georgia; s:SexArt; g:f
+model: n:Georgia; id:/model/sexart/georgia; u:https://www.sexart.com/model/georgia; g:f
 released: 2023-09-12
 director: Luca Helios
 fileprefix: MetArt-20230912-on-the-high-city-
@@ -1449,7 +1449,7 @@ tag: sweater
 title: Sweet Reverie
 type: movie
 site: MetArt
-cast: n:Gina Marie; u:https://www.metart.com/model/gina-marie; g:f
+model: n:Gina Marie; id:/model/metart/gina-marie; u:https://www.metart.com/model/gina-marie; g:f
 released: 2023-09-10
 director: Cassandra Keyes
 fileprefix: MetArt-20230910-sweet-reverie-
@@ -1492,7 +1492,7 @@ tag: united states
 title: Let Me Show You
 type: movie
 site: MetArt
-cast: n:Ruby Shades; u:https://www.metart.com/model/ruby-shades; g:f
+model: n:Ruby Shades; id:/model/metart/ruby-shades; u:https://www.metart.com/model/ruby-shades; g:f
 released: 2023-09-05
 director: Mytro
 fileprefix: MetArt-20230905-let-me-show-you-
@@ -1538,7 +1538,7 @@ tag: striptease
 title: Special Night
 type: movie
 site: MetArt
-cast: n:Vicki Wade; u:https://www.sexart.com/model/vicki-wade; g:f; s:SexArt; g:f
+model: n:Vicki Wade; id:/model/sexart/vicki-wade; u:https://www.sexart.com/model/vicki-wade; g:f
 released: 2023-09-03
 director: Nudero
 fileprefix: MetArt-20230903-special-night-
@@ -1583,7 +1583,7 @@ tag: table
 title: Stripped Bare
 type: movie
 site: MetArt
-cast: n:Li Moon; u:https://www.sexart.com/model/li-moon; s:SexArt; g:f
+model: n:Li Moon; id:/model/sexart/li-moon; u:https://www.sexart.com/model/li-moon; g:f
 released: 2023-08-29
 director: Cassandra Keyes
 fileprefix: MetArt-20230829-stripped-bare-
@@ -1631,7 +1631,7 @@ tag: ukraine
 title: Red For Love
 type: movie
 site: MetArt
-cast: n:Sophia Wonder; u:https://www.metart.com/model/sophia-wonder; g:f
+model: n:Sophia Wonder; id:/model/metart/sophia-wonder; u:https://www.metart.com/model/sophia-wonder; g:f
 released: 2023-08-27
 director: Cecelia
 fileprefix: MetArt-20230827-red-for-love-
@@ -1671,7 +1671,7 @@ tag: upskirt
 title: Boudoir
 type: movie
 site: MetArt
-cast: n:Alice Kelly; u:https://www.sexart.com/model/alice-kelly; g:f; s:SexArt; g:f
+model: n:Alice Kelly; id:/model/sexart/alice-kelly; u:https://www.sexart.com/model/alice-kelly; g:f
 released: 2023-08-22
 director: Nudero
 fileprefix: MetArt-20230822-boudoir-
@@ -1714,7 +1714,7 @@ tag: upskirt
 title: Blooming Point
 type: movie
 site: MetArt
-cast: n:Azura Grace; u:https://www.metart.com/model/azura-grace; g:f
+model: n:Azura Grace; id:/model/metart/azura-grace; u:https://www.metart.com/model/azura-grace; g:f
 released: 2023-08-20
 director: Indie Blake
 fileprefix: MetArt-20230820-blooming-point-
@@ -1758,7 +1758,7 @@ tag: upskirt
 title: Garden Shower
 type: movie
 site: MetArt
-cast: n:Sophie Limma; u:https://www.metart.com/model/sophie-limma; g:f
+model: n:Sophie Limma; id:/model/metart/sophie-limma; u:https://www.metart.com/model/sophie-limma; g:f
 released: 2023-08-15
 director: David Menich
 fileprefix: MetArt-20230815-garden-shower-
@@ -1798,7 +1798,7 @@ tag: tan lines---
 title: Ginger Lecture
 type: movie
 site: MetArt
-cast: n:Krystal Kitten; u:https://www.metart.com/model/krystal-kitten; g:f
+model: n:Krystal Kitten; id:/model/metart/krystal-kitten; u:https://www.metart.com/model/krystal-kitten; g:f
 released: 2023-08-13
 director: Cassandra Keyes
 fileprefix: MetArt-20230813-ginger-lecture-
@@ -1837,7 +1837,7 @@ tag: united states
 title: Walk In The Woods
 type: movie
 site: MetArt
-cast: n:Elena Max; u:https://www.metart.com/model/elena-max; g:f
+model: n:Elena Max; id:/model/metart/elena-max; u:https://www.metart.com/model/elena-max; g:f
 released: 2023-08-08
 director: Adel Morel
 fileprefix: MetArt-20230808-walk-in-the-woods-
@@ -1873,7 +1873,7 @@ tag: ukraine
 title: Smooth Dakota
 type: movie
 site: MetArt
-cast: n:Dakota Simone; u:https://www.metart.com/model/dakota-simone; g:f
+model: n:Dakota Simone; id:/model/metart/dakota-simone; u:https://www.metart.com/model/dakota-simone; g:f
 released: 2023-08-06
 director: Cassandra Keyes
 fileprefix: MetArt-20230806-smooth-dakota-
@@ -1924,7 +1924,7 @@ tag: upskirt
 title: Aouris
 type: movie
 site: MetArt
-cast: n:Luna Pica; u:https://www.sexart.com/model/luna-pica; s:SexArt; g:f
+model: n:Luna Pica; id:/model/sexart/luna-pica; u:https://www.sexart.com/model/luna-pica; g:f
 released: 2023-08-01
 director: Nudero
 fileprefix: MetArt-20230801-aouris-
@@ -1968,7 +1968,7 @@ tag: upskirt
 title: Indulgence
 type: movie
 site: MetArt
-cast: n:Madelane; u:https://www.metart.com/model/madelane; g:f
+model: n:Madelane; id:/model/metart/madelane; u:https://www.metart.com/model/madelane; g:f
 released: 2023-07-30
 director: Cassandra Keyes
 fileprefix: MetArt-20230730-indulgence-
@@ -2018,7 +2018,7 @@ tag: united states
 title: Sveltelana's Stairs
 type: movie
 site: MetArt
-cast: n:Sveltelana; u:https://www.sexart.com/model/sveltelana; s:SexArt; g:f
+model: n:Sveltelana; id:/model/sexart/sveltelana; u:https://www.sexart.com/model/sveltelana; g:f
 released: 2023-07-25
 director: Luca Helios
 fileprefix: MetArt-20230725-sveltelanas-stairs-
@@ -2061,7 +2061,7 @@ tag: ukraine
 title: Chess Player
 type: movie
 site: MetArt
-cast: n:Mila Azul; u:https://www.sexart.com/model/mila-azul; g:f; s:SexArt; g:f
+model: n:Mila Azul; id:/model/sexart/mila-azul; u:https://www.sexart.com/model/mila-azul; g:f
 released: 2023-07-23
 director: James Allen
 fileprefix: MetArt-20230723-chess-player-
@@ -2103,7 +2103,7 @@ tag: upskirt
 title: Golden Time
 type: movie
 site: MetArt
-cast: n:Elza; u:https://www.sexart.com/model/elza; s:SexArt; g:f
+model: n:Elza; id:/model/sexart/elza; u:https://www.sexart.com/model/elza; g:f
 released: 2023-07-18
 director: Alex Lynn
 fileprefix: MetArt-20230718-golden-time-
@@ -2147,7 +2147,7 @@ tag: ukraine
 title: Sex Playlist
 type: movie
 site: MetArt
-cast: n:Melena A; u:https://www.sexart.com/model/melena-a; s:SexArt; g:f
+model: n:Melena A; id:/model/sexart/melena-a; u:https://www.sexart.com/model/melena-a; g:f
 released: 2023-07-16
 director: James Allen
 fileprefix: MetArt-20230716-sex-playlist-
@@ -2191,7 +2191,7 @@ tag: upskirt
 title: Flirting Veils
 type: movie
 site: MetArt
-cast: n:Tavia; u:https://www.metart.com/model/tavia; g:f
+model: n:Tavia; id:/model/metart/tavia; u:https://www.metart.com/model/tavia; g:f
 released: 2023-07-11
 director: Indie Blake
 fileprefix: MetArt-20230711-flirting-veils-
@@ -2236,7 +2236,7 @@ tag: upskirt
 title: Wardrobe Check
 type: movie
 site: MetArt
-cast: n:Avery; u:https://www.metart.com/model/avery; g:f
+model: n:Avery; id:/model/metart/avery; u:https://www.metart.com/model/avery; g:f
 released: 2023-07-09
 director: Alex Lynn
 fileprefix: MetArt-20230709-wardrobe-check-
@@ -2279,7 +2279,7 @@ tag: ukraine
 title: Body and Soul
 type: movie
 site: MetArt
-cast: n:Elena Wolfe; u:https://www.metart.com/model/elena-wolfe; g:f
+model: n:Elena Wolfe; id:/model/metart/elena-wolfe; u:https://www.metart.com/model/elena-wolfe; g:f
 released: 2023-07-04
 director: Cassandra Keyes
 fileprefix: MetArt-20230704-body-and-soul-
@@ -2329,7 +2329,7 @@ tag: upskirt
 title: Make It Clear
 type: movie
 site: MetArt
-cast: n:Scarlett Hampton; u:https://www.metart.com/model/scarlett-hampton; g:f
+model: n:Scarlett Hampton; id:/model/metart/scarlett-hampton; u:https://www.metart.com/model/scarlett-hampton; g:f
 released: 2023-07-02
 director: Cassandra Keyes
 fileprefix: MetArt-20230702-make-it-clear-
@@ -2380,7 +2380,7 @@ tag: united states
 title: Loft
 type: movie
 site: MetArt
-cast: n:Alice Kelly; u:https://www.sexart.com/model/alice-kelly; g:f; s:SexArt; g:f
+model: n:Alice Kelly; id:/model/sexart/alice-kelly; u:https://www.sexart.com/model/alice-kelly; g:f
 released: 2023-06-27
 director: Nudero
 fileprefix: MetArt-20230627-loft-
@@ -2420,7 +2420,7 @@ tag: trimmed
 title: Working At Home
 type: movie
 site: MetArt
-cast: n:Hilary C; u:https://www.metart.com/model/hilary-c; g:f
+model: n:Hilary C; id:/model/metart/hilary-c; u:https://www.metart.com/model/hilary-c; g:f
 released: 2023-06-25
 director: James Allen
 fileprefix: MetArt-20230625-working-at-home-
@@ -2465,7 +2465,7 @@ tag: upskirt
 title: Let's Get Wet
 type: movie
 site: MetArt
-cast: n:Jia Lissa; u:https://www.sexart.com/model/jia-lissa; g:f; s:SexArt; g:f
+model: n:Jia Lissa; id:/model/sexart/jia-lissa; u:https://www.sexart.com/model/jia-lissa; g:f
 released: 2023-06-20
 director: Cassandra Keyes
 fileprefix: MetArt-20230620-let-s-get-wet-
@@ -2513,7 +2513,7 @@ tag: upskirt
 title: New Inspiration
 type: movie
 site: MetArt
-cast: n:Loren Sun; u:https://www.sexart.com/model/loren-sun; s:SexArt; g:f
+model: n:Loren Sun; id:/model/sexart/loren-sun; u:https://www.sexart.com/model/loren-sun; g:f
 released: 2023-06-18
 director: Alex Lynn
 fileprefix: MetArt-20230618-new-inspiration-
@@ -2557,7 +2557,7 @@ tag: table
 title: Debut
 type: movie
 site: MetArt
-cast: n:Mercia Francis; u:https://www.sexart.com/model/mercia-francis; g:f; s:SexArt; g:f
+model: n:Mercia Francis; id:/model/sexart/mercia-francis; u:https://www.sexart.com/model/mercia-francis; g:f
 released: 2023-06-13
 director: Nudero
 fileprefix: MetArt-20230613-debut-
@@ -2600,7 +2600,7 @@ tag: tattoo
 title: Strawberry Summer
 type: movie
 site: MetArt
-cast: n:Riley Anne; u:https://www.sexart.com/model/riley-anne; g:f; s:SexArt; g:f
+model: n:Riley Anne; id:/model/sexart/riley-anne; u:https://www.sexart.com/model/riley-anne; g:f
 released: 2023-06-11
 director: Cassandra Keyes
 fileprefix: MetArt-20230611-strawberry-summer-
@@ -2650,7 +2650,7 @@ tag: upskirt
 title: Red Mini
 type: movie
 site: MetArt
-cast: n:Marina Gold; u:https://www.metart.com/model/marina-gold; g:f
+model: n:Marina Gold; id:/model/metart/marina-gold; u:https://www.metart.com/model/marina-gold; g:f
 released: 2023-06-06
 director: Luca Helios
 fileprefix: MetArt-20230606-red-mini-
@@ -2699,7 +2699,7 @@ tag: tan lines
 title: Cheering You Up
 type: movie
 site: MetArt
-cast: n:Gia Rae; u:https://www.metart.com/model/gia-rae; g:f
+model: n:Gia Rae; id:/model/metart/gia-rae; u:https://www.metart.com/model/gia-rae; g:f
 released: 2023-06-04
 director: Cassandra Keyes
 fileprefix: MetArt-20230604-cheering-you-up-
@@ -2747,7 +2747,7 @@ tag: white stockings
 title: Summer Memories
 type: movie
 site: MetArt
-cast: n:Alice Nekrasova; u:https://www.sexart.com/model/alice-nekrasova; g:f; s:SexArt; g:f
+model: n:Alice Nekrasova; id:/model/sexart/alice-nekrasova; u:https://www.sexart.com/model/alice-nekrasova; g:f
 released: 2023-05-30
 director: Alex Lynn
 fileprefix: MetArt-20230530-summer-memories-
@@ -2792,7 +2792,7 @@ tag: upskirt
 title: Wander At Noon
 type: movie
 site: MetArt
-cast: n:Scarlett Queen; u:https://www.sexart.com/model/scarlett-queen; g:f; s:SexArt; g:f
+model: n:Scarlett Queen; id:/model/sexart/scarlett-queen; u:https://www.sexart.com/model/scarlett-queen; g:f
 released: 2023-05-28
 director: Nudero
 fileprefix: MetArt-20230528-wander-at-noon-
@@ -2832,7 +2832,7 @@ tag: trimmed
 title: New Day
 type: movie
 site: MetArt
-cast: n:Debora C; u:https://www.metart.com/model/debora-c; g:f
+model: n:Debora C; id:/model/metart/debora-c; u:https://www.metart.com/model/debora-c; g:f
 released: 2023-05-23
 director: Adel Morel
 fileprefix: MetArt-20230523-new-day-
@@ -2877,7 +2877,7 @@ tag: ukraine
 title: Favorite Lingerie
 type: movie
 site: MetArt
-cast: n:Pearl; u:https://www.sexart.com/model/pearl; g:f; s:SexArt; g:f
+model: n:Pearl; id:/model/sexart/pearl; u:https://www.sexart.com/model/pearl; g:f
 released: 2023-05-21
 director: Nudero
 fileprefix: MetArt-20230521-favorite-lingerie-
@@ -2922,7 +2922,7 @@ tag: table
 title: Love Me, Love Me Not
 type: movie
 site: MetArt
-cast: n:Elena Wolfe; u:https://www.metart.com/model/elena-wolfe; g:f
+model: n:Elena Wolfe; id:/model/metart/elena-wolfe; u:https://www.metart.com/model/elena-wolfe; g:f
 released: 2023-05-16
 director: Cassandra Keyes
 fileprefix: MetArt-20230516-love-me--love-me-not-
@@ -2977,7 +2977,7 @@ tag: upskirt
 title: Hot Compulsion
 type: movie
 site: MetArt
-cast: n:Sarika A; u:https://www.sexart.com/model/sarika-a; s:SexArt; g:f
+model: n:Sarika A; id:/model/sexart/sarika-a; u:https://www.sexart.com/model/sarika-a; g:f
 released: 2023-05-14
 director: Nudero
 fileprefix: MetArt-20230514-hot-compulsion-
@@ -3020,7 +3020,7 @@ tag: upskirt
 title: Lightness
 type: movie
 site: MetArt
-cast: n:Yenn Cat; u:https://www.metart.com/model/yenn-cat; g:f
+model: n:Yenn Cat; id:/model/metart/yenn-cat; u:https://www.metart.com/model/yenn-cat; g:f
 released: 2023-05-09
 director: Chorniy Art
 fileprefix: MetArt-20230509-lightness-
@@ -3066,7 +3066,7 @@ tag: ukraine
 title: Beautiful Day
 type: movie
 site: MetArt
-cast: n:Elvida; u:https://www.metart.com/model/elvida; g:f
+model: n:Elvida; id:/model/metart/elvida; u:https://www.metart.com/model/elvida; g:f
 released: 2023-05-07
 director: Adel Morel
 fileprefix: MetArt-20230507-beautiful-day-
@@ -3114,7 +3114,7 @@ tag: ukraine
 title: Night On The Lake
 type: movie
 site: MetArt
-cast: n:Freya Mayer; u:https://www.sexart.com/model/freya-mayer; g:f; s:SexArt; g:f
+model: n:Freya Mayer; id:/model/sexart/freya-mayer; u:https://www.sexart.com/model/freya-mayer; g:f
 released: 2023-05-02
 director: Luca Helios
 fileprefix: MetArt-20230502-night-on-the-lake-
@@ -3156,7 +3156,7 @@ tag: striptease
 title: Fresh And Salty
 type: movie
 site: MetArt
-cast: n:Fatima; u:https://www.metart.com/model/fatima; g:f
+model: n:Fatima; id:/model/metart/fatima; u:https://www.metart.com/model/fatima; g:f
 released: 2023-04-30
 director: Cassandra Keyes
 fileprefix: MetArt-20230430-fresh-and-salty-
@@ -3204,7 +3204,7 @@ tag: upskirt
 title: Laced Fantasy
 type: movie
 site: MetArt
-cast: n:Stefania Beatty; u:https://www.sexart.com/model/stefania-beatty; g:f; s:SexArt; g:f
+model: n:Stefania Beatty; id:/model/sexart/stefania-beatty; u:https://www.sexart.com/model/stefania-beatty; g:f
 released: 2023-04-25
 director: Nudero
 fileprefix: MetArt-20230425-laced-fantasy-
@@ -3244,7 +3244,7 @@ tag: trimmed
 title: Desirable
 type: movie
 site: MetArt
-cast: n:Scarlett Hampton; u:https://www.metart.com/model/scarlett-hampton; g:f
+model: n:Scarlett Hampton; id:/model/metart/scarlett-hampton; u:https://www.metart.com/model/scarlett-hampton; g:f
 released: 2023-04-23
 director: Cassandra Keyes
 fileprefix: MetArt-20230423-desirable-
@@ -3292,7 +3292,7 @@ tag: upskirt
 title: Playa de Famara
 type: movie
 site: MetArt
-cast: n:Leni Doll; u:https://www.sexart.com/model/leni-doll; g:f; s:SexArt; g:f
+model: n:Leni Doll; id:/model/sexart/leni-doll; u:https://www.sexart.com/model/leni-doll; g:f
 released: 2023-04-18
 director: Luca Helios
 fileprefix: MetArt-20230418-playa-de-famara-
@@ -3332,7 +3332,7 @@ tag: tan lines
 title: Chalet
 type: movie
 site: MetArt
-cast: n:Stella Cardo; u:https://www.sexart.com/model/stella-cardo; g:f; s:SexArt; g:f
+model: n:Stella Cardo; id:/model/sexart/stella-cardo; u:https://www.sexart.com/model/stella-cardo; g:f
 released: 2023-04-16
 director: Nudero
 fileprefix: MetArt-20230416-chalet-
@@ -3378,7 +3378,7 @@ tag: upskirt
 title: Sweet Afternoon
 type: movie
 site: MetArt
-cast: n:Clarice; u:https://www.metart.com/model/clarice; g:f
+model: n:Clarice; id:/model/metart/clarice; u:https://www.metart.com/model/clarice; g:f
 released: 2023-04-11
 director: Alex Lynn
 fileprefix: MetArt-20230411-sweet-afternoon-
@@ -3423,7 +3423,7 @@ tag: upskirt
 title: Present
 type: movie
 site: MetArt
-cast: n:Erika Luchini; u:https://www.metart.com/model/erika-luchini; g:f
+model: n:Erika Luchini; id:/model/metart/erika-luchini; u:https://www.metart.com/model/erika-luchini; g:f
 released: 2023-04-09
 director: Chorniy Art
 fileprefix: MetArt-20230409-present-
@@ -3472,7 +3472,7 @@ tag: ukraine
 title: Berenice in Red
 type: movie
 site: MetArt
-cast: n:Berenice; u:https://www.metart.com/model/berenice; g:f
+model: n:Berenice; id:/model/metart/berenice; u:https://www.metart.com/model/berenice; g:f
 released: 2023-04-04
 director: Luca Helios
 fileprefix: MetArt-20230404-berenice-in-red-
@@ -3514,7 +3514,7 @@ tag: up-do
 title: Interview With Avery
 type: movie
 site: MetArt
-cast: n:Avery; u:https://www.metart.com/model/avery; g:f
+model: n:Avery; id:/model/metart/avery; u:https://www.metart.com/model/avery; g:f
 released: 2023-04-02
 director: Alex Lynn
 fileprefix: MetArt-20230402-interview-with-avery-
@@ -3566,7 +3566,7 @@ tag: ukraine
 title: Glow
 type: movie
 site: MetArt
-cast: n:Mary Rock; u:https://www.sexart.com/model/mary-rock; g:f; s:SexArt; g:f
+model: n:Mary Rock; id:/model/sexart/mary-rock; u:https://www.sexart.com/model/mary-rock; g:f
 released: 2023-03-28
 director: Nudero
 fileprefix: MetArt-20230328-glow-
@@ -3605,7 +3605,7 @@ tag: upskirt
 title: Feather Tail
 type: movie
 site: MetArt
-cast: n:Aly Deity; u:https://www.metart.com/model/aly-deity; g:f
+model: n:Aly Deity; id:/model/metart/aly-deity; u:https://www.metart.com/model/aly-deity; g:f
 released: 2023-03-26
 director: Cassandra Keyes
 fileprefix: MetArt-20230326-feather-tail-
@@ -3653,7 +3653,7 @@ tag: upskirt
 title: Swimming Day
 type: movie
 site: MetArt
-cast: n:Katarina Meis; u:https://www.metart.com/model/katarina-meis; g:f
+model: n:Katarina Meis; id:/model/metart/katarina-meis; u:https://www.metart.com/model/katarina-meis; g:f
 released: 2023-03-21
 director: Marco
 fileprefix: MetArt-20230321-swimming-day-
@@ -3698,7 +3698,7 @@ tag: up-do
 title: Glow Girl
 type: movie
 site: MetArt
-cast: n:Riley Anne; u:https://www.sexart.com/model/riley-anne; g:f; s:SexArt; g:f
+model: n:Riley Anne; id:/model/sexart/riley-anne; u:https://www.sexart.com/model/riley-anne; g:f
 released: 2023-03-19
 director: Cassandra Keyes
 fileprefix: MetArt-20230319-glow-girl-
@@ -3742,7 +3742,7 @@ tag: upskirt
 title: Mirror Whisper
 type: movie
 site: MetArt
-cast: n:Bella Donna; u:https://www.metart.com/model/bella-donna; g:f
+model: n:Bella Donna; id:/model/metart/bella-donna; u:https://www.metart.com/model/bella-donna; g:f
 released: 2023-03-14
 director: Charles Lightfoot
 fileprefix: MetArt-20230314-mirror-whisper-
@@ -3779,7 +3779,7 @@ tag: united states
 title: Moving Above
 type: movie
 site: MetArt
-cast: n:Jia Lissa; u:https://www.sexart.com/model/jia-lissa; g:f; s:SexArt; g:f
+model: n:Jia Lissa; id:/model/sexart/jia-lissa; u:https://www.sexart.com/model/jia-lissa; g:f
 released: 2023-03-12
 director: Cassandra Keyes
 fileprefix: MetArt-20230312-moving-above-
@@ -3823,7 +3823,7 @@ tag: upskirt
 title: Last Summer Days
 type: movie
 site: MetArt
-cast: n:Lana Lane; u:https://www.metart.com/model/lana-lane; g:f
+model: n:Lana Lane; id:/model/metart/lana-lane; u:https://www.metart.com/model/lana-lane; g:f
 released: 2023-03-07
 director: Leonardo
 fileprefix: MetArt-20230307-last-summer-days-
@@ -3861,7 +3861,7 @@ tag: ukraine
 title: Merengue
 type: movie
 site: MetArt
-cast: n:Melena A; u:https://www.sexart.com/model/melena-a; s:SexArt; g:f
+model: n:Melena A; id:/model/sexart/melena-a; u:https://www.sexart.com/model/melena-a; g:f
 released: 2023-03-05
 director: James Allen
 fileprefix: MetArt-20230305-merengue-
@@ -3908,7 +3908,7 @@ tag: upskirt
 title: Sensual Nature
 type: movie
 site: MetArt
-cast: n:Bjorg Larson; u:https://www.sexart.com/model/bjorg-larson; s:SexArt; g:f
+model: n:Bjorg Larson; id:/model/sexart/bjorg-larson; u:https://www.sexart.com/model/bjorg-larson; g:f
 released: 2023-02-28
 director: Alex Lynn
 fileprefix: MetArt-20230228-sensual-nature-
@@ -3953,7 +3953,7 @@ tag: trimmed
 title: Morning Love
 type: movie
 site: MetArt
-cast: n:Erika Eden; u:https://www.metart.com/model/erika-eden; g:f
+model: n:Erika Eden; id:/model/metart/erika-eden; u:https://www.metart.com/model/erika-eden; g:f
 released: 2023-02-26
 director: Adel Morel
 fileprefix: MetArt-20230226-morning-love-
@@ -3994,7 +3994,7 @@ tag: ukraine
 title: After Wedding
 type: movie
 site: MetArt
-cast: n:Kelly Collins; u:https://www.sexart.com/model/kelly-collins; g:f; s:SexArt; g:f
+model: n:Kelly Collins; id:/model/sexart/kelly-collins; u:https://www.sexart.com/model/kelly-collins; g:f
 released: 2023-02-21
 director: James Allen
 fileprefix: MetArt-20230221-after-wedding-
@@ -4037,7 +4037,7 @@ tag: trimmed
 title: Night Glitter
 type: movie
 site: MetArt
-cast: n:Jessica Brooks; u:https://www.metart.com/model/jessica-brooks; g:f
+model: n:Jessica Brooks; id:/model/metart/jessica-brooks; u:https://www.metart.com/model/jessica-brooks; g:f
 released: 2023-02-19
 director: Cassandra Keyes
 fileprefix: MetArt-20230219-night-glitter-
@@ -4087,7 +4087,7 @@ tag: upskirt
 title: Drops
 type: movie
 site: MetArt
-cast: n:Stella Cardo; u:https://www.sexart.com/model/stella-cardo; g:f; s:SexArt; g:f
+model: n:Stella Cardo; id:/model/sexart/stella-cardo; u:https://www.sexart.com/model/stella-cardo; g:f
 released: 2023-02-14
 director: Nudero
 fileprefix: MetArt-20230214-drops-
@@ -4131,7 +4131,7 @@ tag: stairs
 title: Arabesque
 type: movie
 site: MetArt
-cast: n:Alice Kelly; u:https://www.sexart.com/model/alice-kelly; g:f; s:SexArt; g:f
+model: n:Alice Kelly; id:/model/sexart/alice-kelly; u:https://www.sexart.com/model/alice-kelly; g:f
 released: 2023-02-12
 director: Nudero
 fileprefix: MetArt-20230212-arabesque-
@@ -4170,7 +4170,7 @@ tag: trimmed
 title: Hot Tantra
 type: movie
 site: MetArt
-cast: n:Dakota Simone; u:https://www.metart.com/model/dakota-simone; g:f
+model: n:Dakota Simone; id:/model/metart/dakota-simone; u:https://www.metart.com/model/dakota-simone; g:f
 released: 2023-02-07
 director: Cassandra Keyes
 fileprefix: MetArt-20230207-hot-tantra-
@@ -4211,7 +4211,7 @@ tag: upskirt
 title: Passion Flower
 type: movie
 site: MetArt
-cast: n:Katarina Meis; u:https://www.metart.com/model/katarina-meis; g:f
+model: n:Katarina Meis; id:/model/metart/katarina-meis; u:https://www.metart.com/model/katarina-meis; g:f
 released: 2023-02-05
 director: Marco
 fileprefix: MetArt-20230205-passion-flower-
@@ -4254,7 +4254,7 @@ tag: ukraine
 title: Erotic Recipe
 type: movie
 site: MetArt
-cast: n:Francheska; u:https://www.metart.com/model/francheska; g:f
+model: n:Francheska; id:/model/metart/francheska; u:https://www.metart.com/model/francheska; g:f
 released: 2023-01-31
 director: Mytro
 fileprefix: MetArt-20230131-erotic-recipe-
@@ -4299,7 +4299,7 @@ tag: upskirt
 title: Revealing Curves
 type: movie
 site: MetArt
-cast: n:Lareina Tay; u:https://www.metart.com/model/lareina-tay; g:f
+model: n:Lareina Tay; id:/model/metart/lareina-tay; u:https://www.metart.com/model/lareina-tay; g:f
 released: 2023-01-29
 director: Cassandra Keyes
 fileprefix: MetArt-20230129-revealing-curves-
@@ -4343,7 +4343,7 @@ tag: upskirt
 title: Livadia
 type: movie
 site: MetArt
-cast: n:Luna Pica; u:https://www.sexart.com/model/luna-pica; s:SexArt; g:f
+model: n:Luna Pica; id:/model/sexart/luna-pica; u:https://www.sexart.com/model/luna-pica; g:f
 released: 2023-01-24
 director: Nudero
 fileprefix: MetArt-20230124-livadia-
@@ -4387,7 +4387,7 @@ tag: upskirt
 title: Erotic Poems
 type: movie
 site: MetArt
-cast: n:Loren Sun; u:https://www.sexart.com/model/loren-sun; s:SexArt; g:f
+model: n:Loren Sun; id:/model/sexart/loren-sun; u:https://www.sexart.com/model/loren-sun; g:f
 released: 2023-01-22
 director: Alex Lynn
 fileprefix: MetArt-20230122-erotic-poems-
@@ -4432,7 +4432,7 @@ tag: table
 title: The River
 type: movie
 site: MetArt
-cast: n:Ohana; u:https://www.metart.com/model/ohana; g:f
+model: n:Ohana; id:/model/metart/ohana; u:https://www.metart.com/model/ohana; g:f
 released: 2023-01-17
 director: Robert Graham
 fileprefix: MetArt-20230117-the-river-
@@ -4474,7 +4474,7 @@ tag: teen
 title: The Reader
 type: movie
 site: MetArt
-cast: n:Avery; u:https://www.metart.com/model/avery; g:f
+model: n:Avery; id:/model/metart/avery; u:https://www.metart.com/model/avery; g:f
 released: 2023-01-15
 director: James Allen
 fileprefix: MetArt-20230115-the-reader-
@@ -4520,7 +4520,7 @@ tag: upskirt
 title: Above The Clouds
 type: movie
 site: MetArt
-cast: n:Foxy Alissa; u:https://www.sexart.com/model/foxy-alissa; g:f; s:SexArt; g:f
+model: n:Foxy Alissa; id:/model/sexart/foxy-alissa; u:https://www.sexart.com/model/foxy-alissa; g:f
 released: 2023-01-10
 director: Alex Iskan
 fileprefix: MetArt-20230110-above-the-clouds-
@@ -4557,7 +4557,7 @@ tag: upskirt
 title: Strawberry
 type: movie
 site: MetArt
-cast: n:Yenn Cat; u:https://www.metart.com/model/yenn-cat; g:f
+model: n:Yenn Cat; id:/model/metart/yenn-cat; u:https://www.metart.com/model/yenn-cat; g:f
 released: 2023-01-08
 director: Chorniy Art
 fileprefix: MetArt-20230108-strawberry-
@@ -4600,7 +4600,7 @@ tag: ukraine
 title: Private Tease
 type: movie
 site: MetArt
-cast: n:Bella Donna; u:https://www.metart.com/model/bella-donna; g:f
+model: n:Bella Donna; id:/model/metart/bella-donna; u:https://www.metart.com/model/bella-donna; g:f
 released: 2023-01-03
 director: Charles Lightfoot
 fileprefix: MetArt-20230103-private-tease-
@@ -4632,7 +4632,7 @@ tag: united states
 title: Let's Celebrate
 type: movie
 site: MetArt
-cast: n:Mila Azul; u:https://www.sexart.com/model/mila-azul; g:f; s:SexArt; g:f
+model: n:Mila Azul; id:/model/sexart/mila-azul; u:https://www.sexart.com/model/mila-azul; g:f
 released: 2023-01-01
 director: James Allen
 fileprefix: MetArt-20230101-let-s-celebrate-

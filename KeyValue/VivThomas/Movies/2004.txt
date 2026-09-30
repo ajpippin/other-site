@@ -8,8 +8,8 @@
 title: Confessions of a Make-up Artist #1
 type: movie
 site: VivThomas
-cast: n:Jo; u:https://www.vivthomas.com/model/jo
-cast: n:Stella Stevens; u:https://www.vivthomas.com/model/stella-stevens
+model: n:Jo; id:/model/vivthomas/jo; u:https://www.vivthomas.com/model/jo
+model: n:Stella Stevens; id:/model/vivthomas/stella-stevens; u:https://www.vivthomas.com/model/stella-stevens
 released: 2004-6-1
 director: Viv Thomas
 fileprefix: VivThomas-20040601-confessions-of-a-make-up-artist-1-
@@ -64,8 +64,8 @@ title: Forbidden Fruits #5
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/jo-and-peaches-a/movie/20041030/FORBIDDEN_FRUITS_PART_5
-cast: Jo; https://www.vivthomas.com/model/jo; f
-cast: Peaches A; https://www.vivthomas.com/model/peaches-a; f
+model: n:Jo; id:/model/vivthomas/jo; u:https://www.vivthomas.com/model/jo; g:f
+model: n:Peaches A; id:/model/vivthomas/peaches-a; u:https://www.vivthomas.com/model/peaches-a; g:f
 released: 2004-10-30
 director:   Viv Thomas
 rating: 9.3
@@ -90,8 +90,8 @@ title: Forbidden Fruits #4
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/nikky-a-and-vera-a/movie/20041029/FORBIDDEN_FRUITS_PART_4
-cast: Nikky A; https://www.vivthomas.com/model/nikky-a; f
-cast: Vera A; https://www.vivthomas.com/model/vera-a; f
+model: n:Nikky A; id:/model/vivthomas/nikky-a; u:https://www.vivthomas.com/model/nikky-a; g:f
+model: n:Vera A; id:/model/vivthomas/vera-a; u:https://www.vivthomas.com/model/vera-a; g:f
 released: 2004-10-29
 director:   Viv Thomas
 rating: 9.2
@@ -114,8 +114,8 @@ title: Forbidden Fruits #3
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/jo-and-gina-b/movie/20041028/FORBIDDEN_FRUITS_PART_3
-cast: Jo; https://www.vivthomas.com/model/jo; f
-cast: Gina B; https://www.vivthomas.com/model/gina-b; f
+model: n:Jo; id:/model/vivthomas/jo; u:https://www.vivthomas.com/model/jo; g:f
+model: n:Gina B; id:/model/vivthomas/gina-b; u:https://www.vivthomas.com/model/gina-b; g:f
 released: 2004-10-28
 director:   Viv Thomas
 rating: 9.3
@@ -138,8 +138,8 @@ tag: outdoor
 title: Forbidden Fruits #2
 type: movie
 site: VivThomas
-cast: n:Vera A; u:https://www.vivthomas.com/model/vera-a
-cast: n:Peaches A; u:https://www.vivthomas.com/model/peaches-a
+model: n:Vera A; id:/model/vivthomas/vera-a; u:https://www.vivthomas.com/model/vera-a
+model: n:Peaches A; id:/model/vivthomas/peaches-a; u:https://www.vivthomas.com/model/peaches-a
 released: 2004-10-27
 director: Viv Thomas
 fileprefix: VivThomas-20041027-forbidden-fruits-2-
@@ -165,8 +165,8 @@ title: Forbidden Fruits #1
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/gina-b-and-nikky-a/movie/20041026/FORBIDDEN_FRUITS_PART_1
-cast: Gina B; https://www.vivthomas.com/model/gina-b; f
-cast: Nikky A; https://www.vivthomas.com/model/nikky-a; f
+model: n:Gina B; id:/model/vivthomas/gina-b; u:https://www.vivthomas.com/model/gina-b; g:f
+model: n:Nikky A; id:/model/vivthomas/nikky-a; u:https://www.vivthomas.com/model/nikky-a; g:f
 released: 2004-10-26
 director:   Viv Thomas
 rating: 9.1
@@ -189,8 +189,8 @@ title: Viv's Dream Team #5
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/sandra-shine-and-stella-stevens/movie/20041011/VIV_S_DREAM_TEAM_PART_5
-cast: Sandra Shine; https://www.vivthomas.com/model/sandra-shine; f
-cast: Stella Stevens; https://www.vivthomas.com/model/stella-stevens; f
+model: n:Sandra Shine; id:/model/vivthomas/sandra-shine; u:https://www.vivthomas.com/model/sandra-shine; g:f
+model: n:Stella Stevens; id:/model/vivthomas/stella-stevens; u:https://www.vivthomas.com/model/stella-stevens; g:f
 released: 2004-10-11
 director:   Viv Thomas
 rating: 9.5
@@ -212,8 +212,8 @@ title: Viv's Dream Team #4
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/jamie-a-and-vera-a/movie/20041011/VIV_S_DREAM_TEAM_PART_4
-cast: Jamie A; https://www.vivthomas.com/model/jamie-a; f
-cast: Vera A; https://www.vivthomas.com/model/vera-a; f
+model: n:Jamie A; id:/model/vivthomas/jamie-a; u:https://www.vivthomas.com/model/jamie-a; g:f
+model: n:Vera A; id:/model/vivthomas/vera-a; u:https://www.vivthomas.com/model/vera-a; g:f
 released: 2004-10-11
 director:   Viv Thomas
 rating: 9.4
@@ -237,8 +237,8 @@ title: Viv's Dream Team #3
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/bridgett-a-and-eve-angel/movie/20041011/VIV_S_DREAM_TEAM_PART_3
-cast: Bridgett A; https://www.vivthomas.com/model/bridgett-a; f
-cast: Eve Angel; https://www.vivthomas.com/model/eve-angel; f
+model: n:Bridgett A; id:/model/vivthomas/bridgett-a; u:https://www.vivthomas.com/model/bridgett-a; g:f
+model: n:Eve Angel; id:/model/vivthomas/eve-angel; u:https://www.vivthomas.com/model/eve-angel; g:f
 released: 2004-10-11
 director:   Viv Thomas
 rating: 9.3
@@ -261,8 +261,8 @@ title: Viv's Dream Team #2
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/peaches-a-and-gina-b/movie/20041011/VIV_S_DREAM_TEAM_PART_2
-cast: Peaches A; https://www.vivthomas.com/model/peaches-a; f
-cast: Gina B; https://www.vivthomas.com/model/gina-b; f
+model: n:Peaches A; id:/model/vivthomas/peaches-a; u:https://www.vivthomas.com/model/peaches-a; g:f
+model: n:Gina B; id:/model/vivthomas/gina-b; u:https://www.vivthomas.com/model/gina-b; g:f
 released: 2004-10-11
 director:   Viv Thomas
 rating: 9.3
@@ -286,10 +286,10 @@ title: Viv's Dream Team #1
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/sophie-moon-and-sandy-d-and-sandy-c-and-jamie-b/movie/20041011/VIV_S_DREAM_TEAM_PART_1
-cast: Sophie Moon; https://www.vivthomas.com/model/sophie-moon; f
-cast: Sandy D; https://www.vivthomas.com/model/sandy-d; f
-cast: Sandy C; https://www.vivthomas.com/model/sandy-c; f
-cast: Jamie B; https://www.vivthomas.com/model/jamie-b; f
+model: n:Sophie Moon; id:/model/vivthomas/sophie-moon; u:https://www.vivthomas.com/model/sophie-moon; g:f
+model: n:Sandy D; id:/model/vivthomas/sandy-d; u:https://www.vivthomas.com/model/sandy-d; g:f
+model: n:Sandy C; id:/model/vivthomas/sandy-c; u:https://www.vivthomas.com/model/sandy-c; g:f
+model: n:Jamie B; id:/model/vivthomas/jamie-b; u:https://www.vivthomas.com/model/jamie-b; g:f
 released: 2004-10-11
 director:   Viv Thomas
 rating: 9.3
@@ -315,8 +315,8 @@ title: Pink Velvet 3.5
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/sandra-shine-and-eve-angel/movie/20040921/PINK_VELVET_3_PART_5
-cast: Sandra Shine; https://www.vivthomas.com/model/sandra-shine; f
-cast: Eve Angel; https://www.vivthomas.com/model/eve-angel; f
+model: n:Sandra Shine; id:/model/vivthomas/sandra-shine; u:https://www.vivthomas.com/model/sandra-shine; g:f
+model: n:Eve Angel; id:/model/vivthomas/eve-angel; u:https://www.vivthomas.com/model/eve-angel; g:f
 released: 2004-9-21
 director:   Viv Thomas
 rating: 9.5
@@ -338,8 +338,8 @@ title: Pink Velvet 3.4
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/henrietta-a-and-peaches-a/movie/20040921/PINK_VELVET_3_PART_4
-cast: Henrietta A; https://www.vivthomas.com/model/henrietta-a; f
-cast: Peaches A; https://www.vivthomas.com/model/peaches-a; f
+model: n:Henrietta A; id:/model/vivthomas/henrietta-a; u:https://www.vivthomas.com/model/henrietta-a; g:f
+model: n:Peaches A; id:/model/vivthomas/peaches-a; u:https://www.vivthomas.com/model/peaches-a; g:f
 released: 2004-9-21
 director:   Viv Thomas
 rating: 9.3
@@ -363,8 +363,8 @@ title: Pink Velvet 3.3
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/lisa-c-and-sandy-d/movie/20040921/PINK_VELVET_3_PART_3
-cast: Lisa C; https://www.vivthomas.com/model/lisa-c; f
-cast: Sandy D; https://www.vivthomas.com/model/sandy-d; f
+model: n:Lisa C; id:/model/vivthomas/lisa-c; u:https://www.vivthomas.com/model/lisa-c; g:f
+model: n:Sandy D; id:/model/vivthomas/sandy-d; u:https://www.vivthomas.com/model/sandy-d; g:f
 released: 2004-9-21
 director:   Viv Thomas
 rating: 9.3
@@ -389,8 +389,8 @@ title: Pink Velvet 3.2
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/ella-a-and-sophie-moon/movie/20040921/PINK_VELVET_3_PART_2
-cast: Ella A; https://www.vivthomas.com/model/ella-a; f
-cast: Sophie Moon; https://www.vivthomas.com/model/sophie-moon; f
+model: n:Ella A; id:/model/vivthomas/ella-a; u:https://www.vivthomas.com/model/ella-a; g:f
+model: n:Sophie Moon; id:/model/vivthomas/sophie-moon; u:https://www.vivthomas.com/model/sophie-moon; g:f
 released: 2004-9-21
 director:   Viv Thomas
 rating: 9.4
@@ -414,8 +414,8 @@ title: Pink Velvet 3.6
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/ella-a-and-sandy-d/movie/20040921/PINK_VELVET_3_PART_6
-cast: Ella A; https://www.vivthomas.com/model/ella-a; f
-cast: Sandy D; https://www.vivthomas.com/model/sandy-d; f
+model: n:Ella A; id:/model/vivthomas/ella-a; u:https://www.vivthomas.com/model/ella-a; g:f
+model: n:Sandy D; id:/model/vivthomas/sandy-d; u:https://www.vivthomas.com/model/sandy-d; g:f
 released: 2004-9-21
 director:   Viv Thomas
 rating: 9.4
@@ -449,9 +449,9 @@ title: Pink Velvet 3.1
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/lola-d-and-ella-a-and-lisa-c/movie/20040921/PINK_VELVET_3_PART_1
-cast: Lola D; https://www.vivthomas.com/model/lola-d; f
-cast: Ella A; https://www.vivthomas.com/model/ella-a; f
-cast: Lisa C; https://www.vivthomas.com/model/lisa-c; f
+model: n:Lola D; id:/model/vivthomas/lola-d; u:https://www.vivthomas.com/model/lola-d; g:f
+model: n:Ella A; id:/model/vivthomas/ella-a; u:https://www.vivthomas.com/model/ella-a; g:f
+model: n:Lisa C; id:/model/vivthomas/lisa-c; u:https://www.vivthomas.com/model/lisa-c; g:f
 released: 2004-9-21
 director:   Viv Thomas
 rating: 9.2
@@ -472,8 +472,8 @@ title: Pink Velvet 3.7
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/lisa-c-and-jo/movie/20040921/PINK_VELVET_3_PART_7
-cast: Lisa C; https://www.vivthomas.com/model/lisa-c; f
-cast: Jo; https://www.vivthomas.com/model/jo; f
+model: n:Lisa C; id:/model/vivthomas/lisa-c; u:https://www.vivthomas.com/model/lisa-c; g:f
+model: n:Jo; id:/model/vivthomas/jo; u:https://www.vivthomas.com/model/jo; g:f
 released: 2004-9-21
 director:   Viv Thomas
 rating: 9.3
@@ -515,10 +515,10 @@ title: Pink Velvet 2 #1
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/anouska-a-and-jamie-a-and-ella-a-and-jo/movie/20040719/PINK_VELVET_2_PART_1
-cast: Anouska A; https://www.vivthomas.com/model/anouska-a; f
-cast: Jamie A; https://www.vivthomas.com/model/jamie-a; f
-cast: Ella A; https://www.vivthomas.com/model/ella-a; f
-cast: Jo; https://www.vivthomas.com/model/jo; f
+model: n:Anouska A; id:/model/vivthomas/anouska-a; u:https://www.vivthomas.com/model/anouska-a; g:f
+model: n:Jamie A; id:/model/vivthomas/jamie-a; u:https://www.vivthomas.com/model/jamie-a; g:f
+model: n:Ella A; id:/model/vivthomas/ella-a; u:https://www.vivthomas.com/model/ella-a; g:f
+model: n:Jo; id:/model/vivthomas/jo; u:https://www.vivthomas.com/model/jo; g:f
 released: 2004-7-19
 director:   Viv Thomas
 rating: 9.2
@@ -555,8 +555,8 @@ title: Pink Velvet 2 #5
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/ella-a-and-jo/movie/20040719/PINK_VELVET_2_PART_5
-cast: Ella A; https://www.vivthomas.com/model/ella-a; f
-cast: Jo; https://www.vivthomas.com/model/jo; f
+model: n:Ella A; id:/model/vivthomas/ella-a; u:https://www.vivthomas.com/model/ella-a; g:f
+model: n:Jo; id:/model/vivthomas/jo; u:https://www.vivthomas.com/model/jo; g:f
 released: 2004-7-19
 director:   Viv Thomas
 rating: 9.5
@@ -602,8 +602,8 @@ title: Pink Velvet 2 #2
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/ella-a-and-anouska-a/movie/20040719/PINK_VELVET_2_PART_2
-cast: Ella A; https://www.vivthomas.com/model/ella-a; f
-cast: Anouska A; https://www.vivthomas.com/model/anouska-a; f
+model: n:Ella A; id:/model/vivthomas/ella-a; u:https://www.vivthomas.com/model/ella-a; g:f
+model: n:Anouska A; id:/model/vivthomas/anouska-a; u:https://www.vivthomas.com/model/anouska-a; g:f
 released: 2004-7-19
 director:   Viv Thomas
 rating: 9.4
@@ -629,8 +629,8 @@ title: Pink Velvet 2 #3
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/jo-and-vera-a/movie/20040719/PINK_VELVET_2_PART_3
-cast: Jo; https://www.vivthomas.com/model/jo; f
-cast: Vera A; https://www.vivthomas.com/model/vera-a; f
+model: n:Jo; id:/model/vivthomas/jo; u:https://www.vivthomas.com/model/jo; g:f
+model: n:Vera A; id:/model/vivthomas/vera-a; u:https://www.vivthomas.com/model/vera-a; g:f
 released: 2004-7-19
 director:   Viv Thomas
 rating: 9.5
@@ -671,15 +671,14 @@ title: Pink Velvet 2 #4
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/ella-a-and-peaches-a/movie/20040719/PINK_VELVET_2_PART_4
-cast: Ella A; https://www.vivthomas.com/model/ella-a; f
-cast: Peaches A; https://www.vivthomas.com/model/peaches-a; f
+model: n:Ella A; id:/model/vivthomas/ella-a; u:https://www.vivthomas.com/model/ella-a; g:f
+model: n:Peaches A; id:/model/vivthomas/peaches-a; u:https://www.vivthomas.com/model/peaches-a; g:f
 released: 2004-7-19
 director:   Viv Thomas
 rating: 9.6
 fileprefix: VivThomas-20040719-pink-velvet-2-4-
 note: Low resolution (360p)
-description: This epic sequel to the undisputed champion of girl/girl movies sees SIX of the most beautiful girls in the world making genuine, passionate love to one another. Ella seduces not only Jo's step-mum but also her teenage step-sister, fingering her arse and sharing her first kiss.
-youWillNotSeeLesbianSexSoBeautifullyCraftedAnywhereElse.SoSitBackAndEnjoyWhatWillProbablyBeTheMostTriumphantExperienceInTheHistoryOfHardcoreLesbianPornography...:
+description: This epic sequel to the undisputed champion of girl/girl movies sees SIX of the most beautiful girls in the world making genuine, passionate love to one another. Ella seduces not only Jo's step-mum but also her teenage step-sister, fingering her arse and sharing her first kiss. You will not see lesbian sex so beautifully crafted anywhere else. So sit back and enjoy what will probably be the most triumphant experience in the history of hardcore lesbian pornography...
 runtime: 0:32
 seconds: 1934
 duration: 32m14s
@@ -716,8 +715,8 @@ title: Confessions of a Make-up Artist #1
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/jo-and-stella-stevens/movie/20040601/CONFESSIONS_OF_A_MAKE-UP_ARTIST_PART_1
-cast: Jo; https://www.vivthomas.com/model/jo; f
-cast: Stella Stevens; https://www.vivthomas.com/model/stella-stevens; f
+model: n:Jo; id:/model/vivthomas/jo; u:https://www.vivthomas.com/model/jo; g:f
+model: n:Stella Stevens; id:/model/vivthomas/stella-stevens; u:https://www.vivthomas.com/model/stella-stevens; g:f
 released: 2004-6-1
 director:   Viv Thomas
 rating: 9.1
@@ -771,7 +770,7 @@ title: Leg Sex Babes 3 #4
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/silvia-saint/movie/20040128/LEG_SEX_BABES_3_PART_4
-cast: Silvia Saint; https://www.vivthomas.com/model/silvia-saint; f
+model: n:Silvia Saint; id:/model/vivthomas/silvia-saint; u:https://www.vivthomas.com/model/silvia-saint; g:f
 released: 2004-1-28
 director:   Viv Thomas
 rating: 9.1
@@ -813,7 +812,7 @@ title: Leg Sex Babes 3 #3
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/jamie-a/movie/20040126/LEG_SEX_BABES_3_PART_3
-cast: Jamie A; https://www.vivthomas.com/model/jamie-a; f
+model: n:Jamie A; id:/model/vivthomas/jamie-a; u:https://www.vivthomas.com/model/jamie-a; g:f
 released: 2004-1-26
 director:   Viv Thomas
 rating: 9.4
@@ -855,7 +854,7 @@ title: Leg Sex Babes 3 #2
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/cristina-bella/movie/20040124/LEG_SEX_BABES_3_PART_2
-cast: Cristina Bella; https://www.vivthomas.com/model/cristina-bella; f
+model: n:Cristina Bella; id:/model/vivthomas/cristina-bella; u:https://www.vivthomas.com/model/cristina-bella; g:f
 released: 2004-1-24
 director:   Viv Thomas
 rating: 9.2
@@ -901,7 +900,7 @@ title: Leg Sex Babes 3 #1
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/vera-a/movie/20040122/LEG_SEX_BABES_3_PART_1
-cast: Vera A; https://www.vivthomas.com/model/vera-a; f
+model: n:Vera A; id:/model/vivthomas/vera-a; u:https://www.vivthomas.com/model/vera-a; g:f
 released: 2004-1-22
 director:   Viv Thomas
 rating: 9.2

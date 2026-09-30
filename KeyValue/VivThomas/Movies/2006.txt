@@ -9,8 +9,8 @@ title: UK vs Europe #10
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/vera-a-and-zora-banx/movie/20061220/UK_VS_EUROPE_PART_10
-cast: Vera A; https://www.vivthomas.com/model/vera-a; f
-cast: Zora Banx; https://www.vivthomas.com/model/zora-banx; f
+model: n:Vera A; id:/model/vivthomas/vera-a; u:https://www.vivthomas.com/model/vera-a; g:f
+model: n:Zora Banx; id:/model/vivthomas/zora-banx; u:https://www.vivthomas.com/model/zora-banx; g:f
 released: 2006-12-20
 director:   Viv Thomas
 rating: 9.2
@@ -50,7 +50,7 @@ title: UK vs Europe #9
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/dawn-a/movie/20061219/UK_VS_EUROPE_PART_9
-cast: Dawn A; https://www.vivthomas.com/model/dawn-a; f
+model: n:Dawn A; id:/model/vivthomas/dawn-a; u:https://www.vivthomas.com/model/dawn-a; g:f
 released: 2006-12-19
 director:   Viv Thomas
 rating: 8.6
@@ -75,7 +75,7 @@ title: UK vs Europe #6
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/stella-stevens/movie/20061216/UK_VS_EUROPE_PART_6
-cast: Stella Stevens; https://www.vivthomas.com/model/stella-stevens; f
+model: n:Stella Stevens; id:/model/vivthomas/stella-stevens; u:https://www.vivthomas.com/model/stella-stevens; g:f
 released: 2006-12-16
 director:   Viv Thomas
 rating: 9.1
@@ -91,7 +91,7 @@ title: UK vs Europe #5
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/rebekah-teasdale/movie/20061215/UK_VS_EUROPE_PART_5
-cast: Rebekah Teasdale; https://www.vivthomas.com/model/rebekah-teasdale; f
+model: n:Rebekah Teasdale; id:/model/vivthomas/rebekah-teasdale; u:https://www.vivthomas.com/model/rebekah-teasdale; g:f
 released: 2006-12-15
 director:   Viv Thomas
 rating: 8.8
@@ -107,8 +107,8 @@ title: UK vs Europe #4
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/sandra-shine-and-lisa-c/movie/20061214/UK_VS_EUROPE_PART_4
-cast: Sandra Shine; https://www.vivthomas.com/model/sandra-shine; f
-cast: Lisa C; https://www.vivthomas.com/model/lisa-c; f
+model: n:Sandra Shine; id:/model/vivthomas/sandra-shine; u:https://www.vivthomas.com/model/sandra-shine; g:f
+model: n:Lisa C; id:/model/vivthomas/lisa-c; u:https://www.vivthomas.com/model/lisa-c; g:f
 released: 2006-12-14
 director:   Viv Thomas
 rating: 9.4
@@ -147,8 +147,8 @@ title: UK vs Europe #3
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/natasha-vale-and-adele-stephens/movie/20061213/UK_VS_EUROPE_PART_3
-cast: Natasha Vale; https://www.vivthomas.com/model/natasha-vale; f
-cast: Adele Stephens; https://www.vivthomas.com/model/adele-stephens; f
+model: n:Natasha Vale; id:/model/vivthomas/natasha-vale; u:https://www.vivthomas.com/model/natasha-vale; g:f
+model: n:Adele Stephens; id:/model/vivthomas/adele-stephens; u:https://www.vivthomas.com/model/adele-stephens; g:f
 released: 2006-12-13
 director:   Viv Thomas
 rating: 9.0
@@ -188,8 +188,8 @@ title: Unfaithful #1
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/lisa-c-and-nella-a/movie/20060730/UNFAITHFUL_PART_1
-cast: Lisa C; https://www.vivthomas.com/model/lisa-c; f
-cast: Nella A; https://www.vivthomas.com/model/nella-a; f
+model: n:Lisa C; id:/model/vivthomas/lisa-c; u:https://www.vivthomas.com/model/lisa-c; g:f
+model: n:Nella A; id:/model/vivthomas/nella-a; u:https://www.vivthomas.com/model/nella-a; g:f
 released: 2006-07-30
 director:   Viv Thomas
 rating: 9.1
@@ -215,8 +215,8 @@ title: Unfaithful #4
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/lisa-c-and-peaches-a/movie/20060730/UNFAITHFUL_PART_4
-cast: Lisa C; https://www.vivthomas.com/model/lisa-c; f
-cast: Peaches A; https://www.vivthomas.com/model/peaches-a; f
+model: n:Lisa C; id:/model/vivthomas/lisa-c; u:https://www.vivthomas.com/model/lisa-c; g:f
+model: n:Peaches A; id:/model/vivthomas/peaches-a; u:https://www.vivthomas.com/model/peaches-a; g:f
 released: 2006-07-30
 director:   Viv Thomas
 rating: 9.2
@@ -283,8 +283,8 @@ title: Unfaithful #3
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/nella-a-and-lisa-c/movie/20060730/UNFAITHFUL_PART_3
-cast: Nella A; https://www.vivthomas.com/model/nella-a; f
-cast: Lisa C; https://www.vivthomas.com/model/lisa-c; f
+model: n:Nella A; id:/model/vivthomas/nella-a; u:https://www.vivthomas.com/model/nella-a; g:f
+model: n:Lisa C; id:/model/vivthomas/lisa-c; u:https://www.vivthomas.com/model/lisa-c; g:f
 released: 2006-07-30
 director:   Viv Thomas
 rating: 9.3
@@ -346,8 +346,8 @@ title: Unfaithful #2
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/nella-a-and-lisa-c/movie/20060730/UNFAITHFUL_PART_2
-cast: Nella A; https://www.vivthomas.com/model/nella-a; f
-cast: Lisa C; https://www.vivthomas.com/model/lisa-c; f
+model: n:Nella A; id:/model/vivthomas/nella-a; u:https://www.vivthomas.com/model/nella-a; g:f
+model: n:Lisa C; id:/model/vivthomas/lisa-c; u:https://www.vivthomas.com/model/lisa-c; g:f
 released: 2006-07-30
 director:   Viv Thomas
 rating: 9.1

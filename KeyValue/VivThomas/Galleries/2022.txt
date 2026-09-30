@@ -9,7 +9,7 @@ title: Opening Up
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/christin/gallery/20221231/OPENING_UP
-cast: Christin; https://www.vivthomas.com/model/christin; f
+model: n:Christin; id:/model/vivthomas/christin; u:https://www.vivthomas.com/model/christin; g:f
 released: 2022-12-31
 photographer: Dave Lee
 rating: 9.2
@@ -23,8 +23,8 @@ title: Enjoying Ourselves
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/lara-lee-and-kate-quinn/gallery/20221227/ENJOYING_OURSELVES
-cast: Lara Lee; https://www.vivthomas.com/model/lara-lee; f
-cast: Kate Quinn; https://www.vivthomas.com/model/kate-quinn; f
+model: n:Lara Lee; id:/model/vivthomas/lara-lee; u:https://www.vivthomas.com/model/lara-lee; g:f
+model: n:Kate Quinn; id:/model/vivthomas/kate-quinn; u:https://www.vivthomas.com/model/kate-quinn; g:f
 released: 2022-12-27
 photographer: Sandra Shine
 rating: 9.5
@@ -38,8 +38,8 @@ title: Naughty Or Nice?
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/usha-and-mirka/gallery/20221225/NAUGHTY_OR_NICE?
-cast: Usha; https://www.vivthomas.com/model/usha; f
-cast: Mirka; https://www.vivthomas.com/model/mirka; f
+model: n:Usha; id:/model/vivthomas/usha; u:https://www.vivthomas.com/model/usha; g:f
+model: n:Mirka; id:/model/vivthomas/mirka; u:https://www.vivthomas.com/model/mirka; g:f
 released: 2022-12-25
 photographer: Tora Ness
 rating: 9.3
@@ -53,8 +53,8 @@ title: My Biker Girl
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/aislin-and-hayli-sanders/gallery/20221222/MY_BIKER_GIRL
-cast: Aislin; https://www.vivthomas.com/model/aislin; f
-cast: Hayli Sanders; https://www.vivthomas.com/model/hayli-sanders; f
+model: n:Aislin; id:/model/vivthomas/aislin; u:https://www.vivthomas.com/model/aislin; g:f
+model: n:Hayli Sanders; id:/model/vivthomas/hayli-sanders; u:https://www.vivthomas.com/model/hayli-sanders; g:f
 released: 2022-12-22
 photographer: Adel Morel
 rating: 9.5
@@ -68,8 +68,8 @@ title: Fast Learner
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/ellie-luna-and-cherry-kiss/gallery/20221219/FAST_LEARNER
-cast: Ellie Luna; https://www.vivthomas.com/model/ellie-luna; f
-cast: Cherry Kiss; https://www.vivthomas.com/model/cherry-kiss; f
+model: n:Ellie Luna; id:/model/vivthomas/ellie-luna; u:https://www.vivthomas.com/model/ellie-luna; g:f
+model: n:Cherry Kiss; id:/model/vivthomas/cherry-kiss; u:https://www.vivthomas.com/model/cherry-kiss; g:f
 released: 2022-12-19
 photographer: Sandra Shine
 rating: 9.5
@@ -83,8 +83,8 @@ title: Room For Two
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/sofi-vega-and-purr-simona/gallery/20221213/ROOM_FOR_TWO
-cast: Sofi Vega; https://www.vivthomas.com/model/sofi-vega; f
-cast: Purr Simona; https://www.vivthomas.com/model/purr-simona; f
+model: n:Sofi Vega; id:/model/vivthomas/sofi-vega; u:https://www.vivthomas.com/model/sofi-vega; g:f
+model: n:Purr Simona; id:/model/vivthomas/purr-simona; u:https://www.vivthomas.com/model/purr-simona; g:f
 released: 2022-12-13
 photographer: Sandra Shine
 rating: 9.6
@@ -98,8 +98,8 @@ title: Hot Loving
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/jayla-de-angelis-and-alika-penagos/gallery/20221208/HOT_LOVING
-cast: Jayla De Angelis; https://www.vivthomas.com/model/jayla-de-angelis; f
-cast: Alika Penagos; https://www.vivthomas.com/model/alika-penagos; f
+model: n:Jayla De Angelis; id:/model/vivthomas/jayla-de-angelis; u:https://www.vivthomas.com/model/jayla-de-angelis; g:f
+model: n:Alika Penagos; id:/model/vivthomas/alika-penagos; u:https://www.vivthomas.com/model/alika-penagos; g:f
 released: 2022-12-08
 photographer: Sandra Shine
 rating: 9.6
@@ -113,8 +113,8 @@ title: Loving Eyes
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/milena-ray-and-lilly-bella/gallery/20221205/LOVING_EYES
-cast: Milena Ray; https://www.vivthomas.com/model/milena-ray; f
-cast: Lilly Bella; https://www.vivthomas.com/model/lilly-bella; f
+model: n:Milena Ray; id:/model/vivthomas/milena-ray; u:https://www.vivthomas.com/model/milena-ray; g:f
+model: n:Lilly Bella; id:/model/vivthomas/lilly-bella; u:https://www.vivthomas.com/model/lilly-bella; g:f
 released: 2022-12-05
 photographer: Sandra Shine
 rating: 9.4
@@ -128,8 +128,8 @@ title: Date Night
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/alexis-crystal-and-ryana/gallery/20221129/DATE_NIGHT
-cast: Alexis Crystal; https://www.vivthomas.com/model/alexis-crystal; f
-cast: Ryana; https://www.vivthomas.com/model/ryana; f
+model: n:Alexis Crystal; id:/model/vivthomas/alexis-crystal; u:https://www.vivthomas.com/model/alexis-crystal; g:f
+model: n:Ryana; id:/model/vivthomas/ryana; u:https://www.vivthomas.com/model/ryana; g:f
 released: 2022-11-29
 photographer: Sandra Shine
 rating: 9.5
@@ -143,8 +143,8 @@ title: Take A Shot
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/sofi-vega-and-kinuski/gallery/20221124/TAKE_A_SHOT
-cast: Sofi Vega; https://www.vivthomas.com/model/sofi-vega; f
-cast: Kinuski; https://www.vivthomas.com/model/kinuski; f
+model: n:Sofi Vega; id:/model/vivthomas/sofi-vega; u:https://www.vivthomas.com/model/sofi-vega; g:f
+model: n:Kinuski; id:/model/vivthomas/kinuski; u:https://www.vivthomas.com/model/kinuski; g:f
 released: 2022-11-24
 photographer: Sandra Shine
 rating: 9.5
@@ -158,8 +158,8 @@ title: Enamour
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/mia-evans-and-sky-pierce/gallery/20221121/ENAMOUR
-cast: Mia Evans; https://www.vivthomas.com/model/mia-evans; f
-cast: Sky Pierce; https://www.vivthomas.com/model/sky-pierce; f
+model: n:Mia Evans; id:/model/vivthomas/mia-evans; u:https://www.vivthomas.com/model/mia-evans; g:f
+model: n:Sky Pierce; id:/model/vivthomas/sky-pierce; u:https://www.vivthomas.com/model/sky-pierce; g:f
 released: 2022-11-21
 photographer: Sandra Shine
 rating: 9.5
@@ -173,8 +173,8 @@ title: Perfect Match
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/foxy-alissa-and-kelly-collins/gallery/20221115/PERFECT_MATCH
-cast: Foxy Alissa; https://www.vivthomas.com/model/foxy-alissa; f
-cast: Kelly Collins; https://www.vivthomas.com/model/kelly-collins; f
+model: n:Foxy Alissa; id:/model/vivthomas/foxy-alissa; u:https://www.vivthomas.com/model/foxy-alissa; g:f
+model: n:Kelly Collins; id:/model/vivthomas/kelly-collins; u:https://www.vivthomas.com/model/kelly-collins; g:f
 released: 2022-11-15
 photographer: Sandra Shine
 rating: 9.7
@@ -188,8 +188,8 @@ title: Love Waking Up
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/lottie-magne-and-nata-ocean/gallery/20221110/LOVE_WAKING_UP
-cast: Lottie Magne; https://www.vivthomas.com/model/lottie-magne; f
-cast: Nata Ocean; https://www.vivthomas.com/model/nata-ocean; f
+model: n:Lottie Magne; id:/model/vivthomas/lottie-magne; u:https://www.vivthomas.com/model/lottie-magne; g:f
+model: n:Nata Ocean; id:/model/vivthomas/nata-ocean; u:https://www.vivthomas.com/model/nata-ocean; g:f
 released: 2022-11-10
 photographer: Sandra Shine
 rating: 9.4
@@ -203,8 +203,8 @@ title: Summer Lovin'
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/marie-berger-and-vicky-love/gallery/20221107/SUMMER_LOVIN_
-cast: Marie Berger; https://www.vivthomas.com/model/marie-berger; f
-cast: Vicky Love; https://www.vivthomas.com/model/vicky-love; f
+model: n:Marie Berger; id:/model/vivthomas/marie-berger; u:https://www.vivthomas.com/model/marie-berger; g:f
+model: n:Vicky Love; id:/model/vivthomas/vicky-love; u:https://www.vivthomas.com/model/vicky-love; g:f
 released: 2022-11-07
 photographer: Sandra Shine
 rating: 9.3
@@ -218,8 +218,8 @@ title: Sauna Love
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/oxana-chic-and-bernie/gallery/20221105/SAUNA_LOVE
-cast: Oxana Chic; https://www.vivthomas.com/model/oxana-chic; f
-cast: Bernie; https://www.vivthomas.com/model/bernie; f
+model: n:Oxana Chic; id:/model/vivthomas/oxana-chic; u:https://www.vivthomas.com/model/oxana-chic; g:f
+model: n:Bernie; id:/model/vivthomas/bernie; u:https://www.vivthomas.com/model/bernie; g:f
 released: 2022-11-05
 photographer: Tora Ness
 rating: 9.6
@@ -233,8 +233,8 @@ title: Spontaneous
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/ann-joy-and-jo/gallery/20221101/SPONTANEOUS
-cast: Ann Joy; https://www.vivthomas.com/model/ann-joy; f
-cast: Jo; https://www.vivthomas.com/model/jo; f
+model: n:Ann Joy; id:/model/vivthomas/ann-joy; u:https://www.vivthomas.com/model/ann-joy; g:f
+model: n:Jo; id:/model/vivthomas/jo; u:https://www.vivthomas.com/model/jo; g:f
 released: 2022-11-01
 photographer: Sandra Shine
 rating: 9.5
@@ -248,7 +248,7 @@ title: Smiling Beauty
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/lolli-spring/gallery/20221030/SMILING_BEAUTY
-cast: Lolli Spring; https://www.vivthomas.com/model/lolli-spring; f
+model: n:Lolli Spring; id:/model/vivthomas/lolli-spring; u:https://www.vivthomas.com/model/lolli-spring; g:f
 released: 2022-10-30
 photographer: Dave Lee
 rating: 9.5
@@ -262,8 +262,8 @@ title: Come To Me
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/kate-quinn-and-subil-arch/gallery/20221027/COME_TO_ME
-cast: Kate Quinn; https://www.vivthomas.com/model/kate-quinn; f
-cast: Subil Arch; https://www.vivthomas.com/model/subil-arch; f
+model: n:Kate Quinn; id:/model/vivthomas/kate-quinn; u:https://www.vivthomas.com/model/kate-quinn; g:f
+model: n:Subil Arch; id:/model/vivthomas/subil-arch; u:https://www.vivthomas.com/model/subil-arch; g:f
 released: 2022-10-27
 photographer: Sandra Shine
 rating: 9.5
@@ -277,8 +277,8 @@ title: Fruits Of Love
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/jayla-de-angelis-and-amirah-adara/gallery/20221024/FRUITS_OF_LOVE
-cast: Jayla De Angelis; https://www.vivthomas.com/model/jayla-de-angelis; f
-cast: Amirah Adara; https://www.vivthomas.com/model/amirah-adara; f
+model: n:Jayla De Angelis; id:/model/vivthomas/jayla-de-angelis; u:https://www.vivthomas.com/model/jayla-de-angelis; g:f
+model: n:Amirah Adara; id:/model/vivthomas/amirah-adara; u:https://www.vivthomas.com/model/amirah-adara; g:f
 released: 2022-10-24
 photographer: Sandra Shine
 rating: 9.5
@@ -292,7 +292,7 @@ title: Lady in Red
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/christin/gallery/20221022/LADY_IN_RED
-cast: Christin; https://www.vivthomas.com/model/christin; f
+model: n:Christin; id:/model/vivthomas/christin; u:https://www.vivthomas.com/model/christin; g:f
 released: 2022-10-22
 photographer: Dave Lee
 rating: 9.3
@@ -306,8 +306,8 @@ title: Eyes On Me
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/sara-bell-and-kylie-green/gallery/20221018/EYES_ON_ME
-cast: Sara Bell; https://www.vivthomas.com/model/sara-bell; f
-cast: Kylie Green; https://www.vivthomas.com/model/kylie-green; f
+model: n:Sara Bell; id:/model/vivthomas/sara-bell; u:https://www.vivthomas.com/model/sara-bell; g:f
+model: n:Kylie Green; id:/model/vivthomas/kylie-green; u:https://www.vivthomas.com/model/kylie-green; g:f
 released: 2022-10-18
 photographer: Sandra Shine
 rating: 9.4
@@ -321,7 +321,7 @@ title: Fairest Of Them All
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/kaleesy/gallery/20221016/FAIREST_OF_THEM_ALL
-cast: Kaleesy; https://www.vivthomas.com/model/kaleesy; f
+model: n:Kaleesy; id:/model/vivthomas/kaleesy; u:https://www.vivthomas.com/model/kaleesy; g:f
 released: 2022-10-16
 photographer: Dave Lee
 rating: 9.6
@@ -335,8 +335,8 @@ title: Want A Taste
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/ophelia-dust-and-carolina-savage/gallery/20221013/WANT_A_TASTE
-cast: Ophelia Dust; https://www.vivthomas.com/model/ophelia-dust; f
-cast: Carolina Savage; https://www.vivthomas.com/model/carolina-savage; f
+model: n:Ophelia Dust; id:/model/vivthomas/ophelia-dust; u:https://www.vivthomas.com/model/ophelia-dust; g:f
+model: n:Carolina Savage; id:/model/vivthomas/carolina-savage; u:https://www.vivthomas.com/model/carolina-savage; g:f
 released: 2022-10-13
 photographer: Sandra Shine
 rating: 9.2
@@ -350,8 +350,8 @@ title: Wanting You
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/dolly-diore-and-sofi-vega/gallery/20221010/WANTING_YOU
-cast: Dolly Diore; https://www.vivthomas.com/model/dolly-diore; f
-cast: Sofi Vega; https://www.vivthomas.com/model/sofi-vega; f
+model: n:Dolly Diore; id:/model/vivthomas/dolly-diore; u:https://www.vivthomas.com/model/dolly-diore; g:f
+model: n:Sofi Vega; id:/model/vivthomas/sofi-vega; u:https://www.vivthomas.com/model/sofi-vega; g:f
 released: 2022-10-10
 photographer: Sandra Shine
 rating: 9.5
@@ -365,7 +365,7 @@ title: Cheeky
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/phattaya-hayes/gallery/20221008/CHEEKY
-cast: Phattaya Hayes; https://www.vivthomas.com/model/phattaya-hayes; f
+model: n:Phattaya Hayes; id:/model/vivthomas/phattaya-hayes; u:https://www.vivthomas.com/model/phattaya-hayes; g:f
 released: 2022-10-08
 photographer: Dave Lee
 rating: 9.3
@@ -379,8 +379,8 @@ title: Flirty
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/vicky-love-and-jo/gallery/20221004/FLIRTY
-cast: Vicky Love; https://www.vivthomas.com/model/vicky-love; f
-cast: Jo; https://www.vivthomas.com/model/jo; f
+model: n:Vicky Love; id:/model/vivthomas/vicky-love; u:https://www.vivthomas.com/model/vicky-love; g:f
+model: n:Jo; id:/model/vivthomas/jo; u:https://www.vivthomas.com/model/jo; g:f
 released: 2022-10-04
 photographer: Sandra Shine
 rating: 9.4
@@ -394,7 +394,7 @@ title: Piercing Eyes
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/nikta/gallery/20221002/PIERCING_EYES
-cast: Nikta; https://www.vivthomas.com/model/nikta; f
+model: n:Nikta; id:/model/vivthomas/nikta; u:https://www.vivthomas.com/model/nikta; g:f
 released: 2022-10-02
 photographer: Dave Lee
 rating: 9.4
@@ -408,8 +408,8 @@ title: New Experience
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/diamond-and-casey-a/gallery/20220929/NEW_EXPERIENCE
-cast: Diamond; https://www.vivthomas.com/model/diamond; f
-cast: Casey A; https://www.vivthomas.com/model/casey-a; f
+model: n:Diamond; id:/model/vivthomas/diamond; u:https://www.vivthomas.com/model/diamond; g:f
+model: n:Casey A; id:/model/vivthomas/casey-a; u:https://www.vivthomas.com/model/casey-a; g:f
 released: 2022-09-29
 photographer: Tora Ness
 rating: 9.3
@@ -423,8 +423,8 @@ title: Come To Me
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/mia-evans-and-ophelia-dust/gallery/20220926/COME_TO_ME
-cast: Mia Evans; https://www.vivthomas.com/model/mia-evans; f
-cast: Ophelia Dust; https://www.vivthomas.com/model/ophelia-dust; f
+model: n:Mia Evans; id:/model/vivthomas/mia-evans; u:https://www.vivthomas.com/model/mia-evans; g:f
+model: n:Ophelia Dust; id:/model/vivthomas/ophelia-dust; u:https://www.vivthomas.com/model/ophelia-dust; g:f
 released: 2022-09-26
 photographer: Sandra Shine
 rating: 9.2
@@ -438,8 +438,8 @@ title: A Taste Of Joy
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/ann-joy-and-kate-quinn/gallery/20220920/A_TASTE_OF_JOY
-cast: Ann Joy; https://www.vivthomas.com/model/ann-joy; f
-cast: Kate Quinn; https://www.vivthomas.com/model/kate-quinn; f
+model: n:Ann Joy; id:/model/vivthomas/ann-joy; u:https://www.vivthomas.com/model/ann-joy; g:f
+model: n:Kate Quinn; id:/model/vivthomas/kate-quinn; u:https://www.vivthomas.com/model/kate-quinn; g:f
 released: 2022-09-20
 photographer: Sandra Shine
 rating: 9.3
@@ -453,7 +453,7 @@ title: Sultry
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/lolli-spring/gallery/20220918/SULTRY
-cast: Lolli Spring; https://www.vivthomas.com/model/lolli-spring; f
+model: n:Lolli Spring; id:/model/vivthomas/lolli-spring; u:https://www.vivthomas.com/model/lolli-spring; g:f
 released: 2022-09-18
 photographer: Dave Lee
 rating: 9.4
@@ -467,8 +467,8 @@ title: Fruits Of Love
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/yenifer-chacon-and-lia-ponce/gallery/20220915/FRUITS_OF_LOVE
-cast: Yenifer Chacon; https://www.vivthomas.com/model/yenifer-chacon; f
-cast: Lia Ponce; https://www.vivthomas.com/model/lia-ponce; f
+model: n:Yenifer Chacon; id:/model/vivthomas/yenifer-chacon; u:https://www.vivthomas.com/model/yenifer-chacon; g:f
+model: n:Lia Ponce; id:/model/vivthomas/lia-ponce; u:https://www.vivthomas.com/model/lia-ponce; g:f
 released: 2022-09-15
 photographer: Sandra Shine
 rating: 9.4
@@ -482,8 +482,8 @@ title: My Turn
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/purr-simona-and-asia-vargas/gallery/20220912/MY_TURN
-cast: Purr Simona; https://www.vivthomas.com/model/purr-simona; f
-cast: Asia Vargas; https://www.vivthomas.com/model/asia-vargas; f
+model: n:Purr Simona; id:/model/vivthomas/purr-simona; u:https://www.vivthomas.com/model/purr-simona; g:f
+model: n:Asia Vargas; id:/model/vivthomas/asia-vargas; u:https://www.vivthomas.com/model/asia-vargas; g:f
 released: 2022-09-12
 photographer: Sandra Shine
 rating: 9.3
@@ -497,7 +497,7 @@ title: Pink Lady
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/lily-shawn/gallery/20220910/PINK_LADY
-cast: Lily Shawn; https://www.vivthomas.com/model/lily-shawn; f
+model: n:Lily Shawn; id:/model/vivthomas/lily-shawn; u:https://www.vivthomas.com/model/lily-shawn; g:f
 released: 2022-09-10
 photographer: Dave Lee
 rating: 9.4
@@ -511,9 +511,9 @@ title: Perfect Trio
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/dorothy-black-and-vicky-love-and-kira-queen/gallery/20220906/PERFECT_TRIO
-cast: Dorothy Black; https://www.vivthomas.com/model/dorothy-black; f
-cast: Vicky Love; https://www.vivthomas.com/model/vicky-love; f
-cast: Kira Queen; https://www.vivthomas.com/model/kira-queen; f
+model: n:Dorothy Black; id:/model/vivthomas/dorothy-black; u:https://www.vivthomas.com/model/dorothy-black; g:f
+model: n:Vicky Love; id:/model/vivthomas/vicky-love; u:https://www.vivthomas.com/model/vicky-love; g:f
+model: n:Kira Queen; id:/model/vivthomas/kira-queen; u:https://www.vivthomas.com/model/kira-queen; g:f
 released: 2022-09-06
 photographer: Sandra Shine
 rating: 9.3
@@ -527,7 +527,7 @@ title: Sexy Vibe
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/kaleesy/gallery/20220904/SEXY_VIBE
-cast: Kaleesy; https://www.vivthomas.com/model/kaleesy; f
+model: n:Kaleesy; id:/model/vivthomas/kaleesy; u:https://www.vivthomas.com/model/kaleesy; g:f
 released: 2022-09-04
 photographer: Dave Lee
 rating: 9.4
@@ -541,8 +541,8 @@ title: Up For Grabs
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/jo-and-elena-vedem/gallery/20220901/UP_FOR_GRABS
-cast: Jo; https://www.vivthomas.com/model/jo; f
-cast: Elena Vedem; https://www.vivthomas.com/model/elena-vedem; f
+model: n:Jo; id:/model/vivthomas/jo; u:https://www.vivthomas.com/model/jo; g:f
+model: n:Elena Vedem; id:/model/vivthomas/elena-vedem; u:https://www.vivthomas.com/model/elena-vedem; g:f
 released: 2022-09-01
 photographer: Sandra Shine
 rating: 9.2
@@ -556,8 +556,8 @@ title: Dazzle Me
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/subil-arch-and-jayla-de-angelis/gallery/20220829/DAZZLE_ME
-cast: Subil Arch; https://www.vivthomas.com/model/subil-arch; f
-cast: Jayla De Angelis; https://www.vivthomas.com/model/jayla-de-angelis; f
+model: n:Subil Arch; id:/model/vivthomas/subil-arch; u:https://www.vivthomas.com/model/subil-arch; g:f
+model: n:Jayla De Angelis; id:/model/vivthomas/jayla-de-angelis; u:https://www.vivthomas.com/model/jayla-de-angelis; g:f
 released: 2022-08-29
 photographer: Sandra Shine
 rating: 9.3
@@ -571,7 +571,7 @@ title: Delectable
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/christin/gallery/20220827/DELECTABLE
-cast: Christin; https://www.vivthomas.com/model/christin; f
+model: n:Christin; id:/model/vivthomas/christin; u:https://www.vivthomas.com/model/christin; g:f
 released: 2022-08-27
 photographer: Dave Lee
 rating: 9.2
@@ -585,8 +585,8 @@ title: Shared Love
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/sara-bell-and-kate-quinn/gallery/20220823/SHARED_LOVE
-cast: Sara Bell; https://www.vivthomas.com/model/sara-bell; f
-cast: Kate Quinn; https://www.vivthomas.com/model/kate-quinn; f
+model: n:Sara Bell; id:/model/vivthomas/sara-bell; u:https://www.vivthomas.com/model/sara-bell; g:f
+model: n:Kate Quinn; id:/model/vivthomas/kate-quinn; u:https://www.vivthomas.com/model/kate-quinn; g:f
 released: 2022-08-23
 photographer: Sandra Shine
 rating: 9.3
@@ -600,7 +600,7 @@ title: Exhibition
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/yenn-cat/gallery/20220821/EXHIBITION
-cast: Yenn Cat; https://www.vivthomas.com/model/yenn-cat; f
+model: n:Yenn Cat; id:/model/vivthomas/yenn-cat; u:https://www.vivthomas.com/model/yenn-cat; g:f
 released: 2022-08-21
 photographer: Chorniy Art
 rating: 9.3
@@ -614,8 +614,8 @@ title: Red Hot
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/ann-joy-and-marina-gold/gallery/20220818/RED_HOT
-cast: Ann Joy; https://www.vivthomas.com/model/ann-joy; f
-cast: Marina Gold; https://www.vivthomas.com/model/marina-gold; f
+model: n:Ann Joy; id:/model/vivthomas/ann-joy; u:https://www.vivthomas.com/model/ann-joy; g:f
+model: n:Marina Gold; id:/model/vivthomas/marina-gold; u:https://www.vivthomas.com/model/marina-gold; g:f
 released: 2022-08-18
 photographer: Sandra Shine
 rating: 9.3
@@ -629,8 +629,8 @@ title: Dream Woman
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/amirah-adara-and-alika-penagos/gallery/20220815/DREAM_WOMAN
-cast: Amirah Adara; https://www.vivthomas.com/model/amirah-adara; f
-cast: Alika Penagos; https://www.vivthomas.com/model/alika-penagos; f
+model: n:Amirah Adara; id:/model/vivthomas/amirah-adara; u:https://www.vivthomas.com/model/amirah-adara; g:f
+model: n:Alika Penagos; id:/model/vivthomas/alika-penagos; u:https://www.vivthomas.com/model/alika-penagos; g:f
 released: 2022-08-15
 photographer: Sandra Shine
 rating: 9.4
@@ -644,7 +644,7 @@ title: Feel Clean
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/lucretia-k/gallery/20220813/FEEL_CLEAN
-cast: Lucretia K; https://www.vivthomas.com/model/lucretia-k; f
+model: n:Lucretia K; id:/model/vivthomas/lucretia-k; u:https://www.vivthomas.com/model/lucretia-k; g:f
 released: 2022-08-13
 photographer: Nick Twin
 rating: 9.2
@@ -658,8 +658,8 @@ title: You're Mine
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/kelly-collins-and-sarah-cute/gallery/20220809/YOU_RE_MINE
-cast: Kelly Collins; https://www.vivthomas.com/model/kelly-collins; f
-cast: Sarah Cute; https://www.vivthomas.com/model/sarah-cute; f
+model: n:Kelly Collins; id:/model/vivthomas/kelly-collins; u:https://www.vivthomas.com/model/kelly-collins; g:f
+model: n:Sarah Cute; id:/model/vivthomas/sarah-cute; u:https://www.vivthomas.com/model/sarah-cute; g:f
 released: 2022-08-09
 photographer: Sandra Shine
 rating: 9.5
@@ -673,8 +673,8 @@ title: Take Them Off
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/kate-quinn-and-kylie-green/gallery/20220804/TAKE_THEM_OFF
-cast: Kate Quinn; https://www.vivthomas.com/model/kate-quinn; f
-cast: Kylie Green; https://www.vivthomas.com/model/kylie-green; f
+model: n:Kate Quinn; id:/model/vivthomas/kate-quinn; u:https://www.vivthomas.com/model/kate-quinn; g:f
+model: n:Kylie Green; id:/model/vivthomas/kylie-green; u:https://www.vivthomas.com/model/kylie-green; g:f
 released: 2022-08-04
 photographer: Sandra Shine
 rating: 9.5
@@ -688,8 +688,8 @@ title: Come On Over
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/jo-and-subil-arch/gallery/20220801/COME_ON_OVER
-cast: Jo; https://www.vivthomas.com/model/jo; f
-cast: Subil Arch; https://www.vivthomas.com/model/subil-arch; f
+model: n:Jo; id:/model/vivthomas/jo; u:https://www.vivthomas.com/model/jo; g:f
+model: n:Subil Arch; id:/model/vivthomas/subil-arch; u:https://www.vivthomas.com/model/subil-arch; g:f
 released: 2022-08-01
 photographer: Sandra Shine
 rating: 9.6
@@ -703,8 +703,8 @@ title: Tasty Treat
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/moreen-and-lexmi/gallery/20220730/TASTY_TREAT
-cast: Moreen; https://www.vivthomas.com/model/moreen; f
-cast: Lexmi; https://www.vivthomas.com/model/lexmi; f
+model: n:Moreen; id:/model/vivthomas/moreen; u:https://www.vivthomas.com/model/moreen; g:f
+model: n:Lexmi; id:/model/vivthomas/lexmi; u:https://www.vivthomas.com/model/lexmi; g:f
 released: 2022-07-30
 photographer: Tora Ness
 rating: 9.2
@@ -718,8 +718,8 @@ title: Look At Me
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/elena-vedem-and-purr-simona/gallery/20220726/LOOK_AT_ME
-cast: Elena Vedem; https://www.vivthomas.com/model/elena-vedem; f
-cast: Purr Simona; https://www.vivthomas.com/model/purr-simona; f
+model: n:Elena Vedem; id:/model/vivthomas/elena-vedem; u:https://www.vivthomas.com/model/elena-vedem; g:f
+model: n:Purr Simona; id:/model/vivthomas/purr-simona; u:https://www.vivthomas.com/model/purr-simona; g:f
 released: 2022-07-26
 photographer: Sandra Shine
 rating: 9.5
@@ -733,7 +733,7 @@ title: Sunny Disposition
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/angelina-praga/gallery/20220724/SUNNY_DISPOSITION
-cast: Angelina Praga; https://www.vivthomas.com/model/angelina-praga; f
+model: n:Angelina Praga; id:/model/vivthomas/angelina-praga; u:https://www.vivthomas.com/model/angelina-praga; g:f
 released: 2022-07-24
 photographer: DarienX
 rating: 9.4
@@ -747,8 +747,8 @@ title: Let's Play
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/dorothy-black-and-kira-queen/gallery/20220721/LET_S_PLAY
-cast: Dorothy Black; https://www.vivthomas.com/model/dorothy-black; f
-cast: Kira Queen; https://www.vivthomas.com/model/kira-queen; f
+model: n:Dorothy Black; id:/model/vivthomas/dorothy-black; u:https://www.vivthomas.com/model/dorothy-black; g:f
+model: n:Kira Queen; id:/model/vivthomas/kira-queen; u:https://www.vivthomas.com/model/kira-queen; g:f
 released: 2022-07-21
 photographer: Sandra Shine
 rating: 8.9
@@ -762,8 +762,8 @@ title: Hot Holiday
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/alika-penagos-and-marina-gold/gallery/20220718/HOT_HOLIDAY
-cast: Alika Penagos; https://www.vivthomas.com/model/alika-penagos; f
-cast: Marina Gold; https://www.vivthomas.com/model/marina-gold; f
+model: n:Alika Penagos; id:/model/vivthomas/alika-penagos; u:https://www.vivthomas.com/model/alika-penagos; g:f
+model: n:Marina Gold; id:/model/vivthomas/marina-gold; u:https://www.vivthomas.com/model/marina-gold; g:f
 released: 2022-07-18
 photographer: Sandra Shine
 rating: 9.2
@@ -777,7 +777,7 @@ title: Inside Me
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/cara-a/gallery/20220716/INSIDE_ME
-cast: Cara A; https://www.vivthomas.com/model/cara-a; f
+model: n:Cara A; id:/model/vivthomas/cara-a; u:https://www.vivthomas.com/model/cara-a; g:f
 released: 2022-07-16
 photographer: Michelle Flynn
 rating: 8.6
@@ -791,8 +791,8 @@ title: Room Number Sex
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/erika-e-and-elvira/gallery/20220712/ROOM_NUMBER_SEX
-cast: Erika E; https://www.vivthomas.com/model/erika-e; f
-cast: Elvira; https://www.vivthomas.com/model/elvira; f
+model: n:Erika E; id:/model/vivthomas/erika-e; u:https://www.vivthomas.com/model/erika-e; g:f
+model: n:Elvira; id:/model/vivthomas/elvira; u:https://www.vivthomas.com/model/elvira; g:f
 released: 2022-07-12
 photographer: Adel Morel
 rating: 9.3
@@ -806,7 +806,7 @@ title: Clean Shaven
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/leyla-b/gallery/20220710/CLEAN_SHAVEN
-cast: Leyla B; https://www.vivthomas.com/model/leyla-b; f
+model: n:Leyla B; id:/model/vivthomas/leyla-b; u:https://www.vivthomas.com/model/leyla-b; g:f
 released: 2022-07-10
 photographer: Higinio Domingo
 rating: 9.2
@@ -820,8 +820,8 @@ title: Joyous
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/subil-arch-and-ann-joy/gallery/20220707/JOYOUS
-cast: Subil Arch; https://www.vivthomas.com/model/subil-arch; f
-cast: Ann Joy; https://www.vivthomas.com/model/ann-joy; f
+model: n:Subil Arch; id:/model/vivthomas/subil-arch; u:https://www.vivthomas.com/model/subil-arch; g:f
+model: n:Ann Joy; id:/model/vivthomas/ann-joy; u:https://www.vivthomas.com/model/ann-joy; g:f
 released: 2022-07-07
 photographer: Sandra Shine
 rating: 9.4
@@ -835,8 +835,8 @@ title: Wet And Horny
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/jo-and-asia-vargas/gallery/20220704/WET_AND_HORNY
-cast: Jo; https://www.vivthomas.com/model/jo; f
-cast: Asia Vargas; https://www.vivthomas.com/model/asia-vargas; f
+model: n:Jo; id:/model/vivthomas/jo; u:https://www.vivthomas.com/model/jo; g:f
+model: n:Asia Vargas; id:/model/vivthomas/asia-vargas; u:https://www.vivthomas.com/model/asia-vargas; g:f
 released: 2022-07-04
 photographer: Sandra Shine
 rating: 9.2
@@ -850,7 +850,7 @@ title: Ray Of Light
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/yenn-cat/gallery/20220702/RAY_OF_LIGHT
-cast: Yenn Cat; https://www.vivthomas.com/model/yenn-cat; f
+model: n:Yenn Cat; id:/model/vivthomas/yenn-cat; u:https://www.vivthomas.com/model/yenn-cat; g:f
 released: 2022-07-02
 photographer: Chorniy Art
 rating: 9.4
@@ -864,8 +864,8 @@ title: Training Hard
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/blu-chanelle-and-angelina-praga/gallery/20220628/TRAINING_HARD
-cast: Blu Chanelle; https://www.vivthomas.com/model/blu-chanelle; f
-cast: Angelina Praga; https://www.vivthomas.com/model/angelina-praga; f
+model: n:Blu Chanelle; id:/model/vivthomas/blu-chanelle; u:https://www.vivthomas.com/model/blu-chanelle; g:f
+model: n:Angelina Praga; id:/model/vivthomas/angelina-praga; u:https://www.vivthomas.com/model/angelina-praga; g:f
 released: 2022-06-28
 photographer: DarienX
 rating: 9.2
@@ -879,8 +879,8 @@ title: Motivation
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/purr-simona-and-ruby-shades/gallery/20220623/MOTIVATION
-cast: Purr Simona; https://www.vivthomas.com/model/purr-simona; f
-cast: Ruby Shades; https://www.vivthomas.com/model/ruby-shades; f
+model: n:Purr Simona; id:/model/vivthomas/purr-simona; u:https://www.vivthomas.com/model/purr-simona; g:f
+model: n:Ruby Shades; id:/model/vivthomas/ruby-shades; u:https://www.vivthomas.com/model/ruby-shades; g:f
 released: 2022-06-23
 photographer: Sandra Shine
 rating: 9.1
@@ -894,8 +894,8 @@ title: Just A Taste
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/lucie-flores-and-sarah-cute/gallery/20220620/JUST_A_TASTE
-cast: Lucie Flores; https://www.vivthomas.com/model/lucie-flores; f
-cast: Sarah Cute; https://www.vivthomas.com/model/sarah-cute; f
+model: n:Lucie Flores; id:/model/vivthomas/lucie-flores; u:https://www.vivthomas.com/model/lucie-flores; g:f
+model: n:Sarah Cute; id:/model/vivthomas/sarah-cute; u:https://www.vivthomas.com/model/sarah-cute; g:f
 released: 2022-06-20
 photographer: Sandra Shine
 rating: 9.0
@@ -909,7 +909,7 @@ title: Take It Off
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/alla-b/gallery/20220618/TAKE_IT_OFF
-cast: Alla B; https://www.vivthomas.com/model/alla-b; f
+model: n:Alla B; id:/model/vivthomas/alla-b; u:https://www.vivthomas.com/model/alla-b; g:f
 released: 2022-06-18
 photographer: Nick Twin
 rating: 9.0
@@ -923,8 +923,8 @@ title: Garden Of Eden
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/dorothy-black-and-vicky-love/gallery/20220614/GARDEN_OF_EDEN
-cast: Dorothy Black; https://www.vivthomas.com/model/dorothy-black; f
-cast: Vicky Love; https://www.vivthomas.com/model/vicky-love; f
+model: n:Dorothy Black; id:/model/vivthomas/dorothy-black; u:https://www.vivthomas.com/model/dorothy-black; g:f
+model: n:Vicky Love; id:/model/vivthomas/vicky-love; u:https://www.vivthomas.com/model/vicky-love; g:f
 released: 2022-06-14
 photographer: Sandra Shine
 rating: 8.9
@@ -938,8 +938,8 @@ title: Spied
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/alya-stark-and-emelie-crystal/gallery/20220609/SPIED
-cast: Alya Stark; https://www.vivthomas.com/model/alya-stark; f
-cast: Emelie Crystal; https://www.vivthomas.com/model/emelie-crystal; f
+model: n:Alya Stark; id:/model/vivthomas/alya-stark; u:https://www.vivthomas.com/model/alya-stark; g:f
+model: n:Emelie Crystal; id:/model/vivthomas/emelie-crystal; u:https://www.vivthomas.com/model/emelie-crystal; g:f
 released: 2022-06-09
 photographer: Sandra Shine
 rating: 9.0
@@ -953,8 +953,8 @@ title: Hard At Play
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/ariana-shine-and-purr-simona/gallery/20220606/HARD_AT_PLAY
-cast: Ariana Shine; https://www.vivthomas.com/model/ariana-shine; f
-cast: Purr Simona; https://www.vivthomas.com/model/purr-simona; f
+model: n:Ariana Shine; id:/model/vivthomas/ariana-shine; u:https://www.vivthomas.com/model/ariana-shine; g:f
+model: n:Purr Simona; id:/model/vivthomas/purr-simona; u:https://www.vivthomas.com/model/purr-simona; g:f
 released: 2022-06-06
 photographer: Sandra Shine
 rating: 9.3
@@ -968,7 +968,7 @@ title: Petite Feet
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/bjorg-larson/gallery/20220604/PETITE_FEET
-cast: Bjorg Larson; https://www.vivthomas.com/model/bjorg-larson; f
+model: n:Bjorg Larson; id:/model/vivthomas/bjorg-larson; u:https://www.vivthomas.com/model/bjorg-larson; g:f
 released: 2022-06-04
 photographer: Adel Morel
 rating: 9.5
@@ -982,8 +982,8 @@ title: Welcoming
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/jo-and-amirah-adara/gallery/20220531/WELCOMING
-cast: Jo; https://www.vivthomas.com/model/jo; f
-cast: Amirah Adara; https://www.vivthomas.com/model/amirah-adara; f
+model: n:Jo; id:/model/vivthomas/jo; u:https://www.vivthomas.com/model/jo; g:f
+model: n:Amirah Adara; id:/model/vivthomas/amirah-adara; u:https://www.vivthomas.com/model/amirah-adara; g:f
 released: 2022-05-31
 photographer: Sandra Shine
 rating: 9.2
@@ -997,7 +997,7 @@ title: Joyful
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/blu-chanelle/gallery/20220529/JOYFUL
-cast: Blu Chanelle; https://www.vivthomas.com/model/blu-chanelle; f
+model: n:Blu Chanelle; id:/model/vivthomas/blu-chanelle; u:https://www.vivthomas.com/model/blu-chanelle; g:f
 released: 2022-05-29
 photographer: DarienX
 rating: 9.3
@@ -1011,8 +1011,8 @@ title: Come Prepared
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/sara-bell-and-ann-joy/gallery/20220526/COME_PREPARED
-cast: Sara Bell; https://www.vivthomas.com/model/sara-bell; f
-cast: Ann Joy; https://www.vivthomas.com/model/ann-joy; f
+model: n:Sara Bell; id:/model/vivthomas/sara-bell; u:https://www.vivthomas.com/model/sara-bell; g:f
+model: n:Ann Joy; id:/model/vivthomas/ann-joy; u:https://www.vivthomas.com/model/ann-joy; g:f
 released: 2022-05-26
 photographer: Sandra Shine
 rating: 9.3
@@ -1026,8 +1026,8 @@ title: Don't Just Watch
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/kelly-collins-and-vanessa-alessia/gallery/20220523/DON_T_JUST_WATCH
-cast: Kelly Collins; https://www.vivthomas.com/model/kelly-collins; f
-cast: Vanessa Alessia; https://www.vivthomas.com/model/vanessa-alessia; f
+model: n:Kelly Collins; id:/model/vivthomas/kelly-collins; u:https://www.vivthomas.com/model/kelly-collins; g:f
+model: n:Vanessa Alessia; id:/model/vivthomas/vanessa-alessia; u:https://www.vivthomas.com/model/vanessa-alessia; g:f
 released: 2022-05-23
 photographer: Sandra Shine
 rating: 9.5
@@ -1041,8 +1041,8 @@ title: Can't Stop
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/alya-stark-and-stefany-kyler/gallery/20220517/CAN_T_STOP
-cast: Alya Stark; https://www.vivthomas.com/model/alya-stark; f
-cast: Stefany Kyler; https://www.vivthomas.com/model/stefany-kyler; f
+model: n:Alya Stark; id:/model/vivthomas/alya-stark; u:https://www.vivthomas.com/model/alya-stark; g:f
+model: n:Stefany Kyler; id:/model/vivthomas/stefany-kyler; u:https://www.vivthomas.com/model/stefany-kyler; g:f
 released: 2022-05-17
 photographer: Sandra Shine
 rating: 9.2
@@ -1056,8 +1056,8 @@ title: Want To Play
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/asia-vargas-and-amirah-adara/gallery/20220512/WANT_TO_PLAY
-cast: Asia Vargas; https://www.vivthomas.com/model/asia-vargas; f
-cast: Amirah Adara; https://www.vivthomas.com/model/amirah-adara; f
+model: n:Asia Vargas; id:/model/vivthomas/asia-vargas; u:https://www.vivthomas.com/model/asia-vargas; g:f
+model: n:Amirah Adara; id:/model/vivthomas/amirah-adara; u:https://www.vivthomas.com/model/amirah-adara; g:f
 released: 2022-05-12
 photographer: Sandra Shine
 rating: 9.1
@@ -1071,8 +1071,8 @@ title: Sexual Release
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/mina-von-d-and-emelie-crystal/gallery/20220509/SEXUAL_RELEASE
-cast: Mina Von D; https://www.vivthomas.com/model/mina-von-d; f
-cast: Emelie Crystal; https://www.vivthomas.com/model/emelie-crystal; f
+model: n:Mina Von D; id:/model/vivthomas/mina-von-d; u:https://www.vivthomas.com/model/mina-von-d; g:f
+model: n:Emelie Crystal; id:/model/vivthomas/emelie-crystal; u:https://www.vivthomas.com/model/emelie-crystal; g:f
 released: 2022-05-09
 photographer: Sandra Shine
 rating: 9.2
@@ -1086,8 +1086,8 @@ title: Taste Me
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/sybil-a-and-jo/gallery/20220503/TASTE_ME
-cast: Sybil A; https://www.vivthomas.com/model/sybil-a; f
-cast: Jo; https://www.vivthomas.com/model/jo; f
+model: n:Sybil A; id:/model/vivthomas/sybil-a; u:https://www.vivthomas.com/model/sybil-a; g:f
+model: n:Jo; id:/model/vivthomas/jo; u:https://www.vivthomas.com/model/jo; g:f
 released: 2022-05-03
 photographer: Sandra Shine
 rating: 9.3
@@ -1101,8 +1101,8 @@ title: Your Embrace
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/romy-indy-and-subil-arch/gallery/20220428/YOUR_EMBRACE
-cast: Romy Indy; https://www.vivthomas.com/model/romy-indy; f
-cast: Subil Arch; https://www.vivthomas.com/model/subil-arch; f
+model: n:Romy Indy; id:/model/vivthomas/romy-indy; u:https://www.vivthomas.com/model/romy-indy; g:f
+model: n:Subil Arch; id:/model/vivthomas/subil-arch; u:https://www.vivthomas.com/model/subil-arch; g:f
 released: 2022-04-28
 photographer: Sandra Shine
 rating: 9.1
@@ -1116,8 +1116,8 @@ title: Nylon Shine
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/kira-queen-and-dolly-diore/gallery/20220425/NYLON_SHINE
-cast: Kira Queen; https://www.vivthomas.com/model/kira-queen; f
-cast: Dolly Diore; https://www.vivthomas.com/model/dolly-diore; f
+model: n:Kira Queen; id:/model/vivthomas/kira-queen; u:https://www.vivthomas.com/model/kira-queen; g:f
+model: n:Dolly Diore; id:/model/vivthomas/dolly-diore; u:https://www.vivthomas.com/model/dolly-diore; g:f
 released: 2022-04-25
 photographer: Sandra Shine
 rating: 9.1
@@ -1131,8 +1131,8 @@ title: Adore Me
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/holly-molly-and-sarah-cute/gallery/20220419/ADORE_ME
-cast: Holly Molly; https://www.vivthomas.com/model/holly-molly; f
-cast: Sarah Cute; https://www.vivthomas.com/model/sarah-cute; f
+model: n:Holly Molly; id:/model/vivthomas/holly-molly; u:https://www.vivthomas.com/model/holly-molly; g:f
+model: n:Sarah Cute; id:/model/vivthomas/sarah-cute; u:https://www.vivthomas.com/model/sarah-cute; g:f
 released: 2022-04-19
 photographer: Sandra Shine
 rating: 9.3
@@ -1146,8 +1146,8 @@ title: Goodnight Kisses
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/angelika-grays-and-elena-vedem/gallery/20220414/GOODNIGHT_KISSES
-cast: Angelika Grays; https://www.vivthomas.com/model/angelika-grays; f
-cast: Elena Vedem; https://www.vivthomas.com/model/elena-vedem; f
+model: n:Angelika Grays; id:/model/vivthomas/angelika-grays; u:https://www.vivthomas.com/model/angelika-grays; g:f
+model: n:Elena Vedem; id:/model/vivthomas/elena-vedem; u:https://www.vivthomas.com/model/elena-vedem; g:f
 released: 2022-04-14
 photographer: Sandra Shine
 rating: 9.3
@@ -1161,9 +1161,9 @@ title: Invitation
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/purr-simona-and-sata-jones-and-ophelia-dust/gallery/20220411/INVITATION
-cast: Purr Simona; https://www.vivthomas.com/model/purr-simona; f
-cast: Sata Jones; https://www.vivthomas.com/model/sata-jones; f
-cast: Ophelia Dust; https://www.vivthomas.com/model/ophelia-dust; f
+model: n:Purr Simona; id:/model/vivthomas/purr-simona; u:https://www.vivthomas.com/model/purr-simona; g:f
+model: n:Sata Jones; id:/model/vivthomas/sata-jones; u:https://www.vivthomas.com/model/sata-jones; g:f
+model: n:Ophelia Dust; id:/model/vivthomas/ophelia-dust; u:https://www.vivthomas.com/model/ophelia-dust; g:f
 released: 2022-04-11
 photographer: Sandra Shine
 rating: 9.4
@@ -1177,8 +1177,8 @@ title: Silky Touch
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/catherine-knight-and-lika-star/gallery/20220405/SILKY_TOUCH
-cast: Catherine Knight; https://www.vivthomas.com/model/catherine-knight; f
-cast: Lika Star; https://www.vivthomas.com/model/lika-star; f
+model: n:Catherine Knight; id:/model/vivthomas/catherine-knight; u:https://www.vivthomas.com/model/catherine-knight; g:f
+model: n:Lika Star; id:/model/vivthomas/lika-star; u:https://www.vivthomas.com/model/lika-star; g:f
 released: 2022-04-05
 photographer: Sandra Shine
 rating: 9.3
@@ -1192,8 +1192,8 @@ title: Perfected
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/jo-and-cherry-kiss/gallery/20220331/PERFECTED
-cast: Jo; https://www.vivthomas.com/model/jo; f
-cast: Cherry Kiss; https://www.vivthomas.com/model/cherry-kiss; f
+model: n:Jo; id:/model/vivthomas/jo; u:https://www.vivthomas.com/model/jo; g:f
+model: n:Cherry Kiss; id:/model/vivthomas/cherry-kiss; u:https://www.vivthomas.com/model/cherry-kiss; g:f
 released: 2022-03-31
 photographer: Sandra Shine
 rating: 9.2
@@ -1207,8 +1207,8 @@ title: Lick Me
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/lee-anne-and-angelika-grays/gallery/20220328/LICK_ME
-cast: Lee Anne; https://www.vivthomas.com/model/lee-anne; f
-cast: Angelika Grays; https://www.vivthomas.com/model/angelika-grays; f
+model: n:Lee Anne; id:/model/vivthomas/lee-anne; u:https://www.vivthomas.com/model/lee-anne; g:f
+model: n:Angelika Grays; id:/model/vivthomas/angelika-grays; u:https://www.vivthomas.com/model/angelika-grays; g:f
 released: 2022-03-28
 photographer: Sandra Shine
 rating: 9.0
@@ -1222,8 +1222,8 @@ title: Come To Me
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/asia-vargas-and-subil-arch/gallery/20220322/COME_TO_ME
-cast: Asia Vargas; https://www.vivthomas.com/model/asia-vargas; f
-cast: Subil Arch; https://www.vivthomas.com/model/subil-arch; f
+model: n:Asia Vargas; id:/model/vivthomas/asia-vargas; u:https://www.vivthomas.com/model/asia-vargas; g:f
+model: n:Subil Arch; id:/model/vivthomas/subil-arch; u:https://www.vivthomas.com/model/subil-arch; g:f
 released: 2022-03-22
 photographer: Sandra Shine
 rating: 9.0
@@ -1237,8 +1237,8 @@ title: Love In The Morning
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/foxy-alissa-and-julia-rain/gallery/20220317/LOVE_IN_THE_MORNING
-cast: Foxy Alissa; https://www.vivthomas.com/model/foxy-alissa; f
-cast: Julia Rain; https://www.vivthomas.com/model/julia-rain; f
+model: n:Foxy Alissa; id:/model/vivthomas/foxy-alissa; u:https://www.vivthomas.com/model/foxy-alissa; g:f
+model: n:Julia Rain; id:/model/vivthomas/julia-rain; u:https://www.vivthomas.com/model/julia-rain; g:f
 released: 2022-03-17
 photographer: Alex Iskan
 rating: 9.5
@@ -1252,8 +1252,8 @@ title: Perfect Start
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/purr-simona-and-ophelia-dust/gallery/20220314/PERFECT_START
-cast: Purr Simona; https://www.vivthomas.com/model/purr-simona; f
-cast: Ophelia Dust; https://www.vivthomas.com/model/ophelia-dust; f
+model: n:Purr Simona; id:/model/vivthomas/purr-simona; u:https://www.vivthomas.com/model/purr-simona; g:f
+model: n:Ophelia Dust; id:/model/vivthomas/ophelia-dust; u:https://www.vivthomas.com/model/ophelia-dust; g:f
 released: 2022-03-14
 photographer: Sandra Shine
 rating: 9.3
@@ -1267,8 +1267,8 @@ title: Something Fun
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/marie-berger-and-amirah-adara/gallery/20220308/SOMETHING_FUN
-cast: Marie Berger; https://www.vivthomas.com/model/marie-berger; f
-cast: Amirah Adara; https://www.vivthomas.com/model/amirah-adara; f
+model: n:Marie Berger; id:/model/vivthomas/marie-berger; u:https://www.vivthomas.com/model/marie-berger; g:f
+model: n:Amirah Adara; id:/model/vivthomas/amirah-adara; u:https://www.vivthomas.com/model/amirah-adara; g:f
 released: 2022-03-08
 photographer: Sandra Shine
 rating: 9.1
@@ -1282,8 +1282,8 @@ title: Love Blondes
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/angelika-grays-and-jo/gallery/20220303/LOVE_BLONDES
-cast: Angelika Grays; https://www.vivthomas.com/model/angelika-grays; f
-cast: Jo; https://www.vivthomas.com/model/jo; f
+model: n:Angelika Grays; id:/model/vivthomas/angelika-grays; u:https://www.vivthomas.com/model/angelika-grays; g:f
+model: n:Jo; id:/model/vivthomas/jo; u:https://www.vivthomas.com/model/jo; g:f
 released: 2022-03-03
 photographer: Sandra Shine
 rating: 9.4
@@ -1297,8 +1297,8 @@ title: Dressed For You
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/shona-river-and-kylie-green/gallery/20220228/DRESSED_FOR_YOU
-cast: Shona River; https://www.vivthomas.com/model/shona-river; f
-cast: Kylie Green; https://www.vivthomas.com/model/kylie-green; f
+model: n:Shona River; id:/model/vivthomas/shona-river; u:https://www.vivthomas.com/model/shona-river; g:f
+model: n:Kylie Green; id:/model/vivthomas/kylie-green; u:https://www.vivthomas.com/model/kylie-green; g:f
 released: 2022-02-28
 photographer: Sandra Shine
 rating: 9.1
@@ -1312,7 +1312,7 @@ title: Disrobe
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/kiere/gallery/20220226/DISROBE
-cast: Kiere; https://www.vivthomas.com/model/kiere; f
+model: n:Kiere; id:/model/vivthomas/kiere; u:https://www.vivthomas.com/model/kiere; g:f
 released: 2022-02-26
 photographer: Tora Ness
 rating: 9.3
@@ -1326,8 +1326,8 @@ title: Love Kissing
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/asia-vargas-and-eliza-eves/gallery/20220222/LOVE_KISSING
-cast: Asia Vargas; https://www.vivthomas.com/model/asia-vargas; f
-cast: Eliza Eves; https://www.vivthomas.com/model/eliza-eves; f
+model: n:Asia Vargas; id:/model/vivthomas/asia-vargas; u:https://www.vivthomas.com/model/asia-vargas; g:f
+model: n:Eliza Eves; id:/model/vivthomas/eliza-eves; u:https://www.vivthomas.com/model/eliza-eves; g:f
 released: 2022-02-22
 photographer: Sandra Shine
 rating: 9.0
@@ -1341,7 +1341,7 @@ title: Red Hot
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/josephine-jackson/gallery/20220220/RED_HOT
-cast: Josephine Jackson; https://www.vivthomas.com/model/josephine-jackson; f
+model: n:Josephine Jackson; id:/model/vivthomas/josephine-jackson; u:https://www.vivthomas.com/model/josephine-jackson; g:f
 released: 2022-02-20
 photographer: Alex Iskan
 rating: 9.4
@@ -1355,8 +1355,8 @@ title: Call Me
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/vicky-love-and-kira-queen/gallery/20220217/CALL_ME
-cast: Vicky Love; https://www.vivthomas.com/model/vicky-love; f
-cast: Kira Queen; https://www.vivthomas.com/model/kira-queen; f
+model: n:Vicky Love; id:/model/vivthomas/vicky-love; u:https://www.vivthomas.com/model/vicky-love; g:f
+model: n:Kira Queen; id:/model/vivthomas/kira-queen; u:https://www.vivthomas.com/model/kira-queen; g:f
 released: 2022-02-17
 photographer: Sandra Shine
 rating: 8.9
@@ -1370,8 +1370,8 @@ title: Mutual Attraction
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/shrima-malati-and-dolly-diore/gallery/20220214/MUTUAL_ATTRACTION
-cast: Shrima Malati; https://www.vivthomas.com/model/shrima-malati; f
-cast: Dolly Diore; https://www.vivthomas.com/model/dolly-diore; f
+model: n:Shrima Malati; id:/model/vivthomas/shrima-malati; u:https://www.vivthomas.com/model/shrima-malati; g:f
+model: n:Dolly Diore; id:/model/vivthomas/dolly-diore; u:https://www.vivthomas.com/model/dolly-diore; g:f
 released: 2022-02-14
 photographer: Sandra Shine
 rating: 9.3
@@ -1385,7 +1385,7 @@ title: Deep Emotion
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/naomi-t/gallery/20220212/DEEP_EMOTION
-cast: Naomi T; https://www.vivthomas.com/model/naomi-t; f
+model: n:Naomi T; id:/model/vivthomas/naomi-t; u:https://www.vivthomas.com/model/naomi-t; g:f
 released: 2022-02-12
 photographer: Denis Gray
 rating: 8.7
@@ -1399,8 +1399,8 @@ title: Nude Love
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/sata-jones-and-purr-simona/gallery/20220208/NUDE_LOVE
-cast: Sata Jones; https://www.vivthomas.com/model/sata-jones; f
-cast: Purr Simona; https://www.vivthomas.com/model/purr-simona; f
+model: n:Sata Jones; id:/model/vivthomas/sata-jones; u:https://www.vivthomas.com/model/sata-jones; g:f
+model: n:Purr Simona; id:/model/vivthomas/purr-simona; u:https://www.vivthomas.com/model/purr-simona; g:f
 released: 2022-02-08
 photographer: Sandra Shine
 rating: 9.4
@@ -1414,7 +1414,7 @@ title: Pantyhose And Orgasms
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/mara-blake/gallery/20220206/PANTYHOSE_AND_ORGASMS
-cast: Mara Blake; https://www.vivthomas.com/model/mara-blake; f
+model: n:Mara Blake; id:/model/vivthomas/mara-blake; u:https://www.vivthomas.com/model/mara-blake; g:f
 released: 2022-02-06
 photographer: Xanthus
 rating: 9.6
@@ -1428,8 +1428,8 @@ title: Red Alert
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/veronica-leal-and-jo/gallery/20220203/RED_ALERT
-cast: Veronica Leal; https://www.vivthomas.com/model/veronica-leal; f
-cast: Jo; https://www.vivthomas.com/model/jo; f
+model: n:Veronica Leal; id:/model/vivthomas/veronica-leal; u:https://www.vivthomas.com/model/veronica-leal; g:f
+model: n:Jo; id:/model/vivthomas/jo; u:https://www.vivthomas.com/model/jo; g:f
 released: 2022-02-03
 photographer: Sandra Shine
 rating: 9.3
@@ -1443,8 +1443,8 @@ title: Holiday Hotness
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/nikki-hill-and-foxy-alissa/gallery/20220131/HOLIDAY_HOTNESS
-cast: Nikki Hill; https://www.vivthomas.com/model/nikki-hill; f
-cast: Foxy Alissa; https://www.vivthomas.com/model/foxy-alissa; f
+model: n:Nikki Hill; id:/model/vivthomas/nikki-hill; u:https://www.vivthomas.com/model/nikki-hill; g:f
+model: n:Foxy Alissa; id:/model/vivthomas/foxy-alissa; u:https://www.vivthomas.com/model/foxy-alissa; g:f
 released: 2022-01-31
 photographer: Alex Iskan
 rating: 9.4
@@ -1458,8 +1458,8 @@ title: Awakening Love
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/dorothy-black-and-romy-indy/gallery/20220125/AWAKENING_LOVE
-cast: Dorothy Black; https://www.vivthomas.com/model/dorothy-black; f
-cast: Romy Indy; https://www.vivthomas.com/model/romy-indy; f
+model: n:Dorothy Black; id:/model/vivthomas/dorothy-black; u:https://www.vivthomas.com/model/dorothy-black; g:f
+model: n:Romy Indy; id:/model/vivthomas/romy-indy; u:https://www.vivthomas.com/model/romy-indy; g:f
 released: 2022-01-25
 photographer: Sandra Shine
 rating: 9.2
@@ -1473,8 +1473,8 @@ title: A Good Night
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/felicia-vina-and-lee-anne/gallery/20220120/A_GOOD_NIGHT
-cast: Felicia Vina; https://www.vivthomas.com/model/felicia-vina; f
-cast: Lee Anne; https://www.vivthomas.com/model/lee-anne; f
+model: n:Felicia Vina; id:/model/vivthomas/felicia-vina; u:https://www.vivthomas.com/model/felicia-vina; g:f
+model: n:Lee Anne; id:/model/vivthomas/lee-anne; u:https://www.vivthomas.com/model/lee-anne; g:f
 released: 2022-01-20
 photographer: Sandra Shine
 rating: 9.1
@@ -1488,8 +1488,8 @@ title: Join In
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/angelika-grays-and-elena-vedem/gallery/20220117/JOIN_IN
-cast: Angelika Grays; https://www.vivthomas.com/model/angelika-grays; f
-cast: Elena Vedem; https://www.vivthomas.com/model/elena-vedem; f
+model: n:Angelika Grays; id:/model/vivthomas/angelika-grays; u:https://www.vivthomas.com/model/angelika-grays; g:f
+model: n:Elena Vedem; id:/model/vivthomas/elena-vedem; u:https://www.vivthomas.com/model/elena-vedem; g:f
 released: 2022-01-17
 photographer: Sandra Shine
 rating: 9.1
@@ -1503,8 +1503,8 @@ title: Can't Resist
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/sybil-a-and-victoria-bailey/gallery/20220111/CAN_T_RESIST
-cast: Sybil A; https://www.vivthomas.com/model/sybil-a; f
-cast: Victoria Bailey; https://www.vivthomas.com/model/victoria-bailey; f
+model: n:Sybil A; id:/model/vivthomas/sybil-a; u:https://www.vivthomas.com/model/sybil-a; g:f
+model: n:Victoria Bailey; id:/model/vivthomas/victoria-bailey; u:https://www.vivthomas.com/model/victoria-bailey; g:f
 released: 2022-01-11
 photographer: Sandra Shine
 rating: 9.3
@@ -1518,8 +1518,8 @@ title: Hello Again
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/blue-angel-and-jo/gallery/20220106/HELLO_AGAIN
-cast: Blue Angel; https://www.vivthomas.com/model/blue-angel; f
-cast: Jo; https://www.vivthomas.com/model/jo; f
+model: n:Blue Angel; id:/model/vivthomas/blue-angel; u:https://www.vivthomas.com/model/blue-angel; g:f
+model: n:Jo; id:/model/vivthomas/jo; u:https://www.vivthomas.com/model/jo; g:f
 released: 2022-01-06
 photographer: Sandra Shine
 rating: 9.4
@@ -1533,8 +1533,8 @@ title: Lingerie Lovelies
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/sia-siberia-and-stella-cardo/gallery/20220103/LINGERIE_LOVELIES
-cast: Sia Siberia; https://www.vivthomas.com/model/sia-siberia; f
-cast: Stella Cardo; https://www.vivthomas.com/model/stella-cardo; f
+model: n:Sia Siberia; id:/model/vivthomas/sia-siberia; u:https://www.vivthomas.com/model/sia-siberia; g:f
+model: n:Stella Cardo; id:/model/vivthomas/stella-cardo; u:https://www.vivthomas.com/model/stella-cardo; g:f
 released: 2022-01-03
 photographer: Sandra Shine
 rating: 9.6

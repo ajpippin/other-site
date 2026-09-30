@@ -8,7 +8,7 @@
 title: Vika -- Superbia By Pasha
 type: movie
 site: MetArt
-cast: n:Vika AC; u:https://www.metart.com/model/vika-ac; g:f
+model: n:Vika AC; id:/model/metart/vika-ac; u:https://www.metart.com/model/vika-ac; g:f
 released: 2004-12-15
 director: Pasha
 fileprefix: MetArt-20041215-vika----superbia-by-pasha-
@@ -23,7 +23,7 @@ description: xxx
 title: Jenya -- Seduction
 type: movie
 site: MetArt
-cast: n:Jenya C; u:https://www.metart.com/model/jenya-c; g:f
+model: n:Jenya C; id:/model/metart/jenya-c; u:https://www.metart.com/model/jenya-c; g:f
 released: 2004-12-14
 director: Voronin
 fileprefix: MetArt-20041214-jenya----seduction-
@@ -38,7 +38,7 @@ description: xxx
 title: Ars Amandi
 type: movie
 site: MetArt
-cast: n:Karina B; u:https://www.metart.com/model/karina-b; g:f
+model: n:Karina B; id:/model/metart/karina-b; u:https://www.metart.com/model/karina-b; g:f
 released: 2004-12-01
 director: Voronin
 fileprefix: MetArt-20041201-ars-amandi-
@@ -53,7 +53,7 @@ description: xxx
 title: Boudoir
 type: movie
 site: MetArt
-cast: n:Anna S; u:https://www.metart.com/model/anna-s; g:f
+model: n:Anna S; id:/model/metart/anna-s; u:https://www.metart.com/model/anna-s; g:f
 released: 2004-11-29
 director: Natasha Schon
 fileprefix: MetArt-20041129-boudoir-
@@ -68,8 +68,8 @@ description: xxx
 title: Met On Location --  Paris
 type: movie
 site: MetArt
-cast: n:Katka A; u:https://www.metart.com/model/katka-a; g:f
-cast: n:Anastasya A; u:https://www.metart.com/model/anastasya-a; g:f
+model: n:Katka A; id:/model/metart/katka-a; u:https://www.metart.com/model/katka-a; g:f
+model: n:Anastasya A; id:/model/metart/anastasya-a; u:https://www.metart.com/model/anastasya-a; g:f
 released: 2004-11-20
 director: Richard Murrian
 fileprefix: MetArt-20041120-met-on-location-----paris-
@@ -84,7 +84,7 @@ description: xxx
 title: Millennia
 type: movie
 site: MetArt
-cast: n:Tatum A; u:https://www.metart.com/model/tatum-a; g:f
+model: n:Tatum A; id:/model/metart/tatum-a; u:https://www.metart.com/model/tatum-a; g:f
 released: 2004-11-17
 director: Voronin
 fileprefix: MetArt-20041117-millennia-
@@ -99,7 +99,7 @@ description: xxx
 title: Narkiss
 type: movie
 site: MetArt
-cast: n:Narkiss; u:https://www.metart.com/model/narkiss; g:f
+model: n:Narkiss; id:/model/metart/narkiss; u:https://www.metart.com/model/narkiss; g:f
 released: 2004-11-08
 director: Slastyonoff
 fileprefix: MetArt-20041108-narkiss-
@@ -114,7 +114,7 @@ description: xxx
 title: Afrika
 type: movie
 site: MetArt
-cast: n:Danielle C; u:https://www.metart.com/model/danielle-c; g:f
+model: n:Danielle C; id:/model/metart/danielle-c; u:https://www.metart.com/model/danielle-c; g:f
 released: 2004-11-07
 director: Voronin
 fileprefix: MetArt-20041107-afrika-
@@ -129,7 +129,7 @@ description: xxx
 title: Fantastik
 type: movie
 site: MetArt
-cast: n:Multiple Model Set; u:https://www.metart.com/model/multiple-model-set; g:f
+model: n:Multiple Model Set; id:/model/metart/multiple-model-set; u:https://www.metart.com/model/multiple-model-set; g:f
 released: 2004-11-01
 director: Voronin
 fileprefix: MetArt-20041101-fantastik-
@@ -144,8 +144,8 @@ description: xxx
 title: Doves
 type: movie
 site: MetArt
-cast: n:Ulya B; u:https://www.metart.com/model/ulya-b; g:f
-cast: n:Tanya I; u:https://www.metart.com/model/tanya-i; g:f
+model: n:Ulya B; id:/model/metart/ulya-b; u:https://www.metart.com/model/ulya-b; g:f
+model: n:Tanya I; id:/model/metart/tanya-i; u:https://www.metart.com/model/tanya-i; g:f
 released: 2004-10-25
 director: Voronin
 fileprefix: MetArt-20041025-doves-
@@ -160,7 +160,7 @@ description: xxx
 title: Budapest
 type: movie
 site: MetArt
-cast: n:Multiple Model Set; u:https://www.metart.com/model/multiple-model-set; g:f
+model: n:Multiple Model Set; id:/model/metart/multiple-model-set; u:https://www.metart.com/model/multiple-model-set; g:f
 released: 2004-10-19
 director: Richard Murrian
 fileprefix: MetArt-20041019-budapest-
@@ -175,7 +175,7 @@ description: xxx
 title: My Secrets
 type: movie
 site: MetArt
-cast: n:Models No Name; u:https://www.metart.com/model/models-no-name; g:f
+model: n:Models No Name; id:/model/metart/models-no-name; u:https://www.metart.com/model/models-no-name; g:f
 released: 2004-10-14
 director: Slastyonoff
 fileprefix: MetArt-20041014-my-secrets-
@@ -190,7 +190,7 @@ description: xxx
 title: Wild Girl
 type: movie
 site: MetArt
-cast: n:Sharon E; u:https://www.metart.com/model/sharon-e; g:f
+model: n:Sharon E; id:/model/metart/sharon-e; u:https://www.metart.com/model/sharon-e; g:f
 released: 2004-10-02
 director: Voronin
 fileprefix: MetArt-20041002-wild-girl-
@@ -205,7 +205,7 @@ description: xxx
 title: Secrets
 type: movie
 site: MetArt
-cast: n:Andrea C; u:https://www.metart.com/model/andrea-c; g:f
+model: n:Andrea C; id:/model/metart/andrea-c; u:https://www.metart.com/model/andrea-c; g:f
 released: 2004-09-24
 director: Voronin
 fileprefix: MetArt-20040924-secrets-
@@ -220,7 +220,7 @@ description: xxx
 title: Red Fire Deux
 type: movie
 site: MetArt
-cast: n:Tanya I; u:https://www.metart.com/model/tanya-i; g:f
+model: n:Tanya I; id:/model/metart/tanya-i; u:https://www.metart.com/model/tanya-i; g:f
 released: 2004-09-24
 director: Voronin
 fileprefix: MetArt-20040924-red-fire-deux-
@@ -235,7 +235,7 @@ description: xxx
 title: Kristina
 type: movie
 site: MetArt
-cast: n:Kristina B; u:https://www.metart.com/model/kristina-b; g:f
+model: n:Kristina B; id:/model/metart/kristina-b; u:https://www.metart.com/model/kristina-b; g:f
 released: 2004-09-11
 director: Voronin
 fileprefix: MetArt-20040911-kristina-
@@ -250,8 +250,8 @@ description: xxx
 title: Realm Of The Senses
 type: movie
 site: MetArt
-cast: n:Tanya G; u:https://www.metart.com/model/tanya-g; g:f
-cast: n:Ulya B; u:https://www.metart.com/model/ulya-b; g:f
+model: n:Tanya G; id:/model/metart/tanya-g; u:https://www.metart.com/model/tanya-g; g:f
+model: n:Ulya B; id:/model/metart/ulya-b; u:https://www.metart.com/model/ulya-b; g:f
 released: 2004-08-21
 director: Voronin
 fileprefix: MetArt-20040821-realm-of-the-senses-
@@ -266,7 +266,7 @@ description: xxx
 title: Vika -- Dream Fields
 type: movie
 site: MetArt
-cast: n:Vika AC; u:https://www.metart.com/model/vika-ac; g:f
+model: n:Vika AC; id:/model/metart/vika-ac; u:https://www.metart.com/model/vika-ac; g:f
 released: 2004-08-07
 director: Pasha
 fileprefix: MetArt-20040807-vika----dream-fields-
@@ -281,7 +281,7 @@ description: xxx
 title: Tamara
 type: movie
 site: MetArt
-cast: n:Tamara C; u:https://www.metart.com/model/tamara-c; g:f
+model: n:Tamara C; id:/model/metart/tamara-c; u:https://www.metart.com/model/tamara-c; g:f
 released: 2004-08-01
 director: Voronin
 fileprefix: MetArt-20040801-tamara-
@@ -296,7 +296,7 @@ description: xxx
 title: Umbrella
 type: movie
 site: MetArt
-cast: n:Aneli A; u:https://www.metart.com/model/aneli-a; g:f
+model: n:Aneli A; id:/model/metart/aneli-a; u:https://www.metart.com/model/aneli-a; g:f
 released: 2004-07-23
 director: Slastyonoff
 fileprefix: MetArt-20040723-umbrella-
@@ -311,7 +311,7 @@ description: xxx
 title: Julia
 type: movie
 site: MetArt
-cast: n:Julia L; u:https://www.metart.com/model/julia-l; g:f
+model: n:Julia L; id:/model/metart/julia-l; u:https://www.metart.com/model/julia-l; g:f
 released: 2004-07-16
 director: Max Stan
 fileprefix: MetArt-20040716-julia-
@@ -326,8 +326,8 @@ description: xxx
 title: Plaisir
 type: movie
 site: MetArt
-cast: n:Ulya B; u:https://www.metart.com/model/ulya-b; g:f
-cast: n:Tanya G; u:https://www.metart.com/model/tanya-g; g:f
+model: n:Ulya B; id:/model/metart/ulya-b; u:https://www.metart.com/model/ulya-b; g:f
+model: n:Tanya G; id:/model/metart/tanya-g; u:https://www.metart.com/model/tanya-g; g:f
 released: 2004-07-10
 director: Voronin
 fileprefix: MetArt-20040710-plaisir-
@@ -342,7 +342,7 @@ description: xxx
 title: Natura
 type: movie
 site: MetArt
-cast: n:Sharon E; u:https://www.metart.com/model/sharon-e; g:f
+model: n:Sharon E; id:/model/metart/sharon-e; u:https://www.metart.com/model/sharon-e; g:f
 released: 2004-07-01
 director: Voronin
 fileprefix: MetArt-20040701-natura-
@@ -357,7 +357,7 @@ description: xxx
 title: Liquis
 type: movie
 site: MetArt
-cast: n:Models No Name; u:https://www.metart.com/model/models-no-name; g:f
+model: n:Models No Name; id:/model/metart/models-no-name; u:https://www.metart.com/model/models-no-name; g:f
 released: 2004-06-19
 director: Slastyonoff
 fileprefix: MetArt-20040619-liquis-
@@ -372,7 +372,7 @@ description: xxx
 title: Girls From Israel -- Hot Tub
 type: movie
 site: MetArt
-cast: n:Tania D; u:https://www.metart.com/model/tania-d; g:f
+model: n:Tania D; id:/model/metart/tania-d; u:https://www.metart.com/model/tania-d; g:f
 released: 2004-06-17
 director: Genik
 fileprefix: MetArt-20040617-girls-from-israel----hot-tub-
@@ -387,7 +387,7 @@ description: xxx
 title: Tatum - The First Movie
 type: movie
 site: MetArt
-cast: n:Tatum A; u:https://www.metart.com/model/tatum-a; g:f
+model: n:Tatum A; id:/model/metart/tatum-a; u:https://www.metart.com/model/tatum-a; g:f
 released: 2004-06-14
 director: Voronin
 fileprefix: MetArt-20040614-tatum---the-first-movie-
@@ -402,7 +402,7 @@ description: xxx
 title: Aneli
 type: movie
 site: MetArt
-cast: n:Aneli A; u:https://www.metart.com/model/aneli-a; g:f
+model: n:Aneli A; id:/model/metart/aneli-a; u:https://www.metart.com/model/aneli-a; g:f
 released: 2004-06-13
 director: Slastyonoff
 fileprefix: MetArt-20040613-aneli-
@@ -417,7 +417,7 @@ description: xxx
 title: Winter
 type: movie
 site: MetArt
-cast: n:Girls Of Holy Nature; u:https://www.metart.com/model/girls-of-holy-nature; g:f
+model: n:Girls Of Holy Nature; id:/model/metart/girls-of-holy-nature; u:https://www.metart.com/model/girls-of-holy-nature; g:f
 released: 2004-06-07
 director: Holy Nature
 fileprefix: MetArt-20040607-winter-
@@ -432,8 +432,8 @@ description: xxx
 title: Pure Fun
 type: movie
 site: MetArt
-cast: n:Anna T; u:https://www.metart.com/model/anna-t; g:f
-cast: n:Tanya I; u:https://www.metart.com/model/tanya-i; g:f
+model: n:Anna T; id:/model/metart/anna-t; u:https://www.metart.com/model/anna-t; g:f
+model: n:Tanya I; id:/model/metart/tanya-i; u:https://www.metart.com/model/tanya-i; g:f
 released: 2004-05-28
 director: Voronin
 fileprefix: MetArt-20040528-pure-fun-
@@ -448,7 +448,7 @@ description: xxx
 title: Liaisons Deux
 type: movie
 site: MetArt
-cast: n:Erika C; u:https://www.metart.com/model/erika-c; g:f
+model: n:Erika C; id:/model/metart/erika-c; u:https://www.metart.com/model/erika-c; g:f
 released: 2004-05-16
 director: Pasha
 fileprefix: MetArt-20040516-liaisons-deux-
@@ -463,7 +463,7 @@ description: xxx
 title: Ultimate Fantasy
 type: movie
 site: MetArt
-cast: n:Koika; u:https://www.metart.com/model/koika; g:f
+model: n:Koika; id:/model/metart/koika; u:https://www.metart.com/model/koika; g:f
 released: 2004-05-08
 director: Slastyonoff
 fileprefix: MetArt-20040508-ultimate-fantasy-
@@ -478,8 +478,8 @@ description: xxx
 title: Hot Sauna
 type: movie
 site: MetArt
-cast: n:Anna V; u:https://www.metart.com/model/anna-v; g:f
-cast: n:Sharon E; u:https://www.metart.com/model/sharon-e; g:f
+model: n:Anna V; id:/model/metart/anna-v; u:https://www.metart.com/model/anna-v; g:f
+model: n:Sharon E; id:/model/metart/sharon-e; u:https://www.metart.com/model/sharon-e; g:f
 released: 2004-05-01
 director: Voronin
 fileprefix: MetArt-20040501-hot-sauna-
@@ -494,7 +494,7 @@ description: xxx
 title: Adonis
 type: movie
 site: MetArt
-cast: n:Ulya B; u:https://www.metart.com/model/ulya-b; g:f
+model: n:Ulya B; id:/model/metart/ulya-b; u:https://www.metart.com/model/ulya-b; g:f
 released: 2004-04-26
 director: Voronin
 fileprefix: MetArt-20040426-adonis-
@@ -509,7 +509,7 @@ description: xxx
 title: Red Fire
 type: movie
 site: MetArt
-cast: n:Tanya I; u:https://www.metart.com/model/tanya-i; g:f
+model: n:Tanya I; id:/model/metart/tanya-i; u:https://www.metart.com/model/tanya-i; g:f
 released: 2004-04-18
 director: Voronin
 fileprefix: MetArt-20040418-red-fire-
@@ -524,7 +524,7 @@ description: xxx
 title: Aurora
 type: movie
 site: MetArt
-cast: n:Sharon E; u:https://www.metart.com/model/sharon-e; g:f
+model: n:Sharon E; id:/model/metart/sharon-e; u:https://www.metart.com/model/sharon-e; g:f
 released: 2004-04-10
 director: Voronin
 fileprefix: MetArt-20040410-aurora-
@@ -539,7 +539,7 @@ description: xxx
 title: Melissa
 type: movie
 site: MetArt
-cast: n:Melissa A; u:https://www.metart.com/model/melissa-a; g:f
+model: n:Melissa A; id:/model/metart/melissa-a; u:https://www.metart.com/model/melissa-a; g:f
 released: 2004-04-01
 director: Tony Ward
 fileprefix: MetArt-20040401-melissa-
@@ -554,7 +554,7 @@ description: xxx
 title: Fantasy
 type: movie
 site: MetArt
-cast: n:Models No Name; u:https://www.metart.com/model/models-no-name; g:f
+model: n:Models No Name; id:/model/metart/models-no-name; u:https://www.metart.com/model/models-no-name; g:f
 released: 2004-03-28
 director: Pasha
 fileprefix: MetArt-20040328-fantasy-
@@ -569,7 +569,7 @@ description: xxx
 title: Liaisons
 type: movie
 site: MetArt
-cast: n:Erika C; u:https://www.metart.com/model/erika-c; g:f
+model: n:Erika C; id:/model/metart/erika-c; u:https://www.metart.com/model/erika-c; g:f
 released: 2004-03-19
 director: Pasha
 fileprefix: MetArt-20040319-liaisons-
@@ -584,7 +584,7 @@ description: xxx
 title: Teaser
 type: movie
 site: MetArt
-cast: n:Sharon E; u:https://www.metart.com/model/sharon-e; g:f
+model: n:Sharon E; id:/model/metart/sharon-e; u:https://www.metart.com/model/sharon-e; g:f
 released: 2004-03-14
 director: Voronin
 fileprefix: MetArt-20040314-teaser-
@@ -599,7 +599,7 @@ description: xxx
 title: Morning Light
 type: movie
 site: MetArt
-cast: n:Andrea C; u:https://www.metart.com/model/andrea-c; g:f
+model: n:Andrea C; id:/model/metart/andrea-c; u:https://www.metart.com/model/andrea-c; g:f
 released: 2004-03-07
 director: Voronin
 fileprefix: MetArt-20040307-morning-light-
@@ -614,7 +614,7 @@ description: xxx
 title: Amore
 type: movie
 site: MetArt
-cast: n:Olya A; u:https://www.metart.com/model/olya-a; g:f
+model: n:Olya A; id:/model/metart/olya-a; u:https://www.metart.com/model/olya-a; g:f
 released: 2004-03-01
 director: Pasha
 fileprefix: MetArt-20040301-amore-
@@ -629,7 +629,7 @@ description: xxx
 title: Malice
 type: movie
 site: MetArt
-cast: n:Models No Name; u:https://www.metart.com/model/models-no-name; g:f
+model: n:Models No Name; id:/model/metart/models-no-name; u:https://www.metart.com/model/models-no-name; g:f
 released: 2004-02-13
 director: Slastyonoff
 fileprefix: MetArt-20040213-malice-
@@ -644,7 +644,7 @@ description: xxx
 title: Gameday 4
 type: movie
 site: MetArt
-cast: n:Girls Of Holy Nature; u:https://www.metart.com/model/girls-of-holy-nature; g:f
+model: n:Girls Of Holy Nature; id:/model/metart/girls-of-holy-nature; u:https://www.metart.com/model/girls-of-holy-nature; g:f
 released: 2004-02-05
 director: Anais Demois
 fileprefix: MetArt-20040205-gameday-4-
@@ -659,7 +659,7 @@ description: xxx
 title: Olya - Liberty
 type: movie
 site: MetArt
-cast: n:Olya A; u:https://www.metart.com/model/olya-a; g:f
+model: n:Olya A; id:/model/metart/olya-a; u:https://www.metart.com/model/olya-a; g:f
 released: 2004-02-04
 director: Pasha
 fileprefix: MetArt-20040204-olya---liberty-
@@ -674,7 +674,7 @@ description: xxx
 title: Solaya
 type: movie
 site: MetArt
-cast: n:Solaya A; u:https://www.metart.com/model/solaya-a; g:f
+model: n:Solaya A; id:/model/metart/solaya-a; u:https://www.metart.com/model/solaya-a; g:f
 released: 2004-02-02
 director: Voronin
 fileprefix: MetArt-20040202-solaya-
@@ -689,7 +689,7 @@ description: xxx
 title: Eroica
 type: movie
 site: MetArt
-cast: n:Koika; u:https://www.metart.com/model/koika; g:f
+model: n:Koika; id:/model/metart/koika; u:https://www.metart.com/model/koika; g:f
 released: 2004-01-23
 director: Slastyonoff
 fileprefix: MetArt-20040123-eroica-
@@ -704,7 +704,7 @@ description: xxx
 title: Koika
 type: movie
 site: MetArt
-cast: n:Koika; u:https://www.metart.com/model/koika; g:f
+model: n:Koika; id:/model/metart/koika; u:https://www.metart.com/model/koika; g:f
 released: 2004-01-15
 director: Slastyonoff
 fileprefix: MetArt-20040115-koika-
@@ -719,7 +719,7 @@ description: xxx
 title: Holy Nature
 type: movie
 site: MetArt
-cast: n:Girls Of Holy Nature; u:https://www.metart.com/model/girls-of-holy-nature; g:f
+model: n:Girls Of Holy Nature; id:/model/metart/girls-of-holy-nature; u:https://www.metart.com/model/girls-of-holy-nature; g:f
 released: 2004-01-05
 director: Holy Nature
 fileprefix: MetArt-20040105-holy-nature-
@@ -734,7 +734,7 @@ description: xxx
 title: Intima
 type: movie
 site: MetArt
-cast: n:Julia F; u:https://www.metart.com/model/julia-f; g:f
+model: n:Julia F; id:/model/metart/julia-f; u:https://www.metart.com/model/julia-f; g:f
 released: 2004-01-01
 director: Slastyonoff
 fileprefix: MetArt-20040101-intima-

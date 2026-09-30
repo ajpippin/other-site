@@ -8,7 +8,7 @@
 title: Danielle -- Andrea's Sister
 type: movie
 site: MetArt
-cast: n:Danielle C; u:https://www.metart.com/model/danielle-c; g:f
+model: n:Danielle C; id:/model/metart/danielle-c; u:https://www.metart.com/model/danielle-c; g:f
 released: 2003-12-25
 director: Voronin
 fileprefix: MetArt-20031225-danielle--andreas-sister-
@@ -23,7 +23,7 @@ description: xxx
 title: Prima
 type: movie
 site: MetArt
-cast: n:Narkiss; u:https://www.metart.com/model/narkiss; g:f
+model: n:Narkiss; id:/model/metart/narkiss; u:https://www.metart.com/model/narkiss; g:f
 released: 2003-12-19
 director: Slastyonoff
 fileprefix: MetArt-20031219-prima-
@@ -38,7 +38,7 @@ description: xxx
 title: Cheers
 type: movie
 site: MetArt
-cast: n:Sharon E; u:https://www.metart.com/model/sharon-e; g:f
+model: n:Sharon E; id:/model/metart/sharon-e; u:https://www.metart.com/model/sharon-e; g:f
 released: 2003-12-12
 director: Voronin
 fileprefix: MetArt-20031212-cheers-
@@ -53,7 +53,7 @@ description: xxx
 title: Watch Me
 type: movie
 site: MetArt
-cast: n:Andrea C; u:https://www.metart.com/model/andrea-c; g:f
+model: n:Andrea C; id:/model/metart/andrea-c; u:https://www.metart.com/model/andrea-c; g:f
 released: 2003-12-04
 director: Voronin
 fileprefix: MetArt-20031204-watch-me-
@@ -68,7 +68,7 @@ description: xxx
 title: Striptease
 type: movie
 site: MetArt
-cast: n:Sharon E; u:https://www.metart.com/model/sharon-e; g:f
+model: n:Sharon E; id:/model/metart/sharon-e; u:https://www.metart.com/model/sharon-e; g:f
 released: 2003-11-25
 director: Voronin
 fileprefix: MetArt-20031125-striptease-
@@ -83,7 +83,7 @@ description: xxx
 title: Shower
 type: movie
 site: MetArt
-cast: n:Hannah A; u:https://www.metart.com/model/hannah-a; g:f
+model: n:Hannah A; id:/model/metart/hannah-a; u:https://www.metart.com/model/hannah-a; g:f
 released: 2003-11-22
 director: Tony Ward
 fileprefix: MetArt-20031122-shower-
@@ -98,7 +98,7 @@ description: xxx
 title: Little Secrets
 type: movie
 site: MetArt
-cast: n:Katya B; u:https://www.metart.com/model/katya-b; g:f
+model: n:Katya B; id:/model/metart/katya-b; u:https://www.metart.com/model/katya-b; g:f
 released: 2003-11-18
 director: Pasha
 fileprefix: MetArt-20031118-little-secrets-
@@ -113,7 +113,7 @@ description: xxx
 title: Fireplace
 type: movie
 site: MetArt
-cast: n:Tanya G; u:https://www.metart.com/model/tanya-g; g:f
+model: n:Tanya G; id:/model/metart/tanya-g; u:https://www.metart.com/model/tanya-g; g:f
 released: 2003-11-08
 director: Voronin
 fileprefix: MetArt-20031108-fireplace-
@@ -128,7 +128,7 @@ description: xxx
 title: Sunlight
 type: movie
 site: MetArt
-cast: n:Olya A; u:https://www.metart.com/model/olya-a; g:f
+model: n:Olya A; id:/model/metart/olya-a; u:https://www.metart.com/model/olya-a; g:f
 released: 2003-10-29
 director: Pasha
 fileprefix: MetArt-20031029-sunlight-
@@ -143,7 +143,7 @@ description: xxx
 title: River
 type: movie
 site: MetArt
-cast: n:Multiple Model Set; u:https://www.metart.com/model/multiple-model-set; g:f
+model: n:Multiple Model Set; id:/model/metart/multiple-model-set; u:https://www.metart.com/model/multiple-model-set; g:f
 released: 2003-10-24
 director: Voronin
 fileprefix: MetArt-20031024-river-
@@ -158,7 +158,7 @@ description: xxx
 title: Roberta
 type: movie
 site: MetArt
-cast: n:Roberta; u:https://www.metart.com/model/roberta; g:f
+model: n:Roberta; id:/model/metart/roberta; u:https://www.metart.com/model/roberta; g:f
 released: 2003-10-19
 director: Voronin
 fileprefix: MetArt-20031019-roberta-
@@ -173,7 +173,7 @@ description: xxx
 title: Game Day 3
 type: movie
 site: MetArt
-cast: n:Girls Of Holy Nature; u:https://www.metart.com/model/girls-of-holy-nature; g:f
+model: n:Girls Of Holy Nature; id:/model/metart/girls-of-holy-nature; u:https://www.metart.com/model/girls-of-holy-nature; g:f
 released: 2003-10-14
 director: Holy Nature
 fileprefix: MetArt-20031014-game-day-3-
@@ -188,7 +188,7 @@ description: xxx
 title: Esprit
 type: movie
 site: MetArt
-cast: n:Sharon E; u:https://www.metart.com/model/sharon-e; g:f
+model: n:Sharon E; id:/model/metart/sharon-e; u:https://www.metart.com/model/sharon-e; g:f
 released: 2003-10-01
 director: Pasha
 fileprefix: MetArt-20031001-esprit-
@@ -203,7 +203,7 @@ description: xxx
 title: Exotica
 type: movie
 site: MetArt
-cast: n:Solaya A; u:https://www.metart.com/model/solaya-a; g:f
+model: n:Solaya A; id:/model/metart/solaya-a; u:https://www.metart.com/model/solaya-a; g:f
 released: 2003-09-23
 director: Voronin
 fileprefix: MetArt-20030923-exotica-
@@ -218,7 +218,7 @@ description: xxx
 title: Wild Cat
 type: movie
 site: MetArt
-cast: n:Sharon E; u:https://www.metart.com/model/sharon-e; g:f
+model: n:Sharon E; id:/model/metart/sharon-e; u:https://www.metart.com/model/sharon-e; g:f
 released: 2003-09-09
 director: Voronin
 fileprefix: MetArt-20030909-wild-cat-
@@ -233,7 +233,7 @@ description: xxx
 title: Wet Flower
 type: movie
 site: MetArt
-cast: n:Andrea C; u:https://www.metart.com/model/andrea-c; g:f
+model: n:Andrea C; id:/model/metart/andrea-c; u:https://www.metart.com/model/andrea-c; g:f
 released: 2003-09-07
 director: Voronin
 fileprefix: MetArt-20030907-wet-flower-
@@ -248,7 +248,7 @@ description: xxx
 title: Indigo
 type: movie
 site: MetArt
-cast: n:Linda A; u:https://www.metart.com/model/linda-a; g:f
+model: n:Linda A; id:/model/metart/linda-a; u:https://www.metart.com/model/linda-a; g:f
 released: 2003-08-28
 director: Pasha
 fileprefix: MetArt-20030828-indigo-
@@ -263,7 +263,7 @@ description: xxx
 title: Temptation
 type: movie
 site: MetArt
-cast: n:Andrea C; u:https://www.metart.com/model/andrea-c; g:f
+model: n:Andrea C; id:/model/metart/andrea-c; u:https://www.metart.com/model/andrea-c; g:f
 released: 2003-08-20
 director: Voronin
 fileprefix: MetArt-20030820-temptation-
@@ -278,7 +278,7 @@ description: xxx
 title: Sea Of Red
 type: movie
 site: MetArt
-cast: n:Julia E; u:https://www.metart.com/model/julia-e; g:f
+model: n:Julia E; id:/model/metart/julia-e; u:https://www.metart.com/model/julia-e; g:f
 released: 2003-08-16
 director: Pasha
 fileprefix: MetArt-20030816-sea-of-red-
@@ -293,7 +293,7 @@ description: xxx
 title: 3 Lillies
 type: movie
 site: MetArt
-cast: n:Multiple Model Set; u:https://www.metart.com/model/multiple-model-set; g:f
+model: n:Multiple Model Set; id:/model/metart/multiple-model-set; u:https://www.metart.com/model/multiple-model-set; g:f
 released: 2003-07-20
 director: Voronin
 fileprefix: MetArt-20030720-3-lillies-
@@ -308,7 +308,7 @@ description: xxx
 title: Aeterna
 type: movie
 site: MetArt
-cast: n:Olya A; u:https://www.metart.com/model/olya-a; g:f
+model: n:Olya A; id:/model/metart/olya-a; u:https://www.metart.com/model/olya-a; g:f
 released: 2003-07-10
 director: Pasha
 fileprefix: MetArt-20030710-aeterna-
@@ -323,7 +323,7 @@ description: xxx
 title: Athena
 type: movie
 site: MetArt
-cast: n:Athena; u:https://www.metart.com/model/athena; g:f
+model: n:Athena; id:/model/metart/athena; u:https://www.metart.com/model/athena; g:f
 released: 2003-07-08
 director: Voronin
 fileprefix: MetArt-20030708-athena-
@@ -338,7 +338,7 @@ description: xxx
 title: Tenderness
 type: movie
 site: MetArt
-cast: n:Andrea C; u:https://www.metart.com/model/andrea-c; g:f
+model: n:Andrea C; id:/model/metart/andrea-c; u:https://www.metart.com/model/andrea-c; g:f
 released: 2003-07-01
 director: Voronin
 fileprefix: MetArt-20030701-tenderness-
@@ -353,7 +353,7 @@ description: xxx
 title: Arcadia
 type: movie
 site: MetArt
-cast: n:Katya B; u:https://www.metart.com/model/katya-b; g:f
+model: n:Katya B; id:/model/metart/katya-b; u:https://www.metart.com/model/katya-b; g:f
 released: 2003-06-29
 director: Pasha
 fileprefix: MetArt-20030629-arcadia-
@@ -368,8 +368,8 @@ description: xxx
 title: Sssexy Ladies
 type: movie
 site: MetArt
-cast: n:Katya U; u:https://www.metart.com/model/katya-u; g:f
-cast: n:Sharon E; u:https://www.metart.com/model/sharon-e; g:f
+model: n:Katya U; id:/model/metart/katya-u; u:https://www.metart.com/model/katya-u; g:f
+model: n:Sharon E; id:/model/metart/sharon-e; u:https://www.metart.com/model/sharon-e; g:f
 released: 2003-06-17
 director: Voronin
 fileprefix: MetArt-20030617-sssexy-ladies-
@@ -384,7 +384,7 @@ description: xxx
 title: Feelings
 type: movie
 site: MetArt
-cast: n:Katya U; u:https://www.metart.com/model/katya-u; g:f
+model: n:Katya U; id:/model/metart/katya-u; u:https://www.metart.com/model/katya-u; g:f
 released: 2003-05-26
 director: Voronin
 fileprefix: MetArt-20030526-feelings-
@@ -399,7 +399,7 @@ description: xxx
 title: Senso
 type: movie
 site: MetArt
-cast: n:Andrea C; u:https://www.metart.com/model/andrea-c; g:f
+model: n:Andrea C; id:/model/metart/andrea-c; u:https://www.metart.com/model/andrea-c; g:f
 released: 2003-05-18
 director: Voronin
 fileprefix: MetArt-20030518-senso-
@@ -414,7 +414,7 @@ description: xxx
 title: Caprice
 type: movie
 site: MetArt
-cast: n:Tanya G; u:https://www.metart.com/model/tanya-g; g:f
+model: n:Tanya G; id:/model/metart/tanya-g; u:https://www.metart.com/model/tanya-g; g:f
 released: 2003-05-12
 director: Voronin
 fileprefix: MetArt-20030512-caprice-
@@ -429,7 +429,7 @@ description: xxx
 title: Morning Dream
 type: movie
 site: MetArt
-cast: n:Juliette B; u:https://www.metart.com/model/juliette-b; g:f
+model: n:Juliette B; id:/model/metart/juliette-b; u:https://www.metart.com/model/juliette-b; g:f
 released: 2003-05-01
 director: Natasha Schon
 fileprefix: MetArt-20030501-morning-dream-
@@ -444,7 +444,7 @@ description: xxx
 title: Winter Party
 type: movie
 site: MetArt
-cast: n:Girls Of Holy Nature; u:https://www.metart.com/model/girls-of-holy-nature; g:f
+model: n:Girls Of Holy Nature; id:/model/metart/girls-of-holy-nature; u:https://www.metart.com/model/girls-of-holy-nature; g:f
 released: 2003-04-27
 director: Holy Nature
 fileprefix: MetArt-20030427-winter-party-
@@ -459,7 +459,7 @@ description: xxx
 title: Future Supermodel
 type: movie
 site: MetArt
-cast: n:Andrea C; u:https://www.metart.com/model/andrea-c; g:f
+model: n:Andrea C; id:/model/metart/andrea-c; u:https://www.metart.com/model/andrea-c; g:f
 released: 2003-04-01
 director: Voronin
 fileprefix: MetArt-20030401-future-supermodel-
@@ -474,7 +474,7 @@ description: xxx
 title: Glimpse
 type: movie
 site: MetArt
-cast: n:Takya A; u:https://www.metart.com/model/takya-a; g:f
+model: n:Takya A; id:/model/metart/takya-a; u:https://www.metart.com/model/takya-a; g:f
 released: 2003-03-26
 director: Roy Stuart
 fileprefix: MetArt-20030326-glimpse-
@@ -489,7 +489,7 @@ description: xxx
 title: Discovery
 type: movie
 site: MetArt
-cast: n:Tania B; u:https://www.metart.com/model/tania-b; g:f
+model: n:Tania B; id:/model/metart/tania-b; u:https://www.metart.com/model/tania-b; g:f
 released: 2003-03-17
 director: Voronin
 fileprefix: MetArt-20030317-discovery-
@@ -504,7 +504,7 @@ description: xxx
 title: Fire And Ice
 type: movie
 site: MetArt
-cast: n:Models No Name; u:https://www.metart.com/model/models-no-name; g:f
+model: n:Models No Name; id:/model/metart/models-no-name; u:https://www.metart.com/model/models-no-name; g:f
 released: 2003-03-06
 director: Voronin
 fileprefix: MetArt-20030306-fire-and-ice-
@@ -519,7 +519,7 @@ description: xxx
 title: Vamp
 type: movie
 site: MetArt
-cast: n:Tanya F; u:https://www.metart.com/model/tanya-f; g:f
+model: n:Tanya F; id:/model/metart/tanya-f; u:https://www.metart.com/model/tanya-f; g:f
 released: 2003-02-28
 director: Voronin
 fileprefix: MetArt-20030228-vamp-
@@ -534,7 +534,7 @@ description: xxx
 title: The Sauna
 type: movie
 site: MetArt
-cast: n:Sharon E; u:https://www.metart.com/model/sharon-e; g:f
+model: n:Sharon E; id:/model/metart/sharon-e; u:https://www.metart.com/model/sharon-e; g:f
 released: 2003-02-17
 director: Voronin
 fileprefix: MetArt-20030217-the-sauna-
@@ -549,7 +549,7 @@ description: xxx
 title: Game Day
 type: movie
 site: MetArt
-cast: n:Girls Of Holy Nature; u:https://www.metart.com/model/girls-of-holy-nature; g:f
+model: n:Girls Of Holy Nature; id:/model/metart/girls-of-holy-nature; u:https://www.metart.com/model/girls-of-holy-nature; g:f
 released: 2003-02-09
 director: Holy Nature
 fileprefix: MetArt-20030209-game-day-
@@ -564,7 +564,7 @@ description: xxx
 title: The Piano
 type: movie
 site: MetArt
-cast: n:Andrea C; u:https://www.metart.com/model/andrea-c; g:f
+model: n:Andrea C; id:/model/metart/andrea-c; u:https://www.metart.com/model/andrea-c; g:f
 released: 2003-01-31
 director: Voronin
 fileprefix: MetArt-20030131-the-piano-

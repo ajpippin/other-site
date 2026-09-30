@@ -9,8 +9,8 @@ title: Remember
 type: movie
 site: sa
 url: https://www.sexart.com/model/matt-ice-and-kira-queen/movie/20151230/REMEMBER
-cast: Matt Ice; https://www.sexart.com/model/matt-ice; g:m
-cast: Kira Queen; https://www.sexart.com/model/kira-queen; g:f
+model: n:Matt Ice; id:/model/sexart/matt-ice; u:https://www.sexart.com/model/matt-ice; g:m
+model: n:Kira Queen; id:/model/sexart/kira-queen; u:https://www.sexart.com/model/kira-queen; g:f
 released: 2015-12-30
 director: Andrej Lupin
 rating: 9.1
@@ -61,8 +61,8 @@ type: movie
 site: sa
 gender: mf
 url: https://www.sexart.com/model/jayden-cox-and-olivia-grace/movie/20151227/GIVE_ME_A_CHANCE
-cast: Jayden Cox; https://www.sexart.com/model/jayden-cox; g:f
-cast: Olivia Grace; https://www.sexart.com/model/olivia-grace; g:f
+model: n:Jayden Cox; id:/model/sexart/jayden-cox; u:https://www.sexart.com/model/jayden-cox; g:f
+model: n:Olivia Grace; id:/model/sexart/olivia-grace; u:https://www.sexart.com/model/olivia-grace; g:f
 released: 2015-12-27
 director: Andrej Lupin
 rating: 9.2
@@ -100,8 +100,8 @@ title: Ode To Beginnings
 type: movie
 site: sa
 url: https://www.sexart.com/model/denisa-doll-and-aleska-diamond/movie/20151225/ODE_TO_BEGINNINGS
-cast: Denisa Doll; https://www.sexart.com/model/denisa-doll; g:f
-cast: Aleska Diamond; https://www.sexart.com/model/aleska-diamond; g:f
+model: n:Denisa Doll; id:/model/sexart/denisa-doll; u:https://www.sexart.com/model/denisa-doll; g:f
+model: n:Aleska Diamond; id:/model/sexart/aleska-diamond; u:https://www.sexart.com/model/aleska-diamond; g:f
 released: 2015-12-25
 director: Alis Locanta
 rating: 9.2
@@ -132,7 +132,7 @@ title: Vox Episode 4
 type: movie
 site: sa
 url: https://www.sexart.com/model/mango-a/movie/20151223/VOX_EPISODE_4
-cast: Mango A; https://www.sexart.com/model/mango-a; g:f
+model: n:Mango A; id:/model/sexart/mango-a; u:https://www.sexart.com/model/mango-a; g:f
 released: 2015-12-23
 director: Alis Locanta
 rating: 9.5
@@ -146,7 +146,7 @@ description: In the final episode of Alis Locanta’s captivating "Vox" series, 
 runtime: 11:08
 writer: Alis Locanta
 executiveProducer: MetArt Films
-directorPhotography: Alis Locanta
+directorOfPhotography: Alis Locanta
 cameraOperator: Duliamo Ergacia, Jorge Villalobos
 editor: Alis Locanta
 costumeDesigner: Eva Dividendo
@@ -170,9 +170,9 @@ title: Girlfriends
 type: movie
 site: sa
 url: https://www.sexart.com/model/aurelly-rebel-and-jayden-cox-and-kira-queen/movie/20151220/GIRLFRIENDS
-cast: Aurelly Rebel; https://www.sexart.com/model/aurelly-rebel; g:f
-cast: Jayden Cox; https://www.sexart.com/model/jayden-cox; g:m
-cast: Kira Queen; https://www.sexart.com/model/kira-queen; g:f
+model: n:Aurelly Rebel; id:/model/sexart/aurelly-rebel; u:https://www.sexart.com/model/aurelly-rebel; g:f
+model: n:Jayden Cox; id:/model/sexart/jayden-cox; u:https://www.sexart.com/model/jayden-cox; g:m
+model: n:Kira Queen; id:/model/sexart/kira-queen; u:https://www.sexart.com/model/kira-queen; g:f
 released: 2015-12-20
 director: Andrej Lupin
 rating: 9.2
@@ -217,8 +217,8 @@ title: Flowers
 type: movie
 site: sa
 url: https://www.sexart.com/model/katy-rose-and-lexi-dona/movie/20151218/FLOWERS
-cast: Katy Rose; https://www.sexart.com/model/katy-rose; g:f
-cast: Lexi Dona; https://www.sexart.com/model/lexi-dona; g:f
+model: n:Katy Rose; id:/model/sexart/katy-rose; u:https://www.sexart.com/model/katy-rose; g:f
+model: n:Lexi Dona; id:/model/sexart/lexi-dona; u:https://www.sexart.com/model/lexi-dona; g:f
 released: 2015-12-18
 director: Andrej Lupin
 rating: 9.4
@@ -252,7 +252,7 @@ title: Vox Episode 3
 type: movie
 site: sa
 url: https://www.sexart.com/model/flora/movie/20151216/VOX_EPISODE_3
-cast: Flora; https://www.sexart.com/model/flora; g:f
+model: n:Flora; id:/model/sexart/flora; u:https://www.sexart.com/model/flora; g:f
 released: 2015-12-16
 director: Alis Locanta
 rating: 9.2
@@ -266,7 +266,7 @@ description: The third episode of Alis Locanta’s "Vox" series stars Italian be
 runtime: 12:20
 writer: Alis Locanta
 executiveProducer: MetArt Films
-directorPhotography: Alis Locanta
+directorOfPhotography: Alis Locanta
 cameraOperator: Duliamo Ergacia, Jorge Villalobos
 editor: Alis Locanta
 costumeDesigner: Eva Dividendo
@@ -292,9 +292,9 @@ title: Hide And Seek
 type: movie
 site: sa
 url: https://www.sexart.com/model/matt-ice-and-ally-breelsen-and-assoli/movie/20151213/HIDE_AND_SEEK
-cast: Matt Ice; https://www.sexart.com/model/matt-ice; g:m
-cast: Ally Breelsen; https://www.sexart.com/model/ally-breelsen; g:f
-cast: Assoli; https://www.sexart.com/model/assoli; g:f
+model: n:Matt Ice; id:/model/sexart/matt-ice; u:https://www.sexart.com/model/matt-ice; g:m
+model: n:Ally Breelsen; id:/model/sexart/ally-breelsen; u:https://www.sexart.com/model/ally-breelsen; g:f
+model: n:Assoli; id:/model/sexart/assoli; u:https://www.sexart.com/model/assoli; g:f
 released: 2015-12-13
 director: Andrej Lupin
 rating: 9.3
@@ -333,8 +333,8 @@ title: My Chance
 type: movie
 site: sa
 url: https://www.sexart.com/model/timea-bella-and-linda-sweet/movie/20151211/MY_CHANCE
-cast: Timea Bella; https://www.sexart.com/model/timea-bella; g:f
-cast: Linda Sweet; https://www.sexart.com/model/linda-sweet; g:f
+model: n:Timea Bella; id:/model/sexart/timea-bella; u:https://www.sexart.com/model/timea-bella; g:f
+model: n:Linda Sweet; id:/model/sexart/linda-sweet; u:https://www.sexart.com/model/linda-sweet; g:f
 released: 2015-12-11
 director: Andrej Lupin
 rating: 9.3
@@ -372,7 +372,7 @@ title: Vox Episode 2
 type: movie
 site: sa
 url: https://www.sexart.com/model/amarna-miller/movie/20151209/VOX_EPISODE_2
-cast: Amarna Miller; https://www.sexart.com/model/amarna-miller; g:f
+model: n:Amarna Miller; id:/model/sexart/amarna-miller; u:https://www.sexart.com/model/amarna-miller; g:f
 released: 2015-12-09
 director: Alis Locanta
 rating: 9.3
@@ -409,8 +409,8 @@ title: Show Me Part 2
 type: movie
 site: sa
 url: https://www.sexart.com/model/arteya-and-jay-smooth/movie/20151206/SHOW_ME_PART_2
-cast: Arteya; https://www.sexart.com/model/arteya; g:f
-cast: Jay Smooth; https://www.sexart.com/model/jay-smooth; g:m
+model: n:Arteya; id:/model/sexart/arteya; u:https://www.sexart.com/model/arteya; g:f
+model: n:Jay Smooth; id:/model/sexart/jay-smooth; u:https://www.sexart.com/model/jay-smooth; g:m
 released: 2015-12-06
 director: Andrej Lupin
 rating: 9.0
@@ -451,8 +451,8 @@ title: Summer Breeze
 type: movie
 site: sa
 url: https://www.sexart.com/model/kendra-star-and-shrima-malati/movie/20151204/SUMMER_BREEZE
-cast: Kendra Star; https://www.sexart.com/model/kendra-star; g:f
-cast: Shrima Malati; https://www.sexart.com/model/shrima-malati; g:f
+model: n:Kendra Star; id:/model/sexart/kendra-star; u:https://www.sexart.com/model/kendra-star; g:f
+model: n:Shrima Malati; id:/model/sexart/shrima-malati; u:https://www.sexart.com/model/shrima-malati; g:f
 released: 2015-12-04
 director: Andrej Lupin
 rating: 9.3
@@ -490,7 +490,7 @@ title: Vox Episode 1
 type: movie
 site: sa
 url: https://www.sexart.com/model/tracy-lindsay/movie/20151202/VOX_EPISODE_1
-cast: Tracy Lindsay; https://www.sexart.com/model/tracy-lindsay; g:f
+model: n:Tracy Lindsay; id:/model/sexart/tracy-lindsay; u:https://www.sexart.com/model/tracy-lindsay; g:f
 released: 2015-12-02
 director: Alis Locanta
 rating: 9.4
@@ -526,8 +526,8 @@ title: Lovely Trip
 type: movie
 site: sa
 url: https://www.sexart.com/model/linda-sweet-and-kristof-cale/movie/20151129/LOVELY_TRIP
-cast: Linda Sweet; https://www.sexart.com/model/linda-sweet; g:f
-cast: Kristof Cale; https://www.sexart.com/model/kristof-cale; g:m
+model: n:Linda Sweet; id:/model/sexart/linda-sweet; u:https://www.sexart.com/model/linda-sweet; g:f
+model: n:Kristof Cale; id:/model/sexart/kristof-cale; u:https://www.sexart.com/model/kristof-cale; g:m
 released: 2015-11-29
 director: Andrej Lupin
 rating: 9.4
@@ -566,8 +566,8 @@ title: Fountain of Love
 type: movie
 site: sa
 url: https://www.sexart.com/model/kira-queen-and-chrissy-fox/movie/20151127/FOUNTAIN_OF_LOVE
-cast: Kira Queen; https://www.sexart.com/model/kira-queen; g:f
-cast: Chrissy Fox; https://www.sexart.com/model/chrissy-fox; g:f
+model: n:Kira Queen; id:/model/sexart/kira-queen; u:https://www.sexart.com/model/kira-queen; g:f
+model: n:Chrissy Fox; id:/model/sexart/chrissy-fox; u:https://www.sexart.com/model/chrissy-fox; g:f
 released: 2015-11-27
 director: Andrej Lupin
 rating: 9.2
@@ -608,7 +608,7 @@ title: Time For Me
 type: movie
 site: sa
 url: https://www.sexart.com/model/michaela-isizzu/movie/20151125/TIME_FOR_ME
-cast: Michaela Isizzu; https://www.sexart.com/model/michaela-isizzu; g:f
+model: n:Michaela Isizzu; id:/model/sexart/michaela-isizzu; u:https://www.sexart.com/model/michaela-isizzu; g:f
 released: 2015-11-25
 director: Andrej Lupin
 rating: 9.6
@@ -638,8 +638,8 @@ title: Strelnice
 type: movie
 site: sa
 url: https://www.sexart.com/model/erika-black-and-matt-ice/movie/20151122/STRELNICE
-cast: Erika Black; https://www.sexart.com/model/erika-black; g:f
-cast: Matt Ice; https://www.sexart.com/model/matt-ice; g:m
+model: n:Erika Black; id:/model/sexart/erika-black; u:https://www.sexart.com/model/erika-black; g:f
+model: n:Matt Ice; id:/model/sexart/matt-ice; u:https://www.sexart.com/model/matt-ice; g:m
 released: 2015-11-22
 director: Andrej Lupin
 rating: 9.1
@@ -680,8 +680,8 @@ title: Show Me Part 1
 type: movie
 site: sa
 url: https://www.sexart.com/model/arteya-and-rossella-visconti/movie/20151120/SHOW_ME_PART_1
-cast: Arteya; https://www.sexart.com/model/arteya; g:f
-cast: Rossella Visconti; https://www.sexart.com/model/rossella-visconti; g:f
+model: n:Arteya; id:/model/sexart/arteya; u:https://www.sexart.com/model/arteya; g:f
+model: n:Rossella Visconti; id:/model/sexart/rossella-visconti; u:https://www.sexart.com/model/rossella-visconti; g:f
 released: 2015-11-20
 director: Andrej Lupin
 rating: 9.3
@@ -724,8 +724,8 @@ type: movie
 site: ma
 gender: f
 url: https://www.metart.com/model/fernando-and-ally-breelsen/movie/20151118/RITUAL
-cast: Fernando; https://www.metart.com/model/fernando; g:m
-cast: Ally Breelsen; https://www.metart.com/model/ally-breelsen; g:f
+model: n:Fernando; id:/model/metart/fernando; u:https://www.metart.com/model/fernando; g:m
+model: n:Ally Breelsen; id:/model/metart/ally-breelsen; u:https://www.metart.com/model/ally-breelsen; g:f
 released: 2015-11-18
 director: Andrej Lupin
 rating: 9.1
@@ -758,9 +758,9 @@ type: gallery
 site: ma
 gender: f
 url: https://www.metart.com/model/taylor-sands-and-silvie-luca-and-alexa-tomas/gallery/20151115/OUTLINES_EPISODE_10_-_ANIMAL_INSTINCT
-cast: Taylor Sands; https://www.metart.com/model/taylor-sands; g:m
-cast: Silvie Luca; https://www.metart.com/model/silvie-luca; g:f
-cast: Alexa Tomas; https://www.metart.com/model/alexa-tomas; g:f
+model: n:Taylor Sands; id:/model/metart/taylor-sands; u:https://www.metart.com/model/taylor-sands; g:m
+model: n:Silvie Luca; id:/model/metart/silvie-luca; u:https://www.metart.com/model/silvie-luca; g:f
+model: n:Alexa Tomas; id:/model/metart/alexa-tomas; u:https://www.metart.com/model/alexa-tomas; g:f
 released: 2015-11-15
 photographer:
 rating: 9.2
@@ -775,7 +775,7 @@ runtime: 08:02
 writer: Alis Locanta
 executiveProducer: MetArt Films
 producer: Estelle Adams
-directorPhotography: Alis Locanta
+directorOfPhotography: Alis Locanta
 cameraOperator: Jorge Villalobos, Duliamo Ergacia
 editor: Alis Locanta
 costumeDesigner: Eva Dividendo
@@ -805,8 +805,8 @@ title: Flow
 type: movie
 site: sa
 url: https://www.sexart.com/model/milana-blanc-and-olivia-grace/movie/20151113/FLOW
-cast: Milana Blanc; https://www.sexart.com/model/milana-blanc; g:f
-cast: Olivia Grace; https://www.sexart.com/model/olivia-grace; g:f
+model: n:Milana Blanc; id:/model/sexart/milana-blanc; u:https://www.sexart.com/model/milana-blanc; g:f
+model: n:Olivia Grace; id:/model/sexart/olivia-grace; u:https://www.sexart.com/model/olivia-grace; g:f
 released: 2015-11-13
 director: Andrej Lupin
 rating: 9.2
@@ -841,8 +841,8 @@ title: Lost In The Rain
 type: movie
 site: sa
 url: https://www.sexart.com/model/jayden-cox-and-chrissy-fox/movie/20151111/LOST_IN_THE_RAIN
-cast: Jayden Cox; https://www.sexart.com/model/jayden-cox; g:m
-cast: Chrissy Fox; https://www.sexart.com/model/chrissy-fox; g:f
+model: n:Jayden Cox; id:/model/sexart/jayden-cox; u:https://www.sexart.com/model/jayden-cox; g:m
+model: n:Chrissy Fox; id:/model/sexart/chrissy-fox; u:https://www.sexart.com/model/chrissy-fox; g:f
 released: 2015-11-11
 director: Andrej Lupin
 rating: 9.2
@@ -884,7 +884,7 @@ title: Outlines Episode 9 - Splash!
 type: movie
 site: sa
 url: https://www.sexart.com/model/melena-a/movie/20151108/OUTLINES_EPISODE_9_-_SPLASH!
-cast: Melena A; https://www.sexart.com/model/melena-a; g:f
+model: n:Melena A; id:/model/sexart/melena-a; u:https://www.sexart.com/model/melena-a; g:f
 released: 2015-11-08
 director: Alis Locanta
 rating: 9.5
@@ -898,7 +898,7 @@ runtime: 08:37
 writer: Alis Locanta
 executiveProducer: MetArt Films
 producer: Estelle Adams
-directorPhotography: Alis Locanta
+directorOfPhotography: Alis Locanta
 cameraOperator: Duliamo Ergacia, Jorge Villalobos
 editor: Alis Locanta
 costumeDesigner: Eva Dividendo
@@ -924,8 +924,8 @@ title: Models
 type: movie
 site: sa
 url: https://www.sexart.com/model/alexis-crystal-and-whitney-conroy/movie/20151106/MODELS
-cast: Alexis Crystal; https://www.sexart.com/model/alexis-crystal; g:f
-cast: Whitney Conroy; https://www.sexart.com/model/whitney-conroy; g:f
+model: n:Alexis Crystal; id:/model/sexart/alexis-crystal; u:https://www.sexart.com/model/alexis-crystal; g:f
+model: n:Whitney Conroy; id:/model/sexart/whitney-conroy; u:https://www.sexart.com/model/whitney-conroy; g:f
 released: 2015-11-06
 director: Andrej Lupin
 rating: 9.2
@@ -959,8 +959,8 @@ title: Urgency
 type: movie
 site: sa
 url: https://www.sexart.com/model/fernando-and-kendra-star/movie/20151104/URGENCY
-cast: Fernando; https://www.sexart.com/model/fernando; g:m
-cast: Kendra Star; https://www.sexart.com/model/kendra-star; g:f
+model: n:Fernando; id:/model/sexart/fernando; u:https://www.sexart.com/model/fernando; g:m
+model: n:Kendra Star; id:/model/sexart/kendra-star; u:https://www.sexart.com/model/kendra-star; g:f
 released: 2015-11-04
 director: Andrej Lupin
 rating: 8.9
@@ -1000,8 +1000,8 @@ title: Outlines Episode 8 - Killing Me Softly
 type: movie
 site: sa
 url: https://www.sexart.com/model/silvie-luca-and-alexa-tomas/movie/20151101/OUTLINES_EPISODE_8_-_KILLING_ME_SOFTLY
-cast: Silvie Luca; https://www.sexart.com/model/silvie-luca; g:f
-cast: Alexa Tomas; https://www.sexart.com/model/alexa-tomas; g:f
+model: n:Silvie Luca; id:/model/sexart/silvie-luca; u:https://www.sexart.com/model/silvie-luca; g:f
+model: n:Alexa Tomas; id:/model/sexart/alexa-tomas; u:https://www.sexart.com/model/alexa-tomas; g:f
 released: 2015-11-01
 director: Alis Locanta
 rating: 9.1
@@ -1015,7 +1015,7 @@ description: By giving episode 8 of his innovative and experimental "Outlines" s
 runtime: 07:32
 executiveProducer: MetArt Films
 producer: Estelle Adams
-directorPhotography: Alis Locanta
+directorOfPhotography: Alis Locanta
 cameraOperator: Jorge Villalobos, Duliamo Ergacia, Alis Locanta
 editor: Alis Locanta
 costumeDesigner: Eva Dividendo
@@ -1041,8 +1041,8 @@ title: Reflections
 type: movie
 site: sa
 url: https://www.sexart.com/model/aurelly-rebel-and-milana-blanc/movie/20151030/REFLECTIONS
-cast: Aurelly Rebel; https://www.sexart.com/model/aurelly-rebel; g:f
-cast: Milana Blanc; https://www.sexart.com/model/milana-blanc; g:f
+model: n:Aurelly Rebel; id:/model/sexart/aurelly-rebel; u:https://www.sexart.com/model/aurelly-rebel; g:f
+model: n:Milana Blanc; id:/model/sexart/milana-blanc; u:https://www.sexart.com/model/milana-blanc; g:f
 released: 2015-10-30
 director: Andrej Lupin
 rating: 9.1
@@ -1083,8 +1083,8 @@ title: Behind the Door
 type: movie
 site: sa
 url: https://www.sexart.com/model/kristof-cale-and-lindsey-olsen/movie/20151028/BEHIND_THE_DOOR
-cast: Kristof Cale; https://www.sexart.com/model/kristof-cale; g:m
-cast: Lindsey Olsen; https://www.sexart.com/model/lindsey-olsen; g:f
+model: n:Kristof Cale; id:/model/sexart/kristof-cale; u:https://www.sexart.com/model/kristof-cale; g:m
+model: n:Lindsey Olsen; id:/model/sexart/lindsey-olsen; u:https://www.sexart.com/model/lindsey-olsen; g:f
 released: 2015-10-28
 director: Andrej Lupin
 rating: 9.1
@@ -1130,7 +1130,7 @@ title: Outlines Episode 7 - I Love Myself
 type: movie
 site: sa
 url: https://www.sexart.com/model/melena-a/movie/20151025/OUTLINES_EPISODE_7_-_I_LOVE_MYSELF
-cast: Melena A; https://www.sexart.com/model/melena-a; g:f
+model: n:Melena A; id:/model/sexart/melena-a; u:https://www.sexart.com/model/melena-a; g:f
 released: 2015-10-25
 director: Alis Locanta
 rating: 9.5
@@ -1145,7 +1145,7 @@ runtime: 04:42
 writer: Alis Locanta
 executiveProducer: MetArt Films
 producer: Estelle Adams
-directorPhotography: Alis Locanta
+directorOfPhotography: Alis Locanta
 cameraOperator: Duliamo Ergacia, Jorge Villalobos
 editor: Alis Locanta
 costumeDesigner: Eva Dividendo
@@ -1172,8 +1172,8 @@ title: Stalker 3
 type: movie
 site: sa
 url: https://www.sexart.com/model/mona-kim-and-shrima-malati/movie/20151023/STALKER_3
-cast: Mona Kim; https://www.sexart.com/model/mona-kim; g:f
-cast: Shrima Malati; https://www.sexart.com/model/shrima-malati; g:f
+model: n:Mona Kim; id:/model/sexart/mona-kim; u:https://www.sexart.com/model/mona-kim; g:f
+model: n:Shrima Malati; id:/model/sexart/shrima-malati; u:https://www.sexart.com/model/shrima-malati; g:f
 released: 2015-10-23
 director: Andrej Lupin
 rating: 9.2
@@ -1212,8 +1212,8 @@ title: Perder Tiempo
 type: movie
 site: sa
 url: https://www.sexart.com/model/matt-ice-and-kiara-lord/movie/20151021/PERDER_TIEMPO
-cast: Matt Ice; https://www.sexart.com/model/matt-ice; g:m
-cast: Kiara Lord; https://www.sexart.com/model/kiara-lord; g:f
+model: n:Matt Ice; id:/model/sexart/matt-ice; u:https://www.sexart.com/model/matt-ice; g:m
+model: n:Kiara Lord; id:/model/sexart/kiara-lord; u:https://www.sexart.com/model/kiara-lord; g:f
 released: 2015-10-21
 director: Andrej Lupin
 rating: 9.3
@@ -1249,8 +1249,8 @@ title: Outlines Episode 6 - Timeline
 type: movie
 site: sa
 url: https://www.sexart.com/model/taylor-sands-and-silvie-luca/movie/20151018/OUTLINES_EPISODE_6_-_TIMELINE
-cast: Taylor Sands; https://www.sexart.com/model/taylor-sands; g:f
-cast: Silvie Luca; https://www.sexart.com/model/silvie-luca; g:f
+model: n:Taylor Sands; id:/model/sexart/taylor-sands; u:https://www.sexart.com/model/taylor-sands; g:f
+model: n:Silvie Luca; id:/model/sexart/silvie-luca; u:https://www.sexart.com/model/silvie-luca; g:f
 released: 2015-10-18
 director: Alis Locanta
 rating: 9.1
@@ -1264,7 +1264,7 @@ runtime: 08:16
 writer: Alis Locanta
 executiveProducer: MetArt Films
 producer: Estelle Adams
-directorPhotography: Alis Locanta
+directorOfPhotography: Alis Locanta
 cameraOperator: Jorge Villalobos, Duliamo Ergacia, Alis Locanta
 costumeDesigner: Eva Dividendo
 makeupArtist: Rita Rola
@@ -1289,8 +1289,8 @@ title: Stalker #2
 type: movie
 site: sa
 url: https://www.sexart.com/model/kira-queen-and-aurelly-rebel/movie/20151016/STALKER_#2
-cast: Kira Queen; https://www.sexart.com/model/kira-queen; g:f
-cast: Aurelly Rebel; https://www.sexart.com/model/aurelly-rebel; g:f
+model: n:Kira Queen; id:/model/sexart/kira-queen; u:https://www.sexart.com/model/kira-queen; g:f
+model: n:Aurelly Rebel; id:/model/sexart/aurelly-rebel; u:https://www.sexart.com/model/aurelly-rebel; g:f
 released: 2015-10-16
 director: Andrej Lupin
 rating: 9.1
@@ -1331,8 +1331,8 @@ title: Imagine
 type: movie
 site: sa
 url: https://www.sexart.com/model/matt-ice-and-timea-bella/movie/20151014/IMAGINE
-cast: Matt Ice; https://www.sexart.com/model/matt-ice; g:m
-cast: Timea Bella; https://www.sexart.com/model/timea-bella; g:f
+model: n:Matt Ice; id:/model/sexart/matt-ice; u:https://www.sexart.com/model/matt-ice; g:m
+model: n:Timea Bella; id:/model/sexart/timea-bella; u:https://www.sexart.com/model/timea-bella; g:f
 released: 2015-10-14
 director: Andrej Lupin
 rating: 9.1
@@ -1371,7 +1371,7 @@ title: Outlines Episode 5 - La Cura
 type: movie
 site: sa
 url: https://www.sexart.com/model/melena-a/movie/20151011/OUTLINES_EPISODE_5_-_LA_CURA
-cast: Melena A; https://www.sexart.com/model/melena-a; g:f
+model: n:Melena A; id:/model/sexart/melena-a; u:https://www.sexart.com/model/melena-a; g:f
 released: 2015-10-11
 director: Alis Locanta
 rating: 9.4
@@ -1386,7 +1386,7 @@ runtime: 09:08
 writer: Alis Locanta
 executiveProducer: MetArt Films
 producer: Estelle Adams
-directorPhotography: Alis Locanta
+directorOfPhotography: Alis Locanta
 cameraOperator: Alis Locanta, Jorge Villalobos, Duliamo Ergacia
 costumeDesigner: Eva Dividendo
 makeupArtist: Rita Rola
@@ -1410,8 +1410,8 @@ title: One Morning
 type: movie
 site: sa
 url: https://www.sexart.com/model/assoli-and-mona-kim/movie/20151009/ONE_MORNING
-cast: Assoli; https://www.sexart.com/model/assoli; g:f
-cast: Mona Kim; https://www.sexart.com/model/mona-kim; g:f
+model: n:Assoli; id:/model/sexart/assoli; u:https://www.sexart.com/model/assoli; g:f
+model: n:Mona Kim; id:/model/sexart/mona-kim; u:https://www.sexart.com/model/mona-kim; g:f
 released: 2015-10-09
 director: Andrej Lupin
 rating: 9.2
@@ -1447,8 +1447,8 @@ title: Magical Evening
 type: movie
 site: sa
 url: https://www.sexart.com/model/matt-ice-and-aurelly-rebel/movie/20151007/MAGICAL_EVENING
-cast: Matt Ice; https://www.sexart.com/model/matt-ice; g:m
-cast: Aurelly Rebel; https://www.sexart.com/model/aurelly-rebel; g:f
+model: n:Matt Ice; id:/model/sexart/matt-ice; u:https://www.sexart.com/model/matt-ice; g:m
+model: n:Aurelly Rebel; id:/model/sexart/aurelly-rebel; u:https://www.sexart.com/model/aurelly-rebel; g:f
 released: 2015-10-07
 director: Andrej Lupin
 rating: 9.1
@@ -1485,8 +1485,8 @@ title: Outlines Episode 4 - Fire My Light
 type: movie
 site: sa
 url: https://www.sexart.com/model/alexa-tomas-and-taylor-sands/movie/20151004/OUTLINES_EPISODE_4_-_FIRE_MY_LIGHT
-cast: Alexa Tomas; https://www.sexart.com/model/alexa-tomas; g:f
-cast: Taylor Sands; https://www.sexart.com/model/taylor-sands; g:f
+model: n:Alexa Tomas; id:/model/sexart/alexa-tomas; u:https://www.sexart.com/model/alexa-tomas; g:f
+model: n:Taylor Sands; id:/model/sexart/taylor-sands; u:https://www.sexart.com/model/taylor-sands; g:f
 released: 2015-10-04
 director: Alis Locanta
 rating: 9.2
@@ -1501,7 +1501,7 @@ runtime: 07:47
 writer: Alis Locanta
 executiveProducer: MetArt Films
 producer: Estelle Adams
-directorPhotography: Alis Locanta
+directorOfPhotography: Alis Locanta
 cameraOperator: Jorge Villalobos, Duliamo Ergacia, Alis Locanta
 costumeDesigner: Eva Dividendo
 makeupArtist: Rita Rola
@@ -1551,8 +1551,8 @@ title: Secrets Of Prague Episode 6
 type: movie
 site: sa
 url: https://www.sexart.com/model/elisa-b-and-cristal-caitlin/movie/20151002/SECRETS_OF_PRAGUE_EPISODE_6
-cast: Elisa B; https://www.sexart.com/model/elisa-b; g:f
-cast: Cristal Caitlin; https://www.sexart.com/model/cristal-caitlin; g:f
+model: n:Elisa B; id:/model/sexart/elisa-b; u:https://www.sexart.com/model/elisa-b; g:f
+model: n:Cristal Caitlin; id:/model/sexart/cristal-caitlin; u:https://www.sexart.com/model/cristal-caitlin; g:f
 released: 2015-10-02
 director: Andrej Lupin
 rating: 9.2
@@ -1617,9 +1617,9 @@ title: Ladies
 type: movie
 site: sa
 url: https://www.sexart.com/model/sicilia-and-kiara-lord-and-taissia-a/movie/20150930/LADIES
-cast: Sicilia; https://www.sexart.com/model/sicilia; g:f
-cast: Kiara Lord; https://www.sexart.com/model/kiara-lord; g:f
-cast: Taissia A; https://www.sexart.com/model/taissia-a; g:f
+model: n:Sicilia; id:/model/sexart/sicilia; u:https://www.sexart.com/model/sicilia; g:f
+model: n:Kiara Lord; id:/model/sexart/kiara-lord; u:https://www.sexart.com/model/kiara-lord; g:f
+model: n:Taissia A; id:/model/sexart/taissia-a; u:https://www.sexart.com/model/taissia-a; g:f
 released: 2015-09-30
 director: Andrej Lupin
 rating: 9.4
@@ -1685,7 +1685,7 @@ title: Outlines Episode 3 - Forget the Writer
 type: movie
 site: sa
 url: https://www.sexart.com/model/melena-a/movie/20150927/OUTLINES_EPISODE_3_-_FORGET_THE_WRITER
-cast: Melena A; https://www.sexart.com/model/melena-a; g:f
+model: n:Melena A; id:/model/sexart/melena-a; u:https://www.sexart.com/model/melena-a; g:f
 released: 2015-09-27
 director: Alis Locanta
 rating: 9.5
@@ -1699,7 +1699,7 @@ runtime: 10:51
 writer: Alis Locanta
 executiveProducer: MetArt Films
 producer: Estelle Adams
-directorPhotography: Alis Locanta
+directorOfPhotography: Alis Locanta
 cameraOperator: Duliamo Ergacia, Jorge Villalobos
 editor: Alis Locanta
 costumeDesigner: Eva Dividendo
@@ -1740,8 +1740,8 @@ title: Secrets Of Prague Episode 5
 type: movie
 site: sa
 url: https://www.sexart.com/model/lady-dee-and-lexi-dona/movie/20150925/SECRETS_OF_PRAGUE_EPISODE_5
-cast: Lady Dee; https://www.sexart.com/model/lady-dee; g:f
-cast: Lexi Dona; https://www.sexart.com/model/lexi-dona; g:f
+model: n:Lady Dee; id:/model/sexart/lady-dee; u:https://www.sexart.com/model/lady-dee; g:f
+model: n:Lexi Dona; id:/model/sexart/lexi-dona; u:https://www.sexart.com/model/lexi-dona; g:f
 released: 2015-09-25
 director: Andrej Lupin
 rating: 9.2
@@ -1806,8 +1806,8 @@ title: Sculptures
 type: movie
 site: sa
 url: https://www.sexart.com/model/cristal-caitlin-and-gala-brown/movie/20150923/SCULPTURES
-cast: Cristal Caitlin; https://www.sexart.com/model/cristal-caitlin; g:f
-cast: Gala Brown; https://www.sexart.com/model/gala-brown; g:f
+model: n:Cristal Caitlin; id:/model/sexart/cristal-caitlin; u:https://www.sexart.com/model/cristal-caitlin; g:f
+model: n:Gala Brown; id:/model/sexart/gala-brown; u:https://www.sexart.com/model/gala-brown; g:f
 released: 2015-09-23
 director: Andrej Lupin
 rating: 9.2
@@ -1868,8 +1868,8 @@ title: Outlines Episode 2 - Riders On The Storm
 type: movie
 site: sa
 url: https://www.sexart.com/model/silvie-luca-and-alexa-tomas/movie/20150920/OUTLINES_EPISODE_2_-_RIDERS_ON_THE_STORM
-cast: Silvie Luca; https://www.sexart.com/model/silvie-luca; g:f
-cast: Alexa Tomas; https://www.sexart.com/model/alexa-tomas; g:f
+model: n:Silvie Luca; id:/model/sexart/silvie-luca; u:https://www.sexart.com/model/silvie-luca; g:f
+model: n:Alexa Tomas; id:/model/sexart/alexa-tomas; u:https://www.sexart.com/model/alexa-tomas; g:f
 released: 2015-09-20
 director: Alis Locanta
 rating: 9.0
@@ -1884,7 +1884,7 @@ runtime: 06:06
 writer: Alis Locanta
 executiveProducer: MetArt Films
 producer: Estelle Adams
-directorPhotography: Alis Locanta
+directorOfPhotography: Alis Locanta
 cameraOperator: Duliamo Ergacia, Jorge Villalobos
 editor: Alis Locanta
 costumeDesigner: Eva Dividendo
@@ -1926,8 +1926,8 @@ title: Secrets Of Prague Episode 4
 type: movie
 site: sa
 url: https://www.sexart.com/model/tracy-lindsay-and-whitney-conroy/movie/20150918/SECRETS_OF_PRAGUE_EPISODE_4
-cast: Tracy Lindsay; https://www.sexart.com/model/tracy-lindsay; g:f
-cast: Whitney Conroy; https://www.sexart.com/model/whitney-conroy; g:f
+model: n:Tracy Lindsay; id:/model/sexart/tracy-lindsay; u:https://www.sexart.com/model/tracy-lindsay; g:f
+model: n:Whitney Conroy; id:/model/sexart/whitney-conroy; u:https://www.sexart.com/model/whitney-conroy; g:f
 released: 2015-09-18
 director: Andrej Lupin
 rating: 9.3
@@ -1993,8 +1993,8 @@ title: Juice
 type: movie
 site: sa
 url: https://www.sexart.com/model/mona-kim-and-kendra-star/movie/20150916/JUICE
-cast: Mona Kim; https://www.sexart.com/model/mona-kim; g:f
-cast: Kendra Star; https://www.sexart.com/model/kendra-star; g:f
+model: n:Mona Kim; id:/model/sexart/mona-kim; u:https://www.sexart.com/model/mona-kim; g:f
+model: n:Kendra Star; id:/model/sexart/kendra-star; u:https://www.sexart.com/model/kendra-star; g:f
 released: 2015-09-16
 director: Andrej Lupin
 rating: 9.1
@@ -2057,7 +2057,7 @@ title: Outlines Episode 1 - ShowTime
 type: movie
 site: sa
 url: https://www.sexart.com/model/melena-a/movie/20150913/OUTLINES_EPISODE_1_-_SHOWTIME
-cast: Melena A; https://www.sexart.com/model/melena-a; g:f
+model: n:Melena A; id:/model/sexart/melena-a; u:https://www.sexart.com/model/melena-a; g:f
 released: 2015-09-13
 director: Alis Locanta
 rating: 9.4
@@ -2096,9 +2096,9 @@ title: Secrets of Prague Episode 3
 type: movie
 site: sa
 url: https://www.sexart.com/model/cristal-caitlin-and-elisa-b-and-leila-smith/movie/20150911/SECRETS_OF_PRAGUE_EPISODE_3
-cast: Cristal Caitlin; https://www.sexart.com/model/cristal-caitlin; g:f
-cast: Elisa B; https://www.sexart.com/model/elisa-b; g:f
-cast: Leila Smith; https://www.sexart.com/model/leila-smith; g:f
+model: n:Cristal Caitlin; id:/model/sexart/cristal-caitlin; u:https://www.sexart.com/model/cristal-caitlin; g:f
+model: n:Elisa B; id:/model/sexart/elisa-b; u:https://www.sexart.com/model/elisa-b; g:f
+model: n:Leila Smith; id:/model/sexart/leila-smith; u:https://www.sexart.com/model/leila-smith; g:f
 released: 2015-09-11
 director: Andrej Lupin
 rating: 9.4
@@ -2179,8 +2179,8 @@ title: Misstep
 type: movie
 site: sa
 url: https://www.sexart.com/model/kristof-cale-and-angella-christin/movie/20150909/MISSTEP
-cast: Kristof Cale; https://www.sexart.com/model/kristof-cale; g:m
-cast: Angella Christin; https://www.sexart.com/model/angella-christin; g:f
+model: n:Kristof Cale; id:/model/sexart/kristof-cale; u:https://www.sexart.com/model/kristof-cale; g:m
+model: n:Angella Christin; id:/model/sexart/angella-christin; u:https://www.sexart.com/model/angella-christin; g:f
 released: 2015-09-09
 director: Andrej Lupin
 rating: 9.0
@@ -2240,8 +2240,8 @@ title: Back Home 2
 type: movie
 site: sa
 url: https://www.sexart.com/model/alexa-tomas-and-juan-lucho/movie/20150906/BACK_HOME_2
-cast: Alexa Tomas; https://www.sexart.com/model/alexa-tomas; g:f
-cast: Juan Lucho; https://www.sexart.com/model/juan-lucho; g:m
+model: n:Alexa Tomas; id:/model/sexart/alexa-tomas; u:https://www.sexart.com/model/alexa-tomas; g:f
+model: n:Juan Lucho; id:/model/sexart/juan-lucho; u:https://www.sexart.com/model/juan-lucho; g:m
 released: 2015-09-06
 director: Alis Locanta
 rating: 9.3
@@ -2255,7 +2255,7 @@ runtime: 21:32
 writer: Alis Locanta
 executiveProducer: MetArt Films
 producer: Estelle Adams
-directorPhotography: Alis Locanta
+directorOfPhotography: Alis Locanta
 cameraOperator: Duliamo Ergacia, Jorge Villalobos
 costumeDesigner: Eva Dividendo
 makeupArtist: Rita Rola
@@ -2301,8 +2301,8 @@ title: Secrets of Prague Episode 2
 type: movie
 site: sa
 url: https://www.sexart.com/model/vanessa-decker-and-leila-smith/movie/20150904/SECRETS_OF_PRAGUE_EPISODE_2
-cast: Vanessa Decker; https://www.sexart.com/model/vanessa-decker; g:f
-cast: Leila Smith; https://www.sexart.com/model/leila-smith; g:f
+model: n:Vanessa Decker; id:/model/sexart/vanessa-decker; u:https://www.sexart.com/model/vanessa-decker; g:f
+model: n:Leila Smith; id:/model/sexart/leila-smith; u:https://www.sexart.com/model/leila-smith; g:f
 released: 2015-09-04
 director: Andrej Lupin
 rating: 9.2
@@ -2377,8 +2377,8 @@ title: Scooty Angels
 type: movie
 site: sa
 url: https://www.sexart.com/model/shrima-malati-and-ally-breelsen/movie/20150902/SCOOTY_ANGELS
-cast: Shrima Malati; https://www.sexart.com/model/shrima-malati; g:f
-cast: Ally Breelsen; https://www.sexart.com/model/ally-breelsen; g:f
+model: n:Shrima Malati; id:/model/sexart/shrima-malati; u:https://www.sexart.com/model/shrima-malati; g:f
+model: n:Ally Breelsen; id:/model/sexart/ally-breelsen; u:https://www.sexart.com/model/ally-breelsen; g:f
 released: 2015-09-02
 director: Andrej Lupin
 rating: 9.2
@@ -2439,8 +2439,8 @@ title: Surprised
 type: movie
 site: sa
 url: https://www.sexart.com/model/antonia-sainz-and-nick-ross/movie/20150830/SURPRISED
-cast: Antonia Sainz; https://www.sexart.com/model/antonia-sainz; g:f
-cast: Nick Ross; https://www.sexart.com/model/nick-ross; g:m
+model: n:Antonia Sainz; id:/model/sexart/antonia-sainz; u:https://www.sexart.com/model/antonia-sainz; g:f
+model: n:Nick Ross; id:/model/sexart/nick-ross; u:https://www.sexart.com/model/nick-ross; g:m
 released: 2015-08-30
 director: Andrej Lupin
 rating: 9.2
@@ -2505,8 +2505,8 @@ title: Secrets of Prague Episode 1
 type: movie
 site: sa
 url: https://www.sexart.com/model/margot-a-and-alexis-crystal/movie/20150828/SECRETS_OF_PRAGUE_EPISODE_1
-cast: Margot A; https://www.sexart.com/model/margot-a; g:f
-cast: Alexis Crystal; https://www.sexart.com/model/alexis-crystal; g:f
+model: n:Margot A; id:/model/sexart/margot-a; u:https://www.sexart.com/model/margot-a; g:f
+model: n:Alexis Crystal; id:/model/sexart/alexis-crystal; u:https://www.sexart.com/model/alexis-crystal; g:f
 released: 2015-08-28
 director: Andrej Lupin
 rating: 9.3
@@ -2571,8 +2571,8 @@ title: Tenderness
 type: movie
 site: sa
 url: https://www.sexart.com/model/assoli-and-fernando/movie/20150826/TENDERNESS
-cast: Assoli; https://www.sexart.com/model/assoli; g:f
-cast: Fernando; https://www.sexart.com/model/fernando; g:m
+model: n:Assoli; id:/model/sexart/assoli; u:https://www.sexart.com/model/assoli; g:f
+model: n:Fernando; id:/model/sexart/fernando; u:https://www.sexart.com/model/fernando; g:m
 released: 2015-08-26
 director: Andrej Lupin
 rating: 9.1
@@ -2631,8 +2631,8 @@ title: Love For Sale Season 2 - Episode 5 - Rebirth
 type: movie
 site: sa
 url: https://www.sexart.com/model/layla-sin-and-jay-smooth/movie/20150823/LOVE_FOR_SALE_SEASON_2_-_EPISODE_5_-_REBIRTH
-cast: Layla Sin; https://www.sexart.com/model/layla-sin; g:f
-cast: Jay Smooth; https://www.sexart.com/model/jay-smooth; g:m
+model: n:Layla Sin; id:/model/sexart/layla-sin; u:https://www.sexart.com/model/layla-sin; g:f
+model: n:Jay Smooth; id:/model/sexart/jay-smooth; u:https://www.sexart.com/model/jay-smooth; g:m
 released: 2015-08-23
 director: Alis Locanta
 rating: 8.8
@@ -2646,7 +2646,7 @@ runtime: 41:57
 writer: Robert L. McBride
 executiveProducer: MetArt Films
 producer: Estelle Adams
-directorPhotography: Alis Locanta
+directorOfPhotography: Alis Locanta
 cameraOperator: Duliamo Ergacia, Jorge Villalobos, Joe Imparato
 stillPhotographer: Duliamo Ergacia
 editor: Alis Locanta
@@ -2697,8 +2697,8 @@ title: Summer Smile
 type: movie
 site: sa
 url: https://www.sexart.com/model/chrissy-fox-and-olivia-grace/movie/20150821/SUMMER_SMILE
-cast: Chrissy Fox; https://www.sexart.com/model/chrissy-fox; g:f
-cast: Olivia Grace; https://www.sexart.com/model/olivia-grace; g:f
+model: n:Chrissy Fox; id:/model/sexart/chrissy-fox; u:https://www.sexart.com/model/chrissy-fox; g:f
+model: n:Olivia Grace; id:/model/sexart/olivia-grace; u:https://www.sexart.com/model/olivia-grace; g:f
 released: 2015-08-21
 director: Andrej Lupin
 rating: 9.3
@@ -2767,8 +2767,8 @@ title: Garden
 type: movie
 site: sa
 url: https://www.sexart.com/model/kiara-lord-and-timea-bella/movie/20150819/GARDEN
-cast: Kiara Lord; https://www.sexart.com/model/kiara-lord; g:f
-cast: Timea Bella; https://www.sexart.com/model/timea-bella; g:f
+model: n:Kiara Lord; id:/model/sexart/kiara-lord; u:https://www.sexart.com/model/kiara-lord; g:f
+model: n:Timea Bella; id:/model/sexart/timea-bella; u:https://www.sexart.com/model/timea-bella; g:f
 released: 2015-08-19
 director: Andrej Lupin
 rating: 9.2
@@ -2831,8 +2831,8 @@ title: Love For Sale Season 2 - Episode 4 - Checkmate
 type: movie
 site: sa
 url: https://www.sexart.com/model/chloe-amour-and-jay-smooth/movie/20150816/LOVE_FOR_SALE_SEASON_2_-_EPISODE_4_-_CHECKMATE
-cast: Chloe Amour; https://www.sexart.com/model/chloe-amour; g:f
-cast: Jay Smooth; https://www.sexart.com/model/jay-smooth; g:m
+model: n:Chloe Amour; id:/model/sexart/chloe-amour; u:https://www.sexart.com/model/chloe-amour; g:f
+model: n:Jay Smooth; id:/model/sexart/jay-smooth; u:https://www.sexart.com/model/jay-smooth; g:m
 released: 2015-08-16
 director: Alis Locanta
 rating: 9.1
@@ -2846,7 +2846,7 @@ runtime: 36:16
 writer: Robert L. McBride
 executiveProducer: MetArt Films
 producer: Estelle Adams
-directorPhotography: Alis Locanta
+directorOfPhotography: Alis Locanta
 cameraOperator: Jorge Villalobos, Joe Imparato, Duliamo Ergacia
 stillPhotographer: Duliamo Ergacia
 editor: Alis Locanta
@@ -2923,8 +2923,8 @@ title: Anniversary
 type: movie
 site: sa
 url: https://www.sexart.com/model/karol-lilien-and-cristal-caitlin/movie/20150814/ANNIVERSARY
-cast: Karol Lilien; https://www.sexart.com/model/karol-lilien; g:f
-cast: Cristal Caitlin; https://www.sexart.com/model/cristal-caitlin; g:f
+model: n:Karol Lilien; id:/model/sexart/karol-lilien; u:https://www.sexart.com/model/karol-lilien; g:f
+model: n:Cristal Caitlin; id:/model/sexart/cristal-caitlin; u:https://www.sexart.com/model/cristal-caitlin; g:f
 released: 2015-08-14
 director: Andrej Lupin
 rating: 9.3
@@ -2990,8 +2990,8 @@ title: Lovely Afternoon
 type: movie
 site: sa
 url: https://www.sexart.com/model/gala-brown-and-matt-ice/movie/20150812/LOVELY_AFTERNOON
-cast: Gala Brown; https://www.sexart.com/model/gala-brown; g:f
-cast: Matt Ice; https://www.sexart.com/model/matt-ice; g:m
+model: n:Gala Brown; id:/model/sexart/gala-brown; u:https://www.sexart.com/model/gala-brown; g:f
+model: n:Matt Ice; id:/model/sexart/matt-ice; u:https://www.sexart.com/model/matt-ice; g:m
 released: 2015-08-12
 director: Andrej Lupin
 rating: 9.1
@@ -3050,8 +3050,8 @@ title: Love For Sale Season 2 - Episode 3 - Soulmate
 type: movie
 site: sa
 url: https://www.sexart.com/model/whitney-westgate-and-tyler-nixon/movie/20150809/LOVE_FOR_SALE_SEASON_2_-_EPISODE_3_-_SOULMATE
-cast: Whitney Westgate; https://www.sexart.com/model/whitney-westgate; g:f
-cast: Tyler Nixon; https://www.sexart.com/model/tyler-nixon; g:m
+model: n:Whitney Westgate; id:/model/sexart/whitney-westgate; u:https://www.sexart.com/model/whitney-westgate; g:f
+model: n:Tyler Nixon; id:/model/sexart/tyler-nixon; u:https://www.sexart.com/model/tyler-nixon; g:m
 released: 2015-08-09
 director: Alis Locanta
 rating: 9.1
@@ -3065,7 +3065,7 @@ runtime: 45:08
 writer: Robert L. McBride
 executiveProducer: MetArt Films
 producer: Estelle Adams
-directorPhotography: Alis Locanta
+directorOfPhotography: Alis Locanta
 cameraOperator: Jorge Villalobos, Duliamo Ergacia, Joe Imparato
 editor: Alis Locanta
 firstAC: Foxman
@@ -3118,8 +3118,8 @@ title: Rewarded
 type: movie
 site: sa
 url: https://www.sexart.com/model/carrie-a-and-iris-amore/movie/20150807/REWARDED
-cast: Carrie A; https://www.sexart.com/model/carrie-a; g:f
-cast: Iris Amore; https://www.sexart.com/model/iris-amore; g:f
+model: n:Carrie A; id:/model/sexart/carrie-a; u:https://www.sexart.com/model/carrie-a; g:f
+model: n:Iris Amore; id:/model/sexart/iris-amore; u:https://www.sexart.com/model/iris-amore; g:f
 released: 2015-08-07
 director: Andrej Lupin
 rating: 9.0
@@ -3184,8 +3184,8 @@ title: Beauty And Slacker
 type: movie
 site: sa
 url: https://www.sexart.com/model/matt-ice-and-cristal-caitlin/movie/20150805/BEAUTY_AND_SLACKER
-cast: Matt Ice; https://www.sexart.com/model/matt-ice; g:m
-cast: Cristal Caitlin; https://www.sexart.com/model/cristal-caitlin; g:f
+model: n:Matt Ice; id:/model/sexart/matt-ice; u:https://www.sexart.com/model/matt-ice; g:m
+model: n:Cristal Caitlin; id:/model/sexart/cristal-caitlin; u:https://www.sexart.com/model/cristal-caitlin; g:f
 released: 2015-08-05
 director: Andrej Lupin
 rating: 9.3
@@ -3249,8 +3249,8 @@ title: Love For Sale Season 2 - Episode 2 - Celebration
 type: movie
 site: sa
 url: https://www.sexart.com/model/chloe-amour-and-tyler-nixon/movie/20150802/LOVE_FOR_SALE_SEASON_2_-_EPISODE_2_-_CELEBRATION
-cast: Chloe Amour; https://www.sexart.com/model/chloe-amour; g:f
-cast: Tyler Nixon; https://www.sexart.com/model/tyler-nixon; g:m
+model: n:Chloe Amour; id:/model/sexart/chloe-amour; u:https://www.sexart.com/model/chloe-amour; g:f
+model: n:Tyler Nixon; id:/model/sexart/tyler-nixon; u:https://www.sexart.com/model/tyler-nixon; g:m
 released: 2015-08-02
 director: Alis Locanta
 rating: 9.2
@@ -3264,7 +3264,7 @@ runtime: 31:21
 writer: Robert L. McBride
 executiveProducer: MetArt Films
 producer: Estelle Adams
-directorPhotography: Alis Locanta
+directorOfPhotography: Alis Locanta
 cameraOperator: Jorge Villalobos, Duliamo Ergacia, Joe Imparato
 stillPhotographer: Duliamo Ergacia
 editor: Alis Locanta
@@ -3319,8 +3319,8 @@ title: Evening Passion
 type: movie
 site: sa
 url: https://www.sexart.com/model/lindsey-olsen-and-henessy-a/movie/20150731/EVENING_PASSION
-cast: Lindsey Olsen; https://www.sexart.com/model/lindsey-olsen; g:f
-cast: Henessy A; https://www.sexart.com/model/henessy-a; g:f
+model: n:Lindsey Olsen; id:/model/sexart/lindsey-olsen; u:https://www.sexart.com/model/lindsey-olsen; g:f
+model: n:Henessy A; id:/model/sexart/henessy-a; u:https://www.sexart.com/model/henessy-a; g:f
 released: 2015-07-31
 director: Andrej Lupin
 rating: 9.5
@@ -3384,8 +3384,8 @@ title: The Movers
 type: movie
 site: sa
 url: https://www.sexart.com/model/nick-wolanski-and-linda-sweet/movie/20150729/THE_MOVERS
-cast: Nick Wolanski; https://www.sexart.com/model/nick-wolanski; g:m
-cast: Linda Sweet; https://www.sexart.com/model/linda-sweet; g:f
+model: n:Nick Wolanski; id:/model/sexart/nick-wolanski; u:https://www.sexart.com/model/nick-wolanski; g:m
+model: n:Linda Sweet; id:/model/sexart/linda-sweet; u:https://www.sexart.com/model/linda-sweet; g:f
 released: 2015-07-29
 director: Andrej Lupin
 rating: 9.2
@@ -3447,8 +3447,8 @@ title: Love For Sale Season 2 - Episode 1 - Polaris
 type: movie
 site: sa
 url: https://www.sexart.com/model/chloe-amour-and-juan-lucho/movie/20150726/LOVE_FOR_SALE_SEASON_2_-_EPISODE_1_-_POLARIS
-cast: Chloe Amour; https://www.sexart.com/model/chloe-amour; g:f
-cast: Juan Lucho; https://www.sexart.com/model/juan-lucho; g:m
+model: n:Chloe Amour; id:/model/sexart/chloe-amour; u:https://www.sexart.com/model/chloe-amour; g:f
+model: n:Juan Lucho; id:/model/sexart/juan-lucho; u:https://www.sexart.com/model/juan-lucho; g:m
 released: 2015-07-26
 director: Alis Locanta
 rating: 9.0
@@ -3462,7 +3462,7 @@ runtime: 25:14
 writer: Robert L. McBride
 executiveProducer: MetArt Films
 producer: Estelle Adams
-directorPhotography: Alis Locanta
+directorOfPhotography: Alis Locanta
 cameraOperator: Joe Imparato, Jorge Villalobos, Duliamo Ergacia
 stillPhotographer: Duliamo Ergacia
 editor: Alis Locanta
@@ -3517,8 +3517,8 @@ title: Bath Tease
 type: movie
 site: sa
 url: https://www.sexart.com/model/naomi-nevena-and-gala-brown/movie/20150724/BATH_TEASE
-cast: Naomi Nevena; https://www.sexart.com/model/naomi-nevena; g:f
-cast: Gala Brown; https://www.sexart.com/model/gala-brown; g:f
+model: n:Naomi Nevena; id:/model/sexart/naomi-nevena; u:https://www.sexart.com/model/naomi-nevena; g:f
+model: n:Gala Brown; id:/model/sexart/gala-brown; u:https://www.sexart.com/model/gala-brown; g:f
 released: 2015-07-24
 director: Andrej Lupin
 rating: 9.2
@@ -3588,8 +3588,8 @@ title: The Morning After
 type: movie
 site: sa
 url: https://www.sexart.com/model/alexa-tomas-and-joel-tomas/movie/20150722/THE_MORNING_AFTER
-cast: Alexa Tomas; https://www.sexart.com/model/alexa-tomas; g:f
-cast: Joel Tomas; https://www.sexart.com/model/joel-tomas; g:m
+model: n:Alexa Tomas; id:/model/sexart/alexa-tomas; u:https://www.sexart.com/model/alexa-tomas; g:f
+model: n:Joel Tomas; id:/model/sexart/joel-tomas; u:https://www.sexart.com/model/joel-tomas; g:m
 released: 2015-07-22
 director: Alis Locanta
 rating: 9.3
@@ -3602,7 +3602,7 @@ description: Having appeared in 11 HD erotic feature films to date, Alexa Tomas 
 runtime: 22:22
 executiveProducer: MetArt Films
 producer: Estelle Adams
-directorPhotography: Alis Locanta
+directorOfPhotography: Alis Locanta
 cameraOperator: Alis Locanta, Duliamo Ergacia
 editor: Alis Locanta
 costumeDesigner: Eva Dividendo
@@ -3653,8 +3653,8 @@ title: Female Power
 type: movie
 site: sa
 url: https://www.sexart.com/model/antonia-sainz-and-matt-ice/movie/20150719/FEMALE_POWER
-cast: Antonia Sainz; https://www.sexart.com/model/antonia-sainz; g:f
-cast: Matt Ice; https://www.sexart.com/model/matt-ice; g:m
+model: n:Antonia Sainz; id:/model/sexart/antonia-sainz; u:https://www.sexart.com/model/antonia-sainz; g:f
+model: n:Matt Ice; id:/model/sexart/matt-ice; u:https://www.sexart.com/model/matt-ice; g:m
 released: 2015-07-19
 director: Andrej Lupin
 rating: 9.3
@@ -3710,8 +3710,8 @@ title: Arguments
 type: movie
 site: sa
 url: https://www.sexart.com/model/nataly-von-and-kiara-lord/movie/20150717/ARGUMENTS
-cast: Nataly Von; https://www.sexart.com/model/nataly-von; g:f
-cast: Kiara Lord; https://www.sexart.com/model/kiara-lord; g:f
+model: n:Nataly Von; id:/model/sexart/nataly-von; u:https://www.sexart.com/model/nataly-von; g:f
+model: n:Kiara Lord; id:/model/sexart/kiara-lord; u:https://www.sexart.com/model/kiara-lord; g:f
 released: 2015-07-17
 director: Andrej Lupin
 rating: 9.4
@@ -3765,8 +3765,8 @@ title: Espuma De Mar
 type: movie
 site: sa
 url: https://www.sexart.com/model/rosaline-rosa-and-nick-wolanski/movie/20150715/ESPUMA_DE_MAR
-cast: Rosaline Rosa; https://www.sexart.com/model/rosaline-rosa; g:f
-cast: Nick Wolanski; https://www.sexart.com/model/nick-wolanski; g:m
+model: n:Rosaline Rosa; id:/model/sexart/rosaline-rosa; u:https://www.sexart.com/model/rosaline-rosa; g:f
+model: n:Nick Wolanski; id:/model/sexart/nick-wolanski; u:https://www.sexart.com/model/nick-wolanski; g:m
 released: 2015-07-15
 director: Andrej Lupin
 rating: 9.0
@@ -3825,8 +3825,8 @@ title: In Love
 type: movie
 site: sa
 url: https://www.sexart.com/model/iris-amore-and-erik-evil/movie/20150712/IN_LOVE
-cast: Iris Amore; https://www.sexart.com/model/iris-amore; g:f
-cast: Erik Evil; https://www.sexart.com/model/erik-evil; g:m
+model: n:Iris Amore; id:/model/sexart/iris-amore; u:https://www.sexart.com/model/iris-amore; g:f
+model: n:Erik Evil; id:/model/sexart/erik-evil; u:https://www.sexart.com/model/erik-evil; g:m
 released: 2015-07-12
 director: Andrej Lupin
 rating: 9.0
@@ -3879,8 +3879,8 @@ title: Romance
 type: movie
 site: sa
 url: https://www.sexart.com/model/lucy-li-and-anna-rose/movie/20150710/ROMANCE
-cast: Lucy Li; https://www.sexart.com/model/lucy-li; g:f
-cast: Anna Rose; https://www.sexart.com/model/anna-rose; g:f
+model: n:Lucy Li; id:/model/sexart/lucy-li; u:https://www.sexart.com/model/lucy-li; g:f
+model: n:Anna Rose; id:/model/sexart/anna-rose; u:https://www.sexart.com/model/anna-rose; g:f
 released: 2015-07-10
 director: Andrej Lupin
 rating: 9.5
@@ -3944,8 +3944,8 @@ title: Pour Toi Mon Amour 3
 type: movie
 site: sa
 url: https://www.sexart.com/model/alexa-tomas-and-anissa-kate/movie/20150708/POUR_TOI_MON_AMOUR_3
-cast: Alexa Tomas; https://www.sexart.com/model/alexa-tomas; g:f
-cast: Anissa Kate; https://www.sexart.com/model/anissa-kate; g:f
+model: n:Alexa Tomas; id:/model/sexart/alexa-tomas; u:https://www.sexart.com/model/alexa-tomas; g:f
+model: n:Anissa Kate; id:/model/sexart/anissa-kate; u:https://www.sexart.com/model/anissa-kate; g:f
 released: 2015-07-08
 director: Alis Locanta
 rating: 9.3
@@ -3959,7 +3959,7 @@ runtime: 21:54
 writer: Alis Locanta
 executiveProducer: MetArt Films
 producer: Estelle Adams
-directorPhotography: Alis Locanta
+directorOfPhotography: Alis Locanta
 cameraOperator: Jorge Villalobos, Duliamo Ergacia
 editor: Alis Locanta
 costumeDesigner: Eva Dividendo
@@ -4013,8 +4013,8 @@ title: Game At The Moment Part 3
 type: movie
 site: sa
 url: https://www.sexart.com/model/gina-gerson-and-linda-sweet/movie/20150705/GAME_AT_THE_MOMENT_PART_3
-cast: Gina Gerson; https://www.sexart.com/model/gina-gerson; g:f
-cast: Linda Sweet; https://www.sexart.com/model/linda-sweet; g:f
+model: n:Gina Gerson; id:/model/sexart/gina-gerson; u:https://www.sexart.com/model/gina-gerson; g:f
+model: n:Linda Sweet; id:/model/sexart/linda-sweet; u:https://www.sexart.com/model/linda-sweet; g:f
 released: 2015-07-05
 director: Andrej Lupin
 rating: 9.5
@@ -4085,8 +4085,8 @@ title: Perceive
 type: movie
 site: sa
 url: https://www.sexart.com/model/blue-angel-and-chelsea-sun/movie/20150703/PERCEIVE
-cast: Blue Angel; https://www.sexart.com/model/blue-angel; g:f
-cast: Chelsea Sun; https://www.sexart.com/model/chelsea-sun; g:f
+model: n:Blue Angel; id:/model/sexart/blue-angel; u:https://www.sexart.com/model/blue-angel; g:f
+model: n:Chelsea Sun; id:/model/sexart/chelsea-sun; u:https://www.sexart.com/model/chelsea-sun; g:f
 released: 2015-07-03
 director: Andrej Lupin
 rating: 9.3
@@ -4146,8 +4146,8 @@ title: Waiting For You
 type: movie
 site: sa
 url: https://www.sexart.com/model/whitney-conroy-and-margot-a/movie/20150701/WAITING_FOR_YOU
-cast: Whitney Conroy; https://www.sexart.com/model/whitney-conroy; g:f
-cast: Margot A; https://www.sexart.com/model/margot-a; g:f
+model: n:Whitney Conroy; id:/model/sexart/whitney-conroy; u:https://www.sexart.com/model/whitney-conroy; g:f
+model: n:Margot A; id:/model/sexart/margot-a; u:https://www.sexart.com/model/margot-a; g:f
 released: 2015-07-01
 director: Andrej Lupin
 rating: 9.4
@@ -4212,8 +4212,8 @@ title: Game At The Moment Part 2
 type: movie
 site: sa
 url: https://www.sexart.com/model/kristof-cale-and-kari-a/movie/20150628/GAME_AT_THE_MOMENT_PART_2
-cast: Kristof Cale; https://www.sexart.com/model/kristof-cale; g:m
-cast: Kari A; https://www.sexart.com/model/kari-a; g:f
+model: n:Kristof Cale; id:/model/sexart/kristof-cale; u:https://www.sexart.com/model/kristof-cale; g:m
+model: n:Kari A; id:/model/sexart/kari-a; u:https://www.sexart.com/model/kari-a; g:f
 released: 2015-06-28
 director: Andrej Lupin
 rating: 9.2
@@ -4279,8 +4279,8 @@ title: The Vintage Collection - The Photographer II
 type: movie
 site: sa
 url: https://www.sexart.com/model/antonia-sainz-and-meggie-marika/movie/20150626/THE_VINTAGE_COLLECTION_-_THE_PHOTOGRAPHER_II
-cast: Antonia Sainz; https://www.sexart.com/model/antonia-sainz; g:f
-cast: Meggie Marika; https://www.sexart.com/model/meggie-marika; g:f
+model: n:Antonia Sainz; id:/model/sexart/antonia-sainz; u:https://www.sexart.com/model/antonia-sainz; g:f
+model: n:Meggie Marika; id:/model/sexart/meggie-marika; u:https://www.sexart.com/model/meggie-marika; g:f
 released: 2015-06-26
 director: Andrej Lupin
 rating: 9.4
@@ -4346,8 +4346,8 @@ title: Gold Card
 type: movie
 site: sa
 url: https://www.sexart.com/model/anna-rose-and-maxmilian-dior/movie/20150624/GOLD_CARD
-cast: Anna Rose; https://www.sexart.com/model/anna-rose; g:f
-cast: Maxmilian Dior; https://www.sexart.com/model/maxmilian-dior; g:m
+model: n:Anna Rose; id:/model/sexart/anna-rose; u:https://www.sexart.com/model/anna-rose; g:f
+model: n:Maxmilian Dior; id:/model/sexart/maxmilian-dior; u:https://www.sexart.com/model/maxmilian-dior; g:m
 released: 2015-06-24
 director: Andrej Lupin
 rating: 9.2
@@ -4404,8 +4404,8 @@ title: Game At The Moment Part 1
 type: movie
 site: sa
 url: https://www.sexart.com/model/gina-gerson-and-nick-wolanski/movie/20150621/GAME_AT_THE_MOMENT_PART_1
-cast: Gina Gerson; https://www.sexart.com/model/gina-gerson; g:f
-cast: Nick Wolanski; https://www.sexart.com/model/nick-wolanski; g:m
+model: n:Gina Gerson; id:/model/sexart/gina-gerson; u:https://www.sexart.com/model/gina-gerson; g:f
+model: n:Nick Wolanski; id:/model/sexart/nick-wolanski; u:https://www.sexart.com/model/nick-wolanski; g:m
 released: 2015-06-21
 director: Andrej Lupin
 rating: 9.2
@@ -4469,8 +4469,8 @@ title: Next Station
 type: movie
 site: sa
 url: https://www.sexart.com/model/henessy-a-and-nataly-gold/movie/20150619/NEXT_STATION
-cast: Henessy A; https://www.sexart.com/model/henessy-a; g:f
-cast: Nataly Gold; https://www.sexart.com/model/nataly-gold; g:f
+model: n:Henessy A; id:/model/sexart/henessy-a; u:https://www.sexart.com/model/henessy-a; g:f
+model: n:Nataly Gold; id:/model/sexart/nataly-gold; u:https://www.sexart.com/model/nataly-gold; g:f
 released: 2015-06-19
 director: Andrej Lupin
 rating: 9.2
@@ -4531,8 +4531,8 @@ title: A Glance
 type: movie
 site: sa
 url: https://www.sexart.com/model/lady-pinkdot-and-nicol-vice/movie/20150617/A_GLANCE
-cast: Lady Pinkdot; https://www.sexart.com/model/lady-pinkdot; g:f
-cast: Nicol Vice; https://www.sexart.com/model/nicol-vice; g:f
+model: n:Lady Pinkdot; id:/model/sexart/lady-pinkdot; u:https://www.sexart.com/model/lady-pinkdot; g:f
+model: n:Nicol Vice; id:/model/sexart/nicol-vice; u:https://www.sexart.com/model/nicol-vice; g:f
 released: 2015-06-17
 director: Andrej Lupin
 rating: 9.2
@@ -4586,8 +4586,8 @@ title: Hotel Episode 2 - Deja Vu
 type: movie
 site: sa
 url: https://www.sexart.com/model/nataly-von-and-matt-ice/movie/20150614/HOTEL_EPISODE_2_-_DEJA_VU
-cast: Nataly Von; https://www.sexart.com/model/nataly-von; g:f
-cast: Matt Ice; https://www.sexart.com/model/matt-ice; g:m
+model: n:Nataly Von; id:/model/sexart/nataly-von; u:https://www.sexart.com/model/nataly-von; g:f
+model: n:Matt Ice; id:/model/sexart/matt-ice; u:https://www.sexart.com/model/matt-ice; g:m
 released: 2015-06-14
 director: Andrej Lupin
 rating: 9.1
@@ -4650,8 +4650,8 @@ title: Cumpleanos Feliz
 type: movie
 site: sa
 url: https://www.sexart.com/model/julia-roca-and-alexa-tomas/movie/20150612/CUMPLEANOS_FELIZ
-cast: Julia Roca; https://www.sexart.com/model/julia-roca; g:f
-cast: Alexa Tomas; https://www.sexart.com/model/alexa-tomas; g:f
+model: n:Julia Roca; id:/model/sexart/julia-roca; u:https://www.sexart.com/model/julia-roca; g:f
+model: n:Alexa Tomas; id:/model/sexart/alexa-tomas; u:https://www.sexart.com/model/alexa-tomas; g:f
 released: 2015-06-12
 director: Alis Locanta
 rating: 9.4
@@ -4664,7 +4664,7 @@ description: In Alis Locanta’s 4K feature "Cumpleaños Feliz" the birthday gir
 runtime: 20:30
 writer: Alis Locanta
 producer: Estelle Adams
-directorPhotography: Alis Locanta
+directorOfPhotography: Alis Locanta
 cinematographer: Alis Locanta
 cameraOperator: Duliamo Ergacia
 stillPhotographer: Duliamo Ergacia
@@ -4713,8 +4713,8 @@ title: Second Chance
 type: movie
 site: sa
 url: https://www.sexart.com/model/nick-ross-and-lady-dee/movie/20150610/SECOND_CHANCE
-cast: Nick Ross; https://www.sexart.com/model/nick-ross; g:m
-cast: Lady Dee; https://www.sexart.com/model/lady-dee; g:f
+model: n:Nick Ross; id:/model/sexart/nick-ross; u:https://www.sexart.com/model/nick-ross; g:m
+model: n:Lady Dee; id:/model/sexart/lady-dee; u:https://www.sexart.com/model/lady-dee; g:f
 released: 2015-06-10
 director: Andrej Lupin
 rating: 9.1
@@ -4776,8 +4776,8 @@ title: Bounce
 type: movie
 site: sa
 url: https://www.sexart.com/model/amarna-miller-and-kristof-cale/movie/20150607/BOUNCE
-cast: Amarna Miller; https://www.sexart.com/model/amarna-miller; g:f
-cast: Kristof Cale; https://www.sexart.com/model/kristof-cale; g:m
+model: n:Amarna Miller; id:/model/sexart/amarna-miller; u:https://www.sexart.com/model/amarna-miller; g:f
+model: n:Kristof Cale; id:/model/sexart/kristof-cale; u:https://www.sexart.com/model/kristof-cale; g:m
 released: 2015-06-07
 director: Andrej Lupin
 rating: 9.3
@@ -4835,8 +4835,8 @@ title: Hotel Episode 1 - Accommodation
 type: movie
 site: sa
 url: https://www.sexart.com/model/chelsea-sun-and-nataly-von/movie/20150605/HOTEL_EPISODE_1_-_ACCOMMODATION
-cast: Chelsea Sun; https://www.sexart.com/model/chelsea-sun; g:f
-cast: Nataly Von; https://www.sexart.com/model/nataly-von; g:f
+model: n:Chelsea Sun; id:/model/sexart/chelsea-sun; u:https://www.sexart.com/model/chelsea-sun; g:f
+model: n:Nataly Von; id:/model/sexart/nataly-von; u:https://www.sexart.com/model/nataly-von; g:f
 released: 2015-06-05
 director: Andrej Lupin
 rating: 9.3
@@ -4898,8 +4898,8 @@ title: Unexpected Photo
 type: movie
 site: sa
 url: https://www.sexart.com/model/naomi-nevena-and-cristal-caitlin/movie/20150603/UNEXPECTED_PHOTO
-cast: Naomi Nevena; https://www.sexart.com/model/naomi-nevena; g:f
-cast: Cristal Caitlin; https://www.sexart.com/model/cristal-caitlin; g:f
+model: n:Naomi Nevena; id:/model/sexart/naomi-nevena; u:https://www.sexart.com/model/naomi-nevena; g:f
+model: n:Cristal Caitlin; id:/model/sexart/cristal-caitlin; u:https://www.sexart.com/model/cristal-caitlin; g:f
 released: 2015-06-03
 director: Andrej Lupin
 rating: 9.3
@@ -4970,8 +4970,8 @@ title: Last Guest
 type: movie
 site: sa
 url: https://www.sexart.com/model/johny-d-and-iwia-a/movie/20150531/LAST_GUEST
-cast: Johny D; https://www.sexart.com/model/johny-d; g:m
-cast: Iwia A; https://www.sexart.com/model/iwia-a; g:f
+model: n:Johny D; id:/model/sexart/johny-d; u:https://www.sexart.com/model/johny-d; g:m
+model: n:Iwia A; id:/model/sexart/iwia-a; u:https://www.sexart.com/model/iwia-a; g:f
 released: 2015-05-31
 director: Andrej Lupin
 rating: 9.4
@@ -5039,8 +5039,8 @@ title: Horizont II
 type: movie
 site: sa
 url: https://www.sexart.com/model/amarna-miller-and-linda-sweet/movie/20150529/HORIZONT_II
-cast: Amarna Miller; https://www.sexart.com/model/amarna-miller; g:f
-cast: Linda Sweet; https://www.sexart.com/model/linda-sweet; g:f
+model: n:Amarna Miller; id:/model/sexart/amarna-miller; u:https://www.sexart.com/model/amarna-miller; g:f
+model: n:Linda Sweet; id:/model/sexart/linda-sweet; u:https://www.sexart.com/model/linda-sweet; g:f
 released: 2015-05-29
 director: Andrej Lupin
 rating: 9.4
@@ -5103,8 +5103,8 @@ title: A Rainy Afternoon
 type: movie
 site: sa
 url: https://www.sexart.com/model/layla-sin-and-whitney-westgate/movie/20150527/A_RAINY_AFTERNOON
-cast: Layla Sin; https://www.sexart.com/model/layla-sin; g:f
-cast: Whitney Westgate; https://www.sexart.com/model/whitney-westgate; g:f
+model: n:Layla Sin; id:/model/sexart/layla-sin; u:https://www.sexart.com/model/layla-sin; g:f
+model: n:Whitney Westgate; id:/model/sexart/whitney-westgate; u:https://www.sexart.com/model/whitney-westgate; g:f
 released: 2015-05-27
 director: Alis Locanta
 rating: 9.1
@@ -5118,7 +5118,7 @@ runtime: 17:53
 writer: Alis Locanta
 executiveProducer: MetArt Films
 producer: Estelle Adams
-directorPhotography: Alis Locanta
+directorOfPhotography: Alis Locanta
 cameraOperator: Jorge Villalobos, Duliamo Ergacia
 editor: Alis Locanta
 costumeDesigner: Eva Dividendo
@@ -5169,8 +5169,8 @@ title: J&J
 type: movie
 site: sa
 url: https://www.sexart.com/model/juan-lucho-and-julia-roca/movie/20150524/J&J
-cast: Juan Lucho; https://www.sexart.com/model/juan-lucho; g:m
-cast: Julia Roca; https://www.sexart.com/model/julia-roca; g:f
+model: n:Juan Lucho; id:/model/sexart/juan-lucho; u:https://www.sexart.com/model/juan-lucho; g:m
+model: n:Julia Roca; id:/model/sexart/julia-roca; u:https://www.sexart.com/model/julia-roca; g:f
 released: 2015-05-24
 director: Alis Locanta
 rating: 9.3
@@ -5184,7 +5184,7 @@ runtime: 24:50
 writer: Alis Locanta
 executiveProducer: MetArt Films
 producer: Estelle Adams
-directorPhotography: Alis Locanta
+directorOfPhotography: Alis Locanta
 cameraOperator: Jorge Villalobos, Duliamo Ergacia
 editor: Alis Locanta
 costumeDesigner: Eva Dividendo
@@ -5243,8 +5243,8 @@ title: The Heat 3
 type: movie
 site: sa
 url: https://www.sexart.com/model/alexa-tomas-and-tracy-lindsay/movie/20150522/THE_HEAT_3
-cast: Alexa Tomas; https://www.sexart.com/model/alexa-tomas; g:f
-cast: Tracy Lindsay; https://www.sexart.com/model/tracy-lindsay; g:f
+model: n:Alexa Tomas; id:/model/sexart/alexa-tomas; u:https://www.sexart.com/model/alexa-tomas; g:f
+model: n:Tracy Lindsay; id:/model/sexart/tracy-lindsay; u:https://www.sexart.com/model/tracy-lindsay; g:f
 released: 2015-05-22
 director: Alis Locanta
 rating: 9.4
@@ -5258,7 +5258,7 @@ runtime: 25:52
 writer: Alis Locanta
 executiveProducer: MetArt Films
 producer: Estelle Adams
-directorPhotography: Alis Locanta
+directorOfPhotography: Alis Locanta
 cameraOperator: Duliamo Ergacia, Jorge Villalobos
 costumeDesigner: Eva Dividendo
 makeupArtist: Rita Rola
@@ -5321,7 +5321,7 @@ title: Reminiscence
 type: movie
 site: sa
 url: https://www.sexart.com/model/michaela-isizzu/movie/20150520/REMINISCENCE
-cast: Michaela Isizzu; https://www.sexart.com/model/michaela-isizzu; g:f
+model: n:Michaela Isizzu; id:/model/sexart/michaela-isizzu; u:https://www.sexart.com/model/michaela-isizzu; g:f
 released: 2015-05-20
 director: Andrej Lupin
 rating: 9.6
@@ -5376,8 +5376,8 @@ title: Campus Episode III - Secret Guest
 type: movie
 site: sa
 url: https://www.sexart.com/model/tim-bauer-and-tracy-smile/movie/20150517/CAMPUS_EPISODE_III_-_SECRET_GUEST
-cast: Tim Bauer; https://www.sexart.com/model/tim-bauer; g:m
-cast: Tracy Smile; https://www.sexart.com/model/tracy-smile; g:f
+model: n:Tim Bauer; id:/model/sexart/tim-bauer; u:https://www.sexart.com/model/tim-bauer; g:m
+model: n:Tracy Smile; id:/model/sexart/tracy-smile; u:https://www.sexart.com/model/tracy-smile; g:f
 released: 2015-05-17
 director: Andrej Lupin
 rating: 9.2
@@ -5446,8 +5446,8 @@ title: Invitation
 type: movie
 site: sa
 url: https://www.sexart.com/model/karol-lilien-and-gala-brown/movie/20150515/INVITATION
-cast: Karol Lilien; https://www.sexart.com/model/karol-lilien; g:f
-cast: Gala Brown; https://www.sexart.com/model/gala-brown; g:f
+model: n:Karol Lilien; id:/model/sexart/karol-lilien; u:https://www.sexart.com/model/karol-lilien; g:f
+model: n:Gala Brown; id:/model/sexart/gala-brown; u:https://www.sexart.com/model/gala-brown; g:f
 released: 2015-05-15
 director: Andrej Lupin
 rating: 9.2
@@ -5528,8 +5528,8 @@ title: Rejoice
 type: movie
 site: sa
 url: https://www.sexart.com/model/matt-ice-and-kiara-lord/movie/20150513/REJOICE
-cast: Matt Ice; https://www.sexart.com/model/matt-ice; g:m
-cast: Kiara Lord; https://www.sexart.com/model/kiara-lord; g:f
+model: n:Matt Ice; id:/model/sexart/matt-ice; u:https://www.sexart.com/model/matt-ice; g:m
+model: n:Kiara Lord; id:/model/sexart/kiara-lord; u:https://www.sexart.com/model/kiara-lord; g:f
 released: 2015-05-13
 director: Andrej Lupin
 rating: 9.2
@@ -5595,8 +5595,8 @@ title: Campus Episode II - Living Here
 type: movie
 site: sa
 url: https://www.sexart.com/model/tracy-smile-and-roxy-mendez/movie/20150510/CAMPUS_EPISODE_II_-_LIVING_HERE
-cast: Tracy Smile; https://www.sexart.com/model/tracy-smile; g:f
-cast: Roxy Mendez; https://www.sexart.com/model/roxy-mendez; g:f
+model: n:Tracy Smile; id:/model/sexart/tracy-smile; u:https://www.sexart.com/model/tracy-smile; g:f
+model: n:Roxy Mendez; id:/model/sexart/roxy-mendez; u:https://www.sexart.com/model/roxy-mendez; g:f
 released: 2015-05-10
 director: Andrej Lupin
 rating: 9.3
@@ -5670,8 +5670,8 @@ title: I've Been Missing U
 type: movie
 site: sa
 url: https://www.sexart.com/model/ariel-rebel-and-anissa-kate/movie/20150508/I_VE_BEEN_MISSING_U
-cast: Ariel Rebel; https://www.sexart.com/model/ariel-rebel; g:f
-cast: Anissa Kate; https://www.sexart.com/model/anissa-kate; g:f
+model: n:Ariel Rebel; id:/model/sexart/ariel-rebel; u:https://www.sexart.com/model/ariel-rebel; g:f
+model: n:Anissa Kate; id:/model/sexart/anissa-kate; u:https://www.sexart.com/model/anissa-kate; g:f
 released: 2015-05-08
 director: Alis Locanta
 rating: 9.3
@@ -5684,7 +5684,7 @@ description: Although he has countless technical, creative, and stylistic tools 
 runtime: 19:03
 writer: Alis Locanta
 executiveProducer: MetArt Films
-directorPhotography: Alis Locanta
+directorOfPhotography: Alis Locanta
 cameraOperator: Duliamo Ergacia, Jorge Villalobos
 editor: Alis Locanta
 costumeDesigner: Eva Dividendo
@@ -5745,8 +5745,8 @@ title: Masseur
 type: movie
 site: sa
 url: https://www.sexart.com/model/erika-black-and-matt-ice/movie/20150506/MASSEUR
-cast: Erika Black; https://www.sexart.com/model/erika-black; g:f
-cast: Matt Ice; https://www.sexart.com/model/matt-ice; g:m
+model: n:Erika Black; id:/model/sexart/erika-black; u:https://www.sexart.com/model/erika-black; g:f
+model: n:Matt Ice; id:/model/sexart/matt-ice; u:https://www.sexart.com/model/matt-ice; g:m
 released: 2015-05-06
 director: Andrej Lupin
 rating: 9.2
@@ -5808,8 +5808,8 @@ title: Campus Episode I - Semester Begins
 type: movie
 site: sa
 url: https://www.sexart.com/model/roxy-mendez-and-candy-sweet/movie/20150503/CAMPUS_EPISODE_I_-_SEMESTER_BEGINS
-cast: Roxy Mendez; https://www.sexart.com/model/roxy-mendez; g:f
-cast: Candy Sweet; https://www.sexart.com/model/candy-sweet; g:f
+model: n:Roxy Mendez; id:/model/sexart/roxy-mendez; u:https://www.sexart.com/model/roxy-mendez; g:f
+model: n:Candy Sweet; id:/model/sexart/candy-sweet; u:https://www.sexart.com/model/candy-sweet; g:f
 released: 2015-05-03
 director: Andrej Lupin
 rating: 9.2
@@ -5897,8 +5897,8 @@ title: Broken
 type: movie
 site: sa
 url: https://www.sexart.com/model/carrie-a-and-vanessa-decker/movie/20150501/BROKEN
-cast: Carrie A; https://www.sexart.com/model/carrie-a; g:f
-cast: Vanessa Decker; https://www.sexart.com/model/vanessa-decker; g:f
+model: n:Carrie A; id:/model/sexart/carrie-a; u:https://www.sexart.com/model/carrie-a; g:f
+model: n:Vanessa Decker; id:/model/sexart/vanessa-decker; u:https://www.sexart.com/model/vanessa-decker; g:f
 released: 2015-05-01
 director: Andrej Lupin
 rating: 9.2
@@ -5967,8 +5967,8 @@ title: Fallen
 type: movie
 site: sa
 url: https://www.sexart.com/model/kristof-cale-and-rosaline-rosa/movie/20150429/FALLEN
-cast: Kristof Cale; https://www.sexart.com/model/kristof-cale; g:m
-cast: Rosaline Rosa; https://www.sexart.com/model/rosaline-rosa; g:f
+model: n:Kristof Cale; id:/model/sexart/kristof-cale; u:https://www.sexart.com/model/kristof-cale; g:m
+model: n:Rosaline Rosa; id:/model/sexart/rosaline-rosa; u:https://www.sexart.com/model/rosaline-rosa; g:f
 released: 2015-04-29
 director: Andrej Lupin
 rating: 9.3
@@ -6025,8 +6025,8 @@ title: Parole Parole Parole
 type: movie
 site: sa
 url: https://www.sexart.com/model/amarna-miller-and-franck-franco/movie/20150426/PAROLE_PAROLE_PAROLE
-cast: Amarna Miller; https://www.sexart.com/model/amarna-miller; g:f
-cast: Franck Franco; https://www.sexart.com/model/franck-franco; g:m
+model: n:Amarna Miller; id:/model/sexart/amarna-miller; u:https://www.sexart.com/model/amarna-miller; g:f
+model: n:Franck Franco; id:/model/sexart/franck-franco; u:https://www.sexart.com/model/franck-franco; g:m
 released: 2015-04-26
 director: Alis Locanta
 rating: 9.3
@@ -6040,7 +6040,7 @@ runtime: 21:07
 writer: Alis Locanta
 executiveProducer: MetArt Films
 producer: Estelle Adams
-directorPhotography: Alis Locanta
+directorOfPhotography: Alis Locanta
 cameraOperator: Jorge Villalobos, Duliamo Ergacia
 editor: Alis Locanta
 costumeDesigner: Eva Dividendo
@@ -6099,8 +6099,8 @@ title: Sunset On Charles Bridge
 type: movie
 site: sa
 url: https://www.sexart.com/model/vanessa-staylon-and-angella-christin/movie/20150424/SUNSET_ON_CHARLES_BRIDGE
-cast: Vanessa Staylon; https://www.sexart.com/model/vanessa-staylon; g:f
-cast: Angella Christin; https://www.sexart.com/model/angella-christin; g:f
+model: n:Vanessa Staylon; id:/model/sexart/vanessa-staylon; u:https://www.sexart.com/model/vanessa-staylon; g:f
+model: n:Angella Christin; id:/model/sexart/angella-christin; u:https://www.sexart.com/model/angella-christin; g:f
 released: 2015-04-24
 director: Andrej Lupin
 rating: 9.3
@@ -6169,9 +6169,9 @@ title: Skyline
 type: movie
 site: sa
 url: https://www.sexart.com/model/kristof-cale-and-linda-sweet-and-gina-gerson/movie/20150422/SKYLINE
-cast: Kristof Cale; https://www.sexart.com/model/kristof-cale; g:m
-cast: Linda Sweet; https://www.sexart.com/model/linda-sweet; g:f
-cast: Gina Gerson; https://www.sexart.com/model/gina-gerson; g:f
+model: n:Kristof Cale; id:/model/sexart/kristof-cale; u:https://www.sexart.com/model/kristof-cale; g:m
+model: n:Linda Sweet; id:/model/sexart/linda-sweet; u:https://www.sexart.com/model/linda-sweet; g:f
+model: n:Gina Gerson; id:/model/sexart/gina-gerson; u:https://www.sexart.com/model/gina-gerson; g:f
 released: 2015-04-22
 director: Andrej Lupin
 rating: 9.4
@@ -6256,8 +6256,8 @@ title: Lost in a Dream Volume 7
 type: movie
 site: sa
 url: https://www.sexart.com/model/joel-tomas-and-julia-roca/movie/20150419/LOST_IN_A_DREAM_VOLUME_7
-cast: Joel Tomas; https://www.sexart.com/model/joel-tomas; g:m
-cast: Julia Roca; https://www.sexart.com/model/julia-roca; g:f
+model: n:Joel Tomas; id:/model/sexart/joel-tomas; u:https://www.sexart.com/model/joel-tomas; g:m
+model: n:Julia Roca; id:/model/sexart/julia-roca; u:https://www.sexart.com/model/julia-roca; g:f
 released: 2015-04-19
 director: Alis Locanta
 rating: 9.2
@@ -6271,7 +6271,7 @@ runtime: 23:24
 writer: Alis Locanta
 executiveProducer: MetArt Films
 producer: Estelle Adams
-directorPhotography: Alis Locanta
+directorOfPhotography: Alis Locanta
 cameraOperator: Duliamo Ergacia, Jorge Villalobos
 editor: Alis Locanta
 costumeDesigner: Eva Dividendo
@@ -6326,8 +6326,8 @@ title: Just Touch Me
 type: movie
 site: sa
 url: https://www.sexart.com/model/whitney-westgate-and-chloe-amour/movie/20150417/JUST_TOUCH_ME
-cast: Whitney Westgate; https://www.sexart.com/model/whitney-westgate; g:f
-cast: Chloe Amour; https://www.sexart.com/model/chloe-amour; g:f
+model: n:Whitney Westgate; id:/model/sexart/whitney-westgate; u:https://www.sexart.com/model/whitney-westgate; g:f
+model: n:Chloe Amour; id:/model/sexart/chloe-amour; u:https://www.sexart.com/model/chloe-amour; g:f
 released: 2015-04-17
 director: Alis Locanta
 rating: 9.2
@@ -6341,7 +6341,7 @@ runtime: 19:06
 writer: Alis Locanta
 executiveProducer: MetArt Films
 producer: Estelle Adams
-directorPhotography: Alis Locanta
+directorOfPhotography: Alis Locanta
 cameraOperator: Duliamo Ergacia, Jorge Villalobos
 editor: Alis Locanta
 costumeDesigner: Eva Dividendo
@@ -6397,8 +6397,8 @@ title: Lost and Found
 type: movie
 site: sa
 url: https://www.sexart.com/model/karol-lilien-and-naomi-nevena/movie/20150415/LOST_AND_FOUND
-cast: Karol Lilien; https://www.sexart.com/model/karol-lilien; g:f
-cast: Naomi Nevena; https://www.sexart.com/model/naomi-nevena; g:f
+model: n:Karol Lilien; id:/model/sexart/karol-lilien; u:https://www.sexart.com/model/karol-lilien; g:f
+model: n:Naomi Nevena; id:/model/sexart/naomi-nevena; u:https://www.sexart.com/model/naomi-nevena; g:f
 released: 2015-04-15
 director: Andrej Lupin
 rating: 9.4
@@ -6472,8 +6472,8 @@ title: Possessione 2
 type: movie
 site: sa
 url: https://www.sexart.com/model/franck-franco-and-alexa-tomas/movie/20150412/POSSESSIONE_2
-cast: Franck Franco; https://www.sexart.com/model/franck-franco; g:m
-cast: Alexa Tomas; https://www.sexart.com/model/alexa-tomas; g:f
+model: n:Franck Franco; id:/model/sexart/franck-franco; u:https://www.sexart.com/model/franck-franco; g:m
+model: n:Alexa Tomas; id:/model/sexart/alexa-tomas; u:https://www.sexart.com/model/alexa-tomas; g:f
 released: 2015-04-12
 director: Alis Locanta
 rating: 9.3
@@ -6487,7 +6487,7 @@ runtime: 20:34
 writer: Alis Locanta
 executiveProducer: MetArt Films
 producer: Estelle Adams
-directorPhotography: Alis Locanta
+directorOfPhotography: Alis Locanta
 cameraOperator: Duliamo Ergacia, Jorge Villalobos
 editor: Alis Locanta
 costumeDesigner: Eva Dividendo
@@ -6550,8 +6550,8 @@ title: Chef
 type: movie
 site: sa
 url: https://www.sexart.com/model/linda-sweet-and-kari-a/movie/20150410/CHEF
-cast: Linda Sweet; https://www.sexart.com/model/linda-sweet; g:f
-cast: Kari A; https://www.sexart.com/model/kari-a; g:f
+model: n:Linda Sweet; id:/model/sexart/linda-sweet; u:https://www.sexart.com/model/linda-sweet; g:f
+model: n:Kari A; id:/model/sexart/kari-a; u:https://www.sexart.com/model/kari-a; g:f
 released: 2015-04-10
 director: Andrej Lupin
 rating: 9.5
@@ -6620,8 +6620,8 @@ title: Vintage Collection - Berlin
 type: movie
 site: sa
 url: https://www.sexart.com/model/bella-blond-and-nick-wolanski/movie/20150408/VINTAGE_COLLECTION_-_BERLIN
-cast: Bella Blond; https://www.sexart.com/model/bella-blond; g:f
-cast: Nick Wolanski; https://www.sexart.com/model/nick-wolanski; g:m
+model: n:Bella Blond; id:/model/sexart/bella-blond; u:https://www.sexart.com/model/bella-blond; g:f
+model: n:Nick Wolanski; id:/model/sexart/nick-wolanski; u:https://www.sexart.com/model/nick-wolanski; g:m
 released: 2015-04-08
 director: Andrej Lupin
 rating: 9.3
@@ -6692,8 +6692,8 @@ title: What Happens When Episode 6
 type: movie
 site: sa
 url: https://www.sexart.com/model/kiara-lord-and-matt-ice/movie/20150405/WHAT_HAPPENS_WHEN_EPISODE_6
-cast: Kiara Lord; https://www.sexart.com/model/kiara-lord; g:f
-cast: Matt Ice; https://www.sexart.com/model/matt-ice; g:m
+model: n:Kiara Lord; id:/model/sexart/kiara-lord; u:https://www.sexart.com/model/kiara-lord; g:f
+model: n:Matt Ice; id:/model/sexart/matt-ice; u:https://www.sexart.com/model/matt-ice; g:m
 released: 2015-04-05
 director: Andrej Lupin
 rating: 9.2
@@ -6764,8 +6764,8 @@ title: Hors D'Atteinte
 type: movie
 site: sa
 url: https://www.sexart.com/model/ariel-rebel-and-lola-reve/movie/20150403/HORS_D_ATTEINTE
-cast: Ariel Rebel; https://www.sexart.com/model/ariel-rebel; g:f
-cast: Lola Rêve; https://www.sexart.com/model/lola-reve; g:f
+model: n:Ariel Rebel; id:/model/sexart/ariel-rebel; u:https://www.sexart.com/model/ariel-rebel; g:f
+model: n:Lola Rêve; id:/model/sexart/lola-r-ve; u:https://www.sexart.com/model/lola-reve; g:f
 released: 2015-04-03
 director: Alis Locanta
 rating: 9.3
@@ -6778,7 +6778,7 @@ description: Lola Rêve sits alone in a café, sipping idly at a glass of wine, 
 runtime: 16:19
 executiveProducer: MetArt Films
 producer: Estelle Adams
-directorPhotography: Alis Locanta
+directorOfPhotography: Alis Locanta
 cameraOperator: Duliamo Ergacia, Jorge Villalobos
 editor: Alis Locanta
 costumeDesigner: Eva Dividendo
@@ -6833,8 +6833,8 @@ title: Above
 type: movie
 site: sa
 url: https://www.sexart.com/model/lexi-dona-and-uma/movie/20150401/ABOVE
-cast: Lexi Dona; https://www.sexart.com/model/lexi-dona; g:f
-cast: Uma; https://www.sexart.com/model/uma; g:f
+model: n:Lexi Dona; id:/model/sexart/lexi-dona; u:https://www.sexart.com/model/lexi-dona; g:f
+model: n:Uma; id:/model/sexart/uma; u:https://www.sexart.com/model/uma; g:f
 released: 2015-04-01
 director: Andrej Lupin
 rating: 9.4
@@ -6897,8 +6897,8 @@ title: What Happens When Episode 5
 type: movie
 site: sa
 url: https://www.sexart.com/model/kiara-lord-and-cristal-caitlin/movie/20150329/WHAT_HAPPENS_WHEN_EPISODE_5
-cast: Kiara Lord; https://www.sexart.com/model/kiara-lord; g:f
-cast: Cristal Caitlin; https://www.sexart.com/model/cristal-caitlin; g:f
+model: n:Kiara Lord; id:/model/sexart/kiara-lord; u:https://www.sexart.com/model/kiara-lord; g:f
+model: n:Cristal Caitlin; id:/model/sexart/cristal-caitlin; u:https://www.sexart.com/model/cristal-caitlin; g:f
 released: 2015-03-29
 director: Andrej Lupin
 rating: 9.1
@@ -6963,8 +6963,8 @@ title: Petrin
 type: movie
 site: sa
 url: https://www.sexart.com/model/lady-dee-and-lucy-li/movie/20150327/PETRIN
-cast: Lady Dee; https://www.sexart.com/model/lady-dee; g:f
-cast: Lucy Li; https://www.sexart.com/model/lucy-li; g:f
+model: n:Lady Dee; id:/model/sexart/lady-dee; u:https://www.sexart.com/model/lady-dee; g:f
+model: n:Lucy Li; id:/model/sexart/lucy-li; u:https://www.sexart.com/model/lucy-li; g:f
 released: 2015-03-27
 director: Andrej Lupin
 rating: 9.4
@@ -7032,8 +7032,8 @@ title: Inside Couple - Anissa & Franck
 type: movie
 site: sa
 url: https://www.sexart.com/model/franck-franco-and-anissa-kate/movie/20150325/INSIDE_COUPLE_-_ANISSA_&_FRANCK
-cast: Franck Franco; https://www.sexart.com/model/franck-franco; g:m
-cast: Anissa Kate; https://www.sexart.com/model/anissa-kate; g:f
+model: n:Franck Franco; id:/model/sexart/franck-franco; u:https://www.sexart.com/model/franck-franco; g:m
+model: n:Anissa Kate; id:/model/sexart/anissa-kate; u:https://www.sexart.com/model/anissa-kate; g:f
 released: 2015-03-25
 director: Alis Locanta
 rating: 9.2
@@ -7046,7 +7046,7 @@ description: Erotic performers are used to "baring it all," it's a basic require
 runtime: 19:18
 writer: Alis Locanta
 producer: Estelle Adams
-directorPhotography: Alis Locanta
+directorOfPhotography: Alis Locanta
 cameraOperator: Jorge Villalobos, Duliamo Ergacia
 stillPhotographer: Duliamo Ergacia
 editor: Alis Locanta
@@ -7107,8 +7107,8 @@ title: What Happens When - Episode 4
 type: movie
 site: sa
 url: https://www.sexart.com/model/bella-blond-and-eva-berger/movie/20150322/WHAT_HAPPENS_WHEN_-_EPISODE_4
-cast: Bella Blond; https://www.sexart.com/model/bella-blond; g:f
-cast: Eva Berger; https://www.sexart.com/model/eva-berger; g:f
+model: n:Bella Blond; id:/model/sexart/bella-blond; u:https://www.sexart.com/model/bella-blond; g:f
+model: n:Eva Berger; id:/model/sexart/eva-berger; u:https://www.sexart.com/model/eva-berger; g:f
 released: 2015-03-22
 director: Andrej Lupin
 rating: 9.2
@@ -7178,8 +7178,8 @@ title: Memento - Third Act
 type: movie
 site: sa
 url: https://www.sexart.com/model/mango-a-and-tracy-lindsay/movie/20150320/MEMENTO_-_THIRD_ACT
-cast: Mango A; https://www.sexart.com/model/mango-a; g:f
-cast: Tracy Lindsay; https://www.sexart.com/model/tracy-lindsay; g:f
+model: n:Mango A; id:/model/sexart/mango-a; u:https://www.sexart.com/model/mango-a; g:f
+model: n:Tracy Lindsay; id:/model/sexart/tracy-lindsay; u:https://www.sexart.com/model/tracy-lindsay; g:f
 released: 2015-03-20
 director: Alis Locanta
 rating: 9.5
@@ -7194,7 +7194,7 @@ runtime: 19:37
 writer: Alis Locanta
 executiveProducer: MetArt Films
 producer: Estelle Adams
-directorPhotography: Alis Locanta
+directorOfPhotography: Alis Locanta
 cinematographer: Alis Locanta
 cameraOperator: Jorge Villalobos, Duliamo Ergacia
 stillPhotographer: Duliamo Ergacia
@@ -7267,7 +7267,7 @@ title: Alone
 type: movie
 site: sa
 url: https://www.sexart.com/model/michaela-isizzu/movie/20150318/ALONE
-cast: Michaela Isizzu; https://www.sexart.com/model/michaela-isizzu; g:f
+model: n:Michaela Isizzu; id:/model/sexart/michaela-isizzu; u:https://www.sexart.com/model/michaela-isizzu; g:f
 released: 2015-03-18
 director: Andrej Lupin
 rating: 9.5
@@ -7324,8 +7324,8 @@ title: What Happens When - Episode 3
 type: movie
 site: sa
 url: https://www.sexart.com/model/nick-wolanski-and-bella-blond/movie/20150315/WHAT_HAPPENS_WHEN_-_EPISODE_3
-cast: Nick Wolanski; https://www.sexart.com/model/nick-wolanski; g:m
-cast: Bella Blond; https://www.sexart.com/model/bella-blond; g:f
+model: n:Nick Wolanski; id:/model/sexart/nick-wolanski; u:https://www.sexart.com/model/nick-wolanski; g:m
+model: n:Bella Blond; id:/model/sexart/bella-blond; u:https://www.sexart.com/model/bella-blond; g:f
 released: 2015-03-15
 director: Andrej Lupin
 rating: 8.9
@@ -7389,8 +7389,8 @@ title: Memento - Second Act
 type: movie
 site: sa
 url: https://www.sexart.com/model/lola-reve-and-mango-a/movie/20150313/MEMENTO_-_SECOND_ACT
-cast: Lola Reve; https://www.sexart.com/model/lola-reve; g:f
-cast: Mango A; https://www.sexart.com/model/mango-a; g:f
+model: n:Lola Reve; id:/model/sexart/lola-reve; u:https://www.sexart.com/model/lola-reve; g:f
+model: n:Mango A; id:/model/sexart/mango-a; u:https://www.sexart.com/model/mango-a; g:f
 released: 2015-03-13
 director: Alis Locanta
 rating: 9.4
@@ -7405,7 +7405,7 @@ runtime: 16:46
 writer: Alis Locanta
 executiveProducer: MetArt Films
 producer: Estelle Adams
-directorPhotography: Alis Locanta
+directorOfPhotography: Alis Locanta
 cinematographer: Alis Locanta
 cameraOperator: Duliamo Ergacia, Jorge Villalobos
 stillPhotographer: Duliamo Ergacia
@@ -7469,8 +7469,8 @@ title: Paparazzi
 type: movie
 site: sa
 url: https://www.sexart.com/model/johny-d-and-lucy-li/movie/20150311/PAPARAZZI
-cast: Johny D; https://www.sexart.com/model/johny-d; g:m
-cast: Lucy Li; https://www.sexart.com/model/lucy-li; g:f
+model: n:Johny D; id:/model/sexart/johny-d; u:https://www.sexart.com/model/johny-d; g:m
+model: n:Lucy Li; id:/model/sexart/lucy-li; u:https://www.sexart.com/model/lucy-li; g:f
 released: 2015-03-11
 director: Andrej Lupin
 rating: 9.3
@@ -7531,8 +7531,8 @@ title: What Happens When Episode 2
 type: movie
 site: sa
 url: https://www.sexart.com/model/eva-berger-and-kiara-lord/movie/20150308/WHAT_HAPPENS_WHEN_EPISODE_2
-cast: Eva Berger; https://www.sexart.com/model/eva-berger; g:f
-cast: Kiara Lord; https://www.sexart.com/model/kiara-lord; g:f
+model: n:Eva Berger; id:/model/sexart/eva-berger; u:https://www.sexart.com/model/eva-berger; g:f
+model: n:Kiara Lord; id:/model/sexart/kiara-lord; u:https://www.sexart.com/model/kiara-lord; g:f
 released: 2015-03-08
 director: Andrej Lupin
 rating: 9.2
@@ -7605,8 +7605,8 @@ title: Memento - First Act
 type: movie
 site: sa
 url: https://www.sexart.com/model/alexa-tomas-and-mango-a/movie/20150306/MEMENTO_-_FIRST_ACT
-cast: Alexa Tomas; https://www.sexart.com/model/alexa-tomas; g:f
-cast: Mango A; https://www.sexart.com/model/mango-a; g:f
+model: n:Alexa Tomas; id:/model/sexart/alexa-tomas; u:https://www.sexart.com/model/alexa-tomas; g:f
+model: n:Mango A; id:/model/sexart/mango-a; u:https://www.sexart.com/model/mango-a; g:f
 released: 2015-03-06
 director: Alis Locanta
 rating: 9.4
@@ -7620,7 +7620,7 @@ runtime: 25:32
 writer: Alis Locanta
 executiveProducer: MetArt Films
 producer: Estelle Adams
-directorPhotography: Alis Locanta
+directorOfPhotography: Alis Locanta
 cinematographer: Alis Locanta
 cameraOperator: Jorge Villalobos, Duliamo Ergacia
 stillPhotographer: Duliamo Ergacia
@@ -7682,8 +7682,8 @@ title: Unplugged 2
 type: movie
 site: sa
 url: https://www.sexart.com/model/samia-duarte-and-jimena-lago/movie/20150304/UNPLUGGED_2
-cast: Samia Duarte; https://www.sexart.com/model/samia-duarte; g:f
-cast: Jimena Lago; https://www.sexart.com/model/jimena-lago; g:f
+model: n:Samia Duarte; id:/model/sexart/samia-duarte; u:https://www.sexart.com/model/samia-duarte; g:f
+model: n:Jimena Lago; id:/model/sexart/jimena-lago; u:https://www.sexart.com/model/jimena-lago; g:f
 released: 2015-03-04
 director: Alis Locanta
 rating: 9.2
@@ -7697,7 +7697,7 @@ runtime: 24:18
 writer: Alis Locanta
 executiveProducer: MetArt Films
 producer: Estelle Adams
-directorPhotography: Alis Locanta
+directorOfPhotography: Alis Locanta
 cameraOperator: Duliamo Ergacia, Jorge Villalobos
 stillPhotographer: Duliamo Ergacia
 editor: Alis Locanta
@@ -7754,8 +7754,8 @@ title: What Happens When Episode 1
 type: movie
 site: sa
 url: https://www.sexart.com/model/eva-berger-and-matt-ice/movie/20150301/WHAT_HAPPENS_WHEN_EPISODE_1
-cast: Eva Berger; https://www.sexart.com/model/eva-berger; g:f
-cast: Matt Ice; https://www.sexart.com/model/matt-ice; g:m
+model: n:Eva Berger; id:/model/sexart/eva-berger; u:https://www.sexart.com/model/eva-berger; g:f
+model: n:Matt Ice; id:/model/sexart/matt-ice; u:https://www.sexart.com/model/matt-ice; g:m
 released: 2015-03-01
 director: Andrej Lupin
 rating: 9.1
@@ -7826,8 +7826,8 @@ title: Something Else That I Have To Survive
 type: movie
 site: sa
 url: https://www.sexart.com/model/chloe-amour-and-layla-sin/movie/20150227/SOMETHING_ELSE_THAT_I_HAVE_TO_SURVIVE
-cast: Chloe Amour; https://www.sexart.com/model/chloe-amour; g:f
-cast: Layla Sin; https://www.sexart.com/model/layla-sin; g:f
+model: n:Chloe Amour; id:/model/sexart/chloe-amour; u:https://www.sexart.com/model/chloe-amour; g:f
+model: n:Layla Sin; id:/model/sexart/layla-sin; u:https://www.sexart.com/model/layla-sin; g:f
 released: 2015-02-27
 director: Alis Locanta
 rating: 9.1
@@ -7841,7 +7841,7 @@ runtime: 19:55
 writer: Alis Locanta
 executiveProducer: MetArt Films
 producer: Estelle Adams
-directorPhotography: Alis Locanta
+directorOfPhotography: Alis Locanta
 cameraOperator: Jorge Villalobos, Duliamo Ergacia
 stillPhotographer: Duliamo Ergacia
 editor: Alis Locanta
@@ -7895,7 +7895,7 @@ title: Dance The Night Away
 type: movie
 site: sa
 url: https://www.sexart.com/model/sapphira-a/movie/20150225/DANCE_THE_NIGHT_AWAY
-cast: Sapphira A; https://www.sexart.com/model/sapphira-a; g:f
+model: n:Sapphira A; id:/model/sexart/sapphira-a; u:https://www.sexart.com/model/sapphira-a; g:f
 released: 2015-02-25
 director: Alis Locanta
 rating: 9.4
@@ -7909,7 +7909,7 @@ runtime: 10:52
 writer: Alis Locanta
 executiveProducer: MetArt Films
 producer: Tony Intropido
-directorPhotography: Alis Locanta
+directorOfPhotography: Alis Locanta
 cameraOperator: Duliamo Ergacia, Jorge Villalobos
 stillPhotographer: Duliamo Ergacia
 costumeDesigner: Eva Dividendo
@@ -7965,8 +7965,8 @@ title: Don't Forget Me
 type: movie
 site: sa
 url: https://www.sexart.com/model/franck-franco-and-lola-reve/movie/20150222/DON_T_FORGET_ME
-cast: Franck Franco; https://www.sexart.com/model/franck-franco; g:m
-cast: Lola Reve; https://www.sexart.com/model/lola-reve; g:f
+model: n:Franck Franco; id:/model/sexart/franck-franco; u:https://www.sexart.com/model/franck-franco; g:m
+model: n:Lola Reve; id:/model/sexart/lola-reve; u:https://www.sexart.com/model/lola-reve; g:f
 released: 2015-02-22
 director: Alis Locanta
 rating: 8.9
@@ -7980,7 +7980,7 @@ runtime: 18:24
 writer: Alis Locanta
 executiveProducer: MetArt Films
 producer: Estelle Adams
-directorPhotography: Alis Locanta
+directorOfPhotography: Alis Locanta
 cameraOperator: Jorge Villalobos, Duliamo Ergacia
 stillPhotographer: Duliamo Ergacia
 editor: Alis Locanta
@@ -8040,8 +8040,8 @@ title: Slippery When Wet
 type: movie
 site: sa
 url: https://www.sexart.com/model/amarna-miller-and-tracy-lindsay/movie/20150220/SLIPPERY_WHEN_WET
-cast: Amarna Miller; https://www.sexart.com/model/amarna-miller; g:f
-cast: Tracy Lindsay; https://www.sexart.com/model/tracy-lindsay; g:f
+model: n:Amarna Miller; id:/model/sexart/amarna-miller; u:https://www.sexart.com/model/amarna-miller; g:f
+model: n:Tracy Lindsay; id:/model/sexart/tracy-lindsay; u:https://www.sexart.com/model/tracy-lindsay; g:f
 released: 2015-02-20
 director: Alis Locanta
 rating: 9.4
@@ -8055,7 +8055,7 @@ runtime: 14:55
 writer: Alis Locanta
 executiveProducer: MetArt Films
 producer: Estelle Adams
-directorPhotography: Alis Locanta
+directorOfPhotography: Alis Locanta
 cameraOperator: Duliamo Ergacia, Jorge Villalobos
 stillPhotographer: Duliamo Ergacia
 editor: Alis Locanta
@@ -8126,7 +8126,7 @@ title: Stalker
 type: movie
 site: sa
 url: https://www.sexart.com/model/michaela-isizzu/movie/20150218/STALKER
-cast: Michaela Isizzu; https://www.sexart.com/model/michaela-isizzu; g:f
+model: n:Michaela Isizzu; id:/model/sexart/michaela-isizzu; u:https://www.sexart.com/model/michaela-isizzu; g:f
 released: 2015-02-18
 director: Andrej Lupin
 rating: 9.5
@@ -8197,8 +8197,8 @@ title: My City My Love
 type: movie
 site: sa
 url: https://www.sexart.com/model/kiara-lord-and-matt-ice/movie/20150215/MY_CITY_MY_LOVE
-cast: Kiara Lord; https://www.sexart.com/model/kiara-lord; g:f
-cast: Matt Ice; https://www.sexart.com/model/matt-ice; g:m
+model: n:Kiara Lord; id:/model/sexart/kiara-lord; u:https://www.sexart.com/model/kiara-lord; g:f
+model: n:Matt Ice; id:/model/sexart/matt-ice; u:https://www.sexart.com/model/matt-ice; g:m
 released: 2015-02-15
 director: Andrej Lupin
 rating: 9.3
@@ -8279,8 +8279,8 @@ title: The Road Goes On 2
 type: movie
 site: sa
 url: https://www.sexart.com/model/flora-and-silvie-luca/movie/20150213/THE_ROAD_GOES_ON_2
-cast: Flora; https://www.sexart.com/model/flora; g:f
-cast: Silvie Luca; https://www.sexart.com/model/silvie-luca; g:f
+model: n:Flora; id:/model/sexart/flora; u:https://www.sexart.com/model/flora; g:f
+model: n:Silvie Luca; id:/model/sexart/silvie-luca; u:https://www.sexart.com/model/silvie-luca; g:f
 released: 2015-02-13
 director: Alis Locanta
 rating: 9.3
@@ -8293,7 +8293,7 @@ description: Sexart's Alis Locanta released his original "The Road Goes On" in t
 runtime: 23:39
 writer: Alis Locanta
 executiveProducer: MetArt Films
-directorPhotography: Alis Locanta
+directorOfPhotography: Alis Locanta
 cameraOperator: Duliamo Ergacia, Jorge Villalobos
 stillPhotographer: Duliamo Ergacia
 editor: Alis Locanta
@@ -8361,7 +8361,7 @@ title: Girls Love Sex - Threesome
 type: movie
 site: sa
 url: https://www.sexart.com/model/ariel-rebel/movie/20150211/GIRLS_LOVE_SEX_-_THREESOME
-cast: Ariel Rebel; https://www.sexart.com/model/ariel-rebel; g:f
+model: n:Ariel Rebel; id:/model/sexart/ariel-rebel; u:https://www.sexart.com/model/ariel-rebel; g:f
 released: 2015-02-11
 director: Alis Locanta
 rating: 9.4
@@ -8375,7 +8375,7 @@ runtime: 19:48
 writer: Alis Locanta
 executiveProducer: MetArt Films
 producer: Estelle Adams
-directorPhotography: Alis Locanta
+directorOfPhotography: Alis Locanta
 cameraOperator: Jorge Villalobos, Duliamo Ergacia
 editor: Alis Locanta
 costumeDesigner: Eva Dividendo
@@ -8423,8 +8423,8 @@ title: The Contract
 type: movie
 site: sa
 url: https://www.sexart.com/model/iwia-a-and-franck-franco/movie/20150208/THE_CONTRACT
-cast: Iwia A; https://www.sexart.com/model/iwia-a; g:f
-cast: Franck Franco; https://www.sexart.com/model/franck-franco; g:m
+model: n:Iwia A; id:/model/sexart/iwia-a; u:https://www.sexart.com/model/iwia-a; g:f
+model: n:Franck Franco; id:/model/sexart/franck-franco; u:https://www.sexart.com/model/franck-franco; g:m
 released: 2015-02-08
 director: Alis Locanta
 rating: 9.3
@@ -8436,7 +8436,7 @@ file: SexArt-20150208-The-Contract-wide.jpg 112
 description: In "The Contract," director Alis Locanta returns, in a roundabout way, to themes he's explored previously, most notably his ambitious, four-part, "Love for Sale" series. But don't expect images of outer space or existential introspection here — despite some intentional ambiguity, "The Contract" is about a relatively simple business transaction, formalized, structured, and signed on the dotted line. When Iwia A appears at his door Franck Franco is pleasantly surprised. At first the mood is businesslike, if cordial. An agreement is outlined, and Iwia, despite some lingering reservations, signs it. What follows are a series of encounters specified in the title document, and although they are outlined in binding legalese, they are of a distinctly kinky nature. Her hands bound, Iwia has her panties lowered and the cheeks of her rump repeatedly spanked until they glow and she moans with pleasure. After being stripped and instructed to put on a skimpy bra and panties set, Iwia's hands are once more tethered and Franco methodically fingers her to ecstasy. In another encounter the dominant male services his willing and submissive signatory with a crystal dildo. "The Contract" reaches a somewhat unexpected crescendo when Iwia appears once more at Franco's door. Gone are the legal stipulations and erotic accoutrements, and in their place mutual desire, passion, and sexual hunger. This segment begins with intense kissing, segues into fevered fellation, and reaches a powerful and simultaneous orgasmic conclusion after an on-the-floor fuck. An intriguing cinematic structure, and two impressive performances make "The Contract" a particularly satisfying transaction.
 runtime: 22:57
 writer: Alis Locanta
-directorPhotography: Alis Locanta
+directorOfPhotography: Alis Locanta
 cameraOperator: Duliamo Ergacia, Jorge Villalobos
 editor: Alis Locanta
 costumeDesigner: Eva Dividendo
@@ -8503,8 +8503,8 @@ title: Together
 type: movie
 site: sa
 url: https://www.sexart.com/model/lexi-dona-and-alexa-tomas/movie/20150206/TOGETHER
-cast: Lexi Dona; https://www.sexart.com/model/lexi-dona; g:f
-cast: Alexa Tomas; https://www.sexart.com/model/alexa-tomas; g:f
+model: n:Lexi Dona; id:/model/sexart/lexi-dona; u:https://www.sexart.com/model/lexi-dona; g:f
+model: n:Alexa Tomas; id:/model/sexart/alexa-tomas; u:https://www.sexart.com/model/alexa-tomas; g:f
 released: 2015-02-06
 director: Andrej Lupin
 rating: 9.5
@@ -8576,7 +8576,7 @@ title: Distorted Reality 2
 type: movie
 site: sa
 url: https://www.sexart.com/model/whitney-westgate/movie/20150204/DISTORTED_REALITY_2
-cast: Whitney Westgate; https://www.sexart.com/model/whitney-westgate; g:f
+model: n:Whitney Westgate; id:/model/sexart/whitney-westgate; u:https://www.sexart.com/model/whitney-westgate; g:f
 released: 2015-02-04
 director: Alis Locanta
 rating: 9.1
@@ -8590,7 +8590,7 @@ runtime: 13:52
 writer: Alis Locanta
 executiveProducer: MetArt Films
 producer: Estelle Adams
-directorPhotography: Alis Locanta
+directorOfPhotography: Alis Locanta
 cameraOperator: Duliamo Ergacia, Jorge Villalobos
 editor: Alis Locanta
 costumeDesigner: Eva Dividendo
@@ -8637,8 +8637,8 @@ title: Blindfolded Passion
 type: movie
 site: sa
 url: https://www.sexart.com/model/uma-and-nick-wolanski/movie/20150201/BLINDFOLDED_PASSION
-cast: Uma; https://www.sexart.com/model/uma; g:f
-cast: Nick Wolanski; https://www.sexart.com/model/nick-wolanski; g:m
+model: n:Uma; id:/model/sexart/uma; u:https://www.sexart.com/model/uma; g:f
+model: n:Nick Wolanski; id:/model/sexart/nick-wolanski; u:https://www.sexart.com/model/nick-wolanski; g:m
 released: 2015-02-01
 director: Andrej Lupin
 rating: 9.3
@@ -8718,9 +8718,9 @@ title: One Day
 type: movie
 site: sa
 url: https://www.sexart.com/model/whitney-conroy-and-aiko-bell-and-margot-a/movie/20150130/ONE_DAY
-cast: Whitney Conroy; https://www.sexart.com/model/whitney-conroy; g:f
-cast: Aiko Bell; https://www.sexart.com/model/aiko-bell; g:f
-cast: Margot A; https://www.sexart.com/model/margot-a; g:f
+model: n:Whitney Conroy; id:/model/sexart/whitney-conroy; u:https://www.sexart.com/model/whitney-conroy; g:f
+model: n:Aiko Bell; id:/model/sexart/aiko-bell; u:https://www.sexart.com/model/aiko-bell; g:f
+model: n:Margot A; id:/model/sexart/margot-a; u:https://www.sexart.com/model/margot-a; g:f
 released: 2015-01-30
 director: Andrej Lupin
 rating: 9.4
@@ -8803,7 +8803,7 @@ title: Incandescence - Chloe Amour
 type: movie
 site: sa
 url: https://www.sexart.com/model/chloe-amour/movie/20150128/INCANDESCENCE_-_CHLOE_AMOUR
-cast: Chloe Amour; https://www.sexart.com/model/chloe-amour; g:f
+model: n:Chloe Amour; id:/model/sexart/chloe-amour; u:https://www.sexart.com/model/chloe-amour; g:f
 released: 2015-01-28
 director: Alis Locanta
 rating: 9.2
@@ -8817,7 +8817,7 @@ runtime: 14:18
 writer: Alis Locanta
 executiveProducer: MetArt Films
 producer: Estelle Adams
-directorPhotography: Alis Locanta
+directorOfPhotography: Alis Locanta
 cameraOperator: Jorge Villalobos, Duliamo Ergacia
 editor: Alis Locanta
 costumeDesigner: Eva Dividendo
@@ -8867,8 +8867,8 @@ title: Volcano
 type: movie
 site: sa
 url: https://www.sexart.com/model/cristal-caitlin-and-matt-ice/movie/20150125/VOLCANO
-cast: Cristal Caitlin; https://www.sexart.com/model/cristal-caitlin; g:f
-cast: Matt Ice; https://www.sexart.com/model/matt-ice; g:m
+model: n:Cristal Caitlin; id:/model/sexart/cristal-caitlin; u:https://www.sexart.com/model/cristal-caitlin; g:f
+model: n:Matt Ice; id:/model/sexart/matt-ice; u:https://www.sexart.com/model/matt-ice; g:m
 released: 2015-01-25
 director: Andrej Lupin
 rating: 9.2
@@ -8938,8 +8938,8 @@ title: Que Es La Pasion 2
 type: movie
 site: sa
 url: https://www.sexart.com/model/julia-roca-and-tracy-lindsay/movie/20150123/QUE_ES_LA_PASION_2
-cast: Julia Roca; https://www.sexart.com/model/julia-roca; g:f
-cast: Tracy Lindsay; https://www.sexart.com/model/tracy-lindsay; g:f
+model: n:Julia Roca; id:/model/sexart/julia-roca; u:https://www.sexart.com/model/julia-roca; g:f
+model: n:Tracy Lindsay; id:/model/sexart/tracy-lindsay; u:https://www.sexart.com/model/tracy-lindsay; g:f
 released: 2015-01-23
 director: Alis Locanta
 rating: 9.2
@@ -8951,7 +8951,7 @@ file: SexArt-20150123-Que-es-la-Pasion-02-wide.jpg 104
 description: Amarna Miller, in collaboration with Alis Locanta, wrote the original "Qué Es La Pasión," which she also starred in. In "Qué Es La Pasión 2" Miller once more provides the script, but Julia Roca and Tracy Lindsay play the leading roles. With Lindsay asleep in the bed next to her, Roca delivers an introductory monologue in her native Spanish, in which she muses on the nature of her relationship. The bulk of the film is devoted to the passionate physical expression of the love these women share. The twosome kiss with rapidly rising intensity as Tracy deftly fingers Roca's pussy. Trading her tongue for her fingers, Lindsay then briefly lick's Roca's clit. Returning to manual stimulation, Tracy pumps two fingers of one hand into Julia's pussy while rubbing her clitoris with the thumb of the other. Then, with Lindsay stripped and on her knees, Julia strokes and probes the blonde's glistening pink succulence. Once she's been suitably primed, Tracy raises her hips off the mattress and pushes her pussy at Julia's hungry mouth. The fiery tryst reaches its ultimate orgasmic conclusion with the two lovers face to face and pussy to pussy, humping with unrestrained abandon. After summing things up with a heartfelt concluding monologue, the film ends with a sweet and romantic vignette from some point in the lovers' history. A pleasing mix of the romantic and the erotic, "Qué Es La Pasión 2" is passionate, sincere, and filled with sizzling sex.
 runtime: 11:49
 writer: Alis Locanta, Amarna Miller
-directorPhotography: Alis Locanta
+directorOfPhotography: Alis Locanta
 cameraOperator: Duliamo Ergacia, Jorge Villalobos
 costumeDesigner: Eva Dividendo
 makeupArtist: Rita Rola
@@ -9006,7 +9006,7 @@ title: 122 Fahrenheit
 type: movie
 site: sa
 url: https://www.sexart.com/model/sapphira-a/movie/20150121/122_FAHRENHEIT
-cast: Sapphira A; https://www.sexart.com/model/sapphira-a; g:f
+model: n:Sapphira A; id:/model/sexart/sapphira-a; u:https://www.sexart.com/model/sapphira-a; g:f
 released: 2015-01-21
 director: Alis Locanta
 rating: 9.3
@@ -9020,7 +9020,7 @@ runtime: 10:50
 writer: Alis Locanta
 executiveProducer: MetArt Films
 producer: Tony Intropido
-directorPhotography: Alis Locanta
+directorOfPhotography: Alis Locanta
 cameraOperator: Jorge Villalobos, Duliamo Ergacia
 stillPhotographer: Duliamo Ergacia
 editor: Alis Locanta
@@ -9058,8 +9058,8 @@ title: Breathless
 type: movie
 site: sa
 url: https://www.sexart.com/model/franck-franco-and-carol-vega/movie/20150118/BREATHLESS
-cast: Franck Franco; https://www.sexart.com/model/franck-franco; g:m
-cast: Carol Vega; https://www.sexart.com/model/carol-vega; g:f
+model: n:Franck Franco; id:/model/sexart/franck-franco; u:https://www.sexart.com/model/franck-franco; g:m
+model: n:Carol Vega; id:/model/sexart/carol-vega; u:https://www.sexart.com/model/carol-vega; g:f
 released: 2015-01-18
 director: Alis Locanta
 rating: 9.1
@@ -9073,7 +9073,7 @@ runtime: 24:28
 writer: Alis Locanta
 executiveProducer: MetArt Films
 producer: Estelle Adams
-directorPhotography: Alis Locanta
+directorOfPhotography: Alis Locanta
 cameraOperator: Duliamo Ergacia, Joe Imparato
 stillPhotographer: Duliamo Ergacia
 costumeDesigner: Eva Dividendo
@@ -9134,8 +9134,8 @@ title: Flash
 type: movie
 site: sa
 url: https://www.sexart.com/model/aiko-bell-and-blue-angel/movie/20150116/FLASH
-cast: Aiko Bell; https://www.sexart.com/model/aiko-bell; g:f
-cast: Blue Angel; https://www.sexart.com/model/blue-angel; g:f
+model: n:Aiko Bell; id:/model/sexart/aiko-bell; u:https://www.sexart.com/model/aiko-bell; g:f
+model: n:Blue Angel; id:/model/sexart/blue-angel; u:https://www.sexart.com/model/blue-angel; g:f
 released: 2015-01-16
 director: Andrej Lupin
 rating: 9.4
@@ -9220,7 +9220,7 @@ title: Io Ballo Da Sola 3
 type: movie
 site: sa
 url: https://www.sexart.com/model/layla-sin/movie/20150114/IO_BALLO_DA_SOLA_3
-cast: Layla Sin; https://www.sexart.com/model/layla-sin; g:f
+model: n:Layla Sin; id:/model/sexart/layla-sin; u:https://www.sexart.com/model/layla-sin; g:f
 released: 2015-01-14
 director: Alis Locanta
 rating: 9.2
@@ -9235,7 +9235,7 @@ runtime: 17:33
 writer: Alis Locanta
 executiveProducer: MetArt Films
 producer: Estelle Adams
-directorPhotography: Alis Locanta
+directorOfPhotography: Alis Locanta
 cinematographer: Alis Locanta
 editor: Alis Locanta
 firstAC: Duliamo Ergacia
@@ -9284,8 +9284,8 @@ title: eMemories III
 type: movie
 site: sa
 url: https://www.sexart.com/model/joel-tomas-and-kiara-lord/movie/20150111/EMEMORIES_III
-cast: Joel Tomas; https://www.sexart.com/model/joel-tomas; g:m
-cast: Kiara Lord; https://www.sexart.com/model/kiara-lord; g:f
+model: n:Joel Tomas; id:/model/sexart/joel-tomas; u:https://www.sexart.com/model/joel-tomas; g:m
+model: n:Kiara Lord; id:/model/sexart/kiara-lord; u:https://www.sexart.com/model/kiara-lord; g:f
 released: 2015-01-11
 director: Alis Locanta
 rating: 9.1
@@ -9299,7 +9299,7 @@ runtime: 24:45
 writer: Alis Locanta
 executiveProducer: MetArt Films
 producer: Estelle Adams
-directorPhotography: Alis Locanta
+directorOfPhotography: Alis Locanta
 cameraOperator: Duliamo Ergacia, Joe Imparato
 editor: Alis Locanta
 costumeDesigner: Eva Dividendo
@@ -9359,8 +9359,8 @@ title: Pour Toi Mon Amour 4
 type: movie
 site: sa
 url: https://www.sexart.com/model/ariel-rebel-and-amarna-miller/movie/20150109/POUR_TOI_MON_AMOUR_4
-cast: Ariel Rebel; https://www.sexart.com/model/ariel-rebel; g:f
-cast: Amarna Miller; https://www.sexart.com/model/amarna-miller; g:f
+model: n:Ariel Rebel; id:/model/sexart/ariel-rebel; u:https://www.sexart.com/model/ariel-rebel; g:f
+model: n:Amarna Miller; id:/model/sexart/amarna-miller; u:https://www.sexart.com/model/amarna-miller; g:f
 released: 2015-01-09
 director: Alis Locanta
 rating: 9.5
@@ -9427,7 +9427,7 @@ title: Incandescence - Anissa Kate
 type: movie
 site: sa
 url: https://www.sexart.com/model/anissa-kate/movie/20150107/INCANDESCENCE_-_ANISSA_KATE
-cast: Anissa Kate; https://www.sexart.com/model/anissa-kate; g:f
+model: n:Anissa Kate; id:/model/sexart/anissa-kate; u:https://www.sexart.com/model/anissa-kate; g:f
 released: 2015-01-07
 director: Alis Locanta
 rating: 9.2
@@ -9441,7 +9441,7 @@ runtime: 12:04
 writer: Alis Locanta
 executiveProducer: MetArt Films
 producer: Estelle Adams
-directorPhotography: Alis Locanta
+directorOfPhotography: Alis Locanta
 cameraOperator: Duliamo Ergacia, Jorge Villalobos
 costumeDesigner: Eva Dividendo
 makeupArtist: Rita Rola
@@ -9491,8 +9491,8 @@ title: Uninvited Guest
 type: movie
 site: sa
 url: https://www.sexart.com/model/alexa-tomas-and-joel-tomas/movie/20150104/UNINVITED_GUEST
-cast: Alexa Tomas; https://www.sexart.com/model/alexa-tomas; g:f
-cast: Joel Tomas; https://www.sexart.com/model/joel-tomas; g:m
+model: n:Alexa Tomas; id:/model/sexart/alexa-tomas; u:https://www.sexart.com/model/alexa-tomas; g:f
+model: n:Joel Tomas; id:/model/sexart/joel-tomas; u:https://www.sexart.com/model/joel-tomas; g:m
 released: 2015-01-04
 director: Andrej Lupin
 rating: 9.3
@@ -9561,8 +9561,8 @@ title: Distorted Reality
 type: movie
 site: sa
 url: https://www.sexart.com/model/silvie-luca-and-tess-b/movie/20150102/DISTORTED_REALITY
-cast: Silvie Luca; https://www.sexart.com/model/silvie-luca; g:f
-cast: Tess B; https://www.sexart.com/model/tess-b; g:f
+model: n:Silvie Luca; id:/model/sexart/silvie-luca; u:https://www.sexart.com/model/silvie-luca; g:f
+model: n:Tess B; id:/model/sexart/tess-b; u:https://www.sexart.com/model/tess-b; g:f
 released: 2015-01-02
 director: Alis Locanta
 rating: 9.2
@@ -9576,7 +9576,7 @@ runtime: 15:06
 writer: Alis Locanta
 executiveProducer: MetArt Films
 producer: Estelle Adams
-directorPhotography: Alis Locanta
+directorOfPhotography: Alis Locanta
 cameraOperator: Jorge Villalobos, Duliamo Ergacia
 stillPhotographer: Duliamo Ergacia
 editor: Alis Locanta

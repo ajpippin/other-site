@@ -8,7 +8,7 @@
 title: Cleaning
 type: movie
 site: MetArt
-cast: n:Ariel Piper Fawn; u:https://www.sexart.com/model/ariel-piper-fawn; s:SexArt; g:f
+model: n:Ariel Piper Fawn; id:/model/sexart/ariel-piper-fawn; u:https://www.sexart.com/model/ariel-piper-fawn; g:f
 released: 2009-12-28
 director: Luca Helios
 fileprefix: MetArt-20091228-cleaning-
@@ -23,7 +23,7 @@ description: xxx
 title: Calick
 type: movie
 site: MetArt
-cast: n:Lidiya A; u:https://www.metart.com/model/lidiya-a; g:f
+model: n:Lidiya A; id:/model/metart/lidiya-a; u:https://www.metart.com/model/lidiya-a; g:f
 released: 2009-12-24
 director: Goncharov
 fileprefix: MetArt-20091224-calick-
@@ -38,7 +38,7 @@ description: xxx
 title: Thrill
 type: movie
 site: MetArt
-cast: n:Sasha D; u:https://www.metart.com/model/sasha-d; g:f
+model: n:Sasha D; id:/model/metart/sasha-d; u:https://www.metart.com/model/sasha-d; g:f
 released: 2009-12-23
 director: Goncharov
 fileprefix: MetArt-20091223-thrill-
@@ -53,7 +53,7 @@ description: xxx
 title: Impressions
 type: movie
 site: MetArt
-cast: n:Mila I; u:https://www.metart.com/model/mila-i; g:f
+model: n:Mila I; id:/model/metart/mila-i; u:https://www.metart.com/model/mila-i; g:f
 released: 2009-12-20
 director: Goncharov
 fileprefix: MetArt-20091220-impressions-
@@ -68,7 +68,7 @@ description: xxx
 title: Leading
 type: movie
 site: MetArt
-cast: n:Nessa A; u:https://www.metart.com/model/nessa-a; g:f
+model: n:Nessa A; id:/model/metart/nessa-a; u:https://www.metart.com/model/nessa-a; g:f
 released: 2009-12-16
 director: Luca Helios
 fileprefix: MetArt-20091216-leading-
@@ -83,7 +83,7 @@ description: xxx
 title: Sooth
 type: movie
 site: MetArt
-cast: n:Caesaria A; u:https://www.metart.com/model/caesaria-a; g:f
+model: n:Caesaria A; id:/model/metart/caesaria-a; u:https://www.metart.com/model/caesaria-a; g:f
 released: 2009-12-13
 director: Rylsky
 fileprefix: MetArt-20091213-sooth-
@@ -98,7 +98,7 @@ description: xxx
 title: Catering
 type: movie
 site: MetArt
-cast: n:Lily B; u:https://www.metart.com/model/lily-b; g:f
+model: n:Lily B; id:/model/metart/lily-b; u:https://www.metart.com/model/lily-b; g:f
 released: 2009-12-12
 director: Goncharov
 fileprefix: MetArt-20091212-catering-
@@ -113,7 +113,7 @@ description: xxx
 title: Knows
 type: movie
 site: MetArt
-cast: n:Perla A; u:https://www.metart.com/model/perla-a; g:f
+model: n:Perla A; id:/model/metart/perla-a; u:https://www.metart.com/model/perla-a; g:f
 released: 2009-12-10
 director: Luca Helios
 fileprefix: MetArt-20091210-knows-
@@ -128,7 +128,7 @@ description: xxx
 title: Striking
 type: movie
 site: MetArt
-cast: n:Lidiya A; u:https://www.metart.com/model/lidiya-a; g:f
+model: n:Lidiya A; id:/model/metart/lidiya-a; u:https://www.metart.com/model/lidiya-a; g:f
 released: 2009-12-07
 director: Goncharov
 fileprefix: MetArt-20091207-striking-
@@ -143,7 +143,7 @@ description: xxx
 title: Friendly
 type: movie
 site: MetArt
-cast: n:Atena A; u:https://www.metart.com/model/atena-a; g:f
+model: n:Atena A; id:/model/metart/atena-a; u:https://www.metart.com/model/atena-a; g:f
 released: 2009-12-05
 director: Goncharov
 fileprefix: MetArt-20091205-friendly-
@@ -158,7 +158,7 @@ description: xxx
 title: Dedicated
 type: movie
 site: MetArt
-cast: n:Chantelle A; u:https://www.metart.com/model/chantelle-a; g:f
+model: n:Chantelle A; id:/model/metart/chantelle-a; u:https://www.metart.com/model/chantelle-a; g:f
 released: 2009-12-01
 director: Luca Helios
 fileprefix: MetArt-20091201-dedicated-
@@ -173,7 +173,7 @@ description: xxx
 title: Bollente
 type: movie
 site: MetArt
-cast: n:Sharon E; u:https://www.metart.com/model/sharon-e; g:f
+model: n:Sharon E; id:/model/metart/sharon-e; u:https://www.metart.com/model/sharon-e; g:f
 released: 2009-11-29
 director: Voronin
 fileprefix: MetArt-20091129-bollente-
@@ -188,7 +188,7 @@ description: xxx
 title: Seduction
 type: movie
 site: MetArt
-cast: n:Melisa A; u:https://www.metart.com/model/melisa-a; g:f
+model: n:Melisa A; id:/model/metart/melisa-a; u:https://www.metart.com/model/melisa-a; g:f
 released: 2009-11-28
 director: Luca Helios
 fileprefix: MetArt-20091128-seduction-
@@ -203,7 +203,7 @@ description: xxx
 title: Orchidea
 type: movie
 site: MetArt
-cast: n:Lily B; u:https://www.metart.com/model/lily-b; g:f
+model: n:Lily B; id:/model/metart/lily-b; u:https://www.metart.com/model/lily-b; g:f
 released: 2009-11-18
 director: Goncharov
 fileprefix: MetArt-20091118-orchidea-
@@ -218,7 +218,7 @@ description: xxx
 title: Kalian
 type: movie
 site: MetArt
-cast: n:Ketrin A; u:https://www.metart.com/model/ketrin-a; g:f
+model: n:Ketrin A; id:/model/metart/ketrin-a; u:https://www.metart.com/model/ketrin-a; g:f
 released: 2009-11-16
 director: Goncharov
 fileprefix: MetArt-20091116-kalian-
@@ -233,7 +233,7 @@ description: xxx
 title: Laikesis
 type: movie
 site: MetArt
-cast: n:Ariel Piper Fawn; u:https://www.sexart.com/model/ariel-piper-fawn; s:SexArt; g:f
+model: n:Ariel Piper Fawn; id:/model/sexart/ariel-piper-fawn; u:https://www.sexart.com/model/ariel-piper-fawn; g:f
 released: 2009-11-14
 director: Luca Helios
 fileprefix: MetArt-20091114-laikesis-
@@ -248,7 +248,7 @@ description: xxx
 title: Divineas
 type: movie
 site: MetArt
-cast: n:Katrin B; u:https://www.metart.com/model/katrin-b; g:f
+model: n:Katrin B; id:/model/metart/katrin-b; u:https://www.metart.com/model/katrin-b; g:f
 released: 2009-11-10
 director: Goncharov
 fileprefix: MetArt-20091110-divineas-
@@ -263,7 +263,7 @@ description: xxx
 title: Record
 type: movie
 site: MetArt
-cast: n:Lilly A; u:https://www.metart.com/model/lilly-a; g:f
+model: n:Lilly A; id:/model/metart/lilly-a; u:https://www.metart.com/model/lilly-a; g:f
 released: 2009-11-09
 director: Luca Helios
 fileprefix: MetArt-20091109-record-
@@ -278,7 +278,7 @@ description: xxx
 title: Primia
 type: movie
 site: MetArt
-cast: n:Mila I; u:https://www.metart.com/model/mila-i; g:f
+model: n:Mila I; id:/model/metart/mila-i; u:https://www.metart.com/model/mila-i; g:f
 released: 2009-11-05
 director: Goncharov
 fileprefix: MetArt-20091105-primia-
@@ -293,7 +293,7 @@ description: xxx
 title: Imagine
 type: movie
 site: MetArt
-cast: n:Sasha J; u:https://www.metart.com/model/sasha-j; g:f
+model: n:Sasha J; id:/model/metart/sasha-j; u:https://www.metart.com/model/sasha-j; g:f
 released: 2009-11-01
 director: Dmitry Maslof
 fileprefix: MetArt-20091101-imagine-
@@ -308,7 +308,7 @@ description: xxx
 title: Breakup
 type: movie
 site: MetArt
-cast: n:Zara B; u:https://www.metart.com/model/zara-b; g:f
+model: n:Zara B; id:/model/metart/zara-b; u:https://www.metart.com/model/zara-b; g:f
 released: 2009-10-29
 director: Goncharov
 fileprefix: MetArt-20091029-breakup-
@@ -323,7 +323,7 @@ description: xxx
 title: Enkalis
 type: movie
 site: MetArt
-cast: n:Eva E; u:https://www.metart.com/model/eva-e; g:f
+model: n:Eva E; id:/model/metart/eva-e; u:https://www.metart.com/model/eva-e; g:f
 released: 2009-10-28
 director: Goncharov
 fileprefix: MetArt-20091028-enkalis-
@@ -338,7 +338,7 @@ description: xxx
 title: Winds
 type: movie
 site: MetArt
-cast: n:Lidiya A; u:https://www.metart.com/model/lidiya-a; g:f
+model: n:Lidiya A; id:/model/metart/lidiya-a; u:https://www.metart.com/model/lidiya-a; g:f
 released: 2009-10-19
 director: Goncharov
 fileprefix: MetArt-20091019-winds-
@@ -353,7 +353,7 @@ description: xxx
 title: With Us
 type: movie
 site: MetArt
-cast: n:Loreen A; u:https://www.metart.com/model/loreen-a; g:f
+model: n:Loreen A; id:/model/metart/loreen-a; u:https://www.metart.com/model/loreen-a; g:f
 released: 2009-10-18
 director: Rylsky
 fileprefix: MetArt-20091018-with-us-
@@ -368,7 +368,7 @@ description: xxx
 title: Sempre
 type: movie
 site: MetArt
-cast: n:Lucy B; u:https://www.metart.com/model/lucy-b; g:f
+model: n:Lucy B; id:/model/metart/lucy-b; u:https://www.metart.com/model/lucy-b; g:f
 released: 2009-10-16
 director: Goncharov
 fileprefix: MetArt-20091016-sempre-
@@ -383,7 +383,7 @@ description: xxx
 title: Zilian
 type: movie
 site: MetArt
-cast: n:Jenya D; u:https://www.metart.com/model/jenya-d; g:f
+model: n:Jenya D; id:/model/metart/jenya-d; u:https://www.metart.com/model/jenya-d; g:f
 released: 2009-10-14
 director: Voronin
 fileprefix: MetArt-20091014-zilian-
@@ -398,7 +398,7 @@ description: xxx
 title: Relexed
 type: movie
 site: MetArt
-cast: n:Hunter A; u:https://www.metart.com/model/hunter-a; g:f
+model: n:Hunter A; id:/model/metart/hunter-a; u:https://www.metart.com/model/hunter-a; g:f
 released: 2009-10-08
 director: Voronin
 fileprefix: MetArt-20091008-relexed-
@@ -413,7 +413,7 @@ description: xxx
 title: Villa
 type: movie
 site: MetArt
-cast: n:Iveta B; u:https://www.metart.com/model/iveta-b; g:f
+model: n:Iveta B; id:/model/metart/iveta-b; u:https://www.metart.com/model/iveta-b; g:f
 released: 2009-10-08
 director: Luca Helios
 fileprefix: MetArt-20091008-villa-
@@ -428,7 +428,7 @@ description: xxx
 title: Smiling
 type: movie
 site: MetArt
-cast: n:Nina A; u:https://www.metart.com/model/nina-a; g:f
+model: n:Nina A; id:/model/metart/nina-a; u:https://www.metart.com/model/nina-a; g:f
 released: 2009-10-05
 director: Luca Helios
 fileprefix: MetArt-20091005-smiling-
@@ -443,7 +443,7 @@ description: xxx
 title: Inmaris
 type: movie
 site: MetArt
-cast: n:Chiara A; u:https://www.metart.com/model/chiara-a; g:f
+model: n:Chiara A; id:/model/metart/chiara-a; u:https://www.metart.com/model/chiara-a; g:f
 released: 2009-10-01
 director: Luca Helios
 fileprefix: MetArt-20091001-inmaris-
@@ -458,7 +458,7 @@ description: xxx
 title: Linking
 type: movie
 site: MetArt
-cast: n:Aljena A; u:https://www.metart.com/model/aljena-a; g:f
+model: n:Aljena A; id:/model/metart/aljena-a; u:https://www.metart.com/model/aljena-a; g:f
 released: 2009-09-30
 director: Dmitry Maslof
 fileprefix: MetArt-20090930-linking-
@@ -473,7 +473,7 @@ description: xxx
 title: Teraxe
 type: movie
 site: MetArt
-cast: n:Keri A; u:https://www.metart.com/model/keri-a; g:f
+model: n:Keri A; id:/model/metart/keri-a; u:https://www.metart.com/model/keri-a; g:f
 released: 2009-09-23
 director: Goncharov
 fileprefix: MetArt-20090923-teraxe-
@@ -488,7 +488,7 @@ description: xxx
 title: First Movie
 type: movie
 site: MetArt
-cast: n:Sara B; u:https://www.metart.com/model/sara-b; g:f
+model: n:Sara B; id:/model/metart/sara-b; u:https://www.metart.com/model/sara-b; g:f
 released: 2009-09-21
 director: Dolce
 fileprefix: MetArt-20090921-first-movie-
@@ -503,7 +503,7 @@ description: xxx
 title: Hinnian
 type: movie
 site: MetArt
-cast: n:Mira A; u:https://www.metart.com/model/mira-a; g:f
+model: n:Mira A; id:/model/metart/mira-a; u:https://www.metart.com/model/mira-a; g:f
 released: 2009-09-09
 director: Goncharov
 fileprefix: MetArt-20090909-hinnian-
@@ -518,7 +518,7 @@ description: xxx
 title: Nevada
 type: movie
 site: MetArt
-cast: n:Meggan A; u:https://www.metart.com/model/meggan-a; g:f
+model: n:Meggan A; id:/model/metart/meggan-a; u:https://www.metart.com/model/meggan-a; g:f
 released: 2009-09-06
 director: Jason Self
 fileprefix: MetArt-20090906-nevada-
@@ -533,7 +533,7 @@ description: xxx
 title: Cavalli
 type: movie
 site: MetArt
-cast: n:Demi A; u:https://www.metart.com/model/demi-a; g:f
+model: n:Demi A; id:/model/metart/demi-a; u:https://www.metart.com/model/demi-a; g:f
 released: 2009-09-05
 director: Luca Helios
 fileprefix: MetArt-20090905-cavalli-
@@ -548,7 +548,7 @@ description: xxx
 title: Fragile
 type: movie
 site: MetArt
-cast: n:Tonya B; u:https://www.metart.com/model/tonya-b; g:f
+model: n:Tonya B; id:/model/metart/tonya-b; u:https://www.metart.com/model/tonya-b; g:f
 released: 2009-09-04
 director: Voronin
 fileprefix: MetArt-20090904-fragile-
@@ -563,7 +563,7 @@ description: xxx
 title: Stars
 type: movie
 site: MetArt
-cast: n:Eva E; u:https://www.metart.com/model/eva-e; g:f
+model: n:Eva E; id:/model/metart/eva-e; u:https://www.metart.com/model/eva-e; g:f
 released: 2009-09-02
 director: Goncharov
 fileprefix: MetArt-20090902-stars-
@@ -578,7 +578,7 @@ description: xxx
 title: Ville
 type: movie
 site: MetArt
-cast: n:Sofi A; u:https://www.metart.com/model/sofi-a; g:f
+model: n:Sofi A; id:/model/metart/sofi-a; u:https://www.metart.com/model/sofi-a; g:f
 released: 2009-09-01
 director: Goncharov
 fileprefix: MetArt-20090901-ville-
@@ -593,7 +593,7 @@ description: xxx
 title: Fuochi
 type: movie
 site: MetArt
-cast: n:Sasha J; u:https://www.metart.com/model/sasha-j; g:f
+model: n:Sasha J; id:/model/metart/sasha-j; u:https://www.metart.com/model/sasha-j; g:f
 released: 2009-08-31
 director: Dmitry Maslof
 fileprefix: MetArt-20090831-fuochi-
@@ -608,7 +608,7 @@ description: xxx
 title: Kal
 type: movie
 site: MetArt
-cast: n:Bijou A; u:https://www.metart.com/model/bijou-a; g:f
+model: n:Bijou A; id:/model/metart/bijou-a; u:https://www.metart.com/model/bijou-a; g:f
 released: 2009-08-26
 director: Luca Helios
 fileprefix: MetArt-20090826-kal-
@@ -623,7 +623,7 @@ description: xxx
 title: Riall
 type: movie
 site: MetArt
-cast: n:Katrin B; u:https://www.metart.com/model/katrin-b; g:f
+model: n:Katrin B; id:/model/metart/katrin-b; u:https://www.metart.com/model/katrin-b; g:f
 released: 2009-08-25
 director: Goncharov
 fileprefix: MetArt-20090825-riall-
@@ -638,7 +638,7 @@ description: xxx
 title: Istanbul
 type: movie
 site: MetArt
-cast: n:Monika Vesela; u:https://www.metart.com/model/monika-vesela; g:f
+model: n:Monika Vesela; id:/model/metart/monika-vesela; u:https://www.metart.com/model/monika-vesela; g:f
 released: 2009-08-24
 director: Luca Helios
 fileprefix: MetArt-20090824-istanbul-
@@ -653,8 +653,8 @@ description: xxx
 title: Quarters
 type: movie
 site: MetArt
-cast: n:Vika AB; u:https://www.metart.com/model/vika-ab; g:f
-cast: n:Zara B; u:https://www.metart.com/model/zara-b; g:f
+model: n:Vika AB; id:/model/metart/vika-ab; u:https://www.metart.com/model/vika-ab; g:f
+model: n:Zara B; id:/model/metart/zara-b; u:https://www.metart.com/model/zara-b; g:f
 released: 2009-08-23
 director: Goncharov
 fileprefix: MetArt-20090823-quarters-
@@ -669,7 +669,7 @@ description: xxx
 title: Expand
 type: movie
 site: MetArt
-cast: n:Sonia Red; u:https://www.metart.com/model/sonia-red; g:f
+model: n:Sonia Red; id:/model/metart/sonia-red; u:https://www.metart.com/model/sonia-red; g:f
 released: 2009-08-22
 director: Luca Helios
 fileprefix: MetArt-20090822-expand-
@@ -684,7 +684,7 @@ description: xxx
 title: Mesok
 type: movie
 site: MetArt
-cast: n:Katrin B; u:https://www.metart.com/model/katrin-b; g:f
+model: n:Katrin B; id:/model/metart/katrin-b; u:https://www.metart.com/model/katrin-b; g:f
 released: 2009-08-09
 director: Michael Maker
 fileprefix: MetArt-20090809-mesok-
@@ -699,7 +699,7 @@ description: xxx
 title: Presenting Alisa
 type: movie
 site: MetArt
-cast: n:Alisa E; u:https://www.metart.com/model/alisa-e; g:f
+model: n:Alisa E; id:/model/metart/alisa-e; u:https://www.metart.com/model/alisa-e; g:f
 released: 2009-08-07
 director: Goncharov
 fileprefix: MetArt-20090807-presenting-alisa-
@@ -714,7 +714,7 @@ description: xxx
 title: Oriente
 type: movie
 site: MetArt
-cast: n:Anna AJ; u:https://www.metart.com/model/anna-aj; g:f
+model: n:Anna AJ; id:/model/metart/anna-aj; u:https://www.metart.com/model/anna-aj; g:f
 released: 2009-08-06
 director: Voronin
 fileprefix: MetArt-20090806-oriente-
@@ -729,7 +729,7 @@ description: xxx
 title: Azukal
 type: movie
 site: MetArt
-cast: n:Eva E; u:https://www.metart.com/model/eva-e; g:f
+model: n:Eva E; id:/model/metart/eva-e; u:https://www.metart.com/model/eva-e; g:f
 released: 2009-08-03
 director: Goncharov
 fileprefix: MetArt-20090803-azukal-
@@ -744,7 +744,7 @@ description: xxx
 title: Humanity
 type: movie
 site: MetArt
-cast: n:Jenya D; u:https://www.metart.com/model/jenya-d; g:f
+model: n:Jenya D; id:/model/metart/jenya-d; u:https://www.metart.com/model/jenya-d; g:f
 released: 2009-08-01
 director: Voronin
 fileprefix: MetArt-20090801-humanity-
@@ -759,7 +759,7 @@ description: xxx
 title: Archer
 type: movie
 site: MetArt
-cast: n:Nadin A; u:https://www.metart.com/model/nadin-a; g:f
+model: n:Nadin A; id:/model/metart/nadin-a; u:https://www.metart.com/model/nadin-a; g:f
 released: 2009-07-31
 director: Goncharov
 fileprefix: MetArt-20090731-archer-
@@ -774,7 +774,7 @@ description: xxx
 title: Episodes
 type: movie
 site: MetArt
-cast: n:Inga C; u:https://www.metart.com/model/inga-c; g:f
+model: n:Inga C; id:/model/metart/inga-c; u:https://www.metart.com/model/inga-c; g:f
 released: 2009-07-30
 director: Voronin
 fileprefix: MetArt-20090730-episodes-
@@ -789,7 +789,7 @@ description: xxx
 title: Presenting Dalatika
 type: movie
 site: MetArt
-cast: n:Dalatika A; u:https://www.metart.com/model/dalatika-a; g:f
+model: n:Dalatika A; id:/model/metart/dalatika-a; u:https://www.metart.com/model/dalatika-a; g:f
 released: 2009-07-28
 director: Goncharov
 fileprefix: MetArt-20090728-presenting-dalatika-
@@ -804,7 +804,7 @@ description: xxx
 title: Gain
 type: movie
 site: MetArt
-cast: n:Zara B; u:https://www.metart.com/model/zara-b; g:f
+model: n:Zara B; id:/model/metart/zara-b; u:https://www.metart.com/model/zara-b; g:f
 released: 2009-07-22
 director: Goncharov
 fileprefix: MetArt-20090722-gain-
@@ -819,7 +819,7 @@ description: xxx
 title: Milian
 type: movie
 site: MetArt
-cast: n:Iveta B; u:https://www.metart.com/model/iveta-b; g:f
+model: n:Iveta B; id:/model/metart/iveta-b; u:https://www.metart.com/model/iveta-b; g:f
 released: 2009-07-20
 director: Luca Helios
 fileprefix: MetArt-20090720-milian-
@@ -834,7 +834,7 @@ description: xxx
 title: Gaidinian
 type: movie
 site: MetArt
-cast: n:Nessa A; u:https://www.metart.com/model/nessa-a; g:f
+model: n:Nessa A; id:/model/metart/nessa-a; u:https://www.metart.com/model/nessa-a; g:f
 released: 2009-07-10
 director: Luca Helios
 fileprefix: MetArt-20090710-gaidinian-
@@ -849,7 +849,7 @@ description: xxx
 title: Simple
 type: movie
 site: MetArt
-cast: n:Jenni A; u:https://www.metart.com/model/jenni-a; g:f
+model: n:Jenni A; id:/model/metart/jenni-a; u:https://www.metart.com/model/jenni-a; g:f
 released: 2009-07-08
 director: Luca Helios
 fileprefix: MetArt-20090708-simple-
@@ -864,7 +864,7 @@ description: xxx
 title: Flirter
 type: movie
 site: MetArt
-cast: n:Inga C; u:https://www.metart.com/model/inga-c; g:f
+model: n:Inga C; id:/model/metart/inga-c; u:https://www.metart.com/model/inga-c; g:f
 released: 2009-07-05
 director: Voronin
 fileprefix: MetArt-20090705-flirter-
@@ -879,7 +879,7 @@ description: xxx
 title: Bad
 type: movie
 site: MetArt
-cast: n:Nikky Case; u:https://www.metart.com/model/nikky-case; g:f
+model: n:Nikky Case; id:/model/metart/nikky-case; u:https://www.metart.com/model/nikky-case; g:f
 released: 2009-07-01
 director: Luca Helios
 fileprefix: MetArt-20090701-bad-
@@ -894,7 +894,7 @@ description: xxx
 title: Subtly
 type: movie
 site: MetArt
-cast: n:Emily A; u:https://www.metart.com/model/emily-a; g:f
+model: n:Emily A; id:/model/metart/emily-a; u:https://www.metart.com/model/emily-a; g:f
 released: 2009-06-30
 director: Voronin
 fileprefix: MetArt-20090630-subtly-
@@ -909,7 +909,7 @@ description: xxx
 title: Presenting Zlata
 type: movie
 site: MetArt
-cast: n:Zlata B; u:https://www.metart.com/model/zlata-b; g:f
+model: n:Zlata B; id:/model/metart/zlata-b; u:https://www.metart.com/model/zlata-b; g:f
 released: 2009-06-29
 director: Slastyonoff
 fileprefix: MetArt-20090629-presenting-zlata-
@@ -924,7 +924,7 @@ description: xxx
 title: Closer
 type: movie
 site: MetArt
-cast: n:Lorena B; u:https://www.sexart.com/model/lorena-b; s:SexArt; g:f
+model: n:Lorena B; id:/model/sexart/lorena-b; u:https://www.sexart.com/model/lorena-b; g:f
 released: 2009-06-28
 director: Luca Helios
 fileprefix: MetArt-20090628-closer-
@@ -939,7 +939,7 @@ description: xxx
 title: Optima
 type: movie
 site: MetArt
-cast: n:Katrin B; u:https://www.metart.com/model/katrin-b; g:f
+model: n:Katrin B; id:/model/metart/katrin-b; u:https://www.metart.com/model/katrin-b; g:f
 released: 2009-06-19
 director: Goncharov
 fileprefix: MetArt-20090619-optima-
@@ -954,7 +954,7 @@ description: xxx
 title: Glamour Forever
 type: movie
 site: MetArt
-cast: n:Veronika B; u:https://www.metart.com/model/veronika-b; g:f
+model: n:Veronika B; id:/model/metart/veronika-b; u:https://www.metart.com/model/veronika-b; g:f
 released: 2009-06-18
 director: Los Angeles
 fileprefix: MetArt-20090618-glamour-forever-
@@ -969,7 +969,7 @@ description: xxx
 title: Oceanic
 type: movie
 site: MetArt
-cast: n:Eva E; u:https://www.metart.com/model/eva-e; g:f
+model: n:Eva E; id:/model/metart/eva-e; u:https://www.metart.com/model/eva-e; g:f
 released: 2009-06-16
 director: Goncharov
 fileprefix: MetArt-20090616-oceanic-
@@ -984,7 +984,7 @@ description: xxx
 title: Compagnia
 type: movie
 site: MetArt
-cast: n:Monika A; u:https://www.metart.com/model/monika-a; g:f
+model: n:Monika A; id:/model/metart/monika-a; u:https://www.metart.com/model/monika-a; g:f
 released: 2009-06-15
 director: Luca Helios
 fileprefix: MetArt-20090615-compagnia-
@@ -999,7 +999,7 @@ description: xxx
 title: Riding
 type: movie
 site: MetArt
-cast: n:Olga K; u:https://www.metart.com/model/olga-k; g:f
+model: n:Olga K; id:/model/metart/olga-k; u:https://www.metart.com/model/olga-k; g:f
 released: 2009-06-13
 director: Goncharov
 fileprefix: MetArt-20090613-riding-
@@ -1014,7 +1014,7 @@ description: xxx
 title: Vidas
 type: movie
 site: MetArt
-cast: n:Vika I; u:https://www.metart.com/model/vika-i; g:f
+model: n:Vika I; id:/model/metart/vika-i; u:https://www.metart.com/model/vika-i; g:f
 released: 2009-06-10
 director: Goncharov
 fileprefix: MetArt-20090610-vidas-
@@ -1029,7 +1029,7 @@ description: xxx
 title: Presenting Cat
 type: movie
 site: MetArt
-cast: n:Cat A; u:https://www.metart.com/model/cat-a; g:f
+model: n:Cat A; id:/model/metart/cat-a; u:https://www.metart.com/model/cat-a; g:f
 released: 2009-06-01
 director: Voronin
 fileprefix: MetArt-20090601-presenting-cat-
@@ -1044,7 +1044,7 @@ description: xxx
 title: Magnet
 type: movie
 site: MetArt
-cast: n:Lorena B; u:https://www.sexart.com/model/lorena-b; s:SexArt; g:f
+model: n:Lorena B; id:/model/sexart/lorena-b; u:https://www.sexart.com/model/lorena-b; g:f
 released: 2009-05-26
 director: Luca Helios
 fileprefix: MetArt-20090526-magnet-
@@ -1059,7 +1059,7 @@ description: xxx
 title: Grazia
 type: movie
 site: MetArt
-cast: n:Danae A; u:https://www.metart.com/model/danae-a; g:f
+model: n:Danae A; id:/model/metart/danae-a; u:https://www.metart.com/model/danae-a; g:f
 released: 2009-05-24
 director: Luca Helios
 fileprefix: MetArt-20090524-grazia-
@@ -1074,7 +1074,7 @@ description: xxx
 title: Pathos
 type: movie
 site: MetArt
-cast: n:Nadin A; u:https://www.metart.com/model/nadin-a; g:f
+model: n:Nadin A; id:/model/metart/nadin-a; u:https://www.metart.com/model/nadin-a; g:f
 released: 2009-05-22
 director: Goncharov
 fileprefix: MetArt-20090522-pathos-
@@ -1089,7 +1089,7 @@ description: xxx
 title: Gratitude
 type: movie
 site: MetArt
-cast: n:Felisia A; u:https://www.metart.com/model/felisia-a; g:f
+model: n:Felisia A; id:/model/metart/felisia-a; u:https://www.metart.com/model/felisia-a; g:f
 released: 2009-05-19
 director: Goncharov
 fileprefix: MetArt-20090519-gratitude-
@@ -1104,8 +1104,8 @@ description: xxx
 title: Bathe
 type: movie
 site: MetArt
-cast: n:Niza A; u:https://www.metart.com/model/niza-a; g:f
-cast: n:Lidiya A; u:https://www.metart.com/model/lidiya-a; g:f
+model: n:Niza A; id:/model/metart/niza-a; u:https://www.metart.com/model/niza-a; g:f
+model: n:Lidiya A; id:/model/metart/lidiya-a; u:https://www.metart.com/model/lidiya-a; g:f
 released: 2009-05-17
 director: Goncharov
 fileprefix: MetArt-20090517-bathe-
@@ -1120,7 +1120,7 @@ description: xxx
 title: Trainer
 type: movie
 site: MetArt
-cast: n:Holly B; u:https://www.metart.com/model/holly-b; g:f
+model: n:Holly B; id:/model/metart/holly-b; u:https://www.metart.com/model/holly-b; g:f
 released: 2009-05-15
 director: Luca Helios
 fileprefix: MetArt-20090515-trainer-
@@ -1135,7 +1135,7 @@ description: xxx
 title: Bremen
 type: movie
 site: MetArt
-cast: n:Mira A; u:https://www.metart.com/model/mira-a; g:f
+model: n:Mira A; id:/model/metart/mira-a; u:https://www.metart.com/model/mira-a; g:f
 released: 2009-05-13
 director: Goncharov
 fileprefix: MetArt-20090513-bremen-
@@ -1150,7 +1150,7 @@ description: xxx
 title: Woman
 type: movie
 site: MetArt
-cast: n:Jenya D; u:https://www.metart.com/model/jenya-d; g:f
+model: n:Jenya D; id:/model/metart/jenya-d; u:https://www.metart.com/model/jenya-d; g:f
 released: 2009-05-12
 director: Voronin
 fileprefix: MetArt-20090512-woman-
@@ -1165,8 +1165,8 @@ description: xxx
 title: Extend
 type: movie
 site: MetArt
-cast: n:Jenni A; u:https://www.metart.com/model/jenni-a; g:f
-cast: n:Tanya G; u:https://www.metart.com/model/tanya-g; g:f
+model: n:Jenni A; id:/model/metart/jenni-a; u:https://www.metart.com/model/jenni-a; g:f
+model: n:Tanya G; id:/model/metart/tanya-g; u:https://www.metart.com/model/tanya-g; g:f
 released: 2009-05-10
 director: Luca Helios
 fileprefix: MetArt-20090510-extend-
@@ -1181,7 +1181,7 @@ description: xxx
 title: First Movie
 type: movie
 site: MetArt
-cast: n:Inga C; u:https://www.metart.com/model/inga-c; g:f
+model: n:Inga C; id:/model/metart/inga-c; u:https://www.metart.com/model/inga-c; g:f
 released: 2009-05-09
 director: Voronin
 fileprefix: MetArt-20090509-first-movie-
@@ -1196,7 +1196,7 @@ description: xxx
 title: Presenting Tonya
 type: movie
 site: MetArt
-cast: n:Tonya B; u:https://www.metart.com/model/tonya-b; g:f
+model: n:Tonya B; id:/model/metart/tonya-b; u:https://www.metart.com/model/tonya-b; g:f
 released: 2009-05-06
 director: Voronin
 fileprefix: MetArt-20090506-presenting-tonya-
@@ -1211,7 +1211,7 @@ description: xxx
 title: Engage
 type: movie
 site: MetArt
-cast: n:Dana A; u:https://www.metart.com/model/dana-a; g:f
+model: n:Dana A; id:/model/metart/dana-a; u:https://www.metart.com/model/dana-a; g:f
 released: 2009-05-03
 director: Goncharov
 fileprefix: MetArt-20090503-engage-
@@ -1226,7 +1226,7 @@ description: xxx
 title: Helvetia
 type: movie
 site: MetArt
-cast: n:Anna AJ; u:https://www.metart.com/model/anna-aj; g:f
+model: n:Anna AJ; id:/model/metart/anna-aj; u:https://www.metart.com/model/anna-aj; g:f
 released: 2009-05-01
 director: Voronin
 fileprefix: MetArt-20090501-helvetia-
@@ -1241,7 +1241,7 @@ description: xxx
 title: Presenting Eva
 type: movie
 site: MetArt
-cast: n:Eva E; u:https://www.metart.com/model/eva-e; g:f
+model: n:Eva E; id:/model/metart/eva-e; u:https://www.metart.com/model/eva-e; g:f
 released: 2009-04-27
 director: Goncharov
 fileprefix: MetArt-20090427-presenting-eva-
@@ -1256,7 +1256,7 @@ description: xxx
 title: Energy
 type: movie
 site: MetArt
-cast: n:Altea B; u:https://www.metart.com/model/altea-b; g:f
+model: n:Altea B; id:/model/metart/altea-b; u:https://www.metart.com/model/altea-b; g:f
 released: 2009-04-22
 director: Erro
 fileprefix: MetArt-20090422-energy-
@@ -1271,7 +1271,7 @@ description: xxx
 title: Recognize
 type: movie
 site: MetArt
-cast: n:Beta A; u:https://www.metart.com/model/beta-a; g:f
+model: n:Beta A; id:/model/metart/beta-a; u:https://www.metart.com/model/beta-a; g:f
 released: 2009-04-20
 director: Goncharov
 fileprefix: MetArt-20090420-recognize-
@@ -1286,7 +1286,7 @@ description: xxx
 title: Closeup
 type: movie
 site: MetArt
-cast: n:Viki E; u:https://www.metart.com/model/viki-e; g:f
+model: n:Viki E; id:/model/metart/viki-e; u:https://www.metart.com/model/viki-e; g:f
 released: 2009-04-19
 director: Goncharov
 fileprefix: MetArt-20090419-closeup-
@@ -1301,7 +1301,7 @@ description: xxx
 title: Relexed
 type: movie
 site: MetArt
-cast: n:Hunter A; u:https://www.metart.com/model/hunter-a; g:f
+model: n:Hunter A; id:/model/metart/hunter-a; u:https://www.metart.com/model/hunter-a; g:f
 released: 2009-10-08
 director: Voronin
 fileprefix: MetArt-20091008-relexed-
@@ -1316,7 +1316,7 @@ description: xxx
 title: Villa
 type: movie
 site: MetArt
-cast: n:Iveta B; u:https://www.metart.com/model/iveta-b; g:f
+model: n:Iveta B; id:/model/metart/iveta-b; u:https://www.metart.com/model/iveta-b; g:f
 released: 2009-10-08
 director: Luca Helios
 fileprefix: MetArt-20091008-villa-
@@ -1331,7 +1331,7 @@ description: xxx
 title: Smiling
 type: movie
 site: MetArt
-cast: n:Nina A; u:https://www.metart.com/model/nina-a; g:f
+model: n:Nina A; id:/model/metart/nina-a; u:https://www.metart.com/model/nina-a; g:f
 released: 2009-10-05
 director: Luca Helios
 fileprefix: MetArt-20091005-smiling-
@@ -1346,7 +1346,7 @@ description: xxx
 title: Inmaris
 type: movie
 site: MetArt
-cast: n:Chiara A; u:https://www.metart.com/model/chiara-a; g:f
+model: n:Chiara A; id:/model/metart/chiara-a; u:https://www.metart.com/model/chiara-a; g:f
 released: 2009-10-01
 director: Luca Helios
 fileprefix: MetArt-20091001-inmaris-
@@ -1361,7 +1361,7 @@ description: xxx
 title: Linking
 type: movie
 site: MetArt
-cast: n:Aljena A; u:https://www.metart.com/model/aljena-a; g:f
+model: n:Aljena A; id:/model/metart/aljena-a; u:https://www.metart.com/model/aljena-a; g:f
 released: 2009-09-30
 director: Dmitry Maslof
 fileprefix: MetArt-20090930-linking-
@@ -1376,7 +1376,7 @@ description: xxx
 title: Teraxe
 type: movie
 site: MetArt
-cast: n:Keri A; u:https://www.metart.com/model/keri-a; g:f
+model: n:Keri A; id:/model/metart/keri-a; u:https://www.metart.com/model/keri-a; g:f
 released: 2009-09-23
 director: Goncharov
 fileprefix: MetArt-20090923-teraxe-
@@ -1391,7 +1391,7 @@ description: xxx
 title: First Movie
 type: movie
 site: MetArt
-cast: n:Sara B; u:https://www.metart.com/model/sara-b; g:f
+model: n:Sara B; id:/model/metart/sara-b; u:https://www.metart.com/model/sara-b; g:f
 released: 2009-09-21
 director: Dolce
 fileprefix: MetArt-20090921-first-movie-
@@ -1406,7 +1406,7 @@ description: xxx
 title: Hinnian
 type: movie
 site: MetArt
-cast: n:Mira A; u:https://www.metart.com/model/mira-a; g:f
+model: n:Mira A; id:/model/metart/mira-a; u:https://www.metart.com/model/mira-a; g:f
 released: 2009-09-09
 director: Goncharov
 fileprefix: MetArt-20090909-hinnian-
@@ -1421,7 +1421,7 @@ description: xxx
 title: Nevada
 type: movie
 site: MetArt
-cast: n:Meggan A; u:https://www.metart.com/model/meggan-a; g:f
+model: n:Meggan A; id:/model/metart/meggan-a; u:https://www.metart.com/model/meggan-a; g:f
 released: 2009-09-06
 director: Jason Self
 fileprefix: MetArt-20090906-nevada-
@@ -1436,7 +1436,7 @@ description: xxx
 title: Cavalli
 type: movie
 site: MetArt
-cast: n:Demi A; u:https://www.metart.com/model/demi-a; g:f
+model: n:Demi A; id:/model/metart/demi-a; u:https://www.metart.com/model/demi-a; g:f
 released: 2009-09-05
 director: Luca Helios
 fileprefix: MetArt-20090905-cavalli-
@@ -1451,7 +1451,7 @@ description: xxx
 title: Fragile
 type: movie
 site: MetArt
-cast: n:Tonya B; u:https://www.metart.com/model/tonya-b; g:f
+model: n:Tonya B; id:/model/metart/tonya-b; u:https://www.metart.com/model/tonya-b; g:f
 released: 2009-09-04
 director: Voronin
 fileprefix: MetArt-20090904-fragile-
@@ -1466,7 +1466,7 @@ description: xxx
 title: Stars
 type: movie
 site: MetArt
-cast: n:Eva E; u:https://www.metart.com/model/eva-e; g:f
+model: n:Eva E; id:/model/metart/eva-e; u:https://www.metart.com/model/eva-e; g:f
 released: 2009-09-02
 director: Goncharov
 fileprefix: MetArt-20090902-stars-
@@ -1481,7 +1481,7 @@ description: xxx
 title: Ville
 type: movie
 site: MetArt
-cast: n:Sofi A; u:https://www.metart.com/model/sofi-a; g:f
+model: n:Sofi A; id:/model/metart/sofi-a; u:https://www.metart.com/model/sofi-a; g:f
 released: 2009-09-01
 director: Goncharov
 fileprefix: MetArt-20090901-ville-
@@ -1496,7 +1496,7 @@ description: xxx
 title: Fuochi
 type: movie
 site: MetArt
-cast: n:Sasha J; u:https://www.metart.com/model/sasha-j; g:f
+model: n:Sasha J; id:/model/metart/sasha-j; u:https://www.metart.com/model/sasha-j; g:f
 released: 2009-08-31
 director: Dmitry Maslof
 fileprefix: MetArt-20090831-fuochi-
@@ -1511,7 +1511,7 @@ description: xxx
 title: Kal
 type: movie
 site: MetArt
-cast: n:Bijou A; u:https://www.metart.com/model/bijou-a; g:f
+model: n:Bijou A; id:/model/metart/bijou-a; u:https://www.metart.com/model/bijou-a; g:f
 released: 2009-08-26
 director: Luca Helios
 fileprefix: MetArt-20090826-kal-
@@ -1526,7 +1526,7 @@ description: xxx
 title: Riall
 type: movie
 site: MetArt
-cast: n:Katrin B; u:https://www.metart.com/model/katrin-b; g:f
+model: n:Katrin B; id:/model/metart/katrin-b; u:https://www.metart.com/model/katrin-b; g:f
 released: 2009-08-25
 director: Goncharov
 fileprefix: MetArt-20090825-riall-
@@ -1541,7 +1541,7 @@ description: xxx
 title: Istanbul
 type: movie
 site: MetArt
-cast: n:Monika Vesela; u:https://www.metart.com/model/monika-vesela; g:f
+model: n:Monika Vesela; id:/model/metart/monika-vesela; u:https://www.metart.com/model/monika-vesela; g:f
 released: 2009-08-24
 director: Luca Helios
 fileprefix: MetArt-20090824-istanbul-
@@ -1556,8 +1556,8 @@ description: xxx
 title: Quarters
 type: movie
 site: MetArt
-cast: n:Vika AB; u:https://www.metart.com/model/vika-ab; g:f
-cast: n:Zara B; u:https://www.metart.com/model/zara-b; g:f
+model: n:Vika AB; id:/model/metart/vika-ab; u:https://www.metart.com/model/vika-ab; g:f
+model: n:Zara B; id:/model/metart/zara-b; u:https://www.metart.com/model/zara-b; g:f
 released: 2009-08-23
 director: Goncharov
 fileprefix: MetArt-20090823-quarters-
@@ -1572,7 +1572,7 @@ description: xxx
 title: Expand
 type: movie
 site: MetArt
-cast: n:Sonia Red; u:https://www.metart.com/model/sonia-red; g:f
+model: n:Sonia Red; id:/model/metart/sonia-red; u:https://www.metart.com/model/sonia-red; g:f
 released: 2009-08-22
 director: Luca Helios
 fileprefix: MetArt-20090822-expand-
@@ -1587,7 +1587,7 @@ description: xxx
 title: Mesok
 type: movie
 site: MetArt
-cast: n:Katrin B; u:https://www.metart.com/model/katrin-b; g:f
+model: n:Katrin B; id:/model/metart/katrin-b; u:https://www.metart.com/model/katrin-b; g:f
 released: 2009-08-09
 director: Michael Maker
 fileprefix: MetArt-20090809-mesok-
@@ -1602,7 +1602,7 @@ description: xxx
 title: Presenting Alisa
 type: movie
 site: MetArt
-cast: n:Alisa E; u:https://www.metart.com/model/alisa-e; g:f
+model: n:Alisa E; id:/model/metart/alisa-e; u:https://www.metart.com/model/alisa-e; g:f
 released: 2009-08-07
 director: Goncharov
 fileprefix: MetArt-20090807-presenting-alisa-
@@ -1617,7 +1617,7 @@ description: xxx
 title: Oriente
 type: movie
 site: MetArt
-cast: n:Anna AJ; u:https://www.metart.com/model/anna-aj; g:f
+model: n:Anna AJ; id:/model/metart/anna-aj; u:https://www.metart.com/model/anna-aj; g:f
 released: 2009-08-06
 director: Voronin
 fileprefix: MetArt-20090806-oriente-
@@ -1632,7 +1632,7 @@ description: xxx
 title: Azukal
 type: movie
 site: MetArt
-cast: n:Eva E; u:https://www.metart.com/model/eva-e; g:f
+model: n:Eva E; id:/model/metart/eva-e; u:https://www.metart.com/model/eva-e; g:f
 released: 2009-08-03
 director: Goncharov
 fileprefix: MetArt-20090803-azukal-
@@ -1647,7 +1647,7 @@ description: xxx
 title: Humanity
 type: movie
 site: MetArt
-cast: n:Jenya D; u:https://www.metart.com/model/jenya-d; g:f
+model: n:Jenya D; id:/model/metart/jenya-d; u:https://www.metart.com/model/jenya-d; g:f
 released: 2009-08-01
 director: Voronin
 fileprefix: MetArt-20090801-humanity-
@@ -1662,7 +1662,7 @@ description: xxx
 title: Archer
 type: movie
 site: MetArt
-cast: n:Nadin A; u:https://www.metart.com/model/nadin-a; g:f
+model: n:Nadin A; id:/model/metart/nadin-a; u:https://www.metart.com/model/nadin-a; g:f
 released: 2009-07-31
 director: Goncharov
 fileprefix: MetArt-20090731-archer-
@@ -1677,7 +1677,7 @@ description: xxx
 title: Episodes
 type: movie
 site: MetArt
-cast: n:Inga C; u:https://www.metart.com/model/inga-c; g:f
+model: n:Inga C; id:/model/metart/inga-c; u:https://www.metart.com/model/inga-c; g:f
 released: 2009-07-30
 director: Voronin
 fileprefix: MetArt-20090730-episodes-
@@ -1692,7 +1692,7 @@ description: xxx
 title: Presenting Dalatika
 type: movie
 site: MetArt
-cast: n:Dalatika A; u:https://www.metart.com/model/dalatika-a; g:f
+model: n:Dalatika A; id:/model/metart/dalatika-a; u:https://www.metart.com/model/dalatika-a; g:f
 released: 2009-07-28
 director: Goncharov
 fileprefix: MetArt-20090728-presenting-dalatika-
@@ -1707,7 +1707,7 @@ description: xxx
 title: Gain
 type: movie
 site: MetArt
-cast: n:Zara B; u:https://www.metart.com/model/zara-b; g:f
+model: n:Zara B; id:/model/metart/zara-b; u:https://www.metart.com/model/zara-b; g:f
 released: 2009-07-22
 director: Goncharov
 fileprefix: MetArt-20090722-gain-
@@ -1722,7 +1722,7 @@ description: xxx
 title: Milian
 type: movie
 site: MetArt
-cast: n:Iveta B; u:https://www.metart.com/model/iveta-b; g:f
+model: n:Iveta B; id:/model/metart/iveta-b; u:https://www.metart.com/model/iveta-b; g:f
 released: 2009-07-20
 director: Luca Helios
 fileprefix: MetArt-20090720-milian-
@@ -1737,7 +1737,7 @@ description: xxx
 title: Gaidinian
 type: movie
 site: MetArt
-cast: n:Nessa A; u:https://www.metart.com/model/nessa-a; g:f
+model: n:Nessa A; id:/model/metart/nessa-a; u:https://www.metart.com/model/nessa-a; g:f
 released: 2009-07-10
 director: Luca Helios
 fileprefix: MetArt-20090710-gaidinian-
@@ -1752,7 +1752,7 @@ description: xxx
 title: Simple
 type: movie
 site: MetArt
-cast: n:Jenni A; u:https://www.metart.com/model/jenni-a; g:f
+model: n:Jenni A; id:/model/metart/jenni-a; u:https://www.metart.com/model/jenni-a; g:f
 released: 2009-07-08
 director: Luca Helios
 fileprefix: MetArt-20090708-simple-
@@ -1767,7 +1767,7 @@ description: xxx
 title: Flirter
 type: movie
 site: MetArt
-cast: n:Inga C; u:https://www.metart.com/model/inga-c; g:f
+model: n:Inga C; id:/model/metart/inga-c; u:https://www.metart.com/model/inga-c; g:f
 released: 2009-07-05
 director: Voronin
 fileprefix: MetArt-20090705-flirter-
@@ -1782,7 +1782,7 @@ description: xxx
 title: Bad
 type: movie
 site: MetArt
-cast: n:Nikky Case; u:https://www.metart.com/model/nikky-case; g:f
+model: n:Nikky Case; id:/model/metart/nikky-case; u:https://www.metart.com/model/nikky-case; g:f
 released: 2009-07-01
 director: Luca Helios
 fileprefix: MetArt-20090701-bad-
@@ -1797,7 +1797,7 @@ description: xxx
 title: Subtly
 type: movie
 site: MetArt
-cast: n:Emily A; u:https://www.metart.com/model/emily-a; g:f
+model: n:Emily A; id:/model/metart/emily-a; u:https://www.metart.com/model/emily-a; g:f
 released: 2009-06-30
 director: Voronin
 fileprefix: MetArt-20090630-subtly-
@@ -1812,7 +1812,7 @@ description: xxx
 title: Presenting Zlata
 type: movie
 site: MetArt
-cast: n:Zlata B; u:https://www.metart.com/model/zlata-b; g:f
+model: n:Zlata B; id:/model/metart/zlata-b; u:https://www.metart.com/model/zlata-b; g:f
 released: 2009-06-29
 director: Slastyonoff
 fileprefix: MetArt-20090629-presenting-zlata-
@@ -1827,7 +1827,7 @@ description: xxx
 title: Closer
 type: movie
 site: MetArt
-cast: n:Lorena B; u:https://www.sexart.com/model/lorena-b; s:SexArt; g:f
+model: n:Lorena B; id:/model/sexart/lorena-b; u:https://www.sexart.com/model/lorena-b; g:f
 released: 2009-06-28
 director: Luca Helios
 fileprefix: MetArt-20090628-closer-
@@ -1842,7 +1842,7 @@ description: xxx
 title: Optima
 type: movie
 site: MetArt
-cast: n:Katrin B; u:https://www.metart.com/model/katrin-b; g:f
+model: n:Katrin B; id:/model/metart/katrin-b; u:https://www.metart.com/model/katrin-b; g:f
 released: 2009-06-19
 director: Goncharov
 fileprefix: MetArt-20090619-optima-
@@ -1857,7 +1857,7 @@ description: xxx
 title: Glamour Forever
 type: movie
 site: MetArt
-cast: n:Veronika B; u:https://www.metart.com/model/veronika-b; g:f
+model: n:Veronika B; id:/model/metart/veronika-b; u:https://www.metart.com/model/veronika-b; g:f
 released: 2009-06-18
 director: Los Angeles
 fileprefix: MetArt-20090618-glamour-forever-
@@ -1872,7 +1872,7 @@ description: xxx
 title: Oceanic
 type: movie
 site: MetArt
-cast: n:Eva E; u:https://www.metart.com/model/eva-e; g:f
+model: n:Eva E; id:/model/metart/eva-e; u:https://www.metart.com/model/eva-e; g:f
 released: 2009-06-16
 director: Goncharov
 fileprefix: MetArt-20090616-oceanic-
@@ -1887,7 +1887,7 @@ description: xxx
 title: Compagnia
 type: movie
 site: MetArt
-cast: n:Monika A; u:https://www.metart.com/model/monika-a; g:f
+model: n:Monika A; id:/model/metart/monika-a; u:https://www.metart.com/model/monika-a; g:f
 released: 2009-06-15
 director: Luca Helios
 fileprefix: MetArt-20090615-compagnia-
@@ -1902,7 +1902,7 @@ description: xxx
 title: Riding
 type: movie
 site: MetArt
-cast: n:Olga K; u:https://www.metart.com/model/olga-k; g:f
+model: n:Olga K; id:/model/metart/olga-k; u:https://www.metart.com/model/olga-k; g:f
 released: 2009-06-13
 director: Goncharov
 fileprefix: MetArt-20090613-riding-
@@ -1917,7 +1917,7 @@ description: xxx
 title: Vidas
 type: movie
 site: MetArt
-cast: n:Vika I; u:https://www.metart.com/model/vika-i; g:f
+model: n:Vika I; id:/model/metart/vika-i; u:https://www.metart.com/model/vika-i; g:f
 released: 2009-06-10
 director: Goncharov
 fileprefix: MetArt-20090610-vidas-
@@ -1932,7 +1932,7 @@ description: xxx
 title: Presenting Cat
 type: movie
 site: MetArt
-cast: n:Cat A; u:https://www.metart.com/model/cat-a; g:f
+model: n:Cat A; id:/model/metart/cat-a; u:https://www.metart.com/model/cat-a; g:f
 released: 2009-06-01
 director: Voronin
 fileprefix: MetArt-20090601-presenting-cat-
@@ -1947,7 +1947,7 @@ description: xxx
 title: Magnet
 type: movie
 site: MetArt
-cast: n:Lorena B; u:https://www.sexart.com/model/lorena-b; s:SexArt; g:f
+model: n:Lorena B; id:/model/sexart/lorena-b; u:https://www.sexart.com/model/lorena-b; g:f
 released: 2009-05-26
 director: Luca Helios
 fileprefix: MetArt-20090526-magnet-
@@ -1962,7 +1962,7 @@ description: xxx
 title: Grazia
 type: movie
 site: MetArt
-cast: n:Danae A; u:https://www.metart.com/model/danae-a; g:f
+model: n:Danae A; id:/model/metart/danae-a; u:https://www.metart.com/model/danae-a; g:f
 released: 2009-05-24
 director: Luca Helios
 fileprefix: MetArt-20090524-grazia-
@@ -1977,7 +1977,7 @@ description: xxx
 title: Pathos
 type: movie
 site: MetArt
-cast: n:Nadin A; u:https://www.metart.com/model/nadin-a; g:f
+model: n:Nadin A; id:/model/metart/nadin-a; u:https://www.metart.com/model/nadin-a; g:f
 released: 2009-05-22
 director: Goncharov
 fileprefix: MetArt-20090522-pathos-
@@ -1992,7 +1992,7 @@ description: xxx
 title: Gratitude
 type: movie
 site: MetArt
-cast: n:Felisia A; u:https://www.metart.com/model/felisia-a; g:f
+model: n:Felisia A; id:/model/metart/felisia-a; u:https://www.metart.com/model/felisia-a; g:f
 released: 2009-05-19
 director: Goncharov
 fileprefix: MetArt-20090519-gratitude-
@@ -2007,8 +2007,8 @@ description: xxx
 title: Bathe
 type: movie
 site: MetArt
-cast: n:Niza A; u:https://www.metart.com/model/niza-a; g:f
-cast: n:Lidiya A; u:https://www.metart.com/model/lidiya-a; g:f
+model: n:Niza A; id:/model/metart/niza-a; u:https://www.metart.com/model/niza-a; g:f
+model: n:Lidiya A; id:/model/metart/lidiya-a; u:https://www.metart.com/model/lidiya-a; g:f
 released: 2009-05-17
 director: Goncharov
 fileprefix: MetArt-20090517-bathe-
@@ -2023,7 +2023,7 @@ description: xxx
 title: Trainer
 type: movie
 site: MetArt
-cast: n:Holly B; u:https://www.metart.com/model/holly-b; g:f
+model: n:Holly B; id:/model/metart/holly-b; u:https://www.metart.com/model/holly-b; g:f
 released: 2009-05-15
 director: Luca Helios
 fileprefix: MetArt-20090515-trainer-
@@ -2038,7 +2038,7 @@ description: xxx
 title: Bremen
 type: movie
 site: MetArt
-cast: n:Mira A; u:https://www.metart.com/model/mira-a; g:f
+model: n:Mira A; id:/model/metart/mira-a; u:https://www.metart.com/model/mira-a; g:f
 released: 2009-05-13
 director: Goncharov
 fileprefix: MetArt-20090513-bremen-
@@ -2053,7 +2053,7 @@ description: xxx
 title: Woman
 type: movie
 site: MetArt
-cast: n:Jenya D; u:https://www.metart.com/model/jenya-d; g:f
+model: n:Jenya D; id:/model/metart/jenya-d; u:https://www.metart.com/model/jenya-d; g:f
 released: 2009-05-12
 director: Voronin
 fileprefix: MetArt-20090512-woman-
@@ -2068,8 +2068,8 @@ description: xxx
 title: Extend
 type: movie
 site: MetArt
-cast: n:Jenni A; u:https://www.metart.com/model/jenni-a; g:f
-cast: n:Tanya G; u:https://www.metart.com/model/tanya-g; g:f
+model: n:Jenni A; id:/model/metart/jenni-a; u:https://www.metart.com/model/jenni-a; g:f
+model: n:Tanya G; id:/model/metart/tanya-g; u:https://www.metart.com/model/tanya-g; g:f
 released: 2009-05-10
 director: Luca Helios
 fileprefix: MetArt-20090510-extend-
@@ -2084,7 +2084,7 @@ description: xxx
 title: First Movie
 type: movie
 site: MetArt
-cast: n:Inga C; u:https://www.metart.com/model/inga-c; g:f
+model: n:Inga C; id:/model/metart/inga-c; u:https://www.metart.com/model/inga-c; g:f
 released: 2009-05-09
 director: Voronin
 fileprefix: MetArt-20090509-first-movie-
@@ -2099,7 +2099,7 @@ description: xxx
 title: Presenting Tonya
 type: movie
 site: MetArt
-cast: n:Tonya B; u:https://www.metart.com/model/tonya-b; g:f
+model: n:Tonya B; id:/model/metart/tonya-b; u:https://www.metart.com/model/tonya-b; g:f
 released: 2009-05-06
 director: Voronin
 fileprefix: MetArt-20090506-presenting-tonya-
@@ -2114,7 +2114,7 @@ description: xxx
 title: Engage
 type: movie
 site: MetArt
-cast: n:Dana A; u:https://www.metart.com/model/dana-a; g:f
+model: n:Dana A; id:/model/metart/dana-a; u:https://www.metart.com/model/dana-a; g:f
 released: 2009-05-03
 director: Goncharov
 fileprefix: MetArt-20090503-engage-
@@ -2129,7 +2129,7 @@ description: xxx
 title: Helvetia
 type: movie
 site: MetArt
-cast: n:Anna AJ; u:https://www.metart.com/model/anna-aj; g:f
+model: n:Anna AJ; id:/model/metart/anna-aj; u:https://www.metart.com/model/anna-aj; g:f
 released: 2009-05-01
 director: Voronin
 fileprefix: MetArt-20090501-helvetia-
@@ -2144,7 +2144,7 @@ description: xxx
 title: Presenting Eva
 type: movie
 site: MetArt
-cast: n:Eva E; u:https://www.metart.com/model/eva-e; g:f
+model: n:Eva E; id:/model/metart/eva-e; u:https://www.metart.com/model/eva-e; g:f
 released: 2009-04-27
 director: Goncharov
 fileprefix: MetArt-20090427-presenting-eva-
@@ -2159,7 +2159,7 @@ description: xxx
 title: Energy
 type: movie
 site: MetArt
-cast: n:Altea B; u:https://www.metart.com/model/altea-b; g:f
+model: n:Altea B; id:/model/metart/altea-b; u:https://www.metart.com/model/altea-b; g:f
 released: 2009-04-22
 director: Erro
 fileprefix: MetArt-20090422-energy-
@@ -2174,7 +2174,7 @@ description: xxx
 title: Recognize
 type: movie
 site: MetArt
-cast: n:Beta A; u:https://www.metart.com/model/beta-a; g:f
+model: n:Beta A; id:/model/metart/beta-a; u:https://www.metart.com/model/beta-a; g:f
 released: 2009-04-20
 director: Goncharov
 fileprefix: MetArt-20090420-recognize-
@@ -2189,7 +2189,7 @@ description: xxx
 title: Closeup
 type: movie
 site: MetArt
-cast: n:Viki E; u:https://www.metart.com/model/viki-e; g:f
+model: n:Viki E; id:/model/metart/viki-e; u:https://www.metart.com/model/viki-e; g:f
 released: 2009-04-19
 director: Goncharov
 fileprefix: MetArt-20090419-closeup-

@@ -8,8 +8,8 @@
 title: Strawberries And Kisses
 type: gallery
 site: VivThomas
-cast: n:Roni; u:https://www.sexart.com/model/roni; g:f; s:SexArt
-cast: n:Casey A; u:https://www.vivthomas.com/model/casey-a
+model: n:Roni; id:/model/sexart/roni; u:https://www.sexart.com/model/roni; g:f
+model: n:Casey A; id:/model/vivthomas/casey-a; u:https://www.vivthomas.com/model/casey-a
 released: 2024-12-30
 director: Tora Ness
 fileprefix: VivThomas-20241230-strawberries-and-kisses
@@ -54,7 +54,7 @@ tag: striptease
 title: Christmas Song
 type: gallery
 site: VivThomas
-cast: n:Jadilica; u:https://www.sexart.com/model/jadilica; g:f
+model: n:Jadilica; id:/model/sexart/jadilica; u:https://www.sexart.com/model/jadilica; g:f
 released: 2024-12-28
 director: Walter Schotten
 fileprefix: VivThomas-20241228-christmas-song
@@ -95,8 +95,8 @@ tag: upskirt
 title: Christmas Spirit
 type: gallery
 site: VivThomas
-cast: n:Talia Mint; u:https://www.sexart.com/model/talia-mint; g:f
-cast: n:Amirah Adara; u:https://www.sexart.com/model/amirah-adara; g:f
+model: n:Talia Mint; id:/model/sexart/talia-mint; u:https://www.sexart.com/model/talia-mint; g:f
+model: n:Amirah Adara; id:/model/sexart/amirah-adara; u:https://www.sexart.com/model/amirah-adara; g:f
 released: 2024-12-24
 director: Sandra Shine
 fileprefix: VivThomas-20241224-christmas-spirit
@@ -138,7 +138,7 @@ tag: ukraine
 title: Gift Unwrapped
 type: gallery
 site: VivThomas
-cast: n:Dina Cy; u:https://www.vivthomas.com/model/dina-cy; g:f
+model: n:Dina Cy; id:/model/vivthomas/dina-cy; u:https://www.vivthomas.com/model/dina-cy; g:f
 released: 2024-12-22
 director: Chorniy Art
 fileprefix: VivThomas-20241222-gift-unwrapped
@@ -171,8 +171,8 @@ tag: ukraine
 title: Making Out
 type: gallery
 site: VivThomas
-cast: n:Amalia Davis; u:https://www.sexart.com/model/amalia-davis; g:f
-cast: n:Alice Klay; u:https://www.vivthomas.com/model/alice-klay
+model: n:Amalia Davis; id:/model/sexart/amalia-davis; u:https://www.sexart.com/model/amalia-davis; g:f
+model: n:Alice Klay; id:/model/vivthomas/alice-klay; u:https://www.vivthomas.com/model/alice-klay
 released: 2024-12-19
 director: Sandra Shine
 fileprefix: VivThomas-20241219-making-out
@@ -216,8 +216,8 @@ tag: thongs
 title: Sexy Inspiration
 type: gallery
 site: VivThomas
-cast: n:Ella Bonita; u:https://www.sexart.com/model/ella-bonita; g:f
-cast: n:Mirka; u:https://www.sexart.com/model/mirka; g:f
+model: n:Ella Bonita; id:/model/sexart/ella-bonita; u:https://www.sexart.com/model/ella-bonita; g:f
+model: n:Mirka; id:/model/sexart/mirka; u:https://www.sexart.com/model/mirka; g:f
 released: 2024-12-16
 director: Tora Ness
 fileprefix: VivThomas-20241216-sexy-inspiration
@@ -263,7 +263,7 @@ tag: striptease
 title: Winter Getaway
 type: gallery
 site: VivThomas
-cast: n:Rosah; u:https://www.vivthomas.com/model/rosah; g:f
+model: n:Rosah; id:/model/vivthomas/rosah; u:https://www.vivthomas.com/model/rosah; g:f
 released: 2024-12-14
 director: David Menich
 fileprefix: VivThomas-20241214-winter-getaway
@@ -293,8 +293,8 @@ tag: thailand
 title: Striking Pose
 type: gallery
 site: VivThomas
-cast: n:Cherry Candle; u:https://www.vivthomas.com/model/cherry-candle; g:f
-cast: n:Britney Dutch; u:https://www.vivthomas.com/model/britney-dutch; g:f
+model: n:Cherry Candle; id:/model/vivthomas/cherry-candle; u:https://www.vivthomas.com/model/cherry-candle; g:f
+model: n:Britney Dutch; id:/model/vivthomas/britney-dutch; u:https://www.vivthomas.com/model/britney-dutch; g:f
 released: 2024-12-10
 director: Sandra Shine
 fileprefix: VivThomas-20241210-striking-pose
@@ -344,7 +344,7 @@ tag: thongs
 title: Heaven Scent
 type: gallery
 site: VivThomas
-cast: n:Lilly Mays; u:https://www.vivthomas.com/model/lilly-mays; g:f
+model: n:Lilly Mays; id:/model/vivthomas/lilly-mays; u:https://www.vivthomas.com/model/lilly-mays; g:f
 released: 2024-12-08
 director: Tora Ness
 fileprefix: VivThomas-20241208-heaven-scent
@@ -379,8 +379,8 @@ tag: upskirt
 title: Tender Passion
 type: gallery
 site: VivThomas
-cast: n:Stella Cardo; u:https://www.sexart.com/model/stella-cardo; g:f
-cast: n:Lily Blossom; u:https://www.vivthomas.com/model/lily-blossom; g:f
+model: n:Stella Cardo; id:/model/sexart/stella-cardo; u:https://www.sexart.com/model/stella-cardo; g:f
+model: n:Lily Blossom; id:/model/vivthomas/lily-blossom; u:https://www.vivthomas.com/model/lily-blossom; g:f
 released: 2024-12-05
 director: Sandra Shine
 fileprefix: VivThomas-20241205-tender-passion
@@ -428,8 +428,8 @@ tag: table
 title: Stay In Bed
 type: gallery
 site: VivThomas
-cast: n:Jo; u:https://www.vivthomas.com/model/jo
-cast: n:Eveline Dellai; u:https://www.sexart.com/model/eveline-dellai; g:f
+model: n:Jo; id:/model/vivthomas/jo; u:https://www.vivthomas.com/model/jo
+model: n:Eveline Dellai; id:/model/sexart/eveline-dellai; u:https://www.sexart.com/model/eveline-dellai; g:f
 released: 2024-12-02
 director: Sandra Shine
 fileprefix: VivThomas-20241202-stay-in-bed
@@ -474,7 +474,7 @@ tag: striptease
 title: Fashionable
 type: gallery
 site: VivThomas
-cast: n:Dina Cy; u:https://www.vivthomas.com/model/dina-cy; g:f
+model: n:Dina Cy; id:/model/vivthomas/dina-cy; u:https://www.vivthomas.com/model/dina-cy; g:f
 released: 2024-11-30
 director: Chorniy Art
 fileprefix: VivThomas-20241130-fashionable
@@ -506,8 +506,8 @@ tag: ukraine
 title: Kiss Me Here
 type: gallery
 site: VivThomas
-cast: n:Shelena; u:https://www.vivthomas.com/model/shelena; g:f
-cast: n:Alexa Flexy; u:https://www.vivthomas.com/model/alexa-flexy; g:f
+model: n:Shelena; id:/model/vivthomas/shelena; u:https://www.vivthomas.com/model/shelena; g:f
+model: n:Alexa Flexy; id:/model/vivthomas/alexa-flexy; u:https://www.vivthomas.com/model/alexa-flexy; g:f
 released: 2024-11-26
 director: Sandra Shine
 fileprefix: VivThomas-20241126-kiss-me-here
@@ -552,8 +552,8 @@ tag: thongs
 title: Warm Feelings
 type: gallery
 site: VivThomas
-cast: n:Blu Chanelle; u:https://www.vivthomas.com/model/blu-chanelle; g:f
-cast: n:Veronica Leal; u:https://www.vivthomas.com/model/veronica-leal; g:f
+model: n:Blu Chanelle; id:/model/vivthomas/blu-chanelle; u:https://www.vivthomas.com/model/blu-chanelle; g:f
+model: n:Veronica Leal; id:/model/vivthomas/veronica-leal; u:https://www.vivthomas.com/model/veronica-leal; g:f
 released: 2024-11-21
 director: Sandra Shine
 fileprefix: VivThomas-20241121-warm-feelings
@@ -605,8 +605,8 @@ tag: venezuela
 title: Strip Poker
 type: gallery
 site: VivThomas
-cast: n:Chica Minori; u:https://www.vivthomas.com/model/chica-minori; g:f
-cast: n:Lexi Montana; u:https://www.vivthomas.com/model/lexi-montana; g:f
+model: n:Chica Minori; id:/model/vivthomas/chica-minori; u:https://www.vivthomas.com/model/chica-minori; g:f
+model: n:Lexi Montana; id:/model/vivthomas/lexi-montana; u:https://www.vivthomas.com/model/lexi-montana; g:f
 released: 2024-11-18
 director: Sandra Shine
 fileprefix: VivThomas-20241118-strip-poker
@@ -652,7 +652,7 @@ tag: ukraine
 title: Kiss The Chef
 type: gallery
 site: VivThomas
-cast: n:Libby Bright; u:https://www.vivthomas.com/model/libby-bright; g:f
+model: n:Libby Bright; id:/model/vivthomas/libby-bright; u:https://www.vivthomas.com/model/libby-bright; g:f
 released: 2024-11-16
 director: Chorniy Art
 fileprefix: VivThomas-20241116-kiss-the-chef
@@ -689,8 +689,8 @@ tag: table
 title: Loving Touch
 type: gallery
 site: VivThomas
-cast: n:Sata Jones; u:https://www.vivthomas.com/model/sata-jones; g:f
-cast: n:Betzz; u:https://www.sexart.com/model/betzz; g:f
+model: n:Sata Jones; id:/model/vivthomas/sata-jones; u:https://www.vivthomas.com/model/sata-jones; g:f
+model: n:Betzz; id:/model/sexart/betzz; u:https://www.sexart.com/model/betzz; g:f
 released: 2024-11-12
 director: Sandra Shine
 fileprefix: VivThomas-20241112-loving-touch
@@ -743,8 +743,8 @@ tag: thongs
 title: Reflect Our Love
 type: gallery
 site: VivThomas
-cast: n:Arina Shy; u:https://www.vivthomas.com/model/arina-shy; g:f
-cast: n:Barbie Rous; u:https://www.vivthomas.com/model/barbie-rous; g:f
+model: n:Arina Shy; id:/model/vivthomas/arina-shy; u:https://www.vivthomas.com/model/arina-shy; g:f
+model: n:Barbie Rous; id:/model/vivthomas/barbie-rous; u:https://www.vivthomas.com/model/barbie-rous; g:f
 released: 2024-11-07
 director: Sandra Shine
 fileprefix: VivThomas-20241107-reflect-our-love
@@ -794,8 +794,8 @@ tag: white stockings
 title: Study My Body
 type: gallery
 site: VivThomas
-cast: n:Lee Anne; u:https://www.sexart.com/model/lee-anne; g:f
-cast: n:Alice Klay; u:https://www.vivthomas.com/model/alice-klay; g:f
+model: n:Lee Anne; id:/model/sexart/lee-anne; u:https://www.sexart.com/model/lee-anne; g:f
+model: n:Alice Klay; id:/model/vivthomas/alice-klay; u:https://www.vivthomas.com/model/alice-klay; g:f
 released: 2024-11-04
 director: Sandra Shine
 fileprefix: VivThomas-20241104-study-my-body
@@ -847,7 +847,7 @@ tag: striptease
 title: Home Comforts
 type: gallery
 site: VivThomas
-cast: n:Julia Morozzi; u:https://www.vivthomas.com/model/julia-morozzi
+model: n:Julia Morozzi; id:/model/vivthomas/julia-morozzi; u:https://www.vivthomas.com/model/julia-morozzi
 released: 2024-11-02
 director: Walter Schotten
 fileprefix: VivThomas-20241102-home-comforts
@@ -884,8 +884,8 @@ tag: swing
 title: Belong Together
 type: gallery
 site: VivThomas
-cast: n:Pearl; u:https://www.sexart.com/model/pearl; g:f
-cast: n:Stacy Cruz; u:https://www.sexart.com/model/stacy-cruz; g:f
+model: n:Pearl; id:/model/sexart/pearl; u:https://www.sexart.com/model/pearl; g:f
+model: n:Stacy Cruz; id:/model/sexart/stacy-cruz; u:https://www.sexart.com/model/stacy-cruz; g:f
 released: 2024-10-29
 director: Sandra Shine
 fileprefix: VivThomas-20241029-belong-together
@@ -927,8 +927,8 @@ tag: trimmed pussy
 title: Kiss Me Nicely
 type: gallery
 site: VivThomas
-cast: n:Zazie S; u:https://www.vivthomas.com/model/zazie-s
-cast: n:Talia Mint; u:https://www.sexart.com/model/talia-mint
+model: n:Zazie S; id:/model/vivthomas/zazie-s; u:https://www.vivthomas.com/model/zazie-s
+model: n:Talia Mint; id:/model/sexart/talia-mint; u:https://www.sexart.com/model/talia-mint
 released: 2024-10-24
 director: Sandra Shine
 fileprefix: VivThomas-20241024-kiss-me-nicely
@@ -981,8 +981,8 @@ tag: ukraine
 title: Pay Attention To Me
 type: gallery
 site: VivThomas
-cast: n:Stella Cardo; u:https://www.sexart.com/model/stella-cardo; g:f
-cast: n:Ophelia Dust; u:https://www.vivthomas.com/model/ophelia-dust
+model: n:Stella Cardo; id:/model/sexart/stella-cardo; u:https://www.sexart.com/model/stella-cardo; g:f
+model: n:Ophelia Dust; id:/model/vivthomas/ophelia-dust; u:https://www.vivthomas.com/model/ophelia-dust
 released: 2024-10-21
 director: Sandra Shine
 fileprefix: VivThomas-20241021-pay-attention-to-me
@@ -1032,7 +1032,7 @@ tag: tattoo
 title: Shower Time
 type: gallery
 site: VivThomas
-cast: n:Dina Cy; u:https://www.vivthomas.com/model/dina-cy
+model: n:Dina Cy; id:/model/vivthomas/dina-cy; u:https://www.vivthomas.com/model/dina-cy
 released: 2024-10-19
 director: Chorniy Art
 fileprefix: VivThomas-20241019-shower-time
@@ -1068,8 +1068,8 @@ tag: ukraine
 title: Make Me Happy
 type: gallery
 site: VivThomas
-cast: n:Amalia Davis; u:https://www.sexart.com/model/amalia-davis; g:f
-cast: n:Sirena Milano; u:https://www.sexart.com/model/sirena-milano; g:f
+model: n:Amalia Davis; id:/model/sexart/amalia-davis; u:https://www.sexart.com/model/amalia-davis; g:f
+model: n:Sirena Milano; id:/model/sexart/sirena-milano; u:https://www.sexart.com/model/sirena-milano; g:f
 released: 2024-10-15
 director: Sandra Shine
 fileprefix: VivThomas-20241015-make-me-happy
@@ -1118,7 +1118,7 @@ tag: thongs
 title: Spirited
 type: gallery
 site: VivThomas
-cast: n:Ada Lapiedra; u:https://www.sexart.com/model/ada-lapiedra; g:f
+model: n:Ada Lapiedra; id:/model/sexart/ada-lapiedra; u:https://www.sexart.com/model/ada-lapiedra; g:f
 released: 2024-10-13
 director: Sandra Shine
 fileprefix: VivThomas-20241013-spirited
@@ -1152,8 +1152,8 @@ tag: tattoo
 title: Pastel Kisses
 type: gallery
 site: VivThomas
-cast: n:Oxana Chic; u:https://www.sexart.com/model/oxana-chic; g:f
-cast: n:Casey A; u:https://www.vivthomas.com/model/casey-a
+model: n:Oxana Chic; id:/model/sexart/oxana-chic; u:https://www.sexart.com/model/oxana-chic; g:f
+model: n:Casey A; id:/model/vivthomas/casey-a; u:https://www.vivthomas.com/model/casey-a
 released: 2024-10-10
 director: Tora Ness
 fileprefix: VivThomas-20241010-pastel-kisses
@@ -1200,8 +1200,8 @@ tag: ukraine
 title: Naughty Surprise
 type: gallery
 site: VivThomas
-cast: n:Britney Dutch; u:https://www.vivthomas.com/model/britney-dutch; g:f
-cast: n:Pearl; u:https://www.sexart.com/model/pearl; g:f
+model: n:Britney Dutch; id:/model/vivthomas/britney-dutch; u:https://www.vivthomas.com/model/britney-dutch; g:f
+model: n:Pearl; id:/model/sexart/pearl; u:https://www.sexart.com/model/pearl; g:f
 released: 2024-10-07
 director: Sandra Shine
 fileprefix: VivThomas-20241007-naughty-surprise
@@ -1245,8 +1245,8 @@ tag: striptease
 title: Love The Taste
 type: gallery
 site: VivThomas
-cast: n:Venera Maxima; u:https://www.vivthomas.com/model/venera-maxima
-cast: n:Jo; u:https://www.vivthomas.com/model/jo
+model: n:Venera Maxima; id:/model/vivthomas/venera-maxima; u:https://www.vivthomas.com/model/venera-maxima
+model: n:Jo; id:/model/vivthomas/jo; u:https://www.vivthomas.com/model/jo
 released: 2024-10-01
 director: Sandra Shine
 fileprefix: VivThomas-20241001-love-the-taste
@@ -1291,8 +1291,8 @@ tag: sweater
 title: I'm Wet
 type: gallery
 site: VivThomas
-cast: n:Ella Bonita; u:https://www.sexart.com/model/ella-bonita; g:f
-cast: n:Roni; u:https://www.sexart.com/model/roni; g:f
+model: n:Ella Bonita; id:/model/sexart/ella-bonita; u:https://www.sexart.com/model/ella-bonita; g:f
+model: n:Roni; id:/model/sexart/roni; u:https://www.sexart.com/model/roni; g:f
 released: 2024-09-26
 director: Tora Ness
 fileprefix: VivThomas-20240926-im-wet
@@ -1342,8 +1342,8 @@ tag: towel
 title: Dance With Me
 type: gallery
 site: VivThomas
-cast: n:Sakura Hell; u:https://www.vivthomas.com/model/sakura-hell
-cast: n:Angelika Grays; u:https://www.vivthomas.com/model/angelika-grays
+model: n:Sakura Hell; id:/model/vivthomas/sakura-hell; u:https://www.vivthomas.com/model/sakura-hell
+model: n:Angelika Grays; id:/model/vivthomas/angelika-grays; u:https://www.vivthomas.com/model/angelika-grays
 released: 2024-09-23
 director: Sandra Shine
 fileprefix: VivThomas-20240923-dance-with-me
@@ -1387,7 +1387,7 @@ tag: tan lines
 title: Nude Beauty
 type: gallery
 site: VivThomas
-cast: n:Daruma Rai; u:https://www.sexart.com/model/daruma-rai
+model: n:Daruma Rai; id:/model/sexart/daruma-rai; u:https://www.sexart.com/model/daruma-rai
 released: 2024-09-21
 director: Erro
 fileprefix: VivThomas-20240921-nude-beauty
@@ -1423,8 +1423,8 @@ tag: striptease
 title: Getting Wetter
 type: gallery
 site: VivThomas
-cast: n:Megan Murkovski; u:https://www.vivthomas.com/model/megan-murkovski
-cast: n:Stacy Cruz; u:https://www.sexart.com/model/stacy-cruz; g:f
+model: n:Megan Murkovski; id:/model/vivthomas/megan-murkovski; u:https://www.vivthomas.com/model/megan-murkovski
+model: n:Stacy Cruz; id:/model/sexart/stacy-cruz; u:https://www.sexart.com/model/stacy-cruz; g:f
 released: 2024-09-17
 director: Sandra Shine
 fileprefix: VivThomas-20240917-getting-wetter
@@ -1439,7 +1439,7 @@ tag: russian federation
 title: Blue Velvet
 type: gallery
 site: VivThomas
-cast: n:Julia Morozzi; u:https://www.vivthomas.com/model/julia-morozzi
+model: n:Julia Morozzi; id:/model/vivthomas/julia-morozzi; u:https://www.vivthomas.com/model/julia-morozzi
 released: 2024-09-15
 director: Walter Schotten
 fileprefix: VivThomas-20240915-blue-velvet
@@ -1453,8 +1453,8 @@ tag: russian federation
 title: Sit On Me
 type: gallery
 site: VivThomas
-cast: n:Sylvia Wise; u:https://www.vivthomas.com/model/sylvia-wise; g:f
-cast: n:Lola Bredly; u:https://www.sexart.com/model/lola-bredly; g:f
+model: n:Sylvia Wise; id:/model/vivthomas/sylvia-wise; u:https://www.vivthomas.com/model/sylvia-wise; g:f
+model: n:Lola Bredly; id:/model/sexart/lola-bredly; u:https://www.sexart.com/model/lola-bredly; g:f
 released: 2024-09-12
 director: Sandra Shine
 fileprefix: VivThomas-20240912-sit-on-me
@@ -1500,8 +1500,8 @@ tag: tattoo
 title: Naked Love
 type: gallery
 site: VivThomas
-cast: n:Isabella D; u:https://www.sexart.com/model/isabella-d; s:SexArt; g:f
-cast: n:Chica Minori; u:https://www.vivthomas.com/model/chica-minori; g:f
+model: n:Isabella D; id:/model/sexart/isabella-d; u:https://www.sexart.com/model/isabella-d; g:f
+model: n:Chica Minori; id:/model/vivthomas/chica-minori; u:https://www.vivthomas.com/model/chica-minori; g:f
 released: 2024-09-09
 director: Alex Iskan
 fileprefix: VivThomas-20240909-naked-love
@@ -1548,7 +1548,7 @@ tag: ukraine
 title: Love Hearts
 type: gallery
 site: VivThomas
-cast: n:Hareniks; u:https://www.vivthomas.com/model/hareniks; g:f
+model: n:Hareniks; id:/model/vivthomas/hareniks; u:https://www.vivthomas.com/model/hareniks; g:f
 released: 2024-09-07
 director: Chorniy Art
 fileprefix: VivThomas-20240907-love-hearts
@@ -1580,8 +1580,8 @@ title: Naughty Thoughts
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/kinuski-and-talia-mint/gallery/20240903/NAUGHTY_THOUGHTS
-cast: Kinuski; https://www.vivthomas.com/model/kinuski; f
-cast: Talia Mint; https://www.vivthomas.com/model/talia-mint; f
+model: n:Kinuski; id:/model/vivthomas/kinuski; u:https://www.vivthomas.com/model/kinuski; g:f
+model: n:Talia Mint; id:/model/vivthomas/talia-mint; u:https://www.vivthomas.com/model/talia-mint; g:f
 released: 2024-09-03
 photographer: Sandra Shine
 rating: 9.5
@@ -1637,7 +1637,7 @@ title: Cheer Me Up
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/ada-lapiedra/gallery/20240901/CHEER_ME_UP
-cast: Ada Lapiedra; https://www.vivthomas.com/model/ada-lapiedra; f
+model: n:Ada Lapiedra; id:/model/vivthomas/ada-lapiedra; u:https://www.vivthomas.com/model/ada-lapiedra; g:f
 released: 2024-09-01
 photographer: Sandra Shine
 rating: 9.3
@@ -1677,8 +1677,8 @@ title: Erotic Attraction
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/lee-anne-and-merida-sat/gallery/20240829/EROTIC_ATTRACTION
-cast: Lee Anne; https://www.vivthomas.com/model/lee-anne; f
-cast: Merida Sat; https://www.vivthomas.com/model/merida-sat; f
+model: n:Lee Anne; id:/model/vivthomas/lee-anne; u:https://www.vivthomas.com/model/lee-anne; g:f
+model: n:Merida Sat; id:/model/vivthomas/merida-sat; u:https://www.vivthomas.com/model/merida-sat; g:f
 released: 2024-08-29
 photographer: Sandra Shine
 rating: 9.5
@@ -1731,8 +1731,8 @@ title: Look Of Love
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/amalia-davis-and-subil-arch/gallery/20240826/LOOK_OF_LOVE
-cast: Amalia Davis; https://www.vivthomas.com/model/amalia-davis; f
-cast: Subil Arch; https://www.vivthomas.com/model/subil-arch; f
+model: n:Amalia Davis; id:/model/vivthomas/amalia-davis; u:https://www.vivthomas.com/model/amalia-davis; g:f
+model: n:Subil Arch; id:/model/vivthomas/subil-arch; u:https://www.vivthomas.com/model/subil-arch; g:f
 released: 2024-08-26
 photographer: Sandra Shine
 rating: 9.0
@@ -1775,8 +1775,8 @@ title: Lick Me All Over
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/tina-tiny-and-isabella-de-laa/gallery/20240820/LICK_ME_ALL_OVER
-cast: Tina Tiny; https://www.vivthomas.com/model/tina-tiny; f
-cast: Isabella De Laa; https://www.vivthomas.com/model/isabella-de-laa; f
+model: n:Tina Tiny; id:/model/vivthomas/tina-tiny; u:https://www.vivthomas.com/model/tina-tiny; g:f
+model: n:Isabella De Laa; id:/model/vivthomas/isabella-de-laa; u:https://www.vivthomas.com/model/isabella-de-laa; g:f
 released: 2024-08-20
 photographer: Sandra Shine
 rating: 8.9
@@ -1826,8 +1826,8 @@ title: Colorful Kisses
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/cherry-candle-and-pearl/gallery/20240815/COLORFUL_KISSES
-cast: Cherry Candle; https://www.vivthomas.com/model/cherry-candle; f
-cast: Pearl; https://www.vivthomas.com/model/pearl; f
+model: n:Cherry Candle; id:/model/vivthomas/cherry-candle; u:https://www.vivthomas.com/model/cherry-candle; g:f
+model: n:Pearl; id:/model/vivthomas/pearl; u:https://www.vivthomas.com/model/pearl; g:f
 released: 2024-08-15
 photographer: Sandra Shine
 rating: 9.2
@@ -1872,8 +1872,8 @@ title: Stroke Of Midnight
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/lexi-montana-and-mia-de-vil/gallery/20240812/STROKE_OF_MIDNIGHT
-cast: Lexi Montana; https://www.vivthomas.com/model/lexi-montana; f
-cast: Mia De Vil; https://www.vivthomas.com/model/mia-de-vil; f
+model: n:Lexi Montana; id:/model/vivthomas/lexi-montana; u:https://www.vivthomas.com/model/lexi-montana; g:f
+model: n:Mia De Vil; id:/model/vivthomas/mia-de-vil; u:https://www.vivthomas.com/model/mia-de-vil; g:f
 released: 2024-08-12
 photographer: Sandra Shine
 rating: 9.2
@@ -1923,7 +1923,7 @@ title: Sexy And Wet
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/rachel/gallery/20240810/SEXY_AND_WET
-cast: Rachel; https://www.vivthomas.com/model/rachel; f
+model: n:Rachel; id:/model/vivthomas/rachel; u:https://www.vivthomas.com/model/rachel; g:f
 released: 2024-08-10
 photographer: Seb Ole
 rating: 9.2
@@ -1958,8 +1958,8 @@ title: Perfect Muse
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/gina-gerson-and-jo/gallery/20240806/PERFECT_MUSE
-cast: Gina Gerson; https://www.vivthomas.com/model/gina-gerson; f
-cast: Jo; https://www.vivthomas.com/model/jo; f
+model: n:Gina Gerson; id:/model/vivthomas/gina-gerson; u:https://www.vivthomas.com/model/gina-gerson; g:f
+model: n:Jo; id:/model/vivthomas/jo; u:https://www.vivthomas.com/model/jo; g:f
 released: 2024-08-06
 photographer: Sandra Shine
 rating: 9.3
@@ -2004,7 +2004,7 @@ title: Busty Beauty
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/lilly-mays/gallery/20240804/BUSTY_BEAUTY
-cast: Lilly Mays; https://www.vivthomas.com/model/lilly-mays; f
+model: n:Lilly Mays; id:/model/vivthomas/lilly-mays; u:https://www.vivthomas.com/model/lilly-mays; g:f
 released: 2024-08-04
 photographer: Tora Ness
 rating: 9.3
@@ -2037,8 +2037,8 @@ title: Perfect Distraction
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/sirena-milano-and-alice-klay/gallery/20240801/PERFECT_DISTRACTION
-cast: Sirena Milano; https://www.vivthomas.com/model/sirena-milano; f
-cast: Alice Klay; https://www.vivthomas.com/model/alice-klay; f
+model: n:Sirena Milano; id:/model/vivthomas/sirena-milano; u:https://www.vivthomas.com/model/sirena-milano; g:f
+model: n:Alice Klay; id:/model/vivthomas/alice-klay; u:https://www.vivthomas.com/model/alice-klay; g:f
 released: 2024-08-01
 photographer: Sandra Shine
 rating: 9.3
@@ -2083,8 +2083,8 @@ title: Sensuality
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/lola-bredly-and-una-fairy/gallery/20240729/SENSUALITY
-cast: Lola Bredly; https://www.vivthomas.com/model/lola-bredly; f
-cast: Una Fairy; https://www.vivthomas.com/model/una-fairy; f
+model: n:Lola Bredly; id:/model/vivthomas/lola-bredly; u:https://www.vivthomas.com/model/lola-bredly; g:f
+model: n:Una Fairy; id:/model/vivthomas/una-fairy; u:https://www.vivthomas.com/model/una-fairy; g:f
 released: 2024-07-29
 photographer: Sandra Shine
 rating: 9.3
@@ -2124,8 +2124,8 @@ title: Dry Me Off
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/simon-and-ella-bonita/gallery/20240723/DRY_ME_OFF
-cast: Simon; https://www.vivthomas.com/model/simon; f
-cast: Ella Bonita; https://www.vivthomas.com/model/ella-bonita; f
+model: n:Simon; id:/model/vivthomas/simon; u:https://www.vivthomas.com/model/simon; g:f
+model: n:Ella Bonita; id:/model/vivthomas/ella-bonita; u:https://www.vivthomas.com/model/ella-bonita; g:f
 released: 2024-07-23
 photographer: Tora Ness
 rating: 9.6
@@ -2176,7 +2176,7 @@ title: Cheeky Love
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/ada-lapiedra/gallery/20240721/CHEEKY_LOVE
-cast: Ada Lapiedra; https://www.vivthomas.com/model/ada-lapiedra; f
+model: n:Ada Lapiedra; id:/model/vivthomas/ada-lapiedra; u:https://www.vivthomas.com/model/ada-lapiedra; g:f
 released: 2024-07-21
 photographer: Sandra Shine
 rating: 9.3
@@ -2212,8 +2212,8 @@ title: Car Wash Beauties
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/sylvia-wise-and-emily-first/gallery/20240718/CAR_WASH_BEAUTIES
-cast: Sylvia Wise; https://www.vivthomas.com/model/sylvia-wise; f
-cast: Emily First; https://www.vivthomas.com/model/emily-first; f
+model: n:Sylvia Wise; id:/model/vivthomas/sylvia-wise; u:https://www.vivthomas.com/model/sylvia-wise; g:f
+model: n:Emily First; id:/model/vivthomas/emily-first; u:https://www.vivthomas.com/model/emily-first; g:f
 released: 2024-07-18
 photographer: Sandra Shine
 rating: 9.0
@@ -2253,8 +2253,8 @@ title: Outdoor Delight
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/kinuski-and-sata-jones/gallery/20240715/OUTDOOR_DELIGHT
-cast: Kinuski; https://www.vivthomas.com/model/kinuski; f
-cast: Sata Jones; https://www.vivthomas.com/model/sata-jones; f
+model: n:Kinuski; id:/model/vivthomas/kinuski; u:https://www.vivthomas.com/model/kinuski; g:f
+model: n:Sata Jones; id:/model/vivthomas/sata-jones; u:https://www.vivthomas.com/model/sata-jones; g:f
 released: 2024-07-15
 photographer: Sandra Shine
 rating: 9.0
@@ -2302,7 +2302,7 @@ title: Demure
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/mitzix/gallery/20240713/DEMURE
-cast: MitziX; https://www.vivthomas.com/model/mitzix; f
+model: n:MitziX; id:/model/vivthomas/mitzix; u:https://www.vivthomas.com/model/mitzix; g:f
 released: 2024-07-13
 photographer: Erro
 rating: 9.3
@@ -2336,8 +2336,8 @@ title: Special Memory
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/mia-evans-and-amirah-adara/gallery/20240709/SPECIAL_MEMORY
-cast: Mia Evans; https://www.vivthomas.com/model/mia-evans; f
-cast: Amirah Adara; https://www.vivthomas.com/model/amirah-adara; f
+model: n:Mia Evans; id:/model/vivthomas/mia-evans; u:https://www.vivthomas.com/model/mia-evans; g:f
+model: n:Amirah Adara; id:/model/vivthomas/amirah-adara; u:https://www.vivthomas.com/model/amirah-adara; g:f
 released: 2024-07-09
 photographer: Sandra Shine
 rating: 8.8
@@ -2385,8 +2385,8 @@ title: Garden Delight
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/kelly-collins-and-lily-blossom/gallery/20240704/GARDEN_DELIGHT
-cast: Kelly Collins; https://www.vivthomas.com/model/kelly-collins; f
-cast: Lily Blossom; https://www.vivthomas.com/model/lily-blossom; f
+model: n:Kelly Collins; id:/model/vivthomas/kelly-collins; u:https://www.vivthomas.com/model/kelly-collins; g:f
+model: n:Lily Blossom; id:/model/vivthomas/lily-blossom; u:https://www.vivthomas.com/model/lily-blossom; g:f
 released: 2024-07-04
 photographer: Sandra Shine
 rating: 9.5
@@ -2429,8 +2429,8 @@ title: Tasty Kiss
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/muna-and-mirka/gallery/20240701/TASTY_KISS
-cast: Muna; https://www.vivthomas.com/model/muna; f
-cast: Mirka; https://www.vivthomas.com/model/mirka; f
+model: n:Muna; id:/model/vivthomas/muna; u:https://www.vivthomas.com/model/muna; g:f
+model: n:Mirka; id:/model/vivthomas/mirka; u:https://www.vivthomas.com/model/mirka; g:f
 released: 2024-07-01
 photographer: Tora Ness
 rating: 9.4
@@ -2476,7 +2476,7 @@ title: Sultry Sweet
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/carri-cherris/gallery/20240629/SULTRY_SWEET
-cast: Carri Cherris; https://www.vivthomas.com/model/carri-cherris; f
+model: n:Carri Cherris; id:/model/vivthomas/carri-cherris; u:https://www.vivthomas.com/model/carri-cherris; g:f
 released: 2024-06-29
 photographer: Alex Productions
 rating: 9.0
@@ -2508,8 +2508,8 @@ title: Loving Touch
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/barbie-rous-and-amalia-davis/gallery/20240625/LOVING_TOUCH
-cast: Barbie Rous; https://www.vivthomas.com/model/barbie-rous; f
-cast: Amalia Davis; https://www.vivthomas.com/model/amalia-davis; f
+model: n:Barbie Rous; id:/model/vivthomas/barbie-rous; u:https://www.vivthomas.com/model/barbie-rous; g:f
+model: n:Amalia Davis; id:/model/vivthomas/amalia-davis; u:https://www.vivthomas.com/model/amalia-davis; g:f
 released: 2024-06-25
 photographer: Sandra Shine
 rating: 9.2
@@ -2564,7 +2564,7 @@ title: Seductress
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/rachel/gallery/20240623/SEDUCTRESS
-cast: Rachel; https://www.vivthomas.com/model/rachel; f
+model: n:Rachel; id:/model/vivthomas/rachel; u:https://www.vivthomas.com/model/rachel; g:f
 released: 2024-06-23
 photographer: Seb Ole
 rating: 8.9
@@ -2601,8 +2601,8 @@ title: Summer Fling
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/merida-sat-and-pearl/gallery/20240620/SUMMER_FLING
-cast: Merida Sat; https://www.vivthomas.com/model/merida-sat; f
-cast: Pearl; https://www.vivthomas.com/model/pearl; f
+model: n:Merida Sat; id:/model/vivthomas/merida-sat; u:https://www.vivthomas.com/model/merida-sat; g:f
+model: n:Pearl; id:/model/vivthomas/pearl; u:https://www.vivthomas.com/model/pearl; g:f
 released: 2024-06-20
 photographer: Sandra Shine
 rating: 9.2
@@ -2652,8 +2652,8 @@ title: Beautiful Roses
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/viksi-and-valeria-mint/gallery/20240617/BEAUTIFUL_ROSES
-cast: Viksi; https://www.vivthomas.com/model/viksi; f
-cast: Valeria Mint; https://www.vivthomas.com/model/valeria-mint; f
+model: n:Viksi; id:/model/vivthomas/viksi; u:https://www.vivthomas.com/model/viksi; g:f
+model: n:Valeria Mint; id:/model/vivthomas/valeria-mint; u:https://www.vivthomas.com/model/valeria-mint; g:f
 released: 2024-06-17
 photographer: Alex Iskan
 rating: 9.1
@@ -2701,7 +2701,7 @@ title: Red Queen
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/azzurra-moretti/gallery/20240615/RED_QUEEN
-cast: Azzurra Moretti; https://www.vivthomas.com/model/azzurra-moretti; f
+model: n:Azzurra Moretti; id:/model/vivthomas/azzurra-moretti; u:https://www.vivthomas.com/model/azzurra-moretti; g:f
 released: 2024-06-15
 photographer: Blake Jasper
 rating: 9.3
@@ -2739,8 +2739,8 @@ title: Sweet Sensation
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/dorothy-black-and-jo/gallery/20240611/SWEET_SENSATION
-cast: Dorothy Black; https://www.vivthomas.com/model/dorothy-black; f
-cast: Jo; https://www.vivthomas.com/model/jo; f
+model: n:Dorothy Black; id:/model/vivthomas/dorothy-black; u:https://www.vivthomas.com/model/dorothy-black; g:f
+model: n:Jo; id:/model/vivthomas/jo; u:https://www.vivthomas.com/model/jo; g:f
 released: 2024-06-11
 photographer: Sandra Shine
 rating: 9.3
@@ -2790,8 +2790,8 @@ title: Special Delivery
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/sirena-milano-and-subil-arch/gallery/20240606/SPECIAL_DELIVERY
-cast: Sirena Milano; https://www.vivthomas.com/model/sirena-milano; f
-cast: Subil Arch; https://www.vivthomas.com/model/subil-arch; f
+model: n:Sirena Milano; id:/model/vivthomas/sirena-milano; u:https://www.vivthomas.com/model/sirena-milano; g:f
+model: n:Subil Arch; id:/model/vivthomas/subil-arch; u:https://www.vivthomas.com/model/subil-arch; g:f
 released: 2024-06-06
 photographer: Sandra Shine
 rating: 9.1
@@ -2842,8 +2842,8 @@ title: Unlace Me
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/amber-kawaii-and-isabella-de-laa/gallery/20240603/UNLACE_ME
-cast: Amber Kawaii; https://www.vivthomas.com/model/amber-kawaii; f
-cast: Isabella De Laa; https://www.vivthomas.com/model/isabella-de-laa; f
+model: n:Amber Kawaii; id:/model/vivthomas/amber-kawaii; u:https://www.vivthomas.com/model/amber-kawaii; g:f
+model: n:Isabella De Laa; id:/model/vivthomas/isabella-de-laa; u:https://www.vivthomas.com/model/isabella-de-laa; g:f
 released: 2024-06-03
 photographer: Sandra Shine
 rating: 9.1
@@ -2887,8 +2887,8 @@ title: Allure
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/cherry-candle-and-emily-first/gallery/20240528/ALLURE
-cast: Cherry Candle; https://www.vivthomas.com/model/cherry-candle; f
-cast: Emily First; https://www.vivthomas.com/model/emily-first; f
+model: n:Cherry Candle; id:/model/vivthomas/cherry-candle; u:https://www.vivthomas.com/model/cherry-candle; g:f
+model: n:Emily First; id:/model/vivthomas/emily-first; u:https://www.vivthomas.com/model/emily-first; g:f
 released: 2024-05-28
 photographer: Sandra Shine
 rating: 8.9
@@ -2941,8 +2941,8 @@ title: Pink Passion
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/ann-joy-and-olivia-sparkle/gallery/20240523/PINK_PASSION
-cast: Ann Joy; https://www.vivthomas.com/model/ann-joy; f
-cast: Olivia Sparkle; https://www.vivthomas.com/model/olivia-sparkle; f
+model: n:Ann Joy; id:/model/vivthomas/ann-joy; u:https://www.vivthomas.com/model/ann-joy; g:f
+model: n:Olivia Sparkle; id:/model/vivthomas/olivia-sparkle; u:https://www.vivthomas.com/model/olivia-sparkle; g:f
 released: 2024-05-23
 photographer: Sandra Shine
 rating: 9.1
@@ -2996,8 +2996,8 @@ title: What's For Breakfast?
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/zazie-s-and-amirah-adara/gallery/20240520/WHAT_S_FOR_BREAKFAST?
-cast: Zazie S; https://www.vivthomas.com/model/zazie-s; f
-cast: Amirah Adara; https://www.vivthomas.com/model/amirah-adara; f
+model: n:Zazie S; id:/model/vivthomas/zazie-s; u:https://www.vivthomas.com/model/zazie-s; g:f
+model: n:Amirah Adara; id:/model/vivthomas/amirah-adara; u:https://www.vivthomas.com/model/amirah-adara; g:f
 released: 2024-05-20
 photographer: Sandra Shine
 rating: 9.2
@@ -3052,8 +3052,8 @@ title: Sensual Attraction
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/chica-minori-and-ryana/gallery/20240514/SENSUAL_ATTRACTION
-cast: Chica Minori; https://www.vivthomas.com/model/chica-minori; f
-cast: Ryana; https://www.vivthomas.com/model/ryana; f
+model: n:Chica Minori; id:/model/vivthomas/chica-minori; u:https://www.vivthomas.com/model/chica-minori; g:f
+model: n:Ryana; id:/model/vivthomas/ryana; u:https://www.vivthomas.com/model/ryana; g:f
 released: 2024-05-14
 photographer: Alex Iskan
 rating: 9.4
@@ -3099,8 +3099,8 @@ title: Can't Resist
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/lily-blossom-and-stacy-rider/gallery/20240509/CAN_T_RESIST
-cast: Lily Blossom; https://www.vivthomas.com/model/lily-blossom; f
-cast: Stacy Rider; https://www.vivthomas.com/model/stacy-rider; f
+model: n:Lily Blossom; id:/model/vivthomas/lily-blossom; u:https://www.vivthomas.com/model/lily-blossom; g:f
+model: n:Stacy Rider; id:/model/vivthomas/stacy-rider; u:https://www.vivthomas.com/model/stacy-rider; g:f
 released: 2024-05-09
 photographer: Sandra Shine
 rating: 9.0
@@ -3150,8 +3150,8 @@ title: Love The Taste
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/amalia-davis-and-una-fairy/gallery/20240506/LOVE_THE_TASTE
-cast: Amalia Davis; https://www.vivthomas.com/model/amalia-davis; f
-cast: Una Fairy; https://www.vivthomas.com/model/una-fairy; f
+model: n:Amalia Davis; id:/model/vivthomas/amalia-davis; u:https://www.vivthomas.com/model/amalia-davis; g:f
+model: n:Una Fairy; id:/model/vivthomas/una-fairy; u:https://www.vivthomas.com/model/una-fairy; g:f
 released: 2024-05-06
 photographer: Sandra Shine
 rating: 9.3
@@ -3203,7 +3203,7 @@ title: Vibrant
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/carri-cherris/gallery/20240504/VIBRANT
-cast: Carri Cherris; https://www.vivthomas.com/model/carri-cherris; f
+model: n:Carri Cherris; id:/model/vivthomas/carri-cherris; u:https://www.vivthomas.com/model/carri-cherris; g:f
 released: 2024-05-04
 photographer: Alex Productions
 rating: 9.0
@@ -3235,8 +3235,8 @@ title: Mutual Lust
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/barbie-rous-and-pearl/gallery/20240430/MUTUAL_LUST
-cast: Barbie Rous; https://www.vivthomas.com/model/barbie-rous; f
-cast: Pearl; https://www.vivthomas.com/model/pearl; f
+model: n:Barbie Rous; id:/model/vivthomas/barbie-rous; u:https://www.vivthomas.com/model/barbie-rous; g:f
+model: n:Pearl; id:/model/vivthomas/pearl; u:https://www.vivthomas.com/model/pearl; g:f
 released: 2024-04-30
 photographer: Sandra Shine
 rating: 9.4
@@ -3290,8 +3290,8 @@ title: Hot Pair
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/oxana-chic-and-brandi-belle/gallery/20240428/HOT_PAIR
-cast: Oxana Chic; https://www.vivthomas.com/model/oxana-chic; f
-cast: Brandi Belle; https://www.vivthomas.com/model/brandi-belle; f
+model: n:Oxana Chic; id:/model/vivthomas/oxana-chic; u:https://www.vivthomas.com/model/oxana-chic; g:f
+model: n:Brandi Belle; id:/model/vivthomas/brandi-belle; u:https://www.vivthomas.com/model/brandi-belle; g:f
 released: 2024-04-28
 photographer: Tora Ness
 rating: 9.5
@@ -3335,8 +3335,8 @@ title: Pleasing The Boss
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/jo-and-aliah-key/gallery/20240425/PLEASING_THE_BOSS
-cast: Jo; https://www.vivthomas.com/model/jo; f
-cast: Aliah Key; https://www.vivthomas.com/model/aliah-key; f
+model: n:Jo; id:/model/vivthomas/jo; u:https://www.vivthomas.com/model/jo; g:f
+model: n:Aliah Key; id:/model/vivthomas/aliah-key; u:https://www.vivthomas.com/model/aliah-key; g:f
 released: 2024-04-25
 photographer: Sandra Shine
 rating: 9.4
@@ -3385,8 +3385,8 @@ title: Seductive Gaze
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/eveline-dellai-and-isabella-de-laa/gallery/20240422/SEDUCTIVE_GAZE
-cast: Eveline Dellai; https://www.vivthomas.com/model/eveline-dellai; f
-cast: Isabella De Laa; https://www.vivthomas.com/model/isabella-de-laa; f
+model: n:Eveline Dellai; id:/model/vivthomas/eveline-dellai; u:https://www.vivthomas.com/model/eveline-dellai; g:f
+model: n:Isabella De Laa; id:/model/vivthomas/isabella-de-laa; u:https://www.vivthomas.com/model/isabella-de-laa; g:f
 released: 2024-04-22
 photographer: Sandra Shine
 rating: 9.4
@@ -3431,8 +3431,8 @@ title: Ripe Cherries
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/alisya-and-lisbet/gallery/20240420/RIPE_CHERRIES
-cast: Alisya; https://www.vivthomas.com/model/alisya; f
-cast: Lisbet; https://www.vivthomas.com/model/lisbet; f
+model: n:Alisya; id:/model/vivthomas/alisya; u:https://www.vivthomas.com/model/alisya; g:f
+model: n:Lisbet; id:/model/vivthomas/lisbet; u:https://www.vivthomas.com/model/lisbet; g:f
 released: 2024-04-20
 photographer: Tora Ness
 rating: 9.3
@@ -3475,8 +3475,8 @@ title: Provocative Style
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/mirka-and-muna/gallery/20240416/PROVOCATIVE_STYLE
-cast: Mirka; https://www.vivthomas.com/model/mirka; f
-cast: Muna; https://www.vivthomas.com/model/muna; f
+model: n:Mirka; id:/model/vivthomas/mirka; u:https://www.vivthomas.com/model/mirka; g:f
+model: n:Muna; id:/model/vivthomas/muna; u:https://www.vivthomas.com/model/muna; g:f
 released: 2024-04-16
 photographer: Tora Ness
 rating: 9.3
@@ -3522,7 +3522,7 @@ title: New Beauty
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/rachel/gallery/20240414/NEW_BEAUTY
-cast: Rachel; https://www.vivthomas.com/model/rachel; f
+model: n:Rachel; id:/model/vivthomas/rachel; u:https://www.vivthomas.com/model/rachel; g:f
 released: 2024-04-14
 photographer: Seb Ole
 rating: 9.4
@@ -3556,8 +3556,8 @@ title: New Ideas
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/hannah-vivienne-and-sylvia-wise/gallery/20240411/NEW_IDEAS
-cast: Hannah Vivienne; https://www.vivthomas.com/model/hannah-vivienne; f
-cast: Sylvia Wise; https://www.vivthomas.com/model/sylvia-wise; f
+model: n:Hannah Vivienne; id:/model/vivthomas/hannah-vivienne; u:https://www.vivthomas.com/model/hannah-vivienne; g:f
+model: n:Sylvia Wise; id:/model/vivthomas/sylvia-wise; u:https://www.vivthomas.com/model/sylvia-wise; g:f
 released: 2024-04-11
 photographer: Sandra Shine
 rating: 8.9
@@ -3607,8 +3607,8 @@ title: Show Me Everything
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/sirena-milano-and-candice-demellza/gallery/20240408/SHOW_ME_EVERYTHING
-cast: Sirena Milano; https://www.vivthomas.com/model/sirena-milano; f
-cast: Candice Demellza; https://www.vivthomas.com/model/candice-demellza; f
+model: n:Sirena Milano; id:/model/vivthomas/sirena-milano; u:https://www.vivthomas.com/model/sirena-milano; g:f
+model: n:Candice Demellza; id:/model/vivthomas/candice-demellza; u:https://www.vivthomas.com/model/candice-demellza; g:f
 released: 2024-04-08
 photographer: Sandra Shine
 rating: 9.2
@@ -3653,8 +3653,8 @@ title: Androgyny
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/casey-a-and-ella-bonita/gallery/20240406/ANDROGYNY
-cast: Casey A; https://www.vivthomas.com/model/casey-a; f
-cast: Ella Bonita; https://www.vivthomas.com/model/ella-bonita; f
+model: n:Casey A; id:/model/vivthomas/casey-a; u:https://www.vivthomas.com/model/casey-a; g:f
+model: n:Ella Bonita; id:/model/vivthomas/ella-bonita; u:https://www.vivthomas.com/model/ella-bonita; g:f
 released: 2024-04-06
 photographer: Tora Ness
 rating: 9.3
@@ -3707,8 +3707,8 @@ title: Like What I See
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/amirah-adara-and-veronica-leal/gallery/20240402/LIKE_WHAT_I_SEE
-cast: Amirah Adara; https://www.vivthomas.com/model/amirah-adara; f
-cast: Veronica Leal; https://www.vivthomas.com/model/veronica-leal; f
+model: n:Amirah Adara; id:/model/vivthomas/amirah-adara; u:https://www.vivthomas.com/model/amirah-adara; g:f
+model: n:Veronica Leal; id:/model/vivthomas/veronica-leal; u:https://www.vivthomas.com/model/veronica-leal; g:f
 released: 2024-04-02
 photographer: Sandra Shine
 rating: 9.4
@@ -3753,8 +3753,8 @@ title: Sexy Idea
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/mirka-and-roni/gallery/20240331/SEXY_IDEA
-cast: Mirka; https://www.vivthomas.com/model/mirka; f
-cast: Roni; https://www.vivthomas.com/model/roni; f
+model: n:Mirka; id:/model/vivthomas/mirka; u:https://www.vivthomas.com/model/mirka; g:f
+model: n:Roni; id:/model/vivthomas/roni; u:https://www.vivthomas.com/model/roni; g:f
 released: 2024-03-31
 photographer: Tora Ness
 rating: 9.4
@@ -3802,8 +3802,8 @@ title: Make It Fun
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/ada-lapiedra-and-mellany-lapiedra/gallery/20240328/MAKE_IT_FUN
-cast: Ada Lapiedra; https://www.vivthomas.com/model/ada-lapiedra; f
-cast: Mellany Lapiedra; https://www.vivthomas.com/model/mellany-lapiedra; f
+model: n:Ada Lapiedra; id:/model/vivthomas/ada-lapiedra; u:https://www.vivthomas.com/model/ada-lapiedra; g:f
+model: n:Mellany Lapiedra; id:/model/vivthomas/mellany-lapiedra; u:https://www.vivthomas.com/model/mellany-lapiedra; g:f
 released: 2024-03-28
 photographer: Sandra Shine
 rating: 9.3
@@ -3855,8 +3855,8 @@ title: Serendipitous
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/casey-a-and-liv-revamped/gallery/20240325/SERENDIPITOUS
-cast: Casey A; https://www.vivthomas.com/model/casey-a; f
-cast: Liv Revamped; https://www.vivthomas.com/model/liv-revamped; f
+model: n:Casey A; id:/model/vivthomas/casey-a; u:https://www.vivthomas.com/model/casey-a; g:f
+model: n:Liv Revamped; id:/model/vivthomas/liv-revamped; u:https://www.vivthomas.com/model/liv-revamped; g:f
 released: 2024-03-25
 photographer: Sandra Shine
 rating: 9.2
@@ -3911,8 +3911,8 @@ title: Lick Me
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/lily-blossom-and-gia-tvoricceli/gallery/20240319/LICK_ME
-cast: Lily Blossom; https://www.vivthomas.com/model/lily-blossom; f
-cast: Gia Tvoricceli; https://www.vivthomas.com/model/gia-tvoricceli; f
+model: n:Lily Blossom; id:/model/vivthomas/lily-blossom; u:https://www.vivthomas.com/model/lily-blossom; g:f
+model: n:Gia Tvoricceli; id:/model/vivthomas/gia-tvoricceli; u:https://www.vivthomas.com/model/gia-tvoricceli; g:f
 released: 2024-03-19
 photographer: Sandra Shine
 rating: 9.0
@@ -3960,8 +3960,8 @@ title: Lovestruck
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/subil-arch-and-lia-lin/gallery/20240314/LOVESTRUCK
-cast: Subil Arch; https://www.vivthomas.com/model/subil-arch; f
-cast: Lia Lin; https://www.vivthomas.com/model/lia-lin; f
+model: n:Subil Arch; id:/model/vivthomas/subil-arch; u:https://www.vivthomas.com/model/subil-arch; g:f
+model: n:Lia Lin; id:/model/vivthomas/lia-lin; u:https://www.vivthomas.com/model/lia-lin; g:f
 released: 2024-03-14
 photographer: Sandra Shine
 rating: 9.3
@@ -4013,9 +4013,9 @@ title: Share The Love
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/angelika-grays-and-una-fairy-and-vicky-love/gallery/20240311/SHARE_THE_LOVE
-cast: Angelika Grays; https://www.vivthomas.com/model/angelika-grays; f
-cast: Una Fairy; https://www.vivthomas.com/model/una-fairy; f
-cast: Vicky Love; https://www.vivthomas.com/model/vicky-love; f
+model: n:Angelika Grays; id:/model/vivthomas/angelika-grays; u:https://www.vivthomas.com/model/angelika-grays; g:f
+model: n:Una Fairy; id:/model/vivthomas/una-fairy; u:https://www.vivthomas.com/model/una-fairy; g:f
+model: n:Vicky Love; id:/model/vivthomas/vicky-love; u:https://www.vivthomas.com/model/vicky-love; g:f
 released: 2024-03-11
 photographer: Sandra Shine
 rating: 9.1
@@ -4067,8 +4067,8 @@ title: Measure My Love
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/amalia-davis-and-kate-quinn/gallery/20240305/MEASURE_MY_LOVE
-cast: Amalia Davis; https://www.vivthomas.com/model/amalia-davis; f
-cast: Kate Quinn; https://www.vivthomas.com/model/kate-quinn; f
+model: n:Amalia Davis; id:/model/vivthomas/amalia-davis; u:https://www.vivthomas.com/model/amalia-davis; g:f
+model: n:Kate Quinn; id:/model/vivthomas/kate-quinn; u:https://www.vivthomas.com/model/kate-quinn; g:f
 released: 2024-03-05
 photographer: Sandra Shine
 rating: 9.4
@@ -4118,7 +4118,7 @@ title: Room With A View
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/emilia/gallery/20240303/ROOM_WITH_A_VIEW
-cast: Emilia; https://www.vivthomas.com/model/emilia; f
+model: n:Emilia; id:/model/vivthomas/emilia; u:https://www.vivthomas.com/model/emilia; g:f
 released: 2024-03-03
 photographer: Ian Daburn
 rating: 9.3
@@ -4160,8 +4160,8 @@ title: Summer Vibes
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/alexis-wilson-and-talia-mint/gallery/20240229/SUMMER_VIBES
-cast: Alexis Wilson; https://www.vivthomas.com/model/alexis-wilson; f
-cast: Talia Mint; https://www.vivthomas.com/model/talia-mint; f
+model: n:Alexis Wilson; id:/model/vivthomas/alexis-wilson; u:https://www.vivthomas.com/model/alexis-wilson; g:f
+model: n:Talia Mint; id:/model/vivthomas/talia-mint; u:https://www.vivthomas.com/model/talia-mint; g:f
 released: 2024-02-29
 photographer: Sandra Shine
 rating: 9.5
@@ -4214,8 +4214,8 @@ title: Latin Lover
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/blu-chanelle-and-caramella-del-x/gallery/20240226/LATIN_LOVER
-cast: Blu Chanelle; https://www.vivthomas.com/model/blu-chanelle; f
-cast: Caramella Del X; https://www.vivthomas.com/model/caramella-del-x; f
+model: n:Blu Chanelle; id:/model/vivthomas/blu-chanelle; u:https://www.vivthomas.com/model/blu-chanelle; g:f
+model: n:Caramella Del X; id:/model/vivthomas/caramella-del-x; u:https://www.vivthomas.com/model/caramella-del-x; g:f
 released: 2024-02-26
 photographer: Sandra Shine
 rating: 9.5
@@ -4271,7 +4271,7 @@ title: Naughty In Plaid
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/alicia-lore/gallery/20240224/NAUGHTY_IN_PLAID
-cast: Alicia Lore; https://www.vivthomas.com/model/alicia-lore; f
+model: n:Alicia Lore; id:/model/vivthomas/alicia-lore; u:https://www.vivthomas.com/model/alicia-lore; g:f
 released: 2024-02-24
 photographer: Ian Daburn
 rating: 9.3
@@ -4315,8 +4315,8 @@ title: Hold Tight
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/isabella-de-laa-and-jo/gallery/20240220/HOLD_TIGHT
-cast: Isabella De Laa; https://www.vivthomas.com/model/isabella-de-laa; f
-cast: Jo; https://www.vivthomas.com/model/jo; f
+model: n:Isabella De Laa; id:/model/vivthomas/isabella-de-laa; u:https://www.vivthomas.com/model/isabella-de-laa; g:f
+model: n:Jo; id:/model/vivthomas/jo; u:https://www.vivthomas.com/model/jo; g:f
 released: 2024-02-20
 photographer: Sandra Shine
 rating: 9.4
@@ -4366,7 +4366,7 @@ title: Thrill Seeker
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/alexia-b/gallery/20240218/THRILL_SEEKER
-cast: Alexia B; https://www.vivthomas.com/model/alexia-b; f
+model: n:Alexia B; id:/model/vivthomas/alexia-b; u:https://www.vivthomas.com/model/alexia-b; g:f
 released: 2024-02-18
 photographer: Ian Daburn
 rating: 9.4
@@ -4403,8 +4403,8 @@ title: Let's Get Wet
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/maya-sinn-and-candice-demellza/gallery/20240215/LET_S_GET_WET
-cast: Maya Sinn; https://www.vivthomas.com/model/maya-sinn; f
-cast: Candice Demellza; https://www.vivthomas.com/model/candice-demellza; f
+model: n:Maya Sinn; id:/model/vivthomas/maya-sinn; u:https://www.vivthomas.com/model/maya-sinn; g:f
+model: n:Candice Demellza; id:/model/vivthomas/candice-demellza; u:https://www.vivthomas.com/model/candice-demellza; g:f
 released: 2024-02-15
 photographer: Sandra Shine
 rating: 8.8
@@ -4443,8 +4443,8 @@ title: Lingerie Dreams
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/veronica-leal-and-sandrillon/gallery/20240212/LINGERIE_DREAMS
-cast: Veronica Leal; https://www.vivthomas.com/model/veronica-leal; f
-cast: Sandrillon; https://www.vivthomas.com/model/sandrillon; f
+model: n:Veronica Leal; id:/model/vivthomas/veronica-leal; u:https://www.vivthomas.com/model/veronica-leal; g:f
+model: n:Sandrillon; id:/model/vivthomas/sandrillon; u:https://www.vivthomas.com/model/sandrillon; g:f
 released: 2024-02-12
 photographer: Sandra Shine
 rating: 9.4
@@ -4495,7 +4495,7 @@ title: Black Satin
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/lia-noel/gallery/20240210/BLACK_SATIN
-cast: Lia Noel; https://www.vivthomas.com/model/lia-noel; f
+model: n:Lia Noel; id:/model/vivthomas/lia-noel; u:https://www.vivthomas.com/model/lia-noel; g:f
 released: 2024-02-10
 photographer: Nudero
 rating: 9.2
@@ -4533,8 +4533,8 @@ title: Experienced Lovers
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/vicky-love-and-dorothy-black/gallery/20240206/EXPERIENCED_LOVERS
-cast: Vicky Love; https://www.vivthomas.com/model/vicky-love; f
-cast: Dorothy Black; https://www.vivthomas.com/model/dorothy-black; f
+model: n:Vicky Love; id:/model/vivthomas/vicky-love; u:https://www.vivthomas.com/model/vicky-love; g:f
+model: n:Dorothy Black; id:/model/vivthomas/dorothy-black; u:https://www.vivthomas.com/model/dorothy-black; g:f
 released: 2024-02-06
 photographer: Sandra Shine
 rating: 9.0
@@ -4589,8 +4589,8 @@ title: Simply Irresistible
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/kelly-collins-and-sirena-milano/gallery/20240201/SIMPLY_IRRESISTIBLE
-cast: Kelly Collins; https://www.vivthomas.com/model/kelly-collins; f
-cast: Sirena Milano; https://www.vivthomas.com/model/sirena-milano; f
+model: n:Kelly Collins; id:/model/vivthomas/kelly-collins; u:https://www.vivthomas.com/model/kelly-collins; g:f
+model: n:Sirena Milano; id:/model/vivthomas/sirena-milano; u:https://www.vivthomas.com/model/sirena-milano; g:f
 released: 2024-02-01
 photographer: Sandra Shine
 rating: 9.7
@@ -4628,8 +4628,8 @@ title: Look Of Love
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/kira-queen-and-betzz/gallery/20240129/LOOK_OF_LOVE
-cast: Kira Queen; https://www.vivthomas.com/model/kira-queen; f
-cast: Betzz; https://www.vivthomas.com/model/betzz; f
+model: n:Kira Queen; id:/model/vivthomas/kira-queen; u:https://www.vivthomas.com/model/kira-queen; g:f
+model: n:Betzz; id:/model/vivthomas/betzz; u:https://www.vivthomas.com/model/betzz; g:f
 released: 2024-01-29
 photographer: Sandra Shine
 rating: 9.5
@@ -4679,8 +4679,8 @@ title: Loving Gaze
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/clara-trinity-and-milan-cheek/gallery/20240123/LOVING_GAZE
-cast: Clara Trinity; https://www.vivthomas.com/model/clara-trinity; f
-cast: Milan Cheek; https://www.vivthomas.com/model/milan-cheek; f
+model: n:Clara Trinity; id:/model/vivthomas/clara-trinity; u:https://www.vivthomas.com/model/clara-trinity; g:f
+model: n:Milan Cheek; id:/model/vivthomas/milan-cheek; u:https://www.vivthomas.com/model/milan-cheek; g:f
 released: 2024-01-23
 photographer: Sandra Shine
 rating: 9.3
@@ -4737,7 +4737,7 @@ title: Pinky Doll
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/erin-pink/gallery/20240121/PINKY_DOLL
-cast: Erin Pink; https://www.vivthomas.com/model/erin-pink; f
+model: n:Erin Pink; id:/model/vivthomas/erin-pink; u:https://www.vivthomas.com/model/erin-pink; g:f
 released: 2024-01-21
 photographer: Chorniy Art
 rating: 9.0
@@ -4776,8 +4776,8 @@ title: I Need You
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/zazie-s-and-casey-a/gallery/20240118/I_NEED_YOU
-cast: Zazie S; https://www.vivthomas.com/model/zazie-s; f
-cast: Casey A; https://www.vivthomas.com/model/casey-a; f
+model: n:Zazie S; id:/model/vivthomas/zazie-s; u:https://www.vivthomas.com/model/zazie-s; g:f
+model: n:Casey A; id:/model/vivthomas/casey-a; u:https://www.vivthomas.com/model/casey-a; g:f
 released: 2024-01-18
 photographer: Sandra Shine
 rating: 9.4
@@ -4825,8 +4825,8 @@ title: Lick Me
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/lee-anne-and-hannah-vivienne/gallery/20240115/LICK_ME
-cast: Lee Anne; https://www.vivthomas.com/model/lee-anne; f
-cast: Hannah Vivienne; https://www.vivthomas.com/model/hannah-vivienne; f
+model: n:Lee Anne; id:/model/vivthomas/lee-anne; u:https://www.vivthomas.com/model/lee-anne; g:f
+model: n:Hannah Vivienne; id:/model/vivthomas/hannah-vivienne; u:https://www.vivthomas.com/model/hannah-vivienne; g:f
 released: 2024-01-15
 photographer: Sandra Shine
 rating: 9.3
@@ -4869,7 +4869,7 @@ title: Soul Gaze
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/erika-luchini/gallery/20240113/SOUL_GAZE
-cast: Erika Luchini; https://www.vivthomas.com/model/erika-luchini; f
+model: n:Erika Luchini; id:/model/vivthomas/erika-luchini; u:https://www.vivthomas.com/model/erika-luchini; g:f
 released: 2024-01-13
 photographer: Chorniy Art
 rating: 9.2
@@ -4900,8 +4900,8 @@ title: Loving You
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/ara-mix-and-una-fairy/gallery/20240109/LOVING_YOU
-cast: Ara Mix; https://www.vivthomas.com/model/ara-mix; f
-cast: Una Fairy; https://www.vivthomas.com/model/una-fairy; f
+model: n:Ara Mix; id:/model/vivthomas/ara-mix; u:https://www.vivthomas.com/model/ara-mix; g:f
+model: n:Una Fairy; id:/model/vivthomas/una-fairy; u:https://www.vivthomas.com/model/una-fairy; g:f
 released: 2024-01-09
 photographer: Sandra Shine
 rating: 9.0
@@ -4950,8 +4950,8 @@ title: Sweet Attraction
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/arete-and-mirka/gallery/20240107/SWEET_ATTRACTION
-cast: Arete; https://www.vivthomas.com/model/arete; f
-cast: Mirka; https://www.vivthomas.com/model/mirka; f
+model: n:Arete; id:/model/vivthomas/arete; u:https://www.vivthomas.com/model/arete; g:f
+model: n:Mirka; id:/model/vivthomas/mirka; u:https://www.vivthomas.com/model/mirka; g:f
 released: 2024-01-07
 photographer: Tora Ness
 rating: 9.4
@@ -4996,8 +4996,8 @@ title: More Than Friends
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/lily-blossom-and-blu-chanelle/gallery/20240104/MORE_THAN_FRIENDS
-cast: Lily Blossom; https://www.vivthomas.com/model/lily-blossom; f
-cast: Blu Chanelle; https://www.vivthomas.com/model/blu-chanelle; f
+model: n:Lily Blossom; id:/model/vivthomas/lily-blossom; u:https://www.vivthomas.com/model/lily-blossom; g:f
+model: n:Blu Chanelle; id:/model/vivthomas/blu-chanelle; u:https://www.vivthomas.com/model/blu-chanelle; g:f
 released: 2024-01-04
 photographer: Sandra Shine
 rating: 9.4
@@ -5047,8 +5047,8 @@ title: Naughty Idea
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/sata-jones-and-alexis-wilson/gallery/20240101/NAUGHTY_IDEA
-cast: Sata Jones; https://www.vivthomas.com/model/sata-jones; f
-cast: Alexis Wilson; https://www.vivthomas.com/model/alexis-wilson; f
+model: n:Sata Jones; id:/model/vivthomas/sata-jones; u:https://www.vivthomas.com/model/sata-jones; g:f
+model: n:Alexis Wilson; id:/model/vivthomas/alexis-wilson; u:https://www.vivthomas.com/model/alexis-wilson; g:f
 released: 2024-01-01
 photographer: Sandra Shine
 rating: 9.4

@@ -9,7 +9,7 @@ title: Refana
 type: gallery
 site: sa
 url: https://www.sexart.com/model/lilit-a/gallery/20171230/REFANA
-cast: Lilit A; https://www.sexart.com/model/lilit-a;
+model: n:Lilit A; id:/model/sexart/lilit-a; u:https://www.sexart.com/model/lilit-a
 released: 2017-12-30
 photographer: Alex Lynn
 rating: 9.6
@@ -50,7 +50,7 @@ title: Astena
 type: gallery
 site: sa
 url: https://www.sexart.com/model/malena/gallery/20171228/ASTENA
-cast: Malena; https://www.sexart.com/model/malena;
+model: n:Malena; id:/model/sexart/malena; u:https://www.sexart.com/model/malena
 released: 2017-12-28
 photographer: Vicente Silva
 rating: 9.4
@@ -85,7 +85,7 @@ title: Nelee
 type: gallery
 site: sa
 url: https://www.sexart.com/model/violette-pink/gallery/20171226/NELEE
-cast: Violette Pink; https://www.sexart.com/model/violette-pink;
+model: n:Violette Pink; id:/model/sexart/violette-pink; u:https://www.sexart.com/model/violette-pink
 released: 2017-12-26
 photographer: Erro
 rating: 9.5
@@ -116,7 +116,7 @@ title: Deradi
 type: gallery
 site: sa
 url: https://www.sexart.com/model/nancy-a/gallery/20171225/DERADI
-cast: Nancy A; https://www.sexart.com/model/nancy-a;
+model: n:Nancy A; id:/model/sexart/nancy-a; u:https://www.sexart.com/model/nancy-a
 released: 2017-12-25
 photographer: Don Caravaggio
 rating: 9.5
@@ -152,7 +152,7 @@ title: Nipan
 type: gallery
 site: sa
 url: https://www.sexart.com/model/jia-lissa/gallery/20171223/NIPAN
-cast: Jia Lissa; https://www.sexart.com/model/jia-lissa;
+model: n:Jia Lissa; id:/model/sexart/jia-lissa; u:https://www.sexart.com/model/jia-lissa
 released: 2017-12-23
 photographer: Flora
 rating: 9.5
@@ -188,7 +188,7 @@ title: Isono
 type: gallery
 site: sa
 url: https://www.sexart.com/model/lisa-dawn/gallery/20171221/ISONO
-cast: Lisa Dawn; https://www.sexart.com/model/lisa-dawn;
+model: n:Lisa Dawn; id:/model/sexart/lisa-dawn; u:https://www.sexart.com/model/lisa-dawn
 released: 2017-12-21
 photographer: Vicente Silva
 rating: 9.4
@@ -226,7 +226,7 @@ title: Mesuni
 type: gallery
 site: sa
 url: https://www.sexart.com/model/aislin/gallery/20171219/MESUNI
-cast: Aislin; https://www.sexart.com/model/aislin;
+model: n:Aislin; id:/model/sexart/aislin; u:https://www.sexart.com/model/aislin
 released: 2017-12-19
 photographer: Nudero
 rating: 9.6
@@ -260,7 +260,7 @@ title: Yanca
 type: gallery
 site: sa
 url: https://www.sexart.com/model/lana-seymour/gallery/20171218/YANCA
-cast: Lana Seymour; https://www.sexart.com/model/lana-seymour;
+model: n:Lana Seymour; id:/model/sexart/lana-seymour; u:https://www.sexart.com/model/lana-seymour
 released: 2017-12-18
 photographer: Matiss
 rating: 9.4
@@ -292,7 +292,7 @@ title: Altre
 type: gallery
 site: sa
 url: https://www.sexart.com/model/lucy-heart/gallery/20171216/ALTRE
-cast: Lucy Heart; https://www.sexart.com/model/lucy-heart;
+model: n:Lucy Heart; id:/model/sexart/lucy-heart; u:https://www.sexart.com/model/lucy-heart
 released: 2017-12-16
 photographer: Deltagamma
 rating: 9.4
@@ -328,7 +328,7 @@ title: Ridure
 type: gallery
 site: sa
 url: https://www.sexart.com/model/luna-pica/gallery/20171214/RIDURE
-cast: Luna Pica; https://www.sexart.com/model/luna-pica;
+model: n:Luna Pica; id:/model/sexart/luna-pica; u:https://www.sexart.com/model/luna-pica
 released: 2017-12-14
 photographer: Nudero
 rating: 9.3
@@ -360,7 +360,7 @@ title: Asnae
 type: gallery
 site: sa
 url: https://www.sexart.com/model/elina/gallery/20171212/ASNAE
-cast: Elina; https://www.sexart.com/model/elina;
+model: n:Elina; id:/model/sexart/elina; u:https://www.sexart.com/model/elina
 released: 2017-12-12
 photographer: Vicente Silva
 rating: 9.3
@@ -390,7 +390,7 @@ title: Sinera
 type: gallery
 site: sa
 url: https://www.sexart.com/model/anata/gallery/20171211/SINERA
-cast: Anata; https://www.sexart.com/model/anata;
+model: n:Anata; id:/model/sexart/anata; u:https://www.sexart.com/model/anata
 released: 2017-12-11
 photographer: Koenart
 rating: 9.5
@@ -425,7 +425,7 @@ title: Mildibe
 type: gallery
 site: sa
 url: https://www.sexart.com/model/paula-shy/gallery/20171209/MILDIBE
-cast: Paula Shy; https://www.sexart.com/model/paula-shy;
+model: n:Paula Shy; id:/model/sexart/paula-shy; u:https://www.sexart.com/model/paula-shy
 released: 2017-12-09
 photographer: Erro
 rating: 9.5
@@ -456,7 +456,7 @@ title: Memona
 type: gallery
 site: sa
 url: https://www.sexart.com/model/sultana/gallery/20171207/MEMONA
-cast: Sultana; https://www.sexart.com/model/sultana;
+model: n:Sultana; id:/model/sexart/sultana; u:https://www.sexart.com/model/sultana
 released: 2017-12-07
 photographer: Alex Lynn
 rating: 9.4
@@ -488,7 +488,7 @@ title: Anley
 type: gallery
 site: sa
 url: https://www.sexart.com/model/georgia/gallery/20171205/ANLEY
-cast: Georgia; https://www.sexart.com/model/georgia;
+model: n:Georgia; id:/model/sexart/georgia; u:https://www.sexart.com/model/georgia
 released: 2017-12-05
 photographer: Marlene
 rating: 9.7
@@ -527,7 +527,7 @@ title: Miore
 type: gallery
 site: sa
 url: https://www.sexart.com/model/alice-shea/gallery/20171204/MIORE
-cast: Alice Shea; https://www.sexart.com/model/alice-shea;
+model: n:Alice Shea; id:/model/sexart/alice-shea; u:https://www.sexart.com/model/alice-shea
 released: 2017-12-04
 photographer: Vicente Silva
 rating: 9.6
@@ -570,7 +570,7 @@ title: Tenie
 type: gallery
 site: sa
 url: https://www.sexart.com/model/michelle-h/gallery/20171202/TENIE
-cast: Michelle H; https://www.sexart.com/model/michelle-h;
+model: n:Michelle H; id:/model/sexart/michelle-h; u:https://www.sexart.com/model/michelle-h
 released: 2017-12-02
 photographer: Karl Sirmi
 rating: 9.5
@@ -605,7 +605,7 @@ title: Rantay
 type: gallery
 site: sa
 url: https://www.sexart.com/model/rebecca-g/gallery/20171130/RANTAY
-cast: Rebecca G; https://www.sexart.com/model/rebecca-g;
+model: n:Rebecca G; id:/model/sexart/rebecca-g; u:https://www.sexart.com/model/rebecca-g
 released: 2017-11-30
 photographer: Antonio Clemens
 rating: 9.5
@@ -642,7 +642,7 @@ title: Ruccie
 type: gallery
 site: sa
 url: https://www.sexart.com/model/briana/gallery/20171128/RUCCIE
-cast: Briana; https://www.sexart.com/model/briana;
+model: n:Briana; id:/model/sexart/briana; u:https://www.sexart.com/model/briana
 released: 2017-11-28
 photographer: Koenart
 rating: 9.5
@@ -680,7 +680,7 @@ title: Mazena
 type: gallery
 site: sa
 url: https://www.sexart.com/model/lilit-a/gallery/20171127/MAZENA
-cast: Lilit A; https://www.sexart.com/model/lilit-a;
+model: n:Lilit A; id:/model/sexart/lilit-a; u:https://www.sexart.com/model/lilit-a
 released: 2017-11-27
 photographer: Alex Lynn
 rating: 9.6
@@ -714,7 +714,7 @@ title: Soneta
 type: gallery
 site: sa
 url: https://www.sexart.com/model/sofi-shane/gallery/20171125/SONETA
-cast: Sofi Shane; https://www.sexart.com/model/sofi-shane;
+model: n:Sofi Shane; id:/model/sexart/sofi-shane; u:https://www.sexart.com/model/sofi-shane
 released: 2017-11-25
 photographer: Vicente Silva
 rating: 9.5
@@ -749,7 +749,7 @@ title: Emry
 type: gallery
 site: sa
 url: https://www.sexart.com/model/nancy-a/gallery/20171123/EMRY
-cast: Nancy A; https://www.sexart.com/model/nancy-a;
+model: n:Nancy A; id:/model/sexart/nancy-a; u:https://www.sexart.com/model/nancy-a
 released: 2017-11-23
 photographer: Erro
 rating: 9.6
@@ -785,7 +785,7 @@ title: Metie
 type: gallery
 site: sa
 url: https://www.sexart.com/model/patritcy-a/gallery/20171121/METIE
-cast: Patritcy A; https://www.sexart.com/model/patritcy-a;
+model: n:Patritcy A; id:/model/sexart/patritcy-a; u:https://www.sexart.com/model/patritcy-a
 released: 2017-11-21
 photographer: Don Caravaggio
 rating: 9.5
@@ -816,7 +816,7 @@ title: Redia
 type: gallery
 site: sa
 url: https://www.sexart.com/model/mila-azul/gallery/20171120/REDIA
-cast: Mila Azul; https://www.sexart.com/model/mila-azul;
+model: n:Mila Azul; id:/model/sexart/mila-azul; u:https://www.sexart.com/model/mila-azul
 released: 2017-11-20
 photographer: Vicente Silva
 rating: 9.7
@@ -852,7 +852,7 @@ title: Espeno
 type: gallery
 site: sa
 url: https://www.sexart.com/model/mango-a/gallery/20171118/ESPENO
-cast: Mango A; https://www.sexart.com/model/mango-a;
+model: n:Mango A; id:/model/sexart/mango-a; u:https://www.sexart.com/model/mango-a
 released: 2017-11-18
 photographer: Don Caravaggio
 rating: 9.6
@@ -888,7 +888,7 @@ title: Dened
 type: gallery
 site: sa
 url: https://www.sexart.com/model/cayla/gallery/20171116/DENED
-cast: Cayla; https://www.sexart.com/model/cayla;
+model: n:Cayla; id:/model/sexart/cayla; u:https://www.sexart.com/model/cayla
 released: 2017-11-16
 photographer: Erro
 rating: 9.5
@@ -921,7 +921,7 @@ title: Ensila
 type: gallery
 site: sa
 url: https://www.sexart.com/model/aislin/gallery/20171114/ENSILA
-cast: Aislin; https://www.sexart.com/model/aislin;
+model: n:Aislin; id:/model/sexart/aislin; u:https://www.sexart.com/model/aislin
 released: 2017-11-14
 photographer: Vicente Silva
 rating: 9.6
@@ -956,7 +956,7 @@ title: Asidi
 type: gallery
 site: sa
 url: https://www.sexart.com/model/mirabella/gallery/20171113/ASIDI
-cast: Mirabella; https://www.sexart.com/model/mirabella;
+model: n:Mirabella; id:/model/sexart/mirabella; u:https://www.sexart.com/model/mirabella
 released: 2017-11-13
 photographer: Blake Jasper
 rating: 9.5
@@ -995,7 +995,7 @@ title: Coleda
 type: gallery
 site: sa
 url: https://www.sexart.com/model/lisa-dawn/gallery/20171111/COLEDA
-cast: Lisa Dawn; https://www.sexart.com/model/lisa-dawn;
+model: n:Lisa Dawn; id:/model/sexart/lisa-dawn; u:https://www.sexart.com/model/lisa-dawn
 released: 2017-11-11
 photographer: Blake Jasper
 rating: 9.5
@@ -1029,7 +1029,7 @@ title: Frou
 type: gallery
 site: sa
 url: https://www.sexart.com/model/lorena-b/gallery/20171109/FROU
-cast: Lorena B; https://www.sexart.com/model/lorena-b;
+model: n:Lorena B; id:/model/sexart/lorena-b; u:https://www.sexart.com/model/lorena-b
 released: 2017-11-09
 photographer: Don Caravaggio
 rating: 9.6
@@ -1067,7 +1067,7 @@ title: Lareo
 type: gallery
 site: sa
 url: https://www.sexart.com/model/sintia/gallery/20171107/LAREO
-cast: Sintia; https://www.sexart.com/model/sintia;
+model: n:Sintia; id:/model/sexart/sintia; u:https://www.sexart.com/model/sintia
 released: 2017-11-07
 photographer: Albert Varin
 rating: 9.2
@@ -1099,7 +1099,7 @@ title: Refena
 type: gallery
 site: sa
 url: https://www.sexart.com/model/georgia/gallery/20171106/REFENA
-cast: Georgia; https://www.sexart.com/model/georgia;
+model: n:Georgia; id:/model/sexart/georgia; u:https://www.sexart.com/model/georgia
 released: 2017-11-06
 photographer: Marlene
 rating: 9.6
@@ -1133,7 +1133,7 @@ title: Beage
 type: gallery
 site: sa
 url: https://www.sexart.com/model/elina/gallery/20171104/BEAGE
-cast: Elina; https://www.sexart.com/model/elina;
+model: n:Elina; id:/model/sexart/elina; u:https://www.sexart.com/model/elina
 released: 2017-11-04
 photographer: Blake Jasper
 rating: 9.4
@@ -1167,7 +1167,7 @@ title: Ardae
 type: gallery
 site: sa
 url: https://www.sexart.com/model/melena-a/gallery/20171102/ARDAE
-cast: Melena A; https://www.sexart.com/model/melena-a;
+model: n:Melena A; id:/model/sexart/melena-a; u:https://www.sexart.com/model/melena-a
 released: 2017-11-02
 photographer: Don Caravaggio
 rating: 9.7
@@ -1205,7 +1205,7 @@ title: Ariez
 type: gallery
 site: sa
 url: https://www.sexart.com/model/alice-may/gallery/20171031/ARIEZ
-cast: Alice May; https://www.sexart.com/model/alice-may;
+model: n:Alice May; id:/model/sexart/alice-may; u:https://www.sexart.com/model/alice-may
 released: 2017-10-31
 photographer: Alan Forza
 rating: 9.5
@@ -1239,7 +1239,7 @@ title: Istea
 type: gallery
 site: sa
 url: https://www.sexart.com/model/aislin/gallery/20171030/ISTEA
-cast: Aislin; https://www.sexart.com/model/aislin;
+model: n:Aislin; id:/model/sexart/aislin; u:https://www.sexart.com/model/aislin
 released: 2017-10-30
 photographer: Vicente Silva
 rating: 9.5
@@ -1275,7 +1275,7 @@ title: Recala
 type: gallery
 site: sa
 url: https://www.sexart.com/model/nedda-a/gallery/20171028/RECALA
-cast: Nedda A; https://www.sexart.com/model/nedda-a;
+model: n:Nedda A; id:/model/sexart/nedda-a; u:https://www.sexart.com/model/nedda-a
 released: 2017-10-28
 photographer: Alan Forza
 rating: 9.1
@@ -1313,7 +1313,7 @@ title: Syue
 type: gallery
 site: sa
 url: https://www.sexart.com/model/lucy-heart/gallery/20171026/SYUE
-cast: Lucy Heart; https://www.sexart.com/model/lucy-heart;
+model: n:Lucy Heart; id:/model/sexart/lucy-heart; u:https://www.sexart.com/model/lucy-heart
 released: 2017-10-26
 photographer: Flora
 rating: 9.5
@@ -1350,7 +1350,7 @@ title: Ancha
 type: gallery
 site: sa
 url: https://www.sexart.com/model/sade-mare/gallery/20171024/ANCHA
-cast: Sade Mare; https://www.sexart.com/model/sade-mare;
+model: n:Sade Mare; id:/model/sexart/sade-mare; u:https://www.sexart.com/model/sade-mare
 released: 2017-10-24
 photographer: Blake Jasper
 rating: 9.4
@@ -1388,7 +1388,7 @@ title: Chida
 type: gallery
 site: sa
 url: https://www.sexart.com/model/sofi-shane/gallery/20171023/CHIDA
-cast: Sofi Shane; https://www.sexart.com/model/sofi-shane;
+model: n:Sofi Shane; id:/model/sexart/sofi-shane; u:https://www.sexart.com/model/sofi-shane
 released: 2017-10-23
 photographer: Vicente Silva
 rating: 9.4
@@ -1422,7 +1422,7 @@ title: Jere
 type: gallery
 site: sa
 url: https://www.sexart.com/model/jia-lissa/gallery/20171021/JERE
-cast: Jia Lissa; https://www.sexart.com/model/jia-lissa;
+model: n:Jia Lissa; id:/model/sexart/jia-lissa; u:https://www.sexart.com/model/jia-lissa
 released: 2017-10-21
 photographer: Flora
 rating: 9.4
@@ -1455,7 +1455,7 @@ title: Arnina
 type: gallery
 site: sa
 url: https://www.sexart.com/model/eiby-shine/gallery/20171019/ARNINA
-cast: Eiby Shine; https://www.sexart.com/model/eiby-shine;
+model: n:Eiby Shine; id:/model/sexart/eiby-shine; u:https://www.sexart.com/model/eiby-shine
 released: 2017-10-19
 photographer: Alan Forza
 rating: 9.1
@@ -1493,8 +1493,8 @@ title: Vuoto
 type: gallery
 site: sa
 url: https://www.sexart.com/model/york-a-and-soko-a/gallery/20171017/VUOTO
-cast: York A; https://www.sexart.com/model/york-a;
-cast: Soko A; https://www.sexart.com/model/soko-a;
+model: n:York A; id:/model/sexart/york-a; u:https://www.sexart.com/model/york-a
+model: n:Soko A; id:/model/sexart/soko-a; u:https://www.sexart.com/model/soko-a
 released: 2017-10-17
 photographer: Matt Hathaway
 rating: 9.0
@@ -1530,7 +1530,7 @@ title: Carren
 type: gallery
 site: sa
 url: https://www.sexart.com/model/georgia/gallery/20171016/CARREN
-cast: Georgia; https://www.sexart.com/model/georgia;
+model: n:Georgia; id:/model/sexart/georgia; u:https://www.sexart.com/model/georgia
 released: 2017-10-16
 photographer: Marlene
 rating: 9.7
@@ -1566,7 +1566,7 @@ title: Opita
 type: gallery
 site: sa
 url: https://www.sexart.com/model/elina/gallery/20171014/OPITA
-cast: Elina; https://www.sexart.com/model/elina;
+model: n:Elina; id:/model/sexart/elina; u:https://www.sexart.com/model/elina
 released: 2017-10-14
 photographer: Vicente Silva
 rating: 9.5
@@ -1602,7 +1602,7 @@ title: Erlan
 type: gallery
 site: sa
 url: https://www.sexart.com/model/paula-shy/gallery/20171012/ERLAN
-cast: Paula Shy; https://www.sexart.com/model/paula-shy;
+model: n:Paula Shy; id:/model/sexart/paula-shy; u:https://www.sexart.com/model/paula-shy
 released: 2017-10-12
 photographer: Erro
 rating: 9.6
@@ -1636,7 +1636,7 @@ title: Cenes
 type: gallery
 site: sa
 url: https://www.sexart.com/model/sybil-a/gallery/20171010/CENES
-cast: Sybil A; https://www.sexart.com/model/sybil-a;
+model: n:Sybil A; id:/model/sexart/sybil-a; u:https://www.sexart.com/model/sybil-a
 released: 2017-10-10
 photographer: Don Caravaggio
 rating: 9.5
@@ -1667,7 +1667,7 @@ title: Poconi
 type: gallery
 site: sa
 url: https://www.sexart.com/model/anie-darling/gallery/20171009/POCONI
-cast: Anie Darling; https://www.sexart.com/model/anie-darling;
+model: n:Anie Darling; id:/model/sexart/anie-darling; u:https://www.sexart.com/model/anie-darling
 released: 2017-10-09
 photographer: Erro
 rating: 9.6
@@ -1699,7 +1699,7 @@ title: Senuda
 type: gallery
 site: sa
 url: https://www.sexart.com/model/mila-azul/gallery/20171007/SENUDA
-cast: Mila Azul; https://www.sexart.com/model/mila-azul;
+model: n:Mila Azul; id:/model/sexart/mila-azul; u:https://www.sexart.com/model/mila-azul
 released: 2017-10-07
 photographer: Erro
 rating: 9.7
@@ -1731,7 +1731,7 @@ title: Cifea
 type: gallery
 site: sa
 url: https://www.sexart.com/model/gloria-sol/gallery/20171005/CIFEA
-cast: Gloria Sol; https://www.sexart.com/model/gloria-sol;
+model: n:Gloria Sol; id:/model/sexart/gloria-sol; u:https://www.sexart.com/model/gloria-sol
 released: 2017-10-05
 photographer: Don Caravaggio
 rating: 9.7
@@ -1764,7 +1764,7 @@ title: Gatan
 type: gallery
 site: sa
 url: https://www.sexart.com/model/eveline-dellai/gallery/20171003/GATAN
-cast: Eveline Dellai; https://www.sexart.com/model/eveline-dellai;
+model: n:Eveline Dellai; id:/model/sexart/eveline-dellai; u:https://www.sexart.com/model/eveline-dellai
 released: 2017-10-03
 photographer: Erro
 rating: 9.5
@@ -1794,7 +1794,7 @@ title: Apito
 type: gallery
 site: sa
 url: https://www.sexart.com/model/malena/gallery/20171002/APITO
-cast: Malena; https://www.sexart.com/model/malena;
+model: n:Malena; id:/model/sexart/malena; u:https://www.sexart.com/model/malena
 released: 2017-10-02
 photographer: Vicente Silva
 rating: 9.4
@@ -1831,7 +1831,7 @@ title: Cudre
 type: gallery
 site: sa
 url: https://www.sexart.com/model/sofi-shane/gallery/20170930/CUDRE
-cast: Sofi Shane; https://www.sexart.com/model/sofi-shane;
+model: n:Sofi Shane; id:/model/sexart/sofi-shane; u:https://www.sexart.com/model/sofi-shane
 released: 2017-09-30
 photographer: Vicente Silva
 rating: 9.4
@@ -1869,7 +1869,7 @@ title: Niraj
 type: gallery
 site: sa
 url: https://www.sexart.com/model/mia-sollis/gallery/20170928/NIRAJ
-cast: Mia Sollis; https://www.sexart.com/model/mia-sollis;
+model: n:Mia Sollis; id:/model/sexart/mia-sollis; u:https://www.sexart.com/model/mia-sollis
 released: 2017-09-28
 photographer: Don Caravaggio
 rating: 9.5
@@ -1898,7 +1898,7 @@ title: Razina
 type: gallery
 site: sa
 url: https://www.sexart.com/model/lisa-dawn/gallery/20170926/RAZINA
-cast: Lisa Dawn; https://www.sexart.com/model/lisa-dawn;
+model: n:Lisa Dawn; id:/model/sexart/lisa-dawn; u:https://www.sexart.com/model/lisa-dawn
 released: 2017-09-26
 photographer: Vicente Silva
 rating: 9.5
@@ -1936,7 +1936,7 @@ title: Zunea
 type: gallery
 site: sa
 url: https://www.sexart.com/model/zarina-a/gallery/20170925/ZUNEA
-cast: Zarina A; https://www.sexart.com/model/zarina-a;
+model: n:Zarina A; id:/model/sexart/zarina-a; u:https://www.sexart.com/model/zarina-a
 released: 2017-09-25
 photographer: Karl Sirmi
 rating: 9.4
@@ -1974,8 +1974,8 @@ title: Boreo
 type: gallery
 site: sa
 url: https://www.sexart.com/model/ulitima-and-jacque/gallery/20170923/BOREO
-cast: Ulitima; https://www.sexart.com/model/ulitima;
-cast: Jacque; https://www.sexart.com/model/jacque;
+model: n:Ulitima; id:/model/sexart/ulitima; u:https://www.sexart.com/model/ulitima
+model: n:Jacque; id:/model/sexart/jacque; u:https://www.sexart.com/model/jacque
 released: 2017-09-23
 photographer: Albert Varin
 rating: 9.0
@@ -2011,7 +2011,7 @@ title: Chella
 type: gallery
 site: sa
 url: https://www.sexart.com/model/sade-mare/gallery/20170921/CHELLA
-cast: Sade Mare; https://www.sexart.com/model/sade-mare;
+model: n:Sade Mare; id:/model/sexart/sade-mare; u:https://www.sexart.com/model/sade-mare
 released: 2017-09-21
 photographer: Blake Jasper
 rating: 9.4
@@ -2048,7 +2048,7 @@ title: Mejin
 type: gallery
 site: sa
 url: https://www.sexart.com/model/elina/gallery/20170919/MEJIN
-cast: Elina; https://www.sexart.com/model/elina;
+model: n:Elina; id:/model/sexart/elina; u:https://www.sexart.com/model/elina
 released: 2017-09-19
 photographer: Vicente Silva
 rating: 9.3
@@ -2081,7 +2081,7 @@ title: Remoni
 type: gallery
 site: sa
 url: https://www.sexart.com/model/sabrisse-a/gallery/20170918/REMONI
-cast: Sabrisse A; https://www.sexart.com/model/sabrisse-a;
+model: n:Sabrisse A; id:/model/sexart/sabrisse-a; u:https://www.sexart.com/model/sabrisse-a
 released: 2017-09-18
 photographer: Don Caravaggio
 rating: 9.5
@@ -2117,7 +2117,7 @@ title: Ersan
 type: gallery
 site: sa
 url: https://www.sexart.com/model/alice-may/gallery/20170916/ERSAN
-cast: Alice May; https://www.sexart.com/model/alice-may;
+model: n:Alice May; id:/model/sexart/alice-may; u:https://www.sexart.com/model/alice-may
 released: 2017-09-16
 photographer: Alan Forza
 rating: 9.4
@@ -2152,7 +2152,7 @@ title: Majezi
 type: gallery
 site: sa
 url: https://www.sexart.com/model/tracy-lindsay/gallery/20170914/MAJEZI
-cast: Tracy Lindsay; https://www.sexart.com/model/tracy-lindsay;
+model: n:Tracy Lindsay; id:/model/sexart/tracy-lindsay; u:https://www.sexart.com/model/tracy-lindsay
 released: 2017-09-14
 photographer: Don Caravaggio
 rating: 9.6
@@ -2192,7 +2192,7 @@ title: Rianda
 type: gallery
 site: sa
 url: https://www.sexart.com/model/lara-d/gallery/20170912/RIANDA
-cast: Lara D; https://www.sexart.com/model/lara-d;
+model: n:Lara D; id:/model/sexart/lara-d; u:https://www.sexart.com/model/lara-d
 released: 2017-09-12
 photographer: Iona
 rating: 9.3
@@ -2228,7 +2228,7 @@ title: Stengi
 type: gallery
 site: sa
 url: https://www.sexart.com/model/alecia-fox/gallery/20170911/STENGI
-cast: Alecia Fox; https://www.sexart.com/model/alecia-fox;
+model: n:Alecia Fox; id:/model/sexart/alecia-fox; u:https://www.sexart.com/model/alecia-fox
 released: 2017-09-11
 photographer: Antonio Clemens
 rating: 9.4
@@ -2261,7 +2261,7 @@ title: Solife
 type: gallery
 site: sa
 url: https://www.sexart.com/model/anie-darling/gallery/20170909/SOLIFE
-cast: Anie Darling; https://www.sexart.com/model/anie-darling;
+model: n:Anie Darling; id:/model/sexart/anie-darling; u:https://www.sexart.com/model/anie-darling
 released: 2017-09-09
 photographer: Don Caravaggio
 rating: 9.4
@@ -2292,7 +2292,7 @@ title: Panse
 type: gallery
 site: sa
 url: https://www.sexart.com/model/zarina-a/gallery/20170907/PANSE
-cast: Zarina A; https://www.sexart.com/model/zarina-a;
+model: n:Zarina A; id:/model/sexart/zarina-a; u:https://www.sexart.com/model/zarina-a
 released: 2017-09-07
 photographer: Karl Sirmi
 rating: 9.3
@@ -2324,7 +2324,7 @@ title: Verta
 type: gallery
 site: sa
 url: https://www.sexart.com/model/sybil-a/gallery/20170905/VERTA
-cast: Sybil A; https://www.sexart.com/model/sybil-a;
+model: n:Sybil A; id:/model/sexart/sybil-a; u:https://www.sexart.com/model/sybil-a
 released: 2017-09-05
 photographer: Koenart
 rating: 9.6
@@ -2355,7 +2355,7 @@ title: Detize
 type: gallery
 site: sa
 url: https://www.sexart.com/model/mango-a/gallery/20170904/DETIZE
-cast: Mango A; https://www.sexart.com/model/mango-a;
+model: n:Mango A; id:/model/sexart/mango-a; u:https://www.sexart.com/model/mango-a
 released: 2017-09-04
 photographer: Erro
 rating: 9.6
@@ -2392,7 +2392,7 @@ title: Carben
 type: gallery
 site: sa
 url: https://www.sexart.com/model/subil-a/gallery/20170902/CARBEN
-cast: Subil A; https://www.sexart.com/model/subil-a;
+model: n:Subil A; id:/model/sexart/subil-a; u:https://www.sexart.com/model/subil-a
 released: 2017-09-02
 photographer: Albert Varin
 rating: 9.4
@@ -2423,7 +2423,7 @@ title: Enasi
 type: gallery
 site: sa
 url: https://www.sexart.com/model/elina/gallery/20170831/ENASI
-cast: Elina; https://www.sexart.com/model/elina;
+model: n:Elina; id:/model/sexart/elina; u:https://www.sexart.com/model/elina
 released: 2017-08-31
 photographer: Vicente Silva
 rating: 9.5
@@ -2459,7 +2459,7 @@ title: Adoca
 type: gallery
 site: sa
 url: https://www.sexart.com/model/candice-luka/gallery/20170829/ADOCA
-cast: Candice Luka; https://www.sexart.com/model/candice-luka;
+model: n:Candice Luka; id:/model/sexart/candice-luka; u:https://www.sexart.com/model/candice-luka
 released: 2017-08-29
 photographer: Erro
 rating: 9.6
@@ -2496,7 +2496,7 @@ title: Enarje
 type: gallery
 site: sa
 url: https://www.sexart.com/model/tempe/gallery/20170828/ENARJE
-cast: Tempe; https://www.sexart.com/model/tempe;
+model: n:Tempe; id:/model/sexart/tempe; u:https://www.sexart.com/model/tempe
 released: 2017-08-28
 photographer: Koenart
 rating: 9.6
@@ -2531,7 +2531,7 @@ title: Lybie
 type: gallery
 site: sa
 url: https://www.sexart.com/model/sabrisse-a/gallery/20170826/LYBIE
-cast: Sabrisse A; https://www.sexart.com/model/sabrisse-a;
+model: n:Sabrisse A; id:/model/sexart/sabrisse-a; u:https://www.sexart.com/model/sabrisse-a
 released: 2017-08-26
 photographer: Erro
 rating: 9.6
@@ -2568,7 +2568,7 @@ title: Mariya
 type: gallery
 site: sa
 url: https://www.sexart.com/model/sybil-a/gallery/20170824/MARIYA
-cast: Sybil A; https://www.sexart.com/model/sybil-a;
+model: n:Sybil A; id:/model/sexart/sybil-a; u:https://www.sexart.com/model/sybil-a
 released: 2017-08-24
 photographer: Koenart
 rating: 9.6
@@ -2600,7 +2600,7 @@ title: Redsie
 type: gallery
 site: sa
 url: https://www.sexart.com/model/adel-c/gallery/20170822/REDSIE
-cast: Adel C; https://www.sexart.com/model/adel-c;
+model: n:Adel C; id:/model/sexart/adel-c; u:https://www.sexart.com/model/adel-c
 released: 2017-08-22
 photographer: Don Caravaggio
 rating: 9.6
@@ -2634,7 +2634,7 @@ title: Egma
 type: gallery
 site: sa
 url: https://www.sexart.com/model/aislin/gallery/20170821/EGMA
-cast: Aislin; https://www.sexart.com/model/aislin;
+model: n:Aislin; id:/model/sexart/aislin; u:https://www.sexart.com/model/aislin
 released: 2017-08-21
 photographer: Alan Forza
 rating: 9.5
@@ -2665,7 +2665,7 @@ title: Inessi
 type: gallery
 site: sa
 url: https://www.sexart.com/model/mango-a/gallery/20170819/INESSI
-cast: Mango A; https://www.sexart.com/model/mango-a;
+model: n:Mango A; id:/model/sexart/mango-a; u:https://www.sexart.com/model/mango-a
 released: 2017-08-19
 photographer: Don Caravaggio
 rating: 9.6
@@ -2698,7 +2698,7 @@ title: Lerla
 type: gallery
 site: sa
 url: https://www.sexart.com/model/gracie/gallery/20170817/LERLA
-cast: Gracie; https://www.sexart.com/model/gracie;
+model: n:Gracie; id:/model/sexart/gracie; u:https://www.sexart.com/model/gracie
 released: 2017-08-17
 photographer: Blake Jasper
 rating: 9.4
@@ -2727,7 +2727,7 @@ title: Lonua
 type: gallery
 site: sa
 url: https://www.sexart.com/model/lorena-b/gallery/20170815/LONUA
-cast: Lorena B; https://www.sexart.com/model/lorena-b;
+model: n:Lorena B; id:/model/sexart/lorena-b; u:https://www.sexart.com/model/lorena-b
 released: 2017-08-15
 photographer: Don Caravaggio
 rating: 9.6
@@ -2761,7 +2761,7 @@ title: Lumis
 type: gallery
 site: sa
 url: https://www.sexart.com/model/eva-gold/gallery/20170814/LUMIS
-cast: Eva Gold; https://www.sexart.com/model/eva-gold;
+model: n:Eva Gold; id:/model/sexart/eva-gold; u:https://www.sexart.com/model/eva-gold
 released: 2017-08-14
 photographer: Antonio Clemens
 rating: 9.5
@@ -2799,7 +2799,7 @@ title: Ajavi
 type: gallery
 site: sa
 url: https://www.sexart.com/model/venice-lei/gallery/20170812/AJAVI
-cast: Venice Lei; https://www.sexart.com/model/venice-lei;
+model: n:Venice Lei; id:/model/sexart/venice-lei; u:https://www.sexart.com/model/venice-lei
 released: 2017-08-12
 photographer: Alan Forza
 rating: 9.3
@@ -2831,7 +2831,7 @@ title: Melta
 type: gallery
 site: sa
 url: https://www.sexart.com/model/eiby-shine/gallery/20170810/MELTA
-cast: Eiby Shine; https://www.sexart.com/model/eiby-shine;
+model: n:Eiby Shine; id:/model/sexart/eiby-shine; u:https://www.sexart.com/model/eiby-shine
 released: 2017-08-10
 photographer: Alan Forza
 rating: 9.1
@@ -2864,7 +2864,7 @@ title: Nieya
 type: gallery
 site: sa
 url: https://www.sexart.com/model/sybil-a/gallery/20170808/NIEYA
-cast: Sybil A; https://www.sexart.com/model/sybil-a;
+model: n:Sybil A; id:/model/sexart/sybil-a; u:https://www.sexart.com/model/sybil-a
 released: 2017-08-08
 photographer: Alex Lynn
 rating: 9.5
@@ -2896,8 +2896,8 @@ title: Enita
 type: gallery
 site: sa
 url: https://www.sexart.com/model/nika-n-and-milena-d/gallery/20170807/ENITA
-cast: Nika N; https://www.sexart.com/model/nika-n;
-cast: Milena D; https://www.sexart.com/model/milena-d;
+model: n:Nika N; id:/model/sexart/nika-n; u:https://www.sexart.com/model/nika-n
+model: n:Milena D; id:/model/sexart/milena-d; u:https://www.sexart.com/model/milena-d
 released: 2017-08-07
 photographer: Antares
 rating: 9.5
@@ -2937,7 +2937,7 @@ title: Soemi
 type: gallery
 site: sa
 url: https://www.sexart.com/model/lucy-li/gallery/20170805/SOEMI
-cast: Lucy Li; https://www.sexart.com/model/lucy-li;
+model: n:Lucy Li; id:/model/sexart/lucy-li; u:https://www.sexart.com/model/lucy-li
 released: 2017-08-05
 photographer: Deltagamma
 rating: 9.6
@@ -2975,7 +2975,7 @@ title: Sican
 type: gallery
 site: sa
 url: https://www.sexart.com/model/candice-luka/gallery/20170803/SICAN
-cast: Candice Luka; https://www.sexart.com/model/candice-luka;
+model: n:Candice Luka; id:/model/sexart/candice-luka; u:https://www.sexart.com/model/candice-luka
 released: 2017-08-03
 photographer: Don Caravaggio
 rating: 9.5
@@ -3009,8 +3009,8 @@ title: Entiyr
 type: gallery
 site: sa
 url: https://www.sexart.com/model/ulitima-and-jacque/gallery/20170801/ENTIYR
-cast: Ulitima; https://www.sexart.com/model/ulitima;
-cast: Jacque; https://www.sexart.com/model/jacque;
+model: n:Ulitima; id:/model/sexart/ulitima; u:https://www.sexart.com/model/ulitima
+model: n:Jacque; id:/model/sexart/jacque; u:https://www.sexart.com/model/jacque
 released: 2017-08-01
 photographer: Albert Varin
 rating: 9.3
@@ -3052,7 +3052,7 @@ title: Nacies
 type: gallery
 site: sa
 url: https://www.sexart.com/model/genevieve-gandi/gallery/20170731/NACIES
-cast: Genevieve Gandi; https://www.sexart.com/model/genevieve-gandi;
+model: n:Genevieve Gandi; id:/model/sexart/genevieve-gandi; u:https://www.sexart.com/model/genevieve-gandi
 released: 2017-07-31
 photographer: Koenart
 rating: 9.6
@@ -3084,7 +3084,7 @@ title: Cobrin
 type: gallery
 site: sa
 url: https://www.sexart.com/model/georgia/gallery/20170729/COBRIN
-cast: Georgia; https://www.sexart.com/model/georgia;
+model: n:Georgia; id:/model/sexart/georgia; u:https://www.sexart.com/model/georgia
 released: 2017-07-29
 photographer: Marlene
 rating: 9.4
@@ -3119,7 +3119,7 @@ title: Lynes
 type: gallery
 site: sa
 url: https://www.sexart.com/model/lucy-heart/gallery/20170727/LYNES
-cast: Lucy Heart; https://www.sexart.com/model/lucy-heart;
+model: n:Lucy Heart; id:/model/sexart/lucy-heart; u:https://www.sexart.com/model/lucy-heart
 released: 2017-07-27
 photographer: Flora
 rating: 9.3
@@ -3155,7 +3155,7 @@ title: Lodiu
 type: gallery
 site: sa
 url: https://www.sexart.com/model/gracie/gallery/20170725/LODIU
-cast: Gracie; https://www.sexart.com/model/gracie;
+model: n:Gracie; id:/model/sexart/gracie; u:https://www.sexart.com/model/gracie
 released: 2017-07-25
 photographer: Blake Jasper
 rating: 9.5
@@ -3188,7 +3188,7 @@ title: Lesoan
 type: gallery
 site: sa
 url: https://www.sexart.com/model/sandra-lauver/gallery/20170724/LESOAN
-cast: Sandra Lauver; https://www.sexart.com/model/sandra-lauver;
+model: n:Sandra Lauver; id:/model/sexart/sandra-lauver; u:https://www.sexart.com/model/sandra-lauver
 released: 2017-07-24
 photographer: Alan Forza
 rating: 9.3
@@ -3222,7 +3222,7 @@ title: Alnell
 type: gallery
 site: sa
 url: https://www.sexart.com/model/cara-mell/gallery/20170722/ALNELL
-cast: Cara Mell; https://www.sexart.com/model/cara-mell;
+model: n:Cara Mell; id:/model/sexart/cara-mell; u:https://www.sexart.com/model/cara-mell
 released: 2017-07-22
 photographer: Blake Jasper
 rating: 9.5
@@ -3259,7 +3259,7 @@ title: Denora
 type: gallery
 site: sa
 url: https://www.sexart.com/model/sybil-a/gallery/20170720/DENORA
-cast: Sybil A; https://www.sexart.com/model/sybil-a;
+model: n:Sybil A; id:/model/sexart/sybil-a; u:https://www.sexart.com/model/sybil-a
 released: 2017-07-20
 photographer: Dave Lee
 rating: 9.5
@@ -3294,7 +3294,7 @@ title: Vanzia
 type: gallery
 site: sa
 url: https://www.sexart.com/model/sandy-a/gallery/20170718/VANZIA
-cast: Sandy A; https://www.sexart.com/model/sandy-a;
+model: n:Sandy A; id:/model/sexart/sandy-a; u:https://www.sexart.com/model/sandy-a
 released: 2017-07-18
 photographer: Flora
 rating: 9.3
@@ -3334,8 +3334,8 @@ title: Initte
 type: gallery
 site: sa
 url: https://www.sexart.com/model/milena-d-and-nika-n/gallery/20170717/INITTE
-cast: Milena D; https://www.sexart.com/model/milena-d;
-cast: Nika N; https://www.sexart.com/model/nika-n;
+model: n:Milena D; id:/model/sexart/milena-d; u:https://www.sexart.com/model/milena-d
+model: n:Nika N; id:/model/sexart/nika-n; u:https://www.sexart.com/model/nika-n
 released: 2017-07-17
 photographer: Antares
 rating: 9.5
@@ -3368,7 +3368,7 @@ title: Flexa
 type: gallery
 site: sa
 url: https://www.sexart.com/model/mila-azul/gallery/20170715/FLEXA
-cast: Mila Azul; https://www.sexart.com/model/mila-azul;
+model: n:Mila Azul; id:/model/sexart/mila-azul; u:https://www.sexart.com/model/mila-azul
 released: 2017-07-15
 photographer: Alex Lynn
 rating: 9.6
@@ -3401,7 +3401,7 @@ title: Anre
 type: gallery
 site: sa
 url: https://www.sexart.com/model/dgil/gallery/20170713/ANRE
-cast: Dgil; https://www.sexart.com/model/dgil;
+model: n:Dgil; id:/model/sexart/dgil; u:https://www.sexart.com/model/dgil
 released: 2017-07-13
 photographer: Alex Lynn
 rating: 9.1
@@ -3437,7 +3437,7 @@ title: Minalt
 type: gallery
 site: sa
 url: https://www.sexart.com/model/foxy-salt/gallery/20170711/MINALT
-cast: Foxy Salt; https://www.sexart.com/model/foxy-salt;
+model: n:Foxy Salt; id:/model/sexart/foxy-salt; u:https://www.sexart.com/model/foxy-salt
 released: 2017-07-11
 photographer: Antonio Clemens
 rating: 9.4
@@ -3468,7 +3468,7 @@ title: Semina
 type: gallery
 site: sa
 url: https://www.sexart.com/model/alise-moreno/gallery/20170710/SEMINA
-cast: Alise Moreno; https://www.sexart.com/model/alise-moreno;
+model: n:Alise Moreno; id:/model/sexart/alise-moreno; u:https://www.sexart.com/model/alise-moreno
 released: 2017-07-10
 photographer: Flora
 rating: 9.2
@@ -3505,7 +3505,7 @@ title: Spenio
 type: gallery
 site: sa
 url: https://www.sexart.com/model/mango-a/gallery/20170708/SPENIO
-cast: Mango A; https://www.sexart.com/model/mango-a;
+model: n:Mango A; id:/model/sexart/mango-a; u:https://www.sexart.com/model/mango-a
 released: 2017-07-08
 photographer: Erro
 rating: 9.6
@@ -3539,7 +3539,7 @@ title: Necani
 type: gallery
 site: sa
 url: https://www.sexart.com/model/genevieve-gandi/gallery/20170706/NECANI
-cast: Genevieve Gandi; https://www.sexart.com/model/genevieve-gandi;
+model: n:Genevieve Gandi; id:/model/sexart/genevieve-gandi; u:https://www.sexart.com/model/genevieve-gandi
 released: 2017-07-06
 photographer: Blake Jasper
 rating: 9.5
@@ -3572,7 +3572,7 @@ title: Bazea
 type: gallery
 site: sa
 url: https://www.sexart.com/model/georgia/gallery/20170704/BAZEA
-cast: Georgia; https://www.sexart.com/model/georgia;
+model: n:Georgia; id:/model/sexart/georgia; u:https://www.sexart.com/model/georgia
 released: 2017-07-04
 photographer: Marlene
 rating: 9.6
@@ -3607,7 +3607,7 @@ title: Areeki
 type: gallery
 site: sa
 url: https://www.sexart.com/model/melena-a/gallery/20170703/AREEKI
-cast: Melena A; https://www.sexart.com/model/melena-a;
+model: n:Melena A; id:/model/sexart/melena-a; u:https://www.sexart.com/model/melena-a
 released: 2017-07-03
 photographer: Don Caravaggio
 rating: 9.7
@@ -3646,7 +3646,7 @@ title: Larde
 type: gallery
 site: sa
 url: https://www.sexart.com/model/adel-morel/gallery/20170701/LARDE
-cast: Adel Morel; https://www.sexart.com/model/adel-morel;
+model: n:Adel Morel; id:/model/sexart/adel-morel; u:https://www.sexart.com/model/adel-morel
 released: 2017-07-01
 photographer: Dave Lee
 rating: 9.6
@@ -3677,7 +3677,7 @@ title: Senig
 type: gallery
 site: sa
 url: https://www.sexart.com/model/sybil-a/gallery/20170629/SENIG
-cast: Sybil A; https://www.sexart.com/model/sybil-a;
+model: n:Sybil A; id:/model/sexart/sybil-a; u:https://www.sexart.com/model/sybil-a
 released: 2017-06-29
 photographer: Alex Lynn
 rating: 9.5
@@ -3713,7 +3713,7 @@ title: Jandy
 type: gallery
 site: sa
 url: https://www.sexart.com/model/alice-may/gallery/20170627/JANDY
-cast: Alice May; https://www.sexart.com/model/alice-may;
+model: n:Alice May; id:/model/sexart/alice-may; u:https://www.sexart.com/model/alice-may
 released: 2017-06-27
 photographer: Alan Forza
 rating: 9.4
@@ -3745,7 +3745,7 @@ title: Mensi
 type: gallery
 site: sa
 url: https://www.sexart.com/model/patritcy-a/gallery/20170626/MENSI
-cast: Patritcy A; https://www.sexart.com/model/patritcy-a;
+model: n:Patritcy A; id:/model/sexart/patritcy-a; u:https://www.sexart.com/model/patritcy-a
 released: 2017-06-26
 photographer: Don Caravaggio
 rating: 9.5
@@ -3776,7 +3776,7 @@ title: Karda
 type: gallery
 site: sa
 url: https://www.sexart.com/model/sabrisse-a/gallery/20170624/KARDA
-cast: Sabrisse A; https://www.sexart.com/model/sabrisse-a;
+model: n:Sabrisse A; id:/model/sexart/sabrisse-a; u:https://www.sexart.com/model/sabrisse-a
 released: 2017-06-24
 photographer: Erro
 rating: 9.7
@@ -3810,7 +3810,7 @@ title: Eldina
 type: gallery
 site: sa
 url: https://www.sexart.com/model/gracie/gallery/20170622/ELDINA
-cast: Gracie; https://www.sexart.com/model/gracie;
+model: n:Gracie; id:/model/sexart/gracie; u:https://www.sexart.com/model/gracie
 released: 2017-06-22
 photographer: Koenart
 rating: 9.5
@@ -3844,7 +3844,7 @@ title: Fernia
 type: gallery
 site: sa
 url: https://www.sexart.com/model/mila-azul/gallery/20170620/FERNIA
-cast: Mila Azul; https://www.sexart.com/model/mila-azul;
+model: n:Mila Azul; id:/model/sexart/mila-azul; u:https://www.sexart.com/model/mila-azul
 released: 2017-06-20
 photographer: Alex Lynn
 rating: 9.6
@@ -3884,7 +3884,7 @@ title: Arfine
 type: gallery
 site: sa
 url: https://www.sexart.com/model/foxy-salt/gallery/20170619/ARFINE
-cast: Foxy Salt; https://www.sexart.com/model/foxy-salt;
+model: n:Foxy Salt; id:/model/sexart/foxy-salt; u:https://www.sexart.com/model/foxy-salt
 released: 2017-06-19
 photographer: Antonio Clemens
 rating: 9.4
@@ -3901,7 +3901,7 @@ title: Minta
 type: gallery
 site: sa
 url: https://www.sexart.com/model/nika-n/gallery/20170617/MINTA
-cast: Nika N; https://www.sexart.com/model/nika-n;
+model: n:Nika N; id:/model/sexart/nika-n; u:https://www.sexart.com/model/nika-n
 released: 2017-06-17
 photographer: Antares
 rating: 9.2
@@ -3919,7 +3919,7 @@ title: Jeridy
 type: gallery
 site: sa
 url: https://www.sexart.com/model/lorena-b/gallery/20170615/JERIDY
-cast: Lorena B; https://www.sexart.com/model/lorena-b;
+model: n:Lorena B; id:/model/sexart/lorena-b; u:https://www.sexart.com/model/lorena-b
 released: 2017-06-15
 photographer: Don Caravaggio
 rating: 9.8
@@ -3939,7 +3939,7 @@ title: Sandena
 type: gallery
 site: sa
 url: https://www.sexart.com/model/dgil/gallery/20170613/SANDENA
-cast: Dgil; https://www.sexart.com/model/dgil;
+model: n:Dgil; id:/model/sexart/dgil; u:https://www.sexart.com/model/dgil
 released: 2017-06-13
 photographer: Alex Lynn
 rating: 9.3
@@ -3959,7 +3959,7 @@ title: Moriska
 type: gallery
 site: sa
 url: https://www.sexart.com/model/milena-d/gallery/20170612/MORISKA
-cast: Milena D; https://www.sexart.com/model/milena-d;
+model: n:Milena D; id:/model/sexart/milena-d; u:https://www.sexart.com/model/milena-d
 released: 2017-06-12
 photographer: Antares
 rating: 9.5
@@ -3975,7 +3975,7 @@ title: Surmine
 type: gallery
 site: sa
 url: https://www.sexart.com/model/caddy/gallery/20170610/SURMINE
-cast: Caddy; https://www.sexart.com/model/caddy;
+model: n:Caddy; id:/model/sexart/caddy; u:https://www.sexart.com/model/caddy
 released: 2017-06-10
 photographer: Vicente Silva
 rating: 9.5
@@ -3995,7 +3995,7 @@ title: Plemina
 type: gallery
 site: sa
 url: https://www.sexart.com/model/lucy-heart/gallery/20170608/PLEMINA
-cast: Lucy Heart; https://www.sexart.com/model/lucy-heart;
+model: n:Lucy Heart; id:/model/sexart/lucy-heart; u:https://www.sexart.com/model/lucy-heart
 released: 2017-06-08
 photographer: Flora
 rating: 9.3
@@ -4013,7 +4013,7 @@ title: Flogid
 type: gallery
 site: sa
 url: https://www.sexart.com/model/cara-mell/gallery/20170606/FLOGID
-cast: Cara Mell; https://www.sexart.com/model/cara-mell;
+model: n:Cara Mell; id:/model/sexart/cara-mell; u:https://www.sexart.com/model/cara-mell
 released: 2017-06-06
 photographer: Alex Lynn
 rating: 9.6
@@ -4031,7 +4031,7 @@ title: Marless
 type: gallery
 site: sa
 url: https://www.sexart.com/model/mango-a/gallery/20170605/MARLESS
-cast: Mango A; https://www.sexart.com/model/mango-a;
+model: n:Mango A; id:/model/sexart/mango-a; u:https://www.sexart.com/model/mango-a
 released: 2017-06-05
 photographer: Erro
 rating: 9.6
@@ -4050,7 +4050,7 @@ title: Renoca
 type: gallery
 site: sa
 url: https://www.sexart.com/model/niki-mey/gallery/20170603/RENOCA
-cast: Niki Mey; https://www.sexart.com/model/niki-mey;
+model: n:Niki Mey; id:/model/sexart/niki-mey; u:https://www.sexart.com/model/niki-mey
 released: 2017-06-03
 photographer: Flora
 rating: 9.4
@@ -4069,7 +4069,7 @@ title: Yera
 type: gallery
 site: sa
 url: https://www.sexart.com/model/sarika-a/gallery/20170601/YERA
-cast: Sarika A; https://www.sexart.com/model/sarika-a;
+model: n:Sarika A; id:/model/sexart/sarika-a; u:https://www.sexart.com/model/sarika-a
 released: 2017-06-01
 photographer: Albert Varin
 rating: 9.5
@@ -4089,7 +4089,7 @@ title: Lorred
 type: gallery
 site: sa
 url: https://www.sexart.com/model/georgia/gallery/20170530/LORRED
-cast: Georgia; https://www.sexart.com/model/georgia;
+model: n:Georgia; id:/model/sexart/georgia; u:https://www.sexart.com/model/georgia
 released: 2017-05-30
 photographer: Marlene
 rating: 9.6
@@ -4110,7 +4110,7 @@ title: Therrino
 type: gallery
 site: sa
 url: https://www.sexart.com/model/candice-luka/gallery/20170529/THERRINO
-cast: Candice Luka; https://www.sexart.com/model/candice-luka;
+model: n:Candice Luka; id:/model/sexart/candice-luka; u:https://www.sexart.com/model/candice-luka
 released: 2017-05-29
 photographer: Erro
 rating: 9.6
@@ -4128,7 +4128,7 @@ title: Tirame
 type: gallery
 site: sa
 url: https://www.sexart.com/model/sandy-a/gallery/20170527/TIRAME
-cast: Sandy A; https://www.sexart.com/model/sandy-a;
+model: n:Sandy A; id:/model/sexart/sandy-a; u:https://www.sexart.com/model/sandy-a
 released: 2017-05-27
 photographer: Flora
 rating: 9.4
@@ -4148,7 +4148,7 @@ title: Merces
 type: gallery
 site: sa
 url: https://www.sexart.com/model/apolonia/gallery/20170525/MERCES
-cast: Apolonia; https://www.sexart.com/model/apolonia;
+model: n:Apolonia; id:/model/sexart/apolonia; u:https://www.sexart.com/model/apolonia
 released: 2017-05-25
 photographer: Erro
 rating: 9.6
@@ -4167,7 +4167,7 @@ title: Lenvar
 type: gallery
 site: sa
 url: https://www.sexart.com/model/genevieve-gandi/gallery/20170523/LENVAR
-cast: Genevieve Gandi; https://www.sexart.com/model/genevieve-gandi;
+model: n:Genevieve Gandi; id:/model/sexart/genevieve-gandi; u:https://www.sexart.com/model/genevieve-gandi
 released: 2017-05-23
 photographer: Blake Jasper
 rating: 9.5
@@ -4185,7 +4185,7 @@ title: Mesly
 type: gallery
 site: sa
 url: https://www.sexart.com/model/mila-azul/gallery/20170522/MESLY
-cast: Mila Azul; https://www.sexart.com/model/mila-azul;
+model: n:Mila Azul; id:/model/sexart/mila-azul; u:https://www.sexart.com/model/mila-azul
 released: 2017-05-22
 photographer: Alex Lynn
 rating: 9.7
@@ -4203,7 +4203,7 @@ title: Sacadi
 type: gallery
 site: sa
 url: https://www.sexart.com/model/sabrisse-a/gallery/20170520/SACADI
-cast: Sabrisse A; https://www.sexart.com/model/sabrisse-a;
+model: n:Sabrisse A; id:/model/sexart/sabrisse-a; u:https://www.sexart.com/model/sabrisse-a
 released: 2017-05-20
 photographer: Erro
 rating: 9.6
@@ -4222,7 +4222,7 @@ title: Rymge
 type: gallery
 site: sa
 url: https://www.sexart.com/model/naomi-nevena/gallery/20170518/RYMGE
-cast: Naomi Nevena; https://www.sexart.com/model/naomi-nevena;
+model: n:Naomi Nevena; id:/model/sexart/naomi-nevena; u:https://www.sexart.com/model/naomi-nevena
 released: 2017-05-18
 photographer: Qussy Jones
 rating: 9.4
@@ -4239,7 +4239,7 @@ title: Gomize
 type: gallery
 site: sa
 url: https://www.sexart.com/model/gracie/gallery/20170516/GOMIZE
-cast: Gracie; https://www.sexart.com/model/gracie;
+model: n:Gracie; id:/model/sexart/gracie; u:https://www.sexart.com/model/gracie
 released: 2017-05-16
 photographer: Blake Jasper
 rating: 9.4
@@ -4257,7 +4257,7 @@ title: Aluspa
 type: gallery
 site: sa
 url: https://www.sexart.com/model/alise-moreno/gallery/20170515/ALUSPA
-cast: Alise Moreno; https://www.sexart.com/model/alise-moreno;
+model: n:Alise Moreno; id:/model/sexart/alise-moreno; u:https://www.sexart.com/model/alise-moreno
 released: 2017-05-15
 photographer: Flora
 rating: 9.5
@@ -4277,7 +4277,7 @@ title: Dereze
 type: gallery
 site: sa
 url: https://www.sexart.com/model/analese/gallery/20170513/DEREZE
-cast: Analese; https://www.sexart.com/model/analese;
+model: n:Analese; id:/model/sexart/analese; u:https://www.sexart.com/model/analese
 released: 2017-05-13
 photographer: Vicente Silva
 rating: 9.5
@@ -4297,7 +4297,7 @@ title: Bertia
 type: gallery
 site: sa
 url: https://www.sexart.com/model/dgil/gallery/20170511/BERTIA
-cast: Dgil; https://www.sexart.com/model/dgil;
+model: n:Dgil; id:/model/sexart/dgil; u:https://www.sexart.com/model/dgil
 released: 2017-05-11
 photographer: Alex Lynn
 rating: 9.2
@@ -4316,7 +4316,7 @@ title: Arece
 type: gallery
 site: sa
 url: https://www.sexart.com/model/aislin/gallery/20170509/ARECE
-cast: Aislin; https://www.sexart.com/model/aislin;
+model: n:Aislin; id:/model/sexart/aislin; u:https://www.sexart.com/model/aislin
 released: 2017-05-09
 photographer: Vicente Silva
 rating: 9.6
@@ -4334,7 +4334,7 @@ title: Faela
 type: gallery
 site: sa
 url: https://www.sexart.com/model/lucy-heart/gallery/20170508/FAELA
-cast: Lucy Heart; https://www.sexart.com/model/lucy-heart;
+model: n:Lucy Heart; id:/model/sexart/lucy-heart; u:https://www.sexart.com/model/lucy-heart
 released: 2017-05-08
 photographer: Flora
 rating: 9.3
@@ -4353,7 +4353,7 @@ title: Verael
 type: gallery
 site: sa
 url: https://www.sexart.com/model/gloria-sol/gallery/20170506/VERAEL
-cast: Gloria Sol; https://www.sexart.com/model/gloria-sol;
+model: n:Gloria Sol; id:/model/sexart/gloria-sol; u:https://www.sexart.com/model/gloria-sol
 released: 2017-05-06
 photographer: Alex Lynn
 rating: 9.7
@@ -4371,9 +4371,9 @@ title: Tripleta
 type: gallery
 site: sa
 url: https://www.sexart.com/model/emily-bloom-and-nika-n-and-milena-d/gallery/20170504/TRIPLETA
-cast: Emily Bloom; https://www.sexart.com/model/emily-bloom;
-cast: Nika N; https://www.sexart.com/model/nika-n;
-cast: Milena D; https://www.sexart.com/model/milena-d;
+model: n:Emily Bloom; id:/model/sexart/emily-bloom; u:https://www.sexart.com/model/emily-bloom
+model: n:Nika N; id:/model/sexart/nika-n; u:https://www.sexart.com/model/nika-n
+model: n:Milena D; id:/model/sexart/milena-d; u:https://www.sexart.com/model/milena-d
 released: 2017-05-04
 photographer: Antares
 rating: 9.5
@@ -4392,7 +4392,7 @@ title: Hena
 type: gallery
 site: sa
 url: https://www.sexart.com/model/cara-mell/gallery/20170502/HENA
-cast: Cara Mell; https://www.sexart.com/model/cara-mell;
+model: n:Cara Mell; id:/model/sexart/cara-mell; u:https://www.sexart.com/model/cara-mell
 released: 2017-05-02
 photographer: Alex Lynn
 rating: 9.5
@@ -4410,7 +4410,7 @@ title: Mineret
 type: gallery
 site: sa
 url: https://www.sexart.com/model/michelle-h/gallery/20170501/MINERET
-cast: Michelle H; https://www.sexart.com/model/michelle-h;
+model: n:Michelle H; id:/model/sexart/michelle-h; u:https://www.sexart.com/model/michelle-h
 released: 2017-05-01
 photographer: Koenart
 rating: 9.5
@@ -4430,7 +4430,7 @@ title: Liquiz
 type: gallery
 site: sa
 url: https://www.sexart.com/model/lisa-dawn/gallery/20170429/LIQUIZ
-cast: Lisa Dawn; https://www.sexart.com/model/lisa-dawn;
+model: n:Lisa Dawn; id:/model/sexart/lisa-dawn; u:https://www.sexart.com/model/lisa-dawn
 released: 2017-04-29
 photographer: Alex Lynn
 rating: 9.2
@@ -4449,7 +4449,7 @@ title: Favin
 type: gallery
 site: sa
 url: https://www.sexart.com/model/alexa-day/gallery/20170427/FAVIN
-cast: Alexa Day; https://www.sexart.com/model/alexa-day;
+model: n:Alexa Day; id:/model/sexart/alexa-day; u:https://www.sexart.com/model/alexa-day
 released: 2017-04-27
 photographer: Flora
 rating: 9.2
@@ -4468,7 +4468,7 @@ title: Senjia
 type: gallery
 site: sa
 url: https://www.sexart.com/model/mila-azul/gallery/20170424/SENJIA
-cast: Mila Azul; https://www.sexart.com/model/mila-azul;
+model: n:Mila Azul; id:/model/sexart/mila-azul; u:https://www.sexart.com/model/mila-azul
 released: 2017-04-24
 photographer: Alex Lynn
 rating: 9.6
@@ -4486,7 +4486,7 @@ title: Lavilo
 type: gallery
 site: sa
 url: https://www.sexart.com/model/niki-mey/gallery/20170422/LAVILO
-cast: Niki Mey; https://www.sexart.com/model/niki-mey;
+model: n:Niki Mey; id:/model/sexart/niki-mey; u:https://www.sexart.com/model/niki-mey
 released: 2017-04-22
 photographer: Flora
 rating: 9.3
@@ -4507,7 +4507,7 @@ title: Tenexa
 type: gallery
 site: sa
 url: https://www.sexart.com/model/melena-a/gallery/20170420/TENEXA
-cast: Melena A; https://www.sexart.com/model/melena-a;
+model: n:Melena A; id:/model/sexart/melena-a; u:https://www.sexart.com/model/melena-a
 released: 2017-04-20
 photographer: Walter Schotten
 rating: 9.6
@@ -4527,7 +4527,7 @@ title: Kanori
 type: gallery
 site: sa
 url: https://www.sexart.com/model/sybil-a/gallery/20170418/KANORI
-cast: Sybil A; https://www.sexart.com/model/sybil-a;
+model: n:Sybil A; id:/model/sexart/sybil-a; u:https://www.sexart.com/model/sybil-a
 released: 2017-04-18
 photographer: Alex Lynn
 rating: 9.5
@@ -4546,7 +4546,7 @@ title: Deshia
 type: gallery
 site: sa
 url: https://www.sexart.com/model/gracie/gallery/20170417/DESHIA
-cast: Gracie; https://www.sexart.com/model/gracie;
+model: n:Gracie; id:/model/sexart/gracie; u:https://www.sexart.com/model/gracie
 released: 2017-04-17
 photographer: Blake Jasper
 rating: 9.5
@@ -4563,7 +4563,7 @@ title: Rancite
 type: gallery
 site: sa
 url: https://www.sexart.com/model/patricia-b/gallery/20170415/RANCITE
-cast: Patricia B; https://www.sexart.com/model/patricia-b;
+model: n:Patricia B; id:/model/sexart/patricia-b; u:https://www.sexart.com/model/patricia-b
 released: 2017-04-15
 photographer: Vicente Silva
 rating: 9.4
@@ -4584,7 +4584,7 @@ title: Raddia
 type: gallery
 site: sa
 url: https://www.sexart.com/model/sarika-a/gallery/20170413/RADDIA
-cast: Sarika A; https://www.sexart.com/model/sarika-a;
+model: n:Sarika A; id:/model/sexart/sarika-a; u:https://www.sexart.com/model/sarika-a
 released: 2017-04-13
 photographer: Walter Schotten
 rating: 9.5
@@ -4604,7 +4604,7 @@ title: Seliza
 type: gallery
 site: sa
 url: https://www.sexart.com/model/nika-n/gallery/20170411/SELIZA
-cast: Nika N; https://www.sexart.com/model/nika-n;
+model: n:Nika N; id:/model/sexart/nika-n; u:https://www.sexart.com/model/nika-n
 released: 2017-04-11
 photographer: Antares
 rating: 9.4
@@ -4623,7 +4623,7 @@ title: Stecia
 type: gallery
 site: sa
 url: https://www.sexart.com/model/genevieve-gandi/gallery/20170410/STECIA
-cast: Genevieve Gandi; https://www.sexart.com/model/genevieve-gandi;
+model: n:Genevieve Gandi; id:/model/sexart/genevieve-gandi; u:https://www.sexart.com/model/genevieve-gandi
 released: 2017-04-10
 photographer: Blake Jasper
 rating: 9.6
@@ -4642,8 +4642,8 @@ title: Treasure
 type: gallery
 site: sa
 url: https://www.sexart.com/model/veela-and-macy-b/gallery/20170408/TREASURE
-cast: Veela; https://www.sexart.com/model/veela;
-cast: Macy B; https://www.sexart.com/model/macy-b;
+model: n:Veela; id:/model/sexart/veela; u:https://www.sexart.com/model/veela
+model: n:Macy B; id:/model/sexart/macy-b; u:https://www.sexart.com/model/macy-b
 released: 2017-04-08
 photographer: Albert Varin
 rating: 9.2
@@ -4661,8 +4661,8 @@ title: Moments
 type: gallery
 site: sa
 url: https://www.sexart.com/model/alisa-bri-and-milena-d/gallery/20170404/MOMENTS
-cast: Alisa Bri; https://www.sexart.com/model/alisa-bri;
-cast: Milena D; https://www.sexart.com/model/milena-d;
+model: n:Alisa Bri; id:/model/sexart/alisa-bri; u:https://www.sexart.com/model/alisa-bri
+model: n:Milena D; id:/model/sexart/milena-d; u:https://www.sexart.com/model/milena-d
 released: 2017-04-04
 photographer: Antares
 rating: 9.3
@@ -4681,7 +4681,7 @@ title: Adenel
 type: gallery
 site: sa
 url: https://www.sexart.com/model/adel-morel/gallery/20170403/ADENEL
-cast: Adel Morel; https://www.sexart.com/model/adel-morel;
+model: n:Adel Morel; id:/model/sexart/adel-morel; u:https://www.sexart.com/model/adel-morel
 released: 2017-04-03
 photographer: Koenart
 rating: 9.6
@@ -4700,7 +4700,7 @@ title: Gapaz
 type: gallery
 site: sa
 url: https://www.sexart.com/model/isabella-d/gallery/20170401/GAPAZ
-cast: Isabella D; https://www.sexart.com/model/isabella-d;
+model: n:Isabella D; id:/model/sexart/isabella-d; u:https://www.sexart.com/model/isabella-d
 released: 2017-04-01
 photographer: Dave Lee
 rating: 9.6
@@ -4717,7 +4717,7 @@ title: Zivart
 type: gallery
 site: sa
 url: https://www.sexart.com/model/cara-mell/gallery/20170330/ZIVART
-cast: Cara Mell; https://www.sexart.com/model/cara-mell;
+model: n:Cara Mell; id:/model/sexart/cara-mell; u:https://www.sexart.com/model/cara-mell
 released: 2017-03-30
 photographer: Blake Jasper
 rating: 9.6
@@ -4735,7 +4735,7 @@ title: Wegem
 type: gallery
 site: sa
 url: https://www.sexart.com/model/dgil/gallery/20170328/WEGEM
-cast: Dgil; https://www.sexart.com/model/dgil;
+model: n:Dgil; id:/model/sexart/dgil; u:https://www.sexart.com/model/dgil
 released: 2017-03-28
 photographer: Alex Lynn
 rating: 9.1
@@ -4753,7 +4753,7 @@ title: Sindo
 type: gallery
 site: sa
 url: https://www.sexart.com/model/sandy-a/gallery/20170327/SINDO
-cast: Sandy A; https://www.sexart.com/model/sandy-a;
+model: n:Sandy A; id:/model/sexart/sandy-a; u:https://www.sexart.com/model/sandy-a
 released: 2017-03-27
 photographer: Flora
 rating: 9.4
@@ -4772,7 +4772,7 @@ title: Tureda
 type: gallery
 site: sa
 url: https://www.sexart.com/model/gloria-sol/gallery/20170325/TUREDA
-cast: Gloria Sol; https://www.sexart.com/model/gloria-sol;
+model: n:Gloria Sol; id:/model/sexart/gloria-sol; u:https://www.sexart.com/model/gloria-sol
 released: 2017-03-25
 photographer: Blake Jasper
 rating: 9.7
@@ -4790,7 +4790,7 @@ title: Nogeti
 type: gallery
 site: sa
 url: https://www.sexart.com/model/mila-azul/gallery/20170323/NOGETI
-cast: Mila Azul; https://www.sexart.com/model/mila-azul;
+model: n:Mila Azul; id:/model/sexart/mila-azul; u:https://www.sexart.com/model/mila-azul
 released: 2017-03-23
 photographer: Alex Lynn
 rating: 9.6
@@ -4808,8 +4808,8 @@ title: Pardie
 type: gallery
 site: sa
 url: https://www.sexart.com/model/david-and-talinka-a/gallery/20170321/PARDIE
-cast: David; https://www.sexart.com/model/david;
-cast: Talinka A; https://www.sexart.com/model/talinka-a;
+model: n:David; id:/model/sexart/david; u:https://www.sexart.com/model/david
+model: n:Talinka A; id:/model/sexart/talinka-a; u:https://www.sexart.com/model/talinka-a
 released: 2017-03-21
 photographer: Albert Varin
 rating: 9.3
@@ -4829,7 +4829,7 @@ title: Dicata
 type: gallery
 site: sa
 url: https://www.sexart.com/model/apolonia/gallery/20170320/DICATA
-cast: Apolonia; https://www.sexart.com/model/apolonia;
+model: n:Apolonia; id:/model/sexart/apolonia; u:https://www.sexart.com/model/apolonia
 released: 2017-03-20
 photographer: Erro
 rating: 9.5
@@ -4847,7 +4847,7 @@ title: Kinida
 type: gallery
 site: sa
 url: https://www.sexart.com/model/milena-d/gallery/20170318/KINIDA
-cast: Milena D; https://www.sexart.com/model/milena-d;
+model: n:Milena D; id:/model/sexart/milena-d; u:https://www.sexart.com/model/milena-d
 released: 2017-03-18
 photographer: Antares
 rating: 9.5
@@ -4865,7 +4865,7 @@ title: Tencire
 type: gallery
 site: sa
 url: https://www.sexart.com/model/niki-mey/gallery/20170316/TENCIRE
-cast: Niki Mey; https://www.sexart.com/model/niki-mey;
+model: n:Niki Mey; id:/model/sexart/niki-mey; u:https://www.sexart.com/model/niki-mey
 released: 2017-03-16
 photographer: Flora
 rating: 9.3
@@ -4885,7 +4885,7 @@ title: Siadda
 type: gallery
 site: sa
 url: https://www.sexart.com/model/sybil-a/gallery/20170314/SIADDA
-cast: Sybil A; https://www.sexart.com/model/sybil-a;
+model: n:Sybil A; id:/model/sexart/sybil-a; u:https://www.sexart.com/model/sybil-a
 released: 2017-03-14
 photographer: Blake Jasper
 rating: 9.5
@@ -4922,7 +4922,7 @@ title: Maru
 type: gallery
 site: sa
 url: https://www.sexart.com/model/kay-j/gallery/20170313/MARU
-cast: Kay J; https://www.sexart.com/model/kay-j;
+model: n:Kay J; id:/model/sexart/kay-j; u:https://www.sexart.com/model/kay-j
 released: 2017-03-13
 photographer: Alex Lynn
 rating: 9.4
@@ -4955,7 +4955,7 @@ title: Thidy
 type: gallery
 site: sa
 url: https://www.sexart.com/model/lina-diamond/gallery/20170311/THIDY
-cast: Lina Diamond; https://www.sexart.com/model/lina-diamond;
+model: n:Lina Diamond; id:/model/sexart/lina-diamond; u:https://www.sexart.com/model/lina-diamond
 released: 2017-03-11
 photographer: Alan Forza
 rating: 9.5
@@ -4993,7 +4993,7 @@ title: Vahine
 type: gallery
 site: sa
 url: https://www.sexart.com/model/michelle-h/gallery/20170309/VAHINE
-cast: Michelle H; https://www.sexart.com/model/michelle-h;
+model: n:Michelle H; id:/model/sexart/michelle-h; u:https://www.sexart.com/model/michelle-h
 released: 2017-03-09
 photographer: Don Caravaggio
 rating: 9.6
@@ -5031,7 +5031,7 @@ title: Anake
 type: gallery
 site: sa
 url: https://www.sexart.com/model/leonie/gallery/20170307/ANAKE
-cast: Leonie; https://www.sexart.com/model/leonie;
+model: n:Leonie; id:/model/sexart/leonie; u:https://www.sexart.com/model/leonie
 released: 2017-03-07
 photographer: Flora
 rating: 9.2
@@ -5074,7 +5074,7 @@ title: Elcoa
 type: gallery
 site: sa
 url: https://www.sexart.com/model/gracie/gallery/20170306/ELCOA
-cast: Gracie; https://www.sexart.com/model/gracie;
+model: n:Gracie; id:/model/sexart/gracie; u:https://www.sexart.com/model/gracie
 released: 2017-03-06
 photographer: Blake Jasper
 rating: 9.5
@@ -5110,7 +5110,7 @@ title: Zuya
 type: gallery
 site: sa
 url: https://www.sexart.com/model/kalisy/gallery/20170304/ZUYA
-cast: Kalisy; https://www.sexart.com/model/kalisy;
+model: n:Kalisy; id:/model/sexart/kalisy; u:https://www.sexart.com/model/kalisy
 released: 2017-03-04
 photographer: Alex Lynn
 rating: 9.3
@@ -5144,7 +5144,7 @@ title: Reji
 type: gallery
 site: sa
 url: https://www.sexart.com/model/juliett-lea/gallery/20170302/REJI
-cast: Juliett Lea; https://www.sexart.com/model/juliett-lea;
+model: n:Juliett Lea; id:/model/sexart/juliett-lea; u:https://www.sexart.com/model/juliett-lea
 released: 2017-03-02
 photographer: Albert Varin
 rating: 9.5
@@ -5181,7 +5181,7 @@ title: Radda
 type: gallery
 site: sa
 url: https://www.sexart.com/model/patritcy-a/gallery/20170228/RADDA
-cast: Patritcy A; https://www.sexart.com/model/patritcy-a;
+model: n:Patritcy A; id:/model/sexart/patritcy-a; u:https://www.sexart.com/model/patritcy-a
 released: 2017-02-28
 photographer: Don Caravaggio
 rating: 9.5
@@ -5214,7 +5214,7 @@ title: Nelin
 type: gallery
 site: sa
 url: https://www.sexart.com/model/elina/gallery/20170227/NELIN
-cast: Elina; https://www.sexart.com/model/elina;
+model: n:Elina; id:/model/sexart/elina; u:https://www.sexart.com/model/elina
 released: 2017-02-27
 photographer: Alex Lynn
 rating: 9.5
@@ -5248,7 +5248,7 @@ title: Tosey
 type: gallery
 site: sa
 url: https://www.sexart.com/model/sapphira-a/gallery/20170225/TOSEY
-cast: Sapphira A; https://www.sexart.com/model/sapphira-a;
+model: n:Sapphira A; id:/model/sexart/sapphira-a; u:https://www.sexart.com/model/sapphira-a
 released: 2017-02-25
 photographer: Dave Lee
 rating: 9.4
@@ -5282,7 +5282,7 @@ title: Wenty
 type: gallery
 site: sa
 url: https://www.sexart.com/model/lucy-heart/gallery/20170223/WENTY
-cast: Lucy Heart; https://www.sexart.com/model/lucy-heart;
+model: n:Lucy Heart; id:/model/sexart/lucy-heart; u:https://www.sexart.com/model/lucy-heart
 released: 2017-02-23
 photographer: Flora
 rating: 9.4
@@ -5317,7 +5317,7 @@ title: Encara
 type: gallery
 site: sa
 url: https://www.sexart.com/model/cara-mell/gallery/20170221/ENCARA
-cast: Cara Mell; https://www.sexart.com/model/cara-mell;
+model: n:Cara Mell; id:/model/sexart/cara-mell; u:https://www.sexart.com/model/cara-mell
 released: 2017-02-21
 photographer: Alex Lynn
 rating: 9.6
@@ -5349,7 +5349,7 @@ title: Eolia
 type: gallery
 site: sa
 url: https://www.sexart.com/model/genevieve-gandi/gallery/20170220/EOLIA
-cast: Genevieve Gandi; https://www.sexart.com/model/genevieve-gandi;
+model: n:Genevieve Gandi; id:/model/sexart/genevieve-gandi; u:https://www.sexart.com/model/genevieve-gandi
 released: 2017-02-20
 photographer: Koenart
 rating: 9.6
@@ -5381,7 +5381,7 @@ title: Zinre
 type: gallery
 site: sa
 url: https://www.sexart.com/model/paula-shy/gallery/20170218/ZINRE
-cast: Paula Shy; https://www.sexart.com/model/paula-shy;
+model: n:Paula Shy; id:/model/sexart/paula-shy; u:https://www.sexart.com/model/paula-shy
 released: 2017-02-18
 photographer: Erro
 rating: 9.5
@@ -5415,7 +5415,7 @@ title: Fenile
 type: gallery
 site: sa
 url: https://www.sexart.com/model/alice-may/gallery/20170216/FENILE
-cast: Alice May; https://www.sexart.com/model/alice-may;
+model: n:Alice May; id:/model/sexart/alice-may; u:https://www.sexart.com/model/alice-may
 released: 2017-02-16
 photographer: Alan Forza
 rating: 9.5
@@ -5452,7 +5452,7 @@ title: Sardia
 type: gallery
 site: sa
 url: https://www.sexart.com/model/sarika-a/gallery/20170214/SARDIA
-cast: Sarika A; https://www.sexart.com/model/sarika-a;
+model: n:Sarika A; id:/model/sexart/sarika-a; u:https://www.sexart.com/model/sarika-a
 released: 2017-02-14
 photographer: Albert Varin
 rating: 9.4
@@ -5489,7 +5489,7 @@ title: Fania
 type: gallery
 site: sa
 url: https://www.sexart.com/model/gloria-sol/gallery/20170213/FANIA
-cast: Gloria Sol; https://www.sexart.com/model/gloria-sol;
+model: n:Gloria Sol; id:/model/sexart/gloria-sol; u:https://www.sexart.com/model/gloria-sol
 released: 2017-02-13
 photographer: Blake Jasper
 rating: 9.7
@@ -5525,8 +5525,8 @@ title: Pasio
 type: gallery
 site: sa
 url: https://www.sexart.com/model/york-a-and-soko-a/gallery/20170211/PASIO
-cast: York A; https://www.sexart.com/model/york-a;
-cast: Soko A; https://www.sexart.com/model/soko-a;
+model: n:York A; id:/model/sexart/york-a; u:https://www.sexart.com/model/york-a
+model: n:Soko A; id:/model/sexart/soko-a; u:https://www.sexart.com/model/soko-a
 released: 2017-02-11
 photographer: Albert Varin
 rating: 9.1
@@ -5567,7 +5567,7 @@ title: Tuolma
 type: gallery
 site: sa
 url: https://www.sexart.com/model/alecto/gallery/20170209/TUOLMA
-cast: Alecto; https://www.sexart.com/model/alecto;
+model: n:Alecto; id:/model/sexart/alecto; u:https://www.sexart.com/model/alecto
 released: 2017-02-09
 photographer: Alex Lynn
 rating: 9.3
@@ -5604,7 +5604,7 @@ title: Jerisa
 type: gallery
 site: sa
 url: https://www.sexart.com/model/apolonia/gallery/20170207/JERISA
-cast: Apolonia; https://www.sexart.com/model/apolonia;
+model: n:Apolonia; id:/model/sexart/apolonia; u:https://www.sexart.com/model/apolonia
 released: 2017-02-07
 photographer: Erro
 rating: 9.5
@@ -5641,7 +5641,7 @@ title: Talize
 type: gallery
 site: sa
 url: https://www.sexart.com/model/aislin/gallery/20170206/TALIZE
-cast: Aislin; https://www.sexart.com/model/aislin;
+model: n:Aislin; id:/model/sexart/aislin; u:https://www.sexart.com/model/aislin
 released: 2017-02-06
 photographer: Alan Forza
 rating: 9.5
@@ -5670,7 +5670,7 @@ title: Lomina
 type: gallery
 site: sa
 url: https://www.sexart.com/model/sybil-a/gallery/20170204/LOMINA
-cast: Sybil A; https://www.sexart.com/model/sybil-a;
+model: n:Sybil A; id:/model/sexart/sybil-a; u:https://www.sexart.com/model/sybil-a
 released: 2017-02-04
 photographer: Alex Lynn
 rating: 9.5
@@ -5702,7 +5702,7 @@ title: Avrona
 type: gallery
 site: sa
 url: https://www.sexart.com/model/gracie/gallery/20170202/AVRONA
-cast: Gracie; https://www.sexart.com/model/gracie;
+model: n:Gracie; id:/model/sexart/gracie; u:https://www.sexart.com/model/gracie
 released: 2017-02-02
 photographer: Walter Schotten
 rating: 9.3
@@ -5738,7 +5738,7 @@ title: Cyma
 type: gallery
 site: sa
 url: https://www.sexart.com/model/kay-j/gallery/20170131/CYMA
-cast: Kay J; https://www.sexart.com/model/kay-j;
+model: n:Kay J; id:/model/sexart/kay-j; u:https://www.sexart.com/model/kay-j
 released: 2017-01-31
 photographer: Alex Lynn
 rating: 9.4
@@ -5771,7 +5771,7 @@ title: Sojine
 type: gallery
 site: sa
 url: https://www.sexart.com/model/dita-v/gallery/20170130/SOJINE
-cast: Dita V; https://www.sexart.com/model/dita-v;
+model: n:Dita V; id:/model/sexart/dita-v; u:https://www.sexart.com/model/dita-v
 released: 2017-01-30
 photographer: Blake Jasper
 rating: 9.4
@@ -5802,7 +5802,7 @@ title: Stinado
 type: gallery
 site: sa
 url: https://www.sexart.com/model/melena-a/gallery/20170128/STINADO
-cast: Melena A; https://www.sexart.com/model/melena-a;
+model: n:Melena A; id:/model/sexart/melena-a; u:https://www.sexart.com/model/melena-a
 released: 2017-01-28
 photographer: Walter Schotten
 rating: 9.6
@@ -5832,7 +5832,7 @@ title: Capen
 type: gallery
 site: sa
 url: https://www.sexart.com/model/michelle-h/gallery/20170126/CAPEN
-cast: Michelle H; https://www.sexart.com/model/michelle-h;
+model: n:Michelle H; id:/model/sexart/michelle-h; u:https://www.sexart.com/model/michelle-h
 released: 2017-01-26
 photographer: Don Caravaggio
 rating: 9.7
@@ -5865,7 +5865,7 @@ title: Phez
 type: gallery
 site: sa
 url: https://www.sexart.com/model/mila-azul/gallery/20170124/PHEZ
-cast: Mila Azul; https://www.sexart.com/model/mila-azul;
+model: n:Mila Azul; id:/model/sexart/mila-azul; u:https://www.sexart.com/model/mila-azul
 released: 2017-01-24
 photographer: Alex Lynn
 rating: 9.7
@@ -5908,7 +5908,7 @@ title: Stinna
 type: gallery
 site: sa
 url: https://www.sexart.com/model/susie/gallery/20170123/STINNA
-cast: Susie; https://www.sexart.com/model/susie;
+model: n:Susie; id:/model/sexart/susie; u:https://www.sexart.com/model/susie
 released: 2017-01-23
 photographer: Blake Jasper
 rating: 9.6
@@ -5945,7 +5945,7 @@ title: Intun
 type: gallery
 site: sa
 url: https://www.sexart.com/model/milena-d/gallery/20170121/INTUN
-cast: Milena D; https://www.sexart.com/model/milena-d;
+model: n:Milena D; id:/model/sexart/milena-d; u:https://www.sexart.com/model/milena-d
 released: 2017-01-21
 photographer: Antares
 rating: 9.6
@@ -5979,7 +5979,7 @@ title: Nesem
 type: gallery
 site: sa
 url: https://www.sexart.com/model/daniel-sea/gallery/20170119/NESEM
-cast: Daniel Sea; https://www.sexart.com/model/daniel-sea;
+model: n:Daniel Sea; id:/model/sexart/daniel-sea; u:https://www.sexart.com/model/daniel-sea
 released: 2017-01-19
 photographer: Albert Varin
 rating: 9.5
@@ -6016,7 +6016,7 @@ title: Rimona
 type: gallery
 site: sa
 url: https://www.sexart.com/model/patritcy-a/gallery/20170117/RIMONA
-cast: Patritcy A; https://www.sexart.com/model/patritcy-a;
+model: n:Patritcy A; id:/model/sexart/patritcy-a; u:https://www.sexart.com/model/patritcy-a
 released: 2017-01-17
 photographer: Koenart
 rating: 9.5
@@ -6052,7 +6052,7 @@ title: Altire
 type: gallery
 site: sa
 url: https://www.sexart.com/model/talia-mint/gallery/20170116/ALTIRE
-cast: Talia Mint; https://www.sexart.com/model/talia-mint;
+model: n:Talia Mint; id:/model/sexart/talia-mint; u:https://www.sexart.com/model/talia-mint
 released: 2017-01-16
 photographer: Don Caravaggio
 rating: 9.4
@@ -6085,7 +6085,7 @@ title: Feglie
 type: gallery
 site: sa
 url: https://www.sexart.com/model/suzie-carina/gallery/20170114/FEGLIE
-cast: Suzie Carina; https://www.sexart.com/model/suzie-carina;
+model: n:Suzie Carina; id:/model/sexart/suzie-carina; u:https://www.sexart.com/model/suzie-carina
 released: 2017-01-14
 photographer: Erro
 rating: 9.6
@@ -6120,7 +6120,7 @@ title: Medira
 type: gallery
 site: sa
 url: https://www.sexart.com/model/barbara-vie/gallery/20170112/MEDIRA
-cast: Barbara Vie; https://www.sexart.com/model/barbara-vie;
+model: n:Barbara Vie; id:/model/sexart/barbara-vie; u:https://www.sexart.com/model/barbara-vie
 released: 2017-01-12
 photographer: Alex Lynn
 rating: 9.3
@@ -6156,7 +6156,7 @@ title: Latopi
 type: gallery
 site: sa
 url: https://www.sexart.com/model/mango-a/gallery/20170110/LATOPI
-cast: Mango A; https://www.sexart.com/model/mango-a;
+model: n:Mango A; id:/model/sexart/mango-a; u:https://www.sexart.com/model/mango-a
 released: 2017-01-10
 photographer: Don Caravaggio
 rating: 9.6
@@ -6193,7 +6193,7 @@ title: Oneres
 type: gallery
 site: sa
 url: https://www.sexart.com/model/nika-n/gallery/20170109/ONERES
-cast: Nika N; https://www.sexart.com/model/nika-n;
+model: n:Nika N; id:/model/sexart/nika-n; u:https://www.sexart.com/model/nika-n
 released: 2017-01-09
 photographer: Antares
 rating: 9.4
@@ -6229,7 +6229,7 @@ title: Diretti
 type: gallery
 site: sa
 url: https://www.sexart.com/model/sarika-a/gallery/20170107/DIRETTI
-cast: Sarika A; https://www.sexart.com/model/sarika-a;
+model: n:Sarika A; id:/model/sexart/sarika-a; u:https://www.sexart.com/model/sarika-a
 released: 2017-01-07
 photographer: Vicente Silva
 rating: 9.4
@@ -6262,7 +6262,7 @@ title: Vollina
 type: gallery
 site: sa
 url: https://www.sexart.com/model/violette-pink/gallery/20170105/VOLLINA
-cast: Violette Pink; https://www.sexart.com/model/violette-pink;
+model: n:Violette Pink; id:/model/sexart/violette-pink; u:https://www.sexart.com/model/violette-pink
 released: 2017-01-05
 photographer: Erro
 rating: 9.5
@@ -6294,7 +6294,7 @@ title: Mirimela
 type: gallery
 site: sa
 url: https://www.sexart.com/model/sofi-shane/gallery/20170103/MIRIMELA
-cast: Sofi Shane; https://www.sexart.com/model/sofi-shane;
+model: n:Sofi Shane; id:/model/sexart/sofi-shane; u:https://www.sexart.com/model/sofi-shane
 released: 2017-01-03
 photographer: Antares
 rating: 9.5
@@ -6329,7 +6329,7 @@ title: Ramai
 type: gallery
 site: sa
 url: https://www.sexart.com/model/genevieve-gandi/gallery/20170102/RAMAI
-cast: Genevieve Gandi; https://www.sexart.com/model/genevieve-gandi;
+model: n:Genevieve Gandi; id:/model/sexart/genevieve-gandi; u:https://www.sexart.com/model/genevieve-gandi
 released: 2017-01-02
 photographer: Koenart
 rating: 9.6

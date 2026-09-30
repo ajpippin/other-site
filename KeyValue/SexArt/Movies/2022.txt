@@ -9,8 +9,8 @@ title: In The Clouds
 type: movie
 site: sa
 url: https://www.sexart.com/model/foxy-alissa-and-sasha-krey/movie/20221230/IN_THE_CLOUDS
-cast: Foxy Alissa; https://www.sexart.com/model/foxy-alissa; g:f
-cast: Sasha Krey; https://www.sexart.com/model/sasha-krey; g:f
+model: n:Foxy Alissa; id:/model/sexart/foxy-alissa; u:https://www.sexart.com/model/foxy-alissa; g:f
+model: n:Sasha Krey; id:/model/sexart/sasha-krey; u:https://www.sexart.com/model/sasha-krey; g:f
 released: 2022-12-30
 director: Andrej Lupin
 rating: 9.3
@@ -72,8 +72,8 @@ title: Show For One
 type: movie
 site: sa
 url: https://www.sexart.com/model/charlie-dean-and-carolina-savage/movie/20221228/SHOW_FOR_ONE
-cast: Charlie Dean; https://www.sexart.com/model/charlie-dean; g:m
-cast: Carolina Savage; https://www.sexart.com/model/carolina-savage; g:f
+model: n:Charlie Dean; id:/model/sexart/charlie-dean; u:https://www.sexart.com/model/charlie-dean; g:m
+model: n:Carolina Savage; id:/model/sexart/carolina-savage; u:https://www.sexart.com/model/carolina-savage; g:f
 released: 2022-12-28
 director: Andrej Lupin
 rating: 9.2
@@ -135,8 +135,8 @@ title: Do You Miss Me Tonight?
 type: movie
 site: sa
 url: https://www.sexart.com/model/simon-and-tommy-gold/movie/20221225/DO_YOU_MISS_ME_TONIGHT?
-cast: Simon; https://www.sexart.com/model/simon; g:f
-cast: Tommy Gold; https://www.sexart.com/model/tommy-gold; g:m
+model: n:Simon; id:/model/sexart/simon; u:https://www.sexart.com/model/simon; g:f
+model: n:Tommy Gold; id:/model/sexart/tommy-gold; u:https://www.sexart.com/model/tommy-gold; g:m
 released: 2022-12-25
 director: Andrej Lupin
 rating: 9.5
@@ -192,8 +192,8 @@ title: Sweet Moment
 type: movie
 site: sa
 url: https://www.sexart.com/model/lili-charmelle-and-tommy-cabrio/movie/20221223/SWEET_MOMENT
-cast: Lili Charmelle; https://www.sexart.com/model/lili-charmelle; g:f
-cast: Tommy Cabrio; https://www.sexart.com/model/tommy-cabrio; g:m
+model: n:Lili Charmelle; id:/model/sexart/lili-charmelle; u:https://www.sexart.com/model/lili-charmelle; g:f
+model: n:Tommy Cabrio; id:/model/sexart/tommy-cabrio; u:https://www.sexart.com/model/tommy-cabrio; g:m
 released: 2022-12-23
 director: Andrej Lupin
 rating: 9.3
@@ -257,8 +257,8 @@ title: Girls Love Sex - Ana Foxx
 type: movie
 site: sa
 url: https://www.sexart.com/model/will-pounder-and-ana-foxx/movie/20221221/GIRLS_LOVE_SEX_-_ANA_FOXX
-cast: Will Pounder; https://www.sexart.com/model/will-pounder; g:m
-cast: Ana Foxx; https://www.sexart.com/model/ana-foxx; g:f
+model: n:Will Pounder; id:/model/sexart/will-pounder; u:https://www.sexart.com/model/will-pounder; g:m
+model: n:Ana Foxx; id:/model/sexart/ana-foxx; u:https://www.sexart.com/model/ana-foxx; g:f
 released: 2022-12-21
 director: Bo Llanberris
 rating: 9.0
@@ -319,8 +319,8 @@ title: Harvest
 type: movie
 site: sa
 url: https://www.sexart.com/model/tommy-gold-and-nata-ocean/movie/20221218/HARVEST
-cast: Tommy Gold; https://www.sexart.com/model/tommy-gold; g:m
-cast: Nata Ocean; https://www.sexart.com/model/nata-ocean; g:f
+model: n:Tommy Gold; id:/model/sexart/tommy-gold; u:https://www.sexart.com/model/tommy-gold; g:m
+model: n:Nata Ocean; id:/model/sexart/nata-ocean; u:https://www.sexart.com/model/nata-ocean; g:f
 released: 2022-12-18
 director: Andrej Lupin
 rating: 9.1
@@ -375,8 +375,8 @@ title: Perceive Me
 type: movie
 site: sa
 url: https://www.sexart.com/model/nick-ross-and-viks-angel/movie/20221216/PERCEIVE_ME
-cast: Nick Ross; https://www.sexart.com/model/nick-ross; g:m
-cast: Viks Angel; https://www.sexart.com/model/viks-angel; g:f
+model: n:Nick Ross; id:/model/sexart/nick-ross; u:https://www.sexart.com/model/nick-ross; g:m
+model: n:Viks Angel; id:/model/sexart/viks-angel; u:https://www.sexart.com/model/viks-angel; g:f
 released: 2022-12-16
 director: Andrej Lupin
 rating: 9.3
@@ -434,7 +434,7 @@ title: Girls Love Sex - Charlotte Stokely
 type: movie
 site: sa
 url: https://www.sexart.com/model/charlotte-stokely/movie/20221214/GIRLS_LOVE_SEX_-_CHARLOTTE_STOKELY
-cast: Charlotte Stokely; https://www.sexart.com/model/charlotte-stokely; g:f
+model: n:Charlotte Stokely; id:/model/sexart/charlotte-stokely; u:https://www.sexart.com/model/charlotte-stokely; g:f
 released: 2022-12-14
 director: Bo Llanberris
 rating: 9.1
@@ -478,8 +478,8 @@ title: Warm Vibes
 type: movie
 site: sa
 url: https://www.sexart.com/model/lia-lin-and-matthew-meier/movie/20221211/WARM_VIBES
-cast: Lia Lin; https://www.sexart.com/model/lia-lin; g:f
-cast: Matthew Meier; https://www.sexart.com/model/matthew-meier; g:m
+model: n:Lia Lin; id:/model/sexart/lia-lin; u:https://www.sexart.com/model/lia-lin; g:f
+model: n:Matthew Meier; id:/model/sexart/matthew-meier; u:https://www.sexart.com/model/matthew-meier; g:m
 released: 2022-12-11
 director: Andrej Lupin
 rating: 9.2
@@ -536,8 +536,8 @@ title: Worth The Wait
 type: movie
 site: sa
 url: https://www.sexart.com/model/lana-lenani-and-milena-ray/movie/20221209/WORTH_THE_WAIT
-cast: Lana Lenani; https://www.sexart.com/model/lana-lenani; g:f
-cast: Milena Ray; https://www.sexart.com/model/milena-ray; g:f
+model: n:Lana Lenani; id:/model/sexart/lana-lenani; u:https://www.sexart.com/model/lana-lenani; g:f
+model: n:Milena Ray; id:/model/sexart/milena-ray; u:https://www.sexart.com/model/milena-ray; g:f
 released: 2022-12-09
 director: Andrej Lupin
 rating: 9.3
@@ -604,7 +604,7 @@ title: Girls Love Sex - Charly Summer
 type: movie
 site: sa
 url: https://www.sexart.com/model/charly-summer/movie/20221207/GIRLS_LOVE_SEX_-_CHARLY_SUMMER
-cast: Charly Summer; https://www.sexart.com/model/charly-summer; g:f
+model: n:Charly Summer; id:/model/sexart/charly-summer; u:https://www.sexart.com/model/charly-summer; g:f
 released: 2022-12-07
 director: Bo Llanberris
 rating: 9.1
@@ -649,8 +649,8 @@ title: Embrace
 type: movie
 site: sa
 url: https://www.sexart.com/model/lottie-magne-and-tommy-gold/movie/20221204/EMBRACE
-cast: Lottie Magne; https://www.sexart.com/model/lottie-magne; g:f
-cast: Tommy Gold; https://www.sexart.com/model/tommy-gold; g:m
+model: n:Lottie Magne; id:/model/sexart/lottie-magne; u:https://www.sexart.com/model/lottie-magne; g:f
+model: n:Tommy Gold; id:/model/sexart/tommy-gold; u:https://www.sexart.com/model/tommy-gold; g:m
 released: 2022-12-04
 director: Andrej Lupin
 rating: 9.4
@@ -700,8 +700,8 @@ title: Shape Of Desire
 type: movie
 site: sa
 url: https://www.sexart.com/model/simon-and-charlie-dean/movie/20221202/SHAPE_OF_DESIRE
-cast: Simon; https://www.sexart.com/model/simon; g:f
-cast: Charlie Dean; https://www.sexart.com/model/charlie-dean; g:m
+model: n:Simon; id:/model/sexart/simon; u:https://www.sexart.com/model/simon; g:f
+model: n:Charlie Dean; id:/model/sexart/charlie-dean; u:https://www.sexart.com/model/charlie-dean; g:m
 released: 2022-12-02
 director: Andrej Lupin
 rating: 9.5
@@ -763,8 +763,8 @@ title: Girls Love Sex - Alexia Anders
 type: movie
 site: sa
 url: https://www.sexart.com/model/milan-and-alexia-anders/movie/20221130/GIRLS_LOVE_SEX_-_ALEXIA_ANDERS
-cast: Milan; https://www.sexart.com/model/milan; g:m
-cast: Alexia Anders; https://www.sexart.com/model/alexia-anders; g:f
+model: n:Milan; id:/model/sexart/milan; u:https://www.sexart.com/model/milan; g:m
+model: n:Alexia Anders; id:/model/sexart/alexia-anders; u:https://www.sexart.com/model/alexia-anders; g:f
 released: 2022-11-30
 director: Bo Llanberris
 rating: 9.2
@@ -813,8 +813,8 @@ title: Viewfinder Part 2
 type: movie
 site: sa
 url: https://www.sexart.com/model/tommy-cabrio-and-nata-ocean/movie/20221127/VIEWFINDER_PART_2
-cast: Tommy Cabrio; https://www.sexart.com/model/tommy-cabrio; g:m
-cast: Nata Ocean; https://www.sexart.com/model/nata-ocean; g:f
+model: n:Tommy Cabrio; id:/model/sexart/tommy-cabrio; u:https://www.sexart.com/model/tommy-cabrio; g:m
+model: n:Nata Ocean; id:/model/sexart/nata-ocean; u:https://www.sexart.com/model/nata-ocean; g:f
 released: 2022-11-27
 director: Andrej Lupin
 rating: 9.3
@@ -871,8 +871,8 @@ title: Want Your Love
 type: movie
 site: sa
 url: https://www.sexart.com/model/carolina-savage-and-sofi-vega/movie/20221125/WANT_YOUR_LOVE
-cast: Carolina Savage; https://www.sexart.com/model/carolina-savage; g:f
-cast: Sofi Vega; https://www.sexart.com/model/sofi-vega; g:f
+model: n:Carolina Savage; id:/model/sexart/carolina-savage; u:https://www.sexart.com/model/carolina-savage; g:f
+model: n:Sofi Vega; id:/model/sexart/sofi-vega; u:https://www.sexart.com/model/sofi-vega; g:f
 released: 2022-11-25
 director: Andrej Lupin
 rating: 9.1
@@ -935,7 +935,7 @@ title: Girls Love Sex - Lena Anderson
 type: movie
 site: sa
 url: https://www.sexart.com/model/lena-anderson/movie/20221123/GIRLS_LOVE_SEX_-_LENA_ANDERSON
-cast: Lena Anderson; https://www.sexart.com/model/lena-anderson; g:f
+model: n:Lena Anderson; id:/model/sexart/lena-anderson; u:https://www.sexart.com/model/lena-anderson; g:f
 released: 2022-11-23
 director: Bo Llanberris
 rating: 9.2
@@ -984,8 +984,8 @@ title: Seasons Episode 1 - Autumn
 type: movie
 site: sa
 url: https://www.sexart.com/model/katy-rose-and-ricky/movie/20221120/SEASONS_EPISODE_1_-_AUTUMN
-cast: Katy Rose; https://www.sexart.com/model/katy-rose; g:f
-cast: Ricky; https://www.sexart.com/model/ricky; g:m
+model: n:Katy Rose; id:/model/sexart/katy-rose; u:https://www.sexart.com/model/katy-rose; g:f
+model: n:Ricky; id:/model/sexart/ricky; u:https://www.sexart.com/model/ricky; g:m
 released: 2022-11-20
 director: Andrej Lupin
 rating: 9.3
@@ -1043,8 +1043,8 @@ title: Love Theme
 type: movie
 site: sa
 url: https://www.sexart.com/model/foxy-alissa-and-antonia-sainz/movie/20221118/LOVE_THEME
-cast: Foxy Alissa; https://www.sexart.com/model/foxy-alissa; g:f
-cast: Antonia Sainz; https://www.sexart.com/model/antonia-sainz; g:f
+model: n:Foxy Alissa; id:/model/sexart/foxy-alissa; u:https://www.sexart.com/model/foxy-alissa; g:f
+model: n:Antonia Sainz; id:/model/sexart/antonia-sainz; u:https://www.sexart.com/model/antonia-sainz; g:f
 released: 2022-11-18
 director: Andrej Lupin
 rating: 9.5
@@ -1108,8 +1108,8 @@ title: By My Side
 type: movie
 site: sa
 url: https://www.sexart.com/model/stanley-jones-and-lovita-fate/movie/20221116/BY_MY_SIDE
-cast: Stanley Jones; https://www.sexart.com/model/stanley-jones; g:m
-cast: Lovita Fate; https://www.sexart.com/model/lovita-fate; g:f
+model: n:Stanley Jones; id:/model/sexart/stanley-jones; u:https://www.sexart.com/model/stanley-jones; g:m
+model: n:Lovita Fate; id:/model/sexart/lovita-fate; u:https://www.sexart.com/model/lovita-fate; g:f
 released: 2022-11-16
 director: Andrej Lupin
 rating: 8.9
@@ -1170,8 +1170,8 @@ title: Girls Love Sex - Lily Larimar
 type: movie
 site: sa
 url: https://www.sexart.com/model/jay-romero-and-lily-larimar/movie/20221113/GIRLS_LOVE_SEX_-_LILY_LARIMAR
-cast: Jay Romero; https://www.sexart.com/model/jay-romero; g:m
-cast: Lily Larimar; https://www.sexart.com/model/lily-larimar; g:f
+model: n:Jay Romero; id:/model/sexart/jay-romero; u:https://www.sexart.com/model/jay-romero; g:m
+model: n:Lily Larimar; id:/model/sexart/lily-larimar; u:https://www.sexart.com/model/lily-larimar; g:f
 released: 2022-11-13
 director: Bo Llanberris
 rating: 8.9
@@ -1224,8 +1224,8 @@ title: Sunday Best
 type: movie
 site: sa
 url: https://www.sexart.com/model/lola-heart-and-sata-jones/movie/20221111/SUNDAY_BEST
-cast: Lola Heart; https://www.sexart.com/model/lola-heart; g:f
-cast: Sata Jones; https://www.sexart.com/model/sata-jones; g:f
+model: n:Lola Heart; id:/model/sexart/lola-heart; u:https://www.sexart.com/model/lola-heart; g:f
+model: n:Sata Jones; id:/model/sexart/sata-jones; u:https://www.sexart.com/model/sata-jones; g:f
 released: 2022-11-11
 director: Andrej Lupin
 rating: 9.4
@@ -1288,8 +1288,8 @@ title: Decisive Moment
 type: movie
 site: sa
 url: https://www.sexart.com/model/kylie-green-and-charlie-dean/movie/20221109/DECISIVE_MOMENT
-cast: Kylie Green; https://www.sexart.com/model/kylie-green; g:f
-cast: Charlie Dean; https://www.sexart.com/model/charlie-dean; g:m
+model: n:Kylie Green; id:/model/sexart/kylie-green; u:https://www.sexart.com/model/kylie-green; g:f
+model: n:Charlie Dean; id:/model/sexart/charlie-dean; u:https://www.sexart.com/model/charlie-dean; g:m
 released: 2022-11-09
 director: Andrej Lupin
 rating: 9.1
@@ -1343,8 +1343,8 @@ title: Viewfinder Part 1
 type: movie
 site: sa
 url: https://www.sexart.com/model/tommy-cabrio-and-sofi-otis/movie/20221106/VIEWFINDER_PART_1
-cast: Tommy Cabrio; https://www.sexart.com/model/tommy-cabrio; g:m
-cast: Sofi Otis; https://www.sexart.com/model/sofi-otis; g:f
+model: n:Tommy Cabrio; id:/model/sexart/tommy-cabrio; u:https://www.sexart.com/model/tommy-cabrio; g:m
+model: n:Sofi Otis; id:/model/sexart/sofi-otis; u:https://www.sexart.com/model/sofi-otis; g:f
 released: 2022-11-06
 director: Andrej Lupin
 rating: 9.0
@@ -1391,8 +1391,8 @@ title: Think About Us
 type: movie
 site: sa
 url: https://www.sexart.com/model/barbie-brill-and-kira-queen/movie/20221104/THINK_ABOUT_US
-cast: Barbie Brill; https://www.sexart.com/model/barbie-brill; g:f
-cast: Kira Queen; https://www.sexart.com/model/kira-queen; g:f
+model: n:Barbie Brill; id:/model/sexart/barbie-brill; u:https://www.sexart.com/model/barbie-brill; g:f
+model: n:Kira Queen; id:/model/sexart/kira-queen; u:https://www.sexart.com/model/kira-queen; g:f
 released: 2022-11-04
 director: Andrej Lupin
 rating: 8.9
@@ -1454,8 +1454,8 @@ title: Right Here
 type: movie
 site: sa
 url: https://www.sexart.com/model/rika-fane-and-jimmy-bud/movie/20221102/RIGHT_HERE
-cast: Rika Fane; https://www.sexart.com/model/rika-fane; g:f
-cast: Jimmy Bud; https://www.sexart.com/model/jimmy-bud; g:m
+model: n:Rika Fane; id:/model/sexart/rika-fane; u:https://www.sexart.com/model/rika-fane; g:f
+model: n:Jimmy Bud; id:/model/sexart/jimmy-bud; u:https://www.sexart.com/model/jimmy-bud; g:m
 released: 2022-11-02
 director: Andrej Lupin
 rating: 9.0
@@ -1508,8 +1508,8 @@ title: Our Time Has Come
 type: movie
 site: sa
 url: https://www.sexart.com/model/charlie-dean-and-lili-charmelle/movie/20221030/OUR_TIME_HAS_COME
-cast: Charlie Dean; https://www.sexart.com/model/charlie-dean; g:m
-cast: Lili Charmelle; https://www.sexart.com/model/lili-charmelle; g:f
+model: n:Charlie Dean; id:/model/sexart/charlie-dean; u:https://www.sexart.com/model/charlie-dean; g:m
+model: n:Lili Charmelle; id:/model/sexart/lili-charmelle; u:https://www.sexart.com/model/lili-charmelle; g:f
 released: 2022-10-30
 director: Andrej Lupin
 rating: 9.1
@@ -1562,8 +1562,8 @@ title: Continue
 type: movie
 site: sa
 url: https://www.sexart.com/model/sofi-otis-and-kylie-green/movie/20221028/CONTINUE
-cast: Sofi Otis; https://www.sexart.com/model/sofi-otis; g:f
-cast: Kylie Green; https://www.sexart.com/model/kylie-green; g:f
+model: n:Sofi Otis; id:/model/sexart/sofi-otis; u:https://www.sexart.com/model/sofi-otis; g:f
+model: n:Kylie Green; id:/model/sexart/kylie-green; u:https://www.sexart.com/model/kylie-green; g:f
 released: 2022-10-28
 director: Andrej Lupin
 rating: 9.3
@@ -1626,8 +1626,8 @@ title: Silky Touch
 type: movie
 site: sa
 url: https://www.sexart.com/model/lana-lenani-and-nek-sinner/movie/20221026/SILKY_TOUCH
-cast: Lana Lenani; https://www.sexart.com/model/lana-lenani; g:f
-cast: Nek Sinner; https://www.sexart.com/model/nek-sinner; g:m
+model: n:Lana Lenani; id:/model/sexart/lana-lenani; u:https://www.sexart.com/model/lana-lenani; g:f
+model: n:Nek Sinner; id:/model/sexart/nek-sinner; u:https://www.sexart.com/model/nek-sinner; g:m
 released: 2022-10-26
 director: Andrej Lupin
 rating: 9.1
@@ -1681,8 +1681,8 @@ title: I Turn To You
 type: movie
 site: sa
 url: https://www.sexart.com/model/sasha-krey-and-ricky/movie/20221023/I_TURN_TO_YOU
-cast: Sasha Krey; https://www.sexart.com/model/sasha-krey; g:f
-cast: Ricky; https://www.sexart.com/model/ricky; g:m
+model: n:Sasha Krey; id:/model/sexart/sasha-krey; u:https://www.sexart.com/model/sasha-krey; g:f
+model: n:Ricky; id:/model/sexart/ricky; u:https://www.sexart.com/model/ricky; g:m
 released: 2022-10-23
 director: Andrej Lupin
 rating: 8.9
@@ -1738,8 +1738,8 @@ title: Original Sin
 type: movie
 site: sa
 url: https://www.sexart.com/model/alika-penagos-and-marina-gold/movie/20221021/ORIGINAL_SIN
-cast: Alika Penagos; https://www.sexart.com/model/alika-penagos; g:f
-cast: Marina Gold; https://www.sexart.com/model/marina-gold; g:f
+model: n:Alika Penagos; id:/model/sexart/alika-penagos; u:https://www.sexart.com/model/alika-penagos; g:f
+model: n:Marina Gold; id:/model/sexart/marina-gold; u:https://www.sexart.com/model/marina-gold; g:f
 released: 2022-10-21
 director: Don Caravaggio
 rating: 9.3
@@ -1802,8 +1802,8 @@ title: Perfect Time
 type: movie
 site: sa
 url: https://www.sexart.com/model/olivia-sparkle-and-ricky/movie/20221019/PERFECT_TIME
-cast: Olivia Sparkle; https://www.sexart.com/model/olivia-sparkle; g:f
-cast: Ricky; https://www.sexart.com/model/ricky; g:m
+model: n:Olivia Sparkle; id:/model/sexart/olivia-sparkle; u:https://www.sexart.com/model/olivia-sparkle; g:f
+model: n:Ricky; id:/model/sexart/ricky; u:https://www.sexart.com/model/ricky; g:m
 released: 2022-10-19
 director: Andrej Lupin
 rating: 9.1
@@ -1859,8 +1859,8 @@ title: Home Bliss
 type: movie
 site: sa
 url: https://www.sexart.com/model/nek-sinner-and-kira-queen/movie/20221016/HOME_BLISS
-cast: Nek Sinner; https://www.sexart.com/model/nek-sinner; g:m
-cast: Kira Queen; https://www.sexart.com/model/kira-queen; g:f
+model: n:Nek Sinner; id:/model/sexart/nek-sinner; u:https://www.sexart.com/model/nek-sinner; g:m
+model: n:Kira Queen; id:/model/sexart/kira-queen; u:https://www.sexart.com/model/kira-queen; g:f
 released: 2022-10-16
 director: Andrej Lupin
 rating: 9.2
@@ -1920,9 +1920,9 @@ title: Love to Share Part 2
 type: movie
 site: sa
 url: https://www.sexart.com/model/lovita-fate-and-foxy-alissa-and-isabela-de-laa/movie/20221014/LOVE_TO_SHARE_PART_2
-cast: Lovita Fate; https://www.sexart.com/model/lovita-fate; g:f
-cast: Foxy Alissa; https://www.sexart.com/model/foxy-alissa; g:f
-cast: Isabela De Laa; https://www.sexart.com/model/isabela-de-laa; g:f
+model: n:Lovita Fate; id:/model/sexart/lovita-fate; u:https://www.sexart.com/model/lovita-fate; g:f
+model: n:Foxy Alissa; id:/model/sexart/foxy-alissa; u:https://www.sexart.com/model/foxy-alissa; g:f
+model: n:Isabela De Laa; id:/model/sexart/isabela-de-laa; u:https://www.sexart.com/model/isabela-de-laa; g:f
 released: 2022-10-14
 director: Andrej Lupin
 rating: 9.4
@@ -1995,8 +1995,8 @@ title: My Lady
 type: movie
 site: sa
 url: https://www.sexart.com/model/mary-popiense-and-charlie-dean/movie/20221012/MY_LADY
-cast: Mary Popiense; https://www.sexart.com/model/mary-popiense; g:f
-cast: Charlie Dean; https://www.sexart.com/model/charlie-dean; g:m
+model: n:Mary Popiense; id:/model/sexart/mary-popiense; u:https://www.sexart.com/model/mary-popiense; g:f
+model: n:Charlie Dean; id:/model/sexart/charlie-dean; u:https://www.sexart.com/model/charlie-dean; g:m
 released: 2022-10-12
 director: Andrej Lupin
 rating: 9.3
@@ -2064,8 +2064,8 @@ title: Stay With Me
 type: movie
 site: sa
 url: https://www.sexart.com/model/tommy-gold-and-sata-jones/movie/20221009/STAY_WITH_ME
-cast: Tommy Gold; https://www.sexart.com/model/tommy-gold; g:m
-cast: Sata Jones; https://www.sexart.com/model/sata-jones; g:f
+model: n:Tommy Gold; id:/model/sexart/tommy-gold; u:https://www.sexart.com/model/tommy-gold; g:m
+model: n:Sata Jones; id:/model/sexart/sata-jones; u:https://www.sexart.com/model/sata-jones; g:f
 released: 2022-10-09
 director: Andrej Lupin
 rating: 9.3
@@ -2128,8 +2128,8 @@ title: Alone But Together
 type: movie
 site: sa
 url: https://www.sexart.com/model/ann-joy-and-lili-charmelle/movie/20221007/ALONE_BUT_TOGETHER
-cast: Ann Joy; https://www.sexart.com/model/ann-joy; g:f
-cast: Lili Charmelle; https://www.sexart.com/model/lili-charmelle; g:f
+model: n:Ann Joy; id:/model/sexart/ann-joy; u:https://www.sexart.com/model/ann-joy; g:f
+model: n:Lili Charmelle; id:/model/sexart/lili-charmelle; u:https://www.sexart.com/model/lili-charmelle; g:f
 released: 2022-10-07
 director: Andrej Lupin
 rating: 9.1
@@ -2182,8 +2182,8 @@ title: Alignment In Love
 type: movie
 site: sa
 url: https://www.sexart.com/model/simon-and-charlie-dean/movie/20221005/ALIGNMENT_IN_LOVE
-cast: Simon; https://www.sexart.com/model/simon; g:f
-cast: Charlie Dean; https://www.sexart.com/model/charlie-dean; g:m
+model: n:Simon; id:/model/sexart/simon; u:https://www.sexart.com/model/simon; g:f
+model: n:Charlie Dean; id:/model/sexart/charlie-dean; u:https://www.sexart.com/model/charlie-dean; g:m
 released: 2022-10-05
 director: Andrej Lupin
 rating: 9.3
@@ -2243,8 +2243,8 @@ title: Get Loose
 type: movie
 site: sa
 url: https://www.sexart.com/model/ricky-and-zuzu-sweet/movie/20221002/GET_LOOSE
-cast: Ricky; https://www.sexart.com/model/ricky; g:m
-cast: Zuzu Sweet; https://www.sexart.com/model/zuzu-sweet; g:f
+model: n:Ricky; id:/model/sexart/ricky; u:https://www.sexart.com/model/ricky; g:m
+model: n:Zuzu Sweet; id:/model/sexart/zuzu-sweet; u:https://www.sexart.com/model/zuzu-sweet; g:f
 released: 2022-10-02
 director: Andrej Lupin
 rating: 9.1
@@ -2303,8 +2303,8 @@ title: Love To Share Part 1
 type: movie
 site: sa
 url: https://www.sexart.com/model/isabela-de-laa-and-lovita-fate/movie/20220930/LOVE_TO_SHARE_PART_1
-cast: Isabela De Laa; https://www.sexart.com/model/isabela-de-laa; g:f
-cast: Lovita Fate; https://www.sexart.com/model/lovita-fate; g:f
+model: n:Isabela De Laa; id:/model/sexart/isabela-de-laa; u:https://www.sexart.com/model/isabela-de-laa; g:f
+model: n:Lovita Fate; id:/model/sexart/lovita-fate; u:https://www.sexart.com/model/lovita-fate; g:f
 released: 2022-09-30
 director: Andrej Lupin
 rating: 9.3
@@ -2372,8 +2372,8 @@ title: A Little Bit More
 type: movie
 site: sa
 url: https://www.sexart.com/model/christy-white-and-nek-sinner/movie/20220928/A_LITTLE_BIT_MORE
-cast: Christy White; https://www.sexart.com/model/christy-white; g:f
-cast: Nek Sinner; https://www.sexart.com/model/nek-sinner; g:m
+model: n:Christy White; id:/model/sexart/christy-white; u:https://www.sexart.com/model/christy-white; g:f
+model: n:Nek Sinner; id:/model/sexart/nek-sinner; u:https://www.sexart.com/model/nek-sinner; g:m
 released: 2022-09-28
 director: Andrej Lupin
 rating: 9.1
@@ -2434,8 +2434,8 @@ title: Headlong
 type: movie
 site: sa
 url: https://www.sexart.com/model/nick-ross-and-antonia-sainz/movie/20220925/HEADLONG
-cast: Nick Ross; https://www.sexart.com/model/nick-ross; g:m
-cast: Antonia Sainz; https://www.sexart.com/model/antonia-sainz; g:f
+model: n:Nick Ross; id:/model/sexart/nick-ross; u:https://www.sexart.com/model/nick-ross; g:m
+model: n:Antonia Sainz; id:/model/sexart/antonia-sainz; u:https://www.sexart.com/model/antonia-sainz; g:f
 released: 2022-09-25
 director: Andrej Lupin
 rating: 9.3
@@ -2489,8 +2489,8 @@ title: Spirit Of Passion
 type: movie
 site: sa
 url: https://www.sexart.com/model/olivia-sparkle-and-zuzu-sweet/movie/20220923/SPIRIT_OF_PASSION
-cast: Olivia Sparkle; https://www.sexart.com/model/olivia-sparkle; g:f
-cast: Zuzu Sweet; https://www.sexart.com/model/zuzu-sweet; g:f
+model: n:Olivia Sparkle; id:/model/sexart/olivia-sparkle; u:https://www.sexart.com/model/olivia-sparkle; g:f
+model: n:Zuzu Sweet; id:/model/sexart/zuzu-sweet; u:https://www.sexart.com/model/zuzu-sweet; g:f
 released: 2022-09-23
 director: Andrej Lupin
 rating: 9.3
@@ -2547,8 +2547,8 @@ title: Love Gets Me High
 type: movie
 site: sa
 url: https://www.sexart.com/model/dolly-dyson-and-charlie-dean/movie/20220921/LOVE_GETS_ME_HIGH
-cast: Dolly Dyson; https://www.sexart.com/model/dolly-dyson; g:f
-cast: Charlie Dean; https://www.sexart.com/model/charlie-dean; g:m
+model: n:Dolly Dyson; id:/model/sexart/dolly-dyson; u:https://www.sexart.com/model/dolly-dyson; g:f
+model: n:Charlie Dean; id:/model/sexart/charlie-dean; u:https://www.sexart.com/model/charlie-dean; g:m
 released: 2022-09-21
 director: Andrej Lupin
 rating: 9.1
@@ -2608,8 +2608,8 @@ title: Sweet Taste
 type: movie
 site: sa
 url: https://www.sexart.com/model/jason-carrera-and-claudia-bavel/movie/20220918/SWEET_TASTE
-cast: Jason Carrera; https://www.sexart.com/model/jason-carrera; g:m
-cast: Claudia Bavel; https://www.sexart.com/model/claudia-bavel; g:f
+model: n:Jason Carrera; id:/model/sexart/jason-carrera; u:https://www.sexart.com/model/jason-carrera; g:m
+model: n:Claudia Bavel; id:/model/sexart/claudia-bavel; u:https://www.sexart.com/model/claudia-bavel; g:f
 released: 2022-09-18
 director: Andrej Lupin
 rating: 8.9
@@ -2665,8 +2665,8 @@ title: Performance
 type: movie
 site: sa
 url: https://www.sexart.com/model/marina-gold-and-rika-fane/movie/20220916/PERFORMANCE
-cast: Marina Gold; https://www.sexart.com/model/marina-gold; g:f
-cast: Rika Fane; https://www.sexart.com/model/rika-fane; g:f
+model: n:Marina Gold; id:/model/sexart/marina-gold; u:https://www.sexart.com/model/marina-gold; g:f
+model: n:Rika Fane; id:/model/sexart/rika-fane; u:https://www.sexart.com/model/rika-fane; g:f
 released: 2022-09-16
 director: Andrej Lupin
 rating: 9.0
@@ -2730,8 +2730,8 @@ title: Storm
 type: movie
 site: sa
 url: https://www.sexart.com/model/jimmy-bud-and-monika-may/movie/20220914/STORM
-cast: Jimmy Bud; https://www.sexart.com/model/jimmy-bud; g:m
-cast: Monika May; https://www.sexart.com/model/monika-may; g:f
+model: n:Jimmy Bud; id:/model/sexart/jimmy-bud; u:https://www.sexart.com/model/jimmy-bud; g:m
+model: n:Monika May; id:/model/sexart/monika-may; u:https://www.sexart.com/model/monika-may; g:f
 released: 2022-09-14
 director: Andrej Lupin
 rating: 9.3
@@ -2785,7 +2785,7 @@ title: Sonnet
 type: movie
 site: sa
 url: https://www.sexart.com/model/loren-sun/movie/20220911/SONNET
-cast: Loren Sun; https://www.sexart.com/model/loren-sun; g:f
+model: n:Loren Sun; id:/model/sexart/loren-sun; u:https://www.sexart.com/model/loren-sun; g:f
 released: 2022-09-11
 director: Andrej Lupin
 rating: 9.5
@@ -2827,8 +2827,8 @@ title: Defenseless
 type: movie
 site: sa
 url: https://www.sexart.com/model/jimmy-bud-and-ruby-shades/movie/20220909/DEFENSELESS
-cast: Jimmy Bud; https://www.sexart.com/model/jimmy-bud; g:m
-cast: Ruby Shades; https://www.sexart.com/model/ruby-shades; g:f
+model: n:Jimmy Bud; id:/model/sexart/jimmy-bud; u:https://www.sexart.com/model/jimmy-bud; g:m
+model: n:Ruby Shades; id:/model/sexart/ruby-shades; u:https://www.sexart.com/model/ruby-shades; g:f
 released: 2022-09-09
 director: Andrej Lupin
 rating: 8.9
@@ -2887,8 +2887,8 @@ title: You And Me
 type: movie
 site: sa
 url: https://www.sexart.com/model/charlie-dean-and-arina-shy/movie/20220907/YOU_AND_ME
-cast: Charlie Dean; https://www.sexart.com/model/charlie-dean; g:m
-cast: Arina Shy; https://www.sexart.com/model/arina-shy; g:f
+model: n:Charlie Dean; id:/model/sexart/charlie-dean; u:https://www.sexart.com/model/charlie-dean; g:m
+model: n:Arina Shy; id:/model/sexart/arina-shy; u:https://www.sexart.com/model/arina-shy; g:f
 released: 2022-09-07
 director: Andrej Lupin
 rating: 9.1
@@ -2945,8 +2945,8 @@ title: Don't Keep Me Waiting
 type: movie
 site: sa
 url: https://www.sexart.com/model/nek-sinner-and-mary-popiense/movie/20220904/DON_T_KEEP_ME_WAITING
-cast: Nek Sinner; https://www.sexart.com/model/nek-sinner; g:m
-cast: Mary Popiense; https://www.sexart.com/model/mary-popiense; g:f
+model: n:Nek Sinner; id:/model/sexart/nek-sinner; u:https://www.sexart.com/model/nek-sinner; g:m
+model: n:Mary Popiense; id:/model/sexart/mary-popiense; u:https://www.sexart.com/model/mary-popiense; g:f
 released: 2022-09-04
 director: Andrej Lupin
 rating: 9.3
@@ -3007,8 +3007,8 @@ title: Unfinished Lesson
 type: movie
 site: sa
 url: https://www.sexart.com/model/stella-cardo-and-viviann/movie/20220902/UNFINISHED_LESSON
-cast: Stella Cardo; https://www.sexart.com/model/stella-cardo; g:f
-cast: Viviann; https://www.sexart.com/model/viviann; g:f
+model: n:Stella Cardo; id:/model/sexart/stella-cardo; u:https://www.sexart.com/model/stella-cardo; g:f
+model: n:Viviann; id:/model/sexart/viviann; u:https://www.sexart.com/model/viviann; g:f
 released: 2022-09-02
 director: Stephan Cardo
 rating: 9.2
@@ -3075,8 +3075,8 @@ title: Really Us
 type: movie
 site: sa
 url: https://www.sexart.com/model/ricky-and-casey/movie/20220831/REALLY_US
-cast: Ricky; https://www.sexart.com/model/ricky; g:m
-cast: Casey; https://www.sexart.com/model/casey; g:f
+model: n:Ricky; id:/model/sexart/ricky; u:https://www.sexart.com/model/ricky; g:m
+model: n:Casey; id:/model/sexart/casey; u:https://www.sexart.com/model/casey; g:f
 released: 2022-08-31
 director: Andrej Lupin
 rating: 9.3
@@ -3132,8 +3132,8 @@ title: Ethereal Beauty
 type: movie
 site: sa
 url: https://www.sexart.com/model/charlie-dean-and-emelie-crystal/movie/20220828/ETHEREAL_BEAUTY
-cast: Charlie Dean; https://www.sexart.com/model/charlie-dean; g:m
-cast: Emelie Crystal; https://www.sexart.com/model/emelie-crystal; g:f
+model: n:Charlie Dean; id:/model/sexart/charlie-dean; u:https://www.sexart.com/model/charlie-dean; g:m
+model: n:Emelie Crystal; id:/model/sexart/emelie-crystal; u:https://www.sexart.com/model/emelie-crystal; g:f
 released: 2022-08-28
 director: Andrej Lupin
 rating: 9.1
@@ -3194,8 +3194,8 @@ title: Woman In Charge
 type: movie
 site: sa
 url: https://www.sexart.com/model/rika-fane-and-jimmy-bud/movie/20220826/WOMAN_IN_CHARGE
-cast: Rika Fane; https://www.sexart.com/model/rika-fane; g:f
-cast: Jimmy Bud; https://www.sexart.com/model/jimmy-bud; g:m
+model: n:Rika Fane; id:/model/sexart/rika-fane; u:https://www.sexart.com/model/rika-fane; g:f
+model: n:Jimmy Bud; id:/model/sexart/jimmy-bud; u:https://www.sexart.com/model/jimmy-bud; g:m
 released: 2022-08-26
 director: Andrej Lupin
 rating: 9.3
@@ -3260,8 +3260,8 @@ title: Next Level
 type: movie
 site: sa
 url: https://www.sexart.com/model/nek-sinner-and-christy-white/movie/20220824/NEXT_LEVEL
-cast: Nek Sinner; https://www.sexart.com/model/nek-sinner; g:m
-cast: Christy White; https://www.sexart.com/model/christy-white; g:f
+model: n:Nek Sinner; id:/model/sexart/nek-sinner; u:https://www.sexart.com/model/nek-sinner; g:m
+model: n:Christy White; id:/model/sexart/christy-white; u:https://www.sexart.com/model/christy-white; g:f
 released: 2022-08-24
 director: Andrej Lupin
 rating: 9.0
@@ -3321,8 +3321,8 @@ title: Easy Sunday
 type: movie
 site: sa
 url: https://www.sexart.com/model/jason-carrera-and-irina-cage/movie/20220821/EASY_SUNDAY
-cast: Jason Carrera; https://www.sexart.com/model/jason-carrera; g:m
-cast: Irina Cage; https://www.sexart.com/model/irina-cage; g:f
+model: n:Jason Carrera; id:/model/sexart/jason-carrera; u:https://www.sexart.com/model/jason-carrera; g:m
+model: n:Irina Cage; id:/model/sexart/irina-cage; u:https://www.sexart.com/model/irina-cage; g:f
 released: 2022-08-21
 director: Andrej Lupin
 rating: 8.9
@@ -3375,7 +3375,7 @@ title: Impressions
 type: movie
 site: sa
 url: https://www.sexart.com/model/loren-sun/movie/20220819/IMPRESSIONS
-cast: Loren Sun; https://www.sexart.com/model/loren-sun; g:f
+model: n:Loren Sun; id:/model/sexart/loren-sun; u:https://www.sexart.com/model/loren-sun; g:f
 released: 2022-08-19
 director: Andrej Lupin
 rating: 9.5
@@ -3422,8 +3422,8 @@ title: Restart
 type: movie
 site: sa
 url: https://www.sexart.com/model/missy-luv-and-lando-ryder/movie/20220817/RESTART
-cast: Missy Luv; https://www.sexart.com/model/missy-luv; g:f
-cast: Lando Ryder; https://www.sexart.com/model/lando-ryder; g:m
+model: n:Missy Luv; id:/model/sexart/missy-luv; u:https://www.sexart.com/model/missy-luv; g:f
+model: n:Lando Ryder; id:/model/sexart/lando-ryder; u:https://www.sexart.com/model/lando-ryder; g:m
 released: 2022-08-17
 director: Andrej Lupin
 rating: 9.1
@@ -3480,8 +3480,8 @@ title: Talk To Me
 type: movie
 site: sa
 url: https://www.sexart.com/model/dolly-dyson-and-charlie-dean/movie/20220814/TALK_TO_ME
-cast: Dolly Dyson; https://www.sexart.com/model/dolly-dyson; g:f
-cast: Charlie Dean; https://www.sexart.com/model/charlie-dean; g:m
+model: n:Dolly Dyson; id:/model/sexart/dolly-dyson; u:https://www.sexart.com/model/dolly-dyson; g:f
+model: n:Charlie Dean; id:/model/sexart/charlie-dean; u:https://www.sexart.com/model/charlie-dean; g:m
 released: 2022-08-14
 director: Andrej Lupin
 rating: 9.1
@@ -3534,8 +3534,8 @@ title: Flare Of Love
 type: movie
 site: sa
 url: https://www.sexart.com/model/christy-white-and-kelly-collins/movie/20220812/FLARE_OF_LOVE
-cast: Christy White; https://www.sexart.com/model/christy-white; g:f
-cast: Kelly Collins; https://www.sexart.com/model/kelly-collins; g:f
+model: n:Christy White; id:/model/sexart/christy-white; u:https://www.sexart.com/model/christy-white; g:f
+model: n:Kelly Collins; id:/model/sexart/kelly-collins; u:https://www.sexart.com/model/kelly-collins; g:f
 released: 2022-08-12
 director: Andrej Lupin
 rating: 9.3
@@ -3597,9 +3597,9 @@ title: Everlasting Love Part 2
 type: movie
 site: sa
 url: https://www.sexart.com/model/ruby-shades-and-lando-ryder-and-monika-may/movie/20220810/EVERLASTING_LOVE_PART_2
-cast: Ruby Shades; https://www.sexart.com/model/ruby-shades; g:f
-cast: Lando Ryder; https://www.sexart.com/model/lando-ryder; g:m
-cast: Monika May; https://www.sexart.com/model/monika-may; g:f
+model: n:Ruby Shades; id:/model/sexart/ruby-shades; u:https://www.sexart.com/model/ruby-shades; g:f
+model: n:Lando Ryder; id:/model/sexart/lando-ryder; u:https://www.sexart.com/model/lando-ryder; g:m
+model: n:Monika May; id:/model/sexart/monika-may; u:https://www.sexart.com/model/monika-may; g:f
 released: 2022-08-10
 director: Andrej Lupin
 rating: 9.2
@@ -3659,8 +3659,8 @@ title: Our Desire
 type: movie
 site: sa
 url: https://www.sexart.com/model/jason-carrera-and-casey/movie/20220807/OUR_DESIRE
-cast: Jason Carrera; https://www.sexart.com/model/jason-carrera; g:m
-cast: Casey; https://www.sexart.com/model/casey; g:f
+model: n:Jason Carrera; id:/model/sexart/jason-carrera; u:https://www.sexart.com/model/jason-carrera; g:m
+model: n:Casey; id:/model/sexart/casey; u:https://www.sexart.com/model/casey; g:f
 released: 2022-08-07
 director: Andrej Lupin
 rating: 9.2
@@ -3719,8 +3719,8 @@ title: Dreaming About A Girl
 type: movie
 site: sa
 url: https://www.sexart.com/model/loren-sun-and-mary-popiense/movie/20220805/DREAMING_ABOUT_A_GIRL
-cast: Loren Sun; https://www.sexart.com/model/loren-sun; g:f
-cast: Mary Popiense; https://www.sexart.com/model/mary-popiense; g:f
+model: n:Loren Sun; id:/model/sexart/loren-sun; u:https://www.sexart.com/model/loren-sun; g:f
+model: n:Mary Popiense; id:/model/sexart/mary-popiense; u:https://www.sexart.com/model/mary-popiense; g:f
 released: 2022-08-05
 director: Andrej Lupin
 rating: 9.3
@@ -3778,8 +3778,8 @@ title: Long Time
 type: movie
 site: sa
 url: https://www.sexart.com/model/alya-stark-and-ricky/movie/20220803/LONG_TIME
-cast: Alya Stark; https://www.sexart.com/model/alya-stark; g:f
-cast: Ricky; https://www.sexart.com/model/ricky; g:m
+model: n:Alya Stark; id:/model/sexart/alya-stark; u:https://www.sexart.com/model/alya-stark; g:f
+model: n:Ricky; id:/model/sexart/ricky; u:https://www.sexart.com/model/ricky; g:m
 released: 2022-08-03
 director: Andrej Lupin
 rating: 9.2
@@ -3843,8 +3843,8 @@ title: Everlasting Love Part 1
 type: movie
 site: sa
 url: https://www.sexart.com/model/lando-ryder-and-ruby-shades/movie/20220731/EVERLASTING_LOVE_PART_1
-cast: Lando Ryder; https://www.sexart.com/model/lando-ryder; g:m
-cast: Ruby Shades; https://www.sexart.com/model/ruby-shades; g:f
+model: n:Lando Ryder; id:/model/sexart/lando-ryder; u:https://www.sexart.com/model/lando-ryder; g:m
+model: n:Ruby Shades; id:/model/sexart/ruby-shades; u:https://www.sexart.com/model/ruby-shades; g:f
 released: 2022-07-31
 director: Andrej Lupin
 rating: 8.9
@@ -3893,8 +3893,8 @@ title: Ray Of Sunshine
 type: movie
 site: sa
 url: https://www.sexart.com/model/alya-stark-and-irina-cage/movie/20220729/RAY_OF_SUNSHINE
-cast: Alya Stark; https://www.sexart.com/model/alya-stark; g:f
-cast: Irina Cage; https://www.sexart.com/model/irina-cage; g:f
+model: n:Alya Stark; id:/model/sexart/alya-stark; u:https://www.sexart.com/model/alya-stark; g:f
+model: n:Irina Cage; id:/model/sexart/irina-cage; u:https://www.sexart.com/model/irina-cage; g:f
 released: 2022-07-29
 director: Andrej Lupin
 rating: 9.0
@@ -3951,10 +3951,10 @@ title: Maid For You Part 3
 type: movie
 site: sa
 url: https://www.sexart.com/model/michael-fly-and-venera-and-angelo-godshack-and-stacy-cruz/movie/20220727/MAID_FOR_YOU_PART_3
-cast: Michael Fly; https://www.sexart.com/model/michael-fly; g:m
-cast: Venera; https://www.sexart.com/model/venera; g:f
-cast: Angelo Godshack; https://www.sexart.com/model/angelo-godshack; g:m
-cast: Stacy Cruz; https://www.sexart.com/model/stacy-cruz; g:f
+model: n:Michael Fly; id:/model/sexart/michael-fly; u:https://www.sexart.com/model/michael-fly; g:m
+model: n:Venera; id:/model/sexart/venera; u:https://www.sexart.com/model/venera; g:f
+model: n:Angelo Godshack; id:/model/sexart/angelo-godshack; u:https://www.sexart.com/model/angelo-godshack; g:m
+model: n:Stacy Cruz; id:/model/sexart/stacy-cruz; u:https://www.sexart.com/model/stacy-cruz; g:f
 released: 2022-07-27
 director: Andrej Lupin
 rating: 9.2
@@ -4020,8 +4020,8 @@ title: Tell Me A Story
 type: movie
 site: sa
 url: https://www.sexart.com/model/lando-ryder-and-rika-fane/movie/20220724/TELL_ME_A_STORY
-cast: Lando Ryder; https://www.sexart.com/model/lando-ryder; g:m
-cast: Rika Fane; https://www.sexart.com/model/rika-fane; g:f
+model: n:Lando Ryder; id:/model/sexart/lando-ryder; u:https://www.sexart.com/model/lando-ryder; g:m
+model: n:Rika Fane; id:/model/sexart/rika-fane; u:https://www.sexart.com/model/rika-fane; g:f
 released: 2022-07-24
 director: Andrej Lupin
 rating: 9.2
@@ -4077,8 +4077,8 @@ title: Serenade
 type: movie
 site: sa
 url: https://www.sexart.com/model/kelly-collins-and-loren-sun/movie/20220722/SERENADE
-cast: Kelly Collins; https://www.sexart.com/model/kelly-collins; g:f
-cast: Loren Sun; https://www.sexart.com/model/loren-sun; g:f
+model: n:Kelly Collins; id:/model/sexart/kelly-collins; u:https://www.sexart.com/model/kelly-collins; g:f
+model: n:Loren Sun; id:/model/sexart/loren-sun; u:https://www.sexart.com/model/loren-sun; g:f
 released: 2022-07-22
 director: Andrej Lupin
 rating: 9.5
@@ -4142,8 +4142,8 @@ title: Obsession
 type: movie
 site: sa
 url: https://www.sexart.com/model/casey-and-ricky/movie/20220720/OBSESSION
-cast: Casey; https://www.sexart.com/model/casey; g:f
-cast: Ricky; https://www.sexart.com/model/ricky; g:m
+model: n:Casey; id:/model/sexart/casey; u:https://www.sexart.com/model/casey; g:f
+model: n:Ricky; id:/model/sexart/ricky; u:https://www.sexart.com/model/ricky; g:m
 released: 2022-07-20
 director: Andrej Lupin
 rating: 9.2
@@ -4194,8 +4194,8 @@ title: You Might Be An Angel
 type: movie
 site: sa
 url: https://www.sexart.com/model/tommy-cabrio-and-mona-blue/movie/20220717/YOU_MIGHT_BE_AN_ANGEL
-cast: Tommy Cabrio; https://www.sexart.com/model/tommy-cabrio; g:m
-cast: Mona Blue; https://www.sexart.com/model/mona-blue; g:f
+model: n:Tommy Cabrio; id:/model/sexart/tommy-cabrio; u:https://www.sexart.com/model/tommy-cabrio; g:m
+model: n:Mona Blue; id:/model/sexart/mona-blue; u:https://www.sexart.com/model/mona-blue; g:f
 released: 2022-07-17
 director: Andrej Lupin
 rating: 9.1
@@ -4242,9 +4242,9 @@ title: Maid For You Part 2
 type: movie
 site: sa
 url: https://www.sexart.com/model/michael-fly-and-venera-and-stacy-cruz/movie/20220715/MAID_FOR_YOU_PART_2
-cast: Michael Fly; https://www.sexart.com/model/michael-fly; g:m
-cast: Venera; https://www.sexart.com/model/venera; g:f
-cast: Stacy Cruz; https://www.sexart.com/model/stacy-cruz; g:f
+model: n:Michael Fly; id:/model/sexart/michael-fly; u:https://www.sexart.com/model/michael-fly; g:m
+model: n:Venera; id:/model/sexart/venera; u:https://www.sexart.com/model/venera; g:f
+model: n:Stacy Cruz; id:/model/sexart/stacy-cruz; u:https://www.sexart.com/model/stacy-cruz; g:f
 released: 2022-07-15
 director: Andrej Lupin
 rating: 9.3
@@ -4314,8 +4314,8 @@ title: Surface
 type: movie
 site: sa
 url: https://www.sexart.com/model/jimmy-bud-and-missy-luv/movie/20220713/SURFACE
-cast: Jimmy Bud; https://www.sexart.com/model/jimmy-bud; g:m
-cast: Missy Luv; https://www.sexart.com/model/missy-luv; g:f
+model: n:Jimmy Bud; id:/model/sexart/jimmy-bud; u:https://www.sexart.com/model/jimmy-bud; g:m
+model: n:Missy Luv; id:/model/sexart/missy-luv; u:https://www.sexart.com/model/missy-luv; g:f
 released: 2022-07-13
 director: Andrej Lupin
 rating: 8.9
@@ -4374,8 +4374,8 @@ title: Let It Be
 type: movie
 site: sa
 url: https://www.sexart.com/model/jason-carrera-and-claudia-bavel/movie/20220710/LET_IT_BE
-cast: Jason Carrera; https://www.sexart.com/model/jason-carrera; g:m
-cast: Claudia Bavel; https://www.sexart.com/model/claudia-bavel; g:f
+model: n:Jason Carrera; id:/model/sexart/jason-carrera; u:https://www.sexart.com/model/jason-carrera; g:m
+model: n:Claudia Bavel; id:/model/sexart/claudia-bavel; u:https://www.sexart.com/model/claudia-bavel; g:f
 released: 2022-07-10
 director: Andrej Lupin
 rating: 9.2
@@ -4437,8 +4437,8 @@ title: Time Together
 type: movie
 site: sa
 url: https://www.sexart.com/model/dolly-dyson-and-emelie-crystal/movie/20220708/TIME_TOGETHER
-cast: Dolly Dyson; https://www.sexart.com/model/dolly-dyson; g:f
-cast: Emelie Crystal; https://www.sexart.com/model/emelie-crystal; g:f
+model: n:Dolly Dyson; id:/model/sexart/dolly-dyson; u:https://www.sexart.com/model/dolly-dyson; g:f
+model: n:Emelie Crystal; id:/model/sexart/emelie-crystal; u:https://www.sexart.com/model/emelie-crystal; g:f
 released: 2022-07-08
 director: Andrej Lupin
 rating: 9.2
@@ -4499,8 +4499,8 @@ title: Closeness Of Hearts
 type: movie
 site: sa
 url: https://www.sexart.com/model/nek-sinner-and-christy-white/movie/20220706/CLOSENESS_OF_HEARTS
-cast: Nek Sinner; https://www.sexart.com/model/nek-sinner; g:m
-cast: Christy White; https://www.sexart.com/model/christy-white; g:f
+model: n:Nek Sinner; id:/model/sexart/nek-sinner; u:https://www.sexart.com/model/nek-sinner; g:m
+model: n:Christy White; id:/model/sexart/christy-white; u:https://www.sexart.com/model/christy-white; g:f
 released: 2022-07-06
 director: Andrej Lupin
 rating: 9.2
@@ -4558,8 +4558,8 @@ title: Dance Of Shadows
 type: movie
 site: sa
 url: https://www.sexart.com/model/irina-cage-and-ricky/movie/20220703/DANCE_OF_SHADOWS
-cast: Irina Cage; https://www.sexart.com/model/irina-cage; g:f
-cast: Ricky; https://www.sexart.com/model/ricky; g:m
+model: n:Irina Cage; id:/model/sexart/irina-cage; u:https://www.sexart.com/model/irina-cage; g:f
+model: n:Ricky; id:/model/sexart/ricky; u:https://www.sexart.com/model/ricky; g:m
 released: 2022-07-03
 director: Andrej Lupin
 rating: 9.0
@@ -4609,9 +4609,9 @@ title: The Best For You Part 2
 type: movie
 site: sa
 url: https://www.sexart.com/model/jessy-jey-and-catherine-knight-and-tommy-cabrio/movie/20220701/THE_BEST_FOR_YOU_PART_2
-cast: Jessy Jey; https://www.sexart.com/model/jessy-jey; g:f
-cast: Catherine Knight; https://www.sexart.com/model/catherine-knight; g:f
-cast: Tommy Cabrio; https://www.sexart.com/model/tommy-cabrio; g:m
+model: n:Jessy Jey; id:/model/sexart/jessy-jey; u:https://www.sexart.com/model/jessy-jey; g:f
+model: n:Catherine Knight; id:/model/sexart/catherine-knight; u:https://www.sexart.com/model/catherine-knight; g:f
+model: n:Tommy Cabrio; id:/model/sexart/tommy-cabrio; u:https://www.sexart.com/model/tommy-cabrio; g:m
 released: 2022-07-01
 director: Andrej Lupin
 rating: 9.4
@@ -4683,8 +4683,8 @@ title: Swirling
 type: movie
 site: sa
 url: https://www.sexart.com/model/lando-ryder-and-monika-may/movie/20220629/SWIRLING
-cast: Lando Ryder; https://www.sexart.com/model/lando-ryder; g:m
-cast: Monika May; https://www.sexart.com/model/monika-may; g:f
+model: n:Lando Ryder; id:/model/sexart/lando-ryder; u:https://www.sexart.com/model/lando-ryder; g:m
+model: n:Monika May; id:/model/sexart/monika-may; u:https://www.sexart.com/model/monika-may; g:f
 released: 2022-06-29
 director: Andrej Lupin
 rating: 9.2
@@ -4744,9 +4744,9 @@ title: Maid For You Part 1
 type: movie
 site: sa
 url: https://www.sexart.com/model/venera-and-michael-fly-and-stacy-cruz/movie/20220626/MAID_FOR_YOU_PART_1
-cast: Venera; https://www.sexart.com/model/venera; g:f
-cast: Michael Fly; https://www.sexart.com/model/michael-fly; g:m
-cast: Stacy Cruz; https://www.sexart.com/model/stacy-cruz; g:f
+model: n:Venera; id:/model/sexart/venera; u:https://www.sexart.com/model/venera; g:f
+model: n:Michael Fly; id:/model/sexart/michael-fly; u:https://www.sexart.com/model/michael-fly; g:m
+model: n:Stacy Cruz; id:/model/sexart/stacy-cruz; u:https://www.sexart.com/model/stacy-cruz; g:f
 released: 2022-06-26
 director: Andrej Lupin
 rating: 9.3
@@ -4813,8 +4813,8 @@ title: Overview
 type: movie
 site: sa
 url: https://www.sexart.com/model/ruby-shades-and-missy-luv/movie/20220624/OVERVIEW
-cast: Ruby Shades; https://www.sexart.com/model/ruby-shades; g:f
-cast: Missy Luv; https://www.sexart.com/model/missy-luv; g:f
+model: n:Ruby Shades; id:/model/sexart/ruby-shades; u:https://www.sexart.com/model/ruby-shades; g:f
+model: n:Missy Luv; id:/model/sexart/missy-luv; u:https://www.sexart.com/model/missy-luv; g:f
 released: 2022-06-24
 director: Andrej Lupin
 rating: 9.0
@@ -4876,9 +4876,9 @@ title: Reaction
 type: movie
 site: sa
 url: https://www.sexart.com/model/noa-tevez-and-ricky-and-sata-jones/movie/20220622/REACTION
-cast: Noa Tevez; https://www.sexart.com/model/noa-tevez; g:f
-cast: Ricky; https://www.sexart.com/model/ricky; g:m
-cast: Sata Jones; https://www.sexart.com/model/sata-jones; g:f
+model: n:Noa Tevez; id:/model/sexart/noa-tevez; u:https://www.sexart.com/model/noa-tevez; g:f
+model: n:Ricky; id:/model/sexart/ricky; u:https://www.sexart.com/model/ricky; g:m
+model: n:Sata Jones; id:/model/sexart/sata-jones; u:https://www.sexart.com/model/sata-jones; g:f
 released: 2022-06-22
 director: Andrej Lupin
 rating: 9.3
@@ -4959,8 +4959,8 @@ title: Do You Wanna
 type: movie
 site: sa
 url: https://www.sexart.com/model/casey-and-jason-carrera/movie/20220619/DO_YOU_WANNA
-cast: Casey; https://www.sexart.com/model/casey; g:f
-cast: Jason Carrera; https://www.sexart.com/model/jason-carrera; g:m
+model: n:Casey; id:/model/sexart/casey; u:https://www.sexart.com/model/casey; g:f
+model: n:Jason Carrera; id:/model/sexart/jason-carrera; u:https://www.sexart.com/model/jason-carrera; g:m
 released: 2022-06-19
 director: Andrej Lupin
 rating: 9.3
@@ -5028,9 +5028,9 @@ title: Secret Dream
 type: movie
 site: sa
 url: https://www.sexart.com/model/mugur-and-mary-rock-and-marie-berger/movie/20220617/SECRET_DREAM
-cast: Mugur; https://www.sexart.com/model/mugur; g:m
-cast: Mary Rock; https://www.sexart.com/model/mary-rock; g:f
-cast: Marie Berger; https://www.sexart.com/model/marie-berger; g:f
+model: n:Mugur; id:/model/sexart/mugur; u:https://www.sexart.com/model/mugur; g:m
+model: n:Mary Rock; id:/model/sexart/mary-rock; u:https://www.sexart.com/model/mary-rock; g:f
+model: n:Marie Berger; id:/model/sexart/marie-berger; u:https://www.sexart.com/model/marie-berger; g:f
 released: 2022-06-17
 director: Andrej Lupin
 rating: 9.2
@@ -5098,8 +5098,8 @@ title: Sneak Peek Production
 type: movie
 site: sa
 url: https://www.sexart.com/model/ricky-and-alexis-crystal/movie/20220615/
-cast: Ricky; https://www.sexart.com/model/ricky; g:m
-cast: Alexis Crystal; https://www.sexart.com/model/alexis-crystal; g:f
+model: n:Ricky; id:/model/sexart/ricky; u:https://www.sexart.com/model/ricky; g:m
+model: n:Alexis Crystal; id:/model/sexart/alexis-crystal; u:https://www.sexart.com/model/alexis-crystal; g:f
 released: 2022-06-15
 director: Andrej Lupin
 rating: 9.1
@@ -5162,8 +5162,8 @@ title: Sizzle
 type: movie
 site: sa
 url: https://www.sexart.com/model/nick-ross-and-purr-simona/movie/20220612/SIZZLE
-cast: Nick Ross; https://www.sexart.com/model/nick-ross; g:m
-cast: Purr Simona; https://www.sexart.com/model/purr-simona; g:f
+model: n:Nick Ross; id:/model/sexart/nick-ross; u:https://www.sexart.com/model/nick-ross; g:m
+model: n:Purr Simona; id:/model/sexart/purr-simona; u:https://www.sexart.com/model/purr-simona; g:f
 released: 2022-06-12
 director: Andrej Lupin
 rating: 9.1
@@ -5215,8 +5215,8 @@ title: Future Bliss
 type: movie
 site: sa
 url: https://www.sexart.com/model/ricky-and-antonia-sainz/movie/20220610/FUTURE_BLISS
-cast: Ricky; https://www.sexart.com/model/ricky; g:m
-cast: Antonia Sainz; https://www.sexart.com/model/antonia-sainz; g:f
+model: n:Ricky; id:/model/sexart/ricky; u:https://www.sexart.com/model/ricky; g:m
+model: n:Antonia Sainz; id:/model/sexart/antonia-sainz; u:https://www.sexart.com/model/antonia-sainz; g:f
 released: 2022-06-10
 director: Andrej Lupin
 rating: 9.1
@@ -5280,8 +5280,8 @@ title: Sneak Peek: Actress
 type: movie
 site: sa
 url: https://www.sexart.com/model/george-brown-and-alexis-crystal/movie/20220608/
-cast: George Brown; https://www.sexart.com/model/george-brown; g:m
-cast: Alexis Crystal; https://www.sexart.com/model/alexis-crystal; g:f
+model: n:George Brown; id:/model/sexart/george-brown; u:https://www.sexart.com/model/george-brown; g:m
+model: n:Alexis Crystal; id:/model/sexart/alexis-crystal; u:https://www.sexart.com/model/alexis-crystal; g:f
 released: 2022-06-08
 director: Andrej Lupin
 rating: 8.9
@@ -5340,9 +5340,9 @@ title: Summer Paradise
 type: movie
 site: sa
 url: https://www.sexart.com/model/maxmilian-dior-and-camila-palmer-and-holly-molly/movie/20220605/SUMMER_PARADISE
-cast: Maxmilian Dior; https://www.sexart.com/model/maxmilian-dior; g:m
-cast: Camila Palmer; https://www.sexart.com/model/camila-palmer; g:f
-cast: Holly Molly; https://www.sexart.com/model/holly-molly; g:f
+model: n:Maxmilian Dior; id:/model/sexart/maxmilian-dior; u:https://www.sexart.com/model/maxmilian-dior; g:m
+model: n:Camila Palmer; id:/model/sexart/camila-palmer; u:https://www.sexart.com/model/camila-palmer; g:f
+model: n:Holly Molly; id:/model/sexart/holly-molly; u:https://www.sexart.com/model/holly-molly; g:f
 released: 2022-06-05
 director: Andrej Lupin
 rating: 9.0
@@ -5409,8 +5409,8 @@ title: Push Me
 type: movie
 site: sa
 url: https://www.sexart.com/model/noa-tevez-and-mini-vamp/movie/20220603/PUSH_ME
-cast: Noa Tevez; https://www.sexart.com/model/noa-tevez; g:f
-cast: Mini Vamp; https://www.sexart.com/model/mini-vamp; g:f
+model: n:Noa Tevez; id:/model/sexart/noa-tevez; u:https://www.sexart.com/model/noa-tevez; g:f
+model: n:Mini Vamp; id:/model/sexart/mini-vamp; u:https://www.sexart.com/model/mini-vamp; g:f
 released: 2022-06-03
 director: Andrej Lupin
 rating: 9.3
@@ -5467,8 +5467,8 @@ title: Jeweler
 type: movie
 site: sa
 url: https://www.sexart.com/model/stella-cardo-and-stephan-cardo/movie/20220601/JEWELER
-cast: Stella Cardo; https://www.sexart.com/model/stella-cardo; g:f
-cast: Stephan Cardo; https://www.sexart.com/model/stephan-cardo; g:m
+model: n:Stella Cardo; id:/model/sexart/stella-cardo; u:https://www.sexart.com/model/stella-cardo; g:f
+model: n:Stephan Cardo; id:/model/sexart/stephan-cardo; u:https://www.sexart.com/model/stephan-cardo; g:m
 released: 2022-06-01
 director: Andrej Lupin
 rating: 9.1
@@ -5524,8 +5524,8 @@ title: Lesson
 type: movie
 site: sa
 url: https://www.sexart.com/model/geishakyd-and-nick-moreno/movie/20220529/LESSON
-cast: Geishakyd; https://www.sexart.com/model/geishakyd; g:m
-cast: Nick Moreno; https://www.sexart.com/model/nick-moreno; g:m
+model: n:Geishakyd; id:/model/sexart/geishakyd; u:https://www.sexart.com/model/geishakyd; g:m
+model: n:Nick Moreno; id:/model/sexart/nick-moreno; u:https://www.sexart.com/model/nick-moreno; g:m
 released: 2022-05-29
 director: Andrej Lupin
 rating: 9.1
@@ -5589,8 +5589,8 @@ title: Sneak Peek: Member (Part 2)
 type: movie
 site: sa
 url: https://www.sexart.com/model/lee-anne-and-alexis-crystal/movie/20220527/
-cast: Lee Anne; https://www.sexart.com/model/lee-anne; g:f
-cast: Alexis Crystal; https://www.sexart.com/model/alexis-crystal; g:f
+model: n:Lee Anne; id:/model/sexart/lee-anne; u:https://www.sexart.com/model/lee-anne; g:f
+model: n:Alexis Crystal; id:/model/sexart/alexis-crystal; u:https://www.sexart.com/model/alexis-crystal; g:f
 released: 2022-05-27
 director: Andrej Lupin
 rating: 9.3
@@ -5646,8 +5646,8 @@ title: Everything I Need
 type: movie
 site: sa
 url: https://www.sexart.com/model/mugur-and-marie-berger/movie/20220525/EVERYTHING_I_NEED
-cast: Mugur; https://www.sexart.com/model/mugur; g:m
-cast: Marie Berger; https://www.sexart.com/model/marie-berger; g:f
+model: n:Mugur; id:/model/sexart/mugur; u:https://www.sexart.com/model/mugur; g:m
+model: n:Marie Berger; id:/model/sexart/marie-berger; u:https://www.sexart.com/model/marie-berger; g:f
 released: 2022-05-25
 director: Andrej Lupin
 rating: 9.5
@@ -5708,8 +5708,8 @@ title: Sneak Peek: Member (Part 1)
 type: movie
 site: sa
 url: https://www.sexart.com/model/alexis-crystal-and-nick-ross/movie/20220522/
-cast: Alexis Crystal; https://www.sexart.com/model/alexis-crystal; g:f
-cast: Nick Ross; https://www.sexart.com/model/nick-ross; g:m
+model: n:Alexis Crystal; id:/model/sexart/alexis-crystal; u:https://www.sexart.com/model/alexis-crystal; g:f
+model: n:Nick Ross; id:/model/sexart/nick-ross; u:https://www.sexart.com/model/nick-ross; g:m
 released: 2022-05-22
 director: Andrej Lupin
 rating: 9.2
@@ -5765,8 +5765,8 @@ title: Night At The Theater
 type: movie
 site: sa
 url: https://www.sexart.com/model/deny-lou-and-katy-rose/movie/20220520/NIGHT_AT_THE_THEATER
-cast: Deny Lou; https://www.sexart.com/model/deny-lou; g:m
-cast: Katy Rose; https://www.sexart.com/model/katy-rose; g:f
+model: n:Deny Lou; id:/model/sexart/deny-lou; u:https://www.sexart.com/model/deny-lou; g:m
+model: n:Katy Rose; id:/model/sexart/katy-rose; u:https://www.sexart.com/model/katy-rose; g:f
 released: 2022-05-20
 director: Andrej Lupin
 rating: 9.0
@@ -5823,8 +5823,8 @@ title: Why We Fall In Love
 type: movie
 site: sa
 url: https://www.sexart.com/model/ricky-and-sata-jones/movie/20220518/WHY_WE_FALL_IN_LOVE
-cast: Ricky; https://www.sexart.com/model/ricky; g:m
-cast: Sata Jones; https://www.sexart.com/model/sata-jones; g:f
+model: n:Ricky; id:/model/sexart/ricky; u:https://www.sexart.com/model/ricky; g:m
+model: n:Sata Jones; id:/model/sexart/sata-jones; u:https://www.sexart.com/model/sata-jones; g:f
 released: 2022-05-18
 director: Andrej Lupin
 rating: 9.3
@@ -5879,8 +5879,8 @@ title: Every Day Is Beautiful
 type: movie
 site: sa
 url: https://www.sexart.com/model/serina-gomez-and-charlie-dean/movie/20220515/EVERY_DAY_IS_BEAUTIFUL
-cast: Serina Gomez; https://www.sexart.com/model/serina-gomez; g:f
-cast: Charlie Dean; https://www.sexart.com/model/charlie-dean; g:m
+model: n:Serina Gomez; id:/model/sexart/serina-gomez; u:https://www.sexart.com/model/serina-gomez; g:f
+model: n:Charlie Dean; id:/model/sexart/charlie-dean; u:https://www.sexart.com/model/charlie-dean; g:m
 released: 2022-05-15
 director: Andrej Lupin
 rating: 9.3
@@ -5938,8 +5938,8 @@ title: Waiting For You
 type: movie
 site: sa
 url: https://www.sexart.com/model/kelly-collins-and-stefany-kyler/movie/20220513/WAITING_FOR_YOU
-cast: Kelly Collins; https://www.sexart.com/model/kelly-collins; g:f
-cast: Stefany Kyler; https://www.sexart.com/model/stefany-kyler; g:f
+model: n:Kelly Collins; id:/model/sexart/kelly-collins; u:https://www.sexart.com/model/kelly-collins; g:f
+model: n:Stefany Kyler; id:/model/sexart/stefany-kyler; u:https://www.sexart.com/model/stefany-kyler; g:f
 released: 2022-05-13
 director: Sandra Shine
 rating: 9.4
@@ -6009,8 +6009,8 @@ title: All My Love
 type: movie
 site: sa
 url: https://www.sexart.com/model/ricky-and-romy-indy/movie/20220511/ALL_MY_LOVE
-cast: Ricky; https://www.sexart.com/model/ricky; g:m
-cast: Romy Indy; https://www.sexart.com/model/romy-indy; g:f
+model: n:Ricky; id:/model/sexart/ricky; u:https://www.sexart.com/model/ricky; g:m
+model: n:Romy Indy; id:/model/sexart/romy-indy; u:https://www.sexart.com/model/romy-indy; g:f
 released: 2022-05-11
 director: Andrej Lupin
 rating: 9.2
@@ -6067,8 +6067,8 @@ title: Perverseness
 type: movie
 site: sa
 url: https://www.sexart.com/model/stanley-jones-and-zuzu-sweet/movie/20220508/PERVERSENESS
-cast: Stanley Jones; https://www.sexart.com/model/stanley-jones; g:m
-cast: Zuzu Sweet; https://www.sexart.com/model/zuzu-sweet; g:f
+model: n:Stanley Jones; id:/model/sexart/stanley-jones; u:https://www.sexart.com/model/stanley-jones; g:m
+model: n:Zuzu Sweet; id:/model/sexart/zuzu-sweet; u:https://www.sexart.com/model/zuzu-sweet; g:f
 released: 2022-05-08
 director: Andrej Lupin
 rating: 8.7
@@ -6126,8 +6126,8 @@ title: Sunlight
 type: movie
 site: sa
 url: https://www.sexart.com/model/tommy-cabrio-and-scarlett-jones/movie/20220506/SUNLIGHT
-cast: Tommy Cabrio; https://www.sexart.com/model/tommy-cabrio; g:m
-cast: Scarlett Jones; https://www.sexart.com/model/scarlett-jones; g:f
+model: n:Tommy Cabrio; id:/model/sexart/tommy-cabrio; u:https://www.sexart.com/model/tommy-cabrio; g:m
+model: n:Scarlett Jones; id:/model/sexart/scarlett-jones; u:https://www.sexart.com/model/scarlett-jones; g:f
 released: 2022-05-06
 director: Andrej Lupin
 rating: 9.1
@@ -6186,8 +6186,8 @@ title: On The Skin
 type: movie
 site: sa
 url: https://www.sexart.com/model/nick-moreno-and-purr-simona/movie/20220504/ON_THE_SKIN
-cast: Nick Moreno; https://www.sexart.com/model/nick-moreno; g:m
-cast: Purr Simona; https://www.sexart.com/model/purr-simona; g:f
+model: n:Nick Moreno; id:/model/sexart/nick-moreno; u:https://www.sexart.com/model/nick-moreno; g:m
+model: n:Purr Simona; id:/model/sexart/purr-simona; u:https://www.sexart.com/model/purr-simona; g:f
 released: 2022-05-04
 director: Andrej Lupin
 rating: 9.2
@@ -6236,8 +6236,8 @@ title: Created By Love
 type: movie
 site: sa
 url: https://www.sexart.com/model/ricky-and-mina-moreno/movie/20220501/CREATED_BY_LOVE
-cast: Ricky; https://www.sexart.com/model/ricky; g:m
-cast: Mina Moreno; https://www.sexart.com/model/mina-moreno; g:f
+model: n:Ricky; id:/model/sexart/ricky; u:https://www.sexart.com/model/ricky; g:m
+model: n:Mina Moreno; id:/model/sexart/mina-moreno; u:https://www.sexart.com/model/mina-moreno; g:f
 released: 2022-05-01
 director: Andrej Lupin
 rating: 9.2
@@ -6298,8 +6298,8 @@ title: Presence
 type: movie
 site: sa
 url: https://www.sexart.com/model/venera-and-stella-cardo/movie/20220429/PRESENCE
-cast: Venera; https://www.sexart.com/model/venera; g:f
-cast: Stella Cardo; https://www.sexart.com/model/stella-cardo; g:f
+model: n:Venera; id:/model/sexart/venera; u:https://www.sexart.com/model/venera; g:f
+model: n:Stella Cardo; id:/model/sexart/stella-cardo; u:https://www.sexart.com/model/stella-cardo; g:f
 released: 2022-04-29
 director: Andrej Lupin
 rating: 9.5
@@ -6363,8 +6363,8 @@ title: Believe
 type: movie
 site: sa
 url: https://www.sexart.com/model/tommy-cabrio-and-camila-palmer/movie/20220427/BELIEVE
-cast: Tommy Cabrio; https://www.sexart.com/model/tommy-cabrio; g:m
-cast: Camila Palmer; https://www.sexart.com/model/camila-palmer; g:f
+model: n:Tommy Cabrio; id:/model/sexart/tommy-cabrio; u:https://www.sexart.com/model/tommy-cabrio; g:m
+model: n:Camila Palmer; id:/model/sexart/camila-palmer; u:https://www.sexart.com/model/camila-palmer; g:f
 released: 2022-04-27
 director: Andrej Lupin
 rating: 8.6
@@ -6421,8 +6421,8 @@ title: Hang On
 type: movie
 site: sa
 url: https://www.sexart.com/model/maxmilian-dior-and-catherine-knight/movie/20220424/HANG_ON
-cast: Maxmilian Dior; https://www.sexart.com/model/maxmilian-dior; g:m
-cast: Catherine Knight; https://www.sexart.com/model/catherine-knight; g:f
+model: n:Maxmilian Dior; id:/model/sexart/maxmilian-dior; u:https://www.sexart.com/model/maxmilian-dior; g:m
+model: n:Catherine Knight; id:/model/sexart/catherine-knight; u:https://www.sexart.com/model/catherine-knight; g:f
 released: 2022-04-24
 director: Andrej Lupin
 rating: 8.9
@@ -6477,10 +6477,10 @@ title: Dream House Episode 2
 type: movie
 site: sa
 url: https://www.sexart.com/model/mary-rock-and-noa-tevez-and-marie-berger-and-sata-jones/movie/20220422/DREAM_HOUSE_EPISODE_2
-cast: Mary Rock; https://www.sexart.com/model/mary-rock; g:f
-cast: Noa Tevez; https://www.sexart.com/model/noa-tevez; g:f
-cast: Marie Berger; https://www.sexart.com/model/marie-berger; g:f
-cast: Sata Jones; https://www.sexart.com/model/sata-jones; g:f
+model: n:Mary Rock; id:/model/sexart/mary-rock; u:https://www.sexart.com/model/mary-rock; g:f
+model: n:Noa Tevez; id:/model/sexart/noa-tevez; u:https://www.sexart.com/model/noa-tevez; g:f
+model: n:Marie Berger; id:/model/sexart/marie-berger; u:https://www.sexart.com/model/marie-berger; g:f
+model: n:Sata Jones; id:/model/sexart/sata-jones; u:https://www.sexart.com/model/sata-jones; g:f
 released: 2022-04-22
 director: Andrej Lupin
 rating: 9.3
@@ -6542,7 +6542,7 @@ title: Girls Love Sex - The Lost Tapes Episode 12
 type: movie
 site: sa
 url: https://www.sexart.com/model/riley-reid/movie/20220420/GIRLS_LOVE_SEX_-_THE_LOST_TAPES_EPISODE_12
-cast: Riley Reid; https://www.sexart.com/model/riley-reid; g:f
+model: n:Riley Reid; id:/model/sexart/riley-reid; u:https://www.sexart.com/model/riley-reid; g:f
 released: 2022-04-20
 director: Bo Llanberris
 rating: 9.3
@@ -6611,8 +6611,8 @@ title: I Look To You
 type: movie
 site: sa
 url: https://www.sexart.com/model/ricky-and-mini-vamp/movie/20220417/I_LOOK_TO_YOU
-cast: Ricky; https://www.sexart.com/model/ricky; g:m
-cast: Mini Vamp; https://www.sexart.com/model/mini-vamp; g:f
+model: n:Ricky; id:/model/sexart/ricky; u:https://www.sexart.com/model/ricky; g:m
+model: n:Mini Vamp; id:/model/sexart/mini-vamp; u:https://www.sexart.com/model/mini-vamp; g:f
 released: 2022-04-17
 director: Andrej Lupin
 rating: 8.9
@@ -6672,9 +6672,9 @@ title: Slick
 type: movie
 site: sa
 url: https://www.sexart.com/model/holly-molly-and-camila-palmer-and-jessy-jey/movie/20220415/SLICK
-cast: Holly Molly; https://www.sexart.com/model/holly-molly; g:f
-cast: Camila Palmer; https://www.sexart.com/model/camila-palmer; g:f
-cast: Jessy Jey; https://www.sexart.com/model/jessy-jey; g:f
+model: n:Holly Molly; id:/model/sexart/holly-molly; u:https://www.sexart.com/model/holly-molly; g:f
+model: n:Camila Palmer; id:/model/sexart/camila-palmer; u:https://www.sexart.com/model/camila-palmer; g:f
+model: n:Jessy Jey; id:/model/sexart/jessy-jey; u:https://www.sexart.com/model/jessy-jey; g:f
 released: 2022-04-15
 director: Andrej Lupin
 rating: 9.3
@@ -6735,7 +6735,7 @@ title: Girls Love Sex - The Lost Tapes Episode 11
 type: movie
 site: sa
 url: https://www.sexart.com/model/casey-calvert/movie/20220413/GIRLS_LOVE_SEX_-_THE_LOST_TAPES_EPISODE_11
-cast: Casey Calvert; https://www.sexart.com/model/casey-calvert; g:f
+model: n:Casey Calvert; id:/model/sexart/casey-calvert; u:https://www.sexart.com/model/casey-calvert; g:f
 released: 2022-04-13
 director: Bo Llanberris
 rating: 9.0
@@ -6801,8 +6801,8 @@ title: Real Time
 type: movie
 site: sa
 url: https://www.sexart.com/model/nick-ross-and-geishakyd/movie/20220410/REAL_TIME
-cast: Nick Ross; https://www.sexart.com/model/nick-ross; g:m
-cast: Geishakyd; https://www.sexart.com/model/geishakyd; g:m
+model: n:Nick Ross; id:/model/sexart/nick-ross; u:https://www.sexart.com/model/nick-ross; g:m
+model: n:Geishakyd; id:/model/sexart/geishakyd; u:https://www.sexart.com/model/geishakyd; g:m
 released: 2022-04-10
 director: Andrej Lupin
 rating: 9.2
@@ -6858,10 +6858,10 @@ title: Dream House Episode 1
 type: movie
 site: sa
 url: https://www.sexart.com/model/sata-jones-and-mary-rock-and-marie-berger-and-noa-tevez/movie/20220408/DREAM_HOUSE_EPISODE_1
-cast: Sata Jones; https://www.sexart.com/model/sata-jones; g:f
-cast: Mary Rock; https://www.sexart.com/model/mary-rock; g:f
-cast: Marie Berger; https://www.sexart.com/model/marie-berger; g:f
-cast: Noa Tevez; https://www.sexart.com/model/noa-tevez; g:f
+model: n:Sata Jones; id:/model/sexart/sata-jones; u:https://www.sexart.com/model/sata-jones; g:f
+model: n:Mary Rock; id:/model/sexart/mary-rock; u:https://www.sexart.com/model/mary-rock; g:f
+model: n:Marie Berger; id:/model/sexart/marie-berger; u:https://www.sexart.com/model/marie-berger; g:f
+model: n:Noa Tevez; id:/model/sexart/noa-tevez; u:https://www.sexart.com/model/noa-tevez; g:f
 released: 2022-04-08
 director: Andrej Lupin
 rating: 9.1
@@ -6924,7 +6924,7 @@ title: Girls Love Sex - The Lost Tapes Episode 10
 type: movie
 site: sa
 url: https://www.sexart.com/model/aubrey-addams/movie/20220406/GIRLS_LOVE_SEX_-_THE_LOST_TAPES_EPISODE_10
-cast: Aubrey Addams; https://www.sexart.com/model/aubrey-addams; g:f
+model: n:Aubrey Addams; id:/model/sexart/aubrey-addams; u:https://www.sexart.com/model/aubrey-addams; g:f
 released: 2022-04-06
 director: Bo Llanberris
 rating: 9.0
@@ -6973,8 +6973,8 @@ title: All The Joy
 type: movie
 site: sa
 url: https://www.sexart.com/model/scarlett-jones-and-maxmilian-dior/movie/20220403/ALL_THE_JOY
-cast: Scarlett Jones; https://www.sexart.com/model/scarlett-jones; g:f
-cast: Maxmilian Dior; https://www.sexart.com/model/maxmilian-dior; g:m
+model: n:Scarlett Jones; id:/model/sexart/scarlett-jones; u:https://www.sexart.com/model/scarlett-jones; g:f
+model: n:Maxmilian Dior; id:/model/sexart/maxmilian-dior; u:https://www.sexart.com/model/maxmilian-dior; g:m
 released: 2022-04-03
 director: Andrej Lupin
 rating: 9.2
@@ -7027,8 +7027,8 @@ title: Confidentiality
 type: movie
 site: sa
 url: https://www.sexart.com/model/purr-simona-and-agatha-vega/movie/20220401/CONFIDENTIALITY
-cast: Purr Simona; https://www.sexart.com/model/purr-simona; g:f
-cast: Agatha Vega; https://www.sexart.com/model/agatha-vega; g:f
+model: n:Purr Simona; id:/model/sexart/purr-simona; u:https://www.sexart.com/model/purr-simona; g:f
+model: n:Agatha Vega; id:/model/sexart/agatha-vega; u:https://www.sexart.com/model/agatha-vega; g:f
 released: 2022-04-01
 director: Andrej Lupin
 rating: 9.3
@@ -7096,7 +7096,7 @@ title: Girls Love Sex - The Lost Tapes Episode 9
 type: movie
 site: sa
 url: https://www.sexart.com/model/kimber-day/movie/20220330/GIRLS_LOVE_SEX_-_THE_LOST_TAPES_EPISODE_9
-cast: Kimber Day; https://www.sexart.com/model/kimber-day; g:f
+model: n:Kimber Day; id:/model/sexart/kimber-day; u:https://www.sexart.com/model/kimber-day; g:f
 released: 2022-03-30
 director: Bo Llanberris
 rating: 9.1
@@ -7146,8 +7146,8 @@ title: Deception
 type: movie
 site: sa
 url: https://www.sexart.com/model/mugur-and-noa-tevez/movie/20220327/DECEPTION
-cast: Mugur; https://www.sexart.com/model/mugur; g:m
-cast: Noa Tevez; https://www.sexart.com/model/noa-tevez; g:f
+model: n:Mugur; id:/model/sexart/mugur; u:https://www.sexart.com/model/mugur; g:m
+model: n:Noa Tevez; id:/model/sexart/noa-tevez; u:https://www.sexart.com/model/noa-tevez; g:f
 released: 2022-03-27
 director: Andrej Lupin
 rating: 9.1
@@ -7216,8 +7216,8 @@ title: Pure Love
 type: movie
 site: sa
 url: https://www.sexart.com/model/jessy-jey-and-scarlett-jones/movie/20220325/PURE_LOVE
-cast: Jessy Jey; https://www.sexart.com/model/jessy-jey; g:f
-cast: Scarlett Jones; https://www.sexart.com/model/scarlett-jones; g:f
+model: n:Jessy Jey; id:/model/sexart/jessy-jey; u:https://www.sexart.com/model/jessy-jey; g:f
+model: n:Scarlett Jones; id:/model/sexart/scarlett-jones; u:https://www.sexart.com/model/scarlett-jones; g:f
 released: 2022-03-25
 director: Andrej Lupin
 rating: 9.3
@@ -7283,7 +7283,7 @@ title: Girls Love Sex - The Lost Tapes Episode 8
 type: movie
 site: sa
 url: https://www.sexart.com/model/chloe-foster/movie/20220323/GIRLS_LOVE_SEX_-_THE_LOST_TAPES_EPISODE_8
-cast: Chloe Foster; https://www.sexart.com/model/chloe-foster; g:f
+model: n:Chloe Foster; id:/model/sexart/chloe-foster; u:https://www.sexart.com/model/chloe-foster; g:f
 released: 2022-03-23
 director: Bo Llanberris
 rating: 9.0
@@ -7340,8 +7340,8 @@ title: Don't Be Alone
 type: movie
 site: sa
 url: https://www.sexart.com/model/bonnie-dolce-and-angelo-godshack/movie/20220320/DON_T_BE_ALONE
-cast: Bonnie Dolce; https://www.sexart.com/model/bonnie-dolce; g:f
-cast: Angelo Godshack; https://www.sexart.com/model/angelo-godshack; g:m
+model: n:Bonnie Dolce; id:/model/sexart/bonnie-dolce; u:https://www.sexart.com/model/bonnie-dolce; g:f
+model: n:Angelo Godshack; id:/model/sexart/angelo-godshack; u:https://www.sexart.com/model/angelo-godshack; g:m
 released: 2022-03-20
 director: Andrej Lupin
 rating: 9.0
@@ -7393,8 +7393,8 @@ title: New Chapter
 type: movie
 site: sa
 url: https://www.sexart.com/model/nick-moreno-and-geishakyd/movie/20220318/NEW_CHAPTER
-cast: Nick Moreno; https://www.sexart.com/model/nick-moreno; g:m
-cast: Geishakyd; https://www.sexart.com/model/geishakyd; g:m
+model: n:Nick Moreno; id:/model/sexart/nick-moreno; u:https://www.sexart.com/model/nick-moreno; g:m
+model: n:Geishakyd; id:/model/sexart/geishakyd; u:https://www.sexart.com/model/geishakyd; g:m
 released: 2022-03-18
 director: Andrej Lupin
 rating: 9.1
@@ -7459,7 +7459,7 @@ title: Girls Love Sex - The Lost Tapes Episode 7
 type: movie
 site: sa
 url: https://www.sexart.com/model/aaliyah-love/movie/20220316/GIRLS_LOVE_SEX_-_THE_LOST_TAPES_EPISODE_7
-cast: Aaliyah Love; https://www.sexart.com/model/aaliyah-love; g:f
+model: n:Aaliyah Love; id:/model/sexart/aaliyah-love; u:https://www.sexart.com/model/aaliyah-love; g:f
 released: 2022-03-16
 director: Bo Llanberris
 rating: 9.2
@@ -7519,8 +7519,8 @@ title: Witness
 type: movie
 site: sa
 url: https://www.sexart.com/model/holly-molly-and-maxmilian-dior/movie/20220313/WITNESS
-cast: Holly Molly; https://www.sexart.com/model/holly-molly; g:f
-cast: Maxmilian Dior; https://www.sexart.com/model/maxmilian-dior; g:m
+model: n:Holly Molly; id:/model/sexart/holly-molly; u:https://www.sexart.com/model/holly-molly; g:f
+model: n:Maxmilian Dior; id:/model/sexart/maxmilian-dior; u:https://www.sexart.com/model/maxmilian-dior; g:m
 released: 2022-03-13
 director: Andrej Lupin
 rating: 9.3
@@ -7585,9 +7585,9 @@ title: Retreat
 type: movie
 site: sa
 url: https://www.sexart.com/model/marie-berger-and-mary-rock-and-sata-jones/movie/20220311/RETREAT
-cast: Marie Berger; https://www.sexart.com/model/marie-berger; g:f
-cast: Mary Rock; https://www.sexart.com/model/mary-rock; g:f
-cast: Sata Jones; https://www.sexart.com/model/sata-jones; g:f
+model: n:Marie Berger; id:/model/sexart/marie-berger; u:https://www.sexart.com/model/marie-berger; g:f
+model: n:Mary Rock; id:/model/sexart/mary-rock; u:https://www.sexart.com/model/mary-rock; g:f
+model: n:Sata Jones; id:/model/sexart/sata-jones; u:https://www.sexart.com/model/sata-jones; g:f
 released: 2022-03-11
 director: Andrej Lupin
 rating: 9.5
@@ -7652,7 +7652,7 @@ title: Girls Love Sex - The Lost Tapes Episode 6
 type: movie
 site: sa
 url: https://www.sexart.com/model/ana-foxx/movie/20220309/GIRLS_LOVE_SEX_-_THE_LOST_TAPES_EPISODE_6
-cast: Ana Foxx; https://www.sexart.com/model/ana-foxx; g:f
+model: n:Ana Foxx; id:/model/sexart/ana-foxx; u:https://www.sexart.com/model/ana-foxx; g:f
 released: 2022-03-09
 director: Bo Llanberris
 rating: 9.2
@@ -7705,8 +7705,8 @@ title: Things I Love To Do
 type: movie
 site: sa
 url: https://www.sexart.com/model/nick-ross-and-purr-simona/movie/20220306/THINGS_I_LOVE_TO_DO
-cast: Nick Ross; https://www.sexart.com/model/nick-ross; g:m
-cast: Purr Simona; https://www.sexart.com/model/purr-simona; g:f
+model: n:Nick Ross; id:/model/sexart/nick-ross; u:https://www.sexart.com/model/nick-ross; g:m
+model: n:Purr Simona; id:/model/sexart/purr-simona; u:https://www.sexart.com/model/purr-simona; g:f
 released: 2022-03-06
 director: Andrej Lupin
 rating: 9.1
@@ -7768,8 +7768,8 @@ title: Sirens
 type: movie
 site: sa
 url: https://www.sexart.com/model/scarlett-jones-and-catherine-knight/movie/20220304/SIRENS
-cast: Scarlett Jones; https://www.sexart.com/model/scarlett-jones; g:f
-cast: Catherine Knight; https://www.sexart.com/model/catherine-knight; g:f
+model: n:Scarlett Jones; id:/model/sexart/scarlett-jones; u:https://www.sexart.com/model/scarlett-jones; g:f
+model: n:Catherine Knight; id:/model/sexart/catherine-knight; u:https://www.sexart.com/model/catherine-knight; g:f
 released: 2022-03-04
 director: Andrej Lupin
 rating: 9.2
@@ -7828,7 +7828,7 @@ title: Girls Love Sex - The Lost Tapes Episode 5
 type: movie
 site: sa
 url: https://www.sexart.com/model/maddy-oreilly/movie/20220302/GIRLS_LOVE_SEX_-_THE_LOST_TAPES_EPISODE_5
-cast: Maddy OReilly; https://www.sexart.com/model/maddy-oreilly; g:f
+model: n:Maddy OReilly; id:/model/sexart/maddy-oreilly; u:https://www.sexart.com/model/maddy-oreilly; g:f
 released: 2022-03-02
 director: Bo Llanberris
 rating: 9.2
@@ -7891,8 +7891,8 @@ title: I Need Your Love
 type: movie
 site: sa
 url: https://www.sexart.com/model/mini-vamp-and-mugur/movie/20220227/I_NEED_YOUR_LOVE
-cast: Mini Vamp; https://www.sexart.com/model/mini-vamp; g:f
-cast: Mugur; https://www.sexart.com/model/mugur; g:m
+model: n:Mini Vamp; id:/model/sexart/mini-vamp; u:https://www.sexart.com/model/mini-vamp; g:f
+model: n:Mugur; id:/model/sexart/mugur; u:https://www.sexart.com/model/mugur; g:m
 released: 2022-02-27
 director: Andrej Lupin
 rating: 9.1
@@ -7918,9 +7918,9 @@ title: Beyond Expectations
 type: movie
 site: sa
 url: https://www.sexart.com/model/nick-ross-and-geishakyd-and-agatha-vega/movie/20220225/BEYOND_EXPECTATIONS
-cast: Nick Ross; https://www.sexart.com/model/nick-ross; g:m
-cast: Geishakyd; https://www.sexart.com/model/geishakyd; g:m
-cast: Agatha Vega; https://www.sexart.com/model/agatha-vega; g:f
+model: n:Nick Ross; id:/model/sexart/nick-ross; u:https://www.sexart.com/model/nick-ross; g:m
+model: n:Geishakyd; id:/model/sexart/geishakyd; u:https://www.sexart.com/model/geishakyd; g:m
+model: n:Agatha Vega; id:/model/sexart/agatha-vega; u:https://www.sexart.com/model/agatha-vega; g:f
 released: 2022-02-25
 director: Andrej Lupin
 rating: 9.3
@@ -7993,7 +7993,7 @@ title: Girls Love Sex - The Lost Tapes Episode 4
 type: movie
 site: sa
 url: https://www.sexart.com/model/aiden-starr/movie/20220223/GIRLS_LOVE_SEX_-_THE_LOST_TAPES_EPISODE_4
-cast: Aiden Starr; https://www.sexart.com/model/aiden-starr; g:f
+model: n:Aiden Starr; id:/model/sexart/aiden-starr; u:https://www.sexart.com/model/aiden-starr; g:f
 released: 2022-02-23
 director: Bo Llanberris
 rating: 8.9
@@ -8048,8 +8048,8 @@ title: We Are Us
 type: movie
 site: sa
 url: https://www.sexart.com/model/stella-cardo-and-stephan-cardo/movie/20220220/WE_ARE_US
-cast: Stella Cardo; https://www.sexart.com/model/stella-cardo; g:f
-cast: Stephan Cardo; https://www.sexart.com/model/stephan-cardo; g:m
+model: n:Stella Cardo; id:/model/sexart/stella-cardo; u:https://www.sexart.com/model/stella-cardo; g:f
+model: n:Stephan Cardo; id:/model/sexart/stephan-cardo; u:https://www.sexart.com/model/stephan-cardo; g:m
 released: 2022-02-20
 director: Andrej Lupin
 rating: 9.3
@@ -8109,9 +8109,9 @@ title: Pull The Strings
 type: movie
 site: sa
 url: https://www.sexart.com/model/catherine-knight-and-camila-palmer-and-holly-molly/movie/20220218/PULL_THE_STRINGS
-cast: Catherine Knight; https://www.sexart.com/model/catherine-knight; g:f
-cast: Camila Palmer; https://www.sexart.com/model/camila-palmer; g:f
-cast: Holly Molly; https://www.sexart.com/model/holly-molly; g:f
+model: n:Catherine Knight; id:/model/sexart/catherine-knight; u:https://www.sexart.com/model/catherine-knight; g:f
+model: n:Camila Palmer; id:/model/sexart/camila-palmer; u:https://www.sexart.com/model/camila-palmer; g:f
+model: n:Holly Molly; id:/model/sexart/holly-molly; u:https://www.sexart.com/model/holly-molly; g:f
 released: 2022-02-18
 director: Andrej Lupin
 rating: 9.1
@@ -8191,7 +8191,7 @@ title: Girls Love Sex - The Lost Tapes Episode 3
 type: movie
 site: sa
 url: https://www.sexart.com/model/sarah-shevon/movie/20220216/GIRLS_LOVE_SEX_-_THE_LOST_TAPES_EPISODE_3
-cast: Sarah Shevon; https://www.sexart.com/model/sarah-shevon; g:f
+model: n:Sarah Shevon; id:/model/sexart/sarah-shevon; u:https://www.sexart.com/model/sarah-shevon; g:f
 released: 2022-02-16
 director: Bo Llanberris
 rating: 9.0
@@ -8239,8 +8239,8 @@ title: Be My Valentine
 type: movie
 site: sa
 url: https://www.sexart.com/model/mary-rock-and-ricky/movie/20220213/BE_MY_VALENTINE
-cast: Mary Rock; https://www.sexart.com/model/mary-rock; g:f
-cast: Ricky; https://www.sexart.com/model/ricky; g:m
+model: n:Mary Rock; id:/model/sexart/mary-rock; u:https://www.sexart.com/model/mary-rock; g:f
+model: n:Ricky; id:/model/sexart/ricky; u:https://www.sexart.com/model/ricky; g:m
 released: 2022-02-13
 director: Andrej Lupin
 rating: 9.3
@@ -8298,8 +8298,8 @@ title: The Best For You
 type: movie
 site: sa
 url: https://www.sexart.com/model/jessy-jey-and-tommy-cabrio/movie/20220211/THE_BEST_FOR_YOU
-cast: Jessy Jey; https://www.sexart.com/model/jessy-jey; g:f
-cast: Tommy Cabrio; https://www.sexart.com/model/tommy-cabrio; g:m
+model: n:Jessy Jey; id:/model/sexart/jessy-jey; u:https://www.sexart.com/model/jessy-jey; g:f
+model: n:Tommy Cabrio; id:/model/sexart/tommy-cabrio; u:https://www.sexart.com/model/tommy-cabrio; g:m
 released: 2022-02-11
 director: Andrej Lupin
 rating: 8.9
@@ -8361,7 +8361,7 @@ title: Girls Love Sex - The Lost Tapes Episode 2
 type: movie
 site: sa
 url: https://www.sexart.com/model/lola-foxx/movie/20220209/GIRLS_LOVE_SEX_-_THE_LOST_TAPES_EPISODE_2
-cast: Lola Foxx; https://www.sexart.com/model/lola-foxx; g:f
+model: n:Lola Foxx; id:/model/sexart/lola-foxx; u:https://www.sexart.com/model/lola-foxx; g:f
 released: 2022-02-09
 director: Bo Llanberris
 rating: 8.9
@@ -8410,8 +8410,8 @@ title: Panorama
 type: movie
 site: sa
 url: https://www.sexart.com/model/angelo-godshack-and-romy-indy/movie/20220206/PANORAMA
-cast: Angelo Godshack; https://www.sexart.com/model/angelo-godshack; g:m
-cast: Romy Indy; https://www.sexart.com/model/romy-indy; g:f
+model: n:Angelo Godshack; id:/model/sexart/angelo-godshack; u:https://www.sexart.com/model/angelo-godshack; g:m
+model: n:Romy Indy; id:/model/sexart/romy-indy; u:https://www.sexart.com/model/romy-indy; g:f
 released: 2022-02-06
 director: Andrej Lupin
 rating: 8.9
@@ -8471,8 +8471,8 @@ title: Different Sensuality
 type: movie
 site: sa
 url: https://www.sexart.com/model/nikki-hill-and-miss-olivia/movie/20220204/DIFFERENT_SENSUALITY
-cast: Nikki Hill; https://www.sexart.com/model/nikki-hill; g:f
-cast: Miss Olivia; https://www.sexart.com/model/miss-olivia; g:f
+model: n:Nikki Hill; id:/model/sexart/nikki-hill; u:https://www.sexart.com/model/nikki-hill; g:f
+model: n:Miss Olivia; id:/model/sexart/miss-olivia; u:https://www.sexart.com/model/miss-olivia; g:f
 released: 2022-02-04
 director: Andrej Lupin
 rating: 9.2
@@ -8533,7 +8533,7 @@ title: Girls Love Sex - The Lost Tapes Episode 1
 type: movie
 site: sa
 url: https://www.sexart.com/model/elle-alexandra/movie/20220202/GIRLS_LOVE_SEX_-_THE_LOST_TAPES_EPISODE_1
-cast: Elle Alexandra; https://www.sexart.com/model/elle-alexandra; g:f
+model: n:Elle Alexandra; id:/model/sexart/elle-alexandra; u:https://www.sexart.com/model/elle-alexandra; g:f
 released: 2022-02-02
 director: Bo Llanberris
 rating: 9.3
@@ -8582,8 +8582,8 @@ title: Flowing Together
 type: movie
 site: sa
 url: https://www.sexart.com/model/eva-brown-and-ricky/movie/20220130/FLOWING_TOGETHER
-cast: Eva Brown; https://www.sexart.com/model/eva-brown; g:f
-cast: Ricky; https://www.sexart.com/model/ricky; g:m
+model: n:Eva Brown; id:/model/sexart/eva-brown; u:https://www.sexart.com/model/eva-brown; g:f
+model: n:Ricky; id:/model/sexart/ricky; u:https://www.sexart.com/model/ricky; g:m
 released: 2022-01-30
 director: Andrej Lupin
 rating: 9.1
@@ -8640,8 +8640,8 @@ title: Fresh Morning
 type: movie
 site: sa
 url: https://www.sexart.com/model/jesus-reyes-and-antonia-sainz/movie/20220128/FRESH_MORNING
-cast: Jesus Reyes; https://www.sexart.com/model/jesus-reyes; g:m
-cast: Antonia Sainz; https://www.sexart.com/model/antonia-sainz; g:f
+model: n:Jesus Reyes; id:/model/sexart/jesus-reyes; u:https://www.sexart.com/model/jesus-reyes; g:m
+model: n:Antonia Sainz; id:/model/sexart/antonia-sainz; u:https://www.sexart.com/model/antonia-sainz; g:f
 released: 2022-01-28
 director: Andrej Lupin
 rating: 9.1
@@ -8699,7 +8699,7 @@ title: Thinking Of You
 type: movie
 site: sa
 url: https://www.sexart.com/model/jillian-janson/movie/20220126/THINKING_OF_YOU
-cast: Jillian Janson; https://www.sexart.com/model/jillian-janson; g:f
+model: n:Jillian Janson; id:/model/sexart/jillian-janson; u:https://www.sexart.com/model/jillian-janson; g:f
 released: 2022-01-26
 director: James Martinez
 rating: 9.1
@@ -8761,8 +8761,8 @@ title: Absolution
 type: movie
 site: sa
 url: https://www.sexart.com/model/angelo-godshack-and-lilly-bella/movie/20220123/ABSOLUTION
-cast: Angelo Godshack; https://www.sexart.com/model/angelo-godshack; g:m
-cast: Lilly Bella; https://www.sexart.com/model/lilly-bella; g:f
+model: n:Angelo Godshack; id:/model/sexart/angelo-godshack; u:https://www.sexart.com/model/angelo-godshack; g:m
+model: n:Lilly Bella; id:/model/sexart/lilly-bella; u:https://www.sexart.com/model/lilly-bella; g:f
 released: 2022-01-23
 director: Andrej Lupin
 rating: 9.3
@@ -8825,8 +8825,8 @@ title: All I Ask Of You
 type: movie
 site: sa
 url: https://www.sexart.com/model/ricky-and-miss-olivia/movie/20220121/ALL_I_ASK_OF_YOU
-cast: Ricky; https://www.sexart.com/model/ricky; g:m
-cast: Miss Olivia; https://www.sexart.com/model/miss-olivia; g:f
+model: n:Ricky; id:/model/sexart/ricky; u:https://www.sexart.com/model/ricky; g:m
+model: n:Miss Olivia; id:/model/sexart/miss-olivia; u:https://www.sexart.com/model/miss-olivia; g:f
 released: 2022-01-21
 director: Andrej Lupin
 rating: 8.9
@@ -8889,7 +8889,7 @@ title: Scent Of A Man
 type: movie
 site: sa
 url: https://www.sexart.com/model/paige-owens/movie/20220119/SCENT_OF_A_MAN
-cast: Paige Owens; https://www.sexart.com/model/paige-owens; g:f
+model: n:Paige Owens; id:/model/sexart/paige-owens; u:https://www.sexart.com/model/paige-owens; g:f
 released: 2022-01-19
 director: Matthew Carlton
 rating: 9.1
@@ -8898,7 +8898,7 @@ description: Gorgeous brunette Paige Owens reminisces about a passionate encount
 runtime: 10:49
 executiveProducer: MetArt Films
 producer: Bo Llanberris
-directorPhotography: Mark Howe
+directorOfPhotography: Mark Howe
 editor: Bo Llanberris
 makeupArtist: E.Q.M Hmu
 productionAssistant: King Sorrel
@@ -8938,8 +8938,8 @@ title: A Way To Love
 type: movie
 site: sa
 url: https://www.sexart.com/model/nick-moreno-and-josephine-jackson/movie/20220116/A_WAY_TO_LOVE
-cast: Nick Moreno; https://www.sexart.com/model/nick-moreno; g:m
-cast: Josephine Jackson; https://www.sexart.com/model/josephine-jackson; g:f
+model: n:Nick Moreno; id:/model/sexart/nick-moreno; u:https://www.sexart.com/model/nick-moreno; g:m
+model: n:Josephine Jackson; id:/model/sexart/josephine-jackson; u:https://www.sexart.com/model/josephine-jackson; g:f
 released: 2022-01-16
 director: Andrej Lupin
 rating: 9.3
@@ -8948,7 +8948,7 @@ description: Gorgeous brunette Paige Owens reminisces about a passionate encount
 runtime: 10:49
 executiveProducer: MetArt Films
 producer: Bo Llanberris
-directorPhotography: Mark Howe
+directorOfPhotography: Mark Howe
 editor: Bo Llanberris
 makeupArtist: E.Q.M Hmu
 productionAssistant: King Sorrel
@@ -8989,8 +8989,8 @@ title: Moment Of Decision
 type: movie
 site: sa
 url: https://www.sexart.com/model/stella-cardo-and-katy-rose/movie/20220114/MOMENT_OF_DECISION
-cast: Stella Cardo; https://www.sexart.com/model/stella-cardo; g:f
-cast: Katy Rose; https://www.sexart.com/model/katy-rose; g:f
+model: n:Stella Cardo; id:/model/sexart/stella-cardo; u:https://www.sexart.com/model/stella-cardo; g:f
+model: n:Katy Rose; id:/model/sexart/katy-rose; u:https://www.sexart.com/model/katy-rose; g:f
 released: 2022-01-14
 director: Andrej Lupin
 rating: 9.5
@@ -9054,8 +9054,8 @@ title: Love Is A Game
 type: movie
 site: sa
 url: https://www.sexart.com/model/tommy-cabrio-and-candice-demellza/movie/20220112/LOVE_IS_A_GAME
-cast: Tommy Cabrio; https://www.sexart.com/model/tommy-cabrio; g:m
-cast: Candice Demellza; https://www.sexart.com/model/candice-demellza; g:f
+model: n:Tommy Cabrio; id:/model/sexart/tommy-cabrio; u:https://www.sexart.com/model/tommy-cabrio; g:m
+model: n:Candice Demellza; id:/model/sexart/candice-demellza; u:https://www.sexart.com/model/candice-demellza; g:f
 released: 2022-01-12
 director: Andrej Lupin
 rating: 9.2
@@ -9115,8 +9115,8 @@ title: You Are Mine
 type: movie
 site: sa
 url: https://www.sexart.com/model/ricky-and-megan-venturi/movie/20220109/YOU_ARE_MINE
-cast: Ricky; https://www.sexart.com/model/ricky; g:m
-cast: Megan Venturi; https://www.sexart.com/model/megan-venturi; g:f
+model: n:Ricky; id:/model/sexart/ricky; u:https://www.sexart.com/model/ricky; g:m
+model: n:Megan Venturi; id:/model/sexart/megan-venturi; u:https://www.sexart.com/model/megan-venturi; g:f
 released: 2022-01-09
 director: Andrej Lupin
 rating: 8.9
@@ -9170,8 +9170,8 @@ title: Losing My Mind
 type: movie
 site: sa
 url: https://www.sexart.com/model/anie-darling-and-rubi-rico/movie/20220107/LOSING_MY_MIND
-cast: Anie Darling; https://www.sexart.com/model/anie-darling; g:f
-cast: Rubi Rico; https://www.sexart.com/model/rubi-rico; g:f
+model: n:Anie Darling; id:/model/sexart/anie-darling; u:https://www.sexart.com/model/anie-darling; g:f
+model: n:Rubi Rico; id:/model/sexart/rubi-rico; u:https://www.sexart.com/model/rubi-rico; g:f
 released: 2022-01-07
 director: Andrej Lupin
 rating: 9.3
@@ -9236,8 +9236,8 @@ title: She Haunts Me
 type: movie
 site: sa
 url: https://www.sexart.com/model/madi-meadows-and-ember-snow/movie/20220105/SHE_HAUNTS_ME
-cast: Madi Meadows; https://www.sexart.com/model/madi-meadows; g:f
-cast: Ember Snow; https://www.sexart.com/model/ember-snow; g:f
+model: n:Madi Meadows; id:/model/sexart/madi-meadows; u:https://www.sexart.com/model/madi-meadows; g:f
+model: n:Ember Snow; id:/model/sexart/ember-snow; u:https://www.sexart.com/model/ember-snow; g:f
 released: 2022-01-05
 director: AJ Salucci
 rating: 9.0
@@ -9246,7 +9246,7 @@ description: Gorgeous Ember Snow is dreaming of her lover, as guest director AJ 
 runtime: 14:45
 executiveProducer: MetArt Films
 producer: Bo Llanberris
-directorPhotography: Robby J
+directorOfPhotography: Robby J
 cameraOperator: Billy Wilder
 editor: Bo Llanberris
 firstAC: Logan Justice
@@ -9305,8 +9305,8 @@ title: Inner
 type: movie
 site: sa
 url: https://www.sexart.com/model/deny-lou-and-antonia-sainz/movie/20220102/INNER
-cast: Deny Lou; https://www.sexart.com/model/deny-lou; g:m
-cast: Antonia Sainz; https://www.sexart.com/model/antonia-sainz; g:f
+model: n:Deny Lou; id:/model/sexart/deny-lou; u:https://www.sexart.com/model/deny-lou; g:m
+model: n:Antonia Sainz; id:/model/sexart/antonia-sainz; u:https://www.sexart.com/model/antonia-sainz; g:f
 released: 2022-01-02
 director: Andrej Lupin
 rating: 9.1

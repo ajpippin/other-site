@@ -9,7 +9,7 @@ title: Sophie #6
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/sophie-a/movie/20001212/SOPHIE_PART_6
-cast: Sophie A; https://www.vivthomas.com/model/sophie-a; f
+model: n:Sophie A; id:/model/vivthomas/sophie-a; u:https://www.vivthomas.com/model/sophie-a; g:f
 released: 2000-12-12
 director:   Viv Thomas
 rating: 9.4
@@ -37,7 +37,7 @@ title: Sophie #5
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/sophie-a/movie/20001211/SOPHIE_PART_5
-cast: Sophie A; https://www.vivthomas.com/model/sophie-a; f
+model: n:Sophie A; id:/model/vivthomas/sophie-a; u:https://www.vivthomas.com/model/sophie-a; g:f
 released: 2000-12-11
 director:   Viv Thomas
 rating: 9.3
@@ -69,7 +69,7 @@ title: Sophie #4
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/sophie-a/movie/20001210/SOPHIE_PART_4
-cast: Sophie A; https://www.vivthomas.com/model/sophie-a; f
+model: n:Sophie A; id:/model/vivthomas/sophie-a; u:https://www.vivthomas.com/model/sophie-a; g:f
 released: 2000-12-10
 director:   Viv Thomas
 rating: 9.0
@@ -94,7 +94,7 @@ title: Sophie #3
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/sophie-a/movie/20001209/SOPHIE_PART_3
-cast: Sophie A; https://www.vivthomas.com/model/sophie-a; f
+model: n:Sophie A; id:/model/vivthomas/sophie-a; u:https://www.vivthomas.com/model/sophie-a; g:f
 released: 2000-12-09
 director:   Viv Thomas
 rating: 9.1
@@ -126,7 +126,7 @@ title: Sophie #2
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/sophie-a/movie/20001208/SOPHIE_PART_2
-cast: Sophie A; https://www.vivthomas.com/model/sophie-a; f
+model: n:Sophie A; id:/model/vivthomas/sophie-a; u:https://www.vivthomas.com/model/sophie-a; g:f
 released: 2000-12-08
 director:   Viv Thomas
 rating: 9.3

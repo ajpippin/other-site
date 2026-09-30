@@ -9,8 +9,8 @@ title: Tease Me
 type: movie
 site: sa
 url: https://www.sexart.com/model/thomas-lee-and-liona-b/movie/20131229/TEASE_ME
-cast: Thomas Lee; https://www.sexart.com/model/thomas-lee; g:m
-cast: Liona B; https://www.sexart.com/model/liona-b; g:f
+model: n:Thomas Lee; id:/model/sexart/thomas-lee; u:https://www.sexart.com/model/thomas-lee; g:m
+model: n:Liona B; id:/model/sexart/liona-b; u:https://www.sexart.com/model/liona-b; g:f
 released: 2013-12-29
 director: Andrej Lupin
 rating: 9.1
@@ -23,7 +23,7 @@ description: With a haunting soundtrack in the background and soft, diffused lig
 runtime: 17:08
 executiveProducer: MetArt Films
 producer: Ariel Piper Fawn
-directorPhotography: Andrej Lupin
+directorOfPhotography: Andrej Lupin
 cinematographer: John Humble
 stillPhotographer: David Jones
 editor: Andrej Lupin, Adele Hollis
@@ -71,8 +71,8 @@ title: Vintage Collection - Cherished Love
 type: movie
 site: sa
 url: https://www.sexart.com/model/jenny-simons-and-suzie-carina/movie/20131227/VINTAGE_COLLECTION_-_CHERISHED_LOVE
-cast: Jenny Simons; https://www.sexart.com/model/jenny-simons; g:f
-cast: Suzie Carina; https://www.sexart.com/model/suzie-carina; g:f
+model: n:Jenny Simons; id:/model/sexart/jenny-simons; u:https://www.sexart.com/model/jenny-simons; g:f
+model: n:Suzie Carina; id:/model/sexart/suzie-carina; u:https://www.sexart.com/model/suzie-carina; g:f
 released: 2013-12-27
 director: Andrej Lupin
 rating: 9.0
@@ -85,7 +85,7 @@ description: After presenting a boy/girl couple scene and then a steamy solo fem
 runtime: 24:09
 executiveProducer: MetArt Films
 producer: Ariel Piper Fawn
-directorPhotography: Andrej Lupin
+directorOfPhotography: Andrej Lupin
 cinematographer: John Humble
 cameraOperator: David Kocian
 stillPhotographer: David Jones
@@ -139,7 +139,7 @@ title: Lost in a Dream #1
 type: movie
 site: sa
 url: https://www.sexart.com/model/melena-a/movie/20131225/LOST_IN_A_DREAM_-_VOL_1
-cast: Melena A; https://www.sexart.com/model/melena-a; g:f
+model: n:Melena A; id:/model/sexart/melena-a; u:https://www.sexart.com/model/melena-a; g:f
 released: 2013-12-25
 director: Alis Locanta
 rating: 9.5
@@ -152,7 +152,7 @@ description: Melena A has appeared in eight Sexart erotic still photo galleries 
 runtime: 17:29
 executiveProducer: MetArt Films
 producer: Tony Intropido
-directorPhotography: Alis Locanta
+directorOfPhotography: Alis Locanta
 cameraOperator: Duliamo Ergacia, Jorge Villalobos
 stillPhotographer: Duliamo Ergacia
 editor: Alis Locanta
@@ -198,8 +198,8 @@ title: Finish Me
 type: movie
 site: sa
 url: https://www.sexart.com/model/eveline-neill-and-marcel-lee/movie/20131222/FINISH_ME
-cast: Eveline Neill; https://www.sexart.com/model/eveline-neill; g:f
-cast: Marcel Lee; https://www.sexart.com/model/marcel-lee; g:m
+model: n:Eveline Neill; id:/model/sexart/eveline-neill; u:https://www.sexart.com/model/eveline-neill; g:f
+model: n:Marcel Lee; id:/model/sexart/marcel-lee; u:https://www.sexart.com/model/marcel-lee; g:m
 released: 2013-12-22
 director: Andrej Lupin
 rating: 9.0
@@ -212,7 +212,7 @@ description: It begins with a beautiful woman, alone, in the comfort and solitud
 runtime: 18:11
 executiveProducer: MetArt Films
 producer: Ariel Piper Fawn
-directorPhotography: Andrej Lupin
+directorOfPhotography: Andrej Lupin
 cinematographer: John Humble
 stillPhotographer: David Jones
 editor: Andrej Lupin, David Kocian, Adele Hollis
@@ -259,8 +259,8 @@ title: Before The Exam
 type: movie
 site: sa
 url: https://www.sexart.com/model/layla-black-and-whitney-conroy/movie/20131220/BEFORE_THE_EXAM
-cast: Layla Black; https://www.sexart.com/model/layla-black; g:f
-cast: Whitney Conroy; https://www.sexart.com/model/whitney-conroy; g:f
+model: n:Layla Black; id:/model/sexart/layla-black; u:https://www.sexart.com/model/layla-black; g:f
+model: n:Whitney Conroy; id:/model/sexart/whitney-conroy; u:https://www.sexart.com/model/whitney-conroy; g:f
 released: 2013-12-20
 director: Andrej Lupin
 rating: 9.2
@@ -273,7 +273,7 @@ description: Surrounded by text books, lecture notes, and research materials, Wh
 runtime: 18:18
 executiveProducer: MetArt Films
 producer: Ariel Piper Fawn
-directorPhotography: Andrej Lupin
+directorOfPhotography: Andrej Lupin
 cinematographer: John Humble
 cameraOperator: David Kocian
 stillPhotographer: David Jones
@@ -319,7 +319,7 @@ title: Vintage Collection - Only Me
 type: movie
 site: sa
 url: https://www.sexart.com/model/ariel-piper-fawn/movie/20131218/VINTAGE_COLLECTION_-_ONLY_ME
-cast: Ariel Piper Fawn; https://www.sexart.com/model/ariel-piper-fawn; g:f
+model: n:Ariel Piper Fawn; id:/model/sexart/ariel-piper-fawn; u:https://www.sexart.com/model/ariel-piper-fawn; g:f
 released: 2013-12-18
 director: Andrej Lupin
 rating: 9.5
@@ -332,7 +332,7 @@ description: The second installment of Andrej Lupin's newest series, "Vintage Co
 runtime: 16:03
 executiveProducer: MetArt Films
 producer: Ariel Piper Fawn
-directorPhotography: Andrej Lupin
+directorOfPhotography: Andrej Lupin
 cinematographer: John Humble
 cameraOperator: David Kocian
 stillPhotographer: David Jones
@@ -378,8 +378,8 @@ title: Hielo Caliente
 type: movie
 site: sa
 url: https://www.sexart.com/model/lorena-b-and-brandy-a/movie/20131215/HIELO_CALIENTE
-cast: Lorena B; https://www.sexart.com/model/lorena-b; g:f
-cast: Brandy A; https://www.sexart.com/model/brandy-a; g:f
+model: n:Lorena B; id:/model/sexart/lorena-b; u:https://www.sexart.com/model/lorena-b; g:f
+model: n:Brandy A; id:/model/sexart/brandy-a; u:https://www.sexart.com/model/brandy-a; g:f
 released: 2013-12-15
 director: Don Caravaggio
 rating: 9.5
@@ -391,7 +391,7 @@ fileprefix: SexArt-20131215-Hielo-Caliente-
 description: Don Caravaggio's "Hielo Caliente" begins on a somewhat mysterious note. We see a shadow on a wall of a woman hard at work in a dimly lit room. Only after the camera pulls back do we see that it's Metart's exclusive supermodel Lorena B, and that she's chipping away at chunks of ice. After placing the chips in a metal bowl she joins blonde Brandy A on a low sofa and the seduction "Hielo Caliente" beings. The pace here is deliberately measured — Lorena takes her sweet time teasing Brandy, rubbing and caressing her skin with pieces of rapidly melting ice — and any tiny bit of resistance Brandy may have felt towards Lorena's sexual aggression melts every bit as rapidly. But, just as ice turns into water, the sexual temperature of this lesbian liaison transitions from casual to carnal quickly. While the introduction may be leisurely, once the action has reached a full boil it is particularly vigorous, energetic, ravenous, and uninhibited. The ice is a clever and seductive device, but the raw lesbian heat so artfully and explicitly captured here is the heart and soul of this Sexart feature.
 runtime: 23:53
 executiveProducer: MetArt Films
-directorPhotography: Jean Baptiste
+directorOfPhotography: Jean Baptiste
 cameraOperator: Gui Avon
 editor: Don Caravaggio, Lorena B
 tag: beauty mark
@@ -444,10 +444,10 @@ title: Siesta
 type: movie
 site: sa
 url: https://www.sexart.com/model/mima-a-and-thomas-lee-and-matt-ice-and-victoria-blaze/movie/20131213/SIESTA
-cast: Mima A; https://www.sexart.com/model/mima-a; g:f
-cast: Thomas Lee; https://www.sexart.com/model/thomas-lee; g:m
-cast: Matt Ice; https://www.sexart.com/model/matt-ice; g:m
-cast: Victoria Blaze; https://www.sexart.com/model/victoria-blaze; g:f
+model: n:Mima A; id:/model/sexart/mima-a; u:https://www.sexart.com/model/mima-a; g:f
+model: n:Thomas Lee; id:/model/sexart/thomas-lee; u:https://www.sexart.com/model/thomas-lee; g:m
+model: n:Matt Ice; id:/model/sexart/matt-ice; u:https://www.sexart.com/model/matt-ice; g:m
+model: n:Victoria Blaze; id:/model/sexart/victoria-blaze; u:https://www.sexart.com/model/victoria-blaze; g:f
 released: 2013-12-13
 director: Andrej Lupin
 rating: 9.1
@@ -459,7 +459,7 @@ fileprefix: SexArt-20131213-Siesta-
 description: Two couples — Mima A with Matt Ice and Victoria Blaze with Thomas Lee — stroll through what looks like a Mediterranean resort on a balmy afternoon. The setting, their casual clothing, and the cheerful mood suggests they're enjoying a summer vacation together. They gather on a large outdoor sofa shaded by a canopy and chat amiably. With a bit of urging the girl share a kiss, and then another — in short order the two twosomes have paired off and the action only accelerates from there. Mima is the first to doff her top and she then begins sucking Matt's cock. Thomas Lee proceeds to dive down on Victoria, stripping off her white panties and munching eagerly on her beautiful box. An extended session of side-by side screwing follows, in a variety of positions, all with abundant pace and passion. As Andrej Lupin's film nears its conclusion the men assume seated positions, the women sit astride them — reverse cowgirl style — and ride energetically to a final foursome of fevered orgasms. The Spanish word may mean "rest or nap," but there's not a single sleepy second in this sizzling "Siesta."
 runtime: 20:44
 producer: Ariel Piper Fawn
-directorPhotography: Andrej Lupin
+directorOfPhotography: Andrej Lupin
 cinematographer: John Humble
 cameraOperator: David Jones, David Kocian
 stillPhotographer: David Jones
@@ -509,7 +509,7 @@ title: Creativity
 type: movie
 site: sa
 url: https://www.sexart.com/model/lauren-crist/movie/20131211/CREATIVITY
-cast: Lauren Crist; https://www.sexart.com/model/lauren-crist; g:f
+model: n:Lauren Crist; id:/model/sexart/lauren-crist; u:https://www.sexart.com/model/lauren-crist; g:f
 released: 2013-12-11
 director: Andrej Lupin
 rating: 9.3
@@ -522,7 +522,7 @@ description: Lauren Crist, a blue-eyed brunette beauty, makes her Sexart debut i
 runtime: 14:22
 executiveProducer: MetArt Films
 producer: Ariel Piper Fawn
-directorPhotography: Andrej Lupin
+directorOfPhotography: Andrej Lupin
 cinematographer: John Humble
 cameraOperator: David Jones, David Kocian
 stillPhotographer: David Jones
@@ -559,8 +559,8 @@ title: Don't Say Goodbye
 type: movie
 site: sa
 url: https://www.sexart.com/model/gina-gerson-and-thomas-lee/movie/20131208/DON_T_SAY_GOODBYE
-cast: Gina Gerson; https://www.sexart.com/model/gina-gerson; g:f
-cast: Thomas Lee; https://www.sexart.com/model/thomas-lee; g:m
+model: n:Gina Gerson; id:/model/sexart/gina-gerson; u:https://www.sexart.com/model/gina-gerson; g:f
+model: n:Thomas Lee; id:/model/sexart/thomas-lee; u:https://www.sexart.com/model/thomas-lee; g:m
 released: 2013-12-08
 director: Andrej Lupin
 rating: 9.3
@@ -573,7 +573,7 @@ description: Andrej Lupin's "Don't Say Goodbye" begins on a somber note. A young
 runtime: 15:32
 executiveProducer: MetArt Films
 producer: Ariel Piper Fawn
-directorPhotography: Andrej Lupin
+directorOfPhotography: Andrej Lupin
 cinematographer: John Humble
 cameraOperator: David Kocian
 stillPhotographer: David Jones
@@ -616,8 +616,8 @@ title: Gira La Moda
 type: movie
 site: sa
 url: https://www.sexart.com/model/jenny-appach-and-tea-jul/movie/20131206/GIRA_LA_MODA
-cast: Jenny Appach; https://www.sexart.com/model/jenny-appach; g:f
-cast: Tea Jul; https://www.sexart.com/model/tea-jul; g:f
+model: n:Jenny Appach; id:/model/sexart/jenny-appach; u:https://www.sexart.com/model/jenny-appach; g:f
+model: n:Tea Jul; id:/model/sexart/tea-jul; u:https://www.sexart.com/model/tea-jul; g:f
 released: 2013-12-06
 director: Alis Locanta
 rating: 9.2
@@ -630,7 +630,7 @@ description: Director Alis Locanta's latest foray into femme-to-femme eroticism 
 runtime: 23:33
 executiveProducer: MetArt Films
 producer: Tony Intropido
-directorPhotography: Alis Locanta
+directorOfPhotography: Alis Locanta
 cameraOperator: Duliamo Ergacia, Jorge Villalobos
 stillPhotographer: Duliamo Ergacia
 editor: Alis Locanta
@@ -691,7 +691,7 @@ title: Hangover
 type: movie
 site: sa
 url: https://www.sexart.com/model/flora/movie/20131204/HANGOVER
-cast: Flora; https://www.sexart.com/model/flora; g:f
+model: n:Flora; id:/model/sexart/flora; u:https://www.sexart.com/model/flora; g:f
 released: 2013-12-04
 director: Alis Locanta
 rating: 9.3
@@ -704,7 +704,7 @@ description: Italy's Agatha, who made her Sexart debut in Alis Locanta's "About 
 runtime: 12:19
 executiveProducer: MetArt Films
 producer: Tony Intropido
-directorPhotography: Alis Locanta
+directorOfPhotography: Alis Locanta
 cameraOperator: Duliamo Ergacia, Jorge Villalobos
 editor: Alis Locanta
 costumeDesigner: Eva Dividendo
@@ -747,8 +747,8 @@ title: Vintage Collection - The Photographer
 type: movie
 site: sa
 url: https://www.sexart.com/model/victoria-daniels-and-kristof-cale/movie/20131201/VINTAGE_COLLECTION_-_THE_PHOTOGRAPHER
-cast: Victoria Daniels; https://www.sexart.com/model/victoria-daniels; g:f
-cast: Kristof Cale; https://www.sexart.com/model/kristof-cale; g:m
+model: n:Victoria Daniels; id:/model/sexart/victoria-daniels; u:https://www.sexart.com/model/victoria-daniels; g:f
+model: n:Kristof Cale; id:/model/sexart/kristof-cale; u:https://www.sexart.com/model/kristof-cale; g:m
 released: 2013-12-01
 director: Andrej Lupin
 rating: 9.4
@@ -761,7 +761,7 @@ description: Victoria Daniels makes her Sexart HD movie debut in "Vintage Collec
 runtime: 24:41
 executiveProducer: MetArt Films
 producer: Ariel Piper Fawn
-directorPhotography: Andrej Lupin
+directorOfPhotography: Andrej Lupin
 cinematographer: John Humble
 cameraOperator: David Kocian
 stillPhotographer: David Jones
@@ -819,8 +819,8 @@ title: 2Girls Show
 type: movie
 site: sa
 url: https://www.sexart.com/model/kari-a-and-gina-devine/movie/20131129/2GIRLS_SHOW
-cast: Kari A; https://www.sexart.com/model/kari-a; g:f
-cast: Gina Devine; https://www.sexart.com/model/gina-devine; g:f
+model: n:Kari A; id:/model/sexart/kari-a; u:https://www.sexart.com/model/kari-a; g:f
+model: n:Gina Devine; id:/model/sexart/gina-devine; u:https://www.sexart.com/model/gina-devine; g:f
 released: 2013-11-29
 director: Alis Locanta
 rating: 8.9
@@ -881,7 +881,7 @@ title: Inspiration
 type: movie
 site: sa
 url: https://www.sexart.com/model/whitney-conroy/movie/20131127/INSPIRATION
-cast: Whitney Conroy; https://www.sexart.com/model/whitney-conroy; g:f
+model: n:Whitney Conroy; id:/model/sexart/whitney-conroy; u:https://www.sexart.com/model/whitney-conroy; g:f
 released: 2013-11-27
 director: Andrej Lupin
 rating: 9.1
@@ -894,7 +894,7 @@ description: If the mood and circumstance are agreeable, it doesn't take much to
 runtime: 12:21
 executiveProducer: MetArt Films
 producer: Ariel Piper Fawn
-directorPhotography: Andrej Lupin
+directorOfPhotography: Andrej Lupin
 cinematographer: John Humble
 cameraOperator: David Kocian
 stillPhotographer: David Jones
@@ -935,13 +935,13 @@ title: The Game VIII - Winner Takes All
 type: movie
 site: sa
 url: https://www.sexart.com/model/isabella-chrystin-and-alexis-crystal-and-alissia-loop-and-carla-cox-and-lena-love-and-silvie-deluxe-and-thomas-lee/movie/20131124/THE_GAME_VIII_-_WINNER_TAKES_ALL
-cast: Isabella Chrystin; https://www.sexart.com/model/isabella-chrystin; g:f
-cast: Alexis Crystal; https://www.sexart.com/model/alexis-crystal; g:f
-cast: Alissia Loop; https://www.sexart.com/model/alissia-loop; g:f
-cast: Carla Cox; https://www.sexart.com/model/carla-cox; g:f
-cast: Lena Love; https://www.sexart.com/model/lena-love; g:f
-cast: Silvie Deluxe; https://www.sexart.com/model/silvie-deluxe; g:f
-cast: Thomas Lee; https://www.sexart.com/model/thomas-lee; g:m
+model: n:Isabella Chrystin; id:/model/sexart/isabella-chrystin; u:https://www.sexart.com/model/isabella-chrystin; g:f
+model: n:Alexis Crystal; id:/model/sexart/alexis-crystal; u:https://www.sexart.com/model/alexis-crystal; g:f
+model: n:Alissia Loop; id:/model/sexart/alissia-loop; u:https://www.sexart.com/model/alissia-loop; g:f
+model: n:Carla Cox; id:/model/sexart/carla-cox; u:https://www.sexart.com/model/carla-cox; g:f
+model: n:Lena Love; id:/model/sexart/lena-love; u:https://www.sexart.com/model/lena-love; g:f
+model: n:Silvie Deluxe; id:/model/sexart/silvie-deluxe; u:https://www.sexart.com/model/silvie-deluxe; g:f
+model: n:Thomas Lee; id:/model/sexart/thomas-lee; u:https://www.sexart.com/model/thomas-lee; g:m
 released: 2013-11-24
 director: Andrej Lupin
 rating: 9.2
@@ -954,7 +954,7 @@ description: After the head-spinning surprises delivered at the end of the previ
 runtime: 28:25
 executiveProducer: MetArt Films
 producer: Ariel Piper Fawn, Mishak
-directorPhotography: Andrej Lupin
+directorOfPhotography: Andrej Lupin
 cinematographer: John Humble
 cameraOperator: Andie Cooper, John Jaros
 stillPhotographer: David Jones
@@ -1031,7 +1031,7 @@ title: Little Story III
 type: movie
 site: sa
 url: https://www.sexart.com/model/candy-alexa/movie/20131122/LITTLE_STORY_III
-cast: Candy Alexa; https://www.sexart.com/model/candy-alexa; g:f
+model: n:Candy Alexa; id:/model/sexart/candy-alexa; u:https://www.sexart.com/model/candy-alexa; g:f
 released: 2013-11-22
 director: Andrej Lupin
 rating: 9.0
@@ -1044,7 +1044,7 @@ description: The "Little Story" saga gets a little bit bigger with "Little Story
 runtime: 11:30
 executiveProducer: MetArt Films
 producer: Ariel Piper Fawn
-directorPhotography: Andrej Lupin
+directorOfPhotography: Andrej Lupin
 cinematographer: John Humble
 cameraOperator: David Kocian
 stillPhotographer: David Jones
@@ -1103,8 +1103,8 @@ title: eMemories #1
 type: movie
 site: sa
 url: https://www.sexart.com/model/nataly-von-and-alexis-brill/movie/20131120/EMEMORIES
-cast: Nataly Von; https://www.sexart.com/model/nataly-von; g:f
-cast: Alexis Brill; https://www.sexart.com/model/alexis-brill; g:f
+model: n:Nataly Von; id:/model/sexart/nataly-von; u:https://www.sexart.com/model/nataly-von; g:f
+model: n:Alexis Brill; id:/model/sexart/alexis-brill; u:https://www.sexart.com/model/alexis-brill; g:f
 released: 2013-11-20
 director: Alis Locanta
 rating: 9.3
@@ -1117,7 +1117,7 @@ description: Inspired by the photos and videos on a smartphone, Alis Locanta's "
 runtime: 19:53
 executiveProducer: MetArt Films
 producer: Tony Intropido
-directorPhotography: Alis Locanta
+directorOfPhotography: Alis Locanta
 cameraOperator: Jorge Villalobos, Duliamo Ergacia
 editor: Alis Locanta
 costumeDesigner: Eva Dividendo
@@ -1173,14 +1173,14 @@ title: The Game VII - Battle
 type: movie
 site: sa
 url: https://www.sexart.com/model/alexis-crystal-and-isabella-chrystin-and-silvie-deluxe-and-thomas-lee-and-carla-cox-and-alissia-loop-and-thomas-hyka-and-lena-love/movie/20131117/THE_GAME_VII_-_BATTLE
-cast: Alexis Crystal; https://www.sexart.com/model/alexis-crystal; g:f
-cast: Isabella Chrystin; https://www.sexart.com/model/isabella-chrystin; g:f
-cast: Silvie Deluxe; https://www.sexart.com/model/silvie-deluxe; g:f
-cast: Thomas Lee; https://www.sexart.com/model/thomas-lee; g:m
-cast: Carla Cox; https://www.sexart.com/model/carla-cox; g:f
-cast: Alissia Loop; https://www.sexart.com/model/alissia-loop; g:f
-cast: Thomas Hyka; https://www.sexart.com/model/thomas-hyka; g:m
-cast: Lena Love; https://www.sexart.com/model/lena-love; g:f
+model: n:Alexis Crystal; id:/model/sexart/alexis-crystal; u:https://www.sexart.com/model/alexis-crystal; g:f
+model: n:Isabella Chrystin; id:/model/sexart/isabella-chrystin; u:https://www.sexart.com/model/isabella-chrystin; g:f
+model: n:Silvie Deluxe; id:/model/sexart/silvie-deluxe; u:https://www.sexart.com/model/silvie-deluxe; g:f
+model: n:Thomas Lee; id:/model/sexart/thomas-lee; u:https://www.sexart.com/model/thomas-lee; g:m
+model: n:Carla Cox; id:/model/sexart/carla-cox; u:https://www.sexart.com/model/carla-cox; g:f
+model: n:Alissia Loop; id:/model/sexart/alissia-loop; u:https://www.sexart.com/model/alissia-loop; g:f
+model: n:Thomas Hyka; id:/model/sexart/thomas-hyka; u:https://www.sexart.com/model/thomas-hyka; g:m
+model: n:Lena Love; id:/model/sexart/lena-love; u:https://www.sexart.com/model/lena-love; g:f
 released: 2013-11-17
 director: Andrej Lupin
 rating: 8.8
@@ -1192,7 +1192,7 @@ fileprefix: SexArt-20131117-The-Game-07--Battle-
 description: Sexart director Andrej Lupin's epic erotic action-adventure saga "The Game" reaches its conclusion in Episode VII, subtitled "Battle." And it more than lives up to that name in the opening minutes. As with every previous installment, "The Game VII — Battle" includes elements of intrigue, suspense, and more than a few surprises. And, as the hostage drama careens toward an unanticipated shocker of a surprise ending, there's also a fevered interlude of explicit, passionate sex. At the end of the previous episode Alissia Loop had been left tied to a tree in the desolate forest after being ravaged by blonde warrior Carla Cox. Now it's another beautiful blonde, Lena Love, who stumbles upon her dark-haired comrade, frees her from her bonds, and then seduces her. While the strategy and intrigue of "The Game" is still unfolding in the distance, the two sexy soldiers take a break from the cut and thrust of woodland warfare to enjoy a lesbian interlude with all the trimmings. In keeping with other episodes of the series, "The Game VII — Battle" proves that camouflage, cunnilingus, and abundant orgasms can be an incredibly powerful combination!
 runtime: 22:22
 producer: Ariel Piper Fawn, Mishak
-directorPhotography: Andrej Lupin
+directorOfPhotography: Andrej Lupin
 cinematographer: John Humble
 cameraOperator: Andie Cooper, John Jaros
 stillPhotographer: David Jones
@@ -1258,8 +1258,8 @@ title: Love Beats
 type: movie
 site: sa
 url: https://www.sexart.com/model/matt-ice-and-victoria-blaze/movie/20131115/LOVE_BEATS
-cast: Matt Ice; https://www.sexart.com/model/matt-ice; g:m
-cast: Victoria Blaze; https://www.sexart.com/model/victoria-blaze; g:f
+model: n:Matt Ice; id:/model/sexart/matt-ice; u:https://www.sexart.com/model/matt-ice; g:m
+model: n:Victoria Blaze; id:/model/sexart/victoria-blaze; u:https://www.sexart.com/model/victoria-blaze; g:f
 released: 2013-11-15
 director: Andrej Lupin
 rating: 9.0
@@ -1273,7 +1273,7 @@ runtime: 20:33
 writer: Ariel Piper Fawn
 executiveProducer: MetArt Films
 producer: Ariel Piper Fawn
-directorPhotography: Andrej Lupin
+directorOfPhotography: Andrej Lupin
 cinematographer: John Humble
 cameraOperator: David Kocian
 stillPhotographer: David Jones
@@ -1320,8 +1320,8 @@ title: Little Story II
 type: movie
 site: sa
 url: https://www.sexart.com/model/candy-alexa-and-linda-sweet/movie/20131113/LITTLE_STORY_II
-cast: Candy Alexa; https://www.sexart.com/model/candy-alexa; g:f
-cast: Linda Sweet; https://www.sexart.com/model/linda-sweet; g:f
+model: n:Candy Alexa; id:/model/sexart/candy-alexa; u:https://www.sexart.com/model/candy-alexa; g:f
+model: n:Linda Sweet; id:/model/sexart/linda-sweet; u:https://www.sexart.com/model/linda-sweet; g:f
 released: 2013-11-13
 director: Andrej Lupin
 rating: 9.2
@@ -1334,7 +1334,7 @@ description: After a leisurely morning spent pampering and primping — and mast
 runtime: 19:58
 executiveProducer: MetArt Films
 producer: Ariel Piper Fawn
-directorPhotography: Andrej Lupin
+directorOfPhotography: Andrej Lupin
 cinematographer: John Humble
 cameraOperator: Andie Cooper, John Jaros
 stillPhotographer: David Jones
@@ -1388,14 +1388,14 @@ title: The Game VI - Contact
 type: movie
 site: sa
 url: https://www.sexart.com/model/alissia-loop-and-carla-cox-and-silvie-deluxe-and-alexis-crystal-and-thomas-hyka-and-lena-love-and-thomas-lee-and-isabella-chrystin/movie/20131110/THE_GAME_VI_-_CONTACT
-cast: Alissia Loop; https://www.sexart.com/model/alissia-loop; g:f
-cast: Carla Cox; https://www.sexart.com/model/carla-cox; g:f
-cast: Silvie Deluxe; https://www.sexart.com/model/silvie-deluxe; g:f
-cast: Alexis Crystal; https://www.sexart.com/model/alexis-crystal; g:f
-cast: Thomas Hyka; https://www.sexart.com/model/thomas-hyka; g:m
-cast: Lena Love; https://www.sexart.com/model/lena-love; g:f
-cast: Thomas Lee; https://www.sexart.com/model/thomas-lee; g:m
-cast: Isabella Chrystin; https://www.sexart.com/model/isabella-chrystin; g:f
+model: n:Alissia Loop; id:/model/sexart/alissia-loop; u:https://www.sexart.com/model/alissia-loop; g:f
+model: n:Carla Cox; id:/model/sexart/carla-cox; u:https://www.sexart.com/model/carla-cox; g:f
+model: n:Silvie Deluxe; id:/model/sexart/silvie-deluxe; u:https://www.sexart.com/model/silvie-deluxe; g:f
+model: n:Alexis Crystal; id:/model/sexart/alexis-crystal; u:https://www.sexart.com/model/alexis-crystal; g:f
+model: n:Thomas Hyka; id:/model/sexart/thomas-hyka; u:https://www.sexart.com/model/thomas-hyka; g:m
+model: n:Lena Love; id:/model/sexart/lena-love; u:https://www.sexart.com/model/lena-love; g:f
+model: n:Thomas Lee; id:/model/sexart/thomas-lee; u:https://www.sexart.com/model/thomas-lee; g:m
+model: n:Isabella Chrystin; id:/model/sexart/isabella-chrystin; u:https://www.sexart.com/model/isabella-chrystin; g:f
 released: 2013-11-10
 director: Andrej Lupin
 rating: 9.0
@@ -1407,7 +1407,7 @@ fileprefix: SexArt-20131110-The-Game-06--Contact-
 description: Episode 6 in Andrej Lupin's military erotic action-adventure Sexart series "The Game" is subtitled "Contact." And that's an understatement! As foreshadowed in the final seconds of the previous installment, two soldiers from opposing sides in this intriguing conflict are engaged in hand-to-hand combat. We soon learn that the comely combatants are dark-haired Alissia Loop and blonde Carla Cox, and that Loop is winning this particular battle. But rather than deliver the final blow in this fight to the death in the forest, Loop stops strangling and begins seducing her enemy. Cox and can't resist Loop's aggressive advances and when Alissia begins ravenously sucking and licking Carla's pussy she's rendered helpless and swept away on the tides of pleasure summoned by Loop's tongue. Alissia isn't only good at giving pleasure, she's quite skilled at taking it, as she proves when she strips off her pants and firmly plants her shaved pussy on Carla's open mouth. As moans of delight fill the sun-dappled clearing power shifts and positions change. Soon Cox is sitting on Loop's face and riding to her own orgasmic finish...and yet another intriguing plot development. "The Game VI — Contact" adds scorching lesbian heat to an already incendiary series.
 runtime: 23:57
 writer: Ariel Piper Fawn, Mishak
-directorPhotography: Andrej Lupin
+directorOfPhotography: Andrej Lupin
 cinematographer: John Humble
 cameraOperator: John Jaros, Andie Cooper
 stillPhotographer: David Jones
@@ -1467,7 +1467,7 @@ title: Little Story
 type: movie
 site: sa
 url: https://www.sexart.com/model/linda-sweet/movie/20131108/LITTLE_STORY
-cast: Linda Sweet; https://www.sexart.com/model/linda-sweet; g:f
+model: n:Linda Sweet; id:/model/sexart/linda-sweet; u:https://www.sexart.com/model/linda-sweet; g:f
 released: 2013-11-08
 director: Andrej Lupin
 rating: 9.2
@@ -1481,7 +1481,7 @@ runtime: 15:09
 writer: Ariel Piper Fawn
 executiveProducer: MetArt Films
 producer: Ariel Piper Fawn
-directorPhotography: Andrej Lupin
+directorOfPhotography: Andrej Lupin
 cinematographer: John Humble
 cameraOperator: David Kocian
 stillPhotographer: David Jones
@@ -1528,8 +1528,8 @@ title: A Love Journey
 type: movie
 site: sa
 url: https://www.sexart.com/model/tea-jul-and-candy-wais/movie/20131106/A_LOVE_JOURNEY
-cast: Tea Jul; https://www.sexart.com/model/tea-jul; g:f
-cast: Candy Wais; https://www.sexart.com/model/candy-wais; g:f
+model: n:Tea Jul; id:/model/sexart/tea-jul; u:https://www.sexart.com/model/tea-jul; g:f
+model: n:Candy Wais; id:/model/sexart/candy-wais; u:https://www.sexart.com/model/candy-wais; g:f
 released: 2013-11-06
 director: Alis Locanta
 rating: 9.1
@@ -1542,7 +1542,7 @@ description: Alis Locanta's "A Love Journey" explodes onto the screen without pr
 runtime: 16:59
 executiveProducer: MetArt Films
 producer: Tony Intropido
-directorPhotography: Alis Locanta
+directorOfPhotography: Alis Locanta
 cameraOperator: Duliamo Ergacia, Jorge Villalobos
 stillPhotographer: Duliamo Ergacia
 editor: Alis Locanta
@@ -1600,14 +1600,14 @@ title: The Game V - Watch Your Back
 type: movie
 site: sa
 url: https://www.sexart.com/model/alexis-crystal-and-lena-love-and-thomas-lee-and-carla-cox-and-isabella-chrystin-and-alissia-loop-and-silvie-deluxe-and-thomas-hyka/movie/20131103/THE_GAME_V_-_WATCH_YOUR_BACK
-cast: Alexis Crystal; https://www.sexart.com/model/alexis-crystal; g:f
-cast: Lena Love; https://www.sexart.com/model/lena-love; g:f
-cast: Thomas Lee; https://www.sexart.com/model/thomas-lee; g:m
-cast: Carla Cox; https://www.sexart.com/model/carla-cox; g:f
-cast: Isabella Chrystin; https://www.sexart.com/model/isabella-chrystin; g:f
-cast: Alissia Loop; https://www.sexart.com/model/alissia-loop; g:f
-cast: Silvie Deluxe; https://www.sexart.com/model/silvie-deluxe; g:f
-cast: Thomas Hyka; https://www.sexart.com/model/thomas-hyka; g:m
+model: n:Alexis Crystal; id:/model/sexart/alexis-crystal; u:https://www.sexart.com/model/alexis-crystal; g:f
+model: n:Lena Love; id:/model/sexart/lena-love; u:https://www.sexart.com/model/lena-love; g:f
+model: n:Thomas Lee; id:/model/sexart/thomas-lee; u:https://www.sexart.com/model/thomas-lee; g:m
+model: n:Carla Cox; id:/model/sexart/carla-cox; u:https://www.sexart.com/model/carla-cox; g:f
+model: n:Isabella Chrystin; id:/model/sexart/isabella-chrystin; u:https://www.sexart.com/model/isabella-chrystin; g:f
+model: n:Alissia Loop; id:/model/sexart/alissia-loop; u:https://www.sexart.com/model/alissia-loop; g:f
+model: n:Silvie Deluxe; id:/model/sexart/silvie-deluxe; u:https://www.sexart.com/model/silvie-deluxe; g:f
+model: n:Thomas Hyka; id:/model/sexart/thomas-hyka; u:https://www.sexart.com/model/thomas-hyka; g:m
 released: 2013-11-03
 director: Andrej Lupin
 rating: 8.9
@@ -1619,7 +1619,7 @@ description: The action and intrigue of Andrej Lupin's "The Game" series continu
 runtime: 21:24
 writer: Ariel Piper Fawn, Mishak
 producer: Ariel Piper Fawn
-directorPhotography: Andrej Lupin
+directorOfPhotography: Andrej Lupin
 cinematographer: John Humble
 cameraOperator: Andie Cooper, John Jaros
 stillPhotographer: David Jones
@@ -1677,9 +1677,9 @@ title: Halloween Party II
 type: movie
 site: sa
 url: https://www.sexart.com/model/iwia-a-and-alexis-brill-and-dido-a/movie/20131101/HALLOWEEN_PARTY_II
-cast: Iwia A; https://www.sexart.com/model/iwia-a; g:f
-cast: Alexis Brill; https://www.sexart.com/model/alexis-brill; g:f
-cast: Dido A; https://www.sexart.com/model/dido-a; g:f
+model: n:Iwia A; id:/model/sexart/iwia-a; u:https://www.sexart.com/model/iwia-a; g:f
+model: n:Alexis Brill; id:/model/sexart/alexis-brill; u:https://www.sexart.com/model/alexis-brill; g:f
+model: n:Dido A; id:/model/sexart/dido-a; u:https://www.sexart.com/model/dido-a; g:f
 released: 2013-11-01
 director: Alis Locanta
 rating: 9.3
@@ -1692,7 +1692,7 @@ description: Spoiler alert: Three beautiful girls have been invited to "Hallowee
 runtime: 19:56
 executiveProducer: MetArt Films
 producer: Tony Intropido
-directorPhotography: Alis Locanta
+directorOfPhotography: Alis Locanta
 cameraOperator: Jorge Villalobos, Duliamo Ergacia
 stillPhotographer: Duliamo Ergacia
 editor: Alis Locanta
@@ -1752,8 +1752,8 @@ title: Halloween Party
 type: movie
 site: sa
 url: https://www.sexart.com/model/dido-a-and-alexis-brill/movie/20131030/HALLOWEEN_PARTY
-cast: Dido A; https://www.sexart.com/model/dido-a; g:f
-cast: Alexis Brill; https://www.sexart.com/model/alexis-brill; g:f
+model: n:Dido A; id:/model/sexart/dido-a; u:https://www.sexart.com/model/dido-a; g:f
+model: n:Alexis Brill; id:/model/sexart/alexis-brill; u:https://www.sexart.com/model/alexis-brill; g:f
 released: 2013-10-30
 director: Alis Locanta
 rating: 9.1
@@ -1766,7 +1766,7 @@ description: Alis Locanta's "Halloween Party" arrives just in time for this most
 runtime: 22:15
 executiveProducer: MetArt Films
 producer: Tony Intropido
-directorPhotography: Alis Locanta
+directorOfPhotography: Alis Locanta
 cameraOperator: Jorge Villalobos, Duliamo Ergacia
 stillPhotographer: Duliamo Ergacia
 editor: Alis Locanta
@@ -1821,14 +1821,14 @@ title: The Game IV - Night Watch
 type: movie
 site: sa
 url: https://www.sexart.com/model/thomas-lee-and-carla-cox-and-alexis-crystal-and-isabella-chrystin-and-thomas-hyka-and-silvie-deluxe-and-lena-love-and-alissia-loop/movie/20131027/THE_GAME_IV_-_NIGHT_WATCH
-cast: Thomas Lee; https://www.sexart.com/model/thomas-lee; g:m
-cast: Carla Cox; https://www.sexart.com/model/carla-cox; g:f
-cast: Alexis Crystal; https://www.sexart.com/model/alexis-crystal; g:f
-cast: Isabella Chrystin; https://www.sexart.com/model/isabella-chrystin; g:f
-cast: Thomas Hyka; https://www.sexart.com/model/thomas-hyka; g:m
-cast: Silvie Deluxe; https://www.sexart.com/model/silvie-deluxe; g:f
-cast: Lena Love; https://www.sexart.com/model/lena-love; g:f
-cast: Alissia Loop; https://www.sexart.com/model/alissia-loop; g:f
+model: n:Thomas Lee; id:/model/sexart/thomas-lee; u:https://www.sexart.com/model/thomas-lee; g:m
+model: n:Carla Cox; id:/model/sexart/carla-cox; u:https://www.sexart.com/model/carla-cox; g:f
+model: n:Alexis Crystal; id:/model/sexart/alexis-crystal; u:https://www.sexart.com/model/alexis-crystal; g:f
+model: n:Isabella Chrystin; id:/model/sexart/isabella-chrystin; u:https://www.sexart.com/model/isabella-chrystin; g:f
+model: n:Thomas Hyka; id:/model/sexart/thomas-hyka; u:https://www.sexart.com/model/thomas-hyka; g:m
+model: n:Silvie Deluxe; id:/model/sexart/silvie-deluxe; u:https://www.sexart.com/model/silvie-deluxe; g:f
+model: n:Lena Love; id:/model/sexart/lena-love; u:https://www.sexart.com/model/lena-love; g:f
+model: n:Alissia Loop; id:/model/sexart/alissia-loop; u:https://www.sexart.com/model/alissia-loop; g:f
 released: 2013-10-27
 director: Andrej Lupin
 rating: 8.9
@@ -1841,7 +1841,7 @@ description: War is hell. It's a timeless quote, an enduring truth, and a fact o
 runtime: 26:12
 writer: Ariel Piper Fawn, Mishak
 producer: Ariel Piper Fawn
-directorPhotography: Andrej Lupin
+directorOfPhotography: Andrej Lupin
 cinematographer: John Humble
 cameraOperator: John Jaros, Andie Cooper
 stillPhotographer: David Jones
@@ -1863,7 +1863,7 @@ title: My Moment
 type: movie
 site: sa
 url: https://www.sexart.com/model/connie-carter/movie/20131025/MY_MOMENT
-cast: Connie Carter; https://www.sexart.com/model/connie-carter; g:f
+model: n:Connie Carter; id:/model/sexart/connie-carter; u:https://www.sexart.com/model/connie-carter; g:f
 released: 2013-10-25
 director: Andrej Lupin
 rating: 9.4
@@ -1877,7 +1877,7 @@ runtime: 13:44
 writer: Ariel Piper Fawn
 executiveProducer: MetArt Films
 producer: Ariel Piper Fawn
-directorPhotography: Andrej Lupin
+directorOfPhotography: Andrej Lupin
 cinematographer: John Humble
 cameraOperator: David Kocian
 stillPhotographer: David Jones
@@ -1920,8 +1920,8 @@ title: Flavors
 type: movie
 site: sa
 url: https://www.sexart.com/model/samantha-joons-and-jay-dee/movie/20131023/FLAVORS
-cast: Samantha Joons; https://www.sexart.com/model/samantha-joons; g:f
-cast: Jay Dee; https://www.sexart.com/model/jay-dee; g:m
+model: n:Samantha Joons; id:/model/sexart/samantha-joons; u:https://www.sexart.com/model/samantha-joons; g:f
+model: n:Jay Dee; id:/model/sexart/jay-dee; u:https://www.sexart.com/model/jay-dee; g:m
 released: 2013-10-23
 director: Andrej Lupin
 rating: 9.1
@@ -1935,7 +1935,7 @@ runtime: 23:32
 writer: Ariel Piper Fawn
 executiveProducer: MetArt Films
 producer: Ariel Piper Fawn
-directorPhotography: Andrej Lupin
+directorOfPhotography: Andrej Lupin
 cinematographer: John Humble
 cameraOperator: John Jaros
 stillPhotographer: David Jones
@@ -1987,14 +1987,14 @@ title: The Game III - The Mission
 type: movie
 site: sa
 url: https://www.sexart.com/model/thomas-lee-and-lena-love-and-thomas-hyka-and-alexis-crystal-and-alissia-loop-and-carla-cox-and-silvie-deluxe-and-isabella-chrystin/movie/20131020/THE_GAME_III_-_THE_MISSION
-cast: Thomas Lee; https://www.sexart.com/model/thomas-lee; g:m
-cast: Lena Love; https://www.sexart.com/model/lena-love; g:f
-cast: Thomas Hyka; https://www.sexart.com/model/thomas-hyka; g:m
-cast: Alexis Crystal; https://www.sexart.com/model/alexis-crystal; g:f
-cast: Alissia Loop; https://www.sexart.com/model/alissia-loop; g:f
-cast: Carla Cox; https://www.sexart.com/model/carla-cox; g:f
-cast: Silvie Deluxe; https://www.sexart.com/model/silvie-deluxe; g:f
-cast: Isabella Chrystin; https://www.sexart.com/model/isabella-chrystin; g:f
+model: n:Thomas Lee; id:/model/sexart/thomas-lee; u:https://www.sexart.com/model/thomas-lee; g:m
+model: n:Lena Love; id:/model/sexart/lena-love; u:https://www.sexart.com/model/lena-love; g:f
+model: n:Thomas Hyka; id:/model/sexart/thomas-hyka; u:https://www.sexart.com/model/thomas-hyka; g:m
+model: n:Alexis Crystal; id:/model/sexart/alexis-crystal; u:https://www.sexart.com/model/alexis-crystal; g:f
+model: n:Alissia Loop; id:/model/sexart/alissia-loop; u:https://www.sexart.com/model/alissia-loop; g:f
+model: n:Carla Cox; id:/model/sexart/carla-cox; u:https://www.sexart.com/model/carla-cox; g:f
+model: n:Silvie Deluxe; id:/model/sexart/silvie-deluxe; u:https://www.sexart.com/model/silvie-deluxe; g:f
+model: n:Isabella Chrystin; id:/model/sexart/isabella-chrystin; u:https://www.sexart.com/model/isabella-chrystin; g:f
 released: 2013-10-20
 director: Andrej Lupin
 rating: 8.9
@@ -2007,7 +2007,7 @@ description: In the third installment of his erotic action/adventure series, "Th
 runtime: 36:39
 writer: Ariel Piper Fawn, Mishak
 producer: Ariel Piper Fawn
-directorPhotography: Andrej Lupin
+directorOfPhotography: Andrej Lupin
 cinematographer: John Humble
 cameraOperator: John Jaros, Andie Cooper
 stillPhotographer: David Jones
@@ -2029,8 +2029,8 @@ title: Kane & Wahine
 type: movie
 site: sa
 url: https://www.sexart.com/model/sean-and-sicilia/movie/20131018/KANE_&_WAHINE
-cast: Sean; https://www.sexart.com/model/sean; g:m
-cast: Sicilia; https://www.sexart.com/model/sicilia; g:f
+model: n:Sean; id:/model/sexart/sean; u:https://www.sexart.com/model/sean; g:m
+model: n:Sicilia; id:/model/sexart/sicilia; u:https://www.sexart.com/model/sicilia; g:f
 released: 2013-10-18
 director: Alis Locanta
 rating: 8.8
@@ -2043,7 +2043,7 @@ description: The title means "Man & Woman" in Polynesian, and playing those role
 runtime: 18:14
 executiveProducer: MetArt Films
 producer: Tony Intropido
-directorPhotography: Alis Locanta
+directorOfPhotography: Alis Locanta
 cameraOperator: Jorge Villalobos, Duliamo Ergacia
 stillPhotographer: Duliamo Ergacia
 editor: Alis Locanta
@@ -2101,8 +2101,8 @@ title: Luscious Drops
 type: movie
 site: sa
 url: https://www.sexart.com/model/charlise-bella-and-lorena-b/movie/20131016/LUSCIOUS_DROPS
-cast: Charlise Bella; https://www.sexart.com/model/charlise-bella; g:f
-cast: Lorena B; https://www.sexart.com/model/lorena-b; g:f
+model: n:Charlise Bella; id:/model/sexart/charlise-bella; u:https://www.sexart.com/model/charlise-bella; g:f
+model: n:Lorena B; id:/model/sexart/lorena-b; u:https://www.sexart.com/model/lorena-b; g:f
 released: 2013-10-16
 director: Don Caravaggio
 rating: 9.4
@@ -2113,7 +2113,7 @@ file: SexArt-20131016-Luscious-Drops-wide.jpg 124
 fileprefix: SexArt-20131016-Luscious-Drops-
 description: Director Don Caravaggio's "Luscious Drops" begins with the twang of a Spaghetti-western-flavor guitar and an unusual sight: In what appears to be a disused agricultural building, a beautiful blonde is in the middle of her workout. And this is no ordinary workout, either — the blonde, Charlise Bella (making her SexArt debut) is punching the heavy bag that hangs from the ceiling with focused intensity. Lorena B, looking extra-elegant, strolls into this unlikely scene and proceeds to strip nude and change into her own workout gear. Both beauties take turns kicking and punching the bag, and even indulge in a bit of friendly sparring, before the scene changes to a much more hospitable environment. We next find Lorena B lathered up and dripping wet in a circular bathtub. She's soon joined by Charlise, and kissing, caressing, fingering and other lesbian acts are shared and enjoyed. This is just foreplay, however, and the scene changes once more, this time to the crisp white sheets of an inviting bed. In this intimate setting "Luscious Drops" shifts from steady simmer to rolling boil, and by the time they've had their ways with each other, both these luscious ladies have savored powerful orgasms. As befits a film with a kickboxing theme, "Luscious Drops" is a knockout.
 runtime: 26:42
-directorPhotography: Jean Baptiste
+directorOfPhotography: Jean Baptiste
 cameraOperator: Jean Baptiste, Gui Avon
 editor: Don Caravaggio, Lorena B
 tag: ankle strap high heels
@@ -2169,14 +2169,14 @@ title: The Game II - Advice
 type: movie
 site: sa
 url: https://www.sexart.com/model/silvie-deluxe-and-alissia-loop-and-lena-love-and-alexis-crystal-and-thomas-lee-and-carla-cox-and-isabella-chrystin-and-thomas-hyka/movie/20131013/THE_GAME_II_-_ADVICE
-cast: Silvie Deluxe; https://www.sexart.com/model/silvie-deluxe; g:f
-cast: Alissia Loop; https://www.sexart.com/model/alissia-loop; g:f
-cast: Lena Love; https://www.sexart.com/model/lena-love; g:f
-cast: Alexis Crystal; https://www.sexart.com/model/alexis-crystal; g:f
-cast: Thomas Lee; https://www.sexart.com/model/thomas-lee; g:m
-cast: Carla Cox; https://www.sexart.com/model/carla-cox; g:f
-cast: Isabella Chrystin; https://www.sexart.com/model/isabella-chrystin; g:f
-cast: Thomas Hyka; https://www.sexart.com/model/thomas-hyka; g:m
+model: n:Silvie Deluxe; id:/model/sexart/silvie-deluxe; u:https://www.sexart.com/model/silvie-deluxe; g:f
+model: n:Alissia Loop; id:/model/sexart/alissia-loop; u:https://www.sexart.com/model/alissia-loop; g:f
+model: n:Lena Love; id:/model/sexart/lena-love; u:https://www.sexart.com/model/lena-love; g:f
+model: n:Alexis Crystal; id:/model/sexart/alexis-crystal; u:https://www.sexart.com/model/alexis-crystal; g:f
+model: n:Thomas Lee; id:/model/sexart/thomas-lee; u:https://www.sexart.com/model/thomas-lee; g:m
+model: n:Carla Cox; id:/model/sexart/carla-cox; u:https://www.sexart.com/model/carla-cox; g:f
+model: n:Isabella Chrystin; id:/model/sexart/isabella-chrystin; u:https://www.sexart.com/model/isabella-chrystin; g:f
+model: n:Thomas Hyka; id:/model/sexart/thomas-hyka; u:https://www.sexart.com/model/thomas-hyka; g:m
 released: 2013-10-13
 director: Andrej Lupin
 rating: 8.8
@@ -2190,7 +2190,7 @@ runtime: 16:15
 writer: Mishak, Ariel Piper Fawn
 executiveProducer: MetArt Films
 producer: Ariel Piper Fawn
-directorPhotography: Andrej Lupin
+directorOfPhotography: Andrej Lupin
 cinematographer: John Humble
 cameraOperator: John Jaros, Andie Cooper
 stillPhotographer: David Jones
@@ -2210,7 +2210,7 @@ title: Txt Me
 type: movie
 site: sa
 url: https://www.sexart.com/model/michaela-isizzu/movie/20131011/TXT_ME
-cast: Michaela Isizzu; https://www.sexart.com/model/michaela-isizzu; g:f
+model: n:Michaela Isizzu; id:/model/sexart/michaela-isizzu; u:https://www.sexart.com/model/michaela-isizzu; g:f
 released: 2013-10-11
 director: Alis Locanta
 rating: 9.5
@@ -2223,7 +2223,7 @@ description: Director Alis Locanta employs a mundane device in a unique and intr
 runtime: 13:21
 executiveProducer: MetArt Films
 producer: Tony Intropido
-directorPhotography: Alis Locanta
+directorOfPhotography: Alis Locanta
 cameraOperator: Duliamo Ergacia, Jorge Villalobos
 stillPhotographer: Duliamo Ergacia
 editor: Alis Locanta
@@ -2266,8 +2266,8 @@ title: Temptation
 type: movie
 site: sa
 url: https://www.sexart.com/model/mark-i-and-anita-bellini/movie/20131009/TEMPTATION
-cast: Mark I; https://www.sexart.com/model/mark-i; g:m
-cast: Anita Bellini; https://www.sexart.com/model/anita-bellini; g:f
+model: n:Mark I; id:/model/sexart/mark-i; u:https://www.sexart.com/model/mark-i; g:m
+model: n:Anita Bellini; id:/model/sexart/anita-bellini; u:https://www.sexart.com/model/anita-bellini; g:f
 released: 2013-10-09
 director: Andrej Lupin
 rating: 9.0
@@ -2281,7 +2281,7 @@ runtime: 14:21
 writer: Ariel Piper Fawn
 executiveProducer: MetArt Films
 producer: Ariel Piper Fawn
-directorPhotography: Andrej Lupin
+directorOfPhotography: Andrej Lupin
 cinematographer: John Humble
 cameraOperator: Andie Cooper
 stillPhotographer: David Jones
@@ -2319,14 +2319,14 @@ title: The Game - The Target
 type: movie
 site: sa
 url: https://www.sexart.com/model/alissia-loop-and-isabella-chrystin-and-thomas-hyka-and-thomas-lee-and-alexis-crystal-and-lena-love-and-carla-cox-and-silvie-deluxe/movie/20131006/THE_GAME_-_THE_TARGET
-cast: Alissia Loop; https://www.sexart.com/model/alissia-loop; g:f
-cast: Isabella Chrystin; https://www.sexart.com/model/isabella-chrystin; g:f
-cast: Thomas Hyka; https://www.sexart.com/model/thomas-hyka; g:m
-cast: Thomas Lee; https://www.sexart.com/model/thomas-lee; g:m
-cast: Alexis Crystal; https://www.sexart.com/model/alexis-crystal; g:f
-cast: Lena Love; https://www.sexart.com/model/lena-love; g:f
-cast: Carla Cox; https://www.sexart.com/model/carla-cox; g:f
-cast: Silvie Deluxe; https://www.sexart.com/model/silvie-deluxe; g:f
+model: n:Alissia Loop; id:/model/sexart/alissia-loop; u:https://www.sexart.com/model/alissia-loop; g:f
+model: n:Isabella Chrystin; id:/model/sexart/isabella-chrystin; u:https://www.sexart.com/model/isabella-chrystin; g:f
+model: n:Thomas Hyka; id:/model/sexart/thomas-hyka; u:https://www.sexart.com/model/thomas-hyka; g:m
+model: n:Thomas Lee; id:/model/sexart/thomas-lee; u:https://www.sexart.com/model/thomas-lee; g:m
+model: n:Alexis Crystal; id:/model/sexart/alexis-crystal; u:https://www.sexart.com/model/alexis-crystal; g:f
+model: n:Lena Love; id:/model/sexart/lena-love; u:https://www.sexart.com/model/lena-love; g:f
+model: n:Carla Cox; id:/model/sexart/carla-cox; u:https://www.sexart.com/model/carla-cox; g:f
+model: n:Silvie Deluxe; id:/model/sexart/silvie-deluxe; u:https://www.sexart.com/model/silvie-deluxe; g:f
 released: 2013-10-06
 director: Andrej Lupin
 rating: 9.3
@@ -2340,7 +2340,7 @@ runtime: 22:55
 writer: Mishak, Ariel Piper Fawn
 executiveProducer: MetArt Films
 producer: Ariel Piper Fawn
-directorPhotography: Andrej Lupin
+directorOfPhotography: Andrej Lupin
 cinematographer: John Humble
 cameraOperator: Andie Cooper, John Jaros
 stillPhotographer: David Jones
@@ -2362,7 +2362,7 @@ title: Io Ballo Da Sola
 type: movie
 site: sa
 url: https://www.sexart.com/model/candice-luka/movie/20131004/IO_BALLO_DA_SOLA
-cast: Candice Luka; https://www.sexart.com/model/candice-luka; g:f
+model: n:Candice Luka; id:/model/sexart/candice-luka; u:https://www.sexart.com/model/candice-luka; g:f
 released: 2013-10-04
 director: Alis Locanta
 rating: 9.4
@@ -2375,7 +2375,7 @@ description: "Io Ballo Da Sola," I dance alone. The language is Italian, but the
 runtime: 10:41
 executiveProducer: MetArt Films
 producer: Tony Intropido
-directorPhotography: Alis Locanta
+directorOfPhotography: Alis Locanta
 cameraOperator: Duliamo Ergacia, Jorge Villalobos
 stillPhotographer: Duliamo Ergacia
 editor: Alis Locanta
@@ -2422,8 +2422,8 @@ title: End of the Night
 type: movie
 site: sa
 url: https://www.sexart.com/model/tracy-lindsay-and-tea-jul/movie/20131002/END_OF_THE_NIGHT
-cast: Tracy Lindsay; https://www.sexart.com/model/tracy-lindsay; g:f
-cast: Tea Jul; https://www.sexart.com/model/tea-jul; g:f
+model: n:Tracy Lindsay; id:/model/sexart/tracy-lindsay; u:https://www.sexart.com/model/tracy-lindsay; g:f
+model: n:Tea Jul; id:/model/sexart/tea-jul; u:https://www.sexart.com/model/tea-jul; g:f
 released: 2013-10-02
 director: Andrej Lupin
 rating: 9.2
@@ -2436,7 +2436,7 @@ description: Their night on the town is winding down. With a bottle of wine in h
 runtime: 18:28
 executiveProducer: MetArt Films
 producer: Ariel Piper Fawn
-directorPhotography: Andrej Lupin
+directorOfPhotography: Andrej Lupin
 cinematographer: John Humble
 cameraOperator: David Kocian
 stillPhotographer: David Jones
@@ -2494,8 +2494,8 @@ title: The Studio
 type: movie
 site: sa
 url: https://www.sexart.com/model/mr.-jacob-and-silvie-deluxe/movie/20130929/THE_STUDIO
-cast: Mr. Jacob; https://www.sexart.com/model/mr.-jacob; g:m
-cast: Silvie Deluxe; https://www.sexart.com/model/silvie-deluxe; g:f
+model: n:Mr. Jacob; id:/model/sexart/mr-jacob; u:https://www.sexart.com/model/mr.-jacob; g:m
+model: n:Silvie Deluxe; id:/model/sexart/silvie-deluxe; u:https://www.sexart.com/model/silvie-deluxe; g:f
 released: 2013-09-29
 director: Andrej Lupin
 rating: 9.0
@@ -2508,7 +2508,7 @@ description: Anyone who has spent any time enjoying nude photographs has probabl
 runtime: 23:47
 executiveProducer: MetArt Films
 producer: Ariel Piper Fawn
-directorPhotography: Andrej Lupin
+directorOfPhotography: Andrej Lupin
 cinematographer: John Humble
 cameraOperator: David Kocian
 stillPhotographer: David Jones
@@ -2558,7 +2558,7 @@ title: The Sound of Silence
 type: movie
 site: sa
 url: https://www.sexart.com/model/luna/movie/20130927/THE_SOUND_OF_SILENCE
-cast: Luna; https://www.sexart.com/model/luna; g:m
+model: n:Luna; id:/model/sexart/luna; u:https://www.sexart.com/model/luna; g:m
 released: 2013-09-27
 director: Alis Locanta
 rating: 9.2
@@ -2571,7 +2571,7 @@ description: "The Sound of Silence" is Italian erotic stylist Alis Locanta's lat
 runtime: 12:53
 executiveProducer: MetArt Films
 producer: Tony Intropido
-directorPhotography: Alis Locanta
+directorOfPhotography: Alis Locanta
 cameraOperator: Jorge Villalobos, Duliamo Ergacia
 stillPhotographer: Duliamo Ergacia
 editor: Alis Locanta
@@ -2607,8 +2607,8 @@ title: City Ride
 type: movie
 site: sa
 url: https://www.sexart.com/model/zara-jay-and-violette-pink/movie/20130925/CITY_RIDE
-cast: Zara Jay; https://www.sexart.com/model/zara-jay; g:f
-cast: Violette Pink; https://www.sexart.com/model/violette-pink; g:f
+model: n:Zara Jay; id:/model/sexart/zara-jay; u:https://www.sexart.com/model/zara-jay; g:f
+model: n:Violette Pink; id:/model/sexart/violette-pink; u:https://www.sexart.com/model/violette-pink; g:f
 released: 2013-09-25
 director: Andrej Lupin
 rating: 9.1
@@ -2621,7 +2621,7 @@ description: "City Ride" begins with a blast of high energy music and quick cuts
 runtime: 25:05
 executiveProducer: MetArt Films
 producer: Ariel Piper Fawn
-directorPhotography: Andrej Lupin
+directorOfPhotography: Andrej Lupin
 cinematographer: John Humble
 cameraOperator: David Kocian
 stillPhotographer: David Jones
@@ -2675,7 +2675,7 @@ title: About A Girl
 type: movie
 site: sa
 url: https://www.sexart.com/model/flora/movie/20130922/ABOUT_A_GIRL
-cast: Flora; https://www.sexart.com/model/flora; g:f
+model: n:Flora; id:/model/sexart/flora; u:https://www.sexart.com/model/flora; g:f
 released: 2013-09-22
 director: Alis Locanta
 rating: 9.2
@@ -2688,7 +2688,7 @@ description: A woman sits, alone, in her home. Her attention wanders. Ideas take
 runtime: 15:50
 executiveProducer: MetArt Films
 producer: Tony Intropido
-directorPhotography: Alis Locanta
+directorOfPhotography: Alis Locanta
 cameraOperator: Duliamo Ergacia, Jorge Villalobos
 stillPhotographer: Duliamo Ergacia
 editor: Alis Locanta
@@ -2724,8 +2724,8 @@ title: Summer Play
 type: movie
 site: sa
 url: https://www.sexart.com/model/casey-jordan-and-paula-shy/movie/20130920/SUMMER_PLAY
-cast: Casey Jordan; https://www.sexart.com/model/casey-jordan; g:f
-cast: Paula Shy; https://www.sexart.com/model/paula-shy; g:f
+model: n:Casey Jordan; id:/model/sexart/casey-jordan; u:https://www.sexart.com/model/casey-jordan; g:f
+model: n:Paula Shy; id:/model/sexart/paula-shy; u:https://www.sexart.com/model/paula-shy; g:f
 released: 2013-09-20
 director: Andrej Lupin
 rating: 9.2
@@ -2738,7 +2738,7 @@ description: It's a bright, warm day in the lush, green countryside. Paula Shy i
 runtime: 20:22
 executiveProducer: MetArt Films
 producer: Ariel Piper Fawn
-directorPhotography: Andrej Lupin
+directorOfPhotography: Andrej Lupin
 cinematographer: John Humble
 cameraOperator: David Kocian
 stillPhotographer: David Jones
@@ -2796,8 +2796,8 @@ title: Book of Love
 type: movie
 site: sa
 url: https://www.sexart.com/model/victoria-blaze-and-thomas-lee/movie/20130918/BOOK_OF_LOVE
-cast: Victoria Blaze; https://www.sexart.com/model/victoria-blaze; g:f
-cast: Thomas Lee; https://www.sexart.com/model/thomas-lee; g:m
+model: n:Victoria Blaze; id:/model/sexart/victoria-blaze; u:https://www.sexart.com/model/victoria-blaze; g:f
+model: n:Thomas Lee; id:/model/sexart/thomas-lee; u:https://www.sexart.com/model/thomas-lee; g:m
 released: 2013-09-18
 director: Andrej Lupin
 rating: 8.9
@@ -2810,7 +2810,7 @@ description: A good book has the power to transport the reader through time and 
 runtime: 23:26
 executiveProducer: MetArt Films
 producer: Ariel Piper Fawn
-directorPhotography: Andrej Lupin
+directorOfPhotography: Andrej Lupin
 cinematographer: John Humble
 cameraOperator: David Kocian
 stillPhotographer: David Jones
@@ -2857,8 +2857,8 @@ title: The Writer - The Dark Side
 type: movie
 site: sa
 url: https://www.sexart.com/model/lorena-b-and-alexis-brill/movie/20130915/THE_WRITER_-_THE_DARK_SIDE
-cast: Lorena B; https://www.sexart.com/model/lorena-b; g:f
-cast: Alexis Brill; https://www.sexart.com/model/alexis-brill; g:f
+model: n:Lorena B; id:/model/sexart/lorena-b; u:https://www.sexart.com/model/lorena-b; g:f
+model: n:Alexis Brill; id:/model/sexart/alexis-brill; u:https://www.sexart.com/model/alexis-brill; g:f
 released: 2013-09-15
 director: Alis Locanta
 rating: 9.4
@@ -2871,7 +2871,7 @@ description: Subtitled "The Dark Side," the second half of Alis Locanta's "The W
 runtime: 21:51
 executiveProducer: MetArt Films
 producer: Tony Intropido
-directorPhotography: Alis Locanta
+directorOfPhotography: Alis Locanta
 cameraOperator: Jorge Villalobos, Duliamo Ergacia
 stillPhotographer: Duliamo Ergacia
 editor: Alis Locanta
@@ -2947,8 +2947,8 @@ title: Swimming Pool
 type: movie
 site: sa
 url: https://www.sexart.com/model/jenny-appach-and-kayla-lyon/movie/20130913/SWIMMING_POOL
-cast: Jenny Appach; https://www.sexart.com/model/jenny-appach; g:f
-cast: Kayla Lyon; https://www.sexart.com/model/kayla-lyon; g:f
+model: n:Jenny Appach; id:/model/sexart/jenny-appach; u:https://www.sexart.com/model/jenny-appach; g:f
+model: n:Kayla Lyon; id:/model/sexart/kayla-lyon; u:https://www.sexart.com/model/kayla-lyon; g:f
 released: 2013-09-13
 director: Andrej Lupin
 rating: 8.9
@@ -2961,7 +2961,7 @@ description: Czech director Andrej Lupin employs a simple recipe for his latest 
 runtime: 19:04
 executiveProducer: MetArt Films
 producer: Ariel Piper Fawn
-directorPhotography: Andrej Lupin
+directorOfPhotography: Andrej Lupin
 cinematographer: John Humble
 stillPhotographer: David Jones
 editor: David Kocian, Adele Hollis, Andrej Lupin
@@ -3006,8 +3006,8 @@ title: Careful
 type: movie
 site: sa
 url: https://www.sexart.com/model/violette-pink-and-kristof-cale/movie/20130911/CAREFUL
-cast: Violette Pink; https://www.sexart.com/model/violette-pink; g:f
-cast: Kristof Cale; https://www.sexart.com/model/kristof-cale; g:m
+model: n:Violette Pink; id:/model/sexart/violette-pink; u:https://www.sexart.com/model/violette-pink; g:f
+model: n:Kristof Cale; id:/model/sexart/kristof-cale; u:https://www.sexart.com/model/kristof-cale; g:m
 released: 2013-09-11
 director: Andrej Lupin
 rating: 9.3
@@ -3020,7 +3020,7 @@ description: When considering Andrej Lupin's expansive — and ever-expanding �
 runtime: 28:27
 executiveProducer: MetArt Films
 producer: Ariel Piper Fawn
-directorPhotography: Andrej Lupin
+directorOfPhotography: Andrej Lupin
 cinematographer: John Humble
 cameraOperator: David Kocian
 stillPhotographer: David Jones
@@ -3068,8 +3068,8 @@ title: The Writer - Age of Innocence
 type: movie
 site: sa
 url: https://www.sexart.com/model/lorena-b-and-alexis-brill/movie/20130908/THE_WRITER_-_AGE_OF_INNOCENCE
-cast: Lorena B; https://www.sexart.com/model/lorena-b; g:f
-cast: Alexis Brill; https://www.sexart.com/model/alexis-brill; g:f
+model: n:Lorena B; id:/model/sexart/lorena-b; u:https://www.sexart.com/model/lorena-b; g:f
+model: n:Alexis Brill; id:/model/sexart/alexis-brill; u:https://www.sexart.com/model/alexis-brill; g:f
 released: 2013-09-08
 director: Alis Locanta
 rating: 9.6
@@ -3082,7 +3082,7 @@ description: The dreaded condition known as "writer's block" has been experience
 runtime: 25:40
 executiveProducer: MetArt Films
 producer: Tony Intropido
-directorPhotography: Alis Locanta
+directorOfPhotography: Alis Locanta
 cameraOperator: Duliamo Ergacia, Jorge Villalobos
 stillPhotographer: Duliamo Ergacia
 editor: Alis Locanta
@@ -3141,8 +3141,8 @@ title: Waiting for Rain
 type: movie
 site: sa
 url: https://www.sexart.com/model/matt-ice-and-alexis-crystal/movie/20130906/WAITING_FOR_RAIN
-cast: Matt Ice; https://www.sexart.com/model/matt-ice; g:m
-cast: Alexis Crystal; https://www.sexart.com/model/alexis-crystal; g:f
+model: n:Matt Ice; id:/model/sexart/matt-ice; u:https://www.sexart.com/model/matt-ice; g:m
+model: n:Alexis Crystal; id:/model/sexart/alexis-crystal; u:https://www.sexart.com/model/alexis-crystal; g:f
 released: 2013-09-06
 director: Andrej Lupin
 rating: 9.1
@@ -3155,7 +3155,7 @@ description: It's just another day down on the farm in a lush and verdant corner
 runtime: 21:00
 executiveProducer: MetArt Films
 producer: Ariel Piper Fawn
-directorPhotography: Andrej Lupin
+directorOfPhotography: Andrej Lupin
 cinematographer: John Humble
 cameraOperator: David Kocian
 stillPhotographer: David Jones
@@ -3198,8 +3198,8 @@ title: Jenga
 type: movie
 site: sa
 url: https://www.sexart.com/model/tracy-lindsay-and-samantha-joons/movie/20130904/JENGA
-cast: Tracy Lindsay; https://www.sexart.com/model/tracy-lindsay; g:f
-cast: Samantha Joons; https://www.sexart.com/model/samantha-joons; g:f
+model: n:Tracy Lindsay; id:/model/sexart/tracy-lindsay; u:https://www.sexart.com/model/tracy-lindsay; g:f
+model: n:Samantha Joons; id:/model/sexart/samantha-joons; u:https://www.sexart.com/model/samantha-joons; g:f
 released: 2013-09-04
 director: Andrej Lupin
 rating: 9.0
@@ -3212,7 +3212,7 @@ description: Two friends enjoy a game on a quiet afternoon — a typical scene p
 runtime: 20:55
 executiveProducer: MetArt Films
 producer: Ariel Piper Fawn
-directorPhotography: Andrej Lupin
+directorOfPhotography: Andrej Lupin
 cinematographer: John Humble
 cameraOperator: David Kocian
 stillPhotographer: David Jones
@@ -3265,8 +3265,8 @@ title: Vertigo
 type: movie
 site: sa
 url: https://www.sexart.com/model/eufrat-mai-and-dido-a/movie/20130901/VERTIGO
-cast: Eufrat Mai; https://www.sexart.com/model/eufrat-mai; g:f
-cast: Dido A; https://www.sexart.com/model/dido-a; g:f
+model: n:Eufrat Mai; id:/model/sexart/eufrat-mai; u:https://www.sexart.com/model/eufrat-mai; g:f
+model: n:Dido A; id:/model/sexart/dido-a; u:https://www.sexart.com/model/dido-a; g:f
 released: 2013-09-01
 director: Alis Locanta
 rating: 9.4
@@ -3279,7 +3279,7 @@ description: If you only know Dido A through her erotic photo modeling, both her
 runtime: 22:21
 executiveProducer: MetArt Films
 producer: Tony Intropido
-directorPhotography: Alis Locanta
+directorOfPhotography: Alis Locanta
 cameraOperator: Duliamo Ergacia, Jorge Villalobos
 stillPhotographer: Duliamo Ergacia
 editor: Alis Locanta
@@ -3324,8 +3324,8 @@ title: Sexter
 type: movie
 site: sa
 url: https://www.sexart.com/model/marica-hase-and-matt-bird/movie/20130830/SEXTER
-cast: Marica Hase; https://www.sexart.com/model/marica-hase; g:f
-cast: Matt Bird; https://www.sexart.com/model/matt-bird; g:m
+model: n:Marica Hase; id:/model/sexart/marica-hase; u:https://www.sexart.com/model/marica-hase; g:f
+model: n:Matt Bird; id:/model/sexart/matt-bird; u:https://www.sexart.com/model/matt-bird; g:m
 released: 2013-08-30
 director: Andrej Lupin
 rating: 8.9
@@ -3338,7 +3338,7 @@ description: It begins serenely and innocently: A couple — Marica Hase and Mat
 runtime: 25:11
 executiveProducer: MetArt Films
 producer: Ariel Piper Fawn
-directorPhotography: Andrej Lupin
+directorOfPhotography: Andrej Lupin
 cinematographer: John Humble
 cameraOperator: David Kocian
 stillPhotographer: David Jones
@@ -3381,8 +3381,8 @@ title: I Missed You
 type: movie
 site: sa
 url: https://www.sexart.com/model/alissia-loop-and-charlotta-phillip/movie/20130828/I_MISSED_YOU
-cast: Alissia Loop; https://www.sexart.com/model/alissia-loop; g:f
-cast: Charlotta Phillip; https://www.sexart.com/model/charlotta-phillip; g:f
+model: n:Alissia Loop; id:/model/sexart/alissia-loop; u:https://www.sexart.com/model/alissia-loop; g:f
+model: n:Charlotta Phillip; id:/model/sexart/charlotta-phillip; u:https://www.sexart.com/model/charlotta-phillip; g:f
 released: 2013-08-28
 director: Andrej Lupin
 rating: 9.1
@@ -3395,7 +3395,7 @@ description: The title of Andrej Lupin's "I Missed You" is a simple declaration 
 runtime: 16:21
 executiveProducer: MetArt Films
 producer: Ariel Piper Fawn
-directorPhotography: Andrej Lupin
+directorOfPhotography: Andrej Lupin
 cinematographer: John Humble
 cameraOperator: David Kocian
 stillPhotographer: David Jones
@@ -3451,9 +3451,9 @@ title: Dare
 type: movie
 site: sa
 url: https://www.sexart.com/model/iwia-a-and-lorena-b-and-greg-baldwin/movie/20130825/DARE
-cast: Iwia A; https://www.sexart.com/model/iwia-a; g:f
-cast: Lorena B; https://www.sexart.com/model/lorena-b; g:f
-cast: Greg Baldwin; https://www.sexart.com/model/greg-baldwin; g:m
+model: n:Iwia A; id:/model/sexart/iwia-a; u:https://www.sexart.com/model/iwia-a; g:f
+model: n:Lorena B; id:/model/sexart/lorena-b; u:https://www.sexart.com/model/lorena-b; g:f
+model: n:Greg Baldwin; id:/model/sexart/greg-baldwin; u:https://www.sexart.com/model/greg-baldwin; g:m
 released: 2013-08-25
 director: Don Caravaggio
 rating: 9.3
@@ -3464,7 +3464,7 @@ file: SexArt-20130825-Dare-wide.jpg 72
 fileprefix: SexArt-20130825-Dare-
 description: Italian cinematic stylist Don Caravaggio's latest production for SexArt is a tantalizing take on a romantic triangle. Lorena B, international MetArt exclusive contract supermodel, headlines and sets the film in motion when she greets Greg Baldwin at the door of her apartment. Before they've taken more than a few steps the couple fall into a clinch, Lorena's breasts are both exposed and caressed, and sexual tension hangs heavy in the hallway. As quietly as possible they enter a bedroom in which Iwia A slumbers, totally nude, completely oblivious. And so "Dare" begins. The two long-haired brunette beauties kiss and caress one another. They kiss their male visitor. And once they're all in the nude the sexual activity accelerates. Iwia A gives suck to Baldwin's erect bone. Lorena B licks Iwia from behind. And then Baldwin proceeds to fuck Iwia in a variety of positions with Lorena circling around them. She kisses Iwia, she kisses Baldwin, she sits on Iwia's face and delights in her agile tongue. Lorena B is the orchestrator and arranger of this tryst, a surprise treat for her lesbian lover. Once Baldwin has come he is gone, and the two beauties continue on in his absence, making love, achieving orgasm, savoring the afterglow of their decadent and delicious "Dare."
 runtime: 20:06
-directorPhotography: Jean Baptiste
+directorOfPhotography: Jean Baptiste
 cameraOperator: Gui Avon, Jean Baptiste
 editor: Lorena B, Don Caravaggio
 tag: ankle strap high heels
@@ -3513,8 +3513,8 @@ title: Wild Girl #2
 type: movie
 site: sa
 url: https://www.sexart.com/model/thomas-lee-and-isabella-chrystin/movie/20130823/WILD_GIRL_II
-cast: Thomas Lee; https://www.sexart.com/model/thomas-lee; g:m
-cast: Isabella Chrystin; https://www.sexart.com/model/isabella-chrystin; g:f
+model: n:Thomas Lee; id:/model/sexart/thomas-lee; u:https://www.sexart.com/model/thomas-lee; g:m
+model: n:Isabella Chrystin; id:/model/sexart/isabella-chrystin; u:https://www.sexart.com/model/isabella-chrystin; g:f
 released: 2013-08-23
 director: Andrej Lupin
 rating: 8.8
@@ -3527,7 +3527,7 @@ description: "Wild Girl II" begins where the original "Wild Girl" ended — with
 runtime: 17:35
 executiveProducer: MetArt Films
 producer: Ariel Piper Fawn
-directorPhotography: Andrej Lupin
+directorOfPhotography: Andrej Lupin
 cinematographer: John Humble
 cameraOperator: David Kocian
 stillPhotographer: David Jones
@@ -3567,8 +3567,8 @@ title: Offstage
 type: movie
 site: sa
 url: https://www.sexart.com/model/judy-smile-and-amirah-adara/movie/20130821/OFFSTAGE
-cast: Judy Smile; https://www.sexart.com/model/judy-smile; g:f
-cast: Amirah Adara; https://www.sexart.com/model/amirah-adara; g:f
+model: n:Judy Smile; id:/model/sexart/judy-smile; u:https://www.sexart.com/model/judy-smile; g:f
+model: n:Amirah Adara; id:/model/sexart/amirah-adara; u:https://www.sexart.com/model/amirah-adara; g:f
 released: 2013-08-21
 director: Andrej Lupin
 rating: 9.0
@@ -3581,7 +3581,7 @@ description: A make-up artist, played by Amira Abada, stands before a mirror at 
 runtime: 16:44
 executiveProducer: MetArt Films
 producer: Ariel Piper Fawn
-directorPhotography: Andrej Lupin
+directorOfPhotography: Andrej Lupin
 cinematographer: John Humble
 cameraOperator: David Kocian
 stillPhotographer: David Jones
@@ -3625,8 +3625,8 @@ title: Pour Toi Mon Amour
 type: movie
 site: sa
 url: https://www.sexart.com/model/nataly-von-and-tiffany-doll/movie/20130818/POUR_TOI_MON_AMOUR
-cast: Nataly Von; https://www.sexart.com/model/nataly-von; g:f
-cast: Tiffany Doll; https://www.sexart.com/model/tiffany-doll; g:f
+model: n:Nataly Von; id:/model/sexart/nataly-von; u:https://www.sexart.com/model/nataly-von; g:f
+model: n:Tiffany Doll; id:/model/sexart/tiffany-doll; u:https://www.sexart.com/model/tiffany-doll; g:f
 released: 2013-08-18
 director: Alis Locanta
 rating: 9.0
@@ -3639,7 +3639,7 @@ description: French is well known as the language of love, and Italy's Alis Loca
 runtime: 18:21
 executiveProducer: MetArt Films
 producer: Tony Intropido
-directorPhotography: Alis Locanta
+directorOfPhotography: Alis Locanta
 cameraOperator: Duliamo Ergacia, Jorge Villalobos
 stillPhotographer: Duliamo Ergacia
 editor: Alis Locanta
@@ -3697,8 +3697,8 @@ title: Wild Girl #1
 type: movie
 site: sa
 url: https://www.sexart.com/model/isabella-chrystin-and-matt-ice/movie/20130816/WILD_GIRL
-cast: Isabella Chrystin; https://www.sexart.com/model/isabella-chrystin; g:f
-cast: Matt Ice; https://www.sexart.com/model/matt-ice; g:m
+model: n:Isabella Chrystin; id:/model/sexart/isabella-chrystin; u:https://www.sexart.com/model/isabella-chrystin; g:f
+model: n:Matt Ice; id:/model/sexart/matt-ice; u:https://www.sexart.com/model/matt-ice; g:m
 released: 2013-08-16
 director: Andrej Lupin
 rating: 8.8
@@ -3711,7 +3711,7 @@ description: Multi-talented model-performer-producer-art director, Ariel Piper F
 runtime: 18:28
 executiveProducer: MetArt Films
 producer: Ariel Piper Fawn
-directorPhotography: Andrej Lupin
+directorOfPhotography: Andrej Lupin
 cinematographer: John Humble
 cameraOperator: David Kocian
 stillPhotographer: David Jones
@@ -3745,8 +3745,8 @@ title: Cybersex
 type: movie
 site: sa
 url: https://www.sexart.com/model/sandra-luberec-and-marcus-dupree/movie/20130814/CYBERSEX
-cast: Sandra Luberec; https://www.sexart.com/model/sandra-luberec; g:f
-cast: Marcus Dupree; https://www.sexart.com/model/marcus-dupree; g:m
+model: n:Sandra Luberec; id:/model/sexart/sandra-luberec; u:https://www.sexart.com/model/sandra-luberec; g:f
+model: n:Marcus Dupree; id:/model/sexart/marcus-dupree; u:https://www.sexart.com/model/marcus-dupree; g:m
 released: 2013-08-14
 director: Andrej Lupin
 rating: 9.1
@@ -3759,7 +3759,7 @@ description: The title of Andrej Lupin's latest foray into lesbian erotica, "I W
 runtime: 15:29
 executiveProducer: MetArt Films
 producer: Ariel Piper Fawn
-directorPhotography: Andrej Lupin
+directorOfPhotography: Andrej Lupin
 cinematographer: John Humble
 cameraOperator: David Kocian
 stillPhotographer: David Jones
@@ -3801,8 +3801,8 @@ title: I Want You
 type: movie
 site: sa
 url: https://www.sexart.com/model/ariel-piper-fawn-and-miela-a/movie/20130811/I_WANT_YOU
-cast: Ariel Piper Fawn; https://www.sexart.com/model/ariel-piper-fawn; g:f
-cast: Miela A; https://www.sexart.com/model/miela-a; g:f
+model: n:Ariel Piper Fawn; id:/model/sexart/ariel-piper-fawn; u:https://www.sexart.com/model/ariel-piper-fawn; g:f
+model: n:Miela A; id:/model/sexart/miela-a; u:https://www.sexart.com/model/miela-a; g:f
 released: 2013-08-11
 director: Andrej Lupin
 rating: 9.5
@@ -3815,7 +3815,7 @@ description: The title of Andrej Lupin's latest foray into lesbian erotica, "I W
 runtime: 15:29
 executiveProducer: MetArt Films
 producer: Ariel Piper Fawn
-directorPhotography: Andrej Lupin
+directorOfPhotography: Andrej Lupin
 cinematographer: John Humble
 cameraOperator: David Kocian
 stillPhotographer: David Jones
@@ -3857,8 +3857,8 @@ title: A Love Story
 type: movie
 site: sa
 url: https://www.sexart.com/model/franck-franco-and-nataly-von/movie/20130809/A_LOVE_STORY
-cast: Franck Franco; https://www.sexart.com/model/franck-franco; g:m
-cast: Nataly Von; https://www.sexart.com/model/nataly-von; g:f
+model: n:Franck Franco; id:/model/sexart/franck-franco; u:https://www.sexart.com/model/franck-franco; g:m
+model: n:Nataly Von; id:/model/sexart/nataly-von; u:https://www.sexart.com/model/nataly-von; g:f
 released: 2013-08-09
 director: Alis Locanta
 rating: 9.2
@@ -3871,7 +3871,7 @@ description: Frequent SexArt contributor Alis Locanta, who wrote and directed "A
 runtime: 18:32
 executiveProducer: MetArt Films
 producer: Tony Intropido
-directorPhotography: Alis Locanta
+directorOfPhotography: Alis Locanta
 cameraOperator: Jorge Villalobos, Duliamo Ergacia
 stillPhotographer: Duliamo Ergacia
 editor: Alis Locanta
@@ -3926,8 +3926,8 @@ title: Homecoming
 type: movie
 site: sa
 url: https://www.sexart.com/model/thomas-lee-and-blue-angel/movie/20130807/HOMECOMING
-cast: Thomas Lee; https://www.sexart.com/model/thomas-lee; g:m
-cast: Blue Angel; https://www.sexart.com/model/blue-angel; g:f
+model: n:Thomas Lee; id:/model/sexart/thomas-lee; u:https://www.sexart.com/model/thomas-lee; g:m
+model: n:Blue Angel; id:/model/sexart/blue-angel; u:https://www.sexart.com/model/blue-angel; g:f
 released: 2013-08-07
 director: Andrej Lupin
 rating: 9.1
@@ -3940,7 +3940,7 @@ description: It is never made clear how long the lovers of Andrej Lupin's "Homec
 runtime: 26:59
 executiveProducer: MetArt Films
 producer: Ariel Piper Fawn
-directorPhotography: Andrej Lupin
+directorOfPhotography: Andrej Lupin
 cinematographer: John Humble
 cameraOperator: David Kocian
 stillPhotographer: David Jones
@@ -3983,8 +3983,8 @@ title: Memories
 type: movie
 site: sa
 url: https://www.sexart.com/model/sandy-ambrosia-and-kayla-lyon/movie/20130804/MEMORIES
-cast: Sandy Ambrosia; https://www.sexart.com/model/sandy-ambrosia; g:f
-cast: Kayla Lyon; https://www.sexart.com/model/kayla-lyon; g:f
+model: n:Sandy Ambrosia; id:/model/sexart/sandy-ambrosia; u:https://www.sexart.com/model/sandy-ambrosia; g:f
+model: n:Kayla Lyon; id:/model/sexart/kayla-lyon; u:https://www.sexart.com/model/kayla-lyon; g:f
 released: 2013-08-04
 director: Andrej Lupin
 rating: 9.1
@@ -3997,7 +3997,7 @@ description: A secluded log cabin nestled in lush and verdant mountains provides
 runtime: 23:00
 executiveProducer: MetArt Films
 producer: Ariel Piper Fawn
-directorPhotography: Andrej Lupin
+directorOfPhotography: Andrej Lupin
 cinematographer: John Humble
 stillPhotographer: David Jones
 editor: David Kocian, Andrej Lupin, Adele Hollis
@@ -4042,8 +4042,8 @@ title: White Morning
 type: movie
 site: sa
 url: https://www.sexart.com/model/marcus-dupree-and-liona-b/movie/20130802/WHITE_MORNING
-cast: Marcus Dupree; https://www.sexart.com/model/marcus-dupree; g:m
-cast: Liona B; https://www.sexart.com/model/liona-b; g:f
+model: n:Marcus Dupree; id:/model/sexart/marcus-dupree; u:https://www.sexart.com/model/marcus-dupree; g:m
+model: n:Liona B; id:/model/sexart/liona-b; u:https://www.sexart.com/model/liona-b; g:f
 released: 2013-08-02
 director: Andrej Lupin
 rating: 9.0
@@ -4056,7 +4056,7 @@ description: Both of the stars of this Andrej Lupin feature are making their sec
 runtime: 19:31
 executiveProducer: MetArt Films
 producer: Ariel Piper Fawn
-directorPhotography: Andrej Lupin
+directorOfPhotography: Andrej Lupin
 cinematographer: John Humble
 cameraOperator: David Kocian
 stillPhotographer: David Jones
@@ -4095,7 +4095,7 @@ title: Just the Beginning
 type: movie
 site: sa
 url: https://www.sexart.com/model/luna/movie/20130731/JUST_THE_BEGINNING
-cast: Luna; https://www.sexart.com/model/luna; g:m
+model: n:Luna; id:/model/sexart/luna; u:https://www.sexart.com/model/luna; g:m
 released: 2013-07-31
 director: Alis Locanta
 rating: 9.2
@@ -4108,7 +4108,7 @@ description: No matter the venue — concert hall, playhouse, or cinema — a so
 runtime: 15:07
 executiveProducer: MetArt Films
 producer: Tony Intropido
-directorPhotography: Alis Locanta
+directorOfPhotography: Alis Locanta
 cameraOperator: Duliamo Ergacia, Jorge Villalobos
 stillPhotographer: Duliamo Ergacia
 editor: Alis Locanta
@@ -4145,8 +4145,8 @@ title: Love at First Sight
 type: movie
 site: sa
 url: https://www.sexart.com/model/thomas-lee-and-silvie-deluxe/movie/20130728/LOVE_AT_FIRST_SIGHT
-cast: Thomas Lee; https://www.sexart.com/model/thomas-lee; g:m
-cast: Silvie Deluxe; https://www.sexart.com/model/silvie-deluxe; g:f
+model: n:Thomas Lee; id:/model/sexart/thomas-lee; u:https://www.sexart.com/model/thomas-lee; g:m
+model: n:Silvie Deluxe; id:/model/sexart/silvie-deluxe; u:https://www.sexart.com/model/silvie-deluxe; g:f
 released: 2013-07-28
 director: Andrej Lupin
 rating: 9.1
@@ -4159,7 +4159,7 @@ description: The value and virtues of extended foreplay cannot be underestimated
 runtime: 14:44
 executiveProducer: MetArt Films
 producer: Ariel Piper Fawn
-directorPhotography: Andrej Lupin
+directorOfPhotography: Andrej Lupin
 cinematographer: John Humble
 cameraOperator: David Kocian
 stillPhotographer: David Jones
@@ -4206,7 +4206,7 @@ title: Angel
 type: movie
 site: sa
 url: https://www.sexart.com/model/alexis-brill/movie/20130726/ANGEL
-cast: Alexis Brill; https://www.sexart.com/model/alexis-brill; g:f
+model: n:Alexis Brill; id:/model/sexart/alexis-brill; u:https://www.sexart.com/model/alexis-brill; g:f
 released: 2013-07-26
 director: Alis Locanta
 rating: 9.2
@@ -4219,7 +4219,7 @@ description: There's no mystery, no subtle subtext, no coded message — once yo
 runtime: 11:33
 executiveProducer: MetArt Films
 producer: Tony Intropido
-directorPhotography: Alis Locanta
+directorOfPhotography: Alis Locanta
 cameraOperator: Jorge Villalobos, Duliamo Ergacia
 stillPhotographer: Duliamo Ergacia
 editor: Alis Locanta
@@ -4258,8 +4258,8 @@ title: Right Now
 type: movie
 site: sa
 url: https://www.sexart.com/model/denson-carter-and-connie-carter/movie/20130724/RIGHT_NOW
-cast: Denson Carter; https://www.sexart.com/model/denson-carter; g:m
-cast: Connie Carter; https://www.sexart.com/model/connie-carter; g:f
+model: n:Denson Carter; id:/model/sexart/denson-carter; u:https://www.sexart.com/model/denson-carter; g:m
+model: n:Connie Carter; id:/model/sexart/connie-carter; u:https://www.sexart.com/model/connie-carter; g:f
 released: 2013-07-24
 director: Andrej Lupin
 rating: 9.4
@@ -4272,7 +4272,7 @@ description: It begins with a tranquil scene from daily life. Densen Carter, sea
 runtime: 22:06
 executiveProducer: MetArt Films
 producer: Ariel Piper Fawn
-directorPhotography: Andrej Lupin
+directorOfPhotography: Andrej Lupin
 cinematographer: John Humble
 cameraOperator: David Kocian
 stillPhotographer: David Jones
@@ -4315,8 +4315,8 @@ title: Purple Touch
 type: movie
 site: sa
 url: https://www.sexart.com/model/tracy-lindsay-and-lorena-b/movie/20130721/PURPLE_TOUCH
-cast: Tracy Lindsay; https://www.sexart.com/model/tracy-lindsay; g:f
-cast: Lorena B; https://www.sexart.com/model/lorena-b; g:f
+model: n:Tracy Lindsay; id:/model/sexart/tracy-lindsay; u:https://www.sexart.com/model/tracy-lindsay; g:f
+model: n:Lorena B; id:/model/sexart/lorena-b; u:https://www.sexart.com/model/lorena-b; g:f
 released: 2013-07-21
 director: Don Caravaggio
 rating: 9.5
@@ -4383,8 +4383,8 @@ title: Darkness In My Mind
 type: movie
 site: sa
 url: https://www.sexart.com/model/eveline-neill-and-marcel-lee/movie/20130719/DARKNESS_IN_MY_MIND
-cast: Eveline Neill; https://www.sexart.com/model/eveline-neill; g:f
-cast: Marcel Lee; https://www.sexart.com/model/marcel-lee; g:m
+model: n:Eveline Neill; id:/model/sexart/eveline-neill; u:https://www.sexart.com/model/eveline-neill; g:f
+model: n:Marcel Lee; id:/model/sexart/marcel-lee; u:https://www.sexart.com/model/marcel-lee; g:m
 released: 2013-07-19
 director: Andrej Lupin
 rating: 9.0
@@ -4398,7 +4398,7 @@ runtime: 21:22
 writer: Ariel Piper Fawn
 executiveProducer: MetArt Films
 producer: Ariel Piper Fawn
-directorPhotography: Andrej Lupin
+directorOfPhotography: Andrej Lupin
 cinematographer: John Humble
 cameraOperator: David Kocian
 stillPhotographer: David Jones
@@ -4436,8 +4436,8 @@ title: For You
 type: movie
 site: sa
 url: https://www.sexart.com/model/leyla-black-and-eufrat-mai/movie/20130717/FOR_YOU
-cast: Leyla Black; https://www.sexart.com/model/leyla-black; g:f
-cast: Eufrat Mai; https://www.sexart.com/model/eufrat-mai; g:f
+model: n:Leyla Black; id:/model/sexart/leyla-black; u:https://www.sexart.com/model/leyla-black; g:f
+model: n:Eufrat Mai; id:/model/sexart/eufrat-mai; u:https://www.sexart.com/model/eufrat-mai; g:f
 released: 2013-07-17
 director: Alis Locanta
 rating: 9.3
@@ -4450,7 +4450,7 @@ description: The look on Eufrat Mai's face as "For You" begins is a combination 
 runtime: 27:12
 executiveProducer: MetArt Films
 producer: Tony Intropido
-directorPhotography: Alis Locanta
+directorOfPhotography: Alis Locanta
 cameraOperator: Jorge Villalobos, Duliamo Ergacia
 stillPhotographer: Duliamo Ergacia
 editor: Alis Locanta
@@ -4497,8 +4497,8 @@ title: True Love
 type: movie
 site: sa
 url: https://www.sexart.com/model/tommy-deer-and-dido-a/movie/20130713/TRUE_LOVE
-cast: Tommy Deer; https://www.sexart.com/model/tommy-deer; g:m
-cast: Dido A; https://www.sexart.com/model/dido-a; g:f
+model: n:Tommy Deer; id:/model/sexart/tommy-deer; u:https://www.sexart.com/model/tommy-deer; g:m
+model: n:Dido A; id:/model/sexart/dido-a; u:https://www.sexart.com/model/dido-a; g:f
 released: 2013-07-13
 director: Andrej Lupin
 rating: 9.3
@@ -4511,7 +4511,7 @@ description: The new day has dawned, breakfast is on the table, and two lovers �
 runtime: 16:09
 executiveProducer: MetArt Films
 producer: Ariel Piper Fawn
-directorPhotography: Andrej Lupin
+directorOfPhotography: Andrej Lupin
 cinematographer: John Humble
 stillPhotographer: David Jones
 editor: Adele Hollis, Andrej Lupin
@@ -4551,8 +4551,8 @@ title: Free Ballin
 type: movie
 site: sa
 url: https://www.sexart.com/model/miela-a-and-whitney-conroy/movie/20130712/FREE_BALLIN
-cast: Miela A; https://www.sexart.com/model/miela-a; g:f
-cast: Whitney Conroy; https://www.sexart.com/model/whitney-conroy; g:f
+model: n:Miela A; id:/model/sexart/miela-a; u:https://www.sexart.com/model/miela-a; g:f
+model: n:Whitney Conroy; id:/model/sexart/whitney-conroy; u:https://www.sexart.com/model/whitney-conroy; g:f
 released: 2013-07-12
 director: Andrej Lupin
 rating: 9.3
@@ -4565,7 +4565,7 @@ description: A matching pair of blue Swiss balls and a pair of beautiful blondes
 runtime: 16:45
 executiveProducer: MetArt Films
 producer: Ariel Piper Fawn
-directorPhotography: Andrej Lupin
+directorOfPhotography: Andrej Lupin
 cinematographer: John Humble
 stillPhotographer: David Jones
 editor: Adele Hollis, Andrej Lupin
@@ -4606,8 +4606,8 @@ title: Our Common Day
 type: movie
 site: sa
 url: https://www.sexart.com/model/mirko-sweet-and-melisa-black/movie/20130710/OUR_COMMON_DAY
-cast: Mirko Sweet; https://www.sexart.com/model/mirko-sweet; g:m
-cast: Melisa Black; https://www.sexart.com/model/melisa-black; g:f
+model: n:Mirko Sweet; id:/model/sexart/mirko-sweet; u:https://www.sexart.com/model/mirko-sweet; g:m
+model: n:Melisa Black; id:/model/sexart/melisa-black; u:https://www.sexart.com/model/melisa-black; g:f
 released: 2013-07-10
 director: Andrej Lupin
 rating: 8.8
@@ -4620,7 +4620,7 @@ description: It is a relaxed, casual day much like any other — Mirko Sweet sit
 runtime: 19:10
 executiveProducer: MetArt Films
 producer: Ariel Piper Fawn
-directorPhotography: Andrej Lupin
+directorOfPhotography: Andrej Lupin
 cinematographer: John Humble
 stillPhotographer: David Jones
 editor: Andrej Lupin, Adele Hollis
@@ -4664,8 +4664,8 @@ title: Spanglish
 type: movie
 site: sa
 url: https://www.sexart.com/model/franck-franco-and-samantha-bentley/movie/20130706/SPANGLISH
-cast: Franck Franco; https://www.sexart.com/model/franck-franco; g:m
-cast: Samantha Bentley; https://www.sexart.com/model/samantha-bentley; g:f
+model: n:Franck Franco; id:/model/sexart/franck-franco; u:https://www.sexart.com/model/franck-franco; g:m
+model: n:Samantha Bentley; id:/model/sexart/samantha-bentley; u:https://www.sexart.com/model/samantha-bentley; g:f
 released: 2013-07-06
 director: Alis Locanta
 rating: 8.9
@@ -4678,7 +4678,7 @@ description: When we first see Samantha Bentley she's singing and dancing to the
 runtime: 23:12
 executiveProducer: MetArt Films
 producer: Tony Intropido
-directorPhotography: Alis Locanta
+directorOfPhotography: Alis Locanta
 cameraOperator: Jorge Villalobos, Duliamo Ergacia
 stillPhotographer: Duliamo Ergacia
 editor: Alis Locanta
@@ -4730,8 +4730,8 @@ title: Breakthru
 type: movie
 site: sa
 url: https://www.sexart.com/model/bailey-ryder-and-cayenne-klein/movie/20130704/BREAKTHRU
-cast: Bailey Ryder; https://www.sexart.com/model/bailey-ryder; g:f
-cast: Cayenne Klein; https://www.sexart.com/model/cayenne-klein; g:f
+model: n:Bailey Ryder; id:/model/sexart/bailey-ryder; u:https://www.sexart.com/model/bailey-ryder; g:f
+model: n:Cayenne Klein; id:/model/sexart/cayenne-klein; u:https://www.sexart.com/model/cayenne-klein; g:f
 released: 2013-07-04
 director: Alis Locanta
 rating: 9.2
@@ -4744,7 +4744,7 @@ description: The flirtation begins on a train speeding through an urban landscap
 runtime: 29:50
 executiveProducer: MetArt Films
 producer: Tony Intropido
-directorPhotography: Alis Locanta
+directorOfPhotography: Alis Locanta
 cameraOperator: Duliamo Ergacia, Jorge Villalobos
 stillPhotographer: Duliamo Ergacia
 editor: Alis Locanta
@@ -4797,8 +4797,8 @@ title: Our Time
 type: movie
 site: sa
 url: https://www.sexart.com/model/amirah-adara-and-matt-bird/movie/20130702/OUR_TIME
-cast: Amirah Adara; https://www.sexart.com/model/amirah-adara; g:f
-cast: Matt Bird; https://www.sexart.com/model/matt-bird; g:m
+model: n:Amirah Adara; id:/model/sexart/amirah-adara; u:https://www.sexart.com/model/amirah-adara; g:f
+model: n:Matt Bird; id:/model/sexart/matt-bird; u:https://www.sexart.com/model/matt-bird; g:m
 released: 2013-07-02
 director: Andrej Lupin
 rating: 9.2
@@ -4811,7 +4811,7 @@ description: Forget the concerns of the outside world. Occupations, responsibili
 runtime: 20:33
 executiveProducer: MetArt Films
 producer: Ariel Piper Fawn
-directorPhotography: Andrej Lupin
+directorOfPhotography: Andrej Lupin
 cinematographer: John Humble
 stillPhotographer: David Jones
 editor: Andrej Lupin, Adele Hollis
@@ -4849,8 +4849,8 @@ title: The Sea Mousse
 type: movie
 site: sa
 url: https://www.sexart.com/model/whitney-conroy-and-lorena-b/movie/20130629/THE_SEA_MOUSSE
-cast: Whitney Conroy; https://www.sexart.com/model/whitney-conroy; g:f
-cast: Lorena B; https://www.sexart.com/model/lorena-b; g:f
+model: n:Whitney Conroy; id:/model/sexart/whitney-conroy; u:https://www.sexart.com/model/whitney-conroy; g:f
+model: n:Lorena B; id:/model/sexart/lorena-b; u:https://www.sexart.com/model/lorena-b; g:f
 released: 2013-06-29
 director: Andrej Lupin
 rating: 9.1
@@ -4863,7 +4863,7 @@ description: The ocean is agitated, alive — white-capped waves roll insistentl
 runtime: 16:32
 executiveProducer: MetArt Films
 producer: Ariel Piper Fawn
-directorPhotography: Andrej Lupin
+directorOfPhotography: Andrej Lupin
 cinematographer: John Humble
 stillPhotographer: David Jones
 editor: Andrej Lupin, David Kocian
@@ -4902,8 +4902,8 @@ title: Only 15 Minutes
 type: movie
 site: sa
 url: https://www.sexart.com/model/anita-bellini-and-amirah-adara/movie/20130627/ONLY_15_MINUTES
-cast: Anita Bellini; https://www.sexart.com/model/anita-bellini; g:f
-cast: Amirah Adara; https://www.sexart.com/model/amirah-adara; g:f
+model: n:Anita Bellini; id:/model/sexart/anita-bellini; u:https://www.sexart.com/model/anita-bellini; g:f
+model: n:Amirah Adara; id:/model/sexart/amirah-adara; u:https://www.sexart.com/model/amirah-adara; g:f
 released: 2013-06-27
 director: Andrej Lupin
 rating: 9.2
@@ -4916,7 +4916,7 @@ description: Although it at first seems simple and direct, the title of Alis Loc
 runtime: 16:23
 executiveProducer: MetArt Films
 producer: Ariel Piper Fawn
-directorPhotography: Andrej Lupin
+directorOfPhotography: Andrej Lupin
 cinematographer: John Humble
 stillPhotographer: David Jones
 editor: Andrej Lupin, Adele Hollis
@@ -4965,8 +4965,8 @@ title: The Only One
 type: movie
 site: sa
 url: https://www.sexart.com/model/franck-franco-and-cayenne-klein/movie/20130625/THE_ONLY_ONE
-cast: Franck Franco; https://www.sexart.com/model/franck-franco; g:m
-cast: Cayenne Klein; https://www.sexart.com/model/cayenne-klein; g:f
+model: n:Franck Franco; id:/model/sexart/franck-franco; u:https://www.sexart.com/model/franck-franco; g:m
+model: n:Cayenne Klein; id:/model/sexart/cayenne-klein; u:https://www.sexart.com/model/cayenne-klein; g:f
 released: 2013-06-25
 director: Alis Locanta
 rating: 9.1
@@ -4979,7 +4979,7 @@ description: A young woman and her lover — Cayenne Klein and Franck Franco —
 runtime: 24:50
 executiveProducer: MetArt Films
 producer: Tony Intropido
-directorPhotography: Alis Locanta
+directorOfPhotography: Alis Locanta
 cameraOperator: Jorge Villalobos, Joe Imparato
 stillPhotographer: Joe Imparato
 editor: Alis Locanta
@@ -5035,8 +5035,8 @@ title: Nice Day
 type: movie
 site: sa
 url: https://www.sexart.com/model/alexis-crystal-and-thomas-lee/movie/20130622/NICE_DAY
-cast: Alexis Crystal; https://www.sexart.com/model/alexis-crystal; g:f
-cast: Thomas Lee; https://www.sexart.com/model/thomas-lee; g:m
+model: n:Alexis Crystal; id:/model/sexart/alexis-crystal; u:https://www.sexart.com/model/alexis-crystal; g:f
+model: n:Thomas Lee; id:/model/sexart/thomas-lee; u:https://www.sexart.com/model/thomas-lee; g:m
 released: 2013-06-22
 director: Andrej Lupin
 rating: 9.2
@@ -5049,7 +5049,7 @@ description: Alexis Crystal and Thomas Lee are enjoying their afternoon together
 runtime: 24:22
 executiveProducer: MetArt Films
 producer: Ariel Piper Fawn
-directorPhotography: Andrej Lupin
+directorOfPhotography: Andrej Lupin
 cinematographer: John Humble
 stillPhotographer: David Jones
 editor: Adele Hollis, Andrej Lupin
@@ -5095,8 +5095,8 @@ title: After Sunbathing
 type: movie
 site: sa
 url: https://www.sexart.com/model/mima-a-and-matt-ice/movie/20130620/AFTER_SUNBATHING
-cast: Mima A; https://www.sexart.com/model/mima-a; g:f
-cast: Matt Ice; https://www.sexart.com/model/matt-ice; g:m
+model: n:Mima A; id:/model/sexart/mima-a; u:https://www.sexart.com/model/mima-a; g:f
+model: n:Matt Ice; id:/model/sexart/matt-ice; u:https://www.sexart.com/model/matt-ice; g:m
 released: 2013-06-20
 director: Andrej Lupin
 rating: 9.0
@@ -5109,7 +5109,7 @@ description: It's just another, relaxed and uneventful, summer day. Shapely blon
 runtime: 17:09
 executiveProducer: MetArt Films
 producer: Ariel Piper Fawn
-directorPhotography: Andrej Lupin
+directorOfPhotography: Andrej Lupin
 cinematographer: John Humble
 stillPhotographer: David Jones
 editor: David Kocian, Andrej Lupin
@@ -5150,8 +5150,8 @@ title: Like Old Times
 type: movie
 site: sa
 url: https://www.sexart.com/model/daniel-g-and-paula-shy/movie/20130618/LIKE_OLD_TIMES
-cast: Daniel G; https://www.sexart.com/model/daniel-g; g:m
-cast: Paula Shy; https://www.sexart.com/model/paula-shy; g:f
+model: n:Daniel G; id:/model/sexart/daniel-g; u:https://www.sexart.com/model/daniel-g; g:m
+model: n:Paula Shy; id:/model/sexart/paula-shy; u:https://www.sexart.com/model/paula-shy; g:f
 released: 2013-06-18
 director: Andrej Lupin
 rating: 9.2
@@ -5164,7 +5164,7 @@ description: A young, carefree couple wander the park like grounds of a farm or 
 runtime: 24:59
 executiveProducer: MetArt Films
 producer: Ariel Piper Fawn
-directorPhotography: Andrej Lupin
+directorOfPhotography: Andrej Lupin
 cinematographer: John Humble
 stillPhotographer: David Jones
 editor: David Kocian, Andrej Lupin
@@ -5196,8 +5196,8 @@ title: Make Me Happy
 type: movie
 site: sa
 url: https://www.sexart.com/model/miela-a-and-lorena-b/movie/20130615/MAKE_ME_HAPPY
-cast: Miela A; https://www.sexart.com/model/miela-a; g:f
-cast: Lorena B; https://www.sexart.com/model/lorena-b; g:f
+model: n:Miela A; id:/model/sexart/miela-a; u:https://www.sexart.com/model/miela-a; g:f
+model: n:Lorena B; id:/model/sexart/lorena-b; u:https://www.sexart.com/model/lorena-b; g:f
 released: 2013-06-15
 director: Andrej Lupin
 rating: 9.4
@@ -5210,7 +5210,7 @@ description: It all begins innocently enough. A masseuse (Miela A), greets a cli
 runtime: 20:32
 executiveProducer: MetArt Films
 producer: Ariel Piper Fawn
-directorPhotography: Andrej Lupin
+directorOfPhotography: Andrej Lupin
 cinematographer: John Humble
 stillPhotographer: David Jones
 editor: David Kocian, Andrej Lupin
@@ -5254,8 +5254,8 @@ title: So Shy
 type: movie
 site: sa
 url: https://www.sexart.com/model/judy-smile-and-liona-b/movie/20130613/SO_SHY
-cast: Judy Smile; https://www.sexart.com/model/judy-smile; g:f
-cast: Liona B; https://www.sexart.com/model/liona-b; g:f
+model: n:Judy Smile; id:/model/sexart/judy-smile; u:https://www.sexart.com/model/judy-smile; g:f
+model: n:Liona B; id:/model/sexart/liona-b; u:https://www.sexart.com/model/liona-b; g:f
 released: 2013-06-13
 director: Andrej Lupin
 rating: 9.1
@@ -5268,7 +5268,7 @@ description: SexArt contributing director Andrej Lupin has cast two newcomers �
 runtime: 21:11
 executiveProducer: MetArt Films
 producer: Ariel Piper Fawn
-directorPhotography: Andrej Lupin
+directorOfPhotography: Andrej Lupin
 cinematographer: John Humble
 stillPhotographer: David Jones
 editor: Andrej Lupin, David Kocian
@@ -5314,8 +5314,8 @@ title: Give Me More
 type: movie
 site: sa
 url: https://www.sexart.com/model/thomas-lee-and-sophie-lynx/movie/20130612/GIVE_ME_MORE
-cast: Thomas Lee; https://www.sexart.com/model/thomas-lee; g:m
-cast: Sophie Lynx; https://www.sexart.com/model/sophie-lynx; g:f
+model: n:Thomas Lee; id:/model/sexart/thomas-lee; u:https://www.sexart.com/model/thomas-lee; g:m
+model: n:Sophie Lynx; id:/model/sexart/sophie-lynx; u:https://www.sexart.com/model/sophie-lynx; g:f
 released: 2013-06-12
 director: Andrej Lupin
 rating: 9.3
@@ -5328,7 +5328,7 @@ description: The moment we set eyes on Sophie Lynx in director Andrej Lupin's "G
 runtime: 25:14
 executiveProducer: MetArt Films
 producer: Ariel Piper Fawn
-directorPhotography: Andrej Lupin
+directorOfPhotography: Andrej Lupin
 cinematographer: John Humble
 stillPhotographer: David Jones
 editor: Andrej Lupin, David Kocian
@@ -5372,8 +5372,8 @@ title: The Road Goes On
 type: movie
 site: sa
 url: https://www.sexart.com/model/frida-and-whitney-conroy/movie/20130608/THE_ROAD_GOES_ON
-cast: Frida; https://www.sexart.com/model/frida; g:f
-cast: Whitney Conroy; https://www.sexart.com/model/whitney-conroy; g:f
+model: n:Frida; id:/model/sexart/frida; u:https://www.sexart.com/model/frida; g:f
+model: n:Whitney Conroy; id:/model/sexart/whitney-conroy; u:https://www.sexart.com/model/whitney-conroy; g:f
 released: 2013-06-08
 director: Alis Locanta
 rating: 9.2
@@ -5386,7 +5386,7 @@ description: Italy's Alis Locanta begins his latest SexArt creation, "The Road G
 runtime: 32:20
 executiveProducer: MetArt Films
 producer: Tony Intropido
-directorPhotography: Alis Locanta
+directorOfPhotography: Alis Locanta
 cameraOperator: Joe Imparato, Jorge Villalobos
 stillPhotographer: Joe Imparato
 editor: Alis Locanta
@@ -5428,8 +5428,8 @@ title: Do What I Want
 type: movie
 site: sa
 url: https://www.sexart.com/model/blue-angel-and-marcus-dupree/movie/20130606/DO_WHAT_I_WANT
-cast: Blue Angel; https://www.sexart.com/model/blue-angel; g:f
-cast: Marcus Dupree; https://www.sexart.com/model/marcus-dupree; g:m
+model: n:Blue Angel; id:/model/sexart/blue-angel; u:https://www.sexart.com/model/blue-angel; g:f
+model: n:Marcus Dupree; id:/model/sexart/marcus-dupree; u:https://www.sexart.com/model/marcus-dupree; g:m
 released: 2013-06-06
 director: Andrej Lupin
 rating: 9.3
@@ -5442,7 +5442,7 @@ description: The setting is a sleek, modern kitchen. Completely devoid of decora
 runtime: 26:01
 executiveProducer: MetArt Films
 producer: Ariel Piper Fawn
-directorPhotography: Andrej Lupin
+directorOfPhotography: Andrej Lupin
 cinematographer: John Humble
 stillPhotographer: David Jones
 editor: Andrej Lupin, David Kocian
@@ -5481,8 +5481,8 @@ title: Sunny Morning
 type: movie
 site: sa
 url: https://www.sexart.com/model/connie-carter-and-denson-carter/movie/20130604/SUNNY_MORNING
-cast: Connie Carter; https://www.sexart.com/model/connie-carter; g:f
-cast: Denson Carter; https://www.sexart.com/model/denson-carter; g:m
+model: n:Connie Carter; id:/model/sexart/connie-carter; u:https://www.sexart.com/model/connie-carter; g:f
+model: n:Denson Carter; id:/model/sexart/denson-carter; u:https://www.sexart.com/model/denson-carter; g:m
 released: 2013-06-04
 director: Andrej Lupin
 rating: 9.2
@@ -5495,7 +5495,7 @@ description: A beautiful, busty, and gloriously nude brunette stands at a sink b
 runtime: 17:53
 executiveProducer: MetArt Films
 producer: Ariel Piper Fawn
-directorPhotography: Andrej Lupin
+directorOfPhotography: Andrej Lupin
 cinematographer: John Humble
 stillPhotographer: David Jones
 editor: David Kocian, Andrej Lupin
@@ -5531,8 +5531,8 @@ title: Room No. 023
 type: movie
 site: sa
 url: https://www.sexart.com/model/thomas-lee-and-victoria-blaze/movie/20130601/ROOM_NO._023
-cast: Thomas Lee; https://www.sexart.com/model/thomas-lee; g:m
-cast: Victoria Blaze; https://www.sexart.com/model/victoria-blaze; g:f
+model: n:Thomas Lee; id:/model/sexart/thomas-lee; u:https://www.sexart.com/model/thomas-lee; g:m
+model: n:Victoria Blaze; id:/model/sexart/victoria-blaze; u:https://www.sexart.com/model/victoria-blaze; g:f
 released: 2013-06-01
 director: Andrej Lupin
 rating: 8.7
@@ -5545,7 +5545,7 @@ description: It is room like so many others in hotels all around the world. Draw
 runtime: 21:12
 executiveProducer: MetArt Films
 producer: Ariel Piper Fawn
-directorPhotography: Andrej Lupin
+directorOfPhotography: Andrej Lupin
 cinematographer: John Humble
 stillPhotographer: David Jones
 editor: Andrej Lupin, David Kocian
@@ -5586,8 +5586,8 @@ title: Hot Experience
 type: movie
 site: sa
 url: https://www.sexart.com/model/mia-knox-and-silvie-deluxe/movie/20130530/HOT_EXPERIENCE
-cast: Mia Knox; https://www.sexart.com/model/mia-knox; g:f
-cast: Silvie Deluxe; https://www.sexart.com/model/silvie-deluxe; g:f
+model: n:Mia Knox; id:/model/sexart/mia-knox; u:https://www.sexart.com/model/mia-knox; g:f
+model: n:Silvie Deluxe; id:/model/sexart/silvie-deluxe; u:https://www.sexart.com/model/silvie-deluxe; g:f
 released: 2013-05-30
 director: Andrej Lupin
 rating: 9.2
@@ -5600,7 +5600,7 @@ description: Tools of their trade in hand, two hotel chambermaids climb the stai
 runtime: 15:54
 executiveProducer: MetArt Films
 producer: Ariel Piper Fawn
-directorPhotography: Andrej Lupin
+directorOfPhotography: Andrej Lupin
 cinematographer: John Humble
 stillPhotographer: David Jones
 editor: Andrej Lupin, David Kocian
@@ -5654,8 +5654,8 @@ title: Dulce Despertar
 type: movie
 site: sa
 url: https://www.sexart.com/model/ariel-piper-fawn-and-whitney-conroy/movie/20130528/DULCE_DESPERTAR
-cast: Ariel Piper Fawn; https://www.sexart.com/model/ariel-piper-fawn; g:f
-cast: Whitney Conroy; https://www.sexart.com/model/whitney-conroy; g:f
+model: n:Ariel Piper Fawn; id:/model/sexart/ariel-piper-fawn; u:https://www.sexart.com/model/ariel-piper-fawn; g:f
+model: n:Whitney Conroy; id:/model/sexart/whitney-conroy; u:https://www.sexart.com/model/whitney-conroy; g:f
 released: 2013-05-28
 director: Andrej Lupin
 rating: 9.3
@@ -5668,7 +5668,7 @@ description: Soft light streams into a bedroom, a new day has dawned. A redheade
 runtime: 18:18
 executiveProducer: MetArt Films
 producer: Ariel Piper Fawn
-directorPhotography: Andrej Lupin
+directorOfPhotography: Andrej Lupin
 cinematographer: John Humble
 stillPhotographer: David Jones
 editor: David Kocian, Andrej Lupin
@@ -5709,8 +5709,8 @@ title: Turning Point
 type: movie
 site: sa
 url: https://www.sexart.com/model/denisa-heaven-and-franck-franco/movie/20130525/TURNING_POINT
-cast: Denisa Heaven; https://www.sexart.com/model/denisa-heaven; g:f
-cast: Franck Franco; https://www.sexart.com/model/franck-franco; g:m
+model: n:Denisa Heaven; id:/model/sexart/denisa-heaven; u:https://www.sexart.com/model/denisa-heaven; g:f
+model: n:Franck Franco; id:/model/sexart/franck-franco; u:https://www.sexart.com/model/franck-franco; g:m
 released: 2013-05-25
 director: Alis Locanta
 rating: 9.0
@@ -5723,7 +5723,7 @@ description: A young couple — obviously and abundantly in the throes of a new 
 runtime: 28:23
 executiveProducer: MetArt Films
 producer: Tony Intropido
-directorPhotography: Alis Locanta
+directorOfPhotography: Alis Locanta
 cameraOperator: Joe Imparato
 stillPhotographer: Joe Imparato
 editor: Alis Locanta
@@ -5771,8 +5771,8 @@ title: Be Mine
 type: movie
 site: sa
 url: https://www.sexart.com/model/lorena-b-and-tess-b/movie/20130523/BE_MINE
-cast: Lorena B; https://www.sexart.com/model/lorena-b; g:f
-cast: Tess B; https://www.sexart.com/model/tess-b; g:f
+model: n:Lorena B; id:/model/sexart/lorena-b; u:https://www.sexart.com/model/lorena-b; g:f
+model: n:Tess B; id:/model/sexart/tess-b; u:https://www.sexart.com/model/tess-b; g:f
 released: 2013-05-23
 director: Don Caravaggio
 rating: 9.5
@@ -5831,8 +5831,8 @@ title: Senora and Jorge
 type: movie
 site: sa
 url: https://www.sexart.com/model/matt-ice-and-silvie-deluxe/movie/20130521/SENORA_AND_JORGE
-cast: Matt Ice; https://www.sexart.com/model/matt-ice; g:m
-cast: Silvie Deluxe; https://www.sexart.com/model/silvie-deluxe; g:f
+model: n:Matt Ice; id:/model/sexart/matt-ice; u:https://www.sexart.com/model/matt-ice; g:m
+model: n:Silvie Deluxe; id:/model/sexart/silvie-deluxe; u:https://www.sexart.com/model/silvie-deluxe; g:f
 released: 2013-05-21
 director: Andrej Lupin
 rating: 9.3
@@ -5845,7 +5845,7 @@ description: It's a story nearly as old as the institution of marriage, and it h
 runtime: 21:40
 executiveProducer: MetArt Films
 producer: Ariel Piper Fawn
-directorPhotography: Andrej Lupin
+directorOfPhotography: Andrej Lupin
 cinematographer: John Humble
 stillPhotographer: David Jones
 editor: Andrej Lupin, David Kocian
@@ -5888,8 +5888,8 @@ title: Dream About You
 type: movie
 site: sa
 url: https://www.sexart.com/model/miela-a-and-mia-knox/movie/20130518/DREAM_ABOUT_YOU
-cast: Miela A; https://www.sexart.com/model/miela-a; g:f
-cast: Mia Knox; https://www.sexart.com/model/mia-knox; g:f
+model: n:Miela A; id:/model/sexart/miela-a; u:https://www.sexart.com/model/miela-a; g:f
+model: n:Mia Knox; id:/model/sexart/mia-knox; u:https://www.sexart.com/model/mia-knox; g:f
 released: 2013-05-18
 director: Andrej Lupin
 rating: 9.3
@@ -5902,7 +5902,7 @@ description: Two lovers awake one bright morning. Miela A rises and retreats to 
 runtime: 14:54
 executiveProducer: MetArt Films
 producer: Ariel Piper Fawn
-directorPhotography: Andrej Lupin
+directorOfPhotography: Andrej Lupin
 cinematographer: John Humble
 stillPhotographer: David Jones
 editor: Andrej Lupin, David Kocian
@@ -5942,8 +5942,8 @@ title: Alluring Passion
 type: movie
 site: sa
 url: https://www.sexart.com/model/tommy-deer-and-dido-a/movie/20130516/ALLURING_PASSION
-cast: Tommy Deer; https://www.sexart.com/model/tommy-deer; g:m
-cast: Dido A; https://www.sexart.com/model/dido-a; g:f
+model: n:Tommy Deer; id:/model/sexart/tommy-deer; u:https://www.sexart.com/model/tommy-deer; g:m
+model: n:Dido A; id:/model/sexart/dido-a; u:https://www.sexart.com/model/dido-a; g:f
 released: 2013-05-16
 director: Andrej Lupin
 rating: 9.4
@@ -5956,7 +5956,7 @@ description: Blonde and beautiful, with a flawless body and an heart-melting smi
 runtime: 31:28
 executiveProducer: MetArt Films
 producer: Ariel Piper Fawn
-directorPhotography: Andrej Lupin
+directorOfPhotography: Andrej Lupin
 cinematographer: John Humble
 stillPhotographer: David Jones
 editor: Andrej Lupin, David Kocian
@@ -5994,8 +5994,8 @@ title: Apple Pie
 type: movie
 site: sa
 url: https://www.sexart.com/model/silvie-deluxe-and-whitney-conroy/movie/20130514/APPLE_PIE
-cast: Silvie Deluxe; https://www.sexart.com/model/silvie-deluxe; g:f
-cast: Whitney Conroy; https://www.sexart.com/model/whitney-conroy; g:f
+model: n:Silvie Deluxe; id:/model/sexart/silvie-deluxe; u:https://www.sexart.com/model/silvie-deluxe; g:f
+model: n:Whitney Conroy; id:/model/sexart/whitney-conroy; u:https://www.sexart.com/model/whitney-conroy; g:f
 released: 2013-05-14
 director: Andrej Lupin
 rating: 9.2
@@ -6008,7 +6008,7 @@ description: With a lively flamenco soundtrack signaling that producer Ariel Pip
 runtime: 19:01
 executiveProducer: MetArt Films
 producer: Ariel Piper Fawn
-directorPhotography: Andrej Lupin
+directorOfPhotography: Andrej Lupin
 cinematographer: John Humble
 stillPhotographer: David Jones
 editor: David Kocian, Andrej Lupin
@@ -6052,8 +6052,8 @@ title: Desire
 type: movie
 site: sa
 url: https://www.sexart.com/model/bella-baby-and-mr.-jacob/movie/20130511/DESIRE
-cast: Bella Baby; https://www.sexart.com/model/bella-baby; g:f
-cast: Mr. Jacob; https://www.sexart.com/model/mr.-jacob; g:m
+model: n:Bella Baby; id:/model/sexart/bella-baby; u:https://www.sexart.com/model/bella-baby; g:f
+model: n:Mr. Jacob; id:/model/sexart/mr-jacob; u:https://www.sexart.com/model/mr.-jacob; g:m
 released: 2013-05-11
 director: Andrej Lupin
 rating: 8.8
@@ -6066,7 +6066,7 @@ description: No matter what it is, what you call it, or how you define it — se
 runtime: 23:13
 executiveProducer: MetArt Films
 producer: Ariel Piper Fawn
-directorPhotography: Andrej Lupin
+directorOfPhotography: Andrej Lupin
 cinematographer: John Humble
 stillPhotographer: David Jones
 editor: Andrej Lupin, David Kocian
@@ -6120,8 +6120,8 @@ title: Secret Love
 type: movie
 site: sa
 url: https://www.sexart.com/model/johny-black-and-kitty-jane/movie/20130509/SECRET_LOVE
-cast: Johny Black; https://www.sexart.com/model/johny-black; g:m
-cast: Kitty Jane; https://www.sexart.com/model/kitty-jane; g:f
+model: n:Johny Black; id:/model/sexart/johny-black; u:https://www.sexart.com/model/johny-black; g:m
+model: n:Kitty Jane; id:/model/sexart/kitty-jane; u:https://www.sexart.com/model/kitty-jane; g:f
 released: 2013-05-09
 director: Andrej Lupin
 rating: 8.8
@@ -6134,7 +6134,7 @@ description: When her boyfriend arrives at her bedroom window — unexpected and
 runtime: 24:30
 executiveProducer: MetArt Films
 producer: Ariel Piper Fawn
-directorPhotography: Andrej Lupin
+directorOfPhotography: Andrej Lupin
 cinematographer: John Humble
 stillPhotographer: David Jones
 editor: David Kocian, Andrej Lupin
@@ -6180,8 +6180,8 @@ title: La Dolce Vita Turisti Per Caso
 type: movie
 site: sa
 url: https://www.sexart.com/model/gertie-and-pablo-ferarri/movie/20130507/LA_DOLCE_VITA_TURISTI_PER_CASO
-cast: Gertie; https://www.sexart.com/model/gertie; g:f
-cast: Pablo Ferarri; https://www.sexart.com/model/pablo-ferarri; g:m
+model: n:Gertie; id:/model/sexart/gertie; u:https://www.sexart.com/model/gertie; g:f
+model: n:Pablo Ferarri; id:/model/sexart/pablo-ferarri; u:https://www.sexart.com/model/pablo-ferarri; g:m
 released: 2013-05-07
 director: Alis Locanta
 rating: 8.1
@@ -6236,8 +6236,8 @@ title: In The Moment of Inspiration
 type: movie
 site: sa
 url: https://www.sexart.com/model/whitney-conroy-and-caprice-a/movie/20130504/IN_THE_MOMENT_OF_INSPIRATION
-cast: Whitney Conroy; https://www.sexart.com/model/whitney-conroy; g:f
-cast: Caprice A; https://www.sexart.com/model/caprice-a; g:f
+model: n:Whitney Conroy; id:/model/sexart/whitney-conroy; u:https://www.sexart.com/model/whitney-conroy; g:f
+model: n:Caprice A; id:/model/sexart/caprice-a; u:https://www.sexart.com/model/caprice-a; g:f
 released: 2013-05-04
 director: Andrej Lupin
 rating: 9.2
@@ -6250,7 +6250,7 @@ description: It's a fantasy with universal appeal for those with even a passing 
 runtime: 19:27
 executiveProducer: MetArt Films
 producer: Ariel Piper Fawn
-directorPhotography: Andrej Lupin
+directorOfPhotography: Andrej Lupin
 cinematographer: John Humble
 stillPhotographer: David Jones
 editor: David Kocian, Andrej Lupin
@@ -6291,8 +6291,8 @@ title: The Key
 type: movie
 site: sa
 url: https://www.sexart.com/model/mima-a-and-thomas-lee/movie/20130502/THE_KEY
-cast: Mima A; https://www.sexart.com/model/mima-a; g:f
-cast: Thomas Lee; https://www.sexart.com/model/thomas-lee; g:m
+model: n:Mima A; id:/model/sexart/mima-a; u:https://www.sexart.com/model/mima-a; g:f
+model: n:Thomas Lee; id:/model/sexart/thomas-lee; u:https://www.sexart.com/model/thomas-lee; g:m
 released: 2013-05-02
 director: Andrej Lupin
 rating: 9.2
@@ -6305,7 +6305,7 @@ description: Shot on the Spanish island of Lanzarote, in the Atlantic ocean off 
 runtime: 20:11
 executiveProducer: MetArt Films
 producer: Ariel Piper Fawn
-directorPhotography: Andrej Lupin
+directorOfPhotography: Andrej Lupin
 cinematographer: John Humble
 stillPhotographer: David Jones
 editor: David Kocian, Andrej Lupin
@@ -6338,8 +6338,8 @@ title: La Dolce Vita Cinquecento
 type: movie
 site: sa
 url: https://www.sexart.com/model/valentina-nappi-and-denis-a/movie/20130430/LA_DOLCE_VITA_CINQUECENTO
-cast: Valentina Nappi; https://www.sexart.com/model/valentina-nappi; g:f
-cast: Denis A; https://www.sexart.com/model/denis-a; g:m
+model: n:Valentina Nappi; id:/model/sexart/valentina-nappi; u:https://www.sexart.com/model/valentina-nappi; g:f
+model: n:Denis A; id:/model/sexart/denis-a; u:https://www.sexart.com/model/denis-a; g:m
 released: 2013-04-30
 director: Alis Locanta
 rating: 9.0
@@ -6394,8 +6394,8 @@ title: Tone of Love
 type: movie
 site: sa
 url: https://www.sexart.com/model/thomas-lee-and-gina-devine/movie/20130427/TONE_OF_LOVE
-cast: Thomas Lee; https://www.sexart.com/model/thomas-lee; g:m
-cast: Gina Devine; https://www.sexart.com/model/gina-devine; g:f
+model: n:Thomas Lee; id:/model/sexart/thomas-lee; u:https://www.sexart.com/model/thomas-lee; g:m
+model: n:Gina Devine; id:/model/sexart/gina-devine; u:https://www.sexart.com/model/gina-devine; g:f
 released: 2013-04-27
 director: Andrej Lupin
 rating: 9.1
@@ -6408,7 +6408,7 @@ description: An artist at work takes a break from practicing his craft to indulg
 runtime: 21:51
 executiveProducer: MetArt Films
 producer: Ariel Piper Fawn
-directorPhotography: Andrej Lupin
+directorOfPhotography: Andrej Lupin
 cinematographer: John Humble
 stillPhotographer: David Jones
 editor: Andrej Lupin, David Kocian
@@ -6444,8 +6444,8 @@ title: Spanish Lesson
 type: movie
 site: sa
 url: https://www.sexart.com/model/silvie-deluxe-and-lorena-b/movie/20130425/SPANISH_LESSON
-cast: Silvie Deluxe; https://www.sexart.com/model/silvie-deluxe; g:f
-cast: Lorena B; https://www.sexart.com/model/lorena-b; g:f
+model: n:Silvie Deluxe; id:/model/sexart/silvie-deluxe; u:https://www.sexart.com/model/silvie-deluxe; g:f
+model: n:Lorena B; id:/model/sexart/lorena-b; u:https://www.sexart.com/model/lorena-b; g:f
 released: 2013-04-25
 director: Andrej Lupin
 rating: 9.5
@@ -6458,7 +6458,7 @@ description: After releasing their highly rated SexArt "Snow Fun" series, the pr
 runtime: 22:40
 executiveProducer: MetArt Films
 producer: Ariel Piper Fawn
-directorPhotography: Andrej Lupin
+directorOfPhotography: Andrej Lupin
 cinematographer: John Humble
 stillPhotographer: David Jones
 editor: David Kocian, Andrej Lupin
@@ -6499,8 +6499,8 @@ title: La Dolce Vita La Spesa
 type: movie
 site: sa
 url: https://www.sexart.com/model/lyen-and-valentina-nappi/movie/20130423/LA_DOLCE_VITA_LA_SPESA
-cast: Lyen; https://www.sexart.com/model/lyen; g:f
-cast: Valentina Nappi; https://www.sexart.com/model/valentina-nappi; g:f
+model: n:Lyen; id:/model/sexart/lyen; u:https://www.sexart.com/model/lyen; g:f
+model: n:Valentina Nappi; id:/model/sexart/valentina-nappi; u:https://www.sexart.com/model/valentina-nappi; g:f
 released: 2013-04-23
 director: Alis Locanta
 rating: 9.2
@@ -6558,8 +6558,8 @@ title: Emotion
 type: movie
 site: sa
 url: https://www.sexart.com/model/whitney-conroy-and-matt-ice/movie/20130420/EMOTION
-cast: Whitney Conroy; https://www.sexart.com/model/whitney-conroy; g:f
-cast: Matt Ice; https://www.sexart.com/model/matt-ice; g:m
+model: n:Whitney Conroy; id:/model/sexart/whitney-conroy; u:https://www.sexart.com/model/whitney-conroy; g:f
+model: n:Matt Ice; id:/model/sexart/matt-ice; u:https://www.sexart.com/model/matt-ice; g:m
 released: 2013-04-20
 director: Andrej Lupin
 rating: 9.3
@@ -6572,7 +6572,7 @@ description: It is basic, stripped down, as simple as possible. And yet it is en
 runtime: 21:15
 executiveProducer: MetArt Films
 producer: Ariel Piper Fawn
-directorPhotography: Andrej Lupin
+directorOfPhotography: Andrej Lupin
 cinematographer: John Humble
 stillPhotographer: David Jones
 editor: David Kocian, Andrej Lupin
@@ -6606,14 +6606,14 @@ title: Snow Fun #9 - The Last Night
 type: movie
 site: sa
 url: https://www.sexart.com/model/carla-cox-and-emylia-argan-and-grace-c-and-kristof-cale-and-terry-sullivan-and-will-s-and-gabi-de-castello-and-matt-ice/movie/20130418/SNOW_FUN_XI_-_THE_LAST_NIGHT
-cast: Carla Cox; https://www.sexart.com/model/carla-cox; g:f
-cast: Emylia Argan; https://www.sexart.com/model/emylia-argan; g:f
-cast: Grace C; https://www.sexart.com/model/grace-c; g:f
-cast: Kristof Cale; https://www.sexart.com/model/kristof-cale; g:m
-cast: Terry Sullivan; https://www.sexart.com/model/terry-sullivan; g:f
-cast: Will S; https://www.sexart.com/model/will-s; g:f
-cast: Gabi de Castello; https://www.sexart.com/model/gabi-de-castello; g:f
-cast: Matt Ice; https://www.sexart.com/model/matt-ice; g:m
+model: n:Carla Cox; id:/model/sexart/carla-cox; u:https://www.sexart.com/model/carla-cox; g:f
+model: n:Emylia Argan; id:/model/sexart/emylia-argan; u:https://www.sexart.com/model/emylia-argan; g:f
+model: n:Grace C; id:/model/sexart/grace-c; u:https://www.sexart.com/model/grace-c; g:f
+model: n:Kristof Cale; id:/model/sexart/kristof-cale; u:https://www.sexart.com/model/kristof-cale; g:m
+model: n:Terry Sullivan; id:/model/sexart/terry-sullivan; u:https://www.sexart.com/model/terry-sullivan; g:f
+model: n:Will S; id:/model/sexart/will-s; u:https://www.sexart.com/model/will-s; g:f
+model: n:Gabi de Castello; id:/model/sexart/gabi-de-castello; u:https://www.sexart.com/model/gabi-de-castello; g:f
+model: n:Matt Ice; id:/model/sexart/matt-ice; u:https://www.sexart.com/model/matt-ice; g:m
 released: 2013-04-18
 director: Andrej Lupin
 rating: 9.4
@@ -6626,7 +6626,7 @@ description: Conventional wisdom suggests that all good things must come to an e
 runtime: 38:20
 executiveProducer: MetArt Films
 producer: Ariel Piper Fawn
-directorPhotography: Andrej Lupin
+directorOfPhotography: Andrej Lupin
 cinematographer: John Humble
 stillPhotographer: David Jones
 editor: David Kocian, Andrej Lupin
@@ -6691,8 +6691,8 @@ title: Double Games
 type: movie
 site: sa
 url: https://www.sexart.com/model/grace-c-and-caprice-a/movie/20130416/DOUBLE_GAMES
-cast: Grace C; https://www.sexart.com/model/grace-c; g:f
-cast: Caprice A; https://www.sexart.com/model/caprice-a; g:f
+model: n:Grace C; id:/model/sexart/grace-c; u:https://www.sexart.com/model/grace-c; g:f
+model: n:Caprice A; id:/model/sexart/caprice-a; u:https://www.sexart.com/model/caprice-a; g:f
 released: 2013-04-16
 director: Don Caravaggio
 rating: 9.3
@@ -6739,8 +6739,8 @@ title: Upper West Side #4
 type: movie
 site: sa
 url: https://www.sexart.com/model/chad-white-and-chloe-foster/movie/20130413/UPPER_WEST_SIDE_IV
-cast: Chad White; https://www.sexart.com/model/chad-white; g:m
-cast: Chloe Foster; https://www.sexart.com/model/chloe-foster; g:f
+model: n:Chad White; id:/model/sexart/chad-white; u:https://www.sexart.com/model/chad-white; g:m
+model: n:Chloe Foster; id:/model/sexart/chloe-foster; u:https://www.sexart.com/model/chloe-foster; g:f
 released: 2013-04-13
 director: Bo Llanberris
 rating: 8.9
@@ -6788,14 +6788,14 @@ title: Snow Fun #10 - We Have a Better Plan
 type: movie
 site: sa
 url: https://www.sexart.com/model/kristof-cale-and-will-s-and-terry-sullivan-and-gabi-de-castello-and-carla-cox-and-emylia-argan-and-grace-c-and-matt-ice/movie/20130411/SNOW_FUN_X_-_WE_HAVE_A_BETTER_PLAN
-cast: Kristof Cale; https://www.sexart.com/model/kristof-cale; g:m
-cast: Will S; https://www.sexart.com/model/will-s; g:f
-cast: Terry Sullivan; https://www.sexart.com/model/terry-sullivan; g:f
-cast: Gabi de Castello; https://www.sexart.com/model/gabi-de-castello; g:f
-cast: Carla Cox; https://www.sexart.com/model/carla-cox; g:f
-cast: Emylia Argan; https://www.sexart.com/model/emylia-argan; g:f
-cast: Grace C; https://www.sexart.com/model/grace-c; g:f
-cast: Matt Ice; https://www.sexart.com/model/matt-ice; g:m
+model: n:Kristof Cale; id:/model/sexart/kristof-cale; u:https://www.sexart.com/model/kristof-cale; g:m
+model: n:Will S; id:/model/sexart/will-s; u:https://www.sexart.com/model/will-s; g:f
+model: n:Terry Sullivan; id:/model/sexart/terry-sullivan; u:https://www.sexart.com/model/terry-sullivan; g:f
+model: n:Gabi de Castello; id:/model/sexart/gabi-de-castello; u:https://www.sexart.com/model/gabi-de-castello; g:f
+model: n:Carla Cox; id:/model/sexart/carla-cox; u:https://www.sexart.com/model/carla-cox; g:f
+model: n:Emylia Argan; id:/model/sexart/emylia-argan; u:https://www.sexart.com/model/emylia-argan; g:f
+model: n:Grace C; id:/model/sexart/grace-c; u:https://www.sexart.com/model/grace-c; g:f
+model: n:Matt Ice; id:/model/sexart/matt-ice; u:https://www.sexart.com/model/matt-ice; g:m
 released: 2013-04-11
 director: Andrej Lupin
 rating: 9.2
@@ -6809,7 +6809,7 @@ description: If you think a woman needs a man to get well and truly banged, thin
 runtime: 21:40
 executiveProducer: MetArt Films
 producer: Ariel Piper Fawn
-directorPhotography: Andrej Lupin
+directorOfPhotography: Andrej Lupin
 cinematographer: John Humble
 stillPhotographer: David Jones
 editor: Andrej Lupin, David Kocian
@@ -6857,8 +6857,8 @@ title: After Party
 type: movie
 site: sa
 url: https://www.sexart.com/model/daniel-g-and-paula-shy/movie/20130409/AFTER_PARTY
-cast: Daniel G; https://www.sexart.com/model/daniel-g; g:m
-cast: Paula Shy; https://www.sexart.com/model/paula-shy; g:f
+model: n:Daniel G; id:/model/sexart/daniel-g; u:https://www.sexart.com/model/daniel-g; g:m
+model: n:Paula Shy; id:/model/sexart/paula-shy; u:https://www.sexart.com/model/paula-shy; g:f
 released: 2013-04-09
 director: Andrej Lupin
 rating: 9.3
@@ -6871,7 +6871,7 @@ description: Three girlfriends have enjoyed a long evening of revelry, but the l
 runtime: 20:08
 executiveProducer: MetArt Films
 producer: Ariel Piper Fawn
-directorPhotography: Andrej Lupin
+directorOfPhotography: Andrej Lupin
 cinematographer: John Humble
 stillPhotographer: David Jones
 editor: David Kocian, Andrej Lupin
@@ -6904,8 +6904,8 @@ title: Upper West Side #3
 type: movie
 site: sa
 url: https://www.sexart.com/model/lily-labeau-and-logan-pierce/movie/20130406/UPPER_WEST_SIDE_III
-cast: Lily Labeau; https://www.sexart.com/model/lily-labeau; g:f
-cast: Logan Pierce; https://www.sexart.com/model/logan-pierce; g:m
+model: n:Lily Labeau; id:/model/sexart/lily-labeau; u:https://www.sexart.com/model/lily-labeau; g:f
+model: n:Logan Pierce; id:/model/sexart/logan-pierce; u:https://www.sexart.com/model/logan-pierce; g:m
 released: 2013-04-06
 director: Bo Llanberris
 rating: 9.0
@@ -6954,14 +6954,14 @@ title: Snow Fun #9 - Sneak Out
 type: movie
 site: sa
 url: https://www.sexart.com/model/gabi-de-castello-and-emylia-argan-and-terry-sullivan-and-matt-ice-and-kristof-cale-and-will-s-and-carla-cox-and-grace-c/movie/20130404/SNOW_FUN_IX_-_SNEAK_OUT
-cast: Gabi de Castello; https://www.sexart.com/model/gabi-de-castello; g:f
-cast: Emylia Argan; https://www.sexart.com/model/emylia-argan; g:f
-cast: Terry Sullivan; https://www.sexart.com/model/terry-sullivan; g:f
-cast: Matt Ice; https://www.sexart.com/model/matt-ice; g:m
-cast: Kristof Cale; https://www.sexart.com/model/kristof-cale; g:m
-cast: Will S; https://www.sexart.com/model/will-s; g:f
-cast: Carla Cox; https://www.sexart.com/model/carla-cox; g:f
-cast: Grace C; https://www.sexart.com/model/grace-c; g:f
+model: n:Gabi de Castello; id:/model/sexart/gabi-de-castello; u:https://www.sexart.com/model/gabi-de-castello; g:f
+model: n:Emylia Argan; id:/model/sexart/emylia-argan; u:https://www.sexart.com/model/emylia-argan; g:f
+model: n:Terry Sullivan; id:/model/sexart/terry-sullivan; u:https://www.sexart.com/model/terry-sullivan; g:f
+model: n:Matt Ice; id:/model/sexart/matt-ice; u:https://www.sexart.com/model/matt-ice; g:m
+model: n:Kristof Cale; id:/model/sexart/kristof-cale; u:https://www.sexart.com/model/kristof-cale; g:m
+model: n:Will S; id:/model/sexart/will-s; u:https://www.sexart.com/model/will-s; g:f
+model: n:Carla Cox; id:/model/sexart/carla-cox; u:https://www.sexart.com/model/carla-cox; g:f
+model: n:Grace C; id:/model/sexart/grace-c; u:https://www.sexart.com/model/grace-c; g:f
 released: 2013-04-04
 director: Andrej Lupin
 rating: 9.3
@@ -6973,7 +6973,7 @@ description: Striking blonde Grace C has figured prominently in the "Snow Fun" s
 runtime: 18:43
 executiveProducer: MetArt Films
 producer: Ariel Piper Fawn
-directorPhotography: Andrej Lupin
+directorOfPhotography: Andrej Lupin
 cinematographer: John Humble
 stillPhotographer: David Jones
 editor: David Kocian, Andrej Lupin
@@ -7013,8 +7013,8 @@ title: Pulse
 type: movie
 site: sa
 url: https://www.sexart.com/model/ariel-piper-fawn-and-monika-a/movie/20130402/PULSE
-cast: Ariel Piper Fawn; https://www.sexart.com/model/ariel-piper-fawn; g:f
-cast: Monika A; https://www.sexart.com/model/monika-a; g:f
+model: n:Ariel Piper Fawn; id:/model/sexart/ariel-piper-fawn; u:https://www.sexart.com/model/ariel-piper-fawn; g:f
+model: n:Monika A; id:/model/sexart/monika-a; u:https://www.sexart.com/model/monika-a; g:f
 released: 2013-04-02
 director: Andrej Lupin
 rating: 9.2
@@ -7027,7 +7027,7 @@ description: Andrej Lupin's "Pulse" marks Ariel Piper Fawn's forth appearance at
 runtime: 23:45
 executiveProducer: MetArt Films
 producer: Ariel Piper Fawn
-directorPhotography: Andrej Lupin
+directorOfPhotography: Andrej Lupin
 cinematographer: John Humble
 stillPhotographer: David Jones
 editor: Andrej Lupin, David Kocian
@@ -7069,8 +7069,8 @@ title: Upper West Side #2
 type: movie
 site: sa
 url: https://www.sexart.com/model/lilly-banks-and-danny-mountain/movie/20130330/UPPER_WEST_SIDE_II
-cast: Lilly Banks; https://www.sexart.com/model/lilly-banks; g:f
-cast: Danny Mountain; https://www.sexart.com/model/danny-mountain; g:m
+model: n:Lilly Banks; id:/model/sexart/lilly-banks; u:https://www.sexart.com/model/lilly-banks; g:f
+model: n:Danny Mountain; id:/model/sexart/danny-mountain; u:https://www.sexart.com/model/danny-mountain; g:m
 released: 2013-03-30
 director: Bo Llanberris
 rating: 8.8
@@ -7121,14 +7121,14 @@ title: Snow Fun #7 - Relax Time
 type: movie
 site: sa
 url: https://www.sexart.com/model/kristof-cale-and-terry-sullivan-and-carla-cox-and-grace-c-and-gabi-de-castello-and-will-s-and-matt-ice-and-emylia-argan/movie/20130328/SNOW_FUN_VIII_-_RELAX_TIME
-cast: Kristof Cale; https://www.sexart.com/model/kristof-cale; g:m
-cast: Terry Sullivan; https://www.sexart.com/model/terry-sullivan; g:f
-cast: Carla Cox; https://www.sexart.com/model/carla-cox; g:f
-cast: Grace C; https://www.sexart.com/model/grace-c; g:f
-cast: Gabi de Castello; https://www.sexart.com/model/gabi-de-castello; g:f
-cast: Will S; https://www.sexart.com/model/will-s; g:f
-cast: Matt Ice; https://www.sexart.com/model/matt-ice; g:m
-cast: Emylia Argan; https://www.sexart.com/model/emylia-argan; g:f
+model: n:Kristof Cale; id:/model/sexart/kristof-cale; u:https://www.sexart.com/model/kristof-cale; g:m
+model: n:Terry Sullivan; id:/model/sexart/terry-sullivan; u:https://www.sexart.com/model/terry-sullivan; g:f
+model: n:Carla Cox; id:/model/sexart/carla-cox; u:https://www.sexart.com/model/carla-cox; g:f
+model: n:Grace C; id:/model/sexart/grace-c; u:https://www.sexart.com/model/grace-c; g:f
+model: n:Gabi de Castello; id:/model/sexart/gabi-de-castello; u:https://www.sexart.com/model/gabi-de-castello; g:f
+model: n:Will S; id:/model/sexart/will-s; u:https://www.sexart.com/model/will-s; g:f
+model: n:Matt Ice; id:/model/sexart/matt-ice; u:https://www.sexart.com/model/matt-ice; g:m
+model: n:Emylia Argan; id:/model/sexart/emylia-argan; u:https://www.sexart.com/model/emylia-argan; g:f
 released: 2013-03-28
 director: Andrej Lupin
 rating: 9.1
@@ -7141,7 +7141,7 @@ description: What's your preferred relaxation technique? Yoga, perhaps? Curling 
 runtime: 21:36
 executiveProducer: MetArt Films
 producer: Ariel Piper Fawn
-directorPhotography: Andrej Lupin
+directorOfPhotography: Andrej Lupin
 cinematographer: John Humble
 stillPhotographer: David Jones
 editor: Andrej Lupin, David Kocian
@@ -7187,8 +7187,8 @@ title: Hot n Cold
 type: movie
 site: sa
 url: https://www.sexart.com/model/dido-a-and-tommy-deer/movie/20130326/HOT_N_COLD
-cast: Dido A; https://www.sexart.com/model/dido-a; g:f
-cast: Tommy Deer; https://www.sexart.com/model/tommy-deer; g:m
+model: n:Dido A; id:/model/sexart/dido-a; u:https://www.sexart.com/model/dido-a; g:f
+model: n:Tommy Deer; id:/model/sexart/tommy-deer; u:https://www.sexart.com/model/tommy-deer; g:m
 released: 2013-03-26
 director: Alis Locanta
 rating: 9.0
@@ -7230,8 +7230,8 @@ title: Flavours
 type: movie
 site: sa
 url: https://www.sexart.com/model/aria-salazar-and-johnny-castle/movie/20130323/FLAVOURS
-cast: Aria Salazar; https://www.sexart.com/model/aria-salazar; g:f
-cast: Johnny Castle; https://www.sexart.com/model/johnny-castle; g:m
+model: n:Aria Salazar; id:/model/sexart/aria-salazar; u:https://www.sexart.com/model/aria-salazar; g:f
+model: n:Johnny Castle; id:/model/sexart/johnny-castle; u:https://www.sexart.com/model/johnny-castle; g:m
 released: 2013-03-23
 director: Bo Llanberris
 rating: 9.0
@@ -7278,14 +7278,14 @@ title: Snow Fun #7 - Downhill Course
 type: movie
 site: sa
 url: https://www.sexart.com/model/terry-sullivan-and-grace-c-and-matt-ice-and-kristof-cale-and-carla-cox-and-will-s-and-emylia-argan-and-gabi-de-castello/movie/20130321/SNOW_FUN_VII_-_DOWNHILL_COURSE
-cast: Terry Sullivan; https://www.sexart.com/model/terry-sullivan; g:f
-cast: Grace C; https://www.sexart.com/model/grace-c; g:f
-cast: Matt Ice; https://www.sexart.com/model/matt-ice; g:m
-cast: Kristof Cale; https://www.sexart.com/model/kristof-cale; g:m
-cast: Carla Cox; https://www.sexart.com/model/carla-cox; g:f
-cast: Will S; https://www.sexart.com/model/will-s; g:f
-cast: Emylia Argan; https://www.sexart.com/model/emylia-argan; g:f
-cast: Gabi de Castello; https://www.sexart.com/model/gabi-de-castello; g:f
+model: n:Terry Sullivan; id:/model/sexart/terry-sullivan; u:https://www.sexart.com/model/terry-sullivan; g:f
+model: n:Grace C; id:/model/sexart/grace-c; u:https://www.sexart.com/model/grace-c; g:f
+model: n:Matt Ice; id:/model/sexart/matt-ice; u:https://www.sexart.com/model/matt-ice; g:m
+model: n:Kristof Cale; id:/model/sexart/kristof-cale; u:https://www.sexart.com/model/kristof-cale; g:m
+model: n:Carla Cox; id:/model/sexart/carla-cox; u:https://www.sexart.com/model/carla-cox; g:f
+model: n:Will S; id:/model/sexart/will-s; u:https://www.sexart.com/model/will-s; g:f
+model: n:Emylia Argan; id:/model/sexart/emylia-argan; u:https://www.sexart.com/model/emylia-argan; g:f
+model: n:Gabi de Castello; id:/model/sexart/gabi-de-castello; u:https://www.sexart.com/model/gabi-de-castello; g:f
 released: 2013-03-21
 director: Andrej Lupin
 rating: 9.0
@@ -7298,7 +7298,7 @@ description: Now that the "Snow Fun" series has reached its seventh episode the 
 runtime: 23:24
 executiveProducer: MetArt Films
 producer: Ariel Piper Fawn
-directorPhotography: Andrej Lupin
+directorOfPhotography: Andrej Lupin
 cinematographer: John Humble
 stillPhotographer: David Jones
 editor: Andrej Lupin, David Kocian
@@ -7340,8 +7340,8 @@ title: The Dream
 type: movie
 site: sa
 url: https://www.sexart.com/model/andrea-p-and-emily-j/movie/20130319/THE_DREAM
-cast: Andrea P; https://www.sexart.com/model/andrea-p; g:f
-cast: Emily J; https://www.sexart.com/model/emily-j; g:f
+model: n:Andrea P; id:/model/sexart/andrea-p; u:https://www.sexart.com/model/andrea-p; g:f
+model: n:Emily J; id:/model/sexart/emily-j; u:https://www.sexart.com/model/emily-j; g:f
 released: 2013-03-19
 director: Paul Black
 rating: 8.7
@@ -7354,7 +7354,7 @@ description: The creative team of Paul and Ilona Black have a wholly unique appr
 runtime: 06:05
 writer: Ilona Black
 producer: MetArt Films
-directorPhotography: Ilona Black
+directorOfPhotography: Ilona Black
 editor: Paul Black
 tag: beauty mark
 tag: bed
@@ -7400,8 +7400,8 @@ title: Upper West Side #1
 type: movie
 site: sa
 url: https://www.sexart.com/model/capri-anderson-and-tyler-nixon/movie/20130316/UPPER_WEST_SIDE
-cast: Capri Anderson; https://www.sexart.com/model/capri-anderson; g:f
-cast: Tyler Nixon; https://www.sexart.com/model/tyler-nixon; g:m
+model: n:Capri Anderson; id:/model/sexart/capri-anderson; u:https://www.sexart.com/model/capri-anderson; g:f
+model: n:Tyler Nixon; id:/model/sexart/tyler-nixon; u:https://www.sexart.com/model/tyler-nixon; g:m
 released: 2013-03-16
 director: Bo Llanberris
 rating: 9.2
@@ -7450,14 +7450,14 @@ title: Snow Fun #6 - Sexy Game
 type: movie
 site: sa
 url: https://www.sexart.com/model/emylia-argan-and-terry-sullivan-and-carla-cox-and-will-s-and-gabi-de-castello-and-grace-c-and-kristof-cale-and-matt-ice/movie/20130314/SNOW_FUN_VI_-_SEXY_GAME
-cast: Emylia Argan; https://www.sexart.com/model/emylia-argan; g:f
-cast: Terry Sullivan; https://www.sexart.com/model/terry-sullivan; g:f
-cast: Carla Cox; https://www.sexart.com/model/carla-cox; g:f
-cast: Will S; https://www.sexart.com/model/will-s; g:f
-cast: Gabi de Castello; https://www.sexart.com/model/gabi-de-castello; g:f
-cast: Grace C; https://www.sexart.com/model/grace-c; g:f
-cast: Kristof Cale; https://www.sexart.com/model/kristof-cale; g:m
-cast: Matt Ice; https://www.sexart.com/model/matt-ice; g:m
+model: n:Emylia Argan; id:/model/sexart/emylia-argan; u:https://www.sexart.com/model/emylia-argan; g:f
+model: n:Terry Sullivan; id:/model/sexart/terry-sullivan; u:https://www.sexart.com/model/terry-sullivan; g:f
+model: n:Carla Cox; id:/model/sexart/carla-cox; u:https://www.sexart.com/model/carla-cox; g:f
+model: n:Will S; id:/model/sexart/will-s; u:https://www.sexart.com/model/will-s; g:f
+model: n:Gabi de Castello; id:/model/sexart/gabi-de-castello; u:https://www.sexart.com/model/gabi-de-castello; g:f
+model: n:Grace C; id:/model/sexart/grace-c; u:https://www.sexart.com/model/grace-c; g:f
+model: n:Kristof Cale; id:/model/sexart/kristof-cale; u:https://www.sexart.com/model/kristof-cale; g:m
+model: n:Matt Ice; id:/model/sexart/matt-ice; u:https://www.sexart.com/model/matt-ice; g:m
 released: 2013-03-14
 director: Andrej Lupin
 rating: 9.2
@@ -7470,7 +7470,7 @@ description: Episode VI of the "Snow Fun" series has no trouble at all living up
 runtime: 18:58
 executiveProducer: MetArt Films
 producer: Ariel Piper Fawn
-directorPhotography: Andrej Lupin
+directorOfPhotography: Andrej Lupin
 cinematographer: John Humble
 stillPhotographer: David Jones
 editor: Andrej Lupin, David Kocian
@@ -7532,8 +7532,8 @@ title: Jealousy
 type: movie
 site: sa
 url: https://www.sexart.com/model/whitney-conroy-and-eufrat-mai/movie/20130312/JEALOUSY
-cast: Whitney Conroy; https://www.sexart.com/model/whitney-conroy; g:f
-cast: Eufrat Mai; https://www.sexart.com/model/eufrat-mai; g:f
+model: n:Whitney Conroy; id:/model/sexart/whitney-conroy; u:https://www.sexart.com/model/whitney-conroy; g:f
+model: n:Eufrat Mai; id:/model/sexart/eufrat-mai; u:https://www.sexart.com/model/eufrat-mai; g:f
 released: 2013-03-12
 director: Alis Locanta
 rating: 9.2
@@ -7579,8 +7579,8 @@ title: Tropic
 type: movie
 site: sa
 url: https://www.sexart.com/model/william-corazon-and-casey-calvert/movie/20130309/TROPIC
-cast: William Corazon; https://www.sexart.com/model/william-corazon; g:m
-cast: Casey Calvert; https://www.sexart.com/model/casey-calvert; g:f
+model: n:William Corazon; id:/model/sexart/william-corazon; u:https://www.sexart.com/model/william-corazon; g:m
+model: n:Casey Calvert; id:/model/sexart/casey-calvert; u:https://www.sexart.com/model/casey-calvert; g:f
 released: 2013-03-09
 director: Bo Llanberris
 rating: 9.1
@@ -7627,14 +7627,14 @@ title: Snow Fun #5 - Warm Me Up
 type: movie
 site: sa
 url: https://www.sexart.com/model/gabi-de-castello-and-grace-c-and-matt-ice-and-will-s-and-carla-cox-and-kristof-cale-and-terry-sullivan-and-emylia-argan/movie/20130307/SNOW_FUN_V_-_WARM_ME_UP
-cast: Gabi de Castello; https://www.sexart.com/model/gabi-de-castello; g:f
-cast: Grace C; https://www.sexart.com/model/grace-c; g:f
-cast: Matt Ice; https://www.sexart.com/model/matt-ice; g:m
-cast: Will S; https://www.sexart.com/model/will-s; g:f
-cast: Carla Cox; https://www.sexart.com/model/carla-cox; g:f
-cast: Kristof Cale; https://www.sexart.com/model/kristof-cale; g:m
-cast: Terry Sullivan; https://www.sexart.com/model/terry-sullivan; g:f
-cast: Emylia Argan; https://www.sexart.com/model/emylia-argan; g:f
+model: n:Gabi de Castello; id:/model/sexart/gabi-de-castello; u:https://www.sexart.com/model/gabi-de-castello; g:f
+model: n:Grace C; id:/model/sexart/grace-c; u:https://www.sexart.com/model/grace-c; g:f
+model: n:Matt Ice; id:/model/sexart/matt-ice; u:https://www.sexart.com/model/matt-ice; g:m
+model: n:Will S; id:/model/sexart/will-s; u:https://www.sexart.com/model/will-s; g:f
+model: n:Carla Cox; id:/model/sexart/carla-cox; u:https://www.sexart.com/model/carla-cox; g:f
+model: n:Kristof Cale; id:/model/sexart/kristof-cale; u:https://www.sexart.com/model/kristof-cale; g:m
+model: n:Terry Sullivan; id:/model/sexart/terry-sullivan; u:https://www.sexart.com/model/terry-sullivan; g:f
+model: n:Emylia Argan; id:/model/sexart/emylia-argan; u:https://www.sexart.com/model/emylia-argan; g:f
 released: 2013-03-07
 director: Andrej Lupin
 rating: 9.2
@@ -7647,7 +7647,7 @@ description: If the first things that come to mind when you hear the words "snow
 runtime: 20:50
 executiveProducer: MetArt Films
 producer: Ariel Piper Fawn
-directorPhotography: Andrej Lupin
+directorOfPhotography: Andrej Lupin
 cinematographer: John Humble
 stillPhotographer: David Jones
 editor: David Kocian, Andrej Lupin
@@ -7692,8 +7692,8 @@ title: The Match
 type: movie
 site: sa
 url: https://www.sexart.com/model/victoria-sweet-and-ridge/movie/20130305/THE_MATCH
-cast: Victoria Sweet; https://www.sexart.com/model/victoria-sweet; g:f
-cast: Ridge; https://www.sexart.com/model/ridge; g:m
+model: n:Victoria Sweet; id:/model/sexart/victoria-sweet; u:https://www.sexart.com/model/victoria-sweet; g:f
+model: n:Ridge; id:/model/sexart/ridge; u:https://www.sexart.com/model/ridge; g:m
 released: 2013-03-05
 director: Alis Locanta
 rating: 9.0
@@ -7745,8 +7745,8 @@ title: The Return
 type: movie
 site: sa
 url: https://www.sexart.com/model/logan-pierce-and-jasmine-w/movie/20130302/THE_RETURN
-cast: Logan Pierce; https://www.sexart.com/model/logan-pierce; g:m
-cast: Jasmine W; https://www.sexart.com/model/jasmine-w; g:f
+model: n:Logan Pierce; id:/model/sexart/logan-pierce; u:https://www.sexart.com/model/logan-pierce; g:m
+model: n:Jasmine W; id:/model/sexart/jasmine-w; u:https://www.sexart.com/model/jasmine-w; g:f
 released: 2013-03-02
 director: Bo Llanberris
 rating: 9.2
@@ -7796,14 +7796,14 @@ title: Snow Fun #4 - Good Morning
 type: movie
 site: sa
 url: https://www.sexart.com/model/grace-c-and-matt-ice-and-emylia-argan-and-will-s-and-kristof-cale-and-terry-sullivan-and-gabi-de-castello-and-carla-cox/movie/20130228/SNOW_FUN_IV_-_GOOD_MORNING
-cast: Grace C; https://www.sexart.com/model/grace-c; g:f
-cast: Matt Ice; https://www.sexart.com/model/matt-ice; g:m
-cast: Emylia Argan; https://www.sexart.com/model/emylia-argan; g:f
-cast: Will S; https://www.sexart.com/model/will-s; g:f
-cast: Kristof Cale; https://www.sexart.com/model/kristof-cale; g:m
-cast: Terry Sullivan; https://www.sexart.com/model/terry-sullivan; g:f
-cast: Gabi de Castello; https://www.sexart.com/model/gabi-de-castello; g:f
-cast: Carla Cox; https://www.sexart.com/model/carla-cox; g:f
+model: n:Grace C; id:/model/sexart/grace-c; u:https://www.sexart.com/model/grace-c; g:f
+model: n:Matt Ice; id:/model/sexart/matt-ice; u:https://www.sexart.com/model/matt-ice; g:m
+model: n:Emylia Argan; id:/model/sexart/emylia-argan; u:https://www.sexart.com/model/emylia-argan; g:f
+model: n:Will S; id:/model/sexart/will-s; u:https://www.sexart.com/model/will-s; g:f
+model: n:Kristof Cale; id:/model/sexart/kristof-cale; u:https://www.sexart.com/model/kristof-cale; g:m
+model: n:Terry Sullivan; id:/model/sexart/terry-sullivan; u:https://www.sexart.com/model/terry-sullivan; g:f
+model: n:Gabi de Castello; id:/model/sexart/gabi-de-castello; u:https://www.sexart.com/model/gabi-de-castello; g:f
+model: n:Carla Cox; id:/model/sexart/carla-cox; u:https://www.sexart.com/model/carla-cox; g:f
 released: 2013-02-28
 director: Andrej Lupin
 rating: 9.0
@@ -7816,7 +7816,7 @@ description: Director Andrej Lupin's "Snow Fun" series reaches its forth install
 runtime: 18:00
 executiveProducer: MetArt Films
 producer: Ariel Piper Fawn
-directorPhotography: Andrej Lupin
+directorOfPhotography: Andrej Lupin
 cinematographer: John Humble
 stillPhotographer: David Jones
 editor: Andrej Lupin, David Kocian
@@ -7876,7 +7876,7 @@ title: Lonely Day
 type: movie
 site: sa
 url: https://www.sexart.com/model/emily-j/movie/20130226/LONELY_DAY
-cast: Emily J; https://www.sexart.com/model/emily-j; g:f
+model: n:Emily J; id:/model/sexart/emily-j; u:https://www.sexart.com/model/emily-j; g:f
 released: 2013-02-26
 director: Paul Black
 rating: 9.5
@@ -7889,7 +7889,7 @@ description: You may be an expert in female autoeroticism. You may have studied 
 runtime: 06:32
 writer: Ilona Black, Paul Black
 producer: MetArt Films
-directorPhotography: Ilona Black
+directorOfPhotography: Ilona Black
 tag: bed
 tag: bedroom
 tag: boy shorts
@@ -7923,8 +7923,8 @@ title: El Matador
 type: movie
 site: sa
 url: https://www.sexart.com/model/presley-hart-and-william-corazon/movie/20130223/EL_MATADOR
-cast: Presley Hart; https://www.sexart.com/model/presley-hart; g:f
-cast: William Corazon; https://www.sexart.com/model/william-corazon; g:m
+model: n:Presley Hart; id:/model/sexart/presley-hart; u:https://www.sexart.com/model/presley-hart; g:f
+model: n:William Corazon; id:/model/sexart/william-corazon; u:https://www.sexart.com/model/william-corazon; g:m
 released: 2013-02-23
 director: Bo Llanberris
 rating: 9.2
@@ -7977,14 +7977,14 @@ title: Snow Fun #3 - Welcome
 type: movie
 site: sa
 url: https://www.sexart.com/model/matt-ice-and-gabi-de-castello-and-emylia-argan-and-carla-cox-and-will-s-and-kristof-cale-and-grace-c-and-terry-sullivan/movie/20130221/SNOW_FUN_III_-_WELCOME
-cast: Matt Ice; https://www.sexart.com/model/matt-ice; g:m
-cast: Gabi de Castello; https://www.sexart.com/model/gabi-de-castello; g:f
-cast: Emylia Argan; https://www.sexart.com/model/emylia-argan; g:f
-cast: Carla Cox; https://www.sexart.com/model/carla-cox; g:f
-cast: Will S; https://www.sexart.com/model/will-s; g:f
-cast: Kristof Cale; https://www.sexart.com/model/kristof-cale; g:m
-cast: Grace C; https://www.sexart.com/model/grace-c; g:f
-cast: Terry Sullivan; https://www.sexart.com/model/terry-sullivan; g:f
+model: n:Matt Ice; id:/model/sexart/matt-ice; u:https://www.sexart.com/model/matt-ice; g:m
+model: n:Gabi de Castello; id:/model/sexart/gabi-de-castello; u:https://www.sexart.com/model/gabi-de-castello; g:f
+model: n:Emylia Argan; id:/model/sexart/emylia-argan; u:https://www.sexart.com/model/emylia-argan; g:f
+model: n:Carla Cox; id:/model/sexart/carla-cox; u:https://www.sexart.com/model/carla-cox; g:f
+model: n:Will S; id:/model/sexart/will-s; u:https://www.sexart.com/model/will-s; g:f
+model: n:Kristof Cale; id:/model/sexart/kristof-cale; u:https://www.sexart.com/model/kristof-cale; g:m
+model: n:Grace C; id:/model/sexart/grace-c; u:https://www.sexart.com/model/grace-c; g:f
+model: n:Terry Sullivan; id:/model/sexart/terry-sullivan; u:https://www.sexart.com/model/terry-sullivan; g:f
 released: 2013-02-21
 director: Andrej Lupin
 rating: 9.1
@@ -7997,7 +7997,7 @@ description: In "Welcome," episode III of the "Snow Fun" series, a group of frie
 runtime: 12:57
 executiveProducer: MetArt Films
 producer: Ariel Piper Fawn
-directorPhotography: Andrej Lupin
+directorOfPhotography: Andrej Lupin
 cinematographer: John Humble
 stillPhotographer: David Jones
 editor: Andrej Lupin, David Kocian
@@ -8055,8 +8055,8 @@ title: Let It Snow
 type: movie
 site: sa
 url: https://www.sexart.com/model/uma-and-denis-a/movie/20130219/LET_IT_SNOW
-cast: Uma; https://www.sexart.com/model/uma; g:f
-cast: Denis A; https://www.sexart.com/model/denis-a; g:m
+model: n:Uma; id:/model/sexart/uma; u:https://www.sexart.com/model/uma; g:f
+model: n:Denis A; id:/model/sexart/denis-a; u:https://www.sexart.com/model/denis-a; g:m
 released: 2013-02-19
 director: Alis Locanta
 rating: 9.1
@@ -8098,9 +8098,9 @@ title: Snow Day
 type: movie
 site: sa
 url: https://www.sexart.com/model/kiera-winters-and-elle-alexandra-and-aiden-ashley/movie/20130216/SNOW_DAY
-cast: Kiera Winters; https://www.sexart.com/model/kiera-winters; g:f
-cast: Elle Alexandra; https://www.sexart.com/model/elle-alexandra; g:f
-cast: Aiden Ashley; https://www.sexart.com/model/aiden-ashley; g:f
+model: n:Kiera Winters; id:/model/sexart/kiera-winters; u:https://www.sexart.com/model/kiera-winters; g:f
+model: n:Elle Alexandra; id:/model/sexart/elle-alexandra; u:https://www.sexart.com/model/elle-alexandra; g:f
+model: n:Aiden Ashley; id:/model/sexart/aiden-ashley; u:https://www.sexart.com/model/aiden-ashley; g:f
 released: 2013-02-16
 director: Bo Llanberris
 rating: 9.3
@@ -8152,14 +8152,14 @@ title: Snow Fun #2 - Candle Romance
 type: movie
 site: sa
 url: https://www.sexart.com/model/emylia-argan-and-terry-sullivan-and-gabi-de-castello-and-carla-cox-and-will-s-and-matt-ice-and-kristof-cale-and-grace-c/movie/20130214/SNOW_FUN_II_-_CANDLE_ROMANCE
-cast: Emylia Argan; https://www.sexart.com/model/emylia-argan; g:f
-cast: Terry Sullivan; https://www.sexart.com/model/terry-sullivan; g:f
-cast: Gabi de Castello; https://www.sexart.com/model/gabi-de-castello; g:f
-cast: Carla Cox; https://www.sexart.com/model/carla-cox; g:f
-cast: Will S; https://www.sexart.com/model/will-s; g:f
-cast: Matt Ice; https://www.sexart.com/model/matt-ice; g:m
-cast: Kristof Cale; https://www.sexart.com/model/kristof-cale; g:m
-cast: Grace C; https://www.sexart.com/model/grace-c; g:f
+model: n:Emylia Argan; id:/model/sexart/emylia-argan; u:https://www.sexart.com/model/emylia-argan; g:f
+model: n:Terry Sullivan; id:/model/sexart/terry-sullivan; u:https://www.sexart.com/model/terry-sullivan; g:f
+model: n:Gabi de Castello; id:/model/sexart/gabi-de-castello; u:https://www.sexart.com/model/gabi-de-castello; g:f
+model: n:Carla Cox; id:/model/sexart/carla-cox; u:https://www.sexart.com/model/carla-cox; g:f
+model: n:Will S; id:/model/sexart/will-s; u:https://www.sexart.com/model/will-s; g:f
+model: n:Matt Ice; id:/model/sexart/matt-ice; u:https://www.sexart.com/model/matt-ice; g:m
+model: n:Kristof Cale; id:/model/sexart/kristof-cale; u:https://www.sexart.com/model/kristof-cale; g:m
+model: n:Grace C; id:/model/sexart/grace-c; u:https://www.sexart.com/model/grace-c; g:f
 released: 2013-02-14
 director: Andrej Lupin
 rating: 9.2
@@ -8172,7 +8172,7 @@ description: "Candle Romance," the second episode of the "Snow Fun" series, was 
 runtime: 24:08
 executiveProducer: MetArt Films
 producer: Ariel Piper Fawn
-directorPhotography: Andrej Lupin
+directorOfPhotography: Andrej Lupin
 cinematographer: John Humble
 stillPhotographer: David Jones
 editor: Andrej Lupin, David Kocian
@@ -8238,8 +8238,8 @@ title: Sweet Morning
 type: movie
 site: sa
 url: https://www.sexart.com/model/steve-q-and-victoria-puppy/movie/20130212/SWEET_MORNING
-cast: Steve Q; https://www.sexart.com/model/steve-q; g:m
-cast: Victoria Puppy; https://www.sexart.com/model/victoria-puppy; g:f
+model: n:Steve Q; id:/model/sexart/steve-q; u:https://www.sexart.com/model/steve-q; g:m
+model: n:Victoria Puppy; id:/model/sexart/victoria-puppy; u:https://www.sexart.com/model/victoria-puppy; g:f
 released: 2013-02-12
 director: Alis Locanta
 rating: 8.7
@@ -8280,8 +8280,8 @@ title: De Lounge #2
 type: movie
 site: sa
 url: https://www.sexart.com/model/dani-daniels-and-ryan-driller/movie/20130209/DE_LOUNGE_II
-cast: Dani Daniels; https://www.sexart.com/model/dani-daniels; g:f
-cast: Ryan Driller; https://www.sexart.com/model/ryan-driller; g:m
+model: n:Dani Daniels; id:/model/sexart/dani-daniels; u:https://www.sexart.com/model/dani-daniels; g:f
+model: n:Ryan Driller; id:/model/sexart/ryan-driller; u:https://www.sexart.com/model/ryan-driller; g:m
 released: 2013-02-09
 director: Bo Llanberris
 rating: 9.1
@@ -8331,8 +8331,8 @@ title: White Secret
 type: movie
 site: sa
 url: https://www.sexart.com/model/mia-knox-and-kitty-jane/movie/20130207/WHITE_SECRET
-cast: Mia Knox; https://www.sexart.com/model/mia-knox; g:f
-cast: Kitty Jane; https://www.sexart.com/model/kitty-jane; g:f
+model: n:Mia Knox; id:/model/sexart/mia-knox; u:https://www.sexart.com/model/mia-knox; g:f
+model: n:Kitty Jane; id:/model/sexart/kitty-jane; u:https://www.sexart.com/model/kitty-jane; g:f
 released: 2013-02-07
 director: Alis Locanta
 rating: 8.6
@@ -8380,8 +8380,8 @@ title: Undercover Dangerous #3 - In Petrify
 type: movie
 site: sa
 url: https://www.sexart.com/model/logan-pierce-and-stacie-silverstone/movie/20130203/UNDERCOVER_DANGEROUS_III_IN_PETRIFY
-cast: Logan Pierce; https://www.sexart.com/model/logan-pierce; g:m
-cast: Stacie Silverstone; https://www.sexart.com/model/stacie-silverstone; g:f
+model: n:Logan Pierce; id:/model/sexart/logan-pierce; u:https://www.sexart.com/model/logan-pierce; g:m
+model: n:Stacie Silverstone; id:/model/sexart/stacie-silverstone; u:https://www.sexart.com/model/stacie-silverstone; g:f
 released: 2013-02-03
 director: Bo Llanberris
 rating: 9.1
@@ -8438,8 +8438,8 @@ title: Snow Fun #1 - Still Enough Time
 type: movie
 site: sa
 url: https://www.sexart.com/model/matt-ice-and-carla-cox/movie/20130131/SNOW_FUN_-_STILL_ENOUGH_TIME
-cast: Matt Ice; https://www.sexart.com/model/matt-ice; g:m
-cast: Carla Cox; https://www.sexart.com/model/carla-cox; g:f
+model: n:Matt Ice; id:/model/sexart/matt-ice; u:https://www.sexart.com/model/matt-ice; g:m
+model: n:Carla Cox; id:/model/sexart/carla-cox; u:https://www.sexart.com/model/carla-cox; g:f
 released: 2013-01-31
 director: Andrej Lupin
 rating: 9.0
@@ -8452,7 +8452,7 @@ description: You may know Ariel Piper Fawn from her SexArt photo series, or from
 runtime: 18:57
 executiveProducer: MetArt Films
 producer: Ariel Piper Fawn
-directorPhotography: Andrej Lupin
+directorOfPhotography: Andrej Lupin
 cinematographer: John Humble
 stillPhotographer: David Jones
 editor: Andrej Lupin, David Kocian
@@ -8504,8 +8504,8 @@ title: Sahara
 type: movie
 site: sa
 url: https://www.sexart.com/model/kris-slater-and-cameron-canada/movie/20130127/SAHARA
-cast: Kris Slater; https://www.sexart.com/model/kris-slater; g:m
-cast: Cameron Canada; https://www.sexart.com/model/cameron-canada; g:f
+model: n:Kris Slater; id:/model/sexart/kris-slater; u:https://www.sexart.com/model/kris-slater; g:m
+model: n:Cameron Canada; id:/model/sexart/cameron-canada; u:https://www.sexart.com/model/cameron-canada; g:f
 released: 2013-01-27
 director: Bo Llanberris
 rating: 9.0
@@ -8553,8 +8553,8 @@ title: Sweet Fruits
 type: movie
 site: sa
 url: https://www.sexart.com/model/daniel-g-and-paula-shy/movie/20130124/SWEET_FRUITS
-cast: Daniel G; https://www.sexart.com/model/daniel-g; g:m
-cast: Paula Shy; https://www.sexart.com/model/paula-shy; g:f
+model: n:Daniel G; id:/model/sexart/daniel-g; u:https://www.sexart.com/model/daniel-g; g:m
+model: n:Paula Shy; id:/model/sexart/paula-shy; u:https://www.sexart.com/model/paula-shy; g:f
 released: 2013-01-24
 director: Andrej Lupin
 rating: 9.4
@@ -8567,7 +8567,7 @@ description: Playful is the first word that comes to mind in the film Sweet Frui
 runtime: 21:47
 executiveProducer: MetArt Films
 producer: Ariel Piper Fawn
-directorPhotography: Andrej Lupin
+directorOfPhotography: Andrej Lupin
 cinematographer: John Humble
 stillPhotographer: David Jones
 editor: David Kocian, Andrej Lupin
@@ -8605,8 +8605,8 @@ title: Winter Solstice
 type: movie
 site: sa
 url: https://www.sexart.com/model/jessie-andrews-and-elle-alexandra/movie/20130120/WINTER_SOLSTICE
-cast: Jessie Andrews; https://www.sexart.com/model/jessie-andrews; g:f
-cast: Elle Alexandra; https://www.sexart.com/model/elle-alexandra; g:f
+model: n:Jessie Andrews; id:/model/sexart/jessie-andrews; u:https://www.sexart.com/model/jessie-andrews; g:f
+model: n:Elle Alexandra; id:/model/sexart/elle-alexandra; u:https://www.sexart.com/model/elle-alexandra; g:f
 released: 2013-01-20
 director: Bo Llanberris
 rating: 9.3
@@ -8655,8 +8655,8 @@ title: Cloud
 type: movie
 site: sa
 url: https://www.sexart.com/model/silvie-deluxe-and-ariel-piper-fawn/movie/20130117/CLOUD
-cast: Silvie Deluxe; https://www.sexart.com/model/silvie-deluxe; g:f
-cast: Ariel Piper Fawn; https://www.sexart.com/model/ariel-piper-fawn; g:f
+model: n:Silvie Deluxe; id:/model/sexart/silvie-deluxe; u:https://www.sexart.com/model/silvie-deluxe; g:f
+model: n:Ariel Piper Fawn; id:/model/sexart/ariel-piper-fawn; u:https://www.sexart.com/model/ariel-piper-fawn; g:f
 released: 2013-01-17
 director: Andrej Lupin
 rating: 9.2
@@ -8669,7 +8669,7 @@ description: When I was a young boy I always dreamed that there was a race of be
 runtime: 20:36
 executiveProducer: MetArt Films
 producer: Ariel Piper Fawn
-directorPhotography: Andrej Lupin
+directorOfPhotography: Andrej Lupin
 cinematographer: John Humble
 stillPhotographer: David Jones
 editor: David Kocian
@@ -8705,8 +8705,8 @@ title: De Lounge #1
 type: movie
 site: sa
 url: https://www.sexart.com/model/casey-calvert-and-kris-slater/movie/20130113/DE_LOUNGE
-cast: Casey Calvert; https://www.sexart.com/model/casey-calvert; g:f
-cast: Kris Slater; https://www.sexart.com/model/kris-slater; g:m
+model: n:Casey Calvert; id:/model/sexart/casey-calvert; u:https://www.sexart.com/model/casey-calvert; g:f
+model: n:Kris Slater; id:/model/sexart/kris-slater; u:https://www.sexart.com/model/kris-slater; g:m
 released: 2013-01-13
 director: Bo Llanberris
 rating: 9.1
@@ -8757,8 +8757,8 @@ title: Winter Wonderland
 type: movie
 site: sa
 url: https://www.sexart.com/model/gabi-de-castello-and-whitney-conroy/movie/20130110/WINTER_WONDERLAND
-cast: Gabi de Castello; https://www.sexart.com/model/gabi-de-castello; g:f
-cast: Whitney Conroy; https://www.sexart.com/model/whitney-conroy; g:f
+model: n:Gabi de Castello; id:/model/sexart/gabi-de-castello; u:https://www.sexart.com/model/gabi-de-castello; g:f
+model: n:Whitney Conroy; id:/model/sexart/whitney-conroy; u:https://www.sexart.com/model/whitney-conroy; g:f
 released: 2013-01-10
 director: Andrej Lupin
 rating: 9.1
@@ -8771,7 +8771,7 @@ description: Atmosphere, attraction, connection, desire, and consuming passion a
 runtime: 21:58
 executiveProducer: MetArt Films
 producer: Ariel Piper Fawn
-directorPhotography: Andrej Lupin
+directorOfPhotography: Andrej Lupin
 cinematographer: John Humble
 stillPhotographer: David Jones
 editor: David Kocian, Andrej Lupin
@@ -8811,8 +8811,8 @@ title: Wet Dreams
 type: movie
 site: sa
 url: https://www.sexart.com/model/johny-d-and-iwia-a/movie/20130106/WET_DREAMS
-cast: Johny D; https://www.sexart.com/model/johny-d; g:m
-cast: Iwia A; https://www.sexart.com/model/iwia-a; g:f
+model: n:Johny D; id:/model/sexart/johny-d; u:https://www.sexart.com/model/johny-d; g:m
+model: n:Iwia A; id:/model/sexart/iwia-a; u:https://www.sexart.com/model/iwia-a; g:f
 released: 2013-01-06
 director: Andrej Lupin
 rating: 9.2
@@ -8825,7 +8825,7 @@ description: Morning becomes electric in "Wet Dreams," the latest SexArt HD erot
 runtime: 16:34
 executiveProducer: MetArt Films
 producer: Ariel Piper Fawn
-directorPhotography: Andrej Lupin
+directorOfPhotography: Andrej Lupin
 cinematographer: John Humble
 stillPhotographer: David Jones
 editor: Andrej Lupin, David Kocian
@@ -8859,8 +8859,8 @@ title: Valentina
 type: movie
 site: sa
 url: https://www.sexart.com/model/tracy-lindsay-and-tess-b/movie/20130103/VALENTINA
-cast: Tracy Lindsay; https://www.sexart.com/model/tracy-lindsay; g:f
-cast: Tess B; https://www.sexart.com/model/tess-b; g:f
+model: n:Tracy Lindsay; id:/model/sexart/tracy-lindsay; u:https://www.sexart.com/model/tracy-lindsay; g:f
+model: n:Tess B; id:/model/sexart/tess-b; u:https://www.sexart.com/model/tess-b; g:f
 released: 2013-01-03
 director: Alis Locanta
 rating: 8.7

@@ -9,7 +9,7 @@ title: Fireplace
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/simona-a/gallery/20171230/FIREPLACE
-cast: Simona A; https://www.vivthomas.com/model/simona-a; f
+model: n:Simona A; id:/model/vivthomas/simona-a; u:https://www.vivthomas.com/model/simona-a; g:f
 released: 2017-12-30
 photographer: Albert Varin
 rating: 9.3
@@ -23,9 +23,9 @@ title: Unsatisfied
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/cindy-hope-and-sicilia-and-nesty-a/gallery/20171228/UNSATISFIED
-cast: Cindy Hope; https://www.vivthomas.com/model/cindy-hope; f
-cast: Sicilia; https://www.vivthomas.com/model/sicilia; f
-cast: Nesty A; https://www.vivthomas.com/model/nesty-a; f
+model: n:Cindy Hope; id:/model/vivthomas/cindy-hope; u:https://www.vivthomas.com/model/cindy-hope; g:f
+model: n:Sicilia; id:/model/vivthomas/sicilia; u:https://www.vivthomas.com/model/sicilia; g:f
+model: n:Nesty A; id:/model/vivthomas/nesty-a; u:https://www.vivthomas.com/model/nesty-a; g:f
 released: 2017-12-28
 photographer: Sandra Shine
 rating: 9.5
@@ -39,8 +39,8 @@ title: Gloss
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/julia-roca-and-ena-sweet/gallery/20171226/GLOSS
-cast: Julia Roca; https://www.vivthomas.com/model/julia-roca; f
-cast: Ena Sweet; https://www.vivthomas.com/model/ena-sweet; f
+model: n:Julia Roca; id:/model/vivthomas/julia-roca; u:https://www.vivthomas.com/model/julia-roca; g:f
+model: n:Ena Sweet; id:/model/vivthomas/ena-sweet; u:https://www.vivthomas.com/model/ena-sweet; g:f
 released: 2017-12-26
 photographer: Alis Locanta
 rating: 9.3
@@ -54,7 +54,7 @@ title: Naughty
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/selina-b/gallery/20171223/NAUGHTY
-cast: Selina B; https://www.vivthomas.com/model/selina-b; f
+model: n:Selina B; id:/model/vivthomas/selina-b; u:https://www.vivthomas.com/model/selina-b; g:f
 released: 2017-12-23
 photographer: Albert Varin
 rating: 9.3
@@ -68,8 +68,8 @@ title: Charming
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/katy-rose-and-daphne-anbel/gallery/20171221/CHARMING
-cast: Katy Rose; https://www.vivthomas.com/model/katy-rose; f
-cast: Daphne Anbel; https://www.vivthomas.com/model/daphne-anbel; f
+model: n:Katy Rose; id:/model/vivthomas/katy-rose; u:https://www.vivthomas.com/model/katy-rose; g:f
+model: n:Daphne Anbel; id:/model/vivthomas/daphne-anbel; u:https://www.vivthomas.com/model/daphne-anbel; g:f
 released: 2017-12-21
 photographer: Andrej Lupin
 rating: 9.6
@@ -83,8 +83,8 @@ title: Gleam
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/cassie-del-isla-and-caomei-bala/gallery/20171219/GLEAM
-cast: Cassie Del Isla; https://www.vivthomas.com/model/cassie-del-isla; f
-cast: Caomei Bala; https://www.vivthomas.com/model/caomei-bala; f
+model: n:Cassie Del Isla; id:/model/vivthomas/cassie-del-isla; u:https://www.vivthomas.com/model/cassie-del-isla; g:f
+model: n:Caomei Bala; id:/model/vivthomas/caomei-bala; u:https://www.vivthomas.com/model/caomei-bala; g:f
 released: 2017-12-19
 photographer: Alis Locanta
 rating: 9.5
@@ -98,7 +98,7 @@ title: Relax
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/mona-a/gallery/20171216/RELAX
-cast: Mona A; https://www.vivthomas.com/model/mona-a; f
+model: n:Mona A; id:/model/vivthomas/mona-a; u:https://www.vivthomas.com/model/mona-a; g:f
 released: 2017-12-16
 photographer: Albert Varin
 rating: 9.5
@@ -112,8 +112,8 @@ title: Elegant
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/lovita-fate-and-morgan-rodriguez/gallery/20171214/ELEGANT
-cast: Lovita Fate; https://www.vivthomas.com/model/lovita-fate; f
-cast: Morgan Rodriguez; https://www.vivthomas.com/model/morgan-rodriguez; f
+model: n:Lovita Fate; id:/model/vivthomas/lovita-fate; u:https://www.vivthomas.com/model/lovita-fate; g:f
+model: n:Morgan Rodriguez; id:/model/vivthomas/morgan-rodriguez; u:https://www.vivthomas.com/model/morgan-rodriguez; g:f
 released: 2017-12-14
 photographer: Andrej Lupin
 rating: 9.5
@@ -127,8 +127,8 @@ title: Enamoured
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/silvia-dellai-and-cristal-caitlin/gallery/20171212/ENAMOURED
-cast: Silvia Dellai; https://www.vivthomas.com/model/silvia-dellai; f
-cast: Cristal Caitlin; https://www.vivthomas.com/model/cristal-caitlin; f
+model: n:Silvia Dellai; id:/model/vivthomas/silvia-dellai; u:https://www.vivthomas.com/model/silvia-dellai; g:f
+model: n:Cristal Caitlin; id:/model/vivthomas/cristal-caitlin; u:https://www.vivthomas.com/model/cristal-caitlin; g:f
 released: 2017-12-12
 photographer: Alis Locanta
 rating: 9.4
@@ -142,7 +142,7 @@ title: Artist
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/veronica-snezna/gallery/20171209/ARTIST
-cast: Veronica Snezna; https://www.vivthomas.com/model/veronica-snezna; f
+model: n:Veronica Snezna; id:/model/vivthomas/veronica-snezna; u:https://www.vivthomas.com/model/veronica-snezna; g:f
 released: 2017-12-09
 photographer: Albert Varin
 rating: 9.1
@@ -156,8 +156,8 @@ title: Chic
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/daphne-anbel-and-morgan-rodriguez/gallery/20171207/CHIC
-cast: Daphne Anbel; https://www.vivthomas.com/model/daphne-anbel; f
-cast: Morgan Rodriguez; https://www.vivthomas.com/model/morgan-rodriguez; f
+model: n:Daphne Anbel; id:/model/vivthomas/daphne-anbel; u:https://www.vivthomas.com/model/daphne-anbel; g:f
+model: n:Morgan Rodriguez; id:/model/vivthomas/morgan-rodriguez; u:https://www.vivthomas.com/model/morgan-rodriguez; g:f
 released: 2017-12-07
 photographer: Andrej Lupin
 rating: 9.5
@@ -171,8 +171,8 @@ title: Immersed
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/ena-sweet-and-caomei-bala/gallery/20171205/IMMERSED
-cast: Ena Sweet; https://www.vivthomas.com/model/ena-sweet; f
-cast: Caomei Bala; https://www.vivthomas.com/model/caomei-bala; f
+model: n:Ena Sweet; id:/model/vivthomas/ena-sweet; u:https://www.vivthomas.com/model/ena-sweet; g:f
+model: n:Caomei Bala; id:/model/vivthomas/caomei-bala; u:https://www.vivthomas.com/model/caomei-bala; g:f
 released: 2017-12-05
 photographer: Alis Locanta
 rating: 9.2
@@ -186,7 +186,7 @@ title: Lounge
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/seny/gallery/20171202/LOUNGE
-cast: Seny; https://www.vivthomas.com/model/seny; f
+model: n:Seny; id:/model/vivthomas/seny; u:https://www.vivthomas.com/model/seny; g:f
 released: 2017-12-02
 photographer: Flora
 rating: 9.0
@@ -200,8 +200,8 @@ title: Classy
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/katy-rose-and-lovita-fate/gallery/20171130/CLASSY
-cast: Katy Rose; https://www.vivthomas.com/model/katy-rose; f
-cast: Lovita Fate; https://www.vivthomas.com/model/lovita-fate; f
+model: n:Katy Rose; id:/model/vivthomas/katy-rose; u:https://www.vivthomas.com/model/katy-rose; g:f
+model: n:Lovita Fate; id:/model/vivthomas/lovita-fate; u:https://www.vivthomas.com/model/lovita-fate; g:f
 released: 2017-11-30
 photographer: Andrej Lupin
 rating: 9.5
@@ -215,8 +215,8 @@ title: Consumed
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/julia-roca-and-ena-sweet/gallery/20171128/CONSUMED
-cast: Julia Roca; https://www.vivthomas.com/model/julia-roca; f
-cast: Ena Sweet; https://www.vivthomas.com/model/ena-sweet; f
+model: n:Julia Roca; id:/model/vivthomas/julia-roca; u:https://www.vivthomas.com/model/julia-roca; g:f
+model: n:Ena Sweet; id:/model/vivthomas/ena-sweet; u:https://www.vivthomas.com/model/ena-sweet; g:f
 released: 2017-11-28
 photographer: Alis Locanta
 rating: 9.3
@@ -230,7 +230,7 @@ title: Cherry
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/melisia/gallery/20171125/CHERRY
-cast: Melisia; https://www.vivthomas.com/model/melisia; f
+model: n:Melisia; id:/model/vivthomas/melisia; u:https://www.vivthomas.com/model/melisia; g:f
 released: 2017-11-25
 photographer: Flora
 rating: 9.3
@@ -244,8 +244,8 @@ title: Allure
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/lilu-moon-and-sofi-golfinger/gallery/20171123/ALLURE
-cast: Lilu Moon; https://www.vivthomas.com/model/lilu-moon; f
-cast: Sofi Golfinger; https://www.vivthomas.com/model/sofi-golfinger; f
+model: n:Lilu Moon; id:/model/vivthomas/lilu-moon; u:https://www.vivthomas.com/model/lilu-moon; g:f
+model: n:Sofi Golfinger; id:/model/vivthomas/sofi-golfinger; u:https://www.vivthomas.com/model/sofi-golfinger; g:f
 released: 2017-11-23
 photographer: Sandra Shine
 rating: 9.6
@@ -259,8 +259,8 @@ title: Astray
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/caomei-bala-and-cassie-del-isla/gallery/20171121/ASTRAY
-cast: Caomei Bala; https://www.vivthomas.com/model/caomei-bala; f
-cast: Cassie Del Isla; https://www.vivthomas.com/model/cassie-del-isla; f
+model: n:Caomei Bala; id:/model/vivthomas/caomei-bala; u:https://www.vivthomas.com/model/caomei-bala; g:f
+model: n:Cassie Del Isla; id:/model/vivthomas/cassie-del-isla; u:https://www.vivthomas.com/model/cassie-del-isla; g:f
 released: 2017-11-21
 photographer: Alis Locanta
 rating: 9.4
@@ -274,7 +274,7 @@ title: Undress
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/mandy-a/gallery/20171118/UNDRESS
-cast: Mandy A; https://www.vivthomas.com/model/mandy-a; f
+model: n:Mandy A; id:/model/vivthomas/mandy-a; u:https://www.vivthomas.com/model/mandy-a; g:f
 released: 2017-11-18
 photographer: Flora
 rating: 9.5
@@ -288,8 +288,8 @@ title: Gratify
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/bambi-jolie-and-tina-kay/gallery/20171116/GRATIFY
-cast: Bambi Jolie; https://www.vivthomas.com/model/bambi-jolie; f
-cast: Tina Kay; https://www.vivthomas.com/model/tina-kay; f
+model: n:Bambi Jolie; id:/model/vivthomas/bambi-jolie; u:https://www.vivthomas.com/model/bambi-jolie; g:f
+model: n:Tina Kay; id:/model/vivthomas/tina-kay; u:https://www.vivthomas.com/model/tina-kay; g:f
 released: 2017-11-16
 photographer: Sandra Shine
 rating: 9.3
@@ -303,8 +303,8 @@ title: Contact
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/katrina-moreno-and-penelope-cum/gallery/20171114/CONTACT
-cast: Katrina Moreno; https://www.vivthomas.com/model/katrina-moreno; f
-cast: Penelope Cum; https://www.vivthomas.com/model/penelope-cum; f
+model: n:Katrina Moreno; id:/model/vivthomas/katrina-moreno; u:https://www.vivthomas.com/model/katrina-moreno; g:f
+model: n:Penelope Cum; id:/model/vivthomas/penelope-cum; u:https://www.vivthomas.com/model/penelope-cum; g:f
 released: 2017-11-14
 photographer: Alis Locanta
 rating: 9.5
@@ -318,7 +318,7 @@ title: Angelic
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/black-fox/gallery/20171111/ANGELIC
-cast: Black Fox; https://www.vivthomas.com/model/black-fox; f
+model: n:Black Fox; id:/model/vivthomas/black-fox; u:https://www.vivthomas.com/model/black-fox; g:f
 released: 2017-11-11
 photographer: Flora
 rating: 9.5
@@ -332,8 +332,8 @@ title: Scenic
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/eva-berger-and-lovenia-lux/gallery/20171109/SCENIC
-cast: Eva Berger; https://www.vivthomas.com/model/eva-berger; f
-cast: Lovenia Lux; https://www.vivthomas.com/model/lovenia-lux; f
+model: n:Eva Berger; id:/model/vivthomas/eva-berger; u:https://www.vivthomas.com/model/eva-berger; g:f
+model: n:Lovenia Lux; id:/model/vivthomas/lovenia-lux; u:https://www.vivthomas.com/model/lovenia-lux; g:f
 released: 2017-11-09
 photographer: Sandra Shine
 rating: 9.3
@@ -347,8 +347,8 @@ title: Memories
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/daniela-dadivoso-and-apolonia/gallery/20171107/MEMORIES
-cast: Daniela Dadivoso; https://www.vivthomas.com/model/daniela-dadivoso; f
-cast: Apolonia; https://www.vivthomas.com/model/apolonia; f
+model: n:Daniela Dadivoso; id:/model/vivthomas/daniela-dadivoso; u:https://www.vivthomas.com/model/daniela-dadivoso; g:f
+model: n:Apolonia; id:/model/vivthomas/apolonia; u:https://www.vivthomas.com/model/apolonia; g:f
 released: 2017-11-07
 photographer: Alis Locanta
 rating: 9.4
@@ -362,7 +362,7 @@ title: Sunflower
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/melisia/gallery/20171104/SUNFLOWER
-cast: Melisia; https://www.vivthomas.com/model/melisia; f
+model: n:Melisia; id:/model/vivthomas/melisia; u:https://www.vivthomas.com/model/melisia; g:f
 released: 2017-11-04
 photographer: Flora
 rating: 9.2
@@ -376,8 +376,8 @@ title: Set Sail
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/daphne-klyde-and-shrima-malati/gallery/20171102/SET_SAIL
-cast: Daphne Klyde; https://www.vivthomas.com/model/daphne-klyde; f
-cast: Shrima Malati; https://www.vivthomas.com/model/shrima-malati; f
+model: n:Daphne Klyde; id:/model/vivthomas/daphne-klyde; u:https://www.vivthomas.com/model/daphne-klyde; g:f
+model: n:Shrima Malati; id:/model/vivthomas/shrima-malati; u:https://www.vivthomas.com/model/shrima-malati; g:f
 released: 2017-11-02
 photographer: Sandra Shine
 rating: 9.5
@@ -391,8 +391,8 @@ title: Elicit
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/katrina-moreno-and-penelope-cum/gallery/20171031/ELICIT
-cast: Katrina Moreno; https://www.vivthomas.com/model/katrina-moreno; f
-cast: Penelope Cum; https://www.vivthomas.com/model/penelope-cum; f
+model: n:Katrina Moreno; id:/model/vivthomas/katrina-moreno; u:https://www.vivthomas.com/model/katrina-moreno; g:f
+model: n:Penelope Cum; id:/model/vivthomas/penelope-cum; u:https://www.vivthomas.com/model/penelope-cum; g:f
 released: 2017-10-31
 photographer: Alis Locanta
 rating: 9.2
@@ -406,7 +406,7 @@ title: Forest Fun
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/kira-d/gallery/20171028/FOREST_FUN
-cast: Kira D; https://www.vivthomas.com/model/kira-d; f
+model: n:Kira D; id:/model/vivthomas/kira-d; u:https://www.vivthomas.com/model/kira-d; g:f
 released: 2017-10-28
 photographer: Flora
 rating: 9.3
@@ -420,8 +420,8 @@ title: Connection
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/tracy-lindsay-and-alexis-crystal/gallery/20171026/CONNECTION
-cast: Tracy Lindsay; https://www.vivthomas.com/model/tracy-lindsay; f
-cast: Alexis Crystal; https://www.vivthomas.com/model/alexis-crystal; f
+model: n:Tracy Lindsay; id:/model/vivthomas/tracy-lindsay; u:https://www.vivthomas.com/model/tracy-lindsay; g:f
+model: n:Alexis Crystal; id:/model/vivthomas/alexis-crystal; u:https://www.vivthomas.com/model/alexis-crystal; g:f
 released: 2017-10-26
 photographer: Don Caravaggio
 rating: 9.5
@@ -435,8 +435,8 @@ title: Envision
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/daniela-dadivoso-and-caomei-bala/gallery/20171024/ENVISION
-cast: Daniela Dadivoso; https://www.vivthomas.com/model/daniela-dadivoso; f
-cast: Caomei Bala; https://www.vivthomas.com/model/caomei-bala; f
+model: n:Daniela Dadivoso; id:/model/vivthomas/daniela-dadivoso; u:https://www.vivthomas.com/model/daniela-dadivoso; g:f
+model: n:Caomei Bala; id:/model/vivthomas/caomei-bala; u:https://www.vivthomas.com/model/caomei-bala; g:f
 released: 2017-10-24
 photographer: Alis Locanta
 rating: 9.4
@@ -450,7 +450,7 @@ title: Morning Dew
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/jia-lissa/gallery/20171021/MORNING_DEW
-cast: Jia Lissa; https://www.vivthomas.com/model/jia-lissa; f
+model: n:Jia Lissa; id:/model/vivthomas/jia-lissa; u:https://www.vivthomas.com/model/jia-lissa; g:f
 released: 2017-10-21
 photographer: Flora
 rating: 9.4
@@ -464,8 +464,8 @@ title: Surprise
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/stefany-moon-and-samantha-bentley/gallery/20171019/SURPRISE
-cast: Stefany Moon; https://www.vivthomas.com/model/stefany-moon; f
-cast: Samantha Bentley; https://www.vivthomas.com/model/samantha-bentley; f
+model: n:Stefany Moon; id:/model/vivthomas/stefany-moon; u:https://www.vivthomas.com/model/stefany-moon; g:f
+model: n:Samantha Bentley; id:/model/vivthomas/samantha-bentley; u:https://www.vivthomas.com/model/samantha-bentley; g:f
 released: 2017-10-19
 photographer: Sandra Shine
 rating: 9.3
@@ -479,8 +479,8 @@ title: Everlasting
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/daniela-dadivoso-and-caomei-bala/gallery/20171017/EVERLASTING
-cast: Daniela Dadivoso; https://www.vivthomas.com/model/daniela-dadivoso; f
-cast: Caomei Bala; https://www.vivthomas.com/model/caomei-bala; f
+model: n:Daniela Dadivoso; id:/model/vivthomas/daniela-dadivoso; u:https://www.vivthomas.com/model/daniela-dadivoso; g:f
+model: n:Caomei Bala; id:/model/vivthomas/caomei-bala; u:https://www.vivthomas.com/model/caomei-bala; g:f
 released: 2017-10-17
 photographer: Alis Locanta
 rating: 9.5
@@ -494,7 +494,7 @@ title: Just For You
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/amie-b/gallery/20171014/JUST_FOR_YOU
-cast: Amie B; https://www.vivthomas.com/model/amie-b; f
+model: n:Amie B; id:/model/vivthomas/amie-b; u:https://www.vivthomas.com/model/amie-b; g:f
 released: 2017-10-14
 photographer: Flora
 rating: 9.3
@@ -508,8 +508,8 @@ title: Early Bird
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/aislin-and-tina-kay/gallery/20171012/EARLY_BIRD
-cast: Aislin; https://www.vivthomas.com/model/aislin; f
-cast: Tina Kay; https://www.vivthomas.com/model/tina-kay; f
+model: n:Aislin; id:/model/vivthomas/aislin; u:https://www.vivthomas.com/model/aislin; g:f
+model: n:Tina Kay; id:/model/vivthomas/tina-kay; u:https://www.vivthomas.com/model/tina-kay; g:f
 released: 2017-10-12
 photographer: Sandra Shine
 rating: 9.5
@@ -523,8 +523,8 @@ title: Perpetual
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/caomei-bala-and-penelope-cum/gallery/20171010/PERPETUAL
-cast: Caomei Bala; https://www.vivthomas.com/model/caomei-bala; f
-cast: Penelope Cum; https://www.vivthomas.com/model/penelope-cum; f
+model: n:Caomei Bala; id:/model/vivthomas/caomei-bala; u:https://www.vivthomas.com/model/caomei-bala; g:f
+model: n:Penelope Cum; id:/model/vivthomas/penelope-cum; u:https://www.vivthomas.com/model/penelope-cum; g:f
 released: 2017-10-10
 photographer: Alis Locanta
 rating: 9.6
@@ -538,7 +538,7 @@ title: Tranquil
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/amelie-b/gallery/20171007/TRANQUIL
-cast: Amelie B; https://www.vivthomas.com/model/amelie-b; f
+model: n:Amelie B; id:/model/vivthomas/amelie-b; u:https://www.vivthomas.com/model/amelie-b; g:f
 released: 2017-10-07
 photographer: Flora
 rating: 9.6
@@ -552,8 +552,8 @@ title: Remind
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/shrima-malati-and-luna-corazon/gallery/20171005/REMIND
-cast: Shrima Malati; https://www.vivthomas.com/model/shrima-malati; f
-cast: Luna Corazon; https://www.vivthomas.com/model/luna-corazon; f
+model: n:Shrima Malati; id:/model/vivthomas/shrima-malati; u:https://www.vivthomas.com/model/shrima-malati; g:f
+model: n:Luna Corazon; id:/model/vivthomas/luna-corazon; u:https://www.vivthomas.com/model/luna-corazon; g:f
 released: 2017-10-05
 photographer: Sandra Shine
 rating: 9.4
@@ -567,8 +567,8 @@ title: Endless
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/caomei-bala-and-katrina-moreno/gallery/20171003/ENDLESS
-cast: Caomei Bala; https://www.vivthomas.com/model/caomei-bala; f
-cast: Katrina Moreno; https://www.vivthomas.com/model/katrina-moreno; f
+model: n:Caomei Bala; id:/model/vivthomas/caomei-bala; u:https://www.vivthomas.com/model/caomei-bala; g:f
+model: n:Katrina Moreno; id:/model/vivthomas/katrina-moreno; u:https://www.vivthomas.com/model/katrina-moreno; g:f
 released: 2017-10-03
 photographer: Alis Locanta
 rating: 9.5
@@ -582,7 +582,7 @@ title: In Nature
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/melisia/gallery/20170930/IN_NATURE
-cast: Melisia; https://www.vivthomas.com/model/melisia; f
+model: n:Melisia; id:/model/vivthomas/melisia; u:https://www.vivthomas.com/model/melisia; g:f
 released: 2017-09-30
 photographer: Flora
 rating: 9.1
@@ -596,8 +596,8 @@ title: Splash
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/sade-rose-and-cayla-lions/gallery/20170928/SPLASH
-cast: Sade Rose; https://www.vivthomas.com/model/sade-rose; f
-cast: Cayla Lions; https://www.vivthomas.com/model/cayla-lions; f
+model: n:Sade Rose; id:/model/vivthomas/sade-rose; u:https://www.vivthomas.com/model/sade-rose; g:f
+model: n:Cayla Lions; id:/model/vivthomas/cayla-lions; u:https://www.vivthomas.com/model/cayla-lions; g:f
 released: 2017-09-28
 photographer: Sandra Shine
 rating: 9.1
@@ -611,8 +611,8 @@ title: Constant
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/caomei-bala-and-apolonia/gallery/20170926/CONSTANT
-cast: Caomei Bala; https://www.vivthomas.com/model/caomei-bala; f
-cast: Apolonia; https://www.vivthomas.com/model/apolonia; f
+model: n:Caomei Bala; id:/model/vivthomas/caomei-bala; u:https://www.vivthomas.com/model/caomei-bala; g:f
+model: n:Apolonia; id:/model/vivthomas/apolonia; u:https://www.vivthomas.com/model/apolonia; g:f
 released: 2017-09-26
 photographer: Alis Locanta
 rating: 9.4
@@ -626,7 +626,7 @@ title: Arousal
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/miranda/gallery/20170923/AROUSAL
-cast: Miranda; https://www.vivthomas.com/model/miranda; f
+model: n:Miranda; id:/model/vivthomas/miranda; u:https://www.vivthomas.com/model/miranda; g:f
 released: 2017-09-23
 photographer: Flora
 rating: 9.3
@@ -640,8 +640,8 @@ title: In Tandem
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/lovita-fate-and-tiffany-doll/gallery/20170921/IN_TANDEM
-cast: Lovita Fate; https://www.vivthomas.com/model/lovita-fate; f
-cast: Tiffany Doll; https://www.vivthomas.com/model/tiffany-doll; f
+model: n:Lovita Fate; id:/model/vivthomas/lovita-fate; u:https://www.vivthomas.com/model/lovita-fate; g:f
+model: n:Tiffany Doll; id:/model/vivthomas/tiffany-doll; u:https://www.vivthomas.com/model/tiffany-doll; g:f
 released: 2017-09-21
 photographer: Sandra Shine
 rating: 9.1
@@ -655,8 +655,8 @@ title: Carnal
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/sabrisse-and-kalisy/gallery/20170919/CARNAL
-cast: Sabrisse; https://www.vivthomas.com/model/sabrisse; f
-cast: Kalisy; https://www.vivthomas.com/model/kalisy; f
+model: n:Sabrisse; id:/model/vivthomas/sabrisse; u:https://www.vivthomas.com/model/sabrisse; g:f
+model: n:Kalisy; id:/model/vivthomas/kalisy; u:https://www.vivthomas.com/model/kalisy; g:f
 released: 2017-09-19
 photographer: Alis Locanta
 rating: 9.5
@@ -670,7 +670,7 @@ title: Feast
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/eva-kane/gallery/20170916/FEAST
-cast: Eva Kane; https://www.vivthomas.com/model/eva-kane; f
+model: n:Eva Kane; id:/model/vivthomas/eva-kane; u:https://www.vivthomas.com/model/eva-kane; g:f
 released: 2017-09-16
 photographer: Flora
 rating: 9.3
@@ -684,8 +684,8 @@ title: Dirty
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/may-thai-and-veronica-clark/gallery/20170914/DIRTY
-cast: May Thai; https://www.vivthomas.com/model/may-thai; f
-cast: Veronica Clark; https://www.vivthomas.com/model/veronica-clark; f
+model: n:May Thai; id:/model/vivthomas/may-thai; u:https://www.vivthomas.com/model/may-thai; g:f
+model: n:Veronica Clark; id:/model/vivthomas/veronica-clark; u:https://www.vivthomas.com/model/veronica-clark; g:f
 released: 2017-09-14
 photographer: Sandra Shine
 rating: 9.5
@@ -699,8 +699,8 @@ title: Dear
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/kira-queen-and-henessy-a/gallery/20170912/DEAR
-cast: Kira Queen; https://www.vivthomas.com/model/kira-queen; f
-cast: Henessy A; https://www.vivthomas.com/model/henessy-a; f
+model: n:Kira Queen; id:/model/vivthomas/kira-queen; u:https://www.vivthomas.com/model/kira-queen; g:f
+model: n:Henessy A; id:/model/vivthomas/henessy-a; u:https://www.vivthomas.com/model/henessy-a; g:f
 released: 2017-09-12
 photographer: Alis Locanta
 rating: 9.4
@@ -714,7 +714,7 @@ title: Notice
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/kleo/gallery/20170909/NOTICE
-cast: Kleo; https://www.vivthomas.com/model/kleo; f
+model: n:Kleo; id:/model/vivthomas/kleo; u:https://www.vivthomas.com/model/kleo; g:f
 released: 2017-09-09
 photographer: Albert Varin
 rating: 9.4
@@ -728,8 +728,8 @@ title: Service
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/zafira-a-and-lana-storch/gallery/20170907/SERVICE
-cast: Zafira A; https://www.vivthomas.com/model/zafira-a; f
-cast: Lana Storch; https://www.vivthomas.com/model/lana-storch; f
+model: n:Zafira A; id:/model/vivthomas/zafira-a; u:https://www.vivthomas.com/model/zafira-a; g:f
+model: n:Lana Storch; id:/model/vivthomas/lana-storch; u:https://www.vivthomas.com/model/lana-storch; g:f
 released: 2017-09-07
 photographer: Sandra Shine
 rating: 9.5
@@ -743,8 +743,8 @@ title: Amorous
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/adel-c-and-kalisy/gallery/20170905/AMOROUS
-cast: Adel C; https://www.vivthomas.com/model/adel-c; f
-cast: Kalisy; https://www.vivthomas.com/model/kalisy; f
+model: n:Adel C; id:/model/vivthomas/adel-c; u:https://www.vivthomas.com/model/adel-c; g:f
+model: n:Kalisy; id:/model/vivthomas/kalisy; u:https://www.vivthomas.com/model/kalisy; g:f
 released: 2017-09-05
 photographer: Alis Locanta
 rating: 9.3
@@ -758,7 +758,7 @@ title: Undress
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/marcella/gallery/20170902/UNDRESS
-cast: Marcella; https://www.vivthomas.com/model/marcella; f
+model: n:Marcella; id:/model/vivthomas/marcella; u:https://www.vivthomas.com/model/marcella; g:f
 released: 2017-09-02
 photographer: Albert Varin
 rating: 9.4
@@ -772,8 +772,8 @@ title: Longing
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/melody-petite-and-daphne-anbel/gallery/20170831/LONGING
-cast: Melody Petite; https://www.vivthomas.com/model/melody-petite; f
-cast: Daphne Anbel; https://www.vivthomas.com/model/daphne-anbel; f
+model: n:Melody Petite; id:/model/vivthomas/melody-petite; u:https://www.vivthomas.com/model/melody-petite; g:f
+model: n:Daphne Anbel; id:/model/vivthomas/daphne-anbel; u:https://www.vivthomas.com/model/daphne-anbel; g:f
 released: 2017-08-31
 photographer: Sandra Shine
 rating: 9.4
@@ -787,8 +787,8 @@ title: Darling
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/henessy-a-and-kira-queen/gallery/20170829/DARLING
-cast: Henessy A; https://www.vivthomas.com/model/henessy-a; f
-cast: Kira Queen; https://www.vivthomas.com/model/kira-queen; f
+model: n:Henessy A; id:/model/vivthomas/henessy-a; u:https://www.vivthomas.com/model/henessy-a; g:f
+model: n:Kira Queen; id:/model/vivthomas/kira-queen; u:https://www.vivthomas.com/model/kira-queen; g:f
 released: 2017-08-29
 photographer: Alis Locanta
 rating: 9.3
@@ -802,7 +802,7 @@ title: Chill
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/tamis/gallery/20170826/CHILL
-cast: Tamis; https://www.vivthomas.com/model/tamis; f
+model: n:Tamis; id:/model/vivthomas/tamis; u:https://www.vivthomas.com/model/tamis; g:f
 released: 2017-08-26
 photographer: Albert Varin
 rating: 9.5
@@ -816,8 +816,8 @@ title: Make Out
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/lovita-fate-and-gina-gerson/gallery/20170824/MAKE_OUT
-cast: Lovita Fate; https://www.vivthomas.com/model/lovita-fate; f
-cast: Gina Gerson; https://www.vivthomas.com/model/gina-gerson; f
+model: n:Lovita Fate; id:/model/vivthomas/lovita-fate; u:https://www.vivthomas.com/model/lovita-fate; g:f
+model: n:Gina Gerson; id:/model/vivthomas/gina-gerson; u:https://www.vivthomas.com/model/gina-gerson; g:f
 released: 2017-08-24
 photographer: Sandra Shine
 rating: 9.6
@@ -831,8 +831,8 @@ title: Saucy
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/sabrisse-and-adel-c/gallery/20170822/SAUCY
-cast: Sabrisse; https://www.vivthomas.com/model/sabrisse; f
-cast: Adel C; https://www.vivthomas.com/model/adel-c; f
+model: n:Sabrisse; id:/model/vivthomas/sabrisse; u:https://www.vivthomas.com/model/sabrisse; g:f
+model: n:Adel C; id:/model/vivthomas/adel-c; u:https://www.vivthomas.com/model/adel-c; g:f
 released: 2017-08-22
 photographer: Alis Locanta
 rating: 9.5
@@ -846,8 +846,8 @@ title: Duo
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/kleo-and-veel/gallery/20170819/DUO
-cast: Kleo; https://www.vivthomas.com/model/kleo; f
-cast: Veel; https://www.vivthomas.com/model/veel; f
+model: n:Kleo; id:/model/vivthomas/kleo; u:https://www.vivthomas.com/model/kleo; g:f
+model: n:Veel; id:/model/vivthomas/veel; u:https://www.vivthomas.com/model/veel; g:f
 released: 2017-08-19
 photographer: Albert Varin
 rating: 9.5
@@ -861,8 +861,8 @@ title: Frisky
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/miki-torrez-and-ani-blackfox/gallery/20170817/FRISKY
-cast: Miki Torrez; https://www.vivthomas.com/model/miki-torrez; f
-cast: Ani Blackfox; https://www.vivthomas.com/model/ani-blackfox; f
+model: n:Miki Torrez; id:/model/vivthomas/miki-torrez; u:https://www.vivthomas.com/model/miki-torrez; g:f
+model: n:Ani Blackfox; id:/model/vivthomas/ani-blackfox; u:https://www.vivthomas.com/model/ani-blackfox; g:f
 released: 2017-08-17
 photographer: Sandra Shine
 rating: 9.4
@@ -876,8 +876,8 @@ title: Partner
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/kira-queen-and-henessy-a/gallery/20170815/PARTNER
-cast: Kira Queen; https://www.vivthomas.com/model/kira-queen; f
-cast: Henessy A; https://www.vivthomas.com/model/henessy-a; f
+model: n:Kira Queen; id:/model/vivthomas/kira-queen; u:https://www.vivthomas.com/model/kira-queen; g:f
+model: n:Henessy A; id:/model/vivthomas/henessy-a; u:https://www.vivthomas.com/model/henessy-a; g:f
 released: 2017-08-15
 photographer: Alis Locanta
 rating: 9.0
@@ -891,7 +891,7 @@ title: Tantalize
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/eva-kane/gallery/20170812/TANTALIZE
-cast: Eva Kane; https://www.vivthomas.com/model/eva-kane; f
+model: n:Eva Kane; id:/model/vivthomas/eva-kane; u:https://www.vivthomas.com/model/eva-kane; g:f
 released: 2017-08-12
 photographer: Flora
 rating: 9.2
@@ -905,8 +905,8 @@ title: Fondle
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/cayla-lions-and-stella-cox/gallery/20170810/FONDLE
-cast: Cayla Lions; https://www.vivthomas.com/model/cayla-lions; f
-cast: Stella Cox; https://www.vivthomas.com/model/stella-cox; f
+model: n:Cayla Lions; id:/model/vivthomas/cayla-lions; u:https://www.vivthomas.com/model/cayla-lions; g:f
+model: n:Stella Cox; id:/model/vivthomas/stella-cox; u:https://www.vivthomas.com/model/stella-cox; g:f
 released: 2017-08-10
 photographer: Sandra Shine
 rating: 9.6
@@ -920,8 +920,8 @@ title: Exciting
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/sabrisse-and-kalisy/gallery/20170808/EXCITING
-cast: Sabrisse; https://www.vivthomas.com/model/sabrisse; f
-cast: Kalisy; https://www.vivthomas.com/model/kalisy; f
+model: n:Sabrisse; id:/model/vivthomas/sabrisse; u:https://www.vivthomas.com/model/sabrisse; g:f
+model: n:Kalisy; id:/model/vivthomas/kalisy; u:https://www.vivthomas.com/model/kalisy; g:f
 released: 2017-08-08
 photographer: Alis Locanta
 rating: 9.4
@@ -935,7 +935,7 @@ title: Serene
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/amie-b/gallery/20170805/SERENE
-cast: Amie B; https://www.vivthomas.com/model/amie-b; f
+model: n:Amie B; id:/model/vivthomas/amie-b; u:https://www.vivthomas.com/model/amie-b; g:f
 released: 2017-08-05
 photographer: Flora
 rating: 9.3
@@ -949,8 +949,8 @@ title: Embrace
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/swabery-baby-and-melody-petite/gallery/20170803/EMBRACE
-cast: Swabery Baby; https://www.vivthomas.com/model/swabery-baby; f
-cast: Melody Petite; https://www.vivthomas.com/model/melody-petite; f
+model: n:Swabery Baby; id:/model/vivthomas/swabery-baby; u:https://www.vivthomas.com/model/swabery-baby; g:f
+model: n:Melody Petite; id:/model/vivthomas/melody-petite; u:https://www.vivthomas.com/model/melody-petite; g:f
 released: 2017-08-03
 photographer: Sandra Shine
 rating: 9.4
@@ -964,8 +964,8 @@ title: Admired
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/kira-queen-and-henessy-a/gallery/20170801/ADMIRED
-cast: Kira Queen; https://www.vivthomas.com/model/kira-queen; f
-cast: Henessy A; https://www.vivthomas.com/model/henessy-a; f
+model: n:Kira Queen; id:/model/vivthomas/kira-queen; u:https://www.vivthomas.com/model/kira-queen; g:f
+model: n:Henessy A; id:/model/vivthomas/henessy-a; u:https://www.vivthomas.com/model/henessy-a; g:f
 released: 2017-08-01
 photographer: Alis Locanta
 rating: 9.4
@@ -979,7 +979,7 @@ title: Rouge
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/melisia/gallery/20170729/ROUGE
-cast: Melisia; https://www.vivthomas.com/model/melisia; f
+model: n:Melisia; id:/model/vivthomas/melisia; u:https://www.vivthomas.com/model/melisia; g:f
 released: 2017-07-29
 photographer: Flora
 rating: 9.3
@@ -993,8 +993,8 @@ title: Enjoyable
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/melody-mae-and-aria-logan/gallery/20170727/ENJOYABLE
-cast: Melody Mae; https://www.vivthomas.com/model/melody-mae; f
-cast: Aria Logan; https://www.vivthomas.com/model/aria-logan; f
+model: n:Melody Mae; id:/model/vivthomas/melody-mae; u:https://www.vivthomas.com/model/melody-mae; g:f
+model: n:Aria Logan; id:/model/vivthomas/aria-logan; u:https://www.vivthomas.com/model/aria-logan; g:f
 released: 2017-07-27
 photographer: Sandra Shine
 rating: 9.4
@@ -1008,8 +1008,8 @@ title: Steamy
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/adel-c-and-sabrisse/gallery/20170725/STEAMY
-cast: Adel C; https://www.vivthomas.com/model/adel-c; f
-cast: Sabrisse; https://www.vivthomas.com/model/sabrisse; f
+model: n:Adel C; id:/model/vivthomas/adel-c; u:https://www.vivthomas.com/model/adel-c; g:f
+model: n:Sabrisse; id:/model/vivthomas/sabrisse; u:https://www.vivthomas.com/model/sabrisse; g:f
 released: 2017-07-25
 photographer: Alis Locanta
 rating: 9.6
@@ -1023,7 +1023,7 @@ title: Pleasure
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/nicole-d/gallery/20170722/PLEASURE
-cast: Nicole D; https://www.vivthomas.com/model/nicole-d; f
+model: n:Nicole D; id:/model/vivthomas/nicole-d; u:https://www.vivthomas.com/model/nicole-d; g:f
 released: 2017-07-22
 photographer: Flora
 rating: 9.3
@@ -1037,8 +1037,8 @@ title: Bosoms
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/ally-breelsen-and-daphne-anbel/gallery/20170720/BOSOMS
-cast: Ally Breelsen; https://www.vivthomas.com/model/ally-breelsen; f
-cast: Daphne Anbel; https://www.vivthomas.com/model/daphne-anbel; f
+model: n:Ally Breelsen; id:/model/vivthomas/ally-breelsen; u:https://www.vivthomas.com/model/ally-breelsen; g:f
+model: n:Daphne Anbel; id:/model/vivthomas/daphne-anbel; u:https://www.vivthomas.com/model/daphne-anbel; g:f
 released: 2017-07-20
 photographer: Sandra Shine
 rating: 9.5
@@ -1052,8 +1052,8 @@ title: Wet
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/michelle-h-and-kira-zen/gallery/20170718/WET
-cast: Michelle H; https://www.vivthomas.com/model/michelle-h; f
-cast: Kira Zen; https://www.vivthomas.com/model/kira-zen; f
+model: n:Michelle H; id:/model/vivthomas/michelle-h; u:https://www.vivthomas.com/model/michelle-h; g:f
+model: n:Kira Zen; id:/model/vivthomas/kira-zen; u:https://www.vivthomas.com/model/kira-zen; g:f
 released: 2017-07-18
 photographer: Alis Locanta
 rating: 9.5
@@ -1067,7 +1067,7 @@ title: Picture Perfect
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/gracie/gallery/20170715/PICTURE_PERFECT
-cast: Gracie; https://www.vivthomas.com/model/gracie; f
+model: n:Gracie; id:/model/vivthomas/gracie; u:https://www.vivthomas.com/model/gracie; g:f
 released: 2017-07-15
 photographer: Blake Jasper
 rating: 9.5
@@ -1081,8 +1081,8 @@ title: Adoration
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/frida-sante-and-lilu-moon/gallery/20170713/ADORATION
-cast: Frida Sante; https://www.vivthomas.com/model/frida-sante; f
-cast: Lilu Moon; https://www.vivthomas.com/model/lilu-moon; f
+model: n:Frida Sante; id:/model/vivthomas/frida-sante; u:https://www.vivthomas.com/model/frida-sante; g:f
+model: n:Lilu Moon; id:/model/vivthomas/lilu-moon; u:https://www.vivthomas.com/model/lilu-moon; g:f
 released: 2017-07-13
 photographer: Sandra Shine
 rating: 9.5
@@ -1096,8 +1096,8 @@ title: Misbehave
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/adel-c-and-kalisy/gallery/20170711/MISBEHAVE
-cast: Adel C; https://www.vivthomas.com/model/adel-c; f
-cast: Kalisy; https://www.vivthomas.com/model/kalisy; f
+model: n:Adel C; id:/model/vivthomas/adel-c; u:https://www.vivthomas.com/model/adel-c; g:f
+model: n:Kalisy; id:/model/vivthomas/kalisy; u:https://www.vivthomas.com/model/kalisy; g:f
 released: 2017-07-11
 photographer: Alis Locanta
 rating: 9.3
@@ -1111,7 +1111,7 @@ title: Show Off
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/melisia/gallery/20170708/SHOW_OFF
-cast: Melisia; https://www.vivthomas.com/model/melisia; f
+model: n:Melisia; id:/model/vivthomas/melisia; u:https://www.vivthomas.com/model/melisia; g:f
 released: 2017-07-08
 photographer: Flora
 rating: 9.3
@@ -1125,8 +1125,8 @@ title: Pretty Feet
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/daniella-margot-and-clea-gaultier/gallery/20170706/PRETTY_FEET
-cast: Daniella Margot; https://www.vivthomas.com/model/daniella-margot; f
-cast: Clea Gaultier; https://www.vivthomas.com/model/clea-gaultier; f
+model: n:Daniella Margot; id:/model/vivthomas/daniella-margot; u:https://www.vivthomas.com/model/daniella-margot; g:f
+model: n:Clea Gaultier; id:/model/vivthomas/clea-gaultier; u:https://www.vivthomas.com/model/clea-gaultier; g:f
 released: 2017-07-06
 photographer: Sandra Shine
 rating: 9.5
@@ -1140,8 +1140,8 @@ title: Passion
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/kira-zen-and-michelle-h/gallery/20170704/PASSION
-cast: Kira Zen; https://www.vivthomas.com/model/kira-zen; f
-cast: Michelle H; https://www.vivthomas.com/model/michelle-h; f
+model: n:Kira Zen; id:/model/vivthomas/kira-zen; u:https://www.vivthomas.com/model/kira-zen; g:f
+model: n:Michelle H; id:/model/vivthomas/michelle-h; u:https://www.vivthomas.com/model/michelle-h; g:f
 released: 2017-07-04
 photographer: Alis Locanta
 rating: 9.5
@@ -1155,7 +1155,7 @@ title: Strawberry
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/sandy-a/gallery/20170701/STRAWBERRY
-cast: Sandy A; https://www.vivthomas.com/model/sandy-a; f
+model: n:Sandy A; id:/model/vivthomas/sandy-a; u:https://www.vivthomas.com/model/sandy-a; g:f
 released: 2017-07-01
 photographer: Flora
 rating: 9.4
@@ -1169,9 +1169,9 @@ title: A Gift
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/dorothy-black-and-isabella-lui-and-rebecca-volpetti/gallery/20170629/A_GIFT
-cast: Dorothy Black; https://www.vivthomas.com/model/dorothy-black; f
-cast: Isabella Lui; https://www.vivthomas.com/model/isabella-lui; f
-cast: Rebecca Volpetti; https://www.vivthomas.com/model/rebecca-volpetti; f
+model: n:Dorothy Black; id:/model/vivthomas/dorothy-black; u:https://www.vivthomas.com/model/dorothy-black; g:f
+model: n:Isabella Lui; id:/model/vivthomas/isabella-lui; u:https://www.vivthomas.com/model/isabella-lui; g:f
+model: n:Rebecca Volpetti; id:/model/vivthomas/rebecca-volpetti; u:https://www.vivthomas.com/model/rebecca-volpetti; g:f
 released: 2017-06-29
 photographer: Sandra Shine
 rating: 9.4
@@ -1185,8 +1185,8 @@ title: Mutual
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/adel-c-and-sabrisse/gallery/20170627/MUTUAL
-cast: Adel C; https://www.vivthomas.com/model/adel-c; f
-cast: Sabrisse; https://www.vivthomas.com/model/sabrisse; f
+model: n:Adel C; id:/model/vivthomas/adel-c; u:https://www.vivthomas.com/model/adel-c; g:f
+model: n:Sabrisse; id:/model/vivthomas/sabrisse; u:https://www.vivthomas.com/model/sabrisse; g:f
 released: 2017-06-27
 photographer: Alis Locanta
 rating: 9.5
@@ -1200,7 +1200,7 @@ title: Hang Up
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/milena-d/gallery/20170624/HANG_UP
-cast: Milena D; https://www.vivthomas.com/model/milena-d; f
+model: n:Milena D; id:/model/vivthomas/milena-d; u:https://www.vivthomas.com/model/milena-d; g:f
 released: 2017-06-24
 photographer: Antares
 rating: 9.7
@@ -1214,8 +1214,8 @@ title: Tantalizing
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/isabella-lui-and-rebecca-volpetti/gallery/20170622/TANTALIZING
-cast: Isabella Lui; https://www.vivthomas.com/model/isabella-lui; f
-cast: Rebecca Volpetti; https://www.vivthomas.com/model/rebecca-volpetti; f
+model: n:Isabella Lui; id:/model/vivthomas/isabella-lui; u:https://www.vivthomas.com/model/isabella-lui; g:f
+model: n:Rebecca Volpetti; id:/model/vivthomas/rebecca-volpetti; u:https://www.vivthomas.com/model/rebecca-volpetti; g:f
 released: 2017-06-22
 photographer: Sandra Shine
 rating: 9.5
@@ -1229,8 +1229,8 @@ title: Intense
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/kira-zen-and-michelle-h/gallery/20170620/INTENSE
-cast: Kira Zen; https://www.vivthomas.com/model/kira-zen; f
-cast: Michelle H; https://www.vivthomas.com/model/michelle-h; f
+model: n:Kira Zen; id:/model/vivthomas/kira-zen; u:https://www.vivthomas.com/model/kira-zen; g:f
+model: n:Michelle H; id:/model/vivthomas/michelle-h; u:https://www.vivthomas.com/model/michelle-h; g:f
 released: 2017-06-20
 photographer: Alis Locanta
 rating: 9.4
@@ -1244,7 +1244,7 @@ title: Stunning
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/veel/gallery/20170617/STUNNING
-cast: Veel; https://www.vivthomas.com/model/veel; f
+model: n:Veel; id:/model/vivthomas/veel; u:https://www.vivthomas.com/model/veel; g:f
 released: 2017-06-17
 photographer: Albert Varin
 rating: 9.3
@@ -1258,8 +1258,8 @@ title: Entertain
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/dorothy-black-and-rebecca-volpetti/gallery/20170615/ENTERTAIN
-cast: Dorothy Black; https://www.vivthomas.com/model/dorothy-black; f
-cast: Rebecca Volpetti; https://www.vivthomas.com/model/rebecca-volpetti; f
+model: n:Dorothy Black; id:/model/vivthomas/dorothy-black; u:https://www.vivthomas.com/model/dorothy-black; g:f
+model: n:Rebecca Volpetti; id:/model/vivthomas/rebecca-volpetti; u:https://www.vivthomas.com/model/rebecca-volpetti; g:f
 released: 2017-06-15
 photographer: Sandra Shine
 rating: 9.6
@@ -1273,8 +1273,8 @@ title: Delightful
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/adel-c-and-kalisy/gallery/20170613/DELIGHTFUL
-cast: Adel C; https://www.vivthomas.com/model/adel-c; f
-cast: Kalisy; https://www.vivthomas.com/model/kalisy; f
+model: n:Adel C; id:/model/vivthomas/adel-c; u:https://www.vivthomas.com/model/adel-c; g:f
+model: n:Kalisy; id:/model/vivthomas/kalisy; u:https://www.vivthomas.com/model/kalisy; g:f
 released: 2017-06-13
 photographer: Alis Locanta
 rating: 9.3
@@ -1288,7 +1288,7 @@ title: Beauty
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/kylie-d/gallery/20170610/BEAUTY
-cast: Kylie D; https://www.vivthomas.com/model/kylie-d; f
+model: n:Kylie D; id:/model/vivthomas/kylie-d; u:https://www.vivthomas.com/model/kylie-d; g:f
 released: 2017-06-10
 photographer: Albert Varin
 rating: 9.6
@@ -1302,8 +1302,8 @@ title: Engaging
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/dorothy-black-and-isabella-lui/gallery/20170608/ENGAGING
-cast: Dorothy Black; https://www.vivthomas.com/model/dorothy-black; f
-cast: Isabella Lui; https://www.vivthomas.com/model/isabella-lui; f
+model: n:Dorothy Black; id:/model/vivthomas/dorothy-black; u:https://www.vivthomas.com/model/dorothy-black; g:f
+model: n:Isabella Lui; id:/model/vivthomas/isabella-lui; u:https://www.vivthomas.com/model/isabella-lui; g:f
 released: 2017-06-08
 photographer: Sandra Shine
 rating: 9.5
@@ -1317,8 +1317,8 @@ title: Frenzy
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/kira-zen-and-michelle-h/gallery/20170606/FRENZY
-cast: Kira Zen; https://www.vivthomas.com/model/kira-zen; f
-cast: Michelle H; https://www.vivthomas.com/model/michelle-h; f
+model: n:Kira Zen; id:/model/vivthomas/kira-zen; u:https://www.vivthomas.com/model/kira-zen; g:f
+model: n:Michelle H; id:/model/vivthomas/michelle-h; u:https://www.vivthomas.com/model/michelle-h; g:f
 released: 2017-06-06
 photographer: Alis Locanta
 rating: 9.6
@@ -1332,7 +1332,7 @@ title: Presenting Natalie
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/natalie-n/gallery/20170603/PRESENTING_NATALIE
-cast: Natalie N; https://www.vivthomas.com/model/natalie-n; f
+model: n:Natalie N; id:/model/vivthomas/natalie-n; u:https://www.vivthomas.com/model/natalie-n; g:f
 released: 2017-06-03
 photographer: Albert Varin
 rating: 9.2
@@ -1346,8 +1346,8 @@ title: Cleansing
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/amarna-miller-and-inna-innaki/gallery/20170601/CLEANSING
-cast: Amarna Miller; https://www.vivthomas.com/model/amarna-miller; f
-cast: Inna Innaki; https://www.vivthomas.com/model/inna-innaki; f
+model: n:Amarna Miller; id:/model/vivthomas/amarna-miller; u:https://www.vivthomas.com/model/amarna-miller; g:f
+model: n:Inna Innaki; id:/model/vivthomas/inna-innaki; u:https://www.vivthomas.com/model/inna-innaki; g:f
 released: 2017-06-01
 photographer: Alis Locanta
 rating: 9.3
@@ -1361,9 +1361,9 @@ title: Voyeur
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/dolly-diore-and-anina-silk-and-jenny-d/gallery/20170530/VOYEUR
-cast: Dolly Diore; https://www.vivthomas.com/model/dolly-diore; f
-cast: Anina Silk; https://www.vivthomas.com/model/anina-silk; f
-cast: Jenny D; https://www.vivthomas.com/model/jenny-d; f
+model: n:Dolly Diore; id:/model/vivthomas/dolly-diore; u:https://www.vivthomas.com/model/dolly-diore; g:f
+model: n:Anina Silk; id:/model/vivthomas/anina-silk; u:https://www.vivthomas.com/model/anina-silk; g:f
+model: n:Jenny D; id:/model/vivthomas/jenny-d; u:https://www.vivthomas.com/model/jenny-d; g:f
 released: 2017-05-30
 photographer: Sandra Shine
 rating: 9.5
@@ -1377,7 +1377,7 @@ title: Azul
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/anda/gallery/20170527/AZUL
-cast: Anda; https://www.vivthomas.com/model/anda; f
+model: n:Anda; id:/model/vivthomas/anda; u:https://www.vivthomas.com/model/anda; g:f
 released: 2017-05-27
 photographer: Shane Shadow
 rating: 9.3
@@ -1391,8 +1391,8 @@ title: Excited
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/amarna-miller-and-inna-innaki/gallery/20170525/EXCITED
-cast: Amarna Miller; https://www.vivthomas.com/model/amarna-miller; f
-cast: Inna Innaki; https://www.vivthomas.com/model/inna-innaki; f
+model: n:Amarna Miller; id:/model/vivthomas/amarna-miller; u:https://www.vivthomas.com/model/amarna-miller; g:f
+model: n:Inna Innaki; id:/model/vivthomas/inna-innaki; u:https://www.vivthomas.com/model/inna-innaki; g:f
 released: 2017-05-25
 photographer: Alis Locanta
 rating: 9.4
@@ -1406,8 +1406,8 @@ title: Beg
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/delia-a-and-dolly-diore/gallery/20170523/BEG
-cast: Delia A; https://www.vivthomas.com/model/delia-a; f
-cast: Dolly Diore; https://www.vivthomas.com/model/dolly-diore; f
+model: n:Delia A; id:/model/vivthomas/delia-a; u:https://www.vivthomas.com/model/delia-a; g:f
+model: n:Dolly Diore; id:/model/vivthomas/dolly-diore; u:https://www.vivthomas.com/model/dolly-diore; g:f
 released: 2017-05-23
 photographer: Sandra Shine
 rating: 9.5
@@ -1421,7 +1421,7 @@ title: Classy
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/sarika/gallery/20170520/CLASSY
-cast: Sarika; https://www.vivthomas.com/model/sarika; f
+model: n:Sarika; id:/model/vivthomas/sarika; u:https://www.vivthomas.com/model/sarika; g:f
 released: 2017-05-20
 photographer: Albert Varin
 rating: 9.7
@@ -1435,8 +1435,8 @@ title: Feel
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/amarna-miller-and-inna-innaki/gallery/20170518/FEEL
-cast: Amarna Miller; https://www.vivthomas.com/model/amarna-miller; f
-cast: Inna Innaki; https://www.vivthomas.com/model/inna-innaki; f
+model: n:Amarna Miller; id:/model/vivthomas/amarna-miller; u:https://www.vivthomas.com/model/amarna-miller; g:f
+model: n:Inna Innaki; id:/model/vivthomas/inna-innaki; u:https://www.vivthomas.com/model/inna-innaki; g:f
 released: 2017-05-18
 photographer: Alis Locanta
 rating: 9.4
@@ -1450,8 +1450,8 @@ title: Obey
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/sasha-rose-and-dolly-diore/gallery/20170516/OBEY
-cast: Sasha Rose; https://www.vivthomas.com/model/sasha-rose; f
-cast: Dolly Diore; https://www.vivthomas.com/model/dolly-diore; f
+model: n:Sasha Rose; id:/model/vivthomas/sasha-rose; u:https://www.vivthomas.com/model/sasha-rose; g:f
+model: n:Dolly Diore; id:/model/vivthomas/dolly-diore; u:https://www.vivthomas.com/model/dolly-diore; g:f
 released: 2017-05-16
 photographer: Sandra Shine
 rating: 9.5
@@ -1465,7 +1465,7 @@ title: Tease
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/linda-j/gallery/20170513/TEASE
-cast: Linda J; https://www.vivthomas.com/model/linda-j; f
+model: n:Linda J; id:/model/vivthomas/linda-j; u:https://www.vivthomas.com/model/linda-j; g:f
 released: 2017-05-13
 photographer: Antonio Clemens
 rating: 9.5
@@ -1479,8 +1479,8 @@ title: Satisfy
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/amarna-miller-and-inna-innaki/gallery/20170511/SATISFY
-cast: Amarna Miller; https://www.vivthomas.com/model/amarna-miller; f
-cast: Inna Innaki; https://www.vivthomas.com/model/inna-innaki; f
+model: n:Amarna Miller; id:/model/vivthomas/amarna-miller; u:https://www.vivthomas.com/model/amarna-miller; g:f
+model: n:Inna Innaki; id:/model/vivthomas/inna-innaki; u:https://www.vivthomas.com/model/inna-innaki; g:f
 released: 2017-05-11
 photographer: Alis Locanta
 rating: 9.4
@@ -1494,8 +1494,8 @@ title: Dominated
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/dolly-diore-and-misha-cross/gallery/20170509/DOMINATED
-cast: Dolly Diore; https://www.vivthomas.com/model/dolly-diore; f
-cast: Misha Cross; https://www.vivthomas.com/model/misha-cross; f
+model: n:Dolly Diore; id:/model/vivthomas/dolly-diore; u:https://www.vivthomas.com/model/dolly-diore; g:f
+model: n:Misha Cross; id:/model/vivthomas/misha-cross; u:https://www.vivthomas.com/model/misha-cross; g:f
 released: 2017-05-09
 photographer: Sandra Shine
 rating: 9.5
@@ -1509,7 +1509,7 @@ title: Duchess
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/milena-d/gallery/20170506/DUCHESS
-cast: Milena D; https://www.vivthomas.com/model/milena-d; f
+model: n:Milena D; id:/model/vivthomas/milena-d; u:https://www.vivthomas.com/model/milena-d; g:f
 released: 2017-05-06
 photographer: Antares
 rating: 9.7
@@ -1523,8 +1523,8 @@ title: Chimera
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/talia-mint-and-anissa-kate/gallery/20170504/CHIMERA
-cast: Talia Mint; https://www.vivthomas.com/model/talia-mint; f
-cast: Anissa Kate; https://www.vivthomas.com/model/anissa-kate; f
+model: n:Talia Mint; id:/model/vivthomas/talia-mint; u:https://www.vivthomas.com/model/talia-mint; g:f
+model: n:Anissa Kate; id:/model/vivthomas/anissa-kate; u:https://www.vivthomas.com/model/anissa-kate; g:f
 released: 2017-05-04
 photographer: Alis Locanta
 rating: 9.3
@@ -1538,8 +1538,8 @@ title: Toboggan
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/linda-moretti-and-verona-sky/gallery/20170502/TOBOGGAN
-cast: Linda Moretti; https://www.vivthomas.com/model/linda-moretti; f
-cast: Verona Sky; https://www.vivthomas.com/model/verona-sky; f
+model: n:Linda Moretti; id:/model/vivthomas/linda-moretti; u:https://www.vivthomas.com/model/linda-moretti; g:f
+model: n:Verona Sky; id:/model/vivthomas/verona-sky; u:https://www.vivthomas.com/model/verona-sky; g:f
 released: 2017-05-02
 photographer: Sandra Shine
 rating: 9.4
@@ -1553,7 +1553,7 @@ title: Dangerous
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/nika-n/gallery/20170429/DANGEROUS
-cast: Nika N; https://www.vivthomas.com/model/nika-n; f
+model: n:Nika N; id:/model/vivthomas/nika-n; u:https://www.vivthomas.com/model/nika-n; g:f
 released: 2017-04-29
 photographer: Antares
 rating: 9.7
@@ -1567,8 +1567,8 @@ title: Parable
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/talia-mint-and-lucy-heart/gallery/20170427/PARABLE
-cast: Talia Mint; https://www.vivthomas.com/model/talia-mint; f
-cast: Lucy Heart; https://www.vivthomas.com/model/lucy-heart; f
+model: n:Talia Mint; id:/model/vivthomas/talia-mint; u:https://www.vivthomas.com/model/talia-mint; g:f
+model: n:Lucy Heart; id:/model/vivthomas/lucy-heart; u:https://www.vivthomas.com/model/lucy-heart; g:f
 released: 2017-04-27
 photographer: Alis Locanta
 rating: 9.5
@@ -1582,8 +1582,8 @@ title: Annoyed
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/athina-and-zafira-a/gallery/20170425/ANNOYED
-cast: Athina; https://www.vivthomas.com/model/athina; f
-cast: Zafira A; https://www.vivthomas.com/model/zafira-a; f
+model: n:Athina; id:/model/vivthomas/athina; u:https://www.vivthomas.com/model/athina; g:f
+model: n:Zafira A; id:/model/vivthomas/zafira-a; u:https://www.vivthomas.com/model/zafira-a; g:f
 released: 2017-04-25
 photographer: Sandra Shine
 rating: 9.5
@@ -1597,7 +1597,7 @@ title: Petal
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/alexa-day/gallery/20170422/PETAL
-cast: Alexa Day; https://www.vivthomas.com/model/alexa-day; f
+model: n:Alexa Day; id:/model/vivthomas/alexa-day; u:https://www.vivthomas.com/model/alexa-day; g:f
 released: 2017-04-22
 photographer: Flora
 rating: 9.5
@@ -1611,8 +1611,8 @@ title: Narrative
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/anissa-kate-and-lucy-heart/gallery/20170420/NARRATIVE
-cast: Anissa Kate; https://www.vivthomas.com/model/anissa-kate; f
-cast: Lucy Heart; https://www.vivthomas.com/model/lucy-heart; f
+model: n:Anissa Kate; id:/model/vivthomas/anissa-kate; u:https://www.vivthomas.com/model/anissa-kate; g:f
+model: n:Lucy Heart; id:/model/vivthomas/lucy-heart; u:https://www.vivthomas.com/model/lucy-heart; g:f
 released: 2017-04-20
 photographer: Alis Locanta
 rating: 9.3
@@ -1626,8 +1626,8 @@ title: Warming Up
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/vicky-love-and-candy-alexa/gallery/20170418/WARMING_UP
-cast: Vicky Love; https://www.vivthomas.com/model/vicky-love; f
-cast: Candy Alexa; https://www.vivthomas.com/model/candy-alexa; f
+model: n:Vicky Love; id:/model/vivthomas/vicky-love; u:https://www.vivthomas.com/model/vicky-love; g:f
+model: n:Candy Alexa; id:/model/vivthomas/candy-alexa; u:https://www.vivthomas.com/model/candy-alexa; g:f
 released: 2017-04-18
 photographer: Sandra Shine
 rating: 9.5
@@ -1641,7 +1641,7 @@ title: Journey
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/dgil/gallery/20170415/JOURNEY
-cast: Dgil; https://www.vivthomas.com/model/dgil; f
+model: n:Dgil; id:/model/vivthomas/dgil; u:https://www.vivthomas.com/model/dgil; g:f
 released: 2017-04-15
 photographer: Alex Lynn
 rating: 9.3
@@ -1655,8 +1655,8 @@ title: Account
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/anissa-kate-and-talia-mint/gallery/20170413/ACCOUNT
-cast: Anissa Kate; https://www.vivthomas.com/model/anissa-kate; f
-cast: Talia Mint; https://www.vivthomas.com/model/talia-mint; f
+model: n:Anissa Kate; id:/model/vivthomas/anissa-kate; u:https://www.vivthomas.com/model/anissa-kate; g:f
+model: n:Talia Mint; id:/model/vivthomas/talia-mint; u:https://www.vivthomas.com/model/talia-mint; g:f
 released: 2017-04-13
 photographer: Alis Locanta
 rating: 9.4
@@ -1670,8 +1670,8 @@ title: Glide
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/sasha-rose-and-rebecca-volpetti/gallery/20170411/GLIDE
-cast: Sasha Rose; https://www.vivthomas.com/model/sasha-rose; f
-cast: Rebecca Volpetti; https://www.vivthomas.com/model/rebecca-volpetti; f
+model: n:Sasha Rose; id:/model/vivthomas/sasha-rose; u:https://www.vivthomas.com/model/sasha-rose; g:f
+model: n:Rebecca Volpetti; id:/model/vivthomas/rebecca-volpetti; u:https://www.vivthomas.com/model/rebecca-volpetti; g:f
 released: 2017-04-11
 photographer: Sandra Shine
 rating: 9.5
@@ -1685,7 +1685,7 @@ title: Auburn
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/mona-a/gallery/20170408/AUBURN
-cast: Mona A; https://www.vivthomas.com/model/mona-a; f
+model: n:Mona A; id:/model/vivthomas/mona-a; u:https://www.vivthomas.com/model/mona-a; g:f
 released: 2017-04-08
 photographer: Albert Varin
 rating: 9.2
@@ -1699,8 +1699,8 @@ title: Indulgent
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/cassie-fire-and-penelope-cum/gallery/20170406/INDULGENT
-cast: Cassie Fire; https://www.vivthomas.com/model/cassie-fire; f
-cast: Penelope Cum; https://www.vivthomas.com/model/penelope-cum; f
+model: n:Cassie Fire; id:/model/vivthomas/cassie-fire; u:https://www.vivthomas.com/model/cassie-fire; g:f
+model: n:Penelope Cum; id:/model/vivthomas/penelope-cum; u:https://www.vivthomas.com/model/penelope-cum; g:f
 released: 2017-04-06
 photographer: Alis Locanta
 rating: 9.4
@@ -1714,8 +1714,8 @@ title: Dinner
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/selena-mur-and-anie-darling/gallery/20170404/DINNER
-cast: Selena Mur; https://www.vivthomas.com/model/selena-mur; f
-cast: Anie Darling; https://www.vivthomas.com/model/anie-darling; f
+model: n:Selena Mur; id:/model/vivthomas/selena-mur; u:https://www.vivthomas.com/model/selena-mur; g:f
+model: n:Anie Darling; id:/model/vivthomas/anie-darling; u:https://www.vivthomas.com/model/anie-darling; g:f
 released: 2017-04-04
 photographer: Sandra Shine
 rating: 9.5
@@ -1729,7 +1729,7 @@ title: Dream
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/sybil-a/gallery/20170401/DREAM
-cast: Sybil A; https://www.vivthomas.com/model/sybil-a; f
+model: n:Sybil A; id:/model/vivthomas/sybil-a; u:https://www.vivthomas.com/model/sybil-a; g:f
 released: 2017-04-01
 photographer: Dave Lee
 rating: 9.6
@@ -1743,8 +1743,8 @@ title: Fantasy
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/clea-gaultier-and-paula-shy/gallery/20170330/FANTASY
-cast: Clea Gaultier; https://www.vivthomas.com/model/clea-gaultier; f
-cast: Paula Shy; https://www.vivthomas.com/model/paula-shy; f
+model: n:Clea Gaultier; id:/model/vivthomas/clea-gaultier; u:https://www.vivthomas.com/model/clea-gaultier; g:f
+model: n:Paula Shy; id:/model/vivthomas/paula-shy; u:https://www.vivthomas.com/model/paula-shy; g:f
 released: 2017-03-30
 photographer: Alis Locanta
 rating: 9.3
@@ -1758,8 +1758,8 @@ title: Contest
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/gina-gerson-and-jessica-lincoln/gallery/20170328/CONTEST
-cast: Gina Gerson; https://www.vivthomas.com/model/gina-gerson; f
-cast: Jessica Lincoln; https://www.vivthomas.com/model/jessica-lincoln; f
+model: n:Gina Gerson; id:/model/vivthomas/gina-gerson; u:https://www.vivthomas.com/model/gina-gerson; g:f
+model: n:Jessica Lincoln; id:/model/vivthomas/jessica-lincoln; u:https://www.vivthomas.com/model/jessica-lincoln; g:f
 released: 2017-03-28
 photographer: Sandra Shine
 rating: 9.7
@@ -1773,8 +1773,8 @@ title: Camping
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/milena-d-and-nika-n/gallery/20170325/CAMPING
-cast: Milena D; https://www.vivthomas.com/model/milena-d; f
-cast: Nika N; https://www.vivthomas.com/model/nika-n; f
+model: n:Milena D; id:/model/vivthomas/milena-d; u:https://www.vivthomas.com/model/milena-d; g:f
+model: n:Nika N; id:/model/vivthomas/nika-n; u:https://www.vivthomas.com/model/nika-n; g:f
 released: 2017-03-25
 photographer: Antares
 rating: 9.6
@@ -1788,8 +1788,8 @@ title: Libertine
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/stella-cox-and-penelope-cum/gallery/20170323/LIBERTINE
-cast: Stella Cox; https://www.vivthomas.com/model/stella-cox; f
-cast: Penelope Cum; https://www.vivthomas.com/model/penelope-cum; f
+model: n:Stella Cox; id:/model/vivthomas/stella-cox; u:https://www.vivthomas.com/model/stella-cox; g:f
+model: n:Penelope Cum; id:/model/vivthomas/penelope-cum; u:https://www.vivthomas.com/model/penelope-cum; g:f
 released: 2017-03-23
 photographer: Alis Locanta
 rating: 9.4
@@ -1803,9 +1803,9 @@ title: Brash
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/taissia-a-and-eve-angel-and-dorothy-black/gallery/20170321/BRASH
-cast: Taissia A; https://www.vivthomas.com/model/taissia-a; f
-cast: Eve Angel; https://www.vivthomas.com/model/eve-angel; f
-cast: Dorothy Black; https://www.vivthomas.com/model/dorothy-black; f
+model: n:Taissia A; id:/model/vivthomas/taissia-a; u:https://www.vivthomas.com/model/taissia-a; g:f
+model: n:Eve Angel; id:/model/vivthomas/eve-angel; u:https://www.vivthomas.com/model/eve-angel; g:f
+model: n:Dorothy Black; id:/model/vivthomas/dorothy-black; u:https://www.vivthomas.com/model/dorothy-black; g:f
 released: 2017-03-21
 photographer: Sandra Shine
 rating: 9.6
@@ -1819,7 +1819,7 @@ title: Lounge
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/alexa-day/gallery/20170318/LOUNGE
-cast: Alexa Day; https://www.vivthomas.com/model/alexa-day; f
+model: n:Alexa Day; id:/model/vivthomas/alexa-day; u:https://www.vivthomas.com/model/alexa-day; g:f
 released: 2017-03-18
 photographer: Flora
 rating: 9.6
@@ -1833,8 +1833,8 @@ title: Devoted
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/alexa-tomas-and-jimena-lago/gallery/20170316/DEVOTED
-cast: Alexa Tomas; https://www.vivthomas.com/model/alexa-tomas; f
-cast: Jimena Lago; https://www.vivthomas.com/model/jimena-lago; f
+model: n:Alexa Tomas; id:/model/vivthomas/alexa-tomas; u:https://www.vivthomas.com/model/alexa-tomas; g:f
+model: n:Jimena Lago; id:/model/vivthomas/jimena-lago; u:https://www.vivthomas.com/model/jimena-lago; g:f
 released: 2017-03-16
 photographer: Alis Locanta
 rating: 9.1
@@ -1848,9 +1848,9 @@ title: Secret
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/eve-angel-and-rebecca-volpetti-and-olivia-grace/gallery/20170314/SECRET
-cast: Eve Angel; https://www.vivthomas.com/model/eve-angel; f
-cast: Rebecca Volpetti; https://www.vivthomas.com/model/rebecca-volpetti; f
-cast: Olivia Grace; https://www.vivthomas.com/model/olivia-grace; f
+model: n:Eve Angel; id:/model/vivthomas/eve-angel; u:https://www.vivthomas.com/model/eve-angel; g:f
+model: n:Rebecca Volpetti; id:/model/vivthomas/rebecca-volpetti; u:https://www.vivthomas.com/model/rebecca-volpetti; g:f
+model: n:Olivia Grace; id:/model/vivthomas/olivia-grace; u:https://www.vivthomas.com/model/olivia-grace; g:f
 released: 2017-03-14
 photographer: Sandra Shine
 rating: 9.4
@@ -1864,7 +1864,7 @@ title: In Bloom
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/sandy-a/gallery/20170311/IN_BLOOM
-cast: Sandy A; https://www.vivthomas.com/model/sandy-a; f
+model: n:Sandy A; id:/model/vivthomas/sandy-a; u:https://www.vivthomas.com/model/sandy-a; g:f
 released: 2017-03-11
 photographer: Flora
 rating: 9.4
@@ -1878,8 +1878,8 @@ title: Delphian
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/penelope-cum-and-cassie-fire/gallery/20170309/DELPHIAN
-cast: Penelope Cum; https://www.vivthomas.com/model/penelope-cum; f
-cast: Cassie Fire; https://www.vivthomas.com/model/cassie-fire; f
+model: n:Penelope Cum; id:/model/vivthomas/penelope-cum; u:https://www.vivthomas.com/model/penelope-cum; g:f
+model: n:Cassie Fire; id:/model/vivthomas/cassie-fire; u:https://www.vivthomas.com/model/cassie-fire; g:f
 released: 2017-03-09
 photographer: Alis Locanta
 rating: 9.4
@@ -1893,8 +1893,8 @@ title: Seduced
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/luna-corazon-and-katrin-tequila/gallery/20170307/SEDUCED
-cast: Luna Corazon; https://www.vivthomas.com/model/luna-corazon; f
-cast: Katrin Tequila; https://www.vivthomas.com/model/katrin-tequila; f
+model: n:Luna Corazon; id:/model/vivthomas/luna-corazon; u:https://www.vivthomas.com/model/luna-corazon; g:f
+model: n:Katrin Tequila; id:/model/vivthomas/katrin-tequila; u:https://www.vivthomas.com/model/katrin-tequila; g:f
 released: 2017-03-07
 photographer: Sandra Shine
 rating: 9.2
@@ -1908,7 +1908,7 @@ title: Skylight
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/messiah/gallery/20170304/SKYLIGHT
-cast: Messiah; https://www.vivthomas.com/model/messiah; f
+model: n:Messiah; id:/model/vivthomas/messiah; u:https://www.vivthomas.com/model/messiah; g:f
 released: 2017-03-04
 photographer: Albert Varin
 rating: 9.3
@@ -1922,8 +1922,8 @@ title: Alluring
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/alexa-tomas-and-clea-gaultier/gallery/20170302/ALLURING
-cast: Alexa Tomas; https://www.vivthomas.com/model/alexa-tomas; f
-cast: Clea Gaultier; https://www.vivthomas.com/model/clea-gaultier; f
+model: n:Alexa Tomas; id:/model/vivthomas/alexa-tomas; u:https://www.vivthomas.com/model/alexa-tomas; g:f
+model: n:Clea Gaultier; id:/model/vivthomas/clea-gaultier; u:https://www.vivthomas.com/model/clea-gaultier; g:f
 released: 2017-03-02
 photographer: Alis Locanta
 rating: 9.4
@@ -1937,8 +1937,8 @@ title: Swayed
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/stella-cox-and-luna-corazon/gallery/20170228/SWAYED
-cast: Stella Cox; https://www.vivthomas.com/model/stella-cox; f
-cast: Luna Corazon; https://www.vivthomas.com/model/luna-corazon; f
+model: n:Stella Cox; id:/model/vivthomas/stella-cox; u:https://www.vivthomas.com/model/stella-cox; g:f
+model: n:Luna Corazon; id:/model/vivthomas/luna-corazon; u:https://www.vivthomas.com/model/luna-corazon; g:f
 released: 2017-02-28
 photographer: Sandra Shine
 rating: 9.5
@@ -1952,8 +1952,8 @@ title: Adventure
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/nika-n-and-milena-d/gallery/20170225/ADVENTURE
-cast: Nika N; https://www.vivthomas.com/model/nika-n; f
-cast: Milena D; https://www.vivthomas.com/model/milena-d; f
+model: n:Nika N; id:/model/vivthomas/nika-n; u:https://www.vivthomas.com/model/nika-n; g:f
+model: n:Milena D; id:/model/vivthomas/milena-d; u:https://www.vivthomas.com/model/milena-d; g:f
 released: 2017-02-25
 photographer: Antares
 rating: 9.5
@@ -1967,8 +1967,8 @@ title: Curious
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/penelope-cum-and-stella-cox/gallery/20170223/CURIOUS
-cast: Penelope Cum; https://www.vivthomas.com/model/penelope-cum; f
-cast: Stella Cox; https://www.vivthomas.com/model/stella-cox; f
+model: n:Penelope Cum; id:/model/vivthomas/penelope-cum; u:https://www.vivthomas.com/model/penelope-cum; g:f
+model: n:Stella Cox; id:/model/vivthomas/stella-cox; u:https://www.vivthomas.com/model/stella-cox; g:f
 released: 2017-02-23
 photographer: Alis Locanta
 rating: 9.4
@@ -1982,8 +1982,8 @@ title: Mischievous
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/luna-corazon-and-liona-levi/gallery/20170221/MISCHIEVOUS
-cast: Luna Corazon; https://www.vivthomas.com/model/luna-corazon; f
-cast: Liona Levi; https://www.vivthomas.com/model/liona-levi; f
+model: n:Luna Corazon; id:/model/vivthomas/luna-corazon; u:https://www.vivthomas.com/model/luna-corazon; g:f
+model: n:Liona Levi; id:/model/vivthomas/liona-levi; u:https://www.vivthomas.com/model/liona-levi; g:f
 released: 2017-02-21
 photographer: Sandra Shine
 rating: 9.2
@@ -1997,7 +1997,7 @@ title: Relaxed
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/lea-a/gallery/20170218/RELAXED
-cast: Lea A; https://www.vivthomas.com/model/lea-a; f
+model: n:Lea A; id:/model/vivthomas/lea-a; u:https://www.vivthomas.com/model/lea-a; g:f
 released: 2017-02-18
 photographer: Albert Varin
 rating: 9.5
@@ -2011,8 +2011,8 @@ title: Sensations
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/paula-shy-and-jimena-lago/gallery/20170216/SENSATIONS
-cast: Paula Shy; https://www.vivthomas.com/model/paula-shy; f
-cast: Jimena Lago; https://www.vivthomas.com/model/jimena-lago; f
+model: n:Paula Shy; id:/model/vivthomas/paula-shy; u:https://www.vivthomas.com/model/paula-shy; g:f
+model: n:Jimena Lago; id:/model/vivthomas/jimena-lago; u:https://www.vivthomas.com/model/jimena-lago; g:f
 released: 2017-02-16
 photographer: Alis Locanta
 rating: 9.4
@@ -2026,8 +2026,8 @@ title: Linguistic
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/frida-sante-and-luna-corazon/gallery/20170214/LINGUISTIC
-cast: Frida Sante; https://www.vivthomas.com/model/frida-sante; f
-cast: Luna Corazon; https://www.vivthomas.com/model/luna-corazon; f
+model: n:Frida Sante; id:/model/vivthomas/frida-sante; u:https://www.vivthomas.com/model/frida-sante; g:f
+model: n:Luna Corazon; id:/model/vivthomas/luna-corazon; u:https://www.vivthomas.com/model/luna-corazon; g:f
 released: 2017-02-14
 photographer: Sandra Shine
 rating: 9.4
@@ -2041,7 +2041,7 @@ title: Boa Vista
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/kylie-d/gallery/20170211/BOA_VISTA
-cast: Kylie D; https://www.vivthomas.com/model/kylie-d; f
+model: n:Kylie D; id:/model/vivthomas/kylie-d; u:https://www.vivthomas.com/model/kylie-d; g:f
 released: 2017-02-11
 photographer: Albert Varin
 rating: 9.3
@@ -2055,8 +2055,8 @@ title: Remenisce
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/julia-roca-and-nikita-bellucci/gallery/20170209/REMENISCE
-cast: Julia Roca; https://www.vivthomas.com/model/julia-roca; f
-cast: Nikita Bellucci; https://www.vivthomas.com/model/nikita-bellucci; f
+model: n:Julia Roca; id:/model/vivthomas/julia-roca; u:https://www.vivthomas.com/model/julia-roca; g:f
+model: n:Nikita Bellucci; id:/model/vivthomas/nikita-bellucci; u:https://www.vivthomas.com/model/nikita-bellucci; g:f
 released: 2017-02-09
 photographer: Alis Locanta
 rating: 9.5
@@ -2070,8 +2070,8 @@ title: Sweat
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/lexi-dona-and-nataly-von/gallery/20170207/SWEAT
-cast: Lexi Dona; https://www.vivthomas.com/model/lexi-dona; f
-cast: Nataly Von; https://www.vivthomas.com/model/nataly-von; f
+model: n:Lexi Dona; id:/model/vivthomas/lexi-dona; u:https://www.vivthomas.com/model/lexi-dona; g:f
+model: n:Nataly Von; id:/model/vivthomas/nataly-von; u:https://www.vivthomas.com/model/nataly-von; g:f
 released: 2017-02-07
 photographer: Alis Locanta
 rating: 9.2
@@ -2085,7 +2085,7 @@ title: Siren
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/nika-n/gallery/20170204/SIREN
-cast: Nika N; https://www.vivthomas.com/model/nika-n; f
+model: n:Nika N; id:/model/vivthomas/nika-n; u:https://www.vivthomas.com/model/nika-n; g:f
 released: 2017-02-04
 photographer: Antares
 rating: 9.7
@@ -2099,8 +2099,8 @@ title: Satisfaction
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/sweet-cat-and-paula-shy/gallery/20170202/SATISFACTION
-cast: Sweet Cat; https://www.vivthomas.com/model/sweet-cat; f
-cast: Paula Shy; https://www.vivthomas.com/model/paula-shy; f
+model: n:Sweet Cat; id:/model/vivthomas/sweet-cat; u:https://www.vivthomas.com/model/sweet-cat; g:f
+model: n:Paula Shy; id:/model/vivthomas/paula-shy; u:https://www.vivthomas.com/model/paula-shy; g:f
 released: 2017-02-02
 photographer: Alis Locanta
 rating: 9.4
@@ -2114,9 +2114,9 @@ title: Ravenous
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/paula-shy-and-lexi-dona-and-nataly-von/gallery/20170131/RAVENOUS
-cast: Paula Shy; https://www.vivthomas.com/model/paula-shy; f
-cast: Lexi Dona; https://www.vivthomas.com/model/lexi-dona; f
-cast: Nataly Von; https://www.vivthomas.com/model/nataly-von; f
+model: n:Paula Shy; id:/model/vivthomas/paula-shy; u:https://www.vivthomas.com/model/paula-shy; g:f
+model: n:Lexi Dona; id:/model/vivthomas/lexi-dona; u:https://www.vivthomas.com/model/lexi-dona; g:f
+model: n:Nataly Von; id:/model/vivthomas/nataly-von; u:https://www.vivthomas.com/model/nataly-von; g:f
 released: 2017-01-31
 photographer: Alis Locanta
 rating: 9.3
@@ -2130,7 +2130,7 @@ title: Seduction
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/niki-mey/gallery/20170128/SEDUCTION
-cast: Niki Mey; https://www.vivthomas.com/model/niki-mey; f
+model: n:Niki Mey; id:/model/vivthomas/niki-mey; u:https://www.vivthomas.com/model/niki-mey; g:f
 released: 2017-01-28
 photographer: Flora
 rating: 9.7
@@ -2144,8 +2144,8 @@ title: Remember
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/noe-milk-and-julia-roca/gallery/20170126/REMEMBER
-cast: Noe Milk; https://www.vivthomas.com/model/noe-milk; f
-cast: Julia Roca; https://www.vivthomas.com/model/julia-roca; f
+model: n:Noe Milk; id:/model/vivthomas/noe-milk; u:https://www.vivthomas.com/model/noe-milk; g:f
+model: n:Julia Roca; id:/model/vivthomas/julia-roca; u:https://www.vivthomas.com/model/julia-roca; g:f
 released: 2017-01-26
 photographer: Alis Locanta
 rating: 9.4
@@ -2159,8 +2159,8 @@ title: Arouse
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/frida-sante-and-rina-ellis/gallery/20170124/AROUSE
-cast: Frida Sante; https://www.vivthomas.com/model/frida-sante; f
-cast: Rina Ellis; https://www.vivthomas.com/model/rina-ellis; f
+model: n:Frida Sante; id:/model/vivthomas/frida-sante; u:https://www.vivthomas.com/model/frida-sante; g:f
+model: n:Rina Ellis; id:/model/vivthomas/rina-ellis; u:https://www.vivthomas.com/model/rina-ellis; g:f
 released: 2017-01-24
 photographer: Sandra Shine
 rating: 9.5
@@ -2174,7 +2174,7 @@ title: Elated
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/korica-a/gallery/20170121/ELATED
-cast: Korica A; https://www.vivthomas.com/model/korica-a; f
+model: n:Korica A; id:/model/vivthomas/korica-a; u:https://www.vivthomas.com/model/korica-a; g:f
 released: 2017-01-21
 photographer: Antares
 rating: 9.4
@@ -2188,8 +2188,8 @@ title: Interrupt
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/sweet-cat-and-nikita-bellucci/gallery/20170119/INTERRUPT
-cast: Sweet Cat; https://www.vivthomas.com/model/sweet-cat; f
-cast: Nikita Bellucci; https://www.vivthomas.com/model/nikita-bellucci; f
+model: n:Sweet Cat; id:/model/vivthomas/sweet-cat; u:https://www.vivthomas.com/model/sweet-cat; g:f
+model: n:Nikita Bellucci; id:/model/vivthomas/nikita-bellucci; u:https://www.vivthomas.com/model/nikita-bellucci; g:f
 released: 2017-01-19
 photographer: Alis Locanta
 rating: 9.6
@@ -2203,8 +2203,8 @@ title: Whirl
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/roxy-dee-and-kerry-cherry/gallery/20170117/WHIRL
-cast: Roxy Dee; https://www.vivthomas.com/model/roxy-dee; f
-cast: Kerry Cherry; https://www.vivthomas.com/model/kerry-cherry; f
+model: n:Roxy Dee; id:/model/vivthomas/roxy-dee; u:https://www.vivthomas.com/model/roxy-dee; g:f
+model: n:Kerry Cherry; id:/model/vivthomas/kerry-cherry; u:https://www.vivthomas.com/model/kerry-cherry; g:f
 released: 2017-01-17
 photographer: Sandra Shine
 rating: 9.5
@@ -2218,7 +2218,7 @@ title: Vogue
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/veel/gallery/20170114/VOGUE
-cast: Veel; https://www.vivthomas.com/model/veel; f
+model: n:Veel; id:/model/vivthomas/veel; u:https://www.vivthomas.com/model/veel; g:f
 released: 2017-01-14
 photographer: Albert Varin
 rating: 9.6
@@ -2232,8 +2232,8 @@ title: Happiness
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/nataly-von-and-sweet-cat/gallery/20170112/HAPPINESS
-cast: Nataly Von; https://www.vivthomas.com/model/nataly-von; f
-cast: Sweet Cat; https://www.vivthomas.com/model/sweet-cat; f
+model: n:Nataly Von; id:/model/vivthomas/nataly-von; u:https://www.vivthomas.com/model/nataly-von; g:f
+model: n:Sweet Cat; id:/model/vivthomas/sweet-cat; u:https://www.vivthomas.com/model/sweet-cat; g:f
 released: 2017-01-12
 photographer: Alis Locanta
 rating: 9.5
@@ -2247,8 +2247,8 @@ title: Hands On
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/aislin-and-stasy-rivera/gallery/20170110/HANDS_ON
-cast: Aislin; https://www.vivthomas.com/model/aislin; f
-cast: Stasy Rivera; https://www.vivthomas.com/model/stasy-rivera; f
+model: n:Aislin; id:/model/vivthomas/aislin; u:https://www.vivthomas.com/model/aislin; g:f
+model: n:Stasy Rivera; id:/model/vivthomas/stasy-rivera; u:https://www.vivthomas.com/model/stasy-rivera; g:f
 released: 2017-01-10
 photographer: Sandra Shine
 rating: 9.4
@@ -2262,7 +2262,7 @@ title: Delightful
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/mango-a/gallery/20170107/DELIGHTFUL
-cast: Mango A; https://www.vivthomas.com/model/mango-a; f
+model: n:Mango A; id:/model/vivthomas/mango-a; u:https://www.vivthomas.com/model/mango-a; g:f
 released: 2017-01-07
 photographer: Vlad Kleverov
 rating: 9.6
@@ -2276,8 +2276,8 @@ title: Covetous
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/lexi-dona-and-paula-shy/gallery/20170105/COVETOUS
-cast: Lexi Dona; https://www.vivthomas.com/model/lexi-dona; f
-cast: Paula Shy; https://www.vivthomas.com/model/paula-shy; f
+model: n:Lexi Dona; id:/model/vivthomas/lexi-dona; u:https://www.vivthomas.com/model/lexi-dona; g:f
+model: n:Paula Shy; id:/model/vivthomas/paula-shy; u:https://www.vivthomas.com/model/paula-shy; g:f
 released: 2017-01-05
 photographer: Alis Locanta
 rating: 9.5
@@ -2291,8 +2291,8 @@ title: Follow Me
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/luna-corazon-and-kira-thorn/gallery/20170103/FOLLOW_ME
-cast: Luna Corazon; https://www.vivthomas.com/model/luna-corazon; f
-cast: Kira Thorn; https://www.vivthomas.com/model/kira-thorn; f
+model: n:Luna Corazon; id:/model/vivthomas/luna-corazon; u:https://www.vivthomas.com/model/luna-corazon; g:f
+model: n:Kira Thorn; id:/model/vivthomas/kira-thorn; u:https://www.vivthomas.com/model/kira-thorn; g:f
 released: 2017-01-03
 photographer: Sandra Shine
 rating: 9.3

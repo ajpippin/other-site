@@ -9,8 +9,8 @@ title: Cliche
 type: movie
 site: sa
 url: https://www.sexart.com/model/pavlos-and-cristal-caitlin/movie/20171231/CLICHE
-cast: Pavlos; https://www.sexart.com/model/pavlos; g:m
-cast: Cristal Caitlin; https://www.sexart.com/model/cristal-caitlin; g:f
+model: n:Pavlos; id:/model/sexart/pavlos; u:https://www.sexart.com/model/pavlos; g:m
+model: n:Cristal Caitlin; id:/model/sexart/cristal-caitlin; u:https://www.sexart.com/model/cristal-caitlin; g:f
 released: 2017-12-31
 director: Andrej Lupin
 rating: 9.0
@@ -68,9 +68,9 @@ title: Teacher
 type: movie
 site: sa
 url: https://www.sexart.com/model/belle-claire-and-sade-rose-and-teresse-bizzarre/movie/20171229/TEACHER
-cast: Belle Claire; https://www.sexart.com/model/belle-claire; g:f
-cast: Sade Rose; https://www.sexart.com/model/sade-rose; g:f
-cast: Teresse Bizzarre; https://www.sexart.com/model/teresse-bizzarre; g:f
+model: n:Belle Claire; id:/model/sexart/belle-claire; u:https://www.sexart.com/model/belle-claire; g:f
+model: n:Sade Rose; id:/model/sexart/sade-rose; u:https://www.sexart.com/model/sade-rose; g:f
+model: n:Teresse Bizzarre; id:/model/sexart/teresse-bizzarre; u:https://www.sexart.com/model/teresse-bizzarre; g:f
 released: 2017-12-29
 director: Andrej Lupin
 rating: 9.3
@@ -139,8 +139,8 @@ title: Listen To Me
 type: movie
 site: sa
 url: https://www.sexart.com/model/nick-ross-and-alexis-crystal/movie/20171227/LISTEN_TO_ME
-cast: Nick Ross; https://www.sexart.com/model/nick-ross; g:m
-cast: Alexis Crystal; https://www.sexart.com/model/alexis-crystal; g:f
+model: n:Nick Ross; id:/model/sexart/nick-ross; u:https://www.sexart.com/model/nick-ross; g:m
+model: n:Alexis Crystal; id:/model/sexart/alexis-crystal; u:https://www.sexart.com/model/alexis-crystal; g:f
 released: 2017-12-27
 director: Andrej Lupin
 rating: 9.2
@@ -177,8 +177,8 @@ title: Time For Us
 type: movie
 site: sa
 url: https://www.sexart.com/model/kristof-cale-and-sade-rose/movie/20171224/TIME_FOR_US
-cast: Kristof Cale; https://www.sexart.com/model/kristof-cale; g:m
-cast: Sade Rose; https://www.sexart.com/model/sade-rose; g:f
+model: n:Kristof Cale; id:/model/sexart/kristof-cale; u:https://www.sexart.com/model/kristof-cale; g:m
+model: n:Sade Rose; id:/model/sexart/sade-rose; u:https://www.sexart.com/model/sade-rose; g:f
 released: 2017-12-24
 director: Andrej Lupin
 rating: 9.1
@@ -238,8 +238,8 @@ title: Under The Stars
 type: movie
 site: sa
 url: https://www.sexart.com/model/belle-claire-and-chrissy-fox/movie/20171222/UNDER_THE_STARS
-cast: Belle Claire; https://www.sexart.com/model/belle-claire; g:f
-cast: Chrissy Fox; https://www.sexart.com/model/chrissy-fox; g:f
+model: n:Belle Claire; id:/model/sexart/belle-claire; u:https://www.sexart.com/model/belle-claire; g:f
+model: n:Chrissy Fox; id:/model/sexart/chrissy-fox; u:https://www.sexart.com/model/chrissy-fox; g:f
 released: 2017-12-22
 director: Andrej Lupin
 rating: 9.2
@@ -298,8 +298,8 @@ title: Closed
 type: movie
 site: sa
 url: https://www.sexart.com/model/pavlos-and-kira-parvati/movie/20171220/CLOSED
-cast: Pavlos; https://www.sexart.com/model/pavlos; g:m
-cast: Kira Parvati; https://www.sexart.com/model/kira-parvati; g:f
+model: n:Pavlos; id:/model/sexart/pavlos; u:https://www.sexart.com/model/pavlos; g:m
+model: n:Kira Parvati; id:/model/sexart/kira-parvati; u:https://www.sexart.com/model/kira-parvati; g:f
 released: 2017-12-20
 director: Andrej Lupin
 rating: 9.0
@@ -354,8 +354,8 @@ title: Sensitive
 type: movie
 site: sa
 url: https://www.sexart.com/model/maxmilian-dior-and-kalisy/movie/20171217/SENSITIVE
-cast: Maxmilian Dior; https://www.sexart.com/model/maxmilian-dior; g:m
-cast: Kalisy; https://www.sexart.com/model/kalisy; g:f
+model: n:Maxmilian Dior; id:/model/sexart/maxmilian-dior; u:https://www.sexart.com/model/maxmilian-dior; g:m
+model: n:Kalisy; id:/model/sexart/kalisy; u:https://www.sexart.com/model/kalisy; g:f
 released: 2017-12-17
 director: Andrej Lupin
 rating: 9.3
@@ -412,8 +412,8 @@ title: Target
 type: movie
 site: sa
 url: https://www.sexart.com/model/katana-and-cherry-kiss/movie/20171215/TARGET
-cast: Katana; https://www.sexart.com/model/katana; g:f
-cast: Cherry Kiss; https://www.sexart.com/model/cherry-kiss; g:f
+model: n:Katana; id:/model/sexart/katana; u:https://www.sexart.com/model/katana; g:f
+model: n:Cherry Kiss; id:/model/sexart/cherry-kiss; u:https://www.sexart.com/model/cherry-kiss; g:f
 released: 2017-12-15
 director: Andrej Lupin
 rating: 9.3
@@ -471,8 +471,8 @@ title: Let's Do It
 type: movie
 site: sa
 url: https://www.sexart.com/model/anissa-kate-and-kristof-cale/movie/20171213/LET_S_DO_IT
-cast: Anissa Kate; https://www.sexart.com/model/anissa-kate; g:f
-cast: Kristof Cale; https://www.sexart.com/model/kristof-cale; g:m
+model: n:Anissa Kate; id:/model/sexart/anissa-kate; u:https://www.sexart.com/model/anissa-kate; g:f
+model: n:Kristof Cale; id:/model/sexart/kristof-cale; u:https://www.sexart.com/model/kristof-cale; g:m
 released: 2017-12-13
 director: Andrej Lupin
 rating: 9.2
@@ -536,8 +536,8 @@ title: Red
 type: movie
 site: sa
 url: https://www.sexart.com/model/alex-moretti-and-lana-seymour/movie/20171210/RED
-cast: Alex Moretti; https://www.sexart.com/model/alex-moretti; g:f
-cast: Lana Seymour; https://www.sexart.com/model/lana-seymour; g:f
+model: n:Alex Moretti; id:/model/sexart/alex-moretti; u:https://www.sexart.com/model/alex-moretti; g:f
+model: n:Lana Seymour; id:/model/sexart/lana-seymour; u:https://www.sexart.com/model/lana-seymour; g:f
 released: 2017-12-10
 director: Andrej Lupin
 rating: 9.3
@@ -595,8 +595,8 @@ title: Hair Episode 5 - Breakthrough
 type: movie
 site: sa
 url: https://www.sexart.com/model/taylor-sands-and-emylia-argan/movie/20171208/HAIR_EPISODE_5_-_BREAKTHROUGH
-cast: Taylor Sands; https://www.sexart.com/model/taylor-sands; g:f
-cast: Emylia Argan; https://www.sexart.com/model/emylia-argan; g:f
+model: n:Taylor Sands; id:/model/sexart/taylor-sands; u:https://www.sexart.com/model/taylor-sands; g:f
+model: n:Emylia Argan; id:/model/sexart/emylia-argan; u:https://www.sexart.com/model/emylia-argan; g:f
 released: 2017-12-08
 director: Andrej Lupin
 rating: 9.3
@@ -656,8 +656,8 @@ title: Look
 type: movie
 site: sa
 url: https://www.sexart.com/model/maxmilian-dior-and-melody/movie/20171206/LOOK
-cast: Maxmilian Dior; https://www.sexart.com/model/maxmilian-dior; g:m
-cast: Melody; https://www.sexart.com/model/melody; g:f
+model: n:Maxmilian Dior; id:/model/sexart/maxmilian-dior; u:https://www.sexart.com/model/maxmilian-dior; g:m
+model: n:Melody; id:/model/sexart/melody; u:https://www.sexart.com/model/melody; g:f
 released: 2017-12-06
 director: Andrej Lupin
 rating: 9.2
@@ -718,8 +718,8 @@ title: True
 type: movie
 site: sa
 url: https://www.sexart.com/model/samantha-rone-and-ryan-ryder/movie/20171203/TRUE
-cast: Samantha Rone; https://www.sexart.com/model/samantha-rone; g:f
-cast: Ryan Ryder; https://www.sexart.com/model/ryan-ryder; g:m
+model: n:Samantha Rone; id:/model/sexart/samantha-rone; u:https://www.sexart.com/model/samantha-rone; g:f
+model: n:Ryan Ryder; id:/model/sexart/ryan-ryder; u:https://www.sexart.com/model/ryan-ryder; g:m
 released: 2017-12-03
 director: Andrej Lupin
 rating: 9.1
@@ -772,8 +772,8 @@ title: Hair Episode 4 - Prescience
 type: movie
 site: sa
 url: https://www.sexart.com/model/nekane-and-emylia-argan/movie/20171201/HAIR_EPISODE_4_-_PRESCIENCE
-cast: Nekane; https://www.sexart.com/model/nekane; g:f
-cast: Emylia Argan; https://www.sexart.com/model/emylia-argan; g:f
+model: n:Nekane; id:/model/sexart/nekane; u:https://www.sexart.com/model/nekane; g:f
+model: n:Emylia Argan; id:/model/sexart/emylia-argan; u:https://www.sexart.com/model/emylia-argan; g:f
 released: 2017-12-01
 director: Andrej Lupin
 rating: 9.3
@@ -836,8 +836,8 @@ title: A Love Story 2 - A Story About Us
 type: movie
 site: sa
 url: https://www.sexart.com/model/alberto-blanco-and-henessy-a/movie/20171129/A_LOVE_STORY_2_-_A_STORY_ABOUT_US
-cast: Alberto Blanco; https://www.sexart.com/model/alberto-blanco; g:m
-cast: Henessy A; https://www.sexart.com/model/henessy-a; g:f
+model: n:Alberto Blanco; id:/model/sexart/alberto-blanco; u:https://www.sexart.com/model/alberto-blanco; g:m
+model: n:Henessy A; id:/model/sexart/henessy-a; u:https://www.sexart.com/model/henessy-a; g:f
 released: 2017-11-29
 director: Alis Locanta
 rating: 9.1
@@ -897,8 +897,8 @@ title: Smoke
 type: movie
 site: sa
 url: https://www.sexart.com/model/kristof-cale-and-myiuki-son/movie/20171126/SMOKE
-cast: Kristof Cale; https://www.sexart.com/model/kristof-cale; g:m
-cast: Myiuki Son; https://www.sexart.com/model/myiuki-son; g:f
+model: n:Kristof Cale; id:/model/sexart/kristof-cale; u:https://www.sexart.com/model/kristof-cale; g:m
+model: n:Myiuki Son; id:/model/sexart/myiuki-son; u:https://www.sexart.com/model/myiuki-son; g:f
 released: 2017-11-26
 director: Andrej Lupin
 rating: 9.1
@@ -963,8 +963,8 @@ title: Hair Episode 3 - Hope
 type: movie
 site: sa
 url: https://www.sexart.com/model/emylia-argan-and-leila-smith/movie/20171124/HAIR_EPISODE_3_-_HOPE
-cast: Emylia Argan; https://www.sexart.com/model/emylia-argan; g:f
-cast: Leila Smith; https://www.sexart.com/model/leila-smith; g:f
+model: n:Emylia Argan; id:/model/sexart/emylia-argan; u:https://www.sexart.com/model/emylia-argan; g:f
+model: n:Leila Smith; id:/model/sexart/leila-smith; u:https://www.sexart.com/model/leila-smith; g:f
 released: 2017-11-24
 director: Andrej Lupin
 rating: 9.3
@@ -1021,8 +1021,8 @@ title: Secretly 3
 type: movie
 site: sa
 url: https://www.sexart.com/model/kira-queen-and-alberto-blanco/movie/20171122/SECRETLY_3
-cast: Kira Queen; https://www.sexart.com/model/kira-queen; g:f
-cast: Alberto Blanco; https://www.sexart.com/model/alberto-blanco; g:m
+model: n:Kira Queen; id:/model/sexart/kira-queen; u:https://www.sexart.com/model/kira-queen; g:f
+model: n:Alberto Blanco; id:/model/sexart/alberto-blanco; u:https://www.sexart.com/model/alberto-blanco; g:m
 released: 2017-11-22
 director: Alis Locanta
 rating: 9.1
@@ -1083,8 +1083,8 @@ title: Structure
 type: movie
 site: sa
 url: https://www.sexart.com/model/kalisy-and-maxmilian-dior/movie/20171119/STRUCTURE
-cast: Kalisy; https://www.sexart.com/model/kalisy; g:f
-cast: Maxmilian Dior; https://www.sexart.com/model/maxmilian-dior; g:m
+model: n:Kalisy; id:/model/sexart/kalisy; u:https://www.sexart.com/model/kalisy; g:f
+model: n:Maxmilian Dior; id:/model/sexart/maxmilian-dior; u:https://www.sexart.com/model/maxmilian-dior; g:m
 released: 2017-11-19
 director: Andrej Lupin
 rating: 9.3
@@ -1131,8 +1131,8 @@ title: Hair Episode 2 - Second Chance
 type: movie
 site: sa
 url: https://www.sexart.com/model/anna-rose-and-emylia-argan/movie/20171117/HAIR_EPISODE_2_-_SECOND_CHANCE
-cast: Anna Rose; https://www.sexart.com/model/anna-rose; g:f
-cast: Emylia Argan; https://www.sexart.com/model/emylia-argan; g:f
+model: n:Anna Rose; id:/model/sexart/anna-rose; u:https://www.sexart.com/model/anna-rose; g:f
+model: n:Emylia Argan; id:/model/sexart/emylia-argan; u:https://www.sexart.com/model/emylia-argan; g:f
 released: 2017-11-17
 director: Andrej Lupin
 rating: 9.3
@@ -1193,8 +1193,8 @@ title: Beginning
 type: movie
 site: sa
 url: https://www.sexart.com/model/belle-claire-and-thomas-lee/movie/20171115/BEGINNING
-cast: Belle Claire; https://www.sexart.com/model/belle-claire; g:f
-cast: Thomas Lee; https://www.sexart.com/model/thomas-lee; g:m
+model: n:Belle Claire; id:/model/sexart/belle-claire; u:https://www.sexart.com/model/belle-claire; g:f
+model: n:Thomas Lee; id:/model/sexart/thomas-lee; u:https://www.sexart.com/model/thomas-lee; g:m
 released: 2017-11-15
 director: Andrej Lupin
 rating: 9.3
@@ -1257,8 +1257,8 @@ title: Gift For Him
 type: movie
 site: sa
 url: https://www.sexart.com/model/maxmilian-dior-and-stasy-rivera/movie/20171112/GIFT_FOR_HIM
-cast: Maxmilian Dior; https://www.sexart.com/model/maxmilian-dior; g:m
-cast: Stasy Rivera; https://www.sexart.com/model/stasy-rivera; g:f
+model: n:Maxmilian Dior; id:/model/sexart/maxmilian-dior; u:https://www.sexart.com/model/maxmilian-dior; g:m
+model: n:Stasy Rivera; id:/model/sexart/stasy-rivera; u:https://www.sexart.com/model/stasy-rivera; g:f
 released: 2017-11-12
 director: Andrej Lupin
 rating: 9.1
@@ -1320,8 +1320,8 @@ title: Hair Episode 1 - Love
 type: movie
 site: sa
 url: https://www.sexart.com/model/chrissy-fox-and-emylia-argan/movie/20171110/HAIR_EPISODE_1_-_LOVE
-cast: Chrissy Fox; https://www.sexart.com/model/chrissy-fox; g:f
-cast: Emylia Argan; https://www.sexart.com/model/emylia-argan; g:f
+model: n:Chrissy Fox; id:/model/sexart/chrissy-fox; u:https://www.sexart.com/model/chrissy-fox; g:f
+model: n:Emylia Argan; id:/model/sexart/emylia-argan; u:https://www.sexart.com/model/emylia-argan; g:f
 released: 2017-11-10
 director: Andrej Lupin
 rating: 9.4
@@ -1388,8 +1388,8 @@ title: Author
 type: movie
 site: sa
 url: https://www.sexart.com/model/kristof-cale-and-sade-rose/movie/20171108/AUTHOR
-cast: Kristof Cale; https://www.sexart.com/model/kristof-cale; g:m
-cast: Sade Rose; https://www.sexart.com/model/sade-rose; g:f
+model: n:Kristof Cale; id:/model/sexart/kristof-cale; u:https://www.sexart.com/model/kristof-cale; g:m
+model: n:Sade Rose; id:/model/sexart/sade-rose; u:https://www.sexart.com/model/sade-rose; g:f
 released: 2017-11-08
 director: Andrej Lupin
 rating: 9.2
@@ -1446,8 +1446,8 @@ title: Let Me Watch You
 type: movie
 site: sa
 url: https://www.sexart.com/model/ryan-ryder-and-henessy-a/movie/20171105/LET_ME_WATCH_YOU
-cast: Ryan Ryder; https://www.sexart.com/model/ryan-ryder; g:m
-cast: Henessy A; https://www.sexart.com/model/henessy-a; g:f
+model: n:Ryan Ryder; id:/model/sexart/ryan-ryder; u:https://www.sexart.com/model/ryan-ryder; g:m
+model: n:Henessy A; id:/model/sexart/henessy-a; u:https://www.sexart.com/model/henessy-a; g:f
 released: 2017-11-05
 director: Andrej Lupin
 rating: 9.3
@@ -1504,8 +1504,8 @@ title: My Vision
 type: movie
 site: sa
 url: https://www.sexart.com/model/paula-shy-and-sabrisse-a/movie/20171103/MY_VISION
-cast: Paula Shy; https://www.sexart.com/model/paula-shy; g:f
-cast: Sabrisse A; https://www.sexart.com/model/sabrisse-a; g:f
+model: n:Paula Shy; id:/model/sexart/paula-shy; u:https://www.sexart.com/model/paula-shy; g:f
+model: n:Sabrisse A; id:/model/sexart/sabrisse-a; u:https://www.sexart.com/model/sabrisse-a; g:f
 released: 2017-11-03
 director: Andrej Lupin
 rating: 9.4
@@ -1566,8 +1566,8 @@ title: Game Of Chance Episode 2
 type: movie
 site: sa
 url: https://www.sexart.com/model/sofi-golfinger-and-maxmilian-dior/movie/20171101/GAME_OF_CHANCE_EPISODE_2
-cast: Sofi Golfinger; https://www.sexart.com/model/sofi-golfinger; g:f
-cast: Maxmilian Dior; https://www.sexart.com/model/maxmilian-dior; g:m
+model: n:Sofi Golfinger; id:/model/sexart/sofi-golfinger; u:https://www.sexart.com/model/sofi-golfinger; g:f
+model: n:Maxmilian Dior; id:/model/sexart/maxmilian-dior; u:https://www.sexart.com/model/maxmilian-dior; g:m
 released: 2017-11-01
 director: Andrej Lupin
 rating: 9.2
@@ -1631,8 +1631,8 @@ title: Hold Me Baby
 type: movie
 site: sa
 url: https://www.sexart.com/model/maxmilian-dior-and-katana/movie/20171029/HOLD_ME_BABY
-cast: Maxmilian Dior; https://www.sexart.com/model/maxmilian-dior; g:m
-cast: Katana; https://www.sexart.com/model/katana; g:f
+model: n:Maxmilian Dior; id:/model/sexart/maxmilian-dior; u:https://www.sexart.com/model/maxmilian-dior; g:m
+model: n:Katana; id:/model/sexart/katana; u:https://www.sexart.com/model/katana; g:f
 released: 2017-10-29
 director: Andrej Lupin
 rating: 9.1
@@ -1684,8 +1684,8 @@ title: Lights
 type: movie
 site: sa
 url: https://www.sexart.com/model/samantha-rone-and-myiuki-son/movie/20171027/LIGHTS
-cast: Samantha Rone; https://www.sexart.com/model/samantha-rone; g:f
-cast: Myiuki Son; https://www.sexart.com/model/myiuki-son; g:f
+model: n:Samantha Rone; id:/model/sexart/samantha-rone; u:https://www.sexart.com/model/samantha-rone; g:f
+model: n:Myiuki Son; id:/model/sexart/myiuki-son; u:https://www.sexart.com/model/myiuki-son; g:f
 released: 2017-10-27
 director: Andrej Lupin
 rating: 9.2
@@ -1733,8 +1733,8 @@ title: Song For You
 type: movie
 site: sa
 url: https://www.sexart.com/model/ryan-ryder-and-anissa-kate/movie/20171025/SONG_FOR_YOU
-cast: Ryan Ryder; https://www.sexart.com/model/ryan-ryder; g:m
-cast: Anissa Kate; https://www.sexart.com/model/anissa-kate; g:f
+model: n:Ryan Ryder; id:/model/sexart/ryan-ryder; u:https://www.sexart.com/model/ryan-ryder; g:m
+model: n:Anissa Kate; id:/model/sexart/anissa-kate; u:https://www.sexart.com/model/anissa-kate; g:f
 released: 2017-10-25
 director: Andrej Lupin
 rating: 9.2
@@ -1790,8 +1790,8 @@ title: Game Of Chance Episode 1
 type: movie
 site: sa
 url: https://www.sexart.com/model/maxmilian-dior-and-stasy-rivera/movie/20171022/GAME_OF_CHANCE_EPISODE_1
-cast: Maxmilian Dior; https://www.sexart.com/model/maxmilian-dior; g:m
-cast: Stasy Rivera; https://www.sexart.com/model/stasy-rivera; g:f
+model: n:Maxmilian Dior; id:/model/sexart/maxmilian-dior; u:https://www.sexart.com/model/maxmilian-dior; g:m
+model: n:Stasy Rivera; id:/model/sexart/stasy-rivera; u:https://www.sexart.com/model/stasy-rivera; g:f
 released: 2017-10-22
 director: Andrej Lupin
 rating: 9.2
@@ -1847,8 +1847,8 @@ title: Just A Dream
 type: movie
 site: sa
 url: https://www.sexart.com/model/kalisy-and-sybil-a/movie/20171020/JUST_A_DREAM
-cast: Kalisy; https://www.sexart.com/model/kalisy; g:f
-cast: Sybil A; https://www.sexart.com/model/sybil-a; g:f
+model: n:Kalisy; id:/model/sexart/kalisy; u:https://www.sexart.com/model/kalisy; g:f
+model: n:Sybil A; id:/model/sexart/sybil-a; u:https://www.sexart.com/model/sybil-a; g:f
 released: 2017-10-20
 director: Andrej Lupin
 rating: 9.4
@@ -1898,8 +1898,8 @@ title: Trickery
 type: movie
 site: sa
 url: https://www.sexart.com/model/ryan-ryder-and-henessy-a/movie/20171018/TRICKERY
-cast: Ryan Ryder; https://www.sexart.com/model/ryan-ryder; g:m
-cast: Henessy A; https://www.sexart.com/model/henessy-a; g:f
+model: n:Ryan Ryder; id:/model/sexart/ryan-ryder; u:https://www.sexart.com/model/ryan-ryder; g:m
+model: n:Henessy A; id:/model/sexart/henessy-a; u:https://www.sexart.com/model/henessy-a; g:f
 released: 2017-10-18
 director: Andrej Lupin
 rating: 9.2
@@ -1952,8 +1952,8 @@ title: Jealousy 3
 type: movie
 site: sa
 url: https://www.sexart.com/model/jesus-reyes-and-penelope-cum/movie/20171015/JEALOUSY_3
-cast: Jesus Reyes; https://www.sexart.com/model/jesus-reyes; g:m
-cast: Penelope Cum; https://www.sexart.com/model/penelope-cum; g:f
+model: n:Jesus Reyes; id:/model/sexart/jesus-reyes; u:https://www.sexart.com/model/jesus-reyes; g:m
+model: n:Penelope Cum; id:/model/sexart/penelope-cum; u:https://www.sexart.com/model/penelope-cum; g:f
 released: 2017-10-15
 director: Alis Locanta
 rating: 9.1
@@ -2008,8 +2008,8 @@ title: Warmth Of The Sun
 type: movie
 site: sa
 url: https://www.sexart.com/model/cherry-kiss-and-melody/movie/20171013/WARMTH_OF_THE_SUN
-cast: Cherry Kiss; https://www.sexart.com/model/cherry-kiss; g:f
-cast: Melody; https://www.sexart.com/model/melody; g:f
+model: n:Cherry Kiss; id:/model/sexart/cherry-kiss; u:https://www.sexart.com/model/cherry-kiss; g:f
+model: n:Melody; id:/model/sexart/melody; u:https://www.sexart.com/model/melody; g:f
 released: 2017-10-13
 director: Andrej Lupin
 rating: 9.3
@@ -2061,8 +2061,8 @@ title: Don't Forget Me 2
 type: movie
 site: sa
 url: https://www.sexart.com/model/jesus-reyes-and-kira-queen/movie/20171011/DON_T_FORGET_ME_2
-cast: Jesus Reyes; https://www.sexart.com/model/jesus-reyes; g:m
-cast: Kira Queen; https://www.sexart.com/model/kira-queen; g:f
+model: n:Jesus Reyes; id:/model/sexart/jesus-reyes; u:https://www.sexart.com/model/jesus-reyes; g:m
+model: n:Kira Queen; id:/model/sexart/kira-queen; u:https://www.sexart.com/model/kira-queen; g:f
 released: 2017-10-11
 director: Alis Locanta
 rating: 8.9
@@ -2125,8 +2125,8 @@ title: More Than You Want Part 3
 type: movie
 site: sa
 url: https://www.sexart.com/model/ricky-and-coco-de-mal/movie/20171008/MORE_THAN_YOU_WANT_PART_3
-cast: Ricky; https://www.sexart.com/model/ricky; g:m
-cast: Coco De Mal; https://www.sexart.com/model/coco-de-mal; g:f
+model: n:Ricky; id:/model/sexart/ricky; u:https://www.sexart.com/model/ricky; g:m
+model: n:Coco De Mal; id:/model/sexart/coco-de-mal; u:https://www.sexart.com/model/coco-de-mal; g:f
 released: 2017-10-08
 director: Andrej Lupin
 rating: 9.2
@@ -2184,8 +2184,8 @@ title: Teamwork
 type: movie
 site: sa
 url: https://www.sexart.com/model/belle-claire-and-sade-rose/movie/20171006/TEAMWORK
-cast: Belle Claire; https://www.sexart.com/model/belle-claire; g:f
-cast: Sade Rose; https://www.sexart.com/model/sade-rose; g:f
+model: n:Belle Claire; id:/model/sexart/belle-claire; u:https://www.sexart.com/model/belle-claire; g:f
+model: n:Sade Rose; id:/model/sexart/sade-rose; u:https://www.sexart.com/model/sade-rose; g:f
 released: 2017-10-06
 director: Andrej Lupin
 rating: 9.2
@@ -2243,8 +2243,8 @@ title: Caught
 type: movie
 site: sa
 url: https://www.sexart.com/model/kristof-cale-and-teresse-bizzarre/movie/20171004/CAUGHT
-cast: Kristof Cale; https://www.sexart.com/model/kristof-cale; g:m
-cast: Teresse Bizzarre; https://www.sexart.com/model/teresse-bizzarre; g:f
+model: n:Kristof Cale; id:/model/sexart/kristof-cale; u:https://www.sexart.com/model/kristof-cale; g:m
+model: n:Teresse Bizzarre; id:/model/sexart/teresse-bizzarre; u:https://www.sexart.com/model/teresse-bizzarre; g:f
 released: 2017-10-04
 director: Andrej Lupin
 rating: 9.1
@@ -2297,8 +2297,8 @@ title: Lost Key
 type: movie
 site: sa
 url: https://www.sexart.com/model/nick-ross-and-lady-bug/movie/20171001/LOST_KEY
-cast: Nick Ross; https://www.sexart.com/model/nick-ross; g:m
-cast: Lady Bug; https://www.sexart.com/model/lady-bug; g:f
+model: n:Nick Ross; id:/model/sexart/nick-ross; u:https://www.sexart.com/model/nick-ross; g:m
+model: n:Lady Bug; id:/model/sexart/lady-bug; u:https://www.sexart.com/model/lady-bug; g:f
 released: 2017-10-01
 director: Andrej Lupin
 rating: 9.4
@@ -2356,8 +2356,8 @@ title: More Than You Want Episode 2
 type: movie
 site: sa
 url: https://www.sexart.com/model/margot-a-and-coco-de-mal/movie/20170929/MORE_THAN_YOU_WANT_EPISODE_2
-cast: Margot A; https://www.sexart.com/model/margot-a; g:f
-cast: Coco De Mal; https://www.sexart.com/model/coco-de-mal; g:f
+model: n:Margot A; id:/model/sexart/margot-a; u:https://www.sexart.com/model/margot-a; g:f
+model: n:Coco De Mal; id:/model/sexart/coco-de-mal; u:https://www.sexart.com/model/coco-de-mal; g:f
 released: 2017-09-29
 director: Andrej Lupin
 rating: 9.3
@@ -2414,8 +2414,8 @@ title: Snow Time
 type: movie
 site: sa
 url: https://www.sexart.com/model/sybil-a-and-nick-ross/movie/20170927/SNOW_TIME
-cast: Sybil A; https://www.sexart.com/model/sybil-a; g:f
-cast: Nick Ross; https://www.sexart.com/model/nick-ross; g:m
+model: n:Sybil A; id:/model/sexart/sybil-a; u:https://www.sexart.com/model/sybil-a; g:f
+model: n:Nick Ross; id:/model/sexart/nick-ross; u:https://www.sexart.com/model/nick-ross; g:m
 released: 2017-09-27
 director: Andrej Lupin
 rating: 9.4
@@ -2474,8 +2474,8 @@ title: Angry Wife
 type: movie
 site: sa
 url: https://www.sexart.com/model/kristof-cale-and-tina-kay/movie/20170924/ANGRY_WIFE
-cast: Kristof Cale; https://www.sexart.com/model/kristof-cale; g:m
-cast: Tina Kay; https://www.sexart.com/model/tina-kay; g:f
+model: n:Kristof Cale; id:/model/sexart/kristof-cale; u:https://www.sexart.com/model/kristof-cale; g:m
+model: n:Tina Kay; id:/model/sexart/tina-kay; u:https://www.sexart.com/model/tina-kay; g:f
 released: 2017-09-24
 director: Andrej Lupin
 rating: 9.2
@@ -2530,8 +2530,8 @@ title: Exploration
 type: movie
 site: sa
 url: https://www.sexart.com/model/emylia-argan-and-paula-shy/movie/20170922/EXPLORATION
-cast: Emylia Argan; https://www.sexart.com/model/emylia-argan; g:f
-cast: Paula Shy; https://www.sexart.com/model/paula-shy; g:f
+model: n:Emylia Argan; id:/model/sexart/emylia-argan; u:https://www.sexart.com/model/emylia-argan; g:f
+model: n:Paula Shy; id:/model/sexart/paula-shy; u:https://www.sexart.com/model/paula-shy; g:f
 released: 2017-09-22
 director: Andrej Lupin
 rating: 9.5
@@ -2583,8 +2583,8 @@ title: She
 type: movie
 site: sa
 url: https://www.sexart.com/model/alex-moretti-and-lana-seymour/movie/20170920/SHE
-cast: Alex Moretti; https://www.sexart.com/model/alex-moretti; g:f
-cast: Lana Seymour; https://www.sexart.com/model/lana-seymour; g:f
+model: n:Alex Moretti; id:/model/sexart/alex-moretti; u:https://www.sexart.com/model/alex-moretti; g:f
+model: n:Lana Seymour; id:/model/sexart/lana-seymour; u:https://www.sexart.com/model/lana-seymour; g:f
 released: 2017-09-20
 director: Andrej Lupin
 rating: 9.3
@@ -2633,8 +2633,8 @@ title: More Than You Want Episode 1
 type: movie
 site: sa
 url: https://www.sexart.com/model/ricky-and-coco-de-mal/movie/20170917/MORE_THAN_YOU_WANT_EPISODE_1
-cast: Ricky; https://www.sexart.com/model/ricky; g:m
-cast: Coco De Mal; https://www.sexart.com/model/coco-de-mal; g:f
+model: n:Ricky; id:/model/sexart/ricky; u:https://www.sexart.com/model/ricky; g:m
+model: n:Coco De Mal; id:/model/sexart/coco-de-mal; u:https://www.sexart.com/model/coco-de-mal; g:f
 released: 2017-09-17
 director: Andrej Lupin
 rating: 9.1
@@ -2688,8 +2688,8 @@ title: Island
 type: movie
 site: sa
 url: https://www.sexart.com/model/stasy-rivera-and-melody/movie/20170915/ISLAND
-cast: Stasy Rivera; https://www.sexart.com/model/stasy-rivera; g:f
-cast: Melody; https://www.sexart.com/model/melody; g:f
+model: n:Stasy Rivera; id:/model/sexart/stasy-rivera; u:https://www.sexart.com/model/stasy-rivera; g:f
+model: n:Melody; id:/model/sexart/melody; u:https://www.sexart.com/model/melody; g:f
 released: 2017-09-15
 director: Andrej Lupin
 rating: 9.1
@@ -2740,7 +2740,7 @@ title: Highlight
 type: movie
 site: sa
 url: https://www.sexart.com/model/nancy-a/movie/20170913/HIGHLIGHT
-cast: Nancy A; https://www.sexart.com/model/nancy-a; g:f
+model: n:Nancy A; id:/model/sexart/nancy-a; u:https://www.sexart.com/model/nancy-a; g:f
 released: 2017-09-13
 director: Andrej Lupin
 rating: 9.5
@@ -2778,8 +2778,8 @@ title: Just Do It
 type: movie
 site: sa
 url: https://www.sexart.com/model/kalisy-and-juan-lucho/movie/20170910/JUST_DO_IT
-cast: Kalisy; https://www.sexart.com/model/kalisy; g:f
-cast: Juan Lucho; https://www.sexart.com/model/juan-lucho; g:m
+model: n:Kalisy; id:/model/sexart/kalisy; u:https://www.sexart.com/model/kalisy; g:f
+model: n:Juan Lucho; id:/model/sexart/juan-lucho; u:https://www.sexart.com/model/juan-lucho; g:m
 released: 2017-09-10
 director: Alis Locanta
 rating: 9.1
@@ -2841,8 +2841,8 @@ title: Fire Place
 type: movie
 site: sa
 url: https://www.sexart.com/model/clea-gaultier-and-chrissy-fox/movie/20170908/FIRE_PLACE
-cast: Clea Gaultier; https://www.sexart.com/model/clea-gaultier; g:f
-cast: Chrissy Fox; https://www.sexart.com/model/chrissy-fox; g:f
+model: n:Clea Gaultier; id:/model/sexart/clea-gaultier; u:https://www.sexart.com/model/clea-gaultier; g:f
+model: n:Chrissy Fox; id:/model/sexart/chrissy-fox; u:https://www.sexart.com/model/chrissy-fox; g:f
 released: 2017-09-08
 director: Andrej Lupin
 rating: 9.3
@@ -2893,9 +2893,9 @@ title: Special Friend
 type: movie
 site: sa
 url: https://www.sexart.com/model/dido-a-and-ryan-ryder-and-luna-c/movie/20170906/SPECIAL_FRIEND
-cast: Dido A; https://www.sexart.com/model/dido-a; g:f
-cast: Ryan Ryder; https://www.sexart.com/model/ryan-ryder; g:m
-cast: Luna C; https://www.sexart.com/model/luna-c; g:f
+model: n:Dido A; id:/model/sexart/dido-a; u:https://www.sexart.com/model/dido-a; g:f
+model: n:Ryan Ryder; id:/model/sexart/ryan-ryder; u:https://www.sexart.com/model/ryan-ryder; g:m
+model: n:Luna C; id:/model/sexart/luna-c; u:https://www.sexart.com/model/luna-c; g:f
 released: 2017-09-06
 director: Andrej Lupin
 rating: 9.4
@@ -2949,8 +2949,8 @@ title: Winter Joy 2
 type: movie
 site: sa
 url: https://www.sexart.com/model/alexis-crystal-and-nick-ross/movie/20170903/WINTER_JOY_2
-cast: Alexis Crystal; https://www.sexart.com/model/alexis-crystal; g:f
-cast: Nick Ross; https://www.sexart.com/model/nick-ross; g:m
+model: n:Alexis Crystal; id:/model/sexart/alexis-crystal; u:https://www.sexart.com/model/alexis-crystal; g:f
+model: n:Nick Ross; id:/model/sexart/nick-ross; u:https://www.sexart.com/model/nick-ross; g:m
 released: 2017-09-03
 director: Andrej Lupin
 rating: 9.3
@@ -2995,8 +2995,8 @@ title: Gleeful
 type: movie
 site: sa
 url: https://www.sexart.com/model/teresse-bizzarre-and-belle-claire/movie/20170901/GLEEFUL
-cast: Teresse Bizzarre; https://www.sexart.com/model/teresse-bizzarre; g:f
-cast: Belle Claire; https://www.sexart.com/model/belle-claire; g:f
+model: n:Teresse Bizzarre; id:/model/sexart/teresse-bizzarre; u:https://www.sexart.com/model/teresse-bizzarre; g:f
+model: n:Belle Claire; id:/model/sexart/belle-claire; u:https://www.sexart.com/model/belle-claire; g:f
 released: 2017-09-01
 director: Andrej Lupin
 rating: 9.2
@@ -3049,8 +3049,8 @@ title: Roleplay
 type: movie
 site: sa
 url: https://www.sexart.com/model/taylor-sands-and-tyler-nixon/movie/20170830/ROLEPLAY
-cast: Taylor Sands; https://www.sexart.com/model/taylor-sands; g:f
-cast: Tyler Nixon; https://www.sexart.com/model/tyler-nixon; g:m
+model: n:Taylor Sands; id:/model/sexart/taylor-sands; u:https://www.sexart.com/model/taylor-sands; g:f
+model: n:Tyler Nixon; id:/model/sexart/tyler-nixon; u:https://www.sexart.com/model/tyler-nixon; g:m
 released: 2017-08-30
 director: Andrej Lupin
 rating: 9.2
@@ -3097,8 +3097,8 @@ title: Winter Joy 1
 type: movie
 site: sa
 url: https://www.sexart.com/model/belle-claire-and-thomas-lee/movie/20170827/WINTER_JOY_1
-cast: Belle Claire; https://www.sexart.com/model/belle-claire; g:f
-cast: Thomas Lee; https://www.sexart.com/model/thomas-lee; g:m
+model: n:Belle Claire; id:/model/sexart/belle-claire; u:https://www.sexart.com/model/belle-claire; g:f
+model: n:Thomas Lee; id:/model/sexart/thomas-lee; u:https://www.sexart.com/model/thomas-lee; g:m
 released: 2017-08-27
 director: Andrej Lupin
 rating: 9.2
@@ -3153,8 +3153,8 @@ title: Make Me Feel So Good
 type: movie
 site: sa
 url: https://www.sexart.com/model/katy-rose-and-sybil-a/movie/20170825/MAKE_ME_FEEL_SO_GOOD
-cast: Katy Rose; https://www.sexart.com/model/katy-rose; g:f
-cast: Sybil A; https://www.sexart.com/model/sybil-a; g:f
+model: n:Katy Rose; id:/model/sexart/katy-rose; u:https://www.sexart.com/model/katy-rose; g:f
+model: n:Sybil A; id:/model/sexart/sybil-a; u:https://www.sexart.com/model/sybil-a; g:f
 released: 2017-08-25
 director: Andrej Lupin
 rating: 9.4
@@ -3206,8 +3206,8 @@ title: Unread Messages
 type: movie
 site: sa
 url: https://www.sexart.com/model/maxmilian-dior-and-cherry-kiss/movie/20170823/UNREAD_MESSAGES
-cast: Maxmilian Dior; https://www.sexart.com/model/maxmilian-dior; g:m
-cast: Cherry Kiss; https://www.sexart.com/model/cherry-kiss; g:f
+model: n:Maxmilian Dior; id:/model/sexart/maxmilian-dior; u:https://www.sexart.com/model/maxmilian-dior; g:m
+model: n:Cherry Kiss; id:/model/sexart/cherry-kiss; u:https://www.sexart.com/model/cherry-kiss; g:f
 released: 2017-08-23
 director: Andrej Lupin
 rating: 9.2
@@ -3260,8 +3260,8 @@ title: Behind The Scenes
 type: movie
 site: sa
 url: https://www.sexart.com/model/kalisy-and-jesus-reyes/movie/20170820/BEHIND_THE_SCENES
-cast: Kalisy; https://www.sexart.com/model/kalisy; g:f
-cast: Jesus Reyes; https://www.sexart.com/model/jesus-reyes; g:m
+model: n:Kalisy; id:/model/sexart/kalisy; u:https://www.sexart.com/model/kalisy; g:f
+model: n:Jesus Reyes; id:/model/sexart/jesus-reyes; u:https://www.sexart.com/model/jesus-reyes; g:m
 released: 2017-08-20
 director: Alis Locanta
 rating: 9.1
@@ -3324,8 +3324,8 @@ title: Dreaming
 type: movie
 site: sa
 url: https://www.sexart.com/model/melody-and-katana/movie/20170818/DREAMING
-cast: Melody; https://www.sexart.com/model/melody; g:f
-cast: Katana; https://www.sexart.com/model/katana; g:f
+model: n:Melody; id:/model/sexart/melody; u:https://www.sexart.com/model/melody; g:f
+model: n:Katana; id:/model/sexart/katana; u:https://www.sexart.com/model/katana; g:f
 released: 2017-08-18
 director: Andrej Lupin
 rating: 9.4
@@ -3366,8 +3366,8 @@ title: Off The Wall
 type: movie
 site: sa
 url: https://www.sexart.com/model/dido-a-and-michael-fly/movie/20170816/OFF_THE_WALL
-cast: Dido A; https://www.sexart.com/model/dido-a; g:f
-cast: Michael Fly; https://www.sexart.com/model/michael-fly; g:m
+model: n:Dido A; id:/model/sexart/dido-a; u:https://www.sexart.com/model/dido-a; g:f
+model: n:Michael Fly; id:/model/sexart/michael-fly; u:https://www.sexart.com/model/michael-fly; g:m
 released: 2017-08-16
 director: Andrej Lupin
 rating: 9.2
@@ -3414,8 +3414,8 @@ title: Simply Life 2
 type: movie
 site: sa
 url: https://www.sexart.com/model/nick-ross-and-francys-belle/movie/20170813/SIMPLY_LIFE_2
-cast: Nick Ross; https://www.sexart.com/model/nick-ross; g:m
-cast: Francys Belle; https://www.sexart.com/model/francys-belle; g:f
+model: n:Nick Ross; id:/model/sexart/nick-ross; u:https://www.sexart.com/model/nick-ross; g:m
+model: n:Francys Belle; id:/model/sexart/francys-belle; u:https://www.sexart.com/model/francys-belle; g:f
 released: 2017-08-13
 director: Andrej Lupin
 rating: 9.3
@@ -3458,8 +3458,8 @@ title: Prelude
 type: movie
 site: sa
 url: https://www.sexart.com/model/sofi-golfinger-and-stasy-rivera/movie/20170811/PRELUDE
-cast: Sofi Golfinger; https://www.sexart.com/model/sofi-golfinger; g:f
-cast: Stasy Rivera; https://www.sexart.com/model/stasy-rivera; g:f
+model: n:Sofi Golfinger; id:/model/sexart/sofi-golfinger; u:https://www.sexart.com/model/sofi-golfinger; g:f
+model: n:Stasy Rivera; id:/model/sexart/stasy-rivera; u:https://www.sexart.com/model/stasy-rivera; g:f
 released: 2017-08-11
 director: Andrej Lupin
 rating: 9.2
@@ -3498,7 +3498,7 @@ title: Whore - The Day After
 type: movie
 site: sa
 url: https://www.sexart.com/model/emily-j/movie/20170809/WHORE_-_THE_DAY_AFTER
-cast: Emily J; https://www.sexart.com/model/emily-j; g:f
+model: n:Emily J; id:/model/sexart/emily-j; u:https://www.sexart.com/model/emily-j; g:f
 released: 2017-08-09
 director: Paul Black
 rating: 9.3
@@ -3531,8 +3531,8 @@ title: Contrasted Pictures
 type: movie
 site: sa
 url: https://www.sexart.com/model/milena-devil-and-jesus-reyes/movie/20170806/CONTRASTED_PICTURES
-cast: Milena Devil; https://www.sexart.com/model/milena-devil; g:f
-cast: Jesus Reyes; https://www.sexart.com/model/jesus-reyes; g:m
+model: n:Milena Devil; id:/model/sexart/milena-devil; u:https://www.sexart.com/model/milena-devil; g:f
+model: n:Jesus Reyes; id:/model/sexart/jesus-reyes; u:https://www.sexart.com/model/jesus-reyes; g:m
 released: 2017-08-06
 director: Alis Locanta
 rating: 8.9
@@ -3578,8 +3578,8 @@ title: Breakfast
 type: movie
 site: sa
 url: https://www.sexart.com/model/sade-rose-and-teresse-bizzarre/movie/20170804/BREAKFAST
-cast: Sade Rose; https://www.sexart.com/model/sade-rose; g:f
-cast: Teresse Bizzarre; https://www.sexart.com/model/teresse-bizzarre; g:f
+model: n:Sade Rose; id:/model/sexart/sade-rose; u:https://www.sexart.com/model/sade-rose; g:f
+model: n:Teresse Bizzarre; id:/model/sexart/teresse-bizzarre; u:https://www.sexart.com/model/teresse-bizzarre; g:f
 released: 2017-08-04
 director: Andrej Lupin
 rating: 9.0
@@ -3617,8 +3617,8 @@ title: Morning Taste
 type: movie
 site: sa
 url: https://www.sexart.com/model/belle-claire-and-kristof-cale/movie/20170802/MORNING_TASTE
-cast: Belle Claire; https://www.sexart.com/model/belle-claire; g:f
-cast: Kristof Cale; https://www.sexart.com/model/kristof-cale; g:m
+model: n:Belle Claire; id:/model/sexart/belle-claire; u:https://www.sexart.com/model/belle-claire; g:f
+model: n:Kristof Cale; id:/model/sexart/kristof-cale; u:https://www.sexart.com/model/kristof-cale; g:m
 released: 2017-08-02
 director: Andrej Lupin
 rating: 9.2
@@ -3656,8 +3656,8 @@ title: Lure
 type: movie
 site: sa
 url: https://www.sexart.com/model/tina-kay-and-kristof-cale/movie/20170730/LURE
-cast: Tina Kay; https://www.sexart.com/model/tina-kay; g:f
-cast: Kristof Cale; https://www.sexart.com/model/kristof-cale; g:m
+model: n:Tina Kay; id:/model/sexart/tina-kay; u:https://www.sexart.com/model/tina-kay; g:f
+model: n:Kristof Cale; id:/model/sexart/kristof-cale; u:https://www.sexart.com/model/kristof-cale; g:m
 released: 2017-07-30
 director: Andrej Lupin
 rating: 9.4
@@ -3696,8 +3696,8 @@ title: Conversation
 type: movie
 site: sa
 url: https://www.sexart.com/model/rebecca-volpetti-and-kira-parvati/movie/20170728/CONVERSATION
-cast: Rebecca Volpetti; https://www.sexart.com/model/rebecca-volpetti; g:f
-cast: Kira Parvati; https://www.sexart.com/model/kira-parvati; g:f
+model: n:Rebecca Volpetti; id:/model/sexart/rebecca-volpetti; u:https://www.sexart.com/model/rebecca-volpetti; g:f
+model: n:Kira Parvati; id:/model/sexart/kira-parvati; u:https://www.sexart.com/model/kira-parvati; g:f
 released: 2017-07-28
 director: Andrej Lupin
 rating: 9.2
@@ -3734,8 +3734,8 @@ title: Simply Life
 type: movie
 site: sa
 url: https://www.sexart.com/model/nick-ross-and-francys-belle/movie/20170726/SIMPLY_LIFE
-cast: Nick Ross; https://www.sexart.com/model/nick-ross; g:m
-cast: Francys Belle; https://www.sexart.com/model/francys-belle; g:f
+model: n:Nick Ross; id:/model/sexart/nick-ross; u:https://www.sexart.com/model/nick-ross; g:m
+model: n:Francys Belle; id:/model/sexart/francys-belle; u:https://www.sexart.com/model/francys-belle; g:f
 released: 2017-07-26
 director: Andrej Lupin
 rating: 9.1
@@ -3773,8 +3773,8 @@ title: Corner
 type: movie
 site: sa
 url: https://www.sexart.com/model/melody-and-maxmilian-dior/movie/20170723/CORNER
-cast: Melody; https://www.sexart.com/model/melody; g:f
-cast: Maxmilian Dior; https://www.sexart.com/model/maxmilian-dior; g:m
+model: n:Melody; id:/model/sexart/melody; u:https://www.sexart.com/model/melody; g:f
+model: n:Maxmilian Dior; id:/model/sexart/maxmilian-dior; u:https://www.sexart.com/model/maxmilian-dior; g:m
 released: 2017-07-23
 director: Andrej Lupin
 rating: 9.1
@@ -3818,8 +3818,8 @@ title: Romantic Spa
 type: movie
 site: sa
 url: https://www.sexart.com/model/anie-darling-and-luna-c/movie/20170721/ROMANTIC_SPA
-cast: Anie Darling; https://www.sexart.com/model/anie-darling; g:f
-cast: Luna C; https://www.sexart.com/model/luna-c; g:f
+model: n:Anie Darling; id:/model/sexart/anie-darling; u:https://www.sexart.com/model/anie-darling; g:f
+model: n:Luna C; id:/model/sexart/luna-c; u:https://www.sexart.com/model/luna-c; g:f
 released: 2017-07-21
 director: Andrej Lupin
 rating: 9.4
@@ -3859,8 +3859,8 @@ title: Don't Stop
 type: movie
 site: sa
 url: https://www.sexart.com/model/teresse-bizzarre-and-kristof-cale/movie/20170719/DON_T_STOP
-cast: Teresse Bizzarre; https://www.sexart.com/model/teresse-bizzarre; g:f
-cast: Kristof Cale; https://www.sexart.com/model/kristof-cale; g:m
+model: n:Teresse Bizzarre; id:/model/sexart/teresse-bizzarre; u:https://www.sexart.com/model/teresse-bizzarre; g:f
+model: n:Kristof Cale; id:/model/sexart/kristof-cale; u:https://www.sexart.com/model/kristof-cale; g:m
 released: 2017-07-19
 director: Andrej Lupin
 rating: 9.2
@@ -3901,8 +3901,8 @@ title: Wild Chrissy 2
 type: movie
 site: sa
 url: https://www.sexart.com/model/thomas-lee-and-chrissy-fox/movie/20170716/WILD_CHRISSY_2
-cast: Thomas Lee; https://www.sexart.com/model/thomas-lee; g:m
-cast: Chrissy Fox; https://www.sexart.com/model/chrissy-fox; g:f
+model: n:Thomas Lee; id:/model/sexart/thomas-lee; u:https://www.sexart.com/model/thomas-lee; g:m
+model: n:Chrissy Fox; id:/model/sexart/chrissy-fox; u:https://www.sexart.com/model/chrissy-fox; g:f
 released: 2017-07-16
 director: Andrej Lupin
 rating: 9.2
@@ -3940,8 +3940,8 @@ title: Believe In Love
 type: movie
 site: sa
 url: https://www.sexart.com/model/sybil-a-and-dido-a/movie/20170714/BELIEVE_IN_LOVE
-cast: Sybil A; https://www.sexart.com/model/sybil-a; g:f
-cast: Dido A; https://www.sexart.com/model/dido-a; g:f
+model: n:Sybil A; id:/model/sexart/sybil-a; u:https://www.sexart.com/model/sybil-a; g:f
+model: n:Dido A; id:/model/sexart/dido-a; u:https://www.sexart.com/model/dido-a; g:f
 released: 2017-07-14
 director: Andrej Lupin
 rating: 9.5
@@ -3979,8 +3979,8 @@ title: Summer Sex
 type: movie
 site: sa
 url: https://www.sexart.com/model/milena-devil-and-juan-lucho/movie/20170712/SUMMER_SEX
-cast: Milena Devil; https://www.sexart.com/model/milena-devil; g:f
-cast: Juan Lucho; https://www.sexart.com/model/juan-lucho; g:m
+model: n:Milena Devil; id:/model/sexart/milena-devil; u:https://www.sexart.com/model/milena-devil; g:f
+model: n:Juan Lucho; id:/model/sexart/juan-lucho; u:https://www.sexart.com/model/juan-lucho; g:m
 released: 2017-07-12
 director: Alis Locanta
 rating: 8.9
@@ -4022,8 +4022,8 @@ title: Wild Chrissy 1
 type: movie
 site: sa
 url: https://www.sexart.com/model/chrissy-fox-and-nick-ross/movie/20170709/WILD_CHRISSY_1
-cast: Chrissy Fox; https://www.sexart.com/model/chrissy-fox; g:f
-cast: Nick Ross; https://www.sexart.com/model/nick-ross; g:m
+model: n:Chrissy Fox; id:/model/sexart/chrissy-fox; u:https://www.sexart.com/model/chrissy-fox; g:f
+model: n:Nick Ross; id:/model/sexart/nick-ross; u:https://www.sexart.com/model/nick-ross; g:m
 released: 2017-07-09
 director: Andrej Lupin
 rating: 9.2
@@ -4061,8 +4061,8 @@ title: Reconcile
 type: movie
 site: sa
 url: https://www.sexart.com/model/stasy-rivera-and-cherry-kiss/movie/20170707/RECONCILE
-cast: Stasy Rivera; https://www.sexart.com/model/stasy-rivera; g:f
-cast: Cherry Kiss; https://www.sexart.com/model/cherry-kiss; g:f
+model: n:Stasy Rivera; id:/model/sexart/stasy-rivera; u:https://www.sexart.com/model/stasy-rivera; g:f
+model: n:Cherry Kiss; id:/model/sexart/cherry-kiss; u:https://www.sexart.com/model/cherry-kiss; g:f
 released: 2017-07-07
 director: Andrej Lupin
 rating: 9.3
@@ -4100,8 +4100,8 @@ title: Agua Caliente
 type: movie
 site: sa
 url: https://www.sexart.com/model/joel-tomas-and-alexa-tomas/movie/20170705/AGUA_CALIENTE
-cast: Joel Tomas; https://www.sexart.com/model/joel-tomas; g:m
-cast: Alexa Tomas; https://www.sexart.com/model/alexa-tomas; g:f
+model: n:Joel Tomas; id:/model/sexart/joel-tomas; u:https://www.sexart.com/model/joel-tomas; g:m
+model: n:Alexa Tomas; id:/model/sexart/alexa-tomas; u:https://www.sexart.com/model/alexa-tomas; g:f
 released: 2017-07-05
 director: Alis Locanta
 rating: 9.2
@@ -4144,8 +4144,8 @@ title: Bare Love
 type: movie
 site: sa
 url: https://www.sexart.com/model/linda-sweet-and-ricky/movie/20170702/BARE_LOVE
-cast: Linda Sweet; https://www.sexart.com/model/linda-sweet; g:f
-cast: Ricky; https://www.sexart.com/model/ricky; g:m
+model: n:Linda Sweet; id:/model/sexart/linda-sweet; u:https://www.sexart.com/model/linda-sweet; g:f
+model: n:Ricky; id:/model/sexart/ricky; u:https://www.sexart.com/model/ricky; g:m
 released: 2017-07-02
 director: Andrej Lupin
 rating: 9.1
@@ -4184,8 +4184,8 @@ title: One Day In HotYlek Part 5
 type: movie
 site: sa
 url: https://www.sexart.com/model/anastazia-and-anie-darling/movie/20170630/ONE_DAY_IN_HOTYLEK_PART_5
-cast: Anastazia; https://www.sexart.com/model/anastazia; g:f
-cast: Anie Darling; https://www.sexart.com/model/anie-darling; g:f
+model: n:Anastazia; id:/model/sexart/anastazia; u:https://www.sexart.com/model/anastazia; g:f
+model: n:Anie Darling; id:/model/sexart/anie-darling; u:https://www.sexart.com/model/anie-darling; g:f
 released: 2017-06-30
 director: Andrej Lupin
 rating: 9.4
@@ -4222,8 +4222,8 @@ title: Repeat
 type: movie
 site: sa
 url: https://www.sexart.com/model/chrissy-fox-and-thomas-lee/movie/20170628/REPEAT
-cast: Chrissy Fox; https://www.sexart.com/model/chrissy-fox; g:f
-cast: Thomas Lee; https://www.sexart.com/model/thomas-lee; g:m
+model: n:Chrissy Fox; id:/model/sexart/chrissy-fox; u:https://www.sexart.com/model/chrissy-fox; g:f
+model: n:Thomas Lee; id:/model/sexart/thomas-lee; u:https://www.sexart.com/model/thomas-lee; g:m
 released: 2017-06-28
 director: Andrej Lupin
 rating: 9.3
@@ -4268,8 +4268,8 @@ title: One Day In HotYlek Part 4
 type: movie
 site: sa
 url: https://www.sexart.com/model/maxmilian-dior-and-anie-darling/movie/20170625/ONE_DAY_IN_HOTYLEK_PART_4
-cast: Maxmilian Dior; https://www.sexart.com/model/maxmilian-dior; g:m
-cast: Anie Darling; https://www.sexart.com/model/anie-darling; g:f
+model: n:Maxmilian Dior; id:/model/sexart/maxmilian-dior; u:https://www.sexart.com/model/maxmilian-dior; g:m
+model: n:Anie Darling; id:/model/sexart/anie-darling; u:https://www.sexart.com/model/anie-darling; g:f
 released: 2017-06-25
 director: Andrej Lupin
 rating: 9.3
@@ -4346,8 +4346,8 @@ title: Crazy Day
 type: movie
 site: sa
 url: https://www.sexart.com/model/alexis-crystal-and-lady-bug/movie/20170623/CRAZY_DAY
-cast: Alexis Crystal; https://www.sexart.com/model/alexis-crystal; g:f
-cast: Lady Bug; https://www.sexart.com/model/lady-bug; g:f
+model: n:Alexis Crystal; id:/model/sexart/alexis-crystal; u:https://www.sexart.com/model/alexis-crystal; g:f
+model: n:Lady Bug; id:/model/sexart/lady-bug; u:https://www.sexart.com/model/lady-bug; g:f
 released: 2017-06-23
 director: Andrej Lupin
 rating: 9.3
@@ -4423,8 +4423,8 @@ title: Morning Stretch
 type: movie
 site: sa
 url: https://www.sexart.com/model/pavlos-and-kalisy/movie/20170621/MORNING_STRETCH
-cast: Pavlos; https://www.sexart.com/model/pavlos; g:m
-cast: Kalisy; https://www.sexart.com/model/kalisy; g:f
+model: n:Pavlos; id:/model/sexart/pavlos; u:https://www.sexart.com/model/pavlos; g:m
+model: n:Kalisy; id:/model/sexart/kalisy; u:https://www.sexart.com/model/kalisy; g:f
 released: 2017-06-21
 director: Andrej Lupin
 rating: 9.3
@@ -4489,8 +4489,8 @@ title: Now Me
 type: movie
 site: sa
 url: https://www.sexart.com/model/belle-claire-and-nick-ross/movie/20170618/NOW_ME
-cast: Belle Claire; https://www.sexart.com/model/belle-claire; g:f
-cast: Nick Ross; https://www.sexart.com/model/nick-ross; g:m
+model: n:Belle Claire; id:/model/sexart/belle-claire; u:https://www.sexart.com/model/belle-claire; g:f
+model: n:Nick Ross; id:/model/sexart/nick-ross; u:https://www.sexart.com/model/nick-ross; g:m
 released: 2017-06-18
 director: Andrej Lupin
 rating: 9.3
@@ -4552,8 +4552,8 @@ title: Fantastic Day
 type: movie
 site: sa
 url: https://www.sexart.com/model/nancy-a-and-sybil-a/movie/20170616/FANTASTIC_DAY
-cast: Nancy A; https://www.sexart.com/model/nancy-a; g:f
-cast: Sybil A; https://www.sexart.com/model/sybil-a; g:f
+model: n:Nancy A; id:/model/sexart/nancy-a; u:https://www.sexart.com/model/nancy-a; g:f
+model: n:Sybil A; id:/model/sexart/sybil-a; u:https://www.sexart.com/model/sybil-a; g:f
 released: 2017-06-16
 director: Andrej Lupin
 rating: 9.5
@@ -4627,8 +4627,8 @@ title: Retrospect
 type: movie
 site: sa
 url: https://www.sexart.com/model/clea-gaultier-and-thomas-lee/movie/20170614/RETROSPECT
-cast: Clea Gaultier; https://www.sexart.com/model/clea-gaultier; g:f
-cast: Thomas Lee; https://www.sexart.com/model/thomas-lee; g:m
+model: n:Clea Gaultier; id:/model/sexart/clea-gaultier; u:https://www.sexart.com/model/clea-gaultier; g:f
+model: n:Thomas Lee; id:/model/sexart/thomas-lee; u:https://www.sexart.com/model/thomas-lee; g:m
 released: 2017-06-14
 director: Andrej Lupin
 rating: 9.2
@@ -4694,8 +4694,8 @@ title: One Day In HotYlek Part 3
 type: movie
 site: sa
 url: https://www.sexart.com/model/aislin-and-stella-cox/movie/20170611/ONE_DAY_IN_HOTYLEK_PART_3
-cast: Aislin; https://www.sexart.com/model/aislin; g:f
-cast: Stella Cox; https://www.sexart.com/model/stella-cox; g:f
+model: n:Aislin; id:/model/sexart/aislin; u:https://www.sexart.com/model/aislin; g:f
+model: n:Stella Cox; id:/model/sexart/stella-cox; u:https://www.sexart.com/model/stella-cox; g:f
 released: 2017-06-11
 director: Andrej Lupin
 rating: 9.4
@@ -4769,8 +4769,8 @@ title: Whispering
 type: movie
 site: sa
 url: https://www.sexart.com/model/talia-mint-and-tina-kay/movie/20170609/WHISPERING
-cast: Talia Mint; https://www.sexart.com/model/talia-mint; g:f
-cast: Tina Kay; https://www.sexart.com/model/tina-kay; g:f
+model: n:Talia Mint; id:/model/sexart/talia-mint; u:https://www.sexart.com/model/talia-mint; g:f
+model: n:Tina Kay; id:/model/sexart/tina-kay; u:https://www.sexart.com/model/tina-kay; g:f
 released: 2017-06-09
 director: Andrej Lupin
 rating: 9.4
@@ -4840,8 +4840,8 @@ title: All Around You
 type: movie
 site: sa
 url: https://www.sexart.com/model/joel-tomas-and-alexa-tomas/movie/20170607/ALL_AROUND_YOU
-cast: Joel Tomas; https://www.sexart.com/model/joel-tomas; g:m
-cast: Alexa Tomas; https://www.sexart.com/model/alexa-tomas; g:f
+model: n:Joel Tomas; id:/model/sexart/joel-tomas; u:https://www.sexart.com/model/joel-tomas; g:m
+model: n:Alexa Tomas; id:/model/sexart/alexa-tomas; u:https://www.sexart.com/model/alexa-tomas; g:f
 released: 2017-06-07
 director: Alis Locanta
 rating: 9.2
@@ -4856,7 +4856,7 @@ runtime: 22:57
 writer: Alis Locanta
 executiveProducer: MetArt Films
 producer: Estelle Adams
-directorPhotography: Alis Locanta
+directorOfPhotography: Alis Locanta
 cinematographer: Alis Locanta
 cameraOperator: Heinz Cabro, Alis Locanta
 editor: Alis Locanta
@@ -4917,8 +4917,8 @@ title: One Day In HotYlek Part 2
 type: movie
 site: sa
 url: https://www.sexart.com/model/anastazia-and-maxmilian-dior/movie/20170604/ONE_DAY_IN_HOTYLEK_PART_2
-cast: Anastazia; https://www.sexart.com/model/anastazia; g:f
-cast: Maxmilian Dior; https://www.sexart.com/model/maxmilian-dior; g:m
+model: n:Anastazia; id:/model/sexart/anastazia; u:https://www.sexart.com/model/anastazia; g:f
+model: n:Maxmilian Dior; id:/model/sexart/maxmilian-dior; u:https://www.sexart.com/model/maxmilian-dior; g:m
 released: 2017-06-04
 director: Andrej Lupin
 rating: 9.2
@@ -4976,8 +4976,8 @@ title: Riverside
 type: movie
 site: sa
 url: https://www.sexart.com/model/naomi-bennet-and-karol-lilien/movie/20170602/RIVERSIDE
-cast: Naomi Bennet; https://www.sexart.com/model/naomi-bennet; g:f
-cast: Karol Lilien; https://www.sexart.com/model/karol-lilien; g:f
+model: n:Naomi Bennet; id:/model/sexart/naomi-bennet; u:https://www.sexart.com/model/naomi-bennet; g:f
+model: n:Karol Lilien; id:/model/sexart/karol-lilien; u:https://www.sexart.com/model/karol-lilien; g:f
 released: 2017-06-02
 director: Andrej Lupin
 rating: 9.4
@@ -5049,8 +5049,8 @@ title: Born To Ride
 type: movie
 site: sa
 url: https://www.sexart.com/model/anabelle-and-ricky/movie/20170531/BORN_TO_RIDE
-cast: Anabelle; https://www.sexart.com/model/anabelle; g:f
-cast: Ricky; https://www.sexart.com/model/ricky; g:m
+model: n:Anabelle; id:/model/sexart/anabelle; u:https://www.sexart.com/model/anabelle; g:f
+model: n:Ricky; id:/model/sexart/ricky; u:https://www.sexart.com/model/ricky; g:m
 released: 2017-05-31
 director: Andrej Lupin
 rating: 9.4
@@ -5110,8 +5110,8 @@ title: One Day In HotYlek Part 1
 type: movie
 site: sa
 url: https://www.sexart.com/model/daisy-lee-and-ricky/movie/20170528/ONE_DAY_IN_HOTYLEK_PART_1
-cast: Daisy Lee; https://www.sexart.com/model/daisy-lee; g:f
-cast: Ricky; https://www.sexart.com/model/ricky; g:m
+model: n:Daisy Lee; id:/model/sexart/daisy-lee; u:https://www.sexart.com/model/daisy-lee; g:f
+model: n:Ricky; id:/model/sexart/ricky; u:https://www.sexart.com/model/ricky; g:m
 released: 2017-05-28
 director: Andrej Lupin
 rating: 9.1
@@ -5172,8 +5172,8 @@ title: Me and Myself Part 2
 type: movie
 site: sa
 url: https://www.sexart.com/model/alexis-crystal-and-belle-claire/movie/20170526/ME_AND_MYSELF_PART_2
-cast: Alexis Crystal; https://www.sexart.com/model/alexis-crystal; g:f
-cast: Belle Claire; https://www.sexart.com/model/belle-claire; g:f
+model: n:Alexis Crystal; id:/model/sexart/alexis-crystal; u:https://www.sexart.com/model/alexis-crystal; g:f
+model: n:Belle Claire; id:/model/sexart/belle-claire; u:https://www.sexart.com/model/belle-claire; g:f
 released: 2017-05-26
 director: Andrej Lupin
 rating: 9.3
@@ -5246,8 +5246,8 @@ title: Dance For You
 type: movie
 site: sa
 url: https://www.sexart.com/model/maxmilian-dior-and-tina-kay/movie/20170524/DANCE_FOR_YOU
-cast: Maxmilian Dior; https://www.sexart.com/model/maxmilian-dior; g:m
-cast: Tina Kay; https://www.sexart.com/model/tina-kay; g:f
+model: n:Maxmilian Dior; id:/model/sexart/maxmilian-dior; u:https://www.sexart.com/model/maxmilian-dior; g:m
+model: n:Tina Kay; id:/model/sexart/tina-kay; u:https://www.sexart.com/model/tina-kay; g:f
 released: 2017-05-24
 director: Andrej Lupin
 rating: 9.3
@@ -5321,8 +5321,8 @@ title: Me & Myself Part 1
 type: movie
 site: sa
 url: https://www.sexart.com/model/nick-ross-and-alexis-crystal/movie/20170521/ME_&_MYSELF_PART_1
-cast: Nick Ross; https://www.sexart.com/model/nick-ross; g:m
-cast: Alexis Crystal; https://www.sexart.com/model/alexis-crystal; g:f
+model: n:Nick Ross; id:/model/sexart/nick-ross; u:https://www.sexart.com/model/nick-ross; g:m
+model: n:Alexis Crystal; id:/model/sexart/alexis-crystal; u:https://www.sexart.com/model/alexis-crystal; g:f
 released: 2017-05-21
 director: Andrej Lupin
 rating: 9.3
@@ -5401,8 +5401,8 @@ title: Docu-Film
 type: movie
 site: sa
 url: https://www.sexart.com/model/joel-tomas-and-amarna-miller/movie/20170519/DOCU-FILM
-cast: Joel Tomas; https://www.sexart.com/model/joel-tomas; g:m
-cast: Amarna Miller; https://www.sexart.com/model/amarna-miller; g:f
+model: n:Joel Tomas; id:/model/sexart/joel-tomas; u:https://www.sexart.com/model/joel-tomas; g:m
+model: n:Amarna Miller; id:/model/sexart/amarna-miller; u:https://www.sexart.com/model/amarna-miller; g:f
 released: 2017-05-19
 director: Alis Locanta
 rating: 9.0
@@ -5414,7 +5414,7 @@ file: SexArt-20170519-Docu-Film-tall.jpg 129
 file: SexArt-20170519-Docu-Film-wide.jpg 261
 description: An insiders’ view of the making of an erotic movie, Alis Locanta’s immersive and highly arousing "Docu-Film" gets off to a lively start with vivacious redhead Amarna Miller introducing herself and her handsome partner for the movie, Joel Tomas. On set, as Amarna and Joel discuss what they are going to do you can see them start to get turned on, and soon they are kissing and touching each other passionately. Joel undresses Amarna, gazing hungrily at her pert breasts and neatly trimmed pussy, then spreads her legs high and wide and licks her until she’s gasping and moaning with pleasure. He pauses to strip, and once he’s naked, Amarna feeds his fat cock into her mouth and strokes and sucks it to full stiffness. It’s so big that she gags and dribbles while taking it deeper with each bob of her head. Joel rubs her pussy to ensure she is dripping wet, then drives his cock deep inside her, fucking her frantically in missionary before flipping her over and banging her in doggy, their bodies synched in a lustful rhythm. Amarna howls with excitement as Joel pounds her faster and deeper, thrusting her peachy ass back to meet every stroke, each telling the other what they want and how good it feels. Voracious Amarna is eager to suck Joel’s cock again, before he power bangs her in spoons, rubbing her clit to bring her to the brink of orgasm, then rolls onto his back so she can ride him in reverse cowgirl. She grinds her hips to take him deep, dismounts to suck him again, then straddles him in cowgirl and lets him fuck her to an intense orgasm and fill her with his hot load. She licks him clean, and chattering in Spanish they head into the shower together, having shared an illuminating and scorching slice of real-life erotica with us.
 runtime: 21:46
-directorPhotography: Alis Locanta
+directorOfPhotography: Alis Locanta
 cinematographer: Alis Locanta
 cameraOperator: Alis Locanta
 editor: Alis Locanta
@@ -5465,8 +5465,8 @@ title: Unexpectedly
 type: movie
 site: sa
 url: https://www.sexart.com/model/morgan-rodriguez-and-michael-fly/movie/20170517/UNEXPECTEDLY
-cast: Morgan Rodriguez; https://www.sexart.com/model/morgan-rodriguez; g:f
-cast: Michael Fly; https://www.sexart.com/model/michael-fly; g:m
+model: n:Morgan Rodriguez; id:/model/sexart/morgan-rodriguez; u:https://www.sexart.com/model/morgan-rodriguez; g:f
+model: n:Michael Fly; id:/model/sexart/michael-fly; u:https://www.sexart.com/model/michael-fly; g:m
 released: 2017-05-17
 director: Andrej Lupin
 rating: 9.2
@@ -5536,8 +5536,8 @@ title: Once Again
 type: movie
 site: sa
 url: https://www.sexart.com/model/maxmilian-dior-and-antonia-sainz/movie/20170514/ONCE_AGAIN
-cast: Maxmilian Dior; https://www.sexart.com/model/maxmilian-dior; g:m
-cast: Antonia Sainz; https://www.sexart.com/model/antonia-sainz; g:f
+model: n:Maxmilian Dior; id:/model/sexart/maxmilian-dior; u:https://www.sexart.com/model/maxmilian-dior; g:m
+model: n:Antonia Sainz; id:/model/sexart/antonia-sainz; u:https://www.sexart.com/model/antonia-sainz; g:f
 released: 2017-05-14
 director: Andrej Lupin
 rating: 9.3
@@ -5598,8 +5598,8 @@ title: Ocean Darling
 type: movie
 site: sa
 url: https://www.sexart.com/model/nancy-a-and-vanessa-decker/movie/20170512/OCEAN_DARLING
-cast: Nancy A; https://www.sexart.com/model/nancy-a; g:f
-cast: Vanessa Decker; https://www.sexart.com/model/vanessa-decker; g:f
+model: n:Nancy A; id:/model/sexart/nancy-a; u:https://www.sexart.com/model/nancy-a; g:f
+model: n:Vanessa Decker; id:/model/sexart/vanessa-decker; u:https://www.sexart.com/model/vanessa-decker; g:f
 released: 2017-05-12
 director: Andrej Lupin
 rating: 9.5
@@ -5667,8 +5667,8 @@ title: Punish Me
 type: movie
 site: sa
 url: https://www.sexart.com/model/belle-claire-and-charlie-dean/movie/20170510/PUNISH_ME
-cast: Belle Claire; https://www.sexart.com/model/belle-claire; g:f
-cast: Charlie Dean; https://www.sexart.com/model/charlie-dean; g:m
+model: n:Belle Claire; id:/model/sexart/belle-claire; u:https://www.sexart.com/model/belle-claire; g:f
+model: n:Charlie Dean; id:/model/sexart/charlie-dean; u:https://www.sexart.com/model/charlie-dean; g:m
 released: 2017-05-10
 director: Andrej Lupin
 rating: 9.0
@@ -5745,8 +5745,8 @@ title: Go Away
 type: movie
 site: sa
 url: https://www.sexart.com/model/kalisy-and-thomas-lee/movie/20170507/GO_AWAY
-cast: Kalisy; https://www.sexart.com/model/kalisy; g:f
-cast: Thomas Lee; https://www.sexart.com/model/thomas-lee; g:m
+model: n:Kalisy; id:/model/sexart/kalisy; u:https://www.sexart.com/model/kalisy; g:f
+model: n:Thomas Lee; id:/model/sexart/thomas-lee; u:https://www.sexart.com/model/thomas-lee; g:m
 released: 2017-05-07
 director: Andrej Lupin
 rating: 9.3
@@ -5811,8 +5811,8 @@ title: Rose
 type: movie
 site: sa
 url: https://www.sexart.com/model/miki-torrez-and-talia-mint/movie/20170505/ROSE
-cast: Miki Torrez; https://www.sexart.com/model/miki-torrez; g:f
-cast: Talia Mint; https://www.sexart.com/model/talia-mint; g:f
+model: n:Miki Torrez; id:/model/sexart/miki-torrez; u:https://www.sexart.com/model/miki-torrez; g:f
+model: n:Talia Mint; id:/model/sexart/talia-mint; u:https://www.sexart.com/model/talia-mint; g:f
 released: 2017-05-05
 director: Andrej Lupin
 rating: 9.4
@@ -5881,8 +5881,8 @@ title: Either Or
 type: movie
 site: sa
 url: https://www.sexart.com/model/chrissy-fox-and-nick-ross/movie/20170503/EITHER_OR
-cast: Chrissy Fox; https://www.sexart.com/model/chrissy-fox; g:f
-cast: Nick Ross; https://www.sexart.com/model/nick-ross; g:m
+model: n:Chrissy Fox; id:/model/sexart/chrissy-fox; u:https://www.sexart.com/model/chrissy-fox; g:f
+model: n:Nick Ross; id:/model/sexart/nick-ross; u:https://www.sexart.com/model/nick-ross; g:m
 released: 2017-05-03
 director: Andrej Lupin
 rating: 9.2
@@ -5948,8 +5948,8 @@ title: Antonia
 type: movie
 site: sa
 url: https://www.sexart.com/model/antonia-sainz-and-chad-rockwell/movie/20170430/ANTONIA
-cast: Antonia Sainz; https://www.sexart.com/model/antonia-sainz; g:f
-cast: Chad Rockwell; https://www.sexart.com/model/chad-rockwell; g:m
+model: n:Antonia Sainz; id:/model/sexart/antonia-sainz; u:https://www.sexart.com/model/antonia-sainz; g:f
+model: n:Chad Rockwell; id:/model/sexart/chad-rockwell; u:https://www.sexart.com/model/chad-rockwell; g:m
 released: 2017-04-30
 director: Andrej Lupin
 rating: 9.1
@@ -6014,8 +6014,8 @@ title: Impress
 type: movie
 site: sa
 url: https://www.sexart.com/model/daisy-lee-and-aislin/movie/20170428/IMPRESS
-cast: Daisy Lee; https://www.sexart.com/model/daisy-lee; g:f
-cast: Aislin; https://www.sexart.com/model/aislin; g:f
+model: n:Daisy Lee; id:/model/sexart/daisy-lee; u:https://www.sexart.com/model/daisy-lee; g:f
+model: n:Aislin; id:/model/sexart/aislin; u:https://www.sexart.com/model/aislin; g:f
 released: 2017-04-28
 director: Andrej Lupin
 rating: 9.4
@@ -6080,8 +6080,8 @@ title: Better Idea
 type: movie
 site: sa
 url: https://www.sexart.com/model/lady-bug-and-thomas-lee/movie/20170426/BETTER_IDEA
-cast: Lady Bug; https://www.sexart.com/model/lady-bug; g:f
-cast: Thomas Lee; https://www.sexart.com/model/thomas-lee; g:m
+model: n:Lady Bug; id:/model/sexart/lady-bug; u:https://www.sexart.com/model/lady-bug; g:f
+model: n:Thomas Lee; id:/model/sexart/thomas-lee; u:https://www.sexart.com/model/thomas-lee; g:m
 released: 2017-04-26
 director: Andrej Lupin
 rating: 9.3
@@ -6148,8 +6148,8 @@ title: Drifting By
 type: movie
 site: sa
 url: https://www.sexart.com/model/anie-darling-and-maxmilian-dior/movie/20170423/DRIFTING_BY
-cast: Anie Darling; https://www.sexart.com/model/anie-darling; g:f
-cast: Maxmilian Dior; https://www.sexart.com/model/maxmilian-dior; g:m
+model: n:Anie Darling; id:/model/sexart/anie-darling; u:https://www.sexart.com/model/anie-darling; g:f
+model: n:Maxmilian Dior; id:/model/sexart/maxmilian-dior; u:https://www.sexart.com/model/maxmilian-dior; g:m
 released: 2017-04-23
 director: Andrej Lupin
 rating: 9.3
@@ -6216,8 +6216,8 @@ title: Touch And Feel
 type: movie
 site: sa
 url: https://www.sexart.com/model/belle-claire-and-sybil-a/movie/20170421/TOUCH_AND_FEEL
-cast: Belle Claire; https://www.sexart.com/model/belle-claire; g:f
-cast: Sybil A; https://www.sexart.com/model/sybil-a; g:f
+model: n:Belle Claire; id:/model/sexart/belle-claire; u:https://www.sexart.com/model/belle-claire; g:f
+model: n:Sybil A; id:/model/sexart/sybil-a; u:https://www.sexart.com/model/sybil-a; g:f
 released: 2017-04-21
 director: Andrej Lupin
 rating: 9.4
@@ -6277,8 +6277,8 @@ title: White and Black
 type: movie
 site: sa
 url: https://www.sexart.com/model/jesus-reyes-and-amarna-miller/movie/20170419/WHITE_AND_BLACK
-cast: Jesus Reyes; https://www.sexart.com/model/jesus-reyes; g:m
-cast: Amarna Miller; https://www.sexart.com/model/amarna-miller; g:f
+model: n:Jesus Reyes; id:/model/sexart/jesus-reyes; u:https://www.sexart.com/model/jesus-reyes; g:m
+model: n:Amarna Miller; id:/model/sexart/amarna-miller; u:https://www.sexart.com/model/amarna-miller; g:f
 released: 2017-04-19
 director: Alis Locanta
 rating: 9.1
@@ -6293,7 +6293,7 @@ runtime: 23:55
 writer: Alis Locanta
 executiveProducer: MetArt Films
 producer: Estelle Adams
-directorPhotography: Alis Locanta
+directorOfPhotography: Alis Locanta
 cameraOperator: Heinz Cabro, Alis Locanta
 editor: Alis Locanta
 firstAC: Juan Del Diablo
@@ -6356,8 +6356,8 @@ title: Rascal
 type: movie
 site: sa
 url: https://www.sexart.com/model/cristal-caitlin-and-nick-ross/movie/20170416/RASCAL
-cast: Cristal Caitlin; https://www.sexart.com/model/cristal-caitlin; g:f
-cast: Nick Ross; https://www.sexart.com/model/nick-ross; g:m
+model: n:Cristal Caitlin; id:/model/sexart/cristal-caitlin; u:https://www.sexart.com/model/cristal-caitlin; g:f
+model: n:Nick Ross; id:/model/sexart/nick-ross; u:https://www.sexart.com/model/nick-ross; g:m
 released: 2017-04-16
 director: Andrej Lupin
 rating: 9.2
@@ -6425,8 +6425,8 @@ title: Fight For Love
 type: movie
 site: sa
 url: https://www.sexart.com/model/katy-rose-and-nancy-a/movie/20170414/FIGHT_FOR_LOVE
-cast: Katy Rose; https://www.sexart.com/model/katy-rose; g:f
-cast: Nancy A; https://www.sexart.com/model/nancy-a; g:f
+model: n:Katy Rose; id:/model/sexart/katy-rose; u:https://www.sexart.com/model/katy-rose; g:f
+model: n:Nancy A; id:/model/sexart/nancy-a; u:https://www.sexart.com/model/nancy-a; g:f
 released: 2017-04-14
 director: Andrej Lupin
 rating: 9.4
@@ -6495,8 +6495,8 @@ title: Call
 type: movie
 site: sa
 url: https://www.sexart.com/model/michael-fly-and-alexis-crystal/movie/20170412/CALL
-cast: Michael Fly; https://www.sexart.com/model/michael-fly; g:m
-cast: Alexis Crystal; https://www.sexart.com/model/alexis-crystal; g:f
+model: n:Michael Fly; id:/model/sexart/michael-fly; u:https://www.sexart.com/model/michael-fly; g:m
+model: n:Alexis Crystal; id:/model/sexart/alexis-crystal; u:https://www.sexart.com/model/alexis-crystal; g:f
 released: 2017-04-12
 director: Andrej Lupin
 rating: 9.4
@@ -6568,8 +6568,8 @@ title: Coquendam
 type: movie
 site: sa
 url: https://www.sexart.com/model/emma-button-and-ricky/movie/20170409/COQUENDAM
-cast: Emma Button; https://www.sexart.com/model/emma-button; g:f
-cast: Ricky; https://www.sexart.com/model/ricky; g:m
+model: n:Emma Button; id:/model/sexart/emma-button; u:https://www.sexart.com/model/emma-button; g:f
+model: n:Ricky; id:/model/sexart/ricky; u:https://www.sexart.com/model/ricky; g:m
 released: 2017-04-09
 director: Andrej Lupin
 rating: 9.0
@@ -6628,8 +6628,8 @@ title: Cassette
 type: movie
 site: sa
 url: https://www.sexart.com/model/rosaline-rosa-and-dido-a/movie/20170407/CASSETTE
-cast: Rosaline Rosa; https://www.sexart.com/model/rosaline-rosa; g:f
-cast: Dido A; https://www.sexart.com/model/dido-a; g:f
+model: n:Rosaline Rosa; id:/model/sexart/rosaline-rosa; u:https://www.sexart.com/model/rosaline-rosa; g:f
+model: n:Dido A; id:/model/sexart/dido-a; u:https://www.sexart.com/model/dido-a; g:f
 released: 2017-04-07
 director: Andrej Lupin
 rating: 9.4
@@ -6690,8 +6690,8 @@ title: Typical Woman
 type: movie
 site: sa
 url: https://www.sexart.com/model/maxmilian-dior-and-belle-claire/movie/20170405/TYPICAL_WOMAN
-cast: Maxmilian Dior; https://www.sexart.com/model/maxmilian-dior; g:m
-cast: Belle Claire; https://www.sexart.com/model/belle-claire; g:f
+model: n:Maxmilian Dior; id:/model/sexart/maxmilian-dior; u:https://www.sexart.com/model/maxmilian-dior; g:m
+model: n:Belle Claire; id:/model/sexart/belle-claire; u:https://www.sexart.com/model/belle-claire; g:f
 released: 2017-04-05
 director: Andrej Lupin
 rating: 9.3
@@ -6753,8 +6753,8 @@ title: Coin Toss: Heads
 type: movie
 site: sa
 url: https://www.sexart.com/model/vicky-love-and-nick-ross/movie/20170402/
-cast: Vicky Love; https://www.sexart.com/model/vicky-love; g:f
-cast: Nick Ross; https://www.sexart.com/model/nick-ross; g:m
+model: n:Vicky Love; id:/model/sexart/vicky-love; u:https://www.sexart.com/model/vicky-love; g:f
+model: n:Nick Ross; id:/model/sexart/nick-ross; u:https://www.sexart.com/model/nick-ross; g:m
 released: 2017-04-02
 director: Andrej Lupin
 rating: 9.1
@@ -6827,8 +6827,8 @@ title: Inspired By Sexart
 type: movie
 site: sa
 url: https://www.sexart.com/model/anna-swix-and-bambi-joli/movie/20170331/INSPIRED_BY_SEXART
-cast: Anna Swix; https://www.sexart.com/model/anna-swix; g:f
-cast: Bambi Joli; https://www.sexart.com/model/bambi-joli; g:f
+model: n:Anna Swix; id:/model/sexart/anna-swix; u:https://www.sexart.com/model/anna-swix; g:f
+model: n:Bambi Joli; id:/model/sexart/bambi-joli; u:https://www.sexart.com/model/bambi-joli; g:f
 released: 2017-03-31
 director: Andrej Lupin
 rating: 9.3
@@ -6898,8 +6898,8 @@ title: Instruction
 type: movie
 site: sa
 url: https://www.sexart.com/model/nick-ross-and-isabella-chrystin/movie/20170329/INSTRUCTION
-cast: Nick Ross; https://www.sexart.com/model/nick-ross; g:m
-cast: Isabella Chrystin; https://www.sexart.com/model/isabella-chrystin; g:f
+model: n:Nick Ross; id:/model/sexart/nick-ross; u:https://www.sexart.com/model/nick-ross; g:m
+model: n:Isabella Chrystin; id:/model/sexart/isabella-chrystin; u:https://www.sexart.com/model/isabella-chrystin; g:f
 released: 2017-03-29
 director: Andrej Lupin
 rating: 9.2
@@ -6968,8 +6968,8 @@ title: Late Again
 type: movie
 site: sa
 url: https://www.sexart.com/model/maxmilian-dior-and-cristal-caitlin/movie/20170326/LATE_AGAIN
-cast: Maxmilian Dior; https://www.sexart.com/model/maxmilian-dior; g:m
-cast: Cristal Caitlin; https://www.sexart.com/model/cristal-caitlin; g:f
+model: n:Maxmilian Dior; id:/model/sexart/maxmilian-dior; u:https://www.sexart.com/model/maxmilian-dior; g:m
+model: n:Cristal Caitlin; id:/model/sexart/cristal-caitlin; u:https://www.sexart.com/model/cristal-caitlin; g:f
 released: 2017-03-26
 director: Andrej Lupin
 rating: 9.3
@@ -7031,8 +7031,8 @@ title: Sea View
 type: movie
 site: sa
 url: https://www.sexart.com/model/nancy-a-and-sybil-a/movie/20170324/SEA_VIEW
-cast: Nancy A; https://www.sexart.com/model/nancy-a; g:f
-cast: Sybil A; https://www.sexart.com/model/sybil-a; g:f
+model: n:Nancy A; id:/model/sexart/nancy-a; u:https://www.sexart.com/model/nancy-a; g:f
+model: n:Sybil A; id:/model/sexart/sybil-a; u:https://www.sexart.com/model/sybil-a; g:f
 released: 2017-03-24
 director: Andrej Lupin
 rating: 9.5
@@ -7103,8 +7103,8 @@ title: Face Call
 type: movie
 site: sa
 url: https://www.sexart.com/model/stella-cox-and-ricky/movie/20170322/FACE_CALL
-cast: Stella Cox; https://www.sexart.com/model/stella-cox; g:f
-cast: Ricky; https://www.sexart.com/model/ricky; g:m
+model: n:Stella Cox; id:/model/sexart/stella-cox; u:https://www.sexart.com/model/stella-cox; g:f
+model: n:Ricky; id:/model/sexart/ricky; u:https://www.sexart.com/model/ricky; g:m
 released: 2017-03-22
 director: Andrej Lupin
 rating: 9.2
@@ -7172,8 +7172,8 @@ title: Taste Of Evening
 type: movie
 site: sa
 url: https://www.sexart.com/model/ryan-ryder-and-dido-a/movie/20170319/TASTE_OF_EVENING
-cast: Ryan Ryder; https://www.sexart.com/model/ryan-ryder; g:m
-cast: Dido A; https://www.sexart.com/model/dido-a; g:f
+model: n:Ryan Ryder; id:/model/sexart/ryan-ryder; u:https://www.sexart.com/model/ryan-ryder; g:m
+model: n:Dido A; id:/model/sexart/dido-a; u:https://www.sexart.com/model/dido-a; g:f
 released: 2017-03-19
 director: Andrej Lupin
 rating: 9.3
@@ -7240,8 +7240,8 @@ title: Coin Toss: Tails
 type: movie
 site: sa
 url: https://www.sexart.com/model/vicky-love-and-lucy-heart/movie/20170317/
-cast: Vicky Love; https://www.sexart.com/model/vicky-love; g:f
-cast: Lucy Heart; https://www.sexart.com/model/lucy-heart; g:f
+model: n:Vicky Love; id:/model/sexart/vicky-love; u:https://www.sexart.com/model/vicky-love; g:f
+model: n:Lucy Heart; id:/model/sexart/lucy-heart; u:https://www.sexart.com/model/lucy-heart; g:f
 released: 2017-03-17
 director: Andrej Lupin
 rating: 9.4
@@ -7312,7 +7312,7 @@ title: Yoga Inspiration
 type: movie
 site: sa
 url: https://www.sexart.com/model/taissia-a/movie/20170315/YOGA_INSPIRATION
-cast: Taissia A; https://www.sexart.com/model/taissia-a; g:f
+model: n:Taissia A; id:/model/sexart/taissia-a; u:https://www.sexart.com/model/taissia-a; g:f
 released: 2017-03-15
 director: Andrej Lupin
 rating: 9.5
@@ -7363,8 +7363,8 @@ title: Hand Made
 type: movie
 site: sa
 url: https://www.sexart.com/model/joel-tomas-and-stella-cox/movie/20170312/HAND_MADE
-cast: Joel Tomas; https://www.sexart.com/model/joel-tomas; g:m
-cast: Stella Cox; https://www.sexart.com/model/stella-cox; g:f
+model: n:Joel Tomas; id:/model/sexart/joel-tomas; u:https://www.sexart.com/model/joel-tomas; g:m
+model: n:Stella Cox; id:/model/sexart/stella-cox; u:https://www.sexart.com/model/stella-cox; g:f
 released: 2017-03-12
 director: Alis Locanta
 rating: 9.1
@@ -7379,7 +7379,7 @@ runtime: 21:07
 writer: Alis Locanta
 executiveProducer: MetArt Films
 producer: Estelle Adams
-directorPhotography: Alis Locanta
+directorOfPhotography: Alis Locanta
 cinematographer: Alis Locanta
 cameraOperator: Heinz Cabro, Alis Locanta
 editor: Alis Locanta
@@ -7437,8 +7437,8 @@ title: Someone To Hint
 type: movie
 site: sa
 url: https://www.sexart.com/model/bambi-joli-and-jessica-bell/movie/20170310/SOMEONE_TO_HINT
-cast: Bambi Joli; https://www.sexart.com/model/bambi-joli; g:f
-cast: Jessica Bell; https://www.sexart.com/model/jessica-bell; g:f
+model: n:Bambi Joli; id:/model/sexart/bambi-joli; u:https://www.sexart.com/model/bambi-joli; g:f
+model: n:Jessica Bell; id:/model/sexart/jessica-bell; u:https://www.sexart.com/model/jessica-bell; g:f
 released: 2017-03-10
 director: Andrej Lupin
 rating: 9.1
@@ -7514,8 +7514,8 @@ title: Tryin' To Resist
 type: movie
 site: sa
 url: https://www.sexart.com/model/lucy-heart-and-juan-lucho/movie/20170308/TRYIN__TO_RESIST
-cast: Lucy Heart; https://www.sexart.com/model/lucy-heart; g:f
-cast: Juan Lucho; https://www.sexart.com/model/juan-lucho; g:m
+model: n:Lucy Heart; id:/model/sexart/lucy-heart; u:https://www.sexart.com/model/lucy-heart; g:f
+model: n:Juan Lucho; id:/model/sexart/juan-lucho; u:https://www.sexart.com/model/juan-lucho; g:m
 released: 2017-03-08
 director: Alis Locanta
 rating: 9.2
@@ -7530,7 +7530,7 @@ runtime: 20:52
 writer: Alis Locanta
 executiveProducer: MetArt Films
 producer: Estelle Adams
-directorPhotography: Alis Locanta
+directorOfPhotography: Alis Locanta
 cameraOperator: Heinz Cabro, Alis Locanta
 editor: Alis Locanta
 makeupArtist: Keren Delgado
@@ -7587,8 +7587,8 @@ title: Insatiable
 type: movie
 site: sa
 url: https://www.sexart.com/model/naomi-bennet-and-maxmilian-dior/movie/20170305/INSATIABLE
-cast: Naomi Bennet; https://www.sexart.com/model/naomi-bennet; g:f
-cast: Maxmilian Dior; https://www.sexart.com/model/maxmilian-dior; g:m
+model: n:Naomi Bennet; id:/model/sexart/naomi-bennet; u:https://www.sexart.com/model/naomi-bennet; g:f
+model: n:Maxmilian Dior; id:/model/sexart/maxmilian-dior; u:https://www.sexart.com/model/maxmilian-dior; g:m
 released: 2017-03-05
 director: Andrej Lupin
 rating: 9.1
@@ -7654,8 +7654,8 @@ title: Common Evening
 type: movie
 site: sa
 url: https://www.sexart.com/model/kalisy-and-luna-c/movie/20170303/COMMON_EVENING
-cast: Kalisy; https://www.sexart.com/model/kalisy; g:f
-cast: Luna C; https://www.sexart.com/model/luna-c; g:f
+model: n:Kalisy; id:/model/sexart/kalisy; u:https://www.sexart.com/model/kalisy; g:f
+model: n:Luna C; id:/model/sexart/luna-c; u:https://www.sexart.com/model/luna-c; g:f
 released: 2017-03-03
 director: Andrej Lupin
 rating: 9.2
@@ -7724,8 +7724,8 @@ title: Undress
 type: movie
 site: sa
 url: https://www.sexart.com/model/sybil-a-and-michael-fly/movie/20170301/UNDRESS
-cast: Sybil A; https://www.sexart.com/model/sybil-a; g:f
-cast: Michael Fly; https://www.sexart.com/model/michael-fly; g:m
+model: n:Sybil A; id:/model/sexart/sybil-a; u:https://www.sexart.com/model/sybil-a; g:f
+model: n:Michael Fly; id:/model/sexart/michael-fly; u:https://www.sexart.com/model/michael-fly; g:m
 released: 2017-03-01
 director: Andrej Lupin
 rating: 9.4
@@ -7791,8 +7791,8 @@ title: Escape
 type: movie
 site: sa
 url: https://www.sexart.com/model/chad-rockwell-and-antonia-sainz/movie/20170226/ESCAPE
-cast: Chad Rockwell; https://www.sexart.com/model/chad-rockwell; g:m
-cast: Antonia Sainz; https://www.sexart.com/model/antonia-sainz; g:f
+model: n:Chad Rockwell; id:/model/sexart/chad-rockwell; u:https://www.sexart.com/model/chad-rockwell; g:m
+model: n:Antonia Sainz; id:/model/sexart/antonia-sainz; u:https://www.sexart.com/model/antonia-sainz; g:f
 released: 2017-02-26
 director: Andrej Lupin
 rating: 9.2
@@ -7856,8 +7856,8 @@ title: Caught Up
 type: movie
 site: sa
 url: https://www.sexart.com/model/rosaline-rosa-and-nancy-a/movie/20170224/CAUGHT_UP
-cast: Rosaline Rosa; https://www.sexart.com/model/rosaline-rosa; g:f
-cast: Nancy A; https://www.sexart.com/model/nancy-a; g:f
+model: n:Rosaline Rosa; id:/model/sexart/rosaline-rosa; u:https://www.sexart.com/model/rosaline-rosa; g:f
+model: n:Nancy A; id:/model/sexart/nancy-a; u:https://www.sexart.com/model/nancy-a; g:f
 released: 2017-02-24
 director: Andrej Lupin
 rating: 9.4
@@ -7929,8 +7929,8 @@ title: Let Me In
 type: movie
 site: sa
 url: https://www.sexart.com/model/lucy-heart-and-nick-ross/movie/20170222/LET_ME_IN
-cast: Lucy Heart; https://www.sexart.com/model/lucy-heart; g:f
-cast: Nick Ross; https://www.sexart.com/model/nick-ross; g:m
+model: n:Lucy Heart; id:/model/sexart/lucy-heart; u:https://www.sexart.com/model/lucy-heart; g:f
+model: n:Nick Ross; id:/model/sexart/nick-ross; u:https://www.sexart.com/model/nick-ross; g:m
 released: 2017-02-22
 director: Andrej Lupin
 rating: 9.3
@@ -7994,8 +7994,8 @@ title: Better Morning
 type: movie
 site: sa
 url: https://www.sexart.com/model/maxmilian-dior-and-linda-sweet/movie/20170219/BETTER_MORNING
-cast: Maxmilian Dior; https://www.sexart.com/model/maxmilian-dior; g:m
-cast: Linda Sweet; https://www.sexart.com/model/linda-sweet; g:f
+model: n:Maxmilian Dior; id:/model/sexart/maxmilian-dior; u:https://www.sexart.com/model/maxmilian-dior; g:m
+model: n:Linda Sweet; id:/model/sexart/linda-sweet; u:https://www.sexart.com/model/linda-sweet; g:f
 released: 2017-02-19
 director: Andrej Lupin
 rating: 9.2
@@ -8053,8 +8053,8 @@ title: Upstairs
 type: movie
 site: sa
 url: https://www.sexart.com/model/anie-darling-and-aislin/movie/20170217/UPSTAIRS
-cast: Anie Darling; https://www.sexart.com/model/anie-darling; g:f
-cast: Aislin; https://www.sexart.com/model/aislin; g:f
+model: n:Anie Darling; id:/model/sexart/anie-darling; u:https://www.sexart.com/model/anie-darling; g:f
+model: n:Aislin; id:/model/sexart/aislin; u:https://www.sexart.com/model/aislin; g:f
 released: 2017-02-17
 director: Andrej Lupin
 rating: 9.4
@@ -8140,8 +8140,8 @@ title: Arousal
 type: movie
 site: sa
 url: https://www.sexart.com/model/emilio-ardana-and-cassie-fire/movie/20170215/AROUSAL
-cast: Emilio Ardana; https://www.sexart.com/model/emilio-ardana; g:m
-cast: Cassie Fire; https://www.sexart.com/model/cassie-fire; g:f
+model: n:Emilio Ardana; id:/model/sexart/emilio-ardana; u:https://www.sexart.com/model/emilio-ardana; g:m
+model: n:Cassie Fire; id:/model/sexart/cassie-fire; u:https://www.sexart.com/model/cassie-fire; g:f
 released: 2017-02-15
 director: Alis Locanta
 rating: 8.8
@@ -8155,7 +8155,7 @@ description: Raven-haired Russian beauty Cassie Fire is positively vibrating wit
 runtime: 24:12
 writer: Alis Locanta
 executiveProducer: MetArt Films
-directorPhotography: Alis Locanta
+directorOfPhotography: Alis Locanta
 cameraOperator: Heinz Cabro, Alis Locanta
 editor: Alis Locanta
 costumeDesigner: Eva Dividendo
@@ -8214,8 +8214,8 @@ title: Prepare
 type: movie
 site: sa
 url: https://www.sexart.com/model/karol-lilien-and-nick-ross/movie/20170212/PREPARE
-cast: Karol Lilien; https://www.sexart.com/model/karol-lilien; g:f
-cast: Nick Ross; https://www.sexart.com/model/nick-ross; g:m
+model: n:Karol Lilien; id:/model/sexart/karol-lilien; u:https://www.sexart.com/model/karol-lilien; g:f
+model: n:Nick Ross; id:/model/sexart/nick-ross; u:https://www.sexart.com/model/nick-ross; g:m
 released: 2017-02-12
 director: Andrej Lupin
 rating: 9.2
@@ -8282,8 +8282,8 @@ title: Demolition
 type: movie
 site: sa
 url: https://www.sexart.com/model/lucy-li-and-vanessa-decker/movie/20170210/DEMOLITION
-cast: Lucy Li; https://www.sexart.com/model/lucy-li; g:f
-cast: Vanessa Decker; https://www.sexart.com/model/vanessa-decker; g:f
+model: n:Lucy Li; id:/model/sexart/lucy-li; u:https://www.sexart.com/model/lucy-li; g:f
+model: n:Vanessa Decker; id:/model/sexart/vanessa-decker; u:https://www.sexart.com/model/vanessa-decker; g:f
 released: 2017-02-10
 director: Andrej Lupin
 rating: 9.5
@@ -8355,8 +8355,8 @@ title: Dessert
 type: movie
 site: sa
 url: https://www.sexart.com/model/thomas-j-and-claudia-macc/movie/20170208/DESSERT
-cast: Thomas J; https://www.sexart.com/model/thomas-j; g:m
-cast: Claudia Macc; https://www.sexart.com/model/claudia-macc; g:f
+model: n:Thomas J; id:/model/sexart/thomas-j; u:https://www.sexart.com/model/thomas-j; g:m
+model: n:Claudia Macc; id:/model/sexart/claudia-macc; u:https://www.sexart.com/model/claudia-macc; g:f
 released: 2017-02-08
 director: Andrej Lupin
 rating: 9.1
@@ -8430,8 +8430,8 @@ title: Different Day
 type: movie
 site: sa
 url: https://www.sexart.com/model/naomi-bennet-and-ricky/movie/20170205/DIFFERENT_DAY
-cast: Naomi Bennet; https://www.sexart.com/model/naomi-bennet; g:f
-cast: Ricky; https://www.sexart.com/model/ricky; g:m
+model: n:Naomi Bennet; id:/model/sexart/naomi-bennet; u:https://www.sexart.com/model/naomi-bennet; g:f
+model: n:Ricky; id:/model/sexart/ricky; u:https://www.sexart.com/model/ricky; g:m
 released: 2017-02-05
 director: Andrej Lupin
 rating: 9.0
@@ -8501,8 +8501,8 @@ title: Moonlight
 type: movie
 site: sa
 url: https://www.sexart.com/model/sybil-a-and-kalisy/movie/20170203/MOONLIGHT
-cast: Sybil A; https://www.sexart.com/model/sybil-a; g:f
-cast: Kalisy; https://www.sexart.com/model/kalisy; g:f
+model: n:Sybil A; id:/model/sexart/sybil-a; u:https://www.sexart.com/model/sybil-a; g:f
+model: n:Kalisy; id:/model/sexart/kalisy; u:https://www.sexart.com/model/kalisy; g:f
 released: 2017-02-03
 director: Andrej Lupin
 rating: 9.5
@@ -8578,8 +8578,8 @@ title: She Princess
 type: movie
 site: sa
 url: https://www.sexart.com/model/luna-c-and-ryan-ryder/movie/20170201/SHE_PRINCESS
-cast: Luna C; https://www.sexart.com/model/luna-c; g:f
-cast: Ryan Ryder; https://www.sexart.com/model/ryan-ryder; g:m
+model: n:Luna C; id:/model/sexart/luna-c; u:https://www.sexart.com/model/luna-c; g:f
+model: n:Ryan Ryder; id:/model/sexart/ryan-ryder; u:https://www.sexart.com/model/ryan-ryder; g:m
 released: 2017-02-01
 director: Andrej Lupin
 rating: 9.3
@@ -8646,8 +8646,8 @@ title: Welcome Home
 type: movie
 site: sa
 url: https://www.sexart.com/model/maxmilian-dior-and-linda-sweet/movie/20170129/WELCOME_HOME
-cast: Maxmilian Dior; https://www.sexart.com/model/maxmilian-dior; g:m
-cast: Linda Sweet; https://www.sexart.com/model/linda-sweet; g:f
+model: n:Maxmilian Dior; id:/model/sexart/maxmilian-dior; u:https://www.sexart.com/model/maxmilian-dior; g:m
+model: n:Linda Sweet; id:/model/sexart/linda-sweet; u:https://www.sexart.com/model/linda-sweet; g:f
 released: 2017-01-29
 director: Andrej Lupin
 rating: 9.3
@@ -8720,8 +8720,8 @@ title: Remission
 type: movie
 site: sa
 url: https://www.sexart.com/model/tracy-lindsay-and-daphne-anbel/movie/20170127/REMISSION
-cast: Tracy Lindsay; https://www.sexart.com/model/tracy-lindsay; g:f
-cast: Daphne Anbel; https://www.sexart.com/model/daphne-anbel; g:f
+model: n:Tracy Lindsay; id:/model/sexart/tracy-lindsay; u:https://www.sexart.com/model/tracy-lindsay; g:f
+model: n:Daphne Anbel; id:/model/sexart/daphne-anbel; u:https://www.sexart.com/model/daphne-anbel; g:f
 released: 2017-01-27
 director: Andrej Lupin
 rating: 9.4
@@ -8791,8 +8791,8 @@ title: Mikado
 type: movie
 site: sa
 url: https://www.sexart.com/model/alessandra-jane-and-anabelle/movie/20170125/MIKADO
-cast: Alessandra Jane; https://www.sexart.com/model/alessandra-jane; g:f
-cast: Anabelle; https://www.sexart.com/model/anabelle; g:f
+model: n:Alessandra Jane; id:/model/sexart/alessandra-jane; u:https://www.sexart.com/model/alessandra-jane; g:f
+model: n:Anabelle; id:/model/sexart/anabelle; u:https://www.sexart.com/model/anabelle; g:f
 released: 2017-01-25
 director: Andrej Lupin
 rating: 9.3
@@ -8863,8 +8863,8 @@ title: Join Together
 type: movie
 site: sa
 url: https://www.sexart.com/model/cherry-bright-and-ricky/movie/20170122/JOIN_TOGETHER
-cast: Cherry Bright; https://www.sexart.com/model/cherry-bright; g:f
-cast: Ricky; https://www.sexart.com/model/ricky; g:m
+model: n:Cherry Bright; id:/model/sexart/cherry-bright; u:https://www.sexart.com/model/cherry-bright; g:f
+model: n:Ricky; id:/model/sexart/ricky; u:https://www.sexart.com/model/ricky; g:m
 released: 2017-01-22
 director: Andrej Lupin
 rating: 9.1
@@ -8924,8 +8924,8 @@ title: Hitchhikers
 type: movie
 site: sa
 url: https://www.sexart.com/model/michelle-h-and-nancy-a/movie/20170120/HITCHHIKERS
-cast: Michelle H; https://www.sexart.com/model/michelle-h; g:f
-cast: Nancy A; https://www.sexart.com/model/nancy-a; g:f
+model: n:Michelle H; id:/model/sexart/michelle-h; u:https://www.sexart.com/model/michelle-h; g:f
+model: n:Nancy A; id:/model/sexart/nancy-a; u:https://www.sexart.com/model/nancy-a; g:f
 released: 2017-01-20
 director: Andrej Lupin
 rating: 9.4
@@ -9004,8 +9004,8 @@ title: Unread Message
 type: movie
 site: sa
 url: https://www.sexart.com/model/cassie-fire-and-juan-lucho/movie/20170118/UNREAD_MESSAGE
-cast: Cassie Fire; https://www.sexart.com/model/cassie-fire; g:f
-cast: Juan Lucho; https://www.sexart.com/model/juan-lucho; g:m
+model: n:Cassie Fire; id:/model/sexart/cassie-fire; u:https://www.sexart.com/model/cassie-fire; g:f
+model: n:Juan Lucho; id:/model/sexart/juan-lucho; u:https://www.sexart.com/model/juan-lucho; g:m
 released: 2017-01-18
 director: Alis Locanta
 rating: 9.2
@@ -9020,7 +9020,7 @@ runtime: 24:40
 writer: Alis Locanta
 executiveProducer: MetArt Films
 producer: Estelle Adams
-directorPhotography: Alis Locanta
+directorOfPhotography: Alis Locanta
 cinematographer: Alis Locanta
 cameraOperator: Heinz Cabro, Alis Locanta
 editor: Alis Locanta
@@ -9094,8 +9094,8 @@ title: Thinking About You
 type: movie
 site: sa
 url: https://www.sexart.com/model/ryan-ryder-and-katy-rose/movie/20170115/THINKING_ABOUT_YOU
-cast: Ryan Ryder; https://www.sexart.com/model/ryan-ryder; g:m
-cast: Katy Rose; https://www.sexart.com/model/katy-rose; g:f
+model: n:Ryan Ryder; id:/model/sexart/ryan-ryder; u:https://www.sexart.com/model/ryan-ryder; g:m
+model: n:Katy Rose; id:/model/sexart/katy-rose; u:https://www.sexart.com/model/katy-rose; g:f
 released: 2017-01-15
 director: Andrej Lupin
 rating: 9.3
@@ -9163,8 +9163,8 @@ title: Magical City
 type: movie
 site: sa
 url: https://www.sexart.com/model/bambi-joli-and-belle-claire/movie/20170113/MAGICAL_CITY
-cast: Bambi Joli; https://www.sexart.com/model/bambi-joli; g:f
-cast: Belle Claire; https://www.sexart.com/model/belle-claire; g:f
+model: n:Bambi Joli; id:/model/sexart/bambi-joli; u:https://www.sexart.com/model/bambi-joli; g:f
+model: n:Belle Claire; id:/model/sexart/belle-claire; u:https://www.sexart.com/model/belle-claire; g:f
 released: 2017-01-13
 director: Andrej Lupin
 rating: 9.3
@@ -9238,8 +9238,8 @@ title: Coming
 type: movie
 site: sa
 url: https://www.sexart.com/model/lucy-heart-and-michael-fly/movie/20170111/COMING
-cast: Lucy Heart; https://www.sexart.com/model/lucy-heart; g:f
-cast: Michael Fly; https://www.sexart.com/model/michael-fly; g:m
+model: n:Lucy Heart; id:/model/sexart/lucy-heart; u:https://www.sexart.com/model/lucy-heart; g:f
+model: n:Michael Fly; id:/model/sexart/michael-fly; u:https://www.sexart.com/model/michael-fly; g:m
 released: 2017-01-11
 director: Andrej Lupin
 rating: 9.2
@@ -9298,8 +9298,8 @@ title: Training
 type: movie
 site: sa
 url: https://www.sexart.com/model/nancy-a-and-martin-t/movie/20170108/TRAINING
-cast: Nancy A; https://www.sexart.com/model/nancy-a; g:f
-cast: Martin T; https://www.sexart.com/model/martin-t; g:m
+model: n:Nancy A; id:/model/sexart/nancy-a; u:https://www.sexart.com/model/nancy-a; g:f
+model: n:Martin T; id:/model/sexart/martin-t; u:https://www.sexart.com/model/martin-t; g:m
 released: 2017-01-08
 director: Andrej Lupin
 rating: 9.4
@@ -9369,8 +9369,8 @@ title: Bracelet
 type: movie
 site: sa
 url: https://www.sexart.com/model/vanessa-decker-and-sybil-a/movie/20170106/BRACELET
-cast: Vanessa Decker; https://www.sexart.com/model/vanessa-decker; g:f
-cast: Sybil A; https://www.sexart.com/model/sybil-a; g:f
+model: n:Vanessa Decker; id:/model/sexart/vanessa-decker; u:https://www.sexart.com/model/vanessa-decker; g:f
+model: n:Sybil A; id:/model/sexart/sybil-a; u:https://www.sexart.com/model/sybil-a; g:f
 released: 2017-01-06
 director: Andrej Lupin
 rating: 9.4
@@ -9446,8 +9446,8 @@ title: Amare
 type: movie
 site: sa
 url: https://www.sexart.com/model/ricky-and-anie-darling/movie/20170104/AMARE
-cast: Ricky; https://www.sexart.com/model/ricky; g:m
-cast: Anie Darling; https://www.sexart.com/model/anie-darling; g:f
+model: n:Ricky; id:/model/sexart/ricky; u:https://www.sexart.com/model/ricky; g:m
+model: n:Anie Darling; id:/model/sexart/anie-darling; u:https://www.sexart.com/model/anie-darling; g:f
 released: 2017-01-04
 director: Andrej Lupin
 rating: 9.3
@@ -9510,8 +9510,8 @@ title: Simply Love
 type: movie
 site: sa
 url: https://www.sexart.com/model/chad-rockwell-and-linda-sweet/movie/20170101/SIMPLY_LOVE
-cast: Chad Rockwell; https://www.sexart.com/model/chad-rockwell; g:m
-cast: Linda Sweet; https://www.sexart.com/model/linda-sweet; g:f
+model: n:Chad Rockwell; id:/model/sexart/chad-rockwell; u:https://www.sexart.com/model/chad-rockwell; g:m
+model: n:Linda Sweet; id:/model/sexart/linda-sweet; u:https://www.sexart.com/model/linda-sweet; g:f
 released: 2017-01-01
 director: Andrej Lupin
 rating: 9.1

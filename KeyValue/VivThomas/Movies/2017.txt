@@ -9,9 +9,9 @@ title: Dr. Hope 1 - Insatiable
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/cindy-hope-and-sicilia-and-nesty-a/movie/20171229/DR_HOPE_EPISODE_1_-_INSATIABLE
-cast: Cindy Hope; https://www.vivthomas.com/model/cindy-hope; f
-cast: Sicilia; https://www.vivthomas.com/model/sicilia; f
-cast: Nesty A; https://www.vivthomas.com/model/nesty-a; f
+model: n:Cindy Hope; id:/model/vivthomas/cindy-hope; u:https://www.vivthomas.com/model/cindy-hope; g:f
+model: n:Sicilia; id:/model/vivthomas/sicilia; u:https://www.vivthomas.com/model/sicilia; g:f
+model: n:Nesty A; id:/model/vivthomas/nesty-a; u:https://www.vivthomas.com/model/nesty-a; g:f
 released: 2017-12-29
 director:   Sandra Shine
 rating: 9.4
@@ -78,8 +78,8 @@ title: Oiled 2 - Glow
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/julia-roca-and-ena-sweet/movie/20171227/OILED_EPISODE_2_-_GLOW
-cast: Julia Roca; https://www.vivthomas.com/model/julia-roca; f
-cast: Ena Sweet; https://www.vivthomas.com/model/ena-sweet; f
+model: n:Julia Roca; id:/model/vivthomas/julia-roca; u:https://www.vivthomas.com/model/julia-roca; g:f
+model: n:Ena Sweet; id:/model/vivthomas/ena-sweet; u:https://www.vivthomas.com/model/ena-sweet; g:f
 released: 2017-12-27
 director:   Alis Locanta
 rating: 9.2
@@ -150,8 +150,8 @@ title: House Party 4
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/daphne-anbel-and-katy-rose/movie/20171222/HOUSE_PARTY_EPISODE_4
-cast: Daphne Anbel; https://www.vivthomas.com/model/daphne-anbel; f
-cast: Katy Rose; https://www.vivthomas.com/model/katy-rose; f
+model: n:Daphne Anbel; id:/model/vivthomas/daphne-anbel; u:https://www.vivthomas.com/model/daphne-anbel; g:f
+model: n:Katy Rose; id:/model/vivthomas/katy-rose; u:https://www.vivthomas.com/model/katy-rose; g:f
 released: 2017-12-22
 director:   Andrej Lupin
 rating: 9.5
@@ -224,8 +224,8 @@ title: Oiled 1 - Glisten
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/cassie-del-isla-and-caomei-bala/movie/20171220/OILED_EPISODE_1_-_GLISTEN
-cast: Cassie Del Isla; https://www.vivthomas.com/model/cassie-del-isla; f
-cast: Caomei Bala; https://www.vivthomas.com/model/caomei-bala; f
+model: n:Cassie Del Isla; id:/model/vivthomas/cassie-del-isla; u:https://www.vivthomas.com/model/cassie-del-isla; g:f
+model: n:Caomei Bala; id:/model/vivthomas/caomei-bala; u:https://www.vivthomas.com/model/caomei-bala; g:f
 released: 2017-12-20
 director:   Alis Locanta
 rating: 9.1
@@ -295,8 +295,8 @@ title: House Party 3
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/lovita-fate-and-morgan-rodriguez/movie/20171215/HOUSE_PARTY_EPISODE_3
-cast: Lovita Fate; https://www.vivthomas.com/model/lovita-fate; f
-cast: Morgan Rodriguez; https://www.vivthomas.com/model/morgan-rodriguez; f
+model: n:Lovita Fate; id:/model/vivthomas/lovita-fate; u:https://www.vivthomas.com/model/lovita-fate; g:f
+model: n:Morgan Rodriguez; id:/model/vivthomas/morgan-rodriguez; u:https://www.vivthomas.com/model/morgan-rodriguez; g:f
 released: 2017-12-15
 director:   Andrej Lupin
 rating: 9.3
@@ -374,8 +374,8 @@ title: Lost in a dream Reloaded 4 - Engaged
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/silvia-dellai-and-cristal-caitlin/movie/20171213/LOST_IN_A_DREAM_RELOADED_EPISODE_4_-_ENGAGED
-cast: Silvia Dellai; https://www.vivthomas.com/model/silvia-dellai; f
-cast: Cristal Caitlin; https://www.vivthomas.com/model/cristal-caitlin; f
+model: n:Silvia Dellai; id:/model/vivthomas/silvia-dellai; u:https://www.vivthomas.com/model/silvia-dellai; g:f
+model: n:Cristal Caitlin; id:/model/vivthomas/cristal-caitlin; u:https://www.vivthomas.com/model/cristal-caitlin; g:f
 released: 2017-12-13
 director:   Alis Locanta
 rating: 9.1
@@ -394,7 +394,7 @@ producer: Estelle Adams
 cinematographer: Alis Locanta
 cameraOperator: Heinz Cabro
 editor: Alis Locanta
-firstAc: Vincent Rimbaud
+firstAC: Vincent Rimbaud
 boomOperator: G.M. Cusa
 soundDesigner: Frankie Astaire
 tag: ankle strap high heels
@@ -453,8 +453,8 @@ title: House Party 2
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/daphne-anbel-and-morgan-rodriguez/movie/20171208/HOUSE_PARTY_EPISODE_2
-cast: Daphne Anbel; https://www.vivthomas.com/model/daphne-anbel; f
-cast: Morgan Rodriguez; https://www.vivthomas.com/model/morgan-rodriguez; f
+model: n:Daphne Anbel; id:/model/vivthomas/daphne-anbel; u:https://www.vivthomas.com/model/daphne-anbel; g:f
+model: n:Morgan Rodriguez; id:/model/vivthomas/morgan-rodriguez; u:https://www.vivthomas.com/model/morgan-rodriguez; g:f
 released: 2017-12-08
 director:   Andrej Lupin
 rating: 9.3
@@ -532,8 +532,8 @@ title: Lost In A Dream Reloaded 3 - Beguiled
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/caomei-bala-and-ena-sweet/movie/20171206/LOST_IN_A_DREAM_RELOADED_EPISODE_3_-_BEGUILED
-cast: Caomei Bala; https://www.vivthomas.com/model/caomei-bala; f
-cast: Ena Sweet; https://www.vivthomas.com/model/ena-sweet; f
+model: n:Caomei Bala; id:/model/vivthomas/caomei-bala; u:https://www.vivthomas.com/model/caomei-bala; g:f
+model: n:Ena Sweet; id:/model/vivthomas/ena-sweet; u:https://www.vivthomas.com/model/ena-sweet; g:f
 released: 2017-12-06
 director:   Alis Locanta
 rating: 9.1
@@ -552,7 +552,7 @@ producer: Estelle Adams
 cinematographer: Alis Locanta
 cameraOperator: Heinz Cabro
 editor: Alis Locanta
-firstAc: Vincent Rimbaud
+firstAC: Vincent Rimbaud
 boomOperator: G.M. Cusa
 soundDesigner: Frankie Astaire
 tag: ass grabbing
@@ -604,8 +604,8 @@ title: House Party 1
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/lovita-fate-and-katy-rose/movie/20171201/HOUSE_PARTY_EPISODE_1
-cast: Lovita Fate; https://www.vivthomas.com/model/lovita-fate; f
-cast: Katy Rose; https://www.vivthomas.com/model/katy-rose; f
+model: n:Lovita Fate; id:/model/vivthomas/lovita-fate; u:https://www.vivthomas.com/model/lovita-fate; g:f
+model: n:Katy Rose; id:/model/vivthomas/katy-rose; u:https://www.vivthomas.com/model/katy-rose; g:f
 released: 2017-12-01
 director:   Andrej Lupin
 rating: 9.3
@@ -677,8 +677,8 @@ title: Lost In A Dream RELOADED 2 - Absorb
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/julia-roca-and-ena-sweet/movie/20171129/LOST_IN_A_DREAM_RELOADED_EPISODE_2_-_ABSORB
-cast: Julia Roca; https://www.vivthomas.com/model/julia-roca; f
-cast: Ena Sweet; https://www.vivthomas.com/model/ena-sweet; f
+model: n:Julia Roca; id:/model/vivthomas/julia-roca; u:https://www.vivthomas.com/model/julia-roca; g:f
+model: n:Ena Sweet; id:/model/vivthomas/ena-sweet; u:https://www.vivthomas.com/model/ena-sweet; g:f
 released: 2017-11-29
 director:   Alis Locanta
 rating: 9.3
@@ -696,7 +696,7 @@ producer: Estelle Adams
 cinematographer: Alis Locanta
 cameraOperator: Heinz Cabro
 editor: Alis Locanta
-firstAc: Vincent Rimbaud
+firstAC: Vincent Rimbaud
 boomOperator: G.M. Cusa
 soundDesigner: Frankie Astaire
 tag: ankle strap high heels
@@ -749,8 +749,8 @@ title: Instant Attraction 4 - Entice
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/lilu-moon-and-sofi-golfinger/movie/20171124/INSTANT_ATTRACTION_EPISODE_4_-_ENTICE
-cast: Lilu Moon; https://www.vivthomas.com/model/lilu-moon; f
-cast: Sofi Golfinger; https://www.vivthomas.com/model/sofi-golfinger; f
+model: n:Lilu Moon; id:/model/vivthomas/lilu-moon; u:https://www.vivthomas.com/model/lilu-moon; g:f
+model: n:Sofi Golfinger; id:/model/vivthomas/sofi-golfinger; u:https://www.vivthomas.com/model/sofi-golfinger; g:f
 released: 2017-11-24
 director:   Sandra Shine
 rating: 9.3
@@ -816,8 +816,8 @@ title: Lost in a Dream Reloaded 1 - Wandering
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/caomei-bala-and-cassie-del-isla/movie/20171122/LOST_IN_A_DREAM_RELOADED_EPISODE_1_-_WANDERING
-cast: Caomei Bala; https://www.vivthomas.com/model/caomei-bala; f
-cast: Cassie Del Isla; https://www.vivthomas.com/model/cassie-del-isla; f
+model: n:Caomei Bala; id:/model/vivthomas/caomei-bala; u:https://www.vivthomas.com/model/caomei-bala; g:f
+model: n:Cassie Del Isla; id:/model/vivthomas/cassie-del-isla; u:https://www.vivthomas.com/model/cassie-del-isla; g:f
 released: 2017-11-22
 director:   Alis Locanta
 rating: 9.3
@@ -836,7 +836,7 @@ producer: Estelle Adams
 cinematographer: Alis Locanta
 cameraOperator: Heinz Cabro
 editor: Alis Locanta
-firstAc: Vincent Rimbaud
+firstAC: Vincent Rimbaud
 boomOperator: G.M. Cusa
 soundDesigner: Frankie Astaire
 tag: artistic
@@ -894,8 +894,8 @@ title: Instant Attraction 3 - Indulgent
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/bambi-jolie-and-tina-kay/movie/20171117/INSTANT_ATTRACTION_EPISODE_3_-_INDULGENT
-cast: Bambi Jolie; https://www.vivthomas.com/model/bambi-jolie; f
-cast: Tina Kay; https://www.vivthomas.com/model/tina-kay; f
+model: n:Bambi Jolie; id:/model/vivthomas/bambi-jolie; u:https://www.vivthomas.com/model/bambi-jolie; g:f
+model: n:Tina Kay; id:/model/vivthomas/tina-kay; u:https://www.vivthomas.com/model/tina-kay; g:f
 released: 2017-11-17
 director:   Sandra Shine
 rating: 9.2
@@ -960,8 +960,8 @@ title: Lesbian Stories 03.04 - Liaison
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/katrina-moreno-and-penelope-cum/movie/20171115/LESBIAN_STORIES_VOL_3_EPISODE_4_-_LIAISON
-cast: Katrina Moreno; https://www.vivthomas.com/model/katrina-moreno; f
-cast: Penelope Cum; https://www.vivthomas.com/model/penelope-cum; f
+model: n:Katrina Moreno; id:/model/vivthomas/katrina-moreno; u:https://www.vivthomas.com/model/katrina-moreno; g:f
+model: n:Penelope Cum; id:/model/vivthomas/penelope-cum; u:https://www.vivthomas.com/model/penelope-cum; g:f
 released: 2017-11-15
 director:   Alis Locanta
 rating: 9.2
@@ -979,7 +979,7 @@ producer: Estelle Adams
 cinematographer: Alis Locanta
 cameraOperator: Heinz Cabro
 editor: Alis Locanta
-firstAc: Vincent Rimbaud
+firstAC: Vincent Rimbaud
 makeupArtist: Keren Delgado
 boomOperator: G.M. Cusa
 soundDesigner: Frankie Astaire
@@ -1037,8 +1037,8 @@ title: Instant Attraction 2 - Picturesque
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/eva-berger-and-lovenia-lux/movie/20171110/INSTANT_ATTRACTION_EPISODE_2_-_PICTURESQUE
-cast: Eva Berger; https://www.vivthomas.com/model/eva-berger; f
-cast: Lovenia Lux; https://www.vivthomas.com/model/lovenia-lux; f
+model: n:Eva Berger; id:/model/vivthomas/eva-berger; u:https://www.vivthomas.com/model/eva-berger; g:f
+model: n:Lovenia Lux; id:/model/vivthomas/lovenia-lux; u:https://www.vivthomas.com/model/lovenia-lux; g:f
 released: 2017-11-10
 director:   Sandra Shine
 rating: 9.1
@@ -1099,8 +1099,8 @@ title: Lesbian Stories 03.03 - Recall
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/apolonia-and-daniela-dadivoso/movie/20171108/LESBIAN_STORIES_VOL_3_EPISODE_3_-_RECALL
-cast: Apolonia; https://www.vivthomas.com/model/apolonia; f
-cast: Daniela Dadivoso; https://www.vivthomas.com/model/daniela-dadivoso; f
+model: n:Apolonia; id:/model/vivthomas/apolonia; u:https://www.vivthomas.com/model/apolonia; g:f
+model: n:Daniela Dadivoso; id:/model/vivthomas/daniela-dadivoso; u:https://www.vivthomas.com/model/daniela-dadivoso; g:f
 released: 2017-11-08
 director:   Alis Locanta
 rating: 9.2
@@ -1118,7 +1118,7 @@ executiveProducer: MetArt Films
 cinematographer: Alis Locanta
 cameraOperator: Heinz Cabro
 editor: Alis Locanta
-firstAc: Vincent Rimbaud
+firstAC: Vincent Rimbaud
 boomOperator: G.M. Cusa
 soundDesigner: Frankie Astaire
 tag: ankle strap high heels
@@ -1175,8 +1175,8 @@ title: Instant Attraction 1 - Sail Away
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/shrima-malati-and-daphne-klyde/movie/20171103/INSTANT_ATTRACTION_EPISODE_1_-_SAIL_AWAY
-cast: Shrima Malati; https://www.vivthomas.com/model/shrima-malati; f
-cast: Daphne Klyde; https://www.vivthomas.com/model/daphne-klyde; f
+model: n:Shrima Malati; id:/model/vivthomas/shrima-malati; u:https://www.vivthomas.com/model/shrima-malati; g:f
+model: n:Daphne Klyde; id:/model/vivthomas/daphne-klyde; u:https://www.vivthomas.com/model/daphne-klyde; g:f
 released: 2017-11-03
 director:   Sandra Shine
 rating: 9.2
@@ -1237,8 +1237,8 @@ title: Lesbian Stories Vol 3 2 - Relive
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/katrina-moreno-and-penelope-cum/movie/20171101/LESBIAN_STORIES_VOL_3_EPISODE_2_-_RELIVE
-cast: Katrina Moreno; https://www.vivthomas.com/model/katrina-moreno; f
-cast: Penelope Cum; https://www.vivthomas.com/model/penelope-cum; f
+model: n:Katrina Moreno; id:/model/vivthomas/katrina-moreno; u:https://www.vivthomas.com/model/katrina-moreno; g:f
+model: n:Penelope Cum; id:/model/vivthomas/penelope-cum; u:https://www.vivthomas.com/model/penelope-cum; g:f
 released: 2017-11-01
 director:   Alis Locanta
 rating: 9.2
@@ -1256,7 +1256,7 @@ executiveProducer: MetArt Films
 cinematographer: Alis Locanta
 cameraOperator: Heinz Cabro
 editor: Alis Locanta
-firstAc: Vincent Rimbaud
+firstAC: Vincent Rimbaud
 makeupArtist: Keren Delgado
 boomOperator: G.M. Cusa
 soundDesigner: Frankie Astaire
@@ -1310,8 +1310,8 @@ title: Samara
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/tracy-lindsay-and-alexis-crystal/movie/20171027/SAMARA
-cast: Tracy Lindsay; https://www.vivthomas.com/model/tracy-lindsay; f
-cast: Alexis Crystal; https://www.vivthomas.com/model/alexis-crystal; f
+model: n:Tracy Lindsay; id:/model/vivthomas/tracy-lindsay; u:https://www.vivthomas.com/model/tracy-lindsay; g:f
+model: n:Alexis Crystal; id:/model/vivthomas/alexis-crystal; u:https://www.vivthomas.com/model/alexis-crystal; g:f
 released: 2017-10-27
 director:   Don Caravaggio
 rating: 9.5
@@ -1369,8 +1369,8 @@ title: Lesbian Stories 03.01 - Fantasize
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/caomei-bala-and-daniela-dadivoso/movie/20171025/LESBIAN_STORIES_VOL_3_EPISODE_1_-_FANTASIZE
-cast: Caomei Bala; https://www.vivthomas.com/model/caomei-bala; f
-cast: Daniela Dadivoso; https://www.vivthomas.com/model/daniela-dadivoso; f
+model: n:Caomei Bala; id:/model/vivthomas/caomei-bala; u:https://www.vivthomas.com/model/caomei-bala; g:f
+model: n:Daniela Dadivoso; id:/model/vivthomas/daniela-dadivoso; u:https://www.vivthomas.com/model/daniela-dadivoso; g:f
 released: 2017-10-25
 director:   Alis Locanta
 rating: 9.2
@@ -1389,7 +1389,7 @@ producer: Estelle Adams
 cinematographer: Alis Locanta
 cameraOperator: Heinz Cabro
 editor: Alis Locanta
-firstAc: Vincent Rimbaud
+firstAC: Vincent Rimbaud
 makeupArtist: Keren Delgado
 boomOperator: G.M. Cusa
 tag: ankle strap high heels
@@ -1439,8 +1439,8 @@ title: Derriere 4 - Birthday Gift
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/samantha-bentley-and-stefany-moon/movie/20171020/DERRIERE_EPISODE_4_-_BIRTHDAY_GIFT
-cast: Samantha Bentley; https://www.vivthomas.com/model/samantha-bentley; f
-cast: Stefany Moon; https://www.vivthomas.com/model/stefany-moon; f
+model: n:Samantha Bentley; id:/model/vivthomas/samantha-bentley; u:https://www.vivthomas.com/model/samantha-bentley; g:f
+model: n:Stefany Moon; id:/model/vivthomas/stefany-moon; u:https://www.vivthomas.com/model/stefany-moon; g:f
 released: 2017-10-20
 director:   Sandra Shine
 rating: 9.2
@@ -1502,8 +1502,8 @@ title: Neverending Love 4 - Immortal
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/daniela-dadivoso-and-caomei-bala/movie/20171018/NEVERENDING_LOVE_EPISODE_4_-_IMMORTAL
-cast: Daniela Dadivoso; https://www.vivthomas.com/model/daniela-dadivoso; f
-cast: Caomei Bala; https://www.vivthomas.com/model/caomei-bala; f
+model: n:Daniela Dadivoso; id:/model/vivthomas/daniela-dadivoso; u:https://www.vivthomas.com/model/daniela-dadivoso; g:f
+model: n:Caomei Bala; id:/model/vivthomas/caomei-bala; u:https://www.vivthomas.com/model/caomei-bala; g:f
 released: 2017-10-18
 director:   Alis Locanta
 rating: 9.3
@@ -1575,8 +1575,8 @@ title: Derriere 3 - Good Morning
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/tina-kay-and-aislin/movie/20171013/DERRIERE_EPISODE_3_-_GOOD_MORNING
-cast: Tina Kay; https://www.vivthomas.com/model/tina-kay; f
-cast: Aislin; https://www.vivthomas.com/model/aislin; f
+model: n:Tina Kay; id:/model/vivthomas/tina-kay; u:https://www.vivthomas.com/model/tina-kay; g:f
+model: n:Aislin; id:/model/vivthomas/aislin; u:https://www.vivthomas.com/model/aislin; g:f
 released: 2017-10-13
 director:   Sandra Shine
 rating: 9.3
@@ -1641,8 +1641,8 @@ title: Neverending Love 3 - Timeless
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/caomei-bala-and-penelope-cum/movie/20171011/NEVERENDING_LOVE_EPISODE_3_-_TIMELESS
-cast: Caomei Bala; https://www.vivthomas.com/model/caomei-bala; f
-cast: Penelope Cum; https://www.vivthomas.com/model/penelope-cum; f
+model: n:Caomei Bala; id:/model/vivthomas/caomei-bala; u:https://www.vivthomas.com/model/caomei-bala; g:f
+model: n:Penelope Cum; id:/model/vivthomas/penelope-cum; u:https://www.vivthomas.com/model/penelope-cum; g:f
 released: 2017-10-11
 director:   Alis Locanta
 rating: 9.3
@@ -1705,8 +1705,8 @@ title: Derriere 2 - The Attic
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/shrima-malati-and-luna-corazon/movie/20171006/DERRIERE_EPISODE_2_-_THE_ATTIC
-cast: Shrima Malati; https://www.vivthomas.com/model/shrima-malati; f
-cast: Luna Corazon; https://www.vivthomas.com/model/luna-corazon; f
+model: n:Shrima Malati; id:/model/vivthomas/shrima-malati; u:https://www.vivthomas.com/model/shrima-malati; g:f
+model: n:Luna Corazon; id:/model/vivthomas/luna-corazon; u:https://www.vivthomas.com/model/luna-corazon; g:f
 released: 2017-10-06
 director:   Sandra Shine
 rating: 9.4
@@ -1748,8 +1748,8 @@ title: Neverending Love 2 - Eternal
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/katrina-moreno-and-caomei-bala/movie/20171004/NEVERENDING_LOVE_EPISODE_2_-_ETERNAL
-cast: Katrina Moreno; https://www.vivthomas.com/model/katrina-moreno; f
-cast: Caomei Bala; https://www.vivthomas.com/model/caomei-bala; f
+model: n:Katrina Moreno; id:/model/vivthomas/katrina-moreno; u:https://www.vivthomas.com/model/katrina-moreno; g:f
+model: n:Caomei Bala; id:/model/vivthomas/caomei-bala; u:https://www.vivthomas.com/model/caomei-bala; g:f
 released: 2017-10-04
 director:   Alis Locanta
 rating: 9.2
@@ -1797,8 +1797,8 @@ title: Derriere 1 - Poolside
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/cayla-lions-and-sade-rose/movie/20170929/DERRIERE_EPISODE_1_-_POOLSIDE
-cast: Cayla Lions; https://www.vivthomas.com/model/cayla-lions; f
-cast: Sade Rose; https://www.vivthomas.com/model/sade-rose; f
+model: n:Cayla Lions; id:/model/vivthomas/cayla-lions; u:https://www.vivthomas.com/model/cayla-lions; g:f
+model: n:Sade Rose; id:/model/vivthomas/sade-rose; u:https://www.vivthomas.com/model/sade-rose; g:f
 released: 2017-09-29
 director:   Sandra Shine
 rating: 9.0
@@ -1868,8 +1868,8 @@ title: Neverending Love 1 - Continuous
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/caomei-bala-and-apolonia/movie/20170927/NEVERENDING_LOVE_EPISODE_1_-_CONTINUOUS
-cast: Caomei Bala; https://www.vivthomas.com/model/caomei-bala; f
-cast: Apolonia; https://www.vivthomas.com/model/apolonia; f
+model: n:Caomei Bala; id:/model/vivthomas/caomei-bala; u:https://www.vivthomas.com/model/caomei-bala; g:f
+model: n:Apolonia; id:/model/vivthomas/apolonia; u:https://www.vivthomas.com/model/apolonia; g:f
 released: 2017-09-27
 director:   Alis Locanta
 rating: 9.3
@@ -1935,8 +1935,8 @@ title: Day Dream 4 - Work Together
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/tiffany-doll-and-lovita-fate/movie/20170922/DAY_DREAM_EPISODE_4_-_WORK_TOGETHER
-cast: Tiffany Doll; https://www.vivthomas.com/model/tiffany-doll; f
-cast: Lovita Fate; https://www.vivthomas.com/model/lovita-fate; f
+model: n:Tiffany Doll; id:/model/vivthomas/tiffany-doll; u:https://www.vivthomas.com/model/tiffany-doll; g:f
+model: n:Lovita Fate; id:/model/vivthomas/lovita-fate; u:https://www.vivthomas.com/model/lovita-fate; g:f
 released: 2017-09-22
 director:   Sandra Shine
 rating: 9.1
@@ -2000,8 +2000,8 @@ title: Lesbian Stories 02.04 - Steamy
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/kalisy-and-sabrisse/movie/20170920/LESBIAN_STORIES_VOL_2_EPISODE_4_-_STEAMY
-cast: Kalisy; https://www.vivthomas.com/model/kalisy; f
-cast: Sabrisse; https://www.vivthomas.com/model/sabrisse; f
+model: n:Kalisy; id:/model/vivthomas/kalisy; u:https://www.vivthomas.com/model/kalisy; g:f
+model: n:Sabrisse; id:/model/vivthomas/sabrisse; u:https://www.vivthomas.com/model/sabrisse; g:f
 released: 2017-09-20
 director:   Alis Locanta
 rating: 9.2
@@ -2020,7 +2020,7 @@ producer: Estelle Adams
 cinematographer: Alis Locanta
 cameraOperator: Heinz Cabro
 editor: Alis Locanta
-firstAc: Vincent Rimbaud
+firstAC: Vincent Rimbaud
 makeupArtist: Keren Delgado
 boomOperator: G.M. Cusa
 tag: barefoot
@@ -2068,8 +2068,8 @@ title: Day Dream 3 - Gardener
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/veronica-clark-and-may-thai/movie/20170915/DAY_DREAM_EPISODE_3_-_GARDENER
-cast: Veronica Clark; https://www.vivthomas.com/model/veronica-clark; f
-cast: May Thai; https://www.vivthomas.com/model/may-thai; f
+model: n:Veronica Clark; id:/model/vivthomas/veronica-clark; u:https://www.vivthomas.com/model/veronica-clark; g:f
+model: n:May Thai; id:/model/vivthomas/may-thai; u:https://www.vivthomas.com/model/may-thai; g:f
 released: 2017-09-15
 director:   Sandra Shine
 rating: 9.4
@@ -2137,8 +2137,8 @@ title: Girlfriends 4 - Beloved
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/kira-queen-and-henessy-a/movie/20170913/GIRLFRIENDS_EPISODE_4_-_BELOVED
-cast: Kira Queen; https://www.vivthomas.com/model/kira-queen; f
-cast: Henessy A; https://www.vivthomas.com/model/henessy-a; f
+model: n:Kira Queen; id:/model/vivthomas/kira-queen; u:https://www.vivthomas.com/model/kira-queen; g:f
+model: n:Henessy A; id:/model/vivthomas/henessy-a; u:https://www.vivthomas.com/model/henessy-a; g:f
 released: 2017-09-13
 director:   Alis Locanta
 rating: 9.1
@@ -2157,7 +2157,7 @@ producer: Estelle Adams
 cinematographer: Alis Locanta
 cameraOperator: Heinz Cabro
 editor: Alis Locanta
-firstAc: Vincent Rimbaud
+firstAC: Vincent Rimbaud
 costumeDesigner: Eva Dividendo
 makeupArtist: Keren Delgado
 boomOperator: G.M. Cusa
@@ -2209,8 +2209,8 @@ title: Day Dream 2 - Special Attention
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/lana-storch-and-zafira-a/movie/20170908/DAY_DREAM_EPISODE_2_-_SPECIAL_ATTENTION
-cast: Lana Storch; https://www.vivthomas.com/model/lana-storch; f
-cast: Zafira A; https://www.vivthomas.com/model/zafira-a; f
+model: n:Lana Storch; id:/model/vivthomas/lana-storch; u:https://www.vivthomas.com/model/lana-storch; g:f
+model: n:Zafira A; id:/model/vivthomas/zafira-a; u:https://www.vivthomas.com/model/zafira-a; g:f
 released: 2017-09-08
 director:   Sandra Shine
 rating: 9.5
@@ -2280,8 +2280,8 @@ title: Lesbian Stories 02.03 - Flirtatious
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/adel-c-and-kalisy/movie/20170906/LESBIAN_STORIES_VOL_2_EPISODE_3_-_FLIRTATIOUS
-cast: Adel C; https://www.vivthomas.com/model/adel-c; f
-cast: Kalisy; https://www.vivthomas.com/model/kalisy; f
+model: n:Adel C; id:/model/vivthomas/adel-c; u:https://www.vivthomas.com/model/adel-c; g:f
+model: n:Kalisy; id:/model/vivthomas/kalisy; u:https://www.vivthomas.com/model/kalisy; g:f
 released: 2017-09-06
 director:   Alis Locanta
 rating: 9.3
@@ -2300,7 +2300,7 @@ producer: Estelle Adams
 cinematographer: Alis Locanta
 cameraOperator: Heinz Cabro
 editor: Alis Locanta
-firstAc: Vincent Rimbaud
+firstAC: Vincent Rimbaud
 makeupArtist: Keren Delgado
 boomOperator: G.M. Cusa
 tag: barefoot
@@ -2349,8 +2349,8 @@ title: Day Dream 1 - Car Wash
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/daphne-anbel-and-melody-petite/movie/20170901/DAY_DREAM_EPISODE_1_-_CAR_WASH
-cast: Daphne Anbel; https://www.vivthomas.com/model/daphne-anbel; f
-cast: Melody Petite; https://www.vivthomas.com/model/melody-petite; f
+model: n:Daphne Anbel; id:/model/vivthomas/daphne-anbel; u:https://www.vivthomas.com/model/daphne-anbel; g:f
+model: n:Melody Petite; id:/model/vivthomas/melody-petite; u:https://www.vivthomas.com/model/melody-petite; g:f
 released: 2017-09-01
 director:   Sandra Shine
 rating: 9.3
@@ -2418,8 +2418,8 @@ title: Girlfriends 3 - Sweetheart
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/henessy-a-and-kira-queen/movie/20170830/GIRLFRIENDS_EPISODE_3_-_SWEETHEART
-cast: Henessy A; https://www.vivthomas.com/model/henessy-a; f
-cast: Kira Queen; https://www.vivthomas.com/model/kira-queen; f
+model: n:Henessy A; id:/model/vivthomas/henessy-a; u:https://www.vivthomas.com/model/henessy-a; g:f
+model: n:Kira Queen; id:/model/vivthomas/kira-queen; u:https://www.vivthomas.com/model/kira-queen; g:f
 released: 2017-08-30
 director:   Alis Locanta
 rating: 9.2
@@ -2438,7 +2438,7 @@ producer: Estelle Adams
 cinematographer: Alis Locanta
 cameraOperator: Heinz Cabro
 editor: Alis Locanta
-firstAc: Vincent Rimbaud
+firstAC: Vincent Rimbaud
 boomOperator: G.M. Cusa
 soundDesigner: Frankie Astaire
 tag: ass grabbing
@@ -2489,8 +2489,8 @@ title: Art Of Kissing Revisited 4 - Surprise
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/gina-gerson-and-lovita-fate/movie/20170825/ART_OF_KISSING_REVISITED_EPISODE_4_-_SURPRISE
-cast: Gina Gerson; https://www.vivthomas.com/model/gina-gerson; f
-cast: Lovita Fate; https://www.vivthomas.com/model/lovita-fate; f
+model: n:Gina Gerson; id:/model/vivthomas/gina-gerson; u:https://www.vivthomas.com/model/gina-gerson; g:f
+model: n:Lovita Fate; id:/model/vivthomas/lovita-fate; u:https://www.vivthomas.com/model/lovita-fate; g:f
 released: 2017-08-25
 director:   Sandra Shine
 rating: 9.4
@@ -2553,8 +2553,8 @@ title: Lesbian Stories 02.02 - Racy
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/adel-c-and-sabrisse/movie/20170823/LESBIAN_STORIES_VOL_2_EPISODE_2_-_RACY
-cast: Adel C; https://www.vivthomas.com/model/adel-c; f
-cast: Sabrisse; https://www.vivthomas.com/model/sabrisse; f
+model: n:Adel C; id:/model/vivthomas/adel-c; u:https://www.vivthomas.com/model/adel-c; g:f
+model: n:Sabrisse; id:/model/vivthomas/sabrisse; u:https://www.vivthomas.com/model/sabrisse; g:f
 released: 2017-08-23
 director:   Alis Locanta
 rating: 9.3
@@ -2573,7 +2573,7 @@ producer: Estelle Adams
 cinematographer: Alis Locanta
 cameraOperator: Heinz Cabro
 editor: Alis Locanta
-firstAc: Vincent Rimbaud
+firstAC: Vincent Rimbaud
 makeupArtist: Keren Delgado
 boomOperator: G.M. Cusa
 tag: beauty mark
@@ -2622,8 +2622,8 @@ title: Art Of Kissing Revisited 3 - Explore
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/miki-torrez-and-ani-blackfox/movie/20170818/ART_OF_KISSING_REVISITED_EPISODE_3_-_EXPLORE
-cast: Miki Torrez; https://www.vivthomas.com/model/miki-torrez; f
-cast: Ani Blackfox; https://www.vivthomas.com/model/ani-blackfox; f
+model: n:Miki Torrez; id:/model/vivthomas/miki-torrez; u:https://www.vivthomas.com/model/miki-torrez; g:f
+model: n:Ani Blackfox; id:/model/vivthomas/ani-blackfox; u:https://www.vivthomas.com/model/ani-blackfox; g:f
 released: 2017-08-18
 director:   Sandra Shine
 rating: 9.2
@@ -2694,8 +2694,8 @@ title: Girlfriends 2 - Companion
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/kira-queen-and-henessy-a/movie/20170816/GIRLFRIENDS_EPISODE_2_-_COMPANION
-cast: Kira Queen; https://www.vivthomas.com/model/kira-queen; f
-cast: Henessy A; https://www.vivthomas.com/model/henessy-a; f
+model: n:Kira Queen; id:/model/vivthomas/kira-queen; u:https://www.vivthomas.com/model/kira-queen; g:f
+model: n:Henessy A; id:/model/vivthomas/henessy-a; u:https://www.vivthomas.com/model/henessy-a; g:f
 released: 2017-08-16
 director:   Alis Locanta
 rating: 9.1
@@ -2713,7 +2713,7 @@ executiveProducer: MetArt Films
 cinematographer: Alis Locanta
 cameraOperator: Heinz Cabro
 editor: Alis Locanta
-firstAc: Vincent Rimbaud
+firstAC: Vincent Rimbaud
 costumeDesigner: Eva Dividendo
 makeupArtist: Keren Delgado
 tag: ass grabbing
@@ -2752,8 +2752,8 @@ title: Art Of Kissing Revisited 2 - Clinch
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/stella-cox-and-cayla-lions/movie/20170811/ART_OF_KISSING_REVISITED_EPISODE_2_-_CLINCH
-cast: Stella Cox; https://www.vivthomas.com/model/stella-cox; f
-cast: Cayla Lions; https://www.vivthomas.com/model/cayla-lions; f
+model: n:Stella Cox; id:/model/vivthomas/stella-cox; u:https://www.vivthomas.com/model/stella-cox; g:f
+model: n:Cayla Lions; id:/model/vivthomas/cayla-lions; u:https://www.vivthomas.com/model/cayla-lions; g:f
 released: 2017-08-11
 director:   Sandra Shine
 rating: 9.4
@@ -2823,8 +2823,8 @@ title: Lesbian Stories 02.01 - Provocative
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/kalisy-and-sabrisse/movie/20170809/LESBIAN_STORIES_VOL_2_EPISODE_1_-_PROVOCATIVE
-cast: Kalisy; https://www.vivthomas.com/model/kalisy; f
-cast: Sabrisse; https://www.vivthomas.com/model/sabrisse; f
+model: n:Kalisy; id:/model/vivthomas/kalisy; u:https://www.vivthomas.com/model/kalisy; g:f
+model: n:Sabrisse; id:/model/vivthomas/sabrisse; u:https://www.vivthomas.com/model/sabrisse; g:f
 released: 2017-08-09
 director:   Alis Locanta
 rating: 9.1
@@ -2887,8 +2887,8 @@ title: Art Of Kissing Revisited 1 - Caress
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/swabery-baby-and-melody-petite/movie/20170804/ART_OF_KISSING_REVISITED_EPISODE_1_-_CARESS
-cast: Swabery Baby; https://www.vivthomas.com/model/swabery-baby; f
-cast: Melody Petite; https://www.vivthomas.com/model/melody-petite; f
+model: n:Swabery Baby; id:/model/vivthomas/swabery-baby; u:https://www.vivthomas.com/model/swabery-baby; g:f
+model: n:Melody Petite; id:/model/vivthomas/melody-petite; u:https://www.vivthomas.com/model/melody-petite; g:f
 released: 2017-08-04
 director:   Sandra Shine
 rating: 9.1
@@ -2956,8 +2956,8 @@ title: Girlfriends 1 - Lovers
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/henessy-a-and-kira-queen/movie/20170802/GIRLFRIENDS_EPISODE_1_-_LOVERS
-cast: Henessy A; https://www.vivthomas.com/model/henessy-a; f
-cast: Kira Queen; https://www.vivthomas.com/model/kira-queen; f
+model: n:Henessy A; id:/model/vivthomas/henessy-a; u:https://www.vivthomas.com/model/henessy-a; g:f
+model: n:Kira Queen; id:/model/vivthomas/kira-queen; u:https://www.vivthomas.com/model/kira-queen; g:f
 released: 2017-08-02
 director:   Alis Locanta
 rating: 9.2
@@ -2976,7 +2976,7 @@ producer: Estelle Adams
 cinematographer: Alis Locanta
 cameraOperator: Heinz Cabro
 editor: Alis Locanta
-firstAc: Vincent Rimbaud
+firstAC: Vincent Rimbaud
 costumeDesigner: Eva Dividendo
 makeupArtist: Keren Delgado
 boomOperator: G.M. Cusa
@@ -3029,8 +3029,8 @@ title: Body Worship 4 - Ass Worship
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/melody-mae-and-aria-logan/movie/20170728/BODY_WORSHIP_EPISODE_4_-_ASS_WORSHIP
-cast: Melody Mae; https://www.vivthomas.com/model/melody-mae; f
-cast: Aria Logan; https://www.vivthomas.com/model/aria-logan; f
+model: n:Melody Mae; id:/model/vivthomas/melody-mae; u:https://www.vivthomas.com/model/melody-mae; g:f
+model: n:Aria Logan; id:/model/vivthomas/aria-logan; u:https://www.vivthomas.com/model/aria-logan; g:f
 released: 2017-07-28
 director:   Sandra Shine
 rating: 9.4
@@ -3089,8 +3089,8 @@ title: Angels 02.04 - Amorous
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/sabrisse-and-adel-c/movie/20170726/ANGELS_VOL_2_EPISODE_4_-_AMOROUS
-cast: Sabrisse; https://www.vivthomas.com/model/sabrisse; f
-cast: Adel C; https://www.vivthomas.com/model/adel-c; f
+model: n:Sabrisse; id:/model/vivthomas/sabrisse; u:https://www.vivthomas.com/model/sabrisse; g:f
+model: n:Adel C; id:/model/vivthomas/adel-c; u:https://www.vivthomas.com/model/adel-c; g:f
 released: 2017-07-26
 director:   Alis Locanta
 rating: 9.3
@@ -3142,8 +3142,8 @@ title: Body Worship 3 - Breast Worship
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/ally-breelsen-and-daphne-anbel/movie/20170721/BODY_WORSHIP_EPISODE_3_-_BREAST_WORSHIP
-cast: Ally Breelsen; https://www.vivthomas.com/model/ally-breelsen; f
-cast: Daphne Anbel; https://www.vivthomas.com/model/daphne-anbel; f
+model: n:Ally Breelsen; id:/model/vivthomas/ally-breelsen; u:https://www.vivthomas.com/model/ally-breelsen; g:f
+model: n:Daphne Anbel; id:/model/vivthomas/daphne-anbel; u:https://www.vivthomas.com/model/daphne-anbel; g:f
 released: 2017-07-21
 director:   Sandra Shine
 rating: 9.3
@@ -3199,8 +3199,8 @@ title: Angels 01.04 - Dripping
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/michelle-h-and-kira-zen/movie/20170719/ANGELS_VOL_1_EPISODE_4_-_DRIPPING
-cast: Michelle H; https://www.vivthomas.com/model/michelle-h; f
-cast: Kira Zen; https://www.vivthomas.com/model/kira-zen; f
+model: n:Michelle H; id:/model/vivthomas/michelle-h; u:https://www.vivthomas.com/model/michelle-h; g:f
+model: n:Kira Zen; id:/model/vivthomas/kira-zen; u:https://www.vivthomas.com/model/kira-zen; g:f
 released: 2017-07-19
 director:   Alis Locanta
 rating: 9.3
@@ -3255,8 +3255,8 @@ title: Body Worship 2 - Pussy Worship
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/lilu-moon-and-frida-sante/movie/20170714/BODY_WORSHIP_EPISODE_2_-_PUSSY_WORSHIP
-cast: Lilu Moon; https://www.vivthomas.com/model/lilu-moon; f
-cast: Frida Sante; https://www.vivthomas.com/model/frida-sante; f
+model: n:Lilu Moon; id:/model/vivthomas/lilu-moon; u:https://www.vivthomas.com/model/lilu-moon; g:f
+model: n:Frida Sante; id:/model/vivthomas/frida-sante; u:https://www.vivthomas.com/model/frida-sante; g:f
 released: 2017-07-14
 director:   Sandra Shine
 rating: 9.4
@@ -3310,8 +3310,8 @@ title: Angels 02.03 - Naughty
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/kalisy-and-adel-c/movie/20170712/ANGELS_VOL_2_EPISODE_3_-_NAUGHTY
-cast: Kalisy; https://www.vivthomas.com/model/kalisy; f
-cast: Adel C; https://www.vivthomas.com/model/adel-c; f
+model: n:Kalisy; id:/model/vivthomas/kalisy; u:https://www.vivthomas.com/model/kalisy; g:f
+model: n:Adel C; id:/model/vivthomas/adel-c; u:https://www.vivthomas.com/model/adel-c; g:f
 released: 2017-07-12
 director:   Alis Locanta
 rating: 9.4
@@ -3368,8 +3368,8 @@ title: Body Worship 1 - Foot Worship
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/daniella-margot-and-clea-gaultier/movie/20170707/BODY_WORSHIP_EPISODE_1_-_FOOT_WORSHIP
-cast: Daniella Margot; https://www.vivthomas.com/model/daniella-margot; f
-cast: Clea Gaultier; https://www.vivthomas.com/model/clea-gaultier; f
+model: n:Daniella Margot; id:/model/vivthomas/daniella-margot; u:https://www.vivthomas.com/model/daniella-margot; g:f
+model: n:Clea Gaultier; id:/model/vivthomas/clea-gaultier; u:https://www.vivthomas.com/model/clea-gaultier; g:f
 released: 2017-07-07
 director:   Sandra Shine
 rating: 9.4
@@ -3422,8 +3422,8 @@ title: Angels 01.03 - Passionate
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/michelle-h-and-kira-zen/movie/20170705/ANGELS_VOL_1_EPISODE_3_-_PASSIONATE
-cast: Michelle H; https://www.vivthomas.com/model/michelle-h; f
-cast: Kira Zen; https://www.vivthomas.com/model/kira-zen; f
+model: n:Michelle H; id:/model/vivthomas/michelle-h; u:https://www.vivthomas.com/model/michelle-h; g:f
+model: n:Kira Zen; id:/model/vivthomas/kira-zen; u:https://www.vivthomas.com/model/kira-zen; g:f
 released: 2017-07-05
 director:   Alis Locanta
 rating: 9.4
@@ -3470,9 +3470,9 @@ title: The Assistant 4 - A Present
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/rebecca-volpetti-and-dorothy-black-and-isabella-lui/movie/20170630/THE_ASSISTANT_EPISODE_4_-_A_PRESENT
-cast: Rebecca Volpetti; https://www.vivthomas.com/model/rebecca-volpetti; f
-cast: Dorothy Black; https://www.vivthomas.com/model/dorothy-black; f
-cast: Isabella Lui; https://www.vivthomas.com/model/isabella-lui; f
+model: n:Rebecca Volpetti; id:/model/vivthomas/rebecca-volpetti; u:https://www.vivthomas.com/model/rebecca-volpetti; g:f
+model: n:Dorothy Black; id:/model/vivthomas/dorothy-black; u:https://www.vivthomas.com/model/dorothy-black; g:f
+model: n:Isabella Lui; id:/model/vivthomas/isabella-lui; u:https://www.vivthomas.com/model/isabella-lui; g:f
 released: 2017-06-30
 director:   Sandra Shine
 rating: 9.4
@@ -3535,8 +3535,8 @@ title: Angels 02.02 - Reciprocal
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/adel-c-and-sabrisse/movie/20170628/ANGELS_VOL_2_EPISODE_2_-_RECIPROCAL
-cast: Adel C; https://www.vivthomas.com/model/adel-c; f
-cast: Sabrisse; https://www.vivthomas.com/model/sabrisse; f
+model: n:Adel C; id:/model/vivthomas/adel-c; u:https://www.vivthomas.com/model/adel-c; g:f
+model: n:Sabrisse; id:/model/vivthomas/sabrisse; u:https://www.vivthomas.com/model/sabrisse; g:f
 released: 2017-06-28
 director:   Alis Locanta
 rating: 9.3
@@ -3596,8 +3596,8 @@ title: The Assistant 3 - Seduction
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/rebecca-volpetti-and-isabella-lui/movie/20170623/THE_ASSISTANT_EPISODE_3_-_SEDUCTION
-cast: Rebecca Volpetti; https://www.vivthomas.com/model/rebecca-volpetti; f
-cast: Isabella Lui; https://www.vivthomas.com/model/isabella-lui; f
+model: n:Rebecca Volpetti; id:/model/vivthomas/rebecca-volpetti; u:https://www.vivthomas.com/model/rebecca-volpetti; g:f
+model: n:Isabella Lui; id:/model/vivthomas/isabella-lui; u:https://www.vivthomas.com/model/isabella-lui; g:f
 released: 2017-06-23
 director:   Sandra Shine
 rating: 9.4
@@ -3649,8 +3649,8 @@ title: Angels 01.02 - Glistening
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/kira-zen-and-michelle-h/movie/20170621/ANGELS_VOL_1_EPISODE_2_-_GLISTENING
-cast: Kira Zen; https://www.vivthomas.com/model/kira-zen; f
-cast: Michelle H; https://www.vivthomas.com/model/michelle-h; f
+model: n:Kira Zen; id:/model/vivthomas/kira-zen; u:https://www.vivthomas.com/model/kira-zen; g:f
+model: n:Michelle H; id:/model/vivthomas/michelle-h; u:https://www.vivthomas.com/model/michelle-h; g:f
 released: 2017-06-21
 director:   Alis Locanta
 rating: 9.4
@@ -3670,7 +3670,7 @@ directorOfPhotography: Alis Locanta
 cinematographer: Alis Locanta
 cameraOperator: Alis Locanta, Heinz Cabro
 editor: Alis Locanta
-firstAc: Antoinette De Bevoise
+firstAC: Antoinette De Bevoise
 costumeDesigner: Eva Dividendo
 makeupArtist: Keren Delgado
 boomOperator: G.M. Cusa
@@ -3706,8 +3706,8 @@ title: The Assistant 2 - Accommodate
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/dorothy-black-and-rebecca-volpetti/movie/20170616/THE_ASSISTANT_EPISODE_2_-_ACCOMMODATE
-cast: Dorothy Black; https://www.vivthomas.com/model/dorothy-black; f
-cast: Rebecca Volpetti; https://www.vivthomas.com/model/rebecca-volpetti; f
+model: n:Dorothy Black; id:/model/vivthomas/dorothy-black; u:https://www.vivthomas.com/model/dorothy-black; g:f
+model: n:Rebecca Volpetti; id:/model/vivthomas/rebecca-volpetti; u:https://www.vivthomas.com/model/rebecca-volpetti; g:f
 released: 2017-06-16
 director:   Sandra Shine
 rating: 9.3
@@ -3759,8 +3759,8 @@ title: Angels 02.01 - Charming
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/adel-c-and-kalisy/movie/20170614/ANGELS_VOL_2_EPISODE_1_-_CHARMING
-cast: Adel C; https://www.vivthomas.com/model/adel-c; f
-cast: Kalisy; https://www.vivthomas.com/model/kalisy; f
+model: n:Adel C; id:/model/vivthomas/adel-c; u:https://www.vivthomas.com/model/adel-c; g:f
+model: n:Kalisy; id:/model/vivthomas/kalisy; u:https://www.vivthomas.com/model/kalisy; g:f
 released: 2017-06-14
 director:   Alis Locanta
 rating: 9.2
@@ -3818,8 +3818,8 @@ title: The Assistant 1 - Engaged
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/dorothy-black-and-isabella-lui/movie/20170609/THE_ASSISTANT_EPISODE_1_-_ENGAGED
-cast: Dorothy Black; https://www.vivthomas.com/model/dorothy-black; f
-cast: Isabella Lui; https://www.vivthomas.com/model/isabella-lui; f
+model: n:Dorothy Black; id:/model/vivthomas/dorothy-black; u:https://www.vivthomas.com/model/dorothy-black; g:f
+model: n:Isabella Lui; id:/model/vivthomas/isabella-lui; u:https://www.vivthomas.com/model/isabella-lui; g:f
 released: 2017-06-09
 director:   Sandra Shine
 rating: 9.4
@@ -3881,8 +3881,8 @@ title: Angels 01.01 - Passion
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/kira-zen-and-michelle-h/movie/20170607/ANGELS_VOL_1_EPISODE_1_-_PASSION
-cast: Kira Zen; https://www.vivthomas.com/model/kira-zen; f
-cast: Michelle H; https://www.vivthomas.com/model/michelle-h; f
+model: n:Kira Zen; id:/model/vivthomas/kira-zen; u:https://www.vivthomas.com/model/kira-zen; g:f
+model: n:Michelle H; id:/model/vivthomas/michelle-h; u:https://www.vivthomas.com/model/michelle-h; g:f
 released: 2017-06-07
 director:   Alis Locanta
 rating: 9.5
@@ -3902,7 +3902,7 @@ directorOfPhotography: Alis Locanta
 cinematographer: Alis Locanta
 cameraOperator: Alis Locanta, Heinz Cabro
 editor: Alis Locanta
-firstAc: Antoinette De Bevoise
+firstAC: Antoinette De Bevoise
 costumeDesigner: Eva Dividendo
 makeupArtist: Keren Delgado
 boomOperator: G.M. Cusa
@@ -3944,8 +3944,8 @@ title: Our Story 4 - Shower Sex
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/inna-innaki-and-amarna-miller/movie/20170602/OUR_STORY_EPISODE_4_-_SHOWER_SEX
-cast: Inna Innaki; https://www.vivthomas.com/model/inna-innaki; f
-cast: Amarna Miller; https://www.vivthomas.com/model/amarna-miller; f
+model: n:Inna Innaki; id:/model/vivthomas/inna-innaki; u:https://www.vivthomas.com/model/inna-innaki; g:f
+model: n:Amarna Miller; id:/model/vivthomas/amarna-miller; u:https://www.vivthomas.com/model/amarna-miller; g:f
 released: 2017-06-02
 director:   Alis Locanta
 rating: 9.3
@@ -4008,9 +4008,9 @@ title: Dark Desires 4 - Watch Us
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/dolly-diore-and-anina-silk-and-jenny-d/movie/20170531/DARK_DESIRES_EPISODE_4_-_WATCH_US
-cast: Dolly Diore; https://www.vivthomas.com/model/dolly-diore; f
-cast: Anina Silk; https://www.vivthomas.com/model/anina-silk; f
-cast: Jenny D; https://www.vivthomas.com/model/jenny-d; f
+model: n:Dolly Diore; id:/model/vivthomas/dolly-diore; u:https://www.vivthomas.com/model/dolly-diore; g:f
+model: n:Anina Silk; id:/model/vivthomas/anina-silk; u:https://www.vivthomas.com/model/anina-silk; g:f
+model: n:Jenny D; id:/model/vivthomas/jenny-d; u:https://www.vivthomas.com/model/jenny-d; g:f
 released: 2017-05-31
 director:   Sandra Shine
 rating: 9.3
@@ -4065,8 +4065,8 @@ title: Our Story 3 - Strap On
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/inna-innaki-and-amarna-miller/movie/20170526/OUR_STORY_EPISODE_3_-_STRAP_ON
-cast: Inna Innaki; https://www.vivthomas.com/model/inna-innaki; f
-cast: Amarna Miller; https://www.vivthomas.com/model/amarna-miller; f
+model: n:Inna Innaki; id:/model/vivthomas/inna-innaki; u:https://www.vivthomas.com/model/inna-innaki; g:f
+model: n:Amarna Miller; id:/model/vivthomas/amarna-miller; u:https://www.vivthomas.com/model/amarna-miller; g:f
 released: 2017-05-26
 director:   Alis Locanta
 rating: 9.3
@@ -4128,8 +4128,8 @@ title: Dark Desires 3 - Plead
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/delia-a-and-dolly-diore/movie/20170524/DARK_DESIRES_EPISODE_3_-_PLEAD
-cast: Delia A; https://www.vivthomas.com/model/delia-a; f
-cast: Dolly Diore; https://www.vivthomas.com/model/dolly-diore; f
+model: n:Delia A; id:/model/vivthomas/delia-a; u:https://www.vivthomas.com/model/delia-a; g:f
+model: n:Dolly Diore; id:/model/vivthomas/dolly-diore; u:https://www.vivthomas.com/model/dolly-diore; g:f
 released: 2017-05-24
 director:   Sandra Shine
 rating: 9.2
@@ -4178,8 +4178,8 @@ title: Our Story 2 - Touch
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/inna-innaki-and-amarna-miller/movie/20170519/OUR_STORY_EPISODE_2_-_TOUCH
-cast: Inna Innaki; https://www.vivthomas.com/model/inna-innaki; f
-cast: Amarna Miller; https://www.vivthomas.com/model/amarna-miller; f
+model: n:Inna Innaki; id:/model/vivthomas/inna-innaki; u:https://www.vivthomas.com/model/inna-innaki; g:f
+model: n:Amarna Miller; id:/model/vivthomas/amarna-miller; u:https://www.vivthomas.com/model/amarna-miller; g:f
 released: 2017-05-19
 director:   Alis Locanta
 rating: 9.3
@@ -4242,8 +4242,8 @@ title: Dark Desires 2 - Obedient
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/dolly-diore-and-sasha-rose/movie/20170517/DARK_DESIRES_EPISODE_2_-_OBEDIENT
-cast: Dolly Diore; https://www.vivthomas.com/model/dolly-diore; f
-cast: Sasha Rose; https://www.vivthomas.com/model/sasha-rose; f
+model: n:Dolly Diore; id:/model/vivthomas/dolly-diore; u:https://www.vivthomas.com/model/dolly-diore; g:f
+model: n:Sasha Rose; id:/model/vivthomas/sasha-rose; u:https://www.vivthomas.com/model/sasha-rose; g:f
 released: 2017-05-17
 director:   Sandra Shine
 rating: 9.2
@@ -4302,8 +4302,8 @@ title: Our Story 1 - Oral Sex
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/amarna-miller-and-inna-innaki/movie/20170512/OUR_STORY_EPISODE_1_-_ORAL_SEX
-cast: Amarna Miller; https://www.vivthomas.com/model/amarna-miller; f
-cast: Inna Innaki; https://www.vivthomas.com/model/inna-innaki; f
+model: n:Amarna Miller; id:/model/vivthomas/amarna-miller; u:https://www.vivthomas.com/model/amarna-miller; g:f
+model: n:Inna Innaki; id:/model/vivthomas/inna-innaki; u:https://www.vivthomas.com/model/inna-innaki; g:f
 released: 2017-05-12
 director:   Alis Locanta
 rating: 9.4
@@ -4323,7 +4323,7 @@ directorOfPhotography: Alis Locanta
 cinematographer: Alis Locanta
 cameraOperator: Heinz Cabro, Alis Locanta
 editor: Alis Locanta
-firstAc: Antoinette De Bevoise
+firstAC: Antoinette De Bevoise
 costumeDesigner: Eva Dividendo
 makeupArtist: Keren Delgado
 boomOperator: G.M. Cusa
@@ -4360,8 +4360,8 @@ title: Dark Desires 1 - Discipline
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/misha-cross-and-dolly-diore/movie/20170510/DARK_DESIRES_EPISODE_1_-_DISCIPLINE
-cast: Misha Cross; https://www.vivthomas.com/model/misha-cross; f
-cast: Dolly Diore; https://www.vivthomas.com/model/dolly-diore; f
+model: n:Misha Cross; id:/model/vivthomas/misha-cross; u:https://www.vivthomas.com/model/misha-cross; g:f
+model: n:Dolly Diore; id:/model/vivthomas/dolly-diore; u:https://www.vivthomas.com/model/dolly-diore; g:f
 released: 2017-05-10
 director:   Sandra Shine
 rating: 9.2
@@ -4413,8 +4413,8 @@ title: Lesbian Stories 01.04 - Fantasy
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/anissa-kate-and-talia-mint/movie/20170505/LESBIAN_STORIES_VOL_1_EPISODE_4_-_FANTASY
-cast: Anissa Kate; https://www.vivthomas.com/model/anissa-kate; f
-cast: Talia Mint; https://www.vivthomas.com/model/talia-mint; f
+model: n:Anissa Kate; id:/model/vivthomas/anissa-kate; u:https://www.vivthomas.com/model/anissa-kate; g:f
+model: n:Talia Mint; id:/model/vivthomas/talia-mint; u:https://www.vivthomas.com/model/talia-mint; g:f
 released: 2017-05-05
 director:   Alis Locanta
 rating: 9.3
@@ -4434,7 +4434,7 @@ directorOfPhotography: Alis Locanta
 cinematographer: Alis Locanta
 cameraOperator: Heinz Cabro, Alis Locanta
 editor: Alis Locanta
-firstAc: Antoinette De Bevoise
+firstAC: Antoinette De Bevoise
 makeupArtist: Keren Delgado
 boomOperator: G.M. Cusa
 gaffer: Juan Del Diablo
@@ -4458,8 +4458,8 @@ title: Winter Warmers 4 - Sledding
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/verona-sky-and-linda-moretti/movie/20170503/WINTER_WARMERS_EPISODE_4_-_SLEDDING
-cast: Verona Sky; https://www.vivthomas.com/model/verona-sky; f
-cast: Linda Moretti; https://www.vivthomas.com/model/linda-moretti; f
+model: n:Verona Sky; id:/model/vivthomas/verona-sky; u:https://www.vivthomas.com/model/verona-sky; g:f
+model: n:Linda Moretti; id:/model/vivthomas/linda-moretti; u:https://www.vivthomas.com/model/linda-moretti; g:f
 released: 2017-05-03
 director:   Sandra Shine
 rating: 9.2
@@ -4494,8 +4494,8 @@ title: Lesbian Stories 01.03 - Fable
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/lucy-heart-and-talia-mint/movie/20170428/LESBIAN_STORIES_VOL_1_EPISODE_3_-_FABLE
-cast: Lucy Heart; https://www.vivthomas.com/model/lucy-heart; f
-cast: Talia Mint; https://www.vivthomas.com/model/talia-mint; f
+model: n:Lucy Heart; id:/model/vivthomas/lucy-heart; u:https://www.vivthomas.com/model/lucy-heart; g:f
+model: n:Talia Mint; id:/model/vivthomas/talia-mint; u:https://www.vivthomas.com/model/talia-mint; g:f
 released: 2017-04-28
 director:   Alis Locanta
 rating: 9.4
@@ -4515,7 +4515,7 @@ directorOfPhotography: Alis Locanta
 cinematographer: Alis Locanta
 cameraOperator: Alis Locanta, Heinz Cabro
 editor: Alis Locanta
-firstAc: Antoinette De Bevoise
+firstAC: Antoinette De Bevoise
 makeupArtist: Keren Delgado
 boomOperator: G.M. Cusa
 tag: anal
@@ -4538,8 +4538,8 @@ title: Winter Warmers 3 - Frustrated
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/athina-and-zafira-a/movie/20170426/WINTER_WARMERS_EPISODE_3_-_FRUSTRATED
-cast: Athina; https://www.vivthomas.com/model/athina; f
-cast: Zafira A; https://www.vivthomas.com/model/zafira-a; f
+model: n:Athina; id:/model/vivthomas/athina; u:https://www.vivthomas.com/model/athina; g:f
+model: n:Zafira A; id:/model/vivthomas/zafira-a; u:https://www.vivthomas.com/model/zafira-a; g:f
 released: 2017-04-26
 director:   Sandra Shine
 rating: 9.4
@@ -4570,8 +4570,8 @@ title: Lesbian Stories 01.02 - Fiction
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/lucy-heart-and-anissa-kate/movie/20170421/LESBIAN_STORIES_VOL_1_EPISODE_2_-_FICTION
-cast: Lucy Heart; https://www.vivthomas.com/model/lucy-heart; f
-cast: Anissa Kate; https://www.vivthomas.com/model/anissa-kate; f
+model: n:Lucy Heart; id:/model/vivthomas/lucy-heart; u:https://www.vivthomas.com/model/lucy-heart; g:f
+model: n:Anissa Kate; id:/model/vivthomas/anissa-kate; u:https://www.vivthomas.com/model/anissa-kate; g:f
 released: 2017-04-21
 director:   Alis Locanta
 rating: 9.5
@@ -4591,7 +4591,7 @@ directorOfPhotography: Alis Locanta
 cinematographer: Alis Locanta
 cameraOperator: Alis Locanta, Heinz Cabro
 editor: Alis Locanta
-firstAc: Antoinette De Bevoise
+firstAC: Antoinette De Bevoise
 makeupArtist: Keren Delgado
 boomOperator: G.M. Cusa
 gaffer: Juan Del Diablo
@@ -4631,8 +4631,8 @@ title: Winter Warmers 2 - Snow Angels
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/vicky-love-and-candy-alexa/movie/20170419/WINTER_WARMERS_EPISODE_2_-_SNOW_ANGELS
-cast: Vicky Love; https://www.vivthomas.com/model/vicky-love; f
-cast: Candy Alexa; https://www.vivthomas.com/model/candy-alexa; f
+model: n:Vicky Love; id:/model/vivthomas/vicky-love; u:https://www.vivthomas.com/model/vicky-love; g:f
+model: n:Candy Alexa; id:/model/vivthomas/candy-alexa; u:https://www.vivthomas.com/model/candy-alexa; g:f
 released: 2017-04-19
 director:   Sandra Shine
 rating: 9.3
@@ -4695,8 +4695,8 @@ title: Lesbian Stories 01.01 - Memoir
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/anissa-kate-and-talia-mint/movie/20170414/LESBIAN_STORIES_VOL_1_EPISODE_1_-_MEMOIR
-cast: Anissa Kate; https://www.vivthomas.com/model/anissa-kate; f
-cast: Talia Mint; https://www.vivthomas.com/model/talia-mint; f
+model: n:Anissa Kate; id:/model/vivthomas/anissa-kate; u:https://www.vivthomas.com/model/anissa-kate; g:f
+model: n:Talia Mint; id:/model/vivthomas/talia-mint; u:https://www.vivthomas.com/model/talia-mint; g:f
 released: 2017-04-14
 director:   Alis Locanta
 rating: 9.3
@@ -4753,8 +4753,8 @@ title: Winter Warmers 1 - Ice Skating
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/rebecca-volpetti-and-sasha-rose/movie/20170412/WINTER_WARMERS_EPISODE_1_-_ICE_SKATING
-cast: Rebecca Volpetti; https://www.vivthomas.com/model/rebecca-volpetti; f
-cast: Sasha Rose; https://www.vivthomas.com/model/sasha-rose; f
+model: n:Rebecca Volpetti; id:/model/vivthomas/rebecca-volpetti; u:https://www.vivthomas.com/model/rebecca-volpetti; g:f
+model: n:Sasha Rose; id:/model/vivthomas/sasha-rose; u:https://www.vivthomas.com/model/sasha-rose; g:f
 released: 2017-04-12
 director:   Sandra Shine
 rating: 9.4
@@ -4809,8 +4809,8 @@ title: Outlines Reloaded 4 - Licentious
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/cassie-fire-and-penelope-cum/movie/20170407/OUTLINES_RELOADED_EPISODE_4_-_LICENTIOUS
-cast: Cassie Fire; https://www.vivthomas.com/model/cassie-fire; f
-cast: Penelope Cum; https://www.vivthomas.com/model/penelope-cum; f
+model: n:Cassie Fire; id:/model/vivthomas/cassie-fire; u:https://www.vivthomas.com/model/cassie-fire; g:f
+model: n:Penelope Cum; id:/model/vivthomas/penelope-cum; u:https://www.vivthomas.com/model/penelope-cum; g:f
 released: 2017-04-07
 director:   Alis Locanta
 rating: 9.1
@@ -4875,9 +4875,9 @@ title: Eve's Blind Dates 4 - Date Night
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/anie-darling-and-selena-mur-and-eve-angel/movie/20170405/EVE_S_BLIND_DATES_EPISODE_4_-_DATE_NIGHT
-cast: Anie Darling; https://www.vivthomas.com/model/anie-darling; f
-cast: Selena Mur; https://www.vivthomas.com/model/selena-mur; f
-cast: Eve Angel; https://www.vivthomas.com/model/eve-angel; f
+model: n:Anie Darling; id:/model/vivthomas/anie-darling; u:https://www.vivthomas.com/model/anie-darling; g:f
+model: n:Selena Mur; id:/model/vivthomas/selena-mur; u:https://www.vivthomas.com/model/selena-mur; g:f
+model: n:Eve Angel; id:/model/vivthomas/eve-angel; u:https://www.vivthomas.com/model/eve-angel; g:f
 released: 2017-04-05
 director:   Sandra Shine
 rating: 9.4
@@ -4928,8 +4928,8 @@ title: House Of Dreams 4 - Imagination
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/clea-gaultier-and-paula-shy/movie/20170331/HOUSE_OF_DREAMS_EPISODE_4_-_IMAGINATION
-cast: Clea Gaultier; https://www.vivthomas.com/model/clea-gaultier; f
-cast: Paula Shy; https://www.vivthomas.com/model/paula-shy; f
+model: n:Clea Gaultier; id:/model/vivthomas/clea-gaultier; u:https://www.vivthomas.com/model/clea-gaultier; g:f
+model: n:Paula Shy; id:/model/vivthomas/paula-shy; u:https://www.vivthomas.com/model/paula-shy; g:f
 released: 2017-03-31
 director:   Alis Locanta
 rating: 9.3
@@ -4984,9 +4984,9 @@ title: Eve's Blind Dates 3 - Playful
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/jessica-lincoln-and-gina-gerson-and-eve-angel/movie/20170329/EVE_S_BLIND_DATES_EPISODE_3_-_PLAYFUL
-cast: Jessica Lincoln; https://www.vivthomas.com/model/jessica-lincoln; f
-cast: Gina Gerson; https://www.vivthomas.com/model/gina-gerson; f
-cast: Eve Angel; https://www.vivthomas.com/model/eve-angel; f
+model: n:Jessica Lincoln; id:/model/vivthomas/jessica-lincoln; u:https://www.vivthomas.com/model/jessica-lincoln; g:f
+model: n:Gina Gerson; id:/model/vivthomas/gina-gerson; u:https://www.vivthomas.com/model/gina-gerson; g:f
+model: n:Eve Angel; id:/model/vivthomas/eve-angel; u:https://www.vivthomas.com/model/eve-angel; g:f
 released: 2017-03-29
 director:   Sandra Shine
 rating: 9.4
@@ -5038,8 +5038,8 @@ title: Outlines Reloaded 3 - Dissolute
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/penelope-cum-and-stella-cox/movie/20170324/OUTLINES_RELOADED_EPISODE_3_-_DISSOLUTE
-cast: Penelope Cum; https://www.vivthomas.com/model/penelope-cum; f
-cast: Stella Cox; https://www.vivthomas.com/model/stella-cox; f
+model: n:Penelope Cum; id:/model/vivthomas/penelope-cum; u:https://www.vivthomas.com/model/penelope-cum; g:f
+model: n:Stella Cox; id:/model/vivthomas/stella-cox; u:https://www.vivthomas.com/model/stella-cox; g:f
 released: 2017-03-24
 director:   Alis Locanta
 rating: 9.1
@@ -5107,9 +5107,9 @@ title: Eve's Blind Dates 2 - Abrasive
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/eve-angel-and-taissia-a-and-dorothy-black/movie/20170322/EVE_S_BLIND_DATES_EPISODE_2_-_ABRASIVE
-cast: Eve Angel; https://www.vivthomas.com/model/eve-angel; f
-cast: Taissia A; https://www.vivthomas.com/model/taissia-a; f
-cast: Dorothy Black; https://www.vivthomas.com/model/dorothy-black; f
+model: n:Eve Angel; id:/model/vivthomas/eve-angel; u:https://www.vivthomas.com/model/eve-angel; g:f
+model: n:Taissia A; id:/model/vivthomas/taissia-a; u:https://www.vivthomas.com/model/taissia-a; g:f
+model: n:Dorothy Black; id:/model/vivthomas/dorothy-black; u:https://www.vivthomas.com/model/dorothy-black; g:f
 released: 2017-03-22
 director:   Sandra Shine
 rating: 9.5
@@ -5187,8 +5187,8 @@ title: Let's Play
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/tracy-lindsay-and-tess-a/movie/20170320/LET_S_PLAY
-cast: Tracy Lindsay; https://www.vivthomas.com/model/tracy-lindsay; f
-cast: Tess A; https://www.vivthomas.com/model/tess-a; f
+model: n:Tracy Lindsay; id:/model/vivthomas/tracy-lindsay; u:https://www.vivthomas.com/model/tracy-lindsay; g:f
+model: n:Tess A; id:/model/vivthomas/tess-a; u:https://www.vivthomas.com/model/tess-a; g:f
 released: 2017-03-20
 director:   J. Zakari
 rating: 9.4
@@ -5246,8 +5246,8 @@ title: House of Dreams 3 - Obedient
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/jimena-lago-and-alexa-tomas/movie/20170317/HOUSE_OF_DREAMS_EPISODE_3_-_OBEDIENT
-cast: Jimena Lago; https://www.vivthomas.com/model/jimena-lago; f
-cast: Alexa Tomas; https://www.vivthomas.com/model/alexa-tomas; f
+model: n:Jimena Lago; id:/model/vivthomas/jimena-lago; u:https://www.vivthomas.com/model/jimena-lago; g:f
+model: n:Alexa Tomas; id:/model/vivthomas/alexa-tomas; u:https://www.vivthomas.com/model/alexa-tomas; g:f
 released: 2017-03-17
 director:   Alis Locanta
 rating: 9.1
@@ -5321,9 +5321,9 @@ title: Eve's Blind Dates 1 - Reveal
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/rebecca-volpetti-and-olivia-grace-and-eve-angel/movie/20170315/EVE_S_BLIND_DATES_EPISODE_1_-_REVEAL
-cast: Rebecca Volpetti; https://www.vivthomas.com/model/rebecca-volpetti; f
-cast: Olivia Grace; https://www.vivthomas.com/model/olivia-grace; f
-cast: Eve Angel; https://www.vivthomas.com/model/eve-angel; f
+model: n:Rebecca Volpetti; id:/model/vivthomas/rebecca-volpetti; u:https://www.vivthomas.com/model/rebecca-volpetti; g:f
+model: n:Olivia Grace; id:/model/vivthomas/olivia-grace; u:https://www.vivthomas.com/model/olivia-grace; g:f
+model: n:Eve Angel; id:/model/vivthomas/eve-angel; u:https://www.vivthomas.com/model/eve-angel; g:f
 released: 2017-03-15
 director:   Sandra Shine
 rating: 9.3
@@ -5398,8 +5398,8 @@ title: Outlines Reloaded 2 - Enigmatic
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/cassie-fire-and-penelope-cum/movie/20170310/OUTLINES_RELOADED_EPISODE_2_-_ENIGMATIC
-cast: Cassie Fire; https://www.vivthomas.com/model/cassie-fire; f
-cast: Penelope Cum; https://www.vivthomas.com/model/penelope-cum; f
+model: n:Cassie Fire; id:/model/vivthomas/cassie-fire; u:https://www.vivthomas.com/model/cassie-fire; g:f
+model: n:Penelope Cum; id:/model/vivthomas/penelope-cum; u:https://www.vivthomas.com/model/penelope-cum; g:f
 released: 2017-03-10
 director:   Alis Locanta
 rating: 9.3
@@ -5472,8 +5472,8 @@ title: Luna's Heavenly Bodies 4 - The Seduction
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/luna-corazon-and-katrin-tequila/movie/20170308/LUNA_S_HEAVENLY_BODIES_EPISODE_4_-_THE_SEDUCTION
-cast: Luna Corazon; https://www.vivthomas.com/model/luna-corazon; f
-cast: Katrin Tequila; https://www.vivthomas.com/model/katrin-tequila; f
+model: n:Luna Corazon; id:/model/vivthomas/luna-corazon; u:https://www.vivthomas.com/model/luna-corazon; g:f
+model: n:Katrin Tequila; id:/model/vivthomas/katrin-tequila; u:https://www.vivthomas.com/model/katrin-tequila; g:f
 released: 2017-03-08
 director:   Sandra Shine
 rating: 9.3
@@ -5544,8 +5544,8 @@ title: House of Dreams 2 - Entranced
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/clea-gaultier-and-alexa-tomas/movie/20170303/HOUSE_OF_DREAMS_EPISODE_2_-_ENTRANCED
-cast: Clea Gaultier; https://www.vivthomas.com/model/clea-gaultier; f
-cast: Alexa Tomas; https://www.vivthomas.com/model/alexa-tomas; f
+model: n:Clea Gaultier; id:/model/vivthomas/clea-gaultier; u:https://www.vivthomas.com/model/clea-gaultier; g:f
+model: n:Alexa Tomas; id:/model/vivthomas/alexa-tomas; u:https://www.vivthomas.com/model/alexa-tomas; g:f
 released: 2017-03-03
 director:   Alis Locanta
 rating: 9.2
@@ -5619,8 +5619,8 @@ title: Luna's Heavenly Bodies 3 - The Dancer
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/stella-cox-and-luna-corazon/movie/20170301/LUNA_S_HEAVENLY_BODIES_EPISODE_3_-_THE_DANCER
-cast: Stella Cox; https://www.vivthomas.com/model/stella-cox; f
-cast: Luna Corazon; https://www.vivthomas.com/model/luna-corazon; f
+model: n:Stella Cox; id:/model/vivthomas/stella-cox; u:https://www.vivthomas.com/model/stella-cox; g:f
+model: n:Luna Corazon; id:/model/vivthomas/luna-corazon; u:https://www.vivthomas.com/model/luna-corazon; g:f
 released: 2017-03-01
 director:   Sandra Shine
 rating: 9.3
@@ -5675,8 +5675,8 @@ title: Outlines Reloaded 1 - Mysterious
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/stella-cox-and-penelope-cum/movie/20170224/OUTLINES_RELOADED_EPISODE_1_-_MYSTERIOUS
-cast: Stella Cox; https://www.vivthomas.com/model/stella-cox; f
-cast: Penelope Cum; https://www.vivthomas.com/model/penelope-cum; f
+model: n:Stella Cox; id:/model/vivthomas/stella-cox; u:https://www.vivthomas.com/model/stella-cox; g:f
+model: n:Penelope Cum; id:/model/vivthomas/penelope-cum; u:https://www.vivthomas.com/model/penelope-cum; g:f
 released: 2017-02-24
 director:   Alis Locanta
 rating: 9.4
@@ -5739,8 +5739,8 @@ title: Luna's Heavenly Bodies 2 - The Blackout
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/liona-levi-and-luna-corazon/movie/20170222/LUNA_S_HEAVENLY_BODIES_EPISODE_2_-_THE_BLACKOUT
-cast: Liona Levi; https://www.vivthomas.com/model/liona-levi; f
-cast: Luna Corazon; https://www.vivthomas.com/model/luna-corazon; f
+model: n:Liona Levi; id:/model/vivthomas/liona-levi; u:https://www.vivthomas.com/model/liona-levi; g:f
+model: n:Luna Corazon; id:/model/vivthomas/luna-corazon; u:https://www.vivthomas.com/model/luna-corazon; g:f
 released: 2017-02-22
 director:   Sandra Shine
 rating: 9.3
@@ -5804,8 +5804,8 @@ title: House of Dreams 1 - Impression
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/paula-shy-and-jimena-lago/movie/20170217/HOUSE_OF_DREAMS_EPISODE_1_-_IMPRESSION
-cast: Paula Shy; https://www.vivthomas.com/model/paula-shy; f
-cast: Jimena Lago; https://www.vivthomas.com/model/jimena-lago; f
+model: n:Paula Shy; id:/model/vivthomas/paula-shy; u:https://www.vivthomas.com/model/paula-shy; g:f
+model: n:Jimena Lago; id:/model/vivthomas/jimena-lago; u:https://www.vivthomas.com/model/jimena-lago; g:f
 released: 2017-02-17
 director:   Alis Locanta
 rating: 9.3
@@ -5880,8 +5880,8 @@ title: Luna's Heavenly Bodies 1 - The Translator
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/luna-corazon-and-frida-sante/movie/20170215/LUNA_S_HEAVENLY_BODIES_EPISODE_1_-_THE_TRANSLATOR
-cast: Luna Corazon; https://www.vivthomas.com/model/luna-corazon; f
-cast: Frida Sante; https://www.vivthomas.com/model/frida-sante; f
+model: n:Luna Corazon; id:/model/vivthomas/luna-corazon; u:https://www.vivthomas.com/model/luna-corazon; g:f
+model: n:Frida Sante; id:/model/vivthomas/frida-sante; u:https://www.vivthomas.com/model/frida-sante; g:f
 released: 2017-02-15
 director:   Sandra Shine
 rating: 9.3
@@ -5937,8 +5937,8 @@ title: Summer Memories 4 - Retrospect
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/nikita-bellucci-and-julia-roca/movie/20170210/SUMMER_MEMORIES_EPISODE_4_-_RETROSPECT
-cast: Nikita Bellucci; https://www.vivthomas.com/model/nikita-bellucci; f
-cast: Julia Roca; https://www.vivthomas.com/model/julia-roca; f
+model: n:Nikita Bellucci; id:/model/vivthomas/nikita-bellucci; u:https://www.vivthomas.com/model/nikita-bellucci; g:f
+model: n:Julia Roca; id:/model/vivthomas/julia-roca; u:https://www.vivthomas.com/model/julia-roca; g:f
 released: 2017-02-10
 director:   Alis Locanta
 rating: 9.3
@@ -6007,8 +6007,8 @@ title: My First - Reloaded 4 - Steamy
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/nataly-von-and-lexi-dona/movie/20170208/MY_FIRST_-_RELOADED_EPISODE_4_-_STEAMY
-cast: Nataly Von; https://www.vivthomas.com/model/nataly-von; f
-cast: Lexi Dona; https://www.vivthomas.com/model/lexi-dona; f
+model: n:Nataly Von; id:/model/vivthomas/nataly-von; u:https://www.vivthomas.com/model/nataly-von; g:f
+model: n:Lexi Dona; id:/model/vivthomas/lexi-dona; u:https://www.vivthomas.com/model/lexi-dona; g:f
 released: 2017-02-08
 director:   Alis Locanta
 rating: 9.2
@@ -6080,8 +6080,8 @@ title: Vox Reloaded 4 - Enjoyment
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/paula-shy-and-sweet-cat/movie/20170203/VOX_RELOADED_EPISODE_4_-_ENJOYMENT
-cast: Paula Shy; https://www.vivthomas.com/model/paula-shy; f
-cast: Sweet Cat; https://www.vivthomas.com/model/sweet-cat; f
+model: n:Paula Shy; id:/model/vivthomas/paula-shy; u:https://www.vivthomas.com/model/paula-shy; g:f
+model: n:Sweet Cat; id:/model/vivthomas/sweet-cat; u:https://www.vivthomas.com/model/sweet-cat; g:f
 released: 2017-02-03
 director:   Alis Locanta
 rating: 9.4
@@ -6138,9 +6138,9 @@ title: All About Me 4 - Insatiable
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/lexi-dona-and-nataly-von-and-paula-shy/movie/20170201/ALL_ABOUT_ME_EPISODE_4_-_INSATIABLE
-cast: Lexi Dona; https://www.vivthomas.com/model/lexi-dona; f
-cast: Nataly Von; https://www.vivthomas.com/model/nataly-von; f
-cast: Paula Shy; https://www.vivthomas.com/model/paula-shy; f
+model: n:Lexi Dona; id:/model/vivthomas/lexi-dona; u:https://www.vivthomas.com/model/lexi-dona; g:f
+model: n:Nataly Von; id:/model/vivthomas/nataly-von; u:https://www.vivthomas.com/model/nataly-von; g:f
+model: n:Paula Shy; id:/model/vivthomas/paula-shy; u:https://www.vivthomas.com/model/paula-shy; g:f
 released: 2017-02-01
 director:   Alis Locanta
 rating: 9.3
@@ -6215,8 +6215,8 @@ title: Summer Memories 3 - Recapture
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/julia-roca-and-noe-milk/movie/20170127/SUMMER_MEMORIES_EPISODE_3_-_RECAPTURE
-cast: Julia Roca; https://www.vivthomas.com/model/julia-roca; f
-cast: Noe Milk; https://www.vivthomas.com/model/noe-milk; f
+model: n:Julia Roca; id:/model/vivthomas/julia-roca; u:https://www.vivthomas.com/model/julia-roca; g:f
+model: n:Noe Milk; id:/model/vivthomas/noe-milk; u:https://www.vivthomas.com/model/noe-milk; g:f
 released: 2017-01-27
 director:   Alis Locanta
 rating: 9.3
@@ -6286,8 +6286,8 @@ title: Androgynous 4 - The Driver
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/rina-ellis-and-frida-sante/movie/20170125/ANDROGYNOUS_EPISODE_4_-_THE_DRIVER
-cast: Rina Ellis; https://www.vivthomas.com/model/rina-ellis; f
-cast: Frida Sante; https://www.vivthomas.com/model/frida-sante; f
+model: n:Rina Ellis; id:/model/vivthomas/rina-ellis; u:https://www.vivthomas.com/model/rina-ellis; g:f
+model: n:Frida Sante; id:/model/vivthomas/frida-sante; u:https://www.vivthomas.com/model/frida-sante; g:f
 released: 2017-01-25
 director:   Sandra Shine
 rating: 9.4
@@ -6354,8 +6354,8 @@ title: My First - Reloaded 3 - Impede
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/nikita-bellucci-and-sweet-cat/movie/20170120/MY_FIRST_-_RELOADED_EPISODE_3_-_IMPEDE
-cast: Nikita Bellucci; https://www.vivthomas.com/model/nikita-bellucci; f
-cast: Sweet Cat; https://www.vivthomas.com/model/sweet-cat; f
+model: n:Nikita Bellucci; id:/model/vivthomas/nikita-bellucci; u:https://www.vivthomas.com/model/nikita-bellucci; g:f
+model: n:Sweet Cat; id:/model/vivthomas/sweet-cat; u:https://www.vivthomas.com/model/sweet-cat; g:f
 released: 2017-01-20
 director:   Alis Locanta
 rating: 9.3
@@ -6424,8 +6424,8 @@ title: Androgynous 3 - The Dancer
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/kerry-cherry-and-roxy-dee/movie/20170118/ANDROGYNOUS_EPISODE_3_-_THE_DANCER
-cast: Kerry Cherry; https://www.vivthomas.com/model/kerry-cherry; f
-cast: Roxy Dee; https://www.vivthomas.com/model/roxy-dee; f
+model: n:Kerry Cherry; id:/model/vivthomas/kerry-cherry; u:https://www.vivthomas.com/model/kerry-cherry; g:f
+model: n:Roxy Dee; id:/model/vivthomas/roxy-dee; u:https://www.vivthomas.com/model/roxy-dee; g:f
 released: 2017-01-18
 director:   Sandra Shine
 rating: 9.4
@@ -6489,8 +6489,8 @@ title: Vox Reloaded 3 - Joyful
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/sweet-cat-and-nataly-von/movie/20170113/VOX_RELOADED_EPISODE_3_-_JOYFUL
-cast: Sweet Cat; https://www.vivthomas.com/model/sweet-cat; f
-cast: Nataly Von; https://www.vivthomas.com/model/nataly-von; f
+model: n:Sweet Cat; id:/model/vivthomas/sweet-cat; u:https://www.vivthomas.com/model/sweet-cat; g:f
+model: n:Nataly Von; id:/model/vivthomas/nataly-von; u:https://www.vivthomas.com/model/nataly-von; g:f
 released: 2017-01-13
 director:   Alis Locanta
 rating: 9.3
@@ -6508,7 +6508,7 @@ executiveProducer: MetArt Films
 directorOfPhotography: Alis Locanta
 cameraOperator: Heinz Cabro, Alis Locanta
 editor: Alis Locanta
-firstAc: Antoinette De Bevoise
+firstAC: Antoinette De Bevoise
 costumeDesigner: Eva Dividendo
 makeupArtist: Mariana Villareal
 boomOperator: G.M. Cusa
@@ -6562,8 +6562,8 @@ title: Androgynous 2 - The Mechanic
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/stasy-rivera-and-aislin/movie/20170111/ANDROGYNOUS_EPISODE_2_-_THE_MECHANIC
-cast: Stasy Rivera; https://www.vivthomas.com/model/stasy-rivera; f
-cast: Aislin; https://www.vivthomas.com/model/aislin; f
+model: n:Stasy Rivera; id:/model/vivthomas/stasy-rivera; u:https://www.vivthomas.com/model/stasy-rivera; g:f
+model: n:Aislin; id:/model/vivthomas/aislin; u:https://www.vivthomas.com/model/aislin; g:f
 released: 2017-01-11
 director:   Sandra Shine
 rating: 9.2
@@ -6634,8 +6634,8 @@ title: All About Me 3 - Avaricious
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/lexi-dona-and-paula-shy/movie/20170106/ALL_ABOUT_ME_EPISODE_3_-_AVARICIOUS
-cast: Lexi Dona; https://www.vivthomas.com/model/lexi-dona; f
-cast: Paula Shy; https://www.vivthomas.com/model/paula-shy; f
+model: n:Lexi Dona; id:/model/vivthomas/lexi-dona; u:https://www.vivthomas.com/model/lexi-dona; g:f
+model: n:Paula Shy; id:/model/vivthomas/paula-shy; u:https://www.vivthomas.com/model/paula-shy; g:f
 released: 2017-01-06
 director:   Alis Locanta
 rating: 9.2
@@ -6714,8 +6714,8 @@ title: Androgynous 1 - The Stalker
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/luna-corazon-and-kira-thorn/movie/20170104/ANDROGYNOUS_EPISODE_1_-_THE_STALKER
-cast: Luna Corazon; https://www.vivthomas.com/model/luna-corazon; f
-cast: Kira Thorn; https://www.vivthomas.com/model/kira-thorn; f
+model: n:Luna Corazon; id:/model/vivthomas/luna-corazon; u:https://www.vivthomas.com/model/luna-corazon; g:f
+model: n:Kira Thorn; id:/model/vivthomas/kira-thorn; u:https://www.vivthomas.com/model/kira-thorn; g:f
 released: 2017-01-04
 director:   Sandra Shine
 rating: 9.3

@@ -8,7 +8,7 @@
 title: Sweet 18
 type: movie
 site: MetArt
-cast: n:Shiva A; u:https://www.metart.com/model/shiva-a; g:f
+model: n:Shiva A; id:/model/metart/shiva-a; u:https://www.metart.com/model/shiva-a; g:f
 released: 2005-12-27
 director: Magoo
 fileprefix: MetArt-20051227-sweet-18-
@@ -23,7 +23,7 @@ description: xxx
 title: Absolute
 type: movie
 site: MetArt
-cast: n:Juman; u:https://www.metart.com/model/juman; g:f
+model: n:Juman; id:/model/metart/juman; u:https://www.metart.com/model/juman; g:f
 released: 2005-12-23
 director: Voronin
 fileprefix: MetArt-20051223-absolute-
@@ -38,7 +38,7 @@ description: xxx
 title: Trace
 type: movie
 site: MetArt
-cast: n:Jade A; u:https://www.metart.com/model/jade-a; g:f
+model: n:Jade A; id:/model/metart/jade-a; u:https://www.metart.com/model/jade-a; g:f
 released: 2005-12-20
 director: Gubin
 fileprefix: MetArt-20051220-trace-
@@ -53,7 +53,7 @@ description: xxx
 title: Blondissima
 type: movie
 site: MetArt
-cast: n:Ulya E; u:https://www.metart.com/model/ulya-e; g:f
+model: n:Ulya E; id:/model/metart/ulya-e; u:https://www.metart.com/model/ulya-e; g:f
 released: 2005-12-17
 director: Goncharov
 fileprefix: MetArt-20051217-blondissima-
@@ -68,7 +68,7 @@ description: xxx
 title: The Diary
 type: movie
 site: MetArt
-cast: n:Lidiya A; u:https://www.metart.com/model/lidiya-a; g:f
+model: n:Lidiya A; id:/model/metart/lidiya-a; u:https://www.metart.com/model/lidiya-a; g:f
 released: 2005-12-07
 director: Sunrise
 fileprefix: MetArt-20051207-the-diary-
@@ -83,7 +83,7 @@ description: xxx
 title: Infinity
 type: movie
 site: MetArt
-cast: n:Jade A; u:https://www.metart.com/model/jade-a; g:f
+model: n:Jade A; id:/model/metart/jade-a; u:https://www.metart.com/model/jade-a; g:f
 released: 2005-12-04
 director: Gubin
 fileprefix: MetArt-20051204-infinity-
@@ -98,7 +98,7 @@ description: xxx
 title: Original Sin
 type: movie
 site: MetArt
-cast: n:Vika R; u:https://www.metart.com/model/vika-r; g:f
+model: n:Vika R; id:/model/metart/vika-r; u:https://www.metart.com/model/vika-r; g:f
 released: 2005-12-01
 director: Tsumibito
 fileprefix: MetArt-20051201-original-sin-
@@ -113,7 +113,7 @@ description: xxx
 title: Vera's First Movie
 type: movie
 site: MetArt
-cast: n:Vera C; u:https://www.metart.com/model/vera-c; g:f
+model: n:Vera C; id:/model/metart/vera-c; u:https://www.metart.com/model/vera-c; g:f
 released: 2005-12-01
 director: Goncharov
 fileprefix: MetArt-20051201-vera-s-first-movie-
@@ -128,7 +128,7 @@ description: xxx
 title: Live Session With Natasha
 type: movie
 site: MetArt
-cast: n:Natasha G; u:https://www.metart.com/model/natasha-g; g:f
+model: n:Natasha G; id:/model/metart/natasha-g; u:https://www.metart.com/model/natasha-g; g:f
 released: 2005-11-26
 director: Gubin
 fileprefix: MetArt-20051126-live-session-with-natasha-
@@ -143,7 +143,7 @@ description: xxx
 title: Jade's First Movie
 type: movie
 site: MetArt
-cast: n:Jade A; u:https://www.metart.com/model/jade-a; g:f
+model: n:Jade A; id:/model/metart/jade-a; u:https://www.metart.com/model/jade-a; g:f
 released: 2005-11-21
 director: Gubin
 fileprefix: MetArt-20051121-jade-s-first-movie-
@@ -158,7 +158,7 @@ description: xxx
 title: Yana On Video
 type: movie
 site: MetArt
-cast: n:Yana A; u:https://www.metart.com/model/yana-a; g:f
+model: n:Yana A; id:/model/metart/yana-a; u:https://www.metart.com/model/yana-a; g:f
 released: 2005-11-15
 director: Richard Murrian
 fileprefix: MetArt-20051115-yana-on-video-
@@ -173,7 +173,7 @@ description: xxx
 title: Inna's First Movie
 type: movie
 site: MetArt
-cast: n:Inna A; u:https://www.metart.com/model/inna-a; g:f
+model: n:Inna A; id:/model/metart/inna-a; u:https://www.metart.com/model/inna-a; g:f
 released: 2005-11-10
 director: Goncharov
 fileprefix: MetArt-20051110-inna-s-first-movie-
@@ -188,7 +188,7 @@ description: xxx
 title: Danae --  Behind The Scenes
 type: movie
 site: MetArt
-cast: n:Danae A; u:https://www.metart.com/model/danae-a; g:f
+model: n:Danae A; id:/model/metart/danae-a; u:https://www.metart.com/model/danae-a; g:f
 released: 2005-11-05
 director: Erro
 fileprefix: MetArt-20051105-danae-----behind-the-scenes-
@@ -203,7 +203,7 @@ description: xxx
 title: Rarite
 type: movie
 site: MetArt
-cast: n:Natasha G; u:https://www.metart.com/model/natasha-g; g:f
+model: n:Natasha G; id:/model/metart/natasha-g; u:https://www.metart.com/model/natasha-g; g:f
 released: 2005-11-04
 director: Gubin
 fileprefix: MetArt-20051104-rarite-
@@ -218,7 +218,7 @@ description: xxx
 title: Clinger
 type: movie
 site: MetArt
-cast: n:Julia I; u:https://www.metart.com/model/julia-i; g:f
+model: n:Julia I; id:/model/metart/julia-i; u:https://www.metart.com/model/julia-i; g:f
 released: 2005-11-01
 director: Max Stan
 fileprefix: MetArt-20051101-clinger-
@@ -233,7 +233,7 @@ description: xxx
 title: Nymphs
 type: movie
 site: MetArt
-cast: n:Multiple Model Set; u:https://www.metart.com/model/multiple-model-set; g:f
+model: n:Multiple Model Set; id:/model/metart/multiple-model-set; u:https://www.metart.com/model/multiple-model-set; g:f
 released: 2005-10-26
 director: Verholat
 fileprefix: MetArt-20051026-nymphs-
@@ -248,7 +248,7 @@ description: xxx
 title: Intimate With Nella
 type: movie
 site: MetArt
-cast: n:Nella A; u:https://www.metart.com/model/nella-a; g:f
+model: n:Nella A; id:/model/metart/nella-a; u:https://www.metart.com/model/nella-a; g:f
 released: 2005-10-14
 director: Richard Murrian
 fileprefix: MetArt-20051014-intimate-with-nella-
@@ -263,7 +263,7 @@ description: xxx
 title: Sensations
 type: movie
 site: MetArt
-cast: n:Olya M; u:https://www.metart.com/model/olya-m; g:f
+model: n:Olya M; id:/model/metart/olya-m; u:https://www.metart.com/model/olya-m; g:f
 released: 2005-10-09
 director: Pasha
 fileprefix: MetArt-20051009-sensations-
@@ -278,8 +278,8 @@ description: xxx
 title: Deux Soers In Normandie
 type: movie
 site: MetArt
-cast: n:Eliska A; u:https://www.metart.com/model/eliska-a; g:f
-cast: n:Monika C; u:https://www.metart.com/model/monika-c; g:f
+model: n:Eliska A; id:/model/metart/eliska-a; u:https://www.metart.com/model/eliska-a; g:f
+model: n:Monika C; id:/model/metart/monika-c; u:https://www.metart.com/model/monika-c; g:f
 released: 2005-10-02
 director: Richard Murrian
 fileprefix: MetArt-20051002-deux-soers-in-normandie-
@@ -294,7 +294,7 @@ description: xxx
 title: Kolida
 type: movie
 site: MetArt
-cast: n:Katya M; u:https://www.metart.com/model/katya-m; g:f
+model: n:Katya M; id:/model/metart/katya-m; u:https://www.metart.com/model/katya-m; g:f
 released: 2005-10-01
 director: Goncharov
 fileprefix: MetArt-20051001-kolida-
@@ -309,7 +309,7 @@ description: xxx
 title: Quetesh
 type: movie
 site: MetArt
-cast: n:Katya K; u:https://www.metart.com/model/katya-k; g:f
+model: n:Katya K; id:/model/metart/katya-k; u:https://www.metart.com/model/katya-k; g:f
 released: 2005-10-01
 director: Sunrise
 fileprefix: MetArt-20051001-quetesh-
@@ -324,7 +324,7 @@ description: xxx
 title: Fabula
 type: movie
 site: MetArt
-cast: n:Karina B; u:https://www.metart.com/model/karina-b; g:f
+model: n:Karina B; id:/model/metart/karina-b; u:https://www.metart.com/model/karina-b; g:f
 released: 2005-09-21
 director: Voronin
 fileprefix: MetArt-20050921-fabula-
@@ -339,7 +339,7 @@ description: xxx
 title: Taurus
 type: movie
 site: MetArt
-cast: n:Natasha G; u:https://www.metart.com/model/natasha-g; g:f
+model: n:Natasha G; id:/model/metart/natasha-g; u:https://www.metart.com/model/natasha-g; g:f
 released: 2005-09-12
 director: Max Stan
 fileprefix: MetArt-20050912-taurus-
@@ -354,7 +354,7 @@ description: xxx
 title: Elios
 type: movie
 site: MetArt
-cast: n:Katya M; u:https://www.metart.com/model/katya-m; g:f
+model: n:Katya M; id:/model/metart/katya-m; u:https://www.metart.com/model/katya-m; g:f
 released: 2005-09-11
 director: Goncharov
 fileprefix: MetArt-20050911-elios-
@@ -369,7 +369,7 @@ description: xxx
 title: The Rose
 type: movie
 site: MetArt
-cast: n:Marina A; u:https://www.metart.com/model/marina-a; g:f
+model: n:Marina A; id:/model/metart/marina-a; u:https://www.metart.com/model/marina-a; g:f
 released: 2005-08-31
 director: Sunrise
 fileprefix: MetArt-20050831-the-rose-
@@ -384,7 +384,7 @@ description: xxx
 title: Sexy Shower
 type: movie
 site: MetArt
-cast: n:Julia I; u:https://www.metart.com/model/julia-i; g:f
+model: n:Julia I; id:/model/metart/julia-i; u:https://www.metart.com/model/julia-i; g:f
 released: 2005-08-18
 director: Max Stan
 fileprefix: MetArt-20050818-sexy-shower-
@@ -399,7 +399,7 @@ description: xxx
 title: Confidence
 type: movie
 site: MetArt
-cast: n:Vika AF; u:https://www.metart.com/model/vika-af; g:f
+model: n:Vika AF; id:/model/metart/vika-af; u:https://www.metart.com/model/vika-af; g:f
 released: 2005-08-16
 director: Goncharov
 fileprefix: MetArt-20050816-confidence-
@@ -414,7 +414,7 @@ description: xxx
 title: Poetique
 type: movie
 site: MetArt
-cast: n:Katya P; u:https://www.metart.com/model/katya-p; g:f
+model: n:Katya P; id:/model/metart/katya-p; u:https://www.metart.com/model/katya-p; g:f
 released: 2005-08-08
 director: Pasha
 fileprefix: MetArt-20050808-poetique-
@@ -429,7 +429,7 @@ description: xxx
 title: Timeless
 type: movie
 site: MetArt
-cast: n:Sharon E; u:https://www.metart.com/model/sharon-e; g:f
+model: n:Sharon E; id:/model/metart/sharon-e; u:https://www.metart.com/model/sharon-e; g:f
 released: 2005-08-01
 director: Voronin
 fileprefix: MetArt-20050801-timeless-
@@ -444,7 +444,7 @@ description: xxx
 title: Valiant
 type: movie
 site: MetArt
-cast: n:Liza B; u:https://www.metart.com/model/liza-b; g:f
+model: n:Liza B; id:/model/metart/liza-b; u:https://www.metart.com/model/liza-b; g:f
 released: 2005-07-26
 director: Voronin
 fileprefix: MetArt-20050726-valiant-
@@ -459,7 +459,7 @@ description: xxx
 title: Herrlich
 type: movie
 site: MetArt
-cast: n:Julia I; u:https://www.metart.com/model/julia-i; g:f
+model: n:Julia I; id:/model/metart/julia-i; u:https://www.metart.com/model/julia-i; g:f
 released: 2005-07-25
 director: Max Stan
 fileprefix: MetArt-20050725-herrlich-
@@ -474,7 +474,7 @@ description: xxx
 title: Le Soleil
 type: movie
 site: MetArt
-cast: n:Zusie A; u:https://www.metart.com/model/zusie-a; g:f
+model: n:Zusie A; id:/model/metart/zusie-a; u:https://www.metart.com/model/zusie-a; g:f
 released: 2005-07-23
 director: Richard Murrian
 fileprefix: MetArt-20050723-le-soleil-
@@ -489,8 +489,8 @@ description: xxx
 title: Hitcher
 type: movie
 site: MetArt
-cast: n:Betty A; u:https://www.metart.com/model/betty-a; g:f
-cast: n:Regina A; u:https://www.metart.com/model/regina-a; g:f
+model: n:Betty A; id:/model/metart/betty-a; u:https://www.metart.com/model/betty-a; g:f
+model: n:Regina A; id:/model/metart/regina-a; u:https://www.metart.com/model/regina-a; g:f
 released: 2005-07-08
 director: Magoo
 fileprefix: MetArt-20050708-hitcher-
@@ -505,7 +505,7 @@ description: xxx
 title: Instigation
 type: movie
 site: MetArt
-cast: n:Anya A; u:https://www.metart.com/model/anya-a; g:f
+model: n:Anya A; id:/model/metart/anya-a; u:https://www.metart.com/model/anya-a; g:f
 released: 2005-07-03
 director: Goncharov
 fileprefix: MetArt-20050703-instigation-
@@ -520,8 +520,8 @@ description: xxx
 title: Hideaway
 type: movie
 site: MetArt
-cast: n:Katya K; u:https://www.metart.com/model/katya-k; g:f
-cast: n:Natasha G; u:https://www.metart.com/model/natasha-g; g:f
+model: n:Katya K; id:/model/metart/katya-k; u:https://www.metart.com/model/katya-k; g:f
+model: n:Natasha G; id:/model/metart/natasha-g; u:https://www.metart.com/model/natasha-g; g:f
 released: 2005-07-02
 director: Sunrise
 fileprefix: MetArt-20050702-hideaway-
@@ -536,7 +536,7 @@ description: xxx
 title: Outback
 type: movie
 site: MetArt
-cast: n:Juman; u:https://www.metart.com/model/juman; g:f
+model: n:Juman; id:/model/metart/juman; u:https://www.metart.com/model/juman; g:f
 released: 2005-07-01
 director: Pasha
 fileprefix: MetArt-20050701-outback-
@@ -551,7 +551,7 @@ description: xxx
 title: Precious
 type: movie
 site: MetArt
-cast: n:Kristina B; u:https://www.metart.com/model/kristina-b; g:f
+model: n:Kristina B; id:/model/metart/kristina-b; u:https://www.metart.com/model/kristina-b; g:f
 released: 2005-06-24
 director: Voronin
 fileprefix: MetArt-20050624-precious-
@@ -566,7 +566,7 @@ description: xxx
 title: Breeze
 type: movie
 site: MetArt
-cast: n:Jenya D; u:https://www.metart.com/model/jenya-d; g:f
+model: n:Jenya D; id:/model/metart/jenya-d; u:https://www.metart.com/model/jenya-d; g:f
 released: 2005-06-15
 director: Voronin
 fileprefix: MetArt-20050615-breeze-
@@ -581,7 +581,7 @@ description: xxx
 title: Totally Nature
 type: movie
 site: MetArt
-cast: n:Multiple Model Set; u:https://www.metart.com/model/multiple-model-set; g:f
+model: n:Multiple Model Set; id:/model/metart/multiple-model-set; u:https://www.metart.com/model/multiple-model-set; g:f
 released: 2005-06-13
 director: Verholat
 fileprefix: MetArt-20050613-totally-nature-
@@ -596,8 +596,8 @@ description: xxx
 title: Unity
 type: movie
 site: MetArt
-cast: n:Tanya I; u:https://www.metart.com/model/tanya-i; g:f
-cast: n:Ulya B; u:https://www.metart.com/model/ulya-b; g:f
+model: n:Tanya I; id:/model/metart/tanya-i; u:https://www.metart.com/model/tanya-i; g:f
+model: n:Ulya B; id:/model/metart/ulya-b; u:https://www.metart.com/model/ulya-b; g:f
 released: 2005-06-12
 director: Voronin
 fileprefix: MetArt-20050612-unity-
@@ -612,7 +612,7 @@ description: xxx
 title: Exubera
 type: movie
 site: MetArt
-cast: n:Natalia B; u:https://www.metart.com/model/natalia-b; g:f
+model: n:Natalia B; id:/model/metart/natalia-b; u:https://www.metart.com/model/natalia-b; g:f
 released: 2005-06-05
 director: Rigin
 fileprefix: MetArt-20050605-exubera-
@@ -627,7 +627,7 @@ description: xxx
 title: Lizamania
 type: movie
 site: MetArt
-cast: n:Liza B; u:https://www.metart.com/model/liza-b; g:f
+model: n:Liza B; id:/model/metart/liza-b; u:https://www.metart.com/model/liza-b; g:f
 released: 2005-06-01
 director: Voronin
 fileprefix: MetArt-20050601-lizamania-
@@ -642,7 +642,7 @@ description: xxx
 title: Borgia
 type: movie
 site: MetArt
-cast: n:Marina I; u:https://www.metart.com/model/marina-i; g:f
+model: n:Marina I; id:/model/metart/marina-i; u:https://www.metart.com/model/marina-i; g:f
 released: 2005-05-31
 director: Pasha
 fileprefix: MetArt-20050531-borgia-
@@ -657,8 +657,8 @@ description: xxx
 title: Caressing Egypt
 type: movie
 site: MetArt
-cast: n:Natasha C; u:https://www.metart.com/model/natasha-c; g:f
-cast: n:Juman; u:https://www.metart.com/model/juman; g:f
+model: n:Natasha C; id:/model/metart/natasha-c; u:https://www.metart.com/model/natasha-c; g:f
+model: n:Juman; id:/model/metart/juman; u:https://www.metart.com/model/juman; g:f
 released: 2005-05-23
 director: Pasha
 fileprefix: MetArt-20050523-caressing-egypt-
@@ -673,7 +673,7 @@ description: xxx
 title: Deco'
 type: movie
 site: MetArt
-cast: n:July; u:https://www.metart.com/model/july; g:f
+model: n:July; id:/model/metart/july; u:https://www.metart.com/model/july; g:f
 released: 2005-05-13
 director: Deviatkin
 fileprefix: MetArt-20050513-deco--
@@ -688,7 +688,7 @@ description: xxx
 title: Summertime
 type: movie
 site: MetArt
-cast: n:Vika R; u:https://www.metart.com/model/vika-r; g:f
+model: n:Vika R; id:/model/metart/vika-r; u:https://www.metart.com/model/vika-r; g:f
 released: 2005-05-02
 director: Goncharov
 fileprefix: MetArt-20050502-summertime-
@@ -703,7 +703,7 @@ description: xxx
 title: Histoire D'olya
 type: movie
 site: MetArt
-cast: n:Olya M; u:https://www.metart.com/model/olya-m; g:f
+model: n:Olya M; id:/model/metart/olya-m; u:https://www.metart.com/model/olya-m; g:f
 released: 2005-05-01
 director: Pasha
 fileprefix: MetArt-20050501-histoire-d-olya-
@@ -718,7 +718,7 @@ description: xxx
 title: Supernatural
 type: movie
 site: MetArt
-cast: n:Aneli A; u:https://www.metart.com/model/aneli-a; g:f
+model: n:Aneli A; id:/model/metart/aneli-a; u:https://www.metart.com/model/aneli-a; g:f
 released: 2005-04-29
 director: Slastyonoff
 fileprefix: MetArt-20050429-supernatural-
@@ -733,8 +733,8 @@ description: xxx
 title: Crazy Girls
 type: movie
 site: MetArt
-cast: n:Giuno A; u:https://www.metart.com/model/giuno-a; g:f
-cast: n:Tatiana C; u:https://www.metart.com/model/tatiana-c; g:f
+model: n:Giuno A; id:/model/metart/giuno-a; u:https://www.metart.com/model/giuno-a; g:f
+model: n:Tatiana C; id:/model/metart/tatiana-c; u:https://www.metart.com/model/tatiana-c; g:f
 released: 2005-04-18
 director: Rigin
 fileprefix: MetArt-20050418-crazy-girls-
@@ -749,7 +749,7 @@ description: xxx
 title: Gorgeous Liza
 type: movie
 site: MetArt
-cast: n:Liza B; u:https://www.metart.com/model/liza-b; g:f
+model: n:Liza B; id:/model/metart/liza-b; u:https://www.metart.com/model/liza-b; g:f
 released: 2005-04-16
 director: Voronin
 fileprefix: MetArt-20050416-gorgeous-liza-
@@ -764,8 +764,8 @@ description: xxx
 title: Doublesse
 type: movie
 site: MetArt
-cast: n:Lena L; u:https://www.metart.com/model/lena-l; g:f
-cast: n:Vika Y; u:https://www.metart.com/model/vika-y; g:f
+model: n:Lena L; id:/model/metart/lena-l; u:https://www.metart.com/model/lena-l; g:f
+model: n:Vika Y; id:/model/metart/vika-y; u:https://www.metart.com/model/vika-y; g:f
 released: 2005-04-15
 director: Goncharov
 fileprefix: MetArt-20050415-doublesse-
@@ -780,7 +780,7 @@ description: xxx
 title: Collector
 type: movie
 site: MetArt
-cast: n:Katya P; u:https://www.metart.com/model/katya-p; g:f
+model: n:Katya P; id:/model/metart/katya-p; u:https://www.metart.com/model/katya-p; g:f
 released: 2005-04-13
 director: Pasha
 fileprefix: MetArt-20050413-collector-
@@ -795,8 +795,8 @@ description: xxx
 title: Mnemonica
 type: movie
 site: MetArt
-cast: n:Ulya B; u:https://www.metart.com/model/ulya-b; g:f
-cast: n:Tanya I; u:https://www.metart.com/model/tanya-i; g:f
+model: n:Ulya B; id:/model/metart/ulya-b; u:https://www.metart.com/model/ulya-b; g:f
+model: n:Tanya I; id:/model/metart/tanya-i; u:https://www.metart.com/model/tanya-i; g:f
 released: 2005-04-13
 director: Voronin
 fileprefix: MetArt-20050413-mnemonica-
@@ -811,7 +811,7 @@ description: xxx
 title: Boxer
 type: movie
 site: MetArt
-cast: n:Katka A; u:https://www.metart.com/model/katka-a; g:f
+model: n:Katka A; id:/model/metart/katka-a; u:https://www.metart.com/model/katka-a; g:f
 released: 2005-04-06
 director: Richard Murrian
 fileprefix: MetArt-20050406-boxer-
@@ -826,7 +826,7 @@ description: xxx
 title: Ponytails
 type: movie
 site: MetArt
-cast: n:Katya N; u:https://www.metart.com/model/katya-n; g:f
+model: n:Katya N; id:/model/metart/katya-n; u:https://www.metart.com/model/katya-n; g:f
 released: 2005-04-01
 director: Slastyonoff
 fileprefix: MetArt-20050401-ponytails-
@@ -841,7 +841,7 @@ description: xxx
 title: Tatyana
 type: movie
 site: MetArt
-cast: n:Tatyana A; u:https://www.metart.com/model/tatyana-a; g:f
+model: n:Tatyana A; id:/model/metart/tatyana-a; u:https://www.metart.com/model/tatyana-a; g:f
 released: 2005-03-20
 director: Slastyonoff
 fileprefix: MetArt-20050320-tatyana-
@@ -856,7 +856,7 @@ description: xxx
 title: On Location --  Prague
 type: movie
 site: MetArt
-cast: n:Multiple Model Set; u:https://www.metart.com/model/multiple-model-set; g:f
+model: n:Multiple Model Set; id:/model/metart/multiple-model-set; u:https://www.metart.com/model/multiple-model-set; g:f
 released: 2005-03-16
 director: Richard Murrian
 fileprefix: MetArt-20050316-on-location-----prague-
@@ -871,7 +871,7 @@ description: xxx
 title: Luba - Nude In Public
 type: movie
 site: MetArt
-cast: n:Luba B; u:https://www.metart.com/model/luba-b; g:f
+model: n:Luba B; id:/model/metart/luba-b; u:https://www.metart.com/model/luba-b; g:f
 released: 2005-03-14
 director: Roman Kour
 fileprefix: MetArt-20050314-luba---nude-in-public-
@@ -886,7 +886,7 @@ description: xxx
 title: Dream Fields Deux
 type: movie
 site: MetArt
-cast: n:Vika AC; u:https://www.metart.com/model/vika-ac; g:f
+model: n:Vika AC; id:/model/metart/vika-ac; u:https://www.metart.com/model/vika-ac; g:f
 released: 2005-03-08
 director: Pasha
 fileprefix: MetArt-20050308-dream-fields-deux-
@@ -901,7 +901,7 @@ description: xxx
 title: Vadim Rigin Presents Sasha
 type: movie
 site: MetArt
-cast: n:Natalia B; u:https://www.metart.com/model/natalia-b; g:f
+model: n:Natalia B; id:/model/metart/natalia-b; u:https://www.metart.com/model/natalia-b; g:f
 released: 2005-02-17
 director: Rigin
 fileprefix: MetArt-20050217-vadim-rigin-presents-sasha-
@@ -916,7 +916,7 @@ description: xxx
 title: Real World -- Nude In Public
 type: movie
 site: MetArt
-cast: n:Multiple Model Set; u:https://www.metart.com/model/multiple-model-set; g:f
+model: n:Multiple Model Set; id:/model/metart/multiple-model-set; u:https://www.metart.com/model/multiple-model-set; g:f
 released: 2005-02-15
 director: Roman Kour
 fileprefix: MetArt-20050215-real-world----nude-in-public-
@@ -931,7 +931,7 @@ description: xxx
 title: Danseuse Rouge
 type: movie
 site: MetArt
-cast: n:Radka A; u:https://www.metart.com/model/radka-a; g:f
+model: n:Radka A; id:/model/metart/radka-a; u:https://www.metart.com/model/radka-a; g:f
 released: 2005-02-12
 director: Richard Murrian
 fileprefix: MetArt-20050212-danseuse-rouge-
@@ -946,7 +946,7 @@ description: xxx
 title: Lumina
 type: movie
 site: MetArt
-cast: n:Models No Name; u:https://www.metart.com/model/models-no-name; g:f
+model: n:Models No Name; id:/model/metart/models-no-name; u:https://www.metart.com/model/models-no-name; g:f
 released: 2005-02-11
 director: Goncharov
 fileprefix: MetArt-20050211-lumina-
@@ -961,7 +961,7 @@ description: xxx
 title: Flower
 type: movie
 site: MetArt
-cast: n:Vika J; u:https://www.metart.com/model/vika-j; g:f
+model: n:Vika J; id:/model/metart/vika-j; u:https://www.metart.com/model/vika-j; g:f
 released: 2005-02-01
 director: Max Stan
 fileprefix: MetArt-20050201-flower-
@@ -976,7 +976,7 @@ description: xxx
 title: Hot Steam
 type: movie
 site: MetArt
-cast: n:Models No Name; u:https://www.metart.com/model/models-no-name; g:f
+model: n:Models No Name; id:/model/metart/models-no-name; u:https://www.metart.com/model/models-no-name; g:f
 released: 2005-01-27
 director: Voronin
 fileprefix: MetArt-20050127-hot-steam-
@@ -991,7 +991,7 @@ description: xxx
 title: Anna - Sensualia By Pasha
 type: movie
 site: MetArt
-cast: n:Anna S; u:https://www.metart.com/model/anna-s; g:f
+model: n:Anna S; id:/model/metart/anna-s; u:https://www.metart.com/model/anna-s; g:f
 released: 2005-01-01
 director: Pasha
 fileprefix: MetArt-20050101-anna---sensualia-by-pasha-

@@ -5,7 +5,7 @@
 title: New Year Sun
 type: movie
 site: MetArt
-cast: n:Avery; u:https://www.metart.com/model/avery
+model: n:Avery; id:/model/metart/avery; u:https://www.metart.com/model/avery
 released: 2025-12-30
 director: David Ekmekci
 fileprefix: MetArt-20251230-new-year-sun-
@@ -43,7 +43,7 @@ tag: ukraine
 title: Sensual Outlines 2
 type: movie
 site: MetArt
-cast: n:Sky Pierce; u:https://www.metart.com/model/sky-pierce
+model: n:Sky Pierce; id:/model/metart/sky-pierce; u:https://www.metart.com/model/sky-pierce
 released: 2025-12-28
 director: Indie Blake
 fileprefix: MetArt-20251228-sensual-outlines-02-
@@ -85,7 +85,7 @@ tag: tan lines
 title: Magnificence 2
 type: movie
 site: MetArt
-cast: n:Mary Rock; u:https://www.sexart.com/model/mary-rock; g:f; s:SexArt
+model: n:Mary Rock; id:/model/sexart/mary-rock; u:https://www.sexart.com/model/mary-rock; g:f
 released: 2025-12-23
 director: Luca Helios
 fileprefix: MetArt-20251223-magnificence-02-
@@ -104,7 +104,7 @@ tag: russian federation
 title: Garden Time 2
 type: movie
 site: MetArt
-cast: n:Wikki K; u:https://www.metart.com/model/wikki-k
+model: n:Wikki K; id:/model/metart/wikki-k; u:https://www.metart.com/model/wikki-k
 released: 2025-12-21
 director: David Ekmekci
 fileprefix: MetArt-20251221-garden-time-02-
@@ -149,7 +149,7 @@ tag: tattoo
 title: Heels And Hunger
 type: movie
 site: MetArt
-cast: n:Georgia; u:https://www.sexart.com/model/georgia; s:SexArt
+model: n:Georgia; id:/model/sexart/georgia; u:https://www.sexart.com/model/georgia
 released: 2025-12-18
 director: David Menich
 fileprefix: MetArt-20251218-heels-and-hunger-
@@ -168,7 +168,7 @@ tag: russian federation
 title: Afternoon in the Woods 2
 type: movie
 site: MetArt
-cast: n:Danna Bliss; u:https://www.metart.com/model/danna-bliss
+model: n:Danna Bliss; id:/model/metart/danna-bliss; u:https://www.metart.com/model/danna-bliss
 released: 2025-12-16
 director: Luca Helios
 fileprefix: MetArt-20251216-afternoon-in-the-woods-02-
@@ -211,7 +211,7 @@ tag: ukraine
 title: Ocean Breeze 2
 type: movie
 site: MetArt
-cast: n:Taya Sour; u:https://www.metart.com/model/taya-sour
+model: n:Taya Sour; id:/model/metart/taya-sour; u:https://www.metart.com/model/taya-sour
 released: 2025-12-14
 director: David Ekmekci
 fileprefix: MetArt-20251214-ocean-breeze-02-
@@ -253,7 +253,7 @@ tag: ukraine
 title: Alluring Vibes 2
 type: movie
 site: MetArt
-cast: n:Evelyn Claire; u:https://www.metart.com/model/evelyn-claire
+model: n:Evelyn Claire; id:/model/metart/evelyn-claire; u:https://www.metart.com/model/evelyn-claire
 released: 2025-12-09
 director: Indie Blake
 fileprefix: MetArt-20251209-alluring-vibes-02-
@@ -301,7 +301,7 @@ tag: upskirt
 title: Camping Dreams 2
 type: movie
 site: MetArt
-cast: n:Toree; u:https://www.metart.com/model/toree
+model: n:Toree; id:/model/metart/toree; u:https://www.metart.com/model/toree
 released: 2025-12-07
 director: Karl Sirmi
 fileprefix: MetArt-20251207-camping-dreams-02-
@@ -346,7 +346,7 @@ tag: ukraine
 title: Chloe Lapiedra Backstages
 type: movie
 site: MetArt
-cast: n:Chloe Lapiedra; u:https://www.metart.com/model/chloe-lapiedra
+model: n:Chloe Lapiedra; id:/model/metart/chloe-lapiedra; u:https://www.metart.com/model/chloe-lapiedra
 released: 2025-12-02
 director: Luca Helios
 fileprefix: MetArt-20251202-chloe-lapiedra-backstages-
@@ -405,7 +405,7 @@ tag: thongs
 title: Natural Beauty 2
 type: movie
 site: MetArt
-cast: n:Amelia Riven; u:https://www.metart.com/model/amelia-riven
+model: n:Amelia Riven; id:/model/metart/amelia-riven; u:https://www.metart.com/model/amelia-riven
 released: 2025-11-30
 director: Robert Graham
 fileprefix: MetArt-20251130-natural-beauty-02-
@@ -450,7 +450,7 @@ tag: upskirt
 title: Bright Desire 2
 type: movie
 site: MetArt
-cast: n:Hareniks; u:https://www.metart.com/model/hareniks
+model: n:Hareniks; id:/model/metart/hareniks; u:https://www.metart.com/model/hareniks
 released: 2025-11-25
 director: David Ekmekci
 fileprefix: MetArt-20251125-bright-desire-02-
@@ -496,7 +496,7 @@ tag: ukraine
 title: Poised Grace 2
 type: movie
 site: MetArt
-cast: n:Liz Ocean; u:https://www.metart.com/model/liz-ocean
+model: n:Liz Ocean; id:/model/metart/liz-ocean; u:https://www.metart.com/model/liz-ocean
 released: 2025-11-23
 director: Luca Helios
 fileprefix: MetArt-20251123-poised-grace-02-
@@ -544,7 +544,7 @@ tag: thongs
 title: Flirty Bows
 type: movie
 site: MetArt
-cast: n:Azzurra Moretti; u:https://www.sexart.com/model/azzurra-moretti; s:SexArt
+model: n:Azzurra Moretti; id:/model/sexart/azzurra-moretti; u:https://www.sexart.com/model/azzurra-moretti
 released: 2025-11-18
 director: Leonardo
 fileprefix: MetArt-20251118-flirty-bows-
@@ -590,7 +590,7 @@ tag: upskirt
 title: Shelena's Interview 2
 type: movie
 site: MetArt
-cast: n:Shelena; u:https://www.metart.com/model/shelena
+model: n:Shelena; id:/model/metart/shelena; u:https://www.metart.com/model/shelena
 released: 2025-11-16
 director: Luca Helios
 fileprefix: MetArt-20251116-shelenas-interview-02-
@@ -641,7 +641,7 @@ tag: thongs
 title: Big Confidence
 type: movie
 site: MetArt
-cast: n:Britney Dutch; u:https://www.metart.com/model/britney-dutch
+model: n:Britney Dutch; id:/model/metart/britney-dutch; u:https://www.metart.com/model/britney-dutch
 released: 2025-11-13
 director: James Allen
 fileprefix: MetArt-20251113-big-confidence-
@@ -660,7 +660,7 @@ tag: netherlands
 title: Ripe For Tasting 2
 type: movie
 site: MetArt
-cast: n:Bella Donna; u:https://www.metart.com/model/bella-donna
+model: n:Bella Donna; id:/model/metart/bella-donna; u:https://www.metart.com/model/bella-donna
 released: 2025-11-11
 director: Indie Blake
 fileprefix: MetArt-20251111-ripe-for-tasting-02-
@@ -712,7 +712,7 @@ tag: united states
 title: Jasmin 2
 type: movie
 site: MetArt
-cast: n:Jasmin; u:https://www.metart.com/model/jasmin
+model: n:Jasmin; id:/model/metart/jasmin; u:https://www.metart.com/model/jasmin
 released: 2025-11-09
 director: Cecelia
 fileprefix: MetArt-20251109-jasmin-02-
@@ -760,7 +760,7 @@ tag: thongs
 title: Scarlet 05
 type: movie
 site: MetArt
-cast: n:Scarlet; u:https://www.metart.com/model/scarlet
+model: n:Scarlet; id:/model/metart/scarlet; u:https://www.metart.com/model/scarlet
 released: 2025-11-06
 fileprefix: MetArt-20251106-scarlet-05-
 rating: 94
@@ -799,7 +799,7 @@ tag: ukraine
 title: Neon Tease 2
 type: movie
 site: MetArt
-cast: n:Aria Sloane; u:https://www.metart.com/model/aria-sloane
+model: n:Aria Sloane; id:/model/metart/aria-sloane; u:https://www.metart.com/model/aria-sloane
 released: 2025-11-04
 director: Indie Blake
 fileprefix: MetArt-20251104-neon-tease-02-
@@ -846,7 +846,7 @@ tag: upskirt
 title: Euphoric Moments 2
 type: movie
 site: MetArt
-cast: n:Rea Ready; u:https://www.metart.com/model/rea-ready
+model: n:Rea Ready; id:/model/metart/rea-ready; u:https://www.metart.com/model/rea-ready
 released: 2025-11-02
 director: Flora
 fileprefix: MetArt-20251102-euphoric-moments-02-
@@ -895,7 +895,7 @@ tag: striptease
 title: Delightfulness 2
 type: movie
 site: MetArt
-cast: n:Putri Cinta; u:https://www.metart.com/model/putri-cinta
+model: n:Putri Cinta; id:/model/metart/putri-cinta; u:https://www.metart.com/model/putri-cinta
 released: 2025-10-28
 director: Indie Blake
 fileprefix: MetArt-20251028-delightfulness-02-
@@ -941,7 +941,7 @@ tag: tattoo
 title: Cardio 2
 type: movie
 site: MetArt
-cast: n:Georgia; u:https://www.sexart.com/model/georgia; s:SexArt
+model: n:Georgia; id:/model/sexart/georgia; u:https://www.sexart.com/model/georgia
 released: 2025-10-26
 director: James Allen
 fileprefix: MetArt-20251026-cardio-02-
@@ -990,7 +990,7 @@ tag: yoga pants
 title: Viksi 09
 type: movie
 site: MetArt
-cast: n:Viksi; u:https://www.metart.com/model/viksi
+model: n:Viksi; id:/model/metart/viksi; u:https://www.metart.com/model/viksi
 released: 2025-10-23
 fileprefix: MetArt-20251023-viksi-09-
 rating: 93
@@ -1028,7 +1028,7 @@ tag: ukraine
 title: Wet Stockings 2
 type: movie
 site: MetArt
-cast: n:Mitzi X; u:https://www.metart.com/model/mitzi-x
+model: n:Mitzi X; id:/model/metart/mitzi-x; u:https://www.metart.com/model/mitzi-x
 released: 2025-10-22
 director: John Chalk
 fileprefix: MetArt-20251022-wet-stockings-02-
@@ -1075,7 +1075,7 @@ tag: upskirt
 title: Open Ocean
 type: movie
 site: MetArt
-cast: n:Tavia; u:https://www.metart.com/model/tavia
+model: n:Tavia; id:/model/metart/tavia; u:https://www.metart.com/model/tavia
 released: 2025-10-21
 director: Indie Blake
 fileprefix: MetArt-20251021-open-ocean-
@@ -1121,7 +1121,7 @@ tag: united states
 title: Dancing Hilary 2
 type: movie
 site: MetArt
-cast: n:Hilary C; u:https://www.metart.com/model/hilary-c
+model: n:Hilary C; id:/model/metart/hilary-c; u:https://www.metart.com/model/hilary-c
 released: 2025-10-19
 director: Luca Helios
 fileprefix: MetArt-20251019-dancing-hilary-02-
@@ -1170,7 +1170,7 @@ tag: ukraine
 title: Hope Heaven 2
 type: movie
 site: MetArt
-cast: n:Hope Heaven; u:https://www.metart.com/model/hope-heaven
+model: n:Hope Heaven; id:/model/metart/hope-heaven; u:https://www.metart.com/model/hope-heaven
 released: 2025-10-14
 director: Indie Blake
 fileprefix: MetArt-20251014-hope-heaven-02-
@@ -1219,7 +1219,7 @@ tag: tattoo
 title: Melt Into Me 2
 type: movie
 site: MetArt
-cast: n:Cherry Blossom; u:https://www.metart.com/model/cherry-blossom
+model: n:Cherry Blossom; id:/model/metart/cherry-blossom; u:https://www.metart.com/model/cherry-blossom
 released: 2025-10-12
 director: Tora Ness
 fileprefix: MetArt-20251012-melt-into-me-02-
@@ -1265,7 +1265,7 @@ tag: wax play
 title: Rewarding You 2
 type: movie
 site: MetArt
-cast: n:Elly Clutch; u:https://www.metart.com/model/elly-clutch
+model: n:Elly Clutch; id:/model/metart/elly-clutch; u:https://www.metart.com/model/elly-clutch
 released: 2025-10-07
 director: Indie Blake
 fileprefix: MetArt-20251007-rewarding-you-02-
@@ -1311,7 +1311,7 @@ tag: upskirt
 title: Morning Glow
 type: movie
 site: MetArt
-cast: n:Po; u:https://www.metart.com/model/po
+model: n:Po; id:/model/metart/po; u:https://www.metart.com/model/po
 released: 2025-10-05
 director: David Menich
 fileprefix: MetArt-20251005-morning-glow-
@@ -1352,7 +1352,7 @@ tag: thailand
 title: My Secretary
 type: movie
 site: MetArt
-cast: n:Fibi Euro; u:https://www.metart.com/model/fibi-euro
+model: n:Fibi Euro; id:/model/metart/fibi-euro; u:https://www.metart.com/model/fibi-euro
 released: 2025-10-02
 director: John Chalk
 fileprefix: MetArt-20251002-my-secretary-
@@ -1371,7 +1371,7 @@ tag: czech republic
 title: Hot Sessions 2
 type: movie
 site: MetArt
-cast: n:Kei; u:https://www.metart.com/model/kei
+model: n:Kei; id:/model/metart/kei; u:https://www.metart.com/model/kei
 released: 2025-09-30
 director: Indie Blake
 fileprefix: MetArt-20250930-hot-sessions-02-
@@ -1423,7 +1423,7 @@ tag: united states
 title: Wild Country 2
 type: movie
 site: MetArt
-cast: n:Santa; u:https://www.metart.com/model/santa
+model: n:Santa; id:/model/metart/santa; u:https://www.metart.com/model/santa
 released: 2025-09-28
 director: James Allen
 fileprefix: MetArt-20250928-wild-country-02-
@@ -1470,7 +1470,7 @@ tag: upskirt
 title: Inner Flame 2
 type: movie
 site: MetArt
-cast: n:Minnie Lighter; u:https://www.sexart.com/model/minnie-lighter; g:f; s:SexArt
+model: n:Minnie Lighter; id:/model/sexart/minnie-lighter; u:https://www.sexart.com/model/minnie-lighter; g:f
 released: 2025-09-28
 director: Nudero
 fileprefix: MetArt-20250928-inner-flame-02-
@@ -1520,7 +1520,7 @@ tag: upskirt
 title: Lilly Redd 2
 type: movie
 site: MetArt
-cast: n:Lilly Redd; u:https://www.metart.com/model/lilly-redd
+model: n:Lilly Redd; id:/model/metart/lilly-redd; u:https://www.metart.com/model/lilly-redd
 released: 2025-09-23
 director: Indie Blake
 fileprefix: MetArt-20250923-lilly-redd-02-
@@ -1566,7 +1566,7 @@ tag: upskirt
 title: Sunbreeze
 type: movie
 site: MetArt
-cast: n:Sirena Milano; u:https://www.sexart.com/model/sirena-milano; g:f; s:SexArt
+model: n:Sirena Milano; id:/model/sexart/sirena-milano; u:https://www.sexart.com/model/sirena-milano; g:f
 released: 2025-09-21
 director: Alex Alexa
 fileprefix: MetArt-20250921-sunbreeze-
@@ -1610,7 +1610,7 @@ tag: striptease
 title: Nikki Hill 06
 type: movie
 site: MetArt
-cast: n:Nikki Hill; u:https://www.sexart.com/model/nikki-hill; g:f; s:SexArt
+model: n:Nikki Hill; id:/model/sexart/nikki-hill; u:https://www.sexart.com/model/nikki-hill; g:f
 released: 2025-09-16
 fileprefix: MetArt-20250916-nikki-hill-06-
 rating: 93
@@ -1628,7 +1628,7 @@ tag: ukraine
 title: Guiding You
 type: movie
 site: MetArt
-cast: n:Luna Art; u:https://www.sexart.com/model/luna-art; g:f; s:SexArt
+model: n:Luna Art; id:/model/sexart/luna-art; u:https://www.sexart.com/model/luna-art; g:f
 released: 2025-09-16
 director: Nudero
 fileprefix: MetArt-20250916-guiding-you-
@@ -1670,7 +1670,7 @@ tag: upskirt
 title: Buttercup 2
 type: movie
 site: MetArt
-cast: n:Lily Blossom; u:https://www.metart.com/model/lily-blossom
+model: n:Lily Blossom; id:/model/metart/lily-blossom; u:https://www.metart.com/model/lily-blossom
 released: 2025-09-14
 director: Luca Helios
 fileprefix: MetArt-20250914-buttercup-02-
@@ -1715,7 +1715,7 @@ tag: striptease
 title: Come Aboard 2
 type: movie
 site: MetArt
-cast: n:Lareina Tay; u:https://www.metart.com/model/lareina-tay
+model: n:Lareina Tay; id:/model/metart/lareina-tay; u:https://www.metart.com/model/lareina-tay
 released: 2025-09-09
 director: Indie Blake
 fileprefix: MetArt-20250909-come-aboard-02-
@@ -1764,7 +1764,7 @@ tag: united states
 title: Emerging Needs
 type: movie
 site: MetArt
-cast: n:Shany; u:https://www.metart.com/model/shany
+model: n:Shany; id:/model/metart/shany; u:https://www.metart.com/model/shany
 released: 2025-09-07
 director: Cecelia
 fileprefix: MetArt-20250907-emerging-needs-
@@ -1812,7 +1812,7 @@ tag: tattoo
 title: Pleasureland 2
 type: movie
 site: MetArt
-cast: n:Polly Yangs; u:https://www.sexart.com/model/polly-yangs; g:f; s:SexArt
+model: n:Polly Yangs; id:/model/sexart/polly-yangs; u:https://www.sexart.com/model/polly-yangs; g:f
 released: 2025-09-02
 director: James Allen
 fileprefix: MetArt-20250902-pleasureland-02-
@@ -1831,7 +1831,7 @@ tag: russian federation
 title: Ice Performance 2
 type: movie
 site: MetArt
-cast: n:Hareniks; u:https://www.metart.com/model/hareniks
+model: n:Hareniks; id:/model/metart/hareniks; u:https://www.metart.com/model/hareniks
 released: 2025-08-31
 director: Marco
 fileprefix: MetArt-20250831-ice-performance-02-
@@ -1877,7 +1877,7 @@ tag: ukraine
 title: Red Mystique
 type: movie
 site: MetArt
-cast: n:Leya Desantis; u:https://www.metart.com/model/leya-desantis
+model: n:Leya Desantis; id:/model/metart/leya-desantis; u:https://www.metart.com/model/leya-desantis
 released: 2025-08-28
 director: David Menich
 fileprefix: MetArt-20250828-red-mystique-
@@ -1896,7 +1896,7 @@ tag: romania
 title: Flirt Game 2
 type: movie
 site: MetArt
-cast: n:Rosah; u:https://www.metart.com/model/rosah
+model: n:Rosah; id:/model/metart/rosah; u:https://www.metart.com/model/rosah
 released: 2025-08-26
 director: David Menich
 fileprefix: MetArt-20250826-flirt-game-02-
@@ -1916,9 +1916,9 @@ tag: thailand
 title: Trinity Tease 2
 type: movie
 site: MetArt
-cast: n:Viviane Leigh; u:https://www.metart.com/model/viviane-leigh
-cast: n:Miluna Elle; u:https://www.metart.com/model/miluna-elle
-cast: n:Sheeiziss; u:https://www.metart.com/model/sheeiziss
+model: n:Viviane Leigh; id:/model/metart/viviane-leigh; u:https://www.metart.com/model/viviane-leigh
+model: n:Miluna Elle; id:/model/metart/miluna-elle; u:https://www.metart.com/model/miluna-elle
+model: n:Sheeiziss; id:/model/metart/sheeiziss; u:https://www.metart.com/model/sheeiziss
 released: 2025-08-24
 director: Indie Blake
 fileprefix: MetArt-20250824-trinity-tease-02-
@@ -1970,7 +1970,7 @@ tag: tattoo
 title: Sirena's Interview 2
 type: movie
 site: MetArt
-cast: n:Sirena Milano; u:https://www.sexart.com/model/sirena-milano; g:f; s:SexArt
+model: n:Sirena Milano; id:/model/sexart/sirena-milano; u:https://www.sexart.com/model/sirena-milano; g:f
 released: 2025-08-19
 director: Luca Helios
 fileprefix: MetArt-20250819-sirenas-interview-02-
@@ -2013,7 +2013,7 @@ tag: trimmed pussy
 title: Flirtatious Foreplay 2
 type: movie
 site: MetArt
-cast: n:Tavia; u:https://www.metart.com/model/tavia
+model: n:Tavia; id:/model/metart/tavia; u:https://www.metart.com/model/tavia
 released: 2025-08-17
 director: Indie Blake
 fileprefix: MetArt-20250817-flirtatious-foreplay-02-
@@ -2062,7 +2062,7 @@ tag: united states
 title: Getting Wet 2
 type: movie
 site: MetArt
-cast: n:Sky Pierce; u:https://www.metart.com/model/sky-pierce
+model: n:Sky Pierce; id:/model/metart/sky-pierce; u:https://www.metart.com/model/sky-pierce
 released: 2025-08-12
 director: Indie Blake
 fileprefix: MetArt-20250812-getting-wet-02-
@@ -2110,7 +2110,7 @@ tag: striptease
 title: Eve's Interview 2
 type: movie
 site: MetArt
-cast: n:Eve Sweet; u:https://www.sexart.com/model/eve-sweet; g:f; s:SexArt
+model: n:Eve Sweet; id:/model/sexart/eve-sweet; u:https://www.sexart.com/model/eve-sweet; g:f
 released: 2025-08-10
 director: Luca Helios
 fileprefix: MetArt-20250810-eves-interview-02-
@@ -2129,7 +2129,7 @@ tag: romania
 title: Bjorg Larson 07
 type: movie
 site: MetArt
-cast: n:Bjorg Larson; u:https://www.sexart.com/model/bjorg-larson; s:SexArt
+model: n:Bjorg Larson; id:/model/sexart/bjorg-larson; u:https://www.sexart.com/model/bjorg-larson
 released: 2025-08-07
 fileprefix: MetArt-20250807-bjorg-larson-07-
 rating: 95
@@ -2146,7 +2146,7 @@ tag: sweden
 title: Savanna Rose 2
 type: movie
 site: MetArt
-cast: n:Savanna Rose; u:https://www.metart.com/model/savanna-rose
+model: n:Savanna Rose; id:/model/metart/savanna-rose; u:https://www.metart.com/model/savanna-rose
 released: 2025-08-05
 director: Indie Blake
 fileprefix: MetArt-20250805-savanna-rose-02-
@@ -2165,7 +2165,7 @@ tag: united states
 title: Red Lightness 2
 type: movie
 site: MetArt
-cast: n:Novella Night; u:https://www.metart.com/model/novella-night
+model: n:Novella Night; id:/model/metart/novella-night; u:https://www.metart.com/model/novella-night
 released: 2025-08-03
 director: Luca Helios
 fileprefix: MetArt-20250803-red-lightness-02-
@@ -2205,7 +2205,7 @@ tag: sunglasses
 title: On My Tail 2
 type: movie
 site: MetArt
-cast: n:Liana Luck; u:https://www.metart.com/model/liana-luck
+model: n:Liana Luck; id:/model/metart/liana-luck; u:https://www.metart.com/model/liana-luck
 released: 2025-07-29
 director: Robert Graham
 fileprefix: MetArt-20250729-on-my-tail-02-
@@ -2246,7 +2246,7 @@ tag: ukraine
 title: Naked Sheets 2
 type: movie
 site: MetArt
-cast: n:Putri Cinta; u:https://www.metart.com/model/putri-cinta
+model: n:Putri Cinta; id:/model/metart/putri-cinta; u:https://www.metart.com/model/putri-cinta
 released: 2025-07-27
 director: Indie Blake
 fileprefix: MetArt-20250727-naked-sheets-02-
@@ -2291,7 +2291,7 @@ tag: tattoo
 title: Seductress
 type: movie
 site: MetArt
-cast: n:Kylie Kennedy; u:https://www.metart.com/model/kylie-kennedy
+model: n:Kylie Kennedy; id:/model/metart/kylie-kennedy; u:https://www.metart.com/model/kylie-kennedy
 released: 2025-07-22
 director: Indie Blake
 fileprefix: MetArt-20250722-seductress-
@@ -2339,7 +2339,7 @@ tag: united states
 title: To My Fans 2
 type: movie
 site: MetArt
-cast: n:Elly Clutch; u:https://www.metart.com/model/elly-clutch
+model: n:Elly Clutch; id:/model/metart/elly-clutch; u:https://www.metart.com/model/elly-clutch
 released: 2025-07-20
 director: Indie Blake
 fileprefix: MetArt-20250720-to-my-fans-02-
@@ -2390,7 +2390,7 @@ tag: upskirt
 title: Shelena's Hair 2
 type: movie
 site: MetArt
-cast: n:Shelena; u:https://www.metart.com/model/shelena
+model: n:Shelena; id:/model/metart/shelena; u:https://www.metart.com/model/shelena
 released: 2025-07-15
 director: Luca Helios
 fileprefix: MetArt-20250715-shelenas-hair-02-
@@ -2438,7 +2438,7 @@ tag: thongs
 title: Sweet and Bitter 2
 type: movie
 site: MetArt
-cast: n:Bella Donna; u:https://www.metart.com/model/bella-donna
+model: n:Bella Donna; id:/model/metart/bella-donna; u:https://www.metart.com/model/bella-donna
 released: 2025-07-13
 director: Indie Blake
 fileprefix: MetArt-20250713-sweet-and-bitter-02-
@@ -2490,7 +2490,7 @@ tag: united states
 title: Asian Treasure 2
 type: movie
 site: MetArt
-cast: n:Naksu; u:https://www.metart.com/model/naksu
+model: n:Naksu; id:/model/metart/naksu; u:https://www.metart.com/model/naksu
 released: 2025-07-08
 director: Robert Graham
 fileprefix: MetArt-20250708-asian-treasure-02-
@@ -2534,7 +2534,7 @@ tag: thailand
 title: Snapshot 2
 type: movie
 site: MetArt
-cast: n:Hannah Le; u:https://www.metart.com/model/hannah-le
+model: n:Hannah Le; id:/model/metart/hannah-le; u:https://www.metart.com/model/hannah-le
 released: 2025-07-06
 director: Indie Blake
 fileprefix: MetArt-20250706-snapshot-02-
@@ -2583,7 +2583,7 @@ tag: upskirt
 title: Polly Pure 06
 type: movie
 site: MetArt
-cast: n:Polly Pure; u:https://www.metart.com/model/polly-pure
+model: n:Polly Pure; id:/model/metart/polly-pure; u:https://www.metart.com/model/polly-pure
 released: 2025-07-03
 fileprefix: MetArt-20250703-polly-pure-06-
 rating: 89
@@ -2601,7 +2601,7 @@ tag: ukraine
 title: Salty Wind
 type: movie
 site: MetArt
-cast: n:Toree; u:https://www.metart.com/model/toree
+model: n:Toree; id:/model/metart/toree; u:https://www.metart.com/model/toree
 released: 2025-07-01
 director: David Ekmekci
 fileprefix: MetArt-20250701-salty-wind-
@@ -2649,7 +2649,7 @@ tag: upskirt
 title: Shining 2
 type: movie
 site: MetArt
-cast: n:Danna Bliss; u:https://www.metart.com/model/danna-bliss
+model: n:Danna Bliss; id:/model/metart/danna-bliss; u:https://www.metart.com/model/danna-bliss
 released: 2025-06-29
 director: Luca Helios
 fileprefix: MetArt-20250629-shining-02-
@@ -2692,7 +2692,7 @@ tag: ukraine
 title: Black 2
 type: movie
 site: MetArt
-cast: n:Hilary C; u:https://www.metart.com/model/hilary-c
+model: n:Hilary C; id:/model/metart/hilary-c; u:https://www.metart.com/model/hilary-c
 released: 2025-06-24
 director: James Allen
 fileprefix: MetArt-20250624-black-02-
@@ -2747,7 +2747,7 @@ tag: upskirt
 title: Sexy Shape 2
 type: movie
 site: MetArt
-cast: n:Gia Rae; u:https://www.metart.com/model/gia-rae
+model: n:Gia Rae; id:/model/metart/gia-rae; u:https://www.metart.com/model/gia-rae
 released: 2025-06-22
 director: Indie Blake
 fileprefix: MetArt-20250622-sexy-shape-2-
@@ -2795,7 +2795,7 @@ tag: upskirt
 title: Positive Vibe 2
 type: movie
 site: MetArt
-cast: n:Sophia Mae; u:https://www.metart.com/model/sophia-mae
+model: n:Sophia Mae; id:/model/metart/sophia-mae; u:https://www.metart.com/model/sophia-mae
 released: 2025-06-17
 director: Indie Blake
 fileprefix: MetArt-20250617-positive-vibe-02-
@@ -2842,7 +2842,7 @@ tag: upskirt
 title: Pompas 2
 type: movie
 site: MetArt
-cast: n:Avery; u:https://www.metart.com/model/avery
+model: n:Avery; id:/model/metart/avery; u:https://www.metart.com/model/avery
 released: 2025-06-15
 director: James Allen
 fileprefix: MetArt-20250615-pompas-02-
@@ -2889,7 +2889,7 @@ tag: upskirt
 title: Origin
 type: movie
 site: MetArt
-cast: n:Eva Elfie; u:https://www.sexart.com/model/eva-elfie; s:SexArt
+model: n:Eva Elfie; id:/model/sexart/eva-elfie; u:https://www.sexart.com/model/eva-elfie
 released: 2025-06-10
 director: Alex Alexa
 fileprefix: MetArt-20250610-origin-
@@ -2908,7 +2908,7 @@ tag: russian federation
 title: On The Couch 2
 type: movie
 site: MetArt
-cast: n:Luise; u:https://www.metart.com/model/luise
+model: n:Luise; id:/model/metart/luise; u:https://www.metart.com/model/luise
 released: 2025-06-08
 director: Higinio Domingo
 fileprefix: MetArt-20250608-on-the-couch-02-
@@ -2955,7 +2955,7 @@ tag: upskirt
 title: Catwalk Mood 2
 type: movie
 site: MetArt
-cast: n:Leona Mia; u:https://www.sexart.com/model/leona-mia; s:SexArt
+model: n:Leona Mia; id:/model/sexart/leona-mia; u:https://www.sexart.com/model/leona-mia
 released: 2025-06-03
 director: Luca Helios
 fileprefix: MetArt-20250603-catwalk-mood-02-
@@ -2974,7 +2974,7 @@ tag: russian federation
 title: Lady Boss
 type: movie
 site: MetArt
-cast: n:Pollymodel; u:https://www.metart.com/model/pollymodel
+model: n:Pollymodel; id:/model/metart/pollymodel; u:https://www.metart.com/model/pollymodel
 released: 2025-06-01
 director: Cecelia
 fileprefix: MetArt-20250601-lady-boss-
@@ -3020,7 +3020,7 @@ tag: trimmed pussy
 title: Vintage Style
 type: movie
 site: MetArt
-cast: n:Kelly Collins; u:https://www.sexart.com/model/kelly-collins; g:f; s:SexArt
+model: n:Kelly Collins; id:/model/sexart/kelly-collins; u:https://www.sexart.com/model/kelly-collins; g:f
 released: 2025-05-27
 director: Sandra Shine
 fileprefix: MetArt-20250527-vintage-style-
@@ -3039,7 +3039,7 @@ tag: russian federation
 title: Discovering Me 2
 type: movie
 site: MetArt
-cast: n:Riley Anne; u:https://www.sexart.com/model/riley-anne; g:f; s:SexArt
+model: n:Riley Anne; id:/model/sexart/riley-anne; u:https://www.sexart.com/model/riley-anne; g:f
 released: 2025-05-25
 director: Indie Blake
 fileprefix: MetArt-20250525-discovering-me-02-
@@ -3058,7 +3058,7 @@ tag: united states
 title: Kei 2
 type: movie
 site: MetArt
-cast: n:Kei; u:https://www.metart.com/model/kei
+model: n:Kei; id:/model/metart/kei; u:https://www.metart.com/model/kei
 released: 2025-05-20
 director: Indie Blake
 fileprefix: MetArt-20250520-kei-02-
@@ -3077,7 +3077,7 @@ tag: united states
 title: Playful Bath 2
 type: movie
 site: MetArt
-cast: n:Flamy Nika; u:https://www.sexart.com/model/flamy-nika; s:SexArt
+model: n:Flamy Nika; id:/model/sexart/flamy-nika; u:https://www.sexart.com/model/flamy-nika
 released: 2025-05-18
 director: David Ekmekci
 fileprefix: MetArt-20250518-playful-bath-02-
@@ -3096,7 +3096,7 @@ tag: russian federation
 title: Aria Sloane 2
 type: movie
 site: MetArt
-cast: n:Aria Sloane; u:https://www.metart.com/model/aria-sloane
+model: n:Aria Sloane; id:/model/metart/aria-sloane; u:https://www.metart.com/model/aria-sloane
 released: 2025-05-13
 director: Indie Blake
 fileprefix: MetArt-20250513-aria-sloane-02-
@@ -3115,7 +3115,7 @@ tag: united states
 title: High Temperature 2
 type: movie
 site: MetArt
-cast: n:Georgia; u:https://www.sexart.com/model/georgia; s:SexArt
+model: n:Georgia; id:/model/sexart/georgia; u:https://www.sexart.com/model/georgia
 released: 2025-05-11
 director: James Allen
 fileprefix: MetArt-20250511-high-temperature-02-
@@ -3134,7 +3134,7 @@ tag: russian federation
 title: Viksi 08
 type: movie
 site: MetArt
-cast: n:Viksi; u:https://www.metart.com/model/viksi
+model: n:Viksi; id:/model/metart/viksi; u:https://www.metart.com/model/viksi
 released: 2025-05-08
 fileprefix: MetArt-20250508-viksi-08-
 rating: 10
@@ -3152,7 +3152,7 @@ tag: ukraine
 title: Leona Mia - Backstages
 type: movie
 site: MetArt
-cast: n:Leona Mia; u:https://www.sexart.com/model/leona-mia; s:SexArt
+model: n:Leona Mia; id:/model/sexart/leona-mia; u:https://www.sexart.com/model/leona-mia
 released: 2025-05-06
 director: Luca Helios
 fileprefix: MetArt-20250506-leona-mia--backstages-
@@ -3203,7 +3203,7 @@ tag: thongs
 title: Hot Spell 2
 type: movie
 site: MetArt
-cast: n:Carmen Vega; u:https://www.metart.com/model/carmen-vega
+model: n:Carmen Vega; id:/model/metart/carmen-vega; u:https://www.metart.com/model/carmen-vega
 released: 2025-05-04
 director: Indie Blake
 fileprefix: MetArt-20250504-hot-spell-02-
@@ -3244,7 +3244,7 @@ tag: united states
 title: Schoolwork 2
 type: movie
 site: MetArt
-cast: n:Mila Azul; u:https://www.sexart.com/model/mila-azul; g:f; s:SexArt
+model: n:Mila Azul; id:/model/sexart/mila-azul; u:https://www.sexart.com/model/mila-azul; g:f
 released: 2025-04-29
 director: James Allen
 fileprefix: MetArt-20250429-schoolwork-02-
@@ -3263,7 +3263,7 @@ tag: ukraine
 title: Sexy Waitress 2
 type: movie
 site: MetArt
-cast: n:Eve Sweet; u:https://www.sexart.com/model/eve-sweet; g:f; s:SexArt
+model: n:Eve Sweet; id:/model/sexart/eve-sweet; u:https://www.sexart.com/model/eve-sweet; g:f
 released: 2025-04-27
 director: Luca Helios
 fileprefix: MetArt-20250427-sexy-waitress-02-
@@ -3309,7 +3309,7 @@ tag: thigh high stockings
 title: Homemaker 2
 type: movie
 site: MetArt
-cast: n:Leya Desantis; u:https://www.metart.com/model/leya-desantis
+model: n:Leya Desantis; id:/model/metart/leya-desantis; u:https://www.metart.com/model/leya-desantis
 released: 2025-04-22
 director: James Allen
 fileprefix: MetArt-20250422-homemaker-02-
@@ -3357,7 +3357,7 @@ tag: upskirt
 title: Theia 2
 type: movie
 site: MetArt
-cast: n:Miluna Elle; u:https://www.metart.com/model/miluna-elle
+model: n:Miluna Elle; id:/model/metart/miluna-elle; u:https://www.metart.com/model/miluna-elle
 released: 2025-04-20
 director: Indie Blake
 fileprefix: MetArt-20250420-theia-02-
@@ -3376,7 +3376,7 @@ tag: belgium
 title: Reverie Whisper 2
 type: movie
 site: MetArt
-cast: n:Toree; u:https://www.metart.com/model/toree
+model: n:Toree; id:/model/metart/toree; u:https://www.metart.com/model/toree
 released: 2025-04-15
 director: Chorniy Art
 fileprefix: MetArt-20250415-reverie-whisper-02-
@@ -3421,7 +3421,7 @@ tag: ukraine
 title: Insatiable 2
 type: movie
 site: MetArt
-cast: n:Elly Clutch; u:https://www.metart.com/model/elly-clutch
+model: n:Elly Clutch; id:/model/metart/elly-clutch; u:https://www.metart.com/model/elly-clutch
 released: 2025-04-13
 director: Indie Blake
 fileprefix: MetArt-20250413-insatiable-02-
@@ -3440,7 +3440,7 @@ tag: united states
 title: Nikoleta's Gambit 2
 type: movie
 site: MetArt
-cast: n:Nikoleta; u:https://www.metart.com/model/nikoleta
+model: n:Nikoleta; id:/model/metart/nikoleta; u:https://www.metart.com/model/nikoleta
 released: 2025-04-08
 director: Tora Ness
 fileprefix: MetArt-20250408-nikoletas-gambit-02-
@@ -3459,7 +3459,7 @@ tag: latvia
 title: Between Us
 type: movie
 site: MetArt
-cast: n:Shany; u:https://www.metart.com/model/shany
+model: n:Shany; id:/model/metart/shany; u:https://www.metart.com/model/shany
 released: 2025-04-06
 director: Cecelia
 fileprefix: MetArt-20250406-between-us-
@@ -3506,7 +3506,7 @@ tag: upskirt
 title: Tropical View 2
 type: movie
 site: MetArt
-cast: n:Tan; u:https://www.metart.com/model/tan
+model: n:Tan; id:/model/metart/tan; u:https://www.metart.com/model/tan
 released: 2025-04-01
 director: Robert Graham
 fileprefix: MetArt-20250401-tropical-view-02-
@@ -3526,7 +3526,7 @@ tag: thailand
 title: Voyeur's Dream 2
 type: movie
 site: MetArt
-cast: n:Amber Aura; u:https://www.metart.com/model/amber-aura
+model: n:Amber Aura; id:/model/metart/amber-aura; u:https://www.metart.com/model/amber-aura
 released: 2025-03-30
 director: Indie Blake
 fileprefix: MetArt-20250330-voyeurs-dream-02-
@@ -3574,7 +3574,7 @@ tag: united states
 title: Janey 06
 type: movie
 site: MetArt
-cast: n:Janey; u:https://www.metart.com/model/janey
+model: n:Janey; id:/model/metart/janey; u:https://www.metart.com/model/janey
 released: 2025-03-27
 fileprefix: MetArt-20250327-janey-06-
 rating: 94
@@ -3591,7 +3591,7 @@ duration: 6m42s
 title: Isabela's Interview 2
 type: movie
 site: MetArt
-cast: n:Isabela De Laa; u:https://www.sexart.com/model/isabela-de-laa; g:f; s:SexArt
+model: n:Isabela De Laa; id:/model/sexart/isabela-de-laa; u:https://www.sexart.com/model/isabela-de-laa; g:f
 released: 2025-03-25
 director: Luca Helios
 fileprefix: MetArt-20250325-isabelas-interview-02-
@@ -3637,7 +3637,7 @@ tag: trimmed pussy
 title: Taste my Fruit 2
 type: movie
 site: MetArt
-cast: n:Putri Cinta; u:https://www.metart.com/model/putri-cinta
+model: n:Putri Cinta; id:/model/metart/putri-cinta; u:https://www.metart.com/model/putri-cinta
 released: 2025-03-23
 director: Indie Blake
 fileprefix: MetArt-20250323-taste-my-fruit-02-
@@ -3657,7 +3657,7 @@ tag: indonesia
 title: Decoris 2
 type: movie
 site: MetArt
-cast: n:Kylie Kennedy; u:https://www.metart.com/model/kylie-kennedy
+model: n:Kylie Kennedy; id:/model/metart/kylie-kennedy; u:https://www.metart.com/model/kylie-kennedy
 released: 2025-03-16
 director: Indie Blake
 fileprefix: MetArt-20250316-decoris-02-
@@ -3704,8 +3704,8 @@ tag: upskirt
 title: Lollygag 2
 type: movie
 site: MetArt
-cast: n:Hannah Le; u:https://www.metart.com/model/hannah-le
-cast: n:Tavia; u:https://www.metart.com/model/tavia
+model: n:Hannah Le; id:/model/metart/hannah-le; u:https://www.metart.com/model/hannah-le
+model: n:Tavia; id:/model/metart/tavia; u:https://www.metart.com/model/tavia
 released: 2025-03-11
 director: Indie Blake
 fileprefix: MetArt-20250311-lollygag-02-
@@ -3759,7 +3759,7 @@ tag: upskirt
 title: Wet and Soapy 2
 type: movie
 site: MetArt
-cast: n:Olivia Taylor; u:https://www.metart.com/model/olivia-taylor
+model: n:Olivia Taylor; id:/model/metart/olivia-taylor; u:https://www.metart.com/model/olivia-taylor
 released: 2025-03-09
 director: Indie Blake
 fileprefix: MetArt-20250309-wet-and-soapy-02-
@@ -3807,7 +3807,7 @@ tag: upskirt
 title: Private Cabin 2
 type: movie
 site: MetArt
-cast: n:Sky Pierce; u:https://www.metart.com/model/sky-pierce
+model: n:Sky Pierce; id:/model/metart/sky-pierce; u:https://www.metart.com/model/sky-pierce
 released: 2025-03-04
 director: Indie Blake
 fileprefix: MetArt-20250304-private-cabin-02-
@@ -3857,7 +3857,7 @@ tag: upskirt
 title: Thai Flower 2
 type: movie
 site: MetArt
-cast: n:Rose Sarinz; u:https://www.metart.com/model/rose-sarinz
+model: n:Rose Sarinz; id:/model/metart/rose-sarinz; u:https://www.metart.com/model/rose-sarinz
 released: 2025-03-02
 director: Robert Graham
 fileprefix: MetArt-20250302-thai-flower-02-
@@ -3906,7 +3906,7 @@ tag: thongs
 title: Hidden Purpose 2
 type: movie
 site: MetArt
-cast: n:Lareina Tay; u:https://www.metart.com/model/lareina-tay
+model: n:Lareina Tay; id:/model/metart/lareina-tay; u:https://www.metart.com/model/lareina-tay
 released: 2025-02-25
 director: Indie Blake
 fileprefix: MetArt-20250225-hidden-purpose-02-
@@ -3948,7 +3948,7 @@ tag: upskirt
 title: Distracted 2
 type: movie
 site: MetArt
-cast: n:Avery; u:https://www.metart.com/model/avery
+model: n:Avery; id:/model/metart/avery; u:https://www.metart.com/model/avery
 released: 2025-02-23
 director: James Allen
 fileprefix: MetArt-20250223-distracted-02-
@@ -4001,7 +4001,7 @@ tag: upskirt
 title: Emily Swan 06
 type: movie
 site: MetArt
-cast: n:Emily Swan; u:https://www.sexart.com/model/emily-swan; s:SexArt
+model: n:Emily Swan; id:/model/sexart/emily-swan; u:https://www.sexart.com/model/emily-swan
 released: 2025-02-20
 fileprefix: MetArt-20250220-emily-swan-06-
 rating: 96
@@ -4018,7 +4018,7 @@ tag: ukraine
 title: Away With You 2
 type: movie
 site: MetArt
-cast: n:Bella Donna; u:https://www.metart.com/model/bella-donna
+model: n:Bella Donna; id:/model/metart/bella-donna; u:https://www.metart.com/model/bella-donna
 released: 2025-02-18
 director: Indie Blake
 fileprefix: MetArt-20250218-away-with-you-02-
@@ -4062,7 +4062,7 @@ tag: upskirt
 title: Naked at Noon
 type: movie
 site: MetArt
-cast: n:Kira Rami; u:https://www.sexart.com/model/kira-rami; g:f; s:SexArt
+model: n:Kira Rami; id:/model/sexart/kira-rami; u:https://www.sexart.com/model/kira-rami; g:f
 released: 2025-02-16
 director: Nudero
 fileprefix: MetArt-20250216-naked-at-noon-
@@ -4104,7 +4104,7 @@ tag: spread legs
 title: Astonish Design 2
 type: movie
 site: MetArt
-cast: n:Hilary C; u:https://www.metart.com/model/hilary-c
+model: n:Hilary C; id:/model/metart/hilary-c; u:https://www.metart.com/model/hilary-c
 released: 2025-02-11
 director: James Allen
 fileprefix: MetArt-20250211-astonish-design-02-
@@ -4150,7 +4150,7 @@ tag: upskirt
 title: Spiral Staircase 2
 type: movie
 site: MetArt
-cast: n:Sirena Milano; u:https://www.sexart.com/model/sirena-milano; g:f; s:SexArt
+model: n:Sirena Milano; id:/model/sexart/sirena-milano; u:https://www.sexart.com/model/sirena-milano; g:f
 released: 2025-02-09
 director: Luca Helios
 fileprefix: MetArt-20250209-spiral-staircase-02-
@@ -4197,7 +4197,7 @@ tag: trimmed pussy
 title: Secret Room 2
 type: movie
 site: MetArt
-cast: n:Sophia Mae; u:https://www.metart.com/model/sophia-mae
+model: n:Sophia Mae; id:/model/metart/sophia-mae; u:https://www.metart.com/model/sophia-mae
 released: 2025-02-04
 director: Indie Blake
 fileprefix: MetArt-20250204-secret-room-02-
@@ -4242,7 +4242,7 @@ tag: upskirt
 title: Ryana 06
 type: movie
 site: MetArt
-cast: n:Ryana; u:https://www.sexart.com/model/ryana; g:f; s:SexArt
+model: n:Ryana; id:/model/sexart/ryana; u:https://www.sexart.com/model/ryana; g:f
 released: 2025-01-23
 fileprefix: MetArt-20250123-ryana-06-
 rating: 94
@@ -4259,7 +4259,7 @@ duration: 6m46s
 title: Touching Me
 type: movie
 site: MetArt
-cast: n:Vicki Wade; u:https://www.sexart.com/model/vicki-wade; g:f; s:SexArt
+model: n:Vicki Wade; id:/model/sexart/vicki-wade; u:https://www.sexart.com/model/vicki-wade; g:f
 released: 2025-02-02
 director: Nudero
 fileprefix: MetArt-20250202-touching-me-
@@ -4302,7 +4302,7 @@ tag: upskirt
 title: Naughty Housewife 2
 type: movie
 site: MetArt
-cast: n:Ella Bonita; u:https://www.sexart.com/model/ella-bonita; g:f; s:SexArt
+model: n:Ella Bonita; id:/model/sexart/ella-bonita; u:https://www.sexart.com/model/ella-bonita; g:f
 released: 2025-01-31
 director: Tora Ness
 fileprefix: MetArt-20250131-naughty-housewife-02-
@@ -4344,7 +4344,7 @@ tag: table
 title: Sakura's Interview 2
 type: movie
 site: MetArt
-cast: n:Sakura Hell; u:https://www.metart.com/model/sakura-hell
+model: n:Sakura Hell; id:/model/metart/sakura-hell; u:https://www.metart.com/model/sakura-hell
 released: 2025-01-28
 director: Luca Helios
 fileprefix: MetArt-20250128-sakuras-interview-02-
@@ -4390,7 +4390,7 @@ tag: table
 title: Miluna Elle 2
 type: movie
 site: MetArt
-cast: n:Miluna Elle; u:https://www.metart.com/model/miluna-elle
+model: n:Miluna Elle; id:/model/metart/miluna-elle; u:https://www.metart.com/model/miluna-elle
 released: 2025-01-26
 director: Indie Blake
 fileprefix: MetArt-20250126-miluna-elle-02-
@@ -4436,7 +4436,7 @@ tag: upskirt
 title: Ryana 06
 type: movie
 site: MetArt
-cast: n:Ryana; u:https://www.sexart.com/model/ryana; g:f; s:SexArt
+model: n:Ryana; id:/model/sexart/ryana; u:https://www.sexart.com/model/ryana; g:f
 released: 2025-01-23
 fileprefix: MetArt-20250123-ryana-06-
 rating: 94
@@ -4453,7 +4453,7 @@ duration: 6m46s
 title: Try On Haul 2
 type: movie
 site: MetArt
-cast: n:Nata Ocean; u:https://www.metart.com/model/nata-ocean
+model: n:Nata Ocean; id:/model/metart/nata-ocean; u:https://www.metart.com/model/nata-ocean
 released: 2025-01-23
 director: James Allen
 fileprefix: MetArt-20250123-try-on-haul-02-
@@ -4498,7 +4498,7 @@ tag: upskirt
 title: Girl Next Door
 type: movie
 site: MetArt
-cast: n:Sophie Lix; u:https://www.metart.com/model/sophie-lix
+model: n:Sophie Lix; id:/model/metart/sophie-lix; u:https://www.metart.com/model/sophie-lix
 released: 2025-01-21
 director: Cecelia
 fileprefix: MetArt-20250121-girl-next-door-
@@ -4544,7 +4544,7 @@ tag: thongs
 title: Naja 2
 type: movie
 site: MetArt
-cast: n:Putri Cinta; u:https://www.metart.com/model/putri-cinta
+model: n:Putri Cinta; id:/model/metart/putri-cinta; u:https://www.metart.com/model/putri-cinta
 released: 2025-01-19
 director: Indie Blake
 fileprefix: MetArt-20250119-naja-02-
@@ -4582,7 +4582,7 @@ tag: striptease
 title: Taboo Joy 2
 type: movie
 site: MetArt
-cast: n:Tutsi; u:https://www.sexart.com/model/tutsi; g:f
+model: n:Tutsi; id:/model/sexart/tutsi; u:https://www.sexart.com/model/tutsi; g:f
 released: 2025-01-17
 director: Vicente Silva
 fileprefix: MetArt-20250117-taboo-joy-02-
@@ -4628,7 +4628,7 @@ tag: ukraine
 title: Wild Chica 2
 type: movie
 site: MetArt
-cast: n:Tavia; u:https://www.metart.com/model/tavia
+model: n:Tavia; id:/model/metart/tavia; u:https://www.metart.com/model/tavia
 released: 2025-01-14
 director: Indie Blake
 fileprefix: MetArt-20250114-wild-chica-02-
@@ -4674,7 +4674,7 @@ tag: united states
 title: Venus 2
 type: movie
 site: MetArt
-cast: n:Vina Rae; u:https://www.metart.com/model/vina-rae
+model: n:Vina Rae; id:/model/metart/vina-rae; u:https://www.metart.com/model/vina-rae
 released: 2025-01-12
 director: Robert Graham
 fileprefix: MetArt-20250112-venus-02-
@@ -4721,7 +4721,7 @@ tag: thailand
 title: Hold My Stilettos 2
 type: movie
 site: MetArt
-cast: n:Riley Anne; u:https://www.sexart.com/model/riley-anne; g:f; s:SexArt
+model: n:Riley Anne; id:/model/sexart/riley-anne; u:https://www.sexart.com/model/riley-anne; g:f
 released: 2025-01-07
 director: Indie Blake
 fileprefix: MetArt-20250107-hold-my-stilettos-02-
@@ -4768,7 +4768,7 @@ tag: upskirt
 title: Milan Cheek's Interview 2
 type: movie
 site: MetArt
-cast: n:Milan Cheek; u:https://www.metart.com/model/milan-cheek
+model: n:Milan Cheek; id:/model/metart/milan-cheek; u:https://www.metart.com/model/milan-cheek
 released: 2025-01-05
 director: Luca Helios
 fileprefix: MetArt-20250105-milan-cheeks-interview-02-

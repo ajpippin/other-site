@@ -9,8 +9,8 @@ title: Mesmerize
 type: movie
 site: sa
 url: https://www.sexart.com/model/mugur-and-sarah-cute/movie/20191228/MESMERIZE
-cast: Mugur; https://www.sexart.com/model/mugur; g:m
-cast: Sarah Cute; https://www.sexart.com/model/sarah-cute; g:f
+model: n:Mugur; id:/model/sexart/mugur; u:https://www.sexart.com/model/mugur; g:m
+model: n:Sarah Cute; id:/model/sexart/sarah-cute; u:https://www.sexart.com/model/sarah-cute; g:f
 released: 2019-12-28
 director: Andrej Lupin
 rating: 9.2
@@ -70,8 +70,8 @@ title: Seductive
 type: movie
 site: sa
 url: https://www.sexart.com/model/missy-luv-and-alessia-kent/movie/20191227/SEDUCTIVE
-cast: Missy Luv; https://www.sexart.com/model/missy-luv; g:f
-cast: Alessia Kent; https://www.sexart.com/model/alessia-kent; g:f
+model: n:Missy Luv; id:/model/sexart/missy-luv; u:https://www.sexart.com/model/missy-luv; g:f
+model: n:Alessia Kent; id:/model/sexart/alessia-kent; u:https://www.sexart.com/model/alessia-kent; g:f
 released: 2019-12-27
 director: Andrej Lupin
 rating: 9.1
@@ -131,9 +131,9 @@ title: Transcendent
 type: movie
 site: sa
 url: https://www.sexart.com/model/stella-cardo-and-kira-queen-and-stephan-cardo/movie/20191224/TRANSCENDENT
-cast: Stella Cardo; https://www.sexart.com/model/stella-cardo; g:f
-cast: Kira Queen; https://www.sexart.com/model/kira-queen; g:f
-cast: Stephan Cardo; https://www.sexart.com/model/stephan-cardo; g:m
+model: n:Stella Cardo; id:/model/sexart/stella-cardo; u:https://www.sexart.com/model/stella-cardo; g:f
+model: n:Kira Queen; id:/model/sexart/kira-queen; u:https://www.sexart.com/model/kira-queen; g:f
+model: n:Stephan Cardo; id:/model/sexart/stephan-cardo; u:https://www.sexart.com/model/stephan-cardo; g:m
 released: 2019-12-24
 director: Andrej Lupin
 rating: 9.3
@@ -206,11 +206,11 @@ title: SexArt Holiday On Mykonos Episode 4
 type: movie
 site: sa
 url: https://www.sexart.com/model/nick-ross-and-alexis-crystal-and-nancy-a-and-melody-petite-and-eric-el-gran/movie/20191220/SEXART_HOLIDAY_ON_MYKONOS_EPISODE_4
-cast: Nick Ross; https://www.sexart.com/model/nick-ross; g:m
-cast: Alexis Crystal; https://www.sexart.com/model/alexis-crystal; g:f
-cast: Nancy A; https://www.sexart.com/model/nancy-a; g:f
-cast: Melody Petite; https://www.sexart.com/model/melody-petite; g:f
-cast: Eric El Gran; https://www.sexart.com/model/eric-el-gran; g:m
+model: n:Nick Ross; id:/model/sexart/nick-ross; u:https://www.sexart.com/model/nick-ross; g:m
+model: n:Alexis Crystal; id:/model/sexart/alexis-crystal; u:https://www.sexart.com/model/alexis-crystal; g:f
+model: n:Nancy A; id:/model/sexart/nancy-a; u:https://www.sexart.com/model/nancy-a; g:f
+model: n:Melody Petite; id:/model/sexart/melody-petite; u:https://www.sexart.com/model/melody-petite; g:f
+model: n:Eric El Gran; id:/model/sexart/eric-el-gran; u:https://www.sexart.com/model/eric-el-gran; g:m
 released: 2019-12-20
 director: Andrej Lupin
 rating: 8.9
@@ -286,8 +286,8 @@ title: Champagne
 type: movie
 site: sa
 url: https://www.sexart.com/model/ivy-rein-and-angelo-godshack/movie/20191217/CHAMPAGNE
-cast: Ivy Rein; https://www.sexart.com/model/ivy-rein; g:f
-cast: Angelo Godshack; https://www.sexart.com/model/angelo-godshack; g:m
+model: n:Ivy Rein; id:/model/sexart/ivy-rein; u:https://www.sexart.com/model/ivy-rein; g:f
+model: n:Angelo Godshack; id:/model/sexart/angelo-godshack; u:https://www.sexart.com/model/angelo-godshack; g:m
 released: 2019-12-17
 director: Andrej Lupin
 rating: 8.9
@@ -416,10 +416,10 @@ title: Prague Fudge Episode 4
 type: movie
 site: sa
 url: https://www.sexart.com/model/nikky-nutz-and-frida-sante-and-zazie-skymm-and-ivy-rein/movie/20191210/PRAGUE_FUDGE_EPISODE_4
-cast: Nikky Nutz; https://www.sexart.com/model/nikky-nutz; g:m
-cast: Frida Sante; https://www.sexart.com/model/frida-sante; g:f
-cast: Zazie Skymm; https://www.sexart.com/model/zazie-skymm; g:f
-cast: Ivy Rein; https://www.sexart.com/model/ivy-rein; g:f
+model: n:Nikky Nutz; id:/model/sexart/nikky-nutz; u:https://www.sexart.com/model/nikky-nutz; g:m
+model: n:Frida Sante; id:/model/sexart/frida-sante; u:https://www.sexart.com/model/frida-sante; g:f
+model: n:Zazie Skymm; id:/model/sexart/zazie-skymm; u:https://www.sexart.com/model/zazie-skymm; g:f
+model: n:Ivy Rein; id:/model/sexart/ivy-rein; u:https://www.sexart.com/model/ivy-rein; g:f
 released: 2019-12-10
 director: Andrej Lupin
 rating: 9.1
@@ -496,8 +496,8 @@ title: Prague Fudge Episode 3
 type: movie
 site: sa
 url: https://www.sexart.com/model/ivy-rein-and-frida-sante-and-nikky-nutz-and-zazie-skymm/movie/20191206/PRAGUE_FUDGE_EPISODE_3
-cast: Nikky Nutz; https://www.sexart.com/model/nikky-nutz; g:m
-cast: Zazie Skymm; https://www.sexart.com/model/zazie-skymm; g:f
+model: n:Nikky Nutz; id:/model/sexart/nikky-nutz; u:https://www.sexart.com/model/nikky-nutz; g:m
+model: n:Zazie Skymm; id:/model/sexart/zazie-skymm; u:https://www.sexart.com/model/zazie-skymm; g:f
 released: 2019-12-06
 director: Andrej Lupin
 rating: 8.7
@@ -571,10 +571,10 @@ title: Prague Fudge Episode 2
 type: movie
 site: sa
 url: https://www.sexart.com/model/ivy-rein-and-nikky-nutz-and-frida-sante-and-zazie-skymm/movie/20191203/PRAGUE_FUDGE_EPISODE_2
-cast: Ivy Rein; https://www.sexart.com/model/ivy-rein; g:f
-cast: Nikky Nutz; https://www.sexart.com/model/nikky-nutz; g:m
-cast: Frida Sante; https://www.sexart.com/model/frida-sante; g:f
-cast: Zazie Skymm; https://www.sexart.com/model/zazie-skymm; g:f
+model: n:Ivy Rein; id:/model/sexart/ivy-rein; u:https://www.sexart.com/model/ivy-rein; g:f
+model: n:Nikky Nutz; id:/model/sexart/nikky-nutz; u:https://www.sexart.com/model/nikky-nutz; g:m
+model: n:Frida Sante; id:/model/sexart/frida-sante; u:https://www.sexart.com/model/frida-sante; g:f
+model: n:Zazie Skymm; id:/model/sexart/zazie-skymm; u:https://www.sexart.com/model/zazie-skymm; g:f
 released: 2019-12-03
 director: Andrej Lupin
 rating: 9.1
@@ -647,10 +647,10 @@ title: Prague Fudge Episode 1
 type: movie
 site: sa
 url: https://www.sexart.com/model/ivy-rein-and-zazie-skymm-and-frida-sante-and-nikky-nutz/movie/20191129/PRAGUE_FUDGE_EPISODE_1
-cast: Ivy Rein; https://www.sexart.com/model/ivy-rein; g:f
-cast: Zazie Skymm; https://www.sexart.com/model/zazie-skymm; g:f
-cast: Frida Sante; https://www.sexart.com/model/frida-sante; g:f
-cast: Nikky Nutz; https://www.sexart.com/model/nikky-nutz; g:m
+model: n:Ivy Rein; id:/model/sexart/ivy-rein; u:https://www.sexart.com/model/ivy-rein; g:f
+model: n:Zazie Skymm; id:/model/sexart/zazie-skymm; u:https://www.sexart.com/model/zazie-skymm; g:f
+model: n:Frida Sante; id:/model/sexart/frida-sante; u:https://www.sexart.com/model/frida-sante; g:f
+model: n:Nikky Nutz; id:/model/sexart/nikky-nutz; u:https://www.sexart.com/model/nikky-nutz; g:m
 released: 2019-11-29
 director: Andrej Lupin
 rating: 8.9
@@ -733,8 +733,8 @@ title: About Us
 type: movie
 site: sa
 url: https://www.sexart.com/model/nick-ross-and-emylia-argan/movie/20191127/ABOUT_US
-cast: Nick Ross; https://www.sexart.com/model/nick-ross; g:m
-cast: Emylia Argan; https://www.sexart.com/model/emylia-argan; g:f
+model: n:Nick Ross; id:/model/sexart/nick-ross; u:https://www.sexart.com/model/nick-ross; g:m
+model: n:Emylia Argan; id:/model/sexart/emylia-argan; u:https://www.sexart.com/model/emylia-argan; g:f
 released: 2019-11-27
 director: Andrej Lupin
 rating: 9.1
@@ -798,8 +798,8 @@ title: Lost In Time
 type: movie
 site: sa
 url: https://www.sexart.com/model/alyssa-reece-and-paula-shy/movie/20191126/LOST_IN_TIME
-cast: Alyssa Reece; https://www.sexart.com/model/alyssa-reece; g:f
-cast: Paula Shy; https://www.sexart.com/model/paula-shy; g:f
+model: n:Alyssa Reece; id:/model/sexart/alyssa-reece; u:https://www.sexart.com/model/alyssa-reece; g:f
+model: n:Paula Shy; id:/model/sexart/paula-shy; u:https://www.sexart.com/model/paula-shy; g:f
 released: 2019-11-26
 director: Andrej Lupin
 rating: 9.2
@@ -860,10 +860,10 @@ title: Apt. 44 Episode 2
 type: movie
 site: sa
 url: https://www.sexart.com/model/maxmilian-dior-and-stanley-jones-and-jenny-wild-and-kira-queen/movie/20191122/APT._44_EPISODE_2
-cast: Maxmilian Dior; https://www.sexart.com/model/maxmilian-dior; g:m
-cast: Stanley Jones; https://www.sexart.com/model/stanley-jones; g:m
-cast: Jenny Wild; https://www.sexart.com/model/jenny-wild; g:f
-cast: Kira Queen; https://www.sexart.com/model/kira-queen; g:f
+model: n:Maxmilian Dior; id:/model/sexart/maxmilian-dior; u:https://www.sexart.com/model/maxmilian-dior; g:m
+model: n:Stanley Jones; id:/model/sexart/stanley-jones; u:https://www.sexart.com/model/stanley-jones; g:m
+model: n:Jenny Wild; id:/model/sexart/jenny-wild; u:https://www.sexart.com/model/jenny-wild; g:f
+model: n:Kira Queen; id:/model/sexart/kira-queen; u:https://www.sexart.com/model/kira-queen; g:f
 released: 2019-11-22
 director: Andrej Lupin
 rating: 9.0
@@ -935,10 +935,10 @@ title: Apt. 44 Episode 1
 type: movie
 site: sa
 url: https://www.sexart.com/model/kira-queen-and-maxmilian-dior-and-jenny-wild-and-stanley-jones/movie/20191119/APT._44_EPISODE_1
-cast: Kira Queen; https://www.sexart.com/model/kira-queen; g:f
-cast: Maxmilian Dior; https://www.sexart.com/model/maxmilian-dior; g:m
-cast: Jenny Wild; https://www.sexart.com/model/jenny-wild; g:f
-cast: Stanley Jones; https://www.sexart.com/model/stanley-jones; g:m
+model: n:Kira Queen; id:/model/sexart/kira-queen; u:https://www.sexart.com/model/kira-queen; g:f
+model: n:Maxmilian Dior; id:/model/sexart/maxmilian-dior; u:https://www.sexart.com/model/maxmilian-dior; g:m
+model: n:Jenny Wild; id:/model/sexart/jenny-wild; u:https://www.sexart.com/model/jenny-wild; g:f
+model: n:Stanley Jones; id:/model/sexart/stanley-jones; u:https://www.sexart.com/model/stanley-jones; g:m
 released: 2019-11-19
 director: Andrej Lupin
 rating: 9.1
@@ -1009,8 +1009,8 @@ title: Better Man
 type: movie
 site: sa
 url: https://www.sexart.com/model/emylia-argan-and-nick-ross/movie/20191115/BETTER_MAN
-cast: Emylia Argan; https://www.sexart.com/model/emylia-argan; g:f
-cast: Nick Ross; https://www.sexart.com/model/nick-ross; g:m
+model: n:Emylia Argan; id:/model/sexart/emylia-argan; u:https://www.sexart.com/model/emylia-argan; g:f
+model: n:Nick Ross; id:/model/sexart/nick-ross; u:https://www.sexart.com/model/nick-ross; g:m
 released: 2019-11-15
 director: Andrej Lupin
 rating: 9.2
@@ -1074,8 +1074,8 @@ title: Notebook
 type: movie
 site: sa
 url: https://www.sexart.com/model/lee-anne-and-nick-ross/movie/20191112/NOTEBOOK
-cast: Lee Anne; https://www.sexart.com/model/lee-anne; g:f
-cast: Nick Ross; https://www.sexart.com/model/nick-ross; g:m
+model: n:Lee Anne; id:/model/sexart/lee-anne; u:https://www.sexart.com/model/lee-anne; g:f
+model: n:Nick Ross; id:/model/sexart/nick-ross; u:https://www.sexart.com/model/nick-ross; g:m
 released: 2019-11-12
 director: Andrej Lupin
 rating: 9.2
@@ -1139,8 +1139,8 @@ title: Ballerina
 type: movie
 site: sa
 url: https://www.sexart.com/model/nick-ross-and-mia-split/movie/20191108/BALLERINA
-cast: Nick Ross; https://www.sexart.com/model/nick-ross; g:m
-cast: Mia Split; https://www.sexart.com/model/mia-split; g:f
+model: n:Nick Ross; id:/model/sexart/nick-ross; u:https://www.sexart.com/model/nick-ross; g:m
+model: n:Mia Split; id:/model/sexart/mia-split; u:https://www.sexart.com/model/mia-split; g:f
 released: 2019-11-08
 director: Andrej Lupin
 rating: 9.0
@@ -1213,11 +1213,11 @@ title: SexArt Holiday On Mykonos Episode 3
 type: movie
 site: sa
 url: https://www.sexart.com/model/eric-el-gran-and-alexis-crystal-and-nancy-a-and-nick-ross-and-melody-petite/movie/20191105/SEXART_HOLIDAY_ON_MYKONOS_EPISODE_3
-cast: Eric El Gran; https://www.sexart.com/model/eric-el-gran; g:m
-cast: Alexis Crystal; https://www.sexart.com/model/alexis-crystal; g:f
-cast: Nancy A; https://www.sexart.com/model/nancy-a; g:f
-cast: Nick Ross; https://www.sexart.com/model/nick-ross; g:m
-cast: Melody Petite; https://www.sexart.com/model/melody-petite; g:f
+model: n:Eric El Gran; id:/model/sexart/eric-el-gran; u:https://www.sexart.com/model/eric-el-gran; g:m
+model: n:Alexis Crystal; id:/model/sexart/alexis-crystal; u:https://www.sexart.com/model/alexis-crystal; g:f
+model: n:Nancy A; id:/model/sexart/nancy-a; u:https://www.sexart.com/model/nancy-a; g:f
+model: n:Nick Ross; id:/model/sexart/nick-ross; u:https://www.sexart.com/model/nick-ross; g:m
+model: n:Melody Petite; id:/model/sexart/melody-petite; u:https://www.sexart.com/model/melody-petite; g:f
 released: 2019-11-05
 director: Andrej Lupin
 rating: 8.7
@@ -1303,9 +1303,9 @@ title: Bad Day
 type: movie
 site: sa
 url: https://www.sexart.com/model/emylia-argan-and-maxmilian-dior-and-angelo-godshack/movie/20191101/BAD_DAY
-cast: Emylia Argan; https://www.sexart.com/model/emylia-argan; g:f
-cast: Maxmilian Dior; https://www.sexart.com/model/maxmilian-dior; g:m
-cast: Angelo Godshack; https://www.sexart.com/model/angelo-godshack; g:m
+model: n:Emylia Argan; id:/model/sexart/emylia-argan; u:https://www.sexart.com/model/emylia-argan; g:f
+model: n:Maxmilian Dior; id:/model/sexart/maxmilian-dior; u:https://www.sexart.com/model/maxmilian-dior; g:m
+model: n:Angelo Godshack; id:/model/sexart/angelo-godshack; u:https://www.sexart.com/model/angelo-godshack; g:m
 released: 2019-11-01
 director: Andrej Lupin
 rating: 8.9
@@ -1365,8 +1365,8 @@ title: Street Romance
 type: movie
 site: sa
 url: https://www.sexart.com/model/stephan-cardo-and-stella-cardo/movie/20191029/STREET_ROMANCE
-cast: Stephan Cardo; https://www.sexart.com/model/stephan-cardo; g:m
-cast: Stella Cardo; https://www.sexart.com/model/stella-cardo; g:f
+model: n:Stephan Cardo; id:/model/sexart/stephan-cardo; u:https://www.sexart.com/model/stephan-cardo; g:m
+model: n:Stella Cardo; id:/model/sexart/stella-cardo; u:https://www.sexart.com/model/stella-cardo; g:f
 released: 2019-10-29
 director: Andrej Lupin
 rating: 9.3
@@ -1440,8 +1440,8 @@ title: Follow My Footsteps
 type: movie
 site: sa
 url: https://www.sexart.com/model/sybil-a-and-charlie-dean/movie/20191025/FOLLOW_MY_FOOTSTEPS
-cast: Sybil A; https://www.sexart.com/model/sybil-a; g:f
-cast: Charlie Dean; https://www.sexart.com/model/charlie-dean; g:m
+model: n:Sybil A; id:/model/sexart/sybil-a; u:https://www.sexart.com/model/sybil-a; g:f
+model: n:Charlie Dean; id:/model/sexart/charlie-dean; u:https://www.sexart.com/model/charlie-dean; g:m
 released: 2019-10-25
 director: Andrej Lupin
 rating: 9.4
@@ -1515,8 +1515,8 @@ title: Warm Embrace
 type: movie
 site: sa
 url: https://www.sexart.com/model/angelo-godshack-and-lee-anne/movie/20191023/WARM_EMBRACE
-cast: Angelo Godshack; https://www.sexart.com/model/angelo-godshack; g:m
-cast: Lee Anne; https://www.sexart.com/model/lee-anne; g:f
+model: n:Angelo Godshack; id:/model/sexart/angelo-godshack; u:https://www.sexart.com/model/angelo-godshack; g:m
+model: n:Lee Anne; id:/model/sexart/lee-anne; u:https://www.sexart.com/model/lee-anne; g:f
 released: 2019-10-23
 director: Andrej Lupin
 rating: 9.1
@@ -1581,8 +1581,8 @@ title: Don't Bring Me Down
 type: movie
 site: sa
 url: https://www.sexart.com/model/maxmilian-dior-and-emylia-argan/movie/20191022/DON_T_BRING_ME_DOWN
-cast: Maxmilian Dior; https://www.sexart.com/model/maxmilian-dior; g:m
-cast: Emylia Argan; https://www.sexart.com/model/emylia-argan; g:f
+model: n:Maxmilian Dior; id:/model/sexart/maxmilian-dior; u:https://www.sexart.com/model/maxmilian-dior; g:m
+model: n:Emylia Argan; id:/model/sexart/emylia-argan; u:https://www.sexart.com/model/emylia-argan; g:f
 released: 2019-10-22
 director: Andrej Lupin
 rating: 9.1
@@ -1643,8 +1643,8 @@ title: Take My Hand
 type: movie
 site: sa
 url: https://www.sexart.com/model/florane-russell-and-kristof-cale/movie/20191019/TAKE_MY_HAND
-cast: Florane Russell; https://www.sexart.com/model/florane-russell; g:f
-cast: Kristof Cale; https://www.sexart.com/model/kristof-cale; g:m
+model: n:Florane Russell; id:/model/sexart/florane-russell; u:https://www.sexart.com/model/florane-russell; g:f
+model: n:Kristof Cale; id:/model/sexart/kristof-cale; u:https://www.sexart.com/model/kristof-cale; g:m
 released: 2019-10-19
 director: Andrej Lupin
 rating: 8.7
@@ -1706,8 +1706,8 @@ title: Those Girls
 type: movie
 site: sa
 url: https://www.sexart.com/model/zazie-skymm-and-sarah-kay/movie/20191018/THOSE_GIRLS
-cast: Zazie Skymm; https://www.sexart.com/model/zazie-skymm; g:f
-cast: Sarah Kay; https://www.sexart.com/model/sarah-kay; g:f
+model: n:Zazie Skymm; id:/model/sexart/zazie-skymm; u:https://www.sexart.com/model/zazie-skymm; g:f
+model: n:Sarah Kay; id:/model/sexart/sarah-kay; u:https://www.sexart.com/model/sarah-kay; g:f
 released: 2019-10-18
 director: Andrej Lupin
 rating: 9.1
@@ -1777,8 +1777,8 @@ title: Forever
 type: movie
 site: sa
 url: https://www.sexart.com/model/dorian-del-isla-and-emylia-argan/movie/20191015/FOREVER
-cast: Dorian Del Isla; https://www.sexart.com/model/dorian-del-isla; g:m
-cast: Emylia Argan; https://www.sexart.com/model/emylia-argan; g:f
+model: n:Dorian Del Isla; id:/model/sexart/dorian-del-isla; u:https://www.sexart.com/model/dorian-del-isla; g:m
+model: n:Emylia Argan; id:/model/sexart/emylia-argan; u:https://www.sexart.com/model/emylia-argan; g:f
 released: 2019-10-15
 director: Andrej Lupin
 rating: 9.1
@@ -1838,12 +1838,12 @@ title: SexArt Holiday On Mykonos Episode 2
 type: movie
 site: sa
 url: https://www.sexart.com/model/nancy-a-and-alexis-crystal-and-ariel-piper-fawn-and-nick-ross-and-melody-petite-and-eric-el-gran/movie/20191011/SEXART_HOLIDAY_ON_MYKONOS_EPISODE_2
-cast: Nancy A; https://www.sexart.com/model/nancy-a; g:f
-cast: Alexis Crystal; https://www.sexart.com/model/alexis-crystal; g:f
-cast: Ariel Piper Fawn; https://www.sexart.com/model/ariel-piper-fawn; g:f
-cast: Nick Ross; https://www.sexart.com/model/nick-ross; g:m
-cast: Melody Petite; https://www.sexart.com/model/melody-petite; g:f
-cast: Eric El Gran; https://www.sexart.com/model/eric-el-gran; g:m
+model: n:Nancy A; id:/model/sexart/nancy-a; u:https://www.sexart.com/model/nancy-a; g:f
+model: n:Alexis Crystal; id:/model/sexart/alexis-crystal; u:https://www.sexart.com/model/alexis-crystal; g:f
+model: n:Ariel Piper Fawn; id:/model/sexart/ariel-piper-fawn; u:https://www.sexart.com/model/ariel-piper-fawn; g:f
+model: n:Nick Ross; id:/model/sexart/nick-ross; u:https://www.sexart.com/model/nick-ross; g:m
+model: n:Melody Petite; id:/model/sexart/melody-petite; u:https://www.sexart.com/model/melody-petite; g:f
+model: n:Eric El Gran; id:/model/sexart/eric-el-gran; u:https://www.sexart.com/model/eric-el-gran; g:m
 released: 2019-10-11
 director: Andrej Lupin
 rating: 9.0
@@ -1936,9 +1936,9 @@ title: Birthday Part 2 - Change Of Plan
 type: movie
 site: sa
 url: https://www.sexart.com/model/paula-shy-and-emylia-argan-and-eric-el-gran/movie/20191009/BIRTHDAY_PART_2_-_CHANGE_OF_PLAN
-cast: Paula Shy; https://www.sexart.com/model/paula-shy; g:f
-cast: Emylia Argan; https://www.sexart.com/model/emylia-argan; g:f
-cast: Eric El Gran; https://www.sexart.com/model/eric-el-gran; g:m
+model: n:Paula Shy; id:/model/sexart/paula-shy; u:https://www.sexart.com/model/paula-shy; g:f
+model: n:Emylia Argan; id:/model/sexart/emylia-argan; u:https://www.sexart.com/model/emylia-argan; g:f
+model: n:Eric El Gran; id:/model/sexart/eric-el-gran; u:https://www.sexart.com/model/eric-el-gran; g:m
 released: 2019-10-09
 director: Andrej Lupin
 rating: 9.1
@@ -2033,8 +2033,8 @@ title: Birthday Part 1 - Perfect Start
 type: movie
 site: sa
 url: https://www.sexart.com/model/paula-shy-and-emylia-argan/movie/20191008/BIRTHDAY_PART_1_-_PERFECT_START
-cast: Paula Shy; https://www.sexart.com/model/paula-shy; g:f
-cast: Emylia Argan; https://www.sexart.com/model/emylia-argan; g:f
+model: n:Paula Shy; id:/model/sexart/paula-shy; u:https://www.sexart.com/model/paula-shy; g:f
+model: n:Emylia Argan; id:/model/sexart/emylia-argan; u:https://www.sexart.com/model/emylia-argan; g:f
 released: 2019-10-08
 director: Andrej Lupin
 rating: 9.2
@@ -2107,8 +2107,8 @@ title: Impression
 type: movie
 site: sa
 url: https://www.sexart.com/model/antonia-sainz-and-marilyn-sugar/movie/20191004/IMPRESSION
-cast: Antonia Sainz; https://www.sexart.com/model/antonia-sainz; g:f
-cast: Marilyn Sugar; https://www.sexart.com/model/marilyn-sugar; g:f
+model: n:Antonia Sainz; id:/model/sexart/antonia-sainz; u:https://www.sexart.com/model/antonia-sainz; g:f
+model: n:Marilyn Sugar; id:/model/sexart/marilyn-sugar; u:https://www.sexart.com/model/marilyn-sugar; g:f
 released: 2019-10-04
 director: Andrej Lupin
 rating: 8.9
@@ -2170,8 +2170,8 @@ title: Now That I Know You
 type: movie
 site: sa
 url: https://www.sexart.com/model/michael-fly-and-alecia-fox/movie/20191002/NOW_THAT_I_KNOW_YOU
-cast: Michael Fly; https://www.sexart.com/model/michael-fly; g:m
-cast: Alecia Fox; https://www.sexart.com/model/alecia-fox; g:f
+model: n:Michael Fly; id:/model/sexart/michael-fly; u:https://www.sexart.com/model/michael-fly; g:m
+model: n:Alecia Fox; id:/model/sexart/alecia-fox; u:https://www.sexart.com/model/alecia-fox; g:f
 released: 2019-10-02
 director: Andrej Lupin
 rating: 9.1
@@ -2245,8 +2245,8 @@ title: Move On
 type: movie
 site: sa
 url: https://www.sexart.com/model/taissia-a-and-maxmilian-dior/movie/20190928/MOVE_ON
-cast: Taissia A; https://www.sexart.com/model/taissia-a; g:f
-cast: Maxmilian Dior; https://www.sexart.com/model/maxmilian-dior; g:m
+model: n:Taissia A; id:/model/sexart/taissia-a; u:https://www.sexart.com/model/taissia-a; g:f
+model: n:Maxmilian Dior; id:/model/sexart/maxmilian-dior; u:https://www.sexart.com/model/maxmilian-dior; g:m
 released: 2019-09-28
 director: Andrej Lupin
 rating: 9.1
@@ -2305,11 +2305,11 @@ title: SexArt Holiday On Mykonos Part 1
 type: movie
 site: sa
 url: https://www.sexart.com/model/nancy-a-and-nick-ross-and-eric-el-gran-and-alexis-crystal-and-melody-petite/movie/20190925/SEXART_HOLIDAY_ON_MYKONOS_PART_1
-cast: Nancy A; https://www.sexart.com/model/nancy-a; g:f
-cast: Nick Ross; https://www.sexart.com/model/nick-ross; g:m
-cast: Eric El Gran; https://www.sexart.com/model/eric-el-gran; g:m
-cast: Alexis Crystal; https://www.sexart.com/model/alexis-crystal; g:f
-cast: Melody Petite; https://www.sexart.com/model/melody-petite; g:f
+model: n:Nancy A; id:/model/sexart/nancy-a; u:https://www.sexart.com/model/nancy-a; g:f
+model: n:Nick Ross; id:/model/sexart/nick-ross; u:https://www.sexart.com/model/nick-ross; g:m
+model: n:Eric El Gran; id:/model/sexart/eric-el-gran; u:https://www.sexart.com/model/eric-el-gran; g:m
+model: n:Alexis Crystal; id:/model/sexart/alexis-crystal; u:https://www.sexart.com/model/alexis-crystal; g:f
+model: n:Melody Petite; id:/model/sexart/melody-petite; u:https://www.sexart.com/model/melody-petite; g:f
 released: 2019-09-25
 director: Andrej Lupin
 rating: 8.9
@@ -2381,8 +2381,8 @@ title: Faux Pas
 type: movie
 site: sa
 url: https://www.sexart.com/model/tracy-lindsay-and-sybil-a/movie/20190922/FAUX_PAS
-cast: Tracy Lindsay; https://www.sexart.com/model/tracy-lindsay; g:f
-cast: Sybil A; https://www.sexart.com/model/sybil-a; g:f
+model: n:Tracy Lindsay; id:/model/sexart/tracy-lindsay; u:https://www.sexart.com/model/tracy-lindsay; g:f
+model: n:Sybil A; id:/model/sexart/sybil-a; u:https://www.sexart.com/model/sybil-a; g:f
 released: 2019-09-22
 director: Andrej Lupin
 rating: 9.2
@@ -2456,8 +2456,8 @@ title: Turn Off
 type: movie
 site: sa
 url: https://www.sexart.com/model/stacy-cruz-and-emylia-argan/movie/20190920/TURN_OFF
-cast: Stacy Cruz; https://www.sexart.com/model/stacy-cruz; g:f
-cast: Emylia Argan; https://www.sexart.com/model/emylia-argan; g:f
+model: n:Stacy Cruz; id:/model/sexart/stacy-cruz; u:https://www.sexart.com/model/stacy-cruz; g:f
+model: n:Emylia Argan; id:/model/sexart/emylia-argan; u:https://www.sexart.com/model/emylia-argan; g:f
 released: 2019-09-20
 director: Andrej Lupin
 rating: 9.0
@@ -2514,8 +2514,8 @@ title: Break
 type: movie
 site: sa
 url: https://www.sexart.com/model/lee-anne-and-florane-russell/movie/20190918/BREAK
-cast: Lee Anne; https://www.sexart.com/model/lee-anne; g:f
-cast: Florane Russell; https://www.sexart.com/model/florane-russell; g:f
+model: n:Lee Anne; id:/model/sexart/lee-anne; u:https://www.sexart.com/model/lee-anne; g:f
+model: n:Florane Russell; id:/model/sexart/florane-russell; u:https://www.sexart.com/model/florane-russell; g:f
 released: 2019-09-18
 director: Andrej Lupin
 rating: 9.1
@@ -2573,8 +2573,8 @@ title: Veto
 type: movie
 site: sa
 url: https://www.sexart.com/model/cherry-kiss-and-kinuski/movie/20190916/VETO
-cast: Cherry Kiss; https://www.sexart.com/model/cherry-kiss; g:f
-cast: Kinuski; https://www.sexart.com/model/kinuski; g:f
+model: n:Cherry Kiss; id:/model/sexart/cherry-kiss; u:https://www.sexart.com/model/cherry-kiss; g:f
+model: n:Kinuski; id:/model/sexart/kinuski; u:https://www.sexart.com/model/kinuski; g:f
 released: 2019-09-16
 director: Andrej Lupin
 rating: 9.3
@@ -2631,8 +2631,8 @@ title: Give Me Your Love
 type: movie
 site: sa
 url: https://www.sexart.com/model/lee-anne-and-maxmilian-dior/movie/20190915/GIVE_ME_YOUR_LOVE
-cast: Lee Anne; https://www.sexart.com/model/lee-anne; g:f
-cast: Maxmilian Dior; https://www.sexart.com/model/maxmilian-dior; g:m
+model: n:Lee Anne; id:/model/sexart/lee-anne; u:https://www.sexart.com/model/lee-anne; g:f
+model: n:Maxmilian Dior; id:/model/sexart/maxmilian-dior; u:https://www.sexart.com/model/maxmilian-dior; g:m
 released: 2019-09-15
 director: Andrej Lupin
 rating: 9.2
@@ -2695,8 +2695,8 @@ title: Temptress
 type: movie
 site: sa
 url: https://www.sexart.com/model/paula-shy-and-lexi-dona/movie/20190913/TEMPTRESS
-cast: Paula Shy; https://www.sexart.com/model/paula-shy; g:f
-cast: Lexi Dona; https://www.sexart.com/model/lexi-dona; g:f
+model: n:Paula Shy; id:/model/sexart/paula-shy; u:https://www.sexart.com/model/paula-shy; g:f
+model: n:Lexi Dona; id:/model/sexart/lexi-dona; u:https://www.sexart.com/model/lexi-dona; g:f
 released: 2019-09-13
 director: Andrej Lupin
 rating: 9.2
@@ -2754,8 +2754,8 @@ title: Contour
 type: movie
 site: sa
 url: https://www.sexart.com/model/maxmilian-dior-and-lady-bug/movie/20190911/CONTOUR
-cast: Maxmilian Dior; https://www.sexart.com/model/maxmilian-dior; g:m
-cast: Lady Bug; https://www.sexart.com/model/lady-bug; g:f
+model: n:Maxmilian Dior; id:/model/sexart/maxmilian-dior; u:https://www.sexart.com/model/maxmilian-dior; g:m
+model: n:Lady Bug; id:/model/sexart/lady-bug; u:https://www.sexart.com/model/lady-bug; g:f
 released: 2019-09-11
 director: Andrej Lupin
 rating: 9.0
@@ -2818,8 +2818,8 @@ title: Look Here
 type: movie
 site: sa
 url: https://www.sexart.com/model/sam-bourne-and-antonia-sainz/movie/20190908/LOOK_HERE
-cast: Sam Bourne; https://www.sexart.com/model/sam-bourne; g:m
-cast: Antonia Sainz; https://www.sexart.com/model/antonia-sainz; g:f
+model: n:Sam Bourne; id:/model/sexart/sam-bourne; u:https://www.sexart.com/model/sam-bourne; g:m
+model: n:Antonia Sainz; id:/model/sexart/antonia-sainz; u:https://www.sexart.com/model/antonia-sainz; g:f
 released: 2019-09-08
 director: Andrej Lupin
 rating: 9.1
@@ -2884,8 +2884,8 @@ title: Eyes Wide Open
 type: movie
 site: sa
 url: https://www.sexart.com/model/marilyn-sugar-and-don-diego/movie/20190904/EYES_WIDE_OPEN
-cast: Marilyn Sugar; https://www.sexart.com/model/marilyn-sugar; g:f
-cast: Don Diego; https://www.sexart.com/model/don-diego; g:m
+model: n:Marilyn Sugar; id:/model/sexart/marilyn-sugar; u:https://www.sexart.com/model/marilyn-sugar; g:f
+model: n:Don Diego; id:/model/sexart/don-diego; u:https://www.sexart.com/model/don-diego; g:m
 released: 2019-09-04
 director: Andrej Lupin
 rating: 8.9
@@ -2948,8 +2948,8 @@ title: Time Out
 type: movie
 site: sa
 url: https://www.sexart.com/model/maxmilian-dior-and-emylia-argan/movie/20190901/TIME_OUT
-cast: Maxmilian Dior; https://www.sexart.com/model/maxmilian-dior; g:m
-cast: Emylia Argan; https://www.sexart.com/model/emylia-argan; g:f
+model: n:Maxmilian Dior; id:/model/sexart/maxmilian-dior; u:https://www.sexart.com/model/maxmilian-dior; g:m
+model: n:Emylia Argan; id:/model/sexart/emylia-argan; u:https://www.sexart.com/model/emylia-argan; g:f
 released: 2019-09-01
 director: Andrej Lupin
 rating: 8.9
@@ -3012,9 +3012,9 @@ title: Ariel's Secret - Project 06 - Melody
 type: movie
 site: sa
 url: https://www.sexart.com/model/melody-and-ariel-piper-fawn-and-suzie-carina/movie/20190830/ARIEL_S_SECRET_-_PROJECT_06_-_MELODY
-cast: Melody; https://www.sexart.com/model/melody; g:f
-cast: Ariel Piper Fawn; https://www.sexart.com/model/ariel-piper-fawn; g:f
-cast: Suzie Carina; https://www.sexart.com/model/suzie-carina; g:f
+model: n:Melody; id:/model/sexart/melody; u:https://www.sexart.com/model/melody; g:f
+model: n:Ariel Piper Fawn; id:/model/sexart/ariel-piper-fawn; u:https://www.sexart.com/model/ariel-piper-fawn; g:f
+model: n:Suzie Carina; id:/model/sexart/suzie-carina; u:https://www.sexart.com/model/suzie-carina; g:f
 released: 2019-08-30
 director: Andrej Lupin
 rating: 9.2
@@ -3077,8 +3077,8 @@ title: Headspace
 type: movie
 site: sa
 url: https://www.sexart.com/model/cherry-kiss-and-kristof-cale/movie/20190828/HEADSPACE
-cast: Cherry Kiss; https://www.sexart.com/model/cherry-kiss; g:f
-cast: Kristof Cale; https://www.sexart.com/model/kristof-cale; g:m
+model: n:Cherry Kiss; id:/model/sexart/cherry-kiss; u:https://www.sexart.com/model/cherry-kiss; g:f
+model: n:Kristof Cale; id:/model/sexart/kristof-cale; u:https://www.sexart.com/model/kristof-cale; g:m
 released: 2019-08-28
 director: Andrej Lupin
 rating: 9.1
@@ -3144,8 +3144,8 @@ title: On The Right Way
 type: movie
 site: sa
 url: https://www.sexart.com/model/sarah-kay-and-maxmilian-dior/movie/20190825/ON_THE_RIGHT_WAY
-cast: Sarah Kay; https://www.sexart.com/model/sarah-kay; g:f
-cast: Maxmilian Dior; https://www.sexart.com/model/maxmilian-dior; g:m
+model: n:Sarah Kay; id:/model/sexart/sarah-kay; u:https://www.sexart.com/model/sarah-kay; g:f
+model: n:Maxmilian Dior; id:/model/sexart/maxmilian-dior; u:https://www.sexart.com/model/maxmilian-dior; g:m
 released: 2019-08-25
 director: Andrej Lupin
 rating: 8.9
@@ -3214,8 +3214,8 @@ title: In Clouds
 type: movie
 site: sa
 url: https://www.sexart.com/model/skye-blue-and-angelo-godshack/movie/20190823/IN_CLOUDS
-cast: Skye Blue; https://www.sexart.com/model/skye-blue; g:f
-cast: Angelo Godshack; https://www.sexart.com/model/angelo-godshack; g:m
+model: n:Skye Blue; id:/model/sexart/skye-blue; u:https://www.sexart.com/model/skye-blue; g:f
+model: n:Angelo Godshack; id:/model/sexart/angelo-godshack; u:https://www.sexart.com/model/angelo-godshack; g:m
 released: 2019-08-23
 director: Andrej Lupin
 rating: 9.0
@@ -3278,8 +3278,8 @@ title: Quiet Moment
 type: movie
 site: sa
 url: https://www.sexart.com/model/cherry-kiss-and-nick-ross/movie/20190821/QUIET_MOMENT
-cast: Cherry Kiss; https://www.sexart.com/model/cherry-kiss; g:f
-cast: Nick Ross; https://www.sexart.com/model/nick-ross; g:m
+model: n:Cherry Kiss; id:/model/sexart/cherry-kiss; u:https://www.sexart.com/model/cherry-kiss; g:f
+model: n:Nick Ross; id:/model/sexart/nick-ross; u:https://www.sexart.com/model/nick-ross; g:m
 released: 2019-08-21
 director: Andrej Lupin
 rating: 9.0
@@ -3346,8 +3346,8 @@ title: Castle Lady
 type: movie
 site: sa
 url: https://www.sexart.com/model/angelo-godshack-and-cristal-caitlin/movie/20190818/CASTLE_LADY
-cast: Angelo Godshack; https://www.sexart.com/model/angelo-godshack; g:m
-cast: Cristal Caitlin; https://www.sexart.com/model/cristal-caitlin; g:f
+model: n:Angelo Godshack; id:/model/sexart/angelo-godshack; u:https://www.sexart.com/model/angelo-godshack; g:m
+model: n:Cristal Caitlin; id:/model/sexart/cristal-caitlin; u:https://www.sexart.com/model/cristal-caitlin; g:f
 released: 2019-08-18
 director: Andrej Lupin
 rating: 9.1
@@ -3419,8 +3419,8 @@ title: Beauty In The Mirror
 type: movie
 site: sa
 url: https://www.sexart.com/model/alexa-flexy-and-michael-fly/movie/20190816/BEAUTY_IN_THE_MIRROR
-cast: Alexa Flexy; https://www.sexart.com/model/alexa-flexy; g:f
-cast: Michael Fly; https://www.sexart.com/model/michael-fly; g:m
+model: n:Alexa Flexy; id:/model/sexart/alexa-flexy; u:https://www.sexart.com/model/alexa-flexy; g:f
+model: n:Michael Fly; id:/model/sexart/michael-fly; u:https://www.sexart.com/model/michael-fly; g:m
 released: 2019-08-16
 director: Andrej Lupin
 rating: 9.1
@@ -3488,8 +3488,8 @@ title: Hearts On Fire
 type: movie
 site: sa
 url: https://www.sexart.com/model/michael-fly-and-skye-blue/movie/20190814/HEARTS_ON_FIRE
-cast: Michael Fly; https://www.sexart.com/model/michael-fly; g:m
-cast: Skye Blue; https://www.sexart.com/model/skye-blue; g:f
+model: n:Michael Fly; id:/model/sexart/michael-fly; u:https://www.sexart.com/model/michael-fly; g:m
+model: n:Skye Blue; id:/model/sexart/skye-blue; u:https://www.sexart.com/model/skye-blue; g:f
 released: 2019-08-14
 director: Andrej Lupin
 rating: 9.2
@@ -3552,8 +3552,8 @@ title: Keep Her Close
 type: movie
 site: sa
 url: https://www.sexart.com/model/michael-fly-and-josephine-jackson/movie/20190811/KEEP_HER_CLOSE
-cast: Michael Fly; https://www.sexart.com/model/michael-fly; g:m
-cast: Josephine Jackson; https://www.sexart.com/model/josephine-jackson; g:f
+model: n:Michael Fly; id:/model/sexart/michael-fly; u:https://www.sexart.com/model/michael-fly; g:m
+model: n:Josephine Jackson; id:/model/sexart/josephine-jackson; u:https://www.sexart.com/model/josephine-jackson; g:f
 released: 2019-08-11
 director: Andrej Lupin
 rating: 9.2
@@ -3609,9 +3609,9 @@ title: Ariel's Secret - Project 5 Stasy Rivera
 type: movie
 site: sa
 url: https://www.sexart.com/model/stasy-rivera-and-suzie-carina-and-ariel-piper-fawn/movie/20190809/ARIEL_S_SECRET_-_PROJECT_5_STASY_RIVERA
-cast: Stasy Rivera; https://www.sexart.com/model/stasy-rivera; g:f
-cast: Suzie Carina; https://www.sexart.com/model/suzie-carina; g:f
-cast: Ariel Piper Fawn; https://www.sexart.com/model/ariel-piper-fawn; g:f
+model: n:Stasy Rivera; id:/model/sexart/stasy-rivera; u:https://www.sexart.com/model/stasy-rivera; g:f
+model: n:Suzie Carina; id:/model/sexart/suzie-carina; u:https://www.sexart.com/model/suzie-carina; g:f
+model: n:Ariel Piper Fawn; id:/model/sexart/ariel-piper-fawn; u:https://www.sexart.com/model/ariel-piper-fawn; g:f
 released: 2019-08-09
 director: Andrej Lupin
 rating: 9.3
@@ -3669,9 +3669,9 @@ title: Time to Dream
 type: movie
 site: sa
 url: https://www.sexart.com/model/kristof-cale-and-kate-rich-and-kinuski/movie/20190807/TIME_TO_DREAM
-cast: Kristof Cale; https://www.sexart.com/model/kristof-cale; g:m
-cast: Kate Rich; https://www.sexart.com/model/kate-rich; g:f
-cast: Kinuski; https://www.sexart.com/model/kinuski; g:f
+model: n:Kristof Cale; id:/model/sexart/kristof-cale; u:https://www.sexart.com/model/kristof-cale; g:m
+model: n:Kate Rich; id:/model/sexart/kate-rich; u:https://www.sexart.com/model/kate-rich; g:f
+model: n:Kinuski; id:/model/sexart/kinuski; u:https://www.sexart.com/model/kinuski; g:f
 released: 2019-08-07
 director: Andrej Lupin
 rating: 9.2
@@ -3743,8 +3743,8 @@ title: Shall We Dance
 type: movie
 site: sa
 url: https://www.sexart.com/model/katy-rose-and-miguel-zayos/movie/20190804/SHALL_WE_DANCE
-cast: Katy Rose; https://www.sexart.com/model/katy-rose; g:f
-cast: Miguel Zayos; https://www.sexart.com/model/miguel-zayos; g:m
+model: n:Katy Rose; id:/model/sexart/katy-rose; u:https://www.sexart.com/model/katy-rose; g:f
+model: n:Miguel Zayos; id:/model/sexart/miguel-zayos; u:https://www.sexart.com/model/miguel-zayos; g:m
 released: 2019-08-04
 director: Andrej Lupin
 rating: 9.0
@@ -3806,8 +3806,8 @@ title: Loss
 type: movie
 site: sa
 url: https://www.sexart.com/model/emylia-argan-and-cassie-del-isla/movie/20190802/LOSS
-cast: Emylia Argan; https://www.sexart.com/model/emylia-argan; g:f
-cast: Cassie Del Isla; https://www.sexart.com/model/cassie-del-isla; g:f
+model: n:Emylia Argan; id:/model/sexart/emylia-argan; u:https://www.sexart.com/model/emylia-argan; g:f
+model: n:Cassie Del Isla; id:/model/sexart/cassie-del-isla; u:https://www.sexart.com/model/cassie-del-isla; g:f
 released: 2019-08-02
 director: Andrej Lupin
 rating: 9.1
@@ -3874,8 +3874,8 @@ title: Indescribable Feeling
 type: movie
 site: sa
 url: https://www.sexart.com/model/michael-fly-and-lee-anne/movie/20190731/INDESCRIBABLE_FEELING
-cast: Michael Fly; https://www.sexart.com/model/michael-fly; g:m
-cast: Lee Anne; https://www.sexart.com/model/lee-anne; g:f
+model: n:Michael Fly; id:/model/sexart/michael-fly; u:https://www.sexart.com/model/michael-fly; g:m
+model: n:Lee Anne; id:/model/sexart/lee-anne; u:https://www.sexart.com/model/lee-anne; g:f
 released: 2019-07-31
 director: Andrej Lupin
 rating: 9.2
@@ -3937,8 +3937,8 @@ title: Your Choice
 type: movie
 site: sa
 url: https://www.sexart.com/model/maxmilian-dior-and-skye-blue/movie/20190728/YOUR_CHOICE
-cast: Maxmilian Dior; https://www.sexart.com/model/maxmilian-dior; g:m
-cast: Skye Blue; https://www.sexart.com/model/skye-blue; g:f
+model: n:Maxmilian Dior; id:/model/sexart/maxmilian-dior; u:https://www.sexart.com/model/maxmilian-dior; g:m
+model: n:Skye Blue; id:/model/sexart/skye-blue; u:https://www.sexart.com/model/skye-blue; g:f
 released: 2019-07-28
 director: Andrej Lupin
 rating: 9.0
@@ -3998,8 +3998,8 @@ title: Classroom
 type: movie
 site: sa
 url: https://www.sexart.com/model/stacy-bloom-and-angelo-godshack/movie/20190726/CLASSROOM
-cast: Stacy Bloom; https://www.sexart.com/model/stacy-bloom; g:f
-cast: Angelo Godshack; https://www.sexart.com/model/angelo-godshack; g:m
+model: n:Stacy Bloom; id:/model/sexart/stacy-bloom; u:https://www.sexart.com/model/stacy-bloom; g:f
+model: n:Angelo Godshack; id:/model/sexart/angelo-godshack; u:https://www.sexart.com/model/angelo-godshack; g:m
 released: 2019-07-26
 director: Andrej Lupin
 rating: 8.9
@@ -4062,8 +4062,8 @@ title: I Love Your Spark
 type: movie
 site: sa
 url: https://www.sexart.com/model/joss-lescaf-and-angelika-grays/movie/20190724/I_LOVE_YOUR_SPARK
-cast: Joss Lescaf; https://www.sexart.com/model/joss-lescaf; g:m
-cast: Angelika Grays; https://www.sexart.com/model/angelika-grays; g:f
+model: n:Joss Lescaf; id:/model/sexart/joss-lescaf; u:https://www.sexart.com/model/joss-lescaf; g:m
+model: n:Angelika Grays; id:/model/sexart/angelika-grays; u:https://www.sexart.com/model/angelika-grays; g:f
 released: 2019-07-24
 director: Andrej Lupin
 rating: 9.1
@@ -4128,8 +4128,8 @@ title: The Wandering
 type: movie
 site: sa
 url: https://www.sexart.com/model/stacy-cruz-and-maxmilian-dior/movie/20190721/THE_WANDERING
-cast: Stacy Cruz; https://www.sexart.com/model/stacy-cruz; g:f
-cast: Maxmilian Dior; https://www.sexart.com/model/maxmilian-dior; g:m
+model: n:Stacy Cruz; id:/model/sexart/stacy-cruz; u:https://www.sexart.com/model/stacy-cruz; g:f
+model: n:Maxmilian Dior; id:/model/sexart/maxmilian-dior; u:https://www.sexart.com/model/maxmilian-dior; g:m
 released: 2019-07-21
 director: Andrej Lupin
 rating: 9.2
@@ -4194,8 +4194,8 @@ title: Love Is In The Air
 type: movie
 site: sa
 url: https://www.sexart.com/model/cristal-caitlin-and-alexa-flexy/movie/20190719/LOVE_IS_IN_THE_AIR
-cast: Cristal Caitlin; https://www.sexart.com/model/cristal-caitlin; g:f
-cast: Alexa Flexy; https://www.sexart.com/model/alexa-flexy; g:f
+model: n:Cristal Caitlin; id:/model/sexart/cristal-caitlin; u:https://www.sexart.com/model/cristal-caitlin; g:f
+model: n:Alexa Flexy; id:/model/sexart/alexa-flexy; u:https://www.sexart.com/model/alexa-flexy; g:f
 released: 2019-07-19
 director: Andrej Lupin
 rating: 9.2
@@ -4260,8 +4260,8 @@ title: Chemistry
 type: movie
 site: sa
 url: https://www.sexart.com/model/paula-shy-and-daniel-g/movie/20190717/CHEMISTRY
-cast: Paula Shy; https://www.sexart.com/model/paula-shy; g:f
-cast: Daniel G; https://www.sexart.com/model/daniel-g; g:m
+model: n:Paula Shy; id:/model/sexart/paula-shy; u:https://www.sexart.com/model/paula-shy; g:f
+model: n:Daniel G; id:/model/sexart/daniel-g; u:https://www.sexart.com/model/daniel-g; g:m
 released: 2019-07-17
 director: Andrej Lupin
 rating: 9.0
@@ -4322,8 +4322,8 @@ title: Tempo
 type: movie
 site: sa
 url: https://www.sexart.com/model/kristof-cale-and-stacy-bloom/movie/20190714/TEMPO
-cast: Kristof Cale; https://www.sexart.com/model/kristof-cale; g:m
-cast: Stacy Bloom; https://www.sexart.com/model/stacy-bloom; g:f
+model: n:Kristof Cale; id:/model/sexart/kristof-cale; u:https://www.sexart.com/model/kristof-cale; g:m
+model: n:Stacy Bloom; id:/model/sexart/stacy-bloom; u:https://www.sexart.com/model/stacy-bloom; g:f
 released: 2019-07-14
 director: Andrej Lupin
 rating: 8.8
@@ -4389,8 +4389,8 @@ title: Beach
 type: movie
 site: sa
 url: https://www.sexart.com/model/emylia-argan-and-olivia-sin/movie/20190712/BEACH
-cast: Emylia Argan; https://www.sexart.com/model/emylia-argan; g:f
-cast: Olivia Sin; https://www.sexart.com/model/olivia-sin; g:f
+model: n:Emylia Argan; id:/model/sexart/emylia-argan; u:https://www.sexart.com/model/emylia-argan; g:f
+model: n:Olivia Sin; id:/model/sexart/olivia-sin; u:https://www.sexart.com/model/olivia-sin; g:f
 released: 2019-07-12
 director: Andrej Lupin
 rating: 9.1
@@ -4462,8 +4462,8 @@ title: Closeness
 type: movie
 site: sa
 url: https://www.sexart.com/model/antonia-sainz-and-maxmilian-dior/movie/20190710/CLOSENESS
-cast: Antonia Sainz; https://www.sexart.com/model/antonia-sainz; g:f
-cast: Maxmilian Dior; https://www.sexart.com/model/maxmilian-dior; g:m
+model: n:Antonia Sainz; id:/model/sexart/antonia-sainz; u:https://www.sexart.com/model/antonia-sainz; g:f
+model: n:Maxmilian Dior; id:/model/sexart/maxmilian-dior; u:https://www.sexart.com/model/maxmilian-dior; g:m
 released: 2019-07-10
 director: Andrej Lupin
 rating: 9.3
@@ -4519,8 +4519,8 @@ title: Touches Of The Mind
 type: movie
 site: sa
 url: https://www.sexart.com/model/kate-rich-and-nick-ross/movie/20190707/TOUCHES_OF_THE_MIND
-cast: Kate Rich; https://www.sexart.com/model/kate-rich; g:f
-cast: Nick Ross; https://www.sexart.com/model/nick-ross; g:m
+model: n:Kate Rich; id:/model/sexart/kate-rich; u:https://www.sexart.com/model/kate-rich; g:f
+model: n:Nick Ross; id:/model/sexart/nick-ross; u:https://www.sexart.com/model/nick-ross; g:m
 released: 2019-07-07
 director: Andrej Lupin
 rating: 9.1
@@ -4588,8 +4588,8 @@ title: Sensual Touch
 type: movie
 site: sa
 url: https://www.sexart.com/model/kinuski-and-lovita-fate/movie/20190705/SENSUAL_TOUCH
-cast: Kinuski; https://www.sexart.com/model/kinuski; g:f
-cast: Lovita Fate; https://www.sexart.com/model/lovita-fate; g:f
+model: n:Kinuski; id:/model/sexart/kinuski; u:https://www.sexart.com/model/kinuski; g:f
+model: n:Lovita Fate; id:/model/sexart/lovita-fate; u:https://www.sexart.com/model/lovita-fate; g:f
 released: 2019-07-05
 director: Andrej Lupin
 rating: 9.1
@@ -4650,8 +4650,8 @@ title: Just Slow It Down
 type: movie
 site: sa
 url: https://www.sexart.com/model/emma-button-and-maxmilian-dior/movie/20190703/JUST_SLOW_IT_DOWN
-cast: Emma Button; https://www.sexart.com/model/emma-button; g:f
-cast: Maxmilian Dior; https://www.sexart.com/model/maxmilian-dior; g:m
+model: n:Emma Button; id:/model/sexart/emma-button; u:https://www.sexart.com/model/emma-button; g:f
+model: n:Maxmilian Dior; id:/model/sexart/maxmilian-dior; u:https://www.sexart.com/model/maxmilian-dior; g:m
 released: 2019-07-03
 director: Andrej Lupin
 rating: 9.0
@@ -4709,8 +4709,8 @@ title: Sweepstakes
 type: movie
 site: sa
 url: https://www.sexart.com/model/sarah-cute-and-joss-lescaf/movie/20190630/SWEEPSTAKES
-cast: Sarah Cute; https://www.sexart.com/model/sarah-cute; g:f
-cast: Joss Lescaf; https://www.sexart.com/model/joss-lescaf; g:m
+model: n:Sarah Cute; id:/model/sexart/sarah-cute; u:https://www.sexart.com/model/sarah-cute; g:f
+model: n:Joss Lescaf; id:/model/sexart/joss-lescaf; u:https://www.sexart.com/model/joss-lescaf; g:m
 released: 2019-06-30
 director: Andrej Lupin
 rating: 9.0
@@ -4785,8 +4785,8 @@ title: Kinuski's Dark Fantasy
 type: movie
 site: sa
 url: https://www.sexart.com/model/kinuski-and-cherry-kiss/movie/20190628/KINUSKI_S_DARK_FANTASY
-cast: Kinuski; https://www.sexart.com/model/kinuski; g:f
-cast: Cherry Kiss; https://www.sexart.com/model/cherry-kiss; g:f
+model: n:Kinuski; id:/model/sexart/kinuski; u:https://www.sexart.com/model/kinuski; g:f
+model: n:Cherry Kiss; id:/model/sexart/cherry-kiss; u:https://www.sexart.com/model/cherry-kiss; g:f
 released: 2019-06-28
 director: Andrej Lupin
 rating: 9.3
@@ -4869,8 +4869,8 @@ title: Third Good
 type: movie
 site: sa
 url: https://www.sexart.com/model/emylia-argan-and-alberto-blanco/movie/20190626/THIRD_GOOD
-cast: Emylia Argan; https://www.sexart.com/model/emylia-argan; g:f
-cast: Alberto Blanco; https://www.sexart.com/model/alberto-blanco; g:m
+model: n:Emylia Argan; id:/model/sexart/emylia-argan; u:https://www.sexart.com/model/emylia-argan; g:f
+model: n:Alberto Blanco; id:/model/sexart/alberto-blanco; u:https://www.sexart.com/model/alberto-blanco; g:m
 released: 2019-06-26
 director: Andrej Lupin
 rating: 9.0
@@ -4937,8 +4937,8 @@ title: Freefall
 type: movie
 site: sa
 url: https://www.sexart.com/model/stacy-cruz-and-michael-fly/movie/20190623/FREEFALL
-cast: Stacy Cruz; https://www.sexart.com/model/stacy-cruz; g:f
-cast: Michael Fly; https://www.sexart.com/model/michael-fly; g:m
+model: n:Stacy Cruz; id:/model/sexart/stacy-cruz; u:https://www.sexart.com/model/stacy-cruz; g:f
+model: n:Michael Fly; id:/model/sexart/michael-fly; u:https://www.sexart.com/model/michael-fly; g:m
 released: 2019-06-23
 director: Andrej Lupin
 rating: 9.2
@@ -5008,8 +5008,8 @@ title: Under The Duvets
 type: movie
 site: sa
 url: https://www.sexart.com/model/stacy-bloom-and-katy-rose/movie/20190621/UNDER_THE_DUVETS
-cast: Stacy Bloom; https://www.sexart.com/model/stacy-bloom; g:f
-cast: Katy Rose; https://www.sexart.com/model/katy-rose; g:f
+model: n:Stacy Bloom; id:/model/sexart/stacy-bloom; u:https://www.sexart.com/model/stacy-bloom; g:f
+model: n:Katy Rose; id:/model/sexart/katy-rose; u:https://www.sexart.com/model/katy-rose; g:f
 released: 2019-06-21
 director: Andrej Lupin
 rating: 9.2
@@ -5076,8 +5076,8 @@ title: Guest House
 type: movie
 site: sa
 url: https://www.sexart.com/model/miguel-zayos-and-veronica-leal/movie/20190619/GUEST_HOUSE
-cast: Miguel Zayos; https://www.sexart.com/model/miguel-zayos; g:m
-cast: Veronica Leal; https://www.sexart.com/model/veronica-leal; g:f
+model: n:Miguel Zayos; id:/model/sexart/miguel-zayos; u:https://www.sexart.com/model/miguel-zayos; g:m
+model: n:Veronica Leal; id:/model/sexart/veronica-leal; u:https://www.sexart.com/model/veronica-leal; g:f
 released: 2019-06-19
 director: Andrej Lupin
 rating: 9.2
@@ -5147,8 +5147,8 @@ title: Gentleman
 type: movie
 site: sa
 url: https://www.sexart.com/model/alexa-flexy-and-angelo-godshack/movie/20190616/GENTLEMAN
-cast: Alexa Flexy; https://www.sexart.com/model/alexa-flexy; g:f
-cast: Angelo Godshack; https://www.sexart.com/model/angelo-godshack; g:m
+model: n:Alexa Flexy; id:/model/sexart/alexa-flexy; u:https://www.sexart.com/model/alexa-flexy; g:f
+model: n:Angelo Godshack; id:/model/sexart/angelo-godshack; u:https://www.sexart.com/model/angelo-godshack; g:m
 released: 2019-06-16
 director: Andrej Lupin
 rating: 9.1
@@ -5211,8 +5211,8 @@ title: Warmth
 type: movie
 site: sa
 url: https://www.sexart.com/model/paula-shy-and-angelika-grays/movie/20190614/WARMTH
-cast: Paula Shy; https://www.sexart.com/model/paula-shy; g:f
-cast: Angelika Grays; https://www.sexart.com/model/angelika-grays; g:f
+model: n:Paula Shy; id:/model/sexart/paula-shy; u:https://www.sexart.com/model/paula-shy; g:f
+model: n:Angelika Grays; id:/model/sexart/angelika-grays; u:https://www.sexart.com/model/angelika-grays; g:f
 released: 2019-06-14
 director: Andrej Lupin
 rating: 9.3
@@ -5275,8 +5275,8 @@ title: Fire In Her Eyes
 type: movie
 site: sa
 url: https://www.sexart.com/model/michael-fly-and-emylia-argan/movie/20190612/FIRE_IN_HER_EYES
-cast: Michael Fly; https://www.sexart.com/model/michael-fly; g:m
-cast: Emylia Argan; https://www.sexart.com/model/emylia-argan; g:f
+model: n:Michael Fly; id:/model/sexart/michael-fly; u:https://www.sexart.com/model/michael-fly; g:m
+model: n:Emylia Argan; id:/model/sexart/emylia-argan; u:https://www.sexart.com/model/emylia-argan; g:f
 released: 2019-06-12
 director: Andrej Lupin
 rating: 9.1
@@ -5333,8 +5333,8 @@ title: Felicity
 type: movie
 site: sa
 url: https://www.sexart.com/model/cristal-caitlin-and-don-diego/movie/20190609/FELICITY
-cast: Cristal Caitlin; https://www.sexart.com/model/cristal-caitlin; g:f
-cast: Don Diego; https://www.sexart.com/model/don-diego; g:m
+model: n:Cristal Caitlin; id:/model/sexart/cristal-caitlin; u:https://www.sexart.com/model/cristal-caitlin; g:f
+model: n:Don Diego; id:/model/sexart/don-diego; u:https://www.sexart.com/model/don-diego; g:m
 released: 2019-06-09
 director: Andrej Lupin
 rating: 9.2
@@ -5388,7 +5388,7 @@ title: Library
 type: movie
 site: sa
 url: https://www.sexart.com/model/kalisy/movie/20190607/LIBRARY
-cast: Kalisy; https://www.sexart.com/model/kalisy; g:f
+model: n:Kalisy; id:/model/sexart/kalisy; u:https://www.sexart.com/model/kalisy; g:f
 released: 2019-06-07
 director: Andrej Lupin
 rating: 9.1
@@ -5431,8 +5431,8 @@ title: The Ultimate Massage Episode 4 - My First Massage
 type: movie
 site: sa
 url: https://www.sexart.com/model/lovita-fate-and-joss-lescaf/movie/20190605/THE_ULTIMATE_MASSAGE_EPISODE_4_-_MY_FIRST_MASSAGE
-cast: Lovita Fate; https://www.sexart.com/model/lovita-fate; g:f
-cast: Joss Lescaf; https://www.sexart.com/model/joss-lescaf; g:m
+model: n:Lovita Fate; id:/model/sexart/lovita-fate; u:https://www.sexart.com/model/lovita-fate; g:f
+model: n:Joss Lescaf; id:/model/sexart/joss-lescaf; u:https://www.sexart.com/model/joss-lescaf; g:m
 released: 2019-06-05
 director: Nik Fox
 rating: 9.1
@@ -5496,8 +5496,8 @@ title: Still Love
 type: movie
 site: sa
 url: https://www.sexart.com/model/daniel-g-and-paula-shy/movie/20190602/STILL_LOVE
-cast: Daniel G; https://www.sexart.com/model/daniel-g; g:m
-cast: Paula Shy; https://www.sexart.com/model/paula-shy; g:f
+model: n:Daniel G; id:/model/sexart/daniel-g; u:https://www.sexart.com/model/daniel-g; g:m
+model: n:Paula Shy; id:/model/sexart/paula-shy; u:https://www.sexart.com/model/paula-shy; g:f
 released: 2019-06-02
 director: Andrej Lupin
 rating: 9.2
@@ -5546,8 +5546,8 @@ title: Relax Time
 type: movie
 site: sa
 url: https://www.sexart.com/model/melody-petite-and-olivia-sin/movie/20190531/RELAX_TIME
-cast: Melody Petite; https://www.sexart.com/model/melody-petite; g:f
-cast: Olivia Sin; https://www.sexart.com/model/olivia-sin; g:f
+model: n:Melody Petite; id:/model/sexart/melody-petite; u:https://www.sexart.com/model/melody-petite; g:f
+model: n:Olivia Sin; id:/model/sexart/olivia-sin; u:https://www.sexart.com/model/olivia-sin; g:f
 released: 2019-05-31
 director: Andrej Lupin
 rating: 9.2
@@ -5605,8 +5605,8 @@ title: The Ultimate Massage Episode 3 - Deep Massage Therapy
 type: movie
 site: sa
 url: https://www.sexart.com/model/joss-lescaf-and-alexis-crystal/movie/20190529/THE_ULTIMATE_MASSAGE_EPISODE_3_-_DEEP_MASSAGE_THERAPY
-cast: Joss Lescaf; https://www.sexart.com/model/joss-lescaf; g:m
-cast: Alexis Crystal; https://www.sexart.com/model/alexis-crystal; g:f
+model: n:Joss Lescaf; id:/model/sexart/joss-lescaf; u:https://www.sexart.com/model/joss-lescaf; g:m
+model: n:Alexis Crystal; id:/model/sexart/alexis-crystal; u:https://www.sexart.com/model/alexis-crystal; g:f
 released: 2019-05-29
 director: Nik Fox
 rating: 9.3
@@ -5681,8 +5681,8 @@ title: In The Rhythm
 type: movie
 site: sa
 url: https://www.sexart.com/model/lovita-fate-and-angelo-godshack/movie/20190526/IN_THE_RHYTHM
-cast: Lovita Fate; https://www.sexart.com/model/lovita-fate; g:f
-cast: Angelo Godshack; https://www.sexart.com/model/angelo-godshack; g:m
+model: n:Lovita Fate; id:/model/sexart/lovita-fate; u:https://www.sexart.com/model/lovita-fate; g:f
+model: n:Angelo Godshack; id:/model/sexart/angelo-godshack; u:https://www.sexart.com/model/angelo-godshack; g:m
 released: 2019-05-26
 director: Andrej Lupin
 rating: 9.2
@@ -5757,9 +5757,9 @@ title: Suggestion
 type: movie
 site: sa
 url: https://www.sexart.com/model/candice-demellza-and-anya-krey-and-lilu-moon/movie/20190524/SUGGESTION
-cast: Candice Demellza; https://www.sexart.com/model/candice-demellza; g:f
-cast: Anya Krey; https://www.sexart.com/model/anya-krey; g:f
-cast: Lilu Moon; https://www.sexart.com/model/lilu-moon; g:f
+model: n:Candice Demellza; id:/model/sexart/candice-demellza; u:https://www.sexart.com/model/candice-demellza; g:f
+model: n:Anya Krey; id:/model/sexart/anya-krey; u:https://www.sexart.com/model/anya-krey; g:f
+model: n:Lilu Moon; id:/model/sexart/lilu-moon; u:https://www.sexart.com/model/lilu-moon; g:f
 released: 2019-05-24
 director: Andrej Lupin
 rating: 9.3
@@ -5825,8 +5825,8 @@ title: The Ultimate Massage Episode 2 - Big Birthday Suprise
 type: movie
 site: sa
 url: https://www.sexart.com/model/joss-lescaf-and-cindy-shine/movie/20190522/THE_ULTIMATE_MASSAGE_EPISODE_2_-_BIG_BIRTHDAY_SUPRISE
-cast: Joss Lescaf; https://www.sexart.com/model/joss-lescaf; g:m
-cast: Cindy Shine; https://www.sexart.com/model/cindy-shine; g:f
+model: n:Joss Lescaf; id:/model/sexart/joss-lescaf; u:https://www.sexart.com/model/joss-lescaf; g:m
+model: n:Cindy Shine; id:/model/sexart/cindy-shine; u:https://www.sexart.com/model/cindy-shine; g:f
 released: 2019-05-22
 director: Nik Fox
 rating: 9.3
@@ -5901,8 +5901,8 @@ title: My Cooking Diary
 type: movie
 site: sa
 url: https://www.sexart.com/model/michael-fly-and-kinuski/movie/20190519/MY_COOKING_DIARY
-cast: Michael Fly; https://www.sexart.com/model/michael-fly; g:m
-cast: Kinuski; https://www.sexart.com/model/kinuski; g:f
+model: n:Michael Fly; id:/model/sexart/michael-fly; u:https://www.sexart.com/model/michael-fly; g:m
+model: n:Kinuski; id:/model/sexart/kinuski; u:https://www.sexart.com/model/kinuski; g:f
 released: 2019-05-19
 director: Andrej Lupin
 rating: 9.2
@@ -5955,8 +5955,8 @@ title: Romance In The Tower
 type: movie
 site: sa
 url: https://www.sexart.com/model/emylia-argan-and-cristina-miller/movie/20190517/ROMANCE_IN_THE_TOWER
-cast: Emylia Argan; https://www.sexart.com/model/emylia-argan; g:f
-cast: Cristina Miller; https://www.sexart.com/model/cristina-miller; g:f
+model: n:Emylia Argan; id:/model/sexart/emylia-argan; u:https://www.sexart.com/model/emylia-argan; g:f
+model: n:Cristina Miller; id:/model/sexart/cristina-miller; u:https://www.sexart.com/model/cristina-miller; g:f
 released: 2019-05-17
 director: Andrej Lupin
 rating: 9.3
@@ -6011,8 +6011,8 @@ title: Appassionata
 type: movie
 site: sa
 url: https://www.sexart.com/model/eilin-flame-and-christian/movie/20190515/APPASSIONATA
-cast: Eilin Flame; https://www.sexart.com/model/eilin-flame; g:f
-cast: Christian; https://www.sexart.com/model/christian; g:m
+model: n:Eilin Flame; id:/model/sexart/eilin-flame; u:https://www.sexart.com/model/eilin-flame; g:f
+model: n:Christian; id:/model/sexart/christian; u:https://www.sexart.com/model/christian; g:m
 released: 2019-05-15
 director: Andrej Lupin
 rating: 9.2
@@ -6067,8 +6067,8 @@ title: The Ultimate Massage Episode 1 - Night Time Visit
 type: movie
 site: sa
 url: https://www.sexart.com/model/joss-lescaf-and-arian/movie/20190512/THE_ULTIMATE_MASSAGE_EPISODE_1_-_NIGHT_TIME_VISIT
-cast: Joss Lescaf; https://www.sexart.com/model/joss-lescaf; g:m
-cast: Arian; https://www.sexart.com/model/arian; g:f
+model: n:Joss Lescaf; id:/model/sexart/joss-lescaf; u:https://www.sexart.com/model/joss-lescaf; g:m
+model: n:Arian; id:/model/sexart/arian; u:https://www.sexart.com/model/arian; g:f
 released: 2019-05-12
 director: Nik Fox
 rating: 9.1
@@ -6125,8 +6125,8 @@ title: Emptiness
 type: movie
 site: sa
 url: https://www.sexart.com/model/stacy-bloom-and-veronica-leal/movie/20190510/EMPTINESS
-cast: Stacy Bloom; https://www.sexart.com/model/stacy-bloom; g:f
-cast: Veronica Leal; https://www.sexart.com/model/veronica-leal; g:f
+model: n:Stacy Bloom; id:/model/sexart/stacy-bloom; u:https://www.sexart.com/model/stacy-bloom; g:f
+model: n:Veronica Leal; id:/model/sexart/veronica-leal; u:https://www.sexart.com/model/veronica-leal; g:f
 released: 2019-05-10
 director: Andrej Lupin
 rating: 9.2
@@ -6185,8 +6185,8 @@ title: Your Hands
 type: movie
 site: sa
 url: https://www.sexart.com/model/michael-fly-and-mila-fox/movie/20190508/YOUR_HANDS
-cast: Michael Fly; https://www.sexart.com/model/michael-fly; g:m
-cast: Mila Fox; https://www.sexart.com/model/mila-fox; g:f
+model: n:Michael Fly; id:/model/sexart/michael-fly; u:https://www.sexart.com/model/michael-fly; g:m
+model: n:Mila Fox; id:/model/sexart/mila-fox; u:https://www.sexart.com/model/mila-fox; g:f
 released: 2019-05-08
 director: Andrej Lupin
 rating: 8.6
@@ -6254,10 +6254,10 @@ title: Spanish Holidays
 type: movie
 site: sa
 url: https://www.sexart.com/model/eric-el-gran-and-melody-petite-and-olivia-sin-and-lady-bug/movie/20190505/SPANISH_HOLIDAYS
-cast: Eric El Gran; https://www.sexart.com/model/eric-el-gran; g:m
-cast: Melody Petite; https://www.sexart.com/model/melody-petite; g:f
-cast: Olivia Sin; https://www.sexart.com/model/olivia-sin; g:f
-cast: Lady Bug; https://www.sexart.com/model/lady-bug; g:f
+model: n:Eric El Gran; id:/model/sexart/eric-el-gran; u:https://www.sexart.com/model/eric-el-gran; g:m
+model: n:Melody Petite; id:/model/sexart/melody-petite; u:https://www.sexart.com/model/melody-petite; g:f
+model: n:Olivia Sin; id:/model/sexart/olivia-sin; u:https://www.sexart.com/model/olivia-sin; g:f
+model: n:Lady Bug; id:/model/sexart/lady-bug; u:https://www.sexart.com/model/lady-bug; g:f
 released: 2019-05-05
 director: Andrej Lupin
 rating: 9.3
@@ -6336,8 +6336,8 @@ title: Enthusiasm
 type: movie
 site: sa
 url: https://www.sexart.com/model/amber-and-antonia-sainz/movie/20190503/ENTHUSIASM
-cast: Amber; https://www.sexart.com/model/amber; g:f
-cast: Antonia Sainz; https://www.sexart.com/model/antonia-sainz; g:f
+model: n:Amber; id:/model/sexart/amber; u:https://www.sexart.com/model/amber; g:f
+model: n:Antonia Sainz; id:/model/sexart/antonia-sainz; u:https://www.sexart.com/model/antonia-sainz; g:f
 released: 2019-05-03
 director: Andrej Lupin
 rating: 9.2
@@ -6402,8 +6402,8 @@ title: No Choice
 type: movie
 site: sa
 url: https://www.sexart.com/model/charli-red-and-nick-ross/movie/20190501/NO_CHOICE
-cast: Charli Red; https://www.sexart.com/model/charli-red; g:f
-cast: Nick Ross; https://www.sexart.com/model/nick-ross; g:m
+model: n:Charli Red; id:/model/sexart/charli-red; u:https://www.sexart.com/model/charli-red; g:f
+model: n:Nick Ross; id:/model/sexart/nick-ross; u:https://www.sexart.com/model/nick-ross; g:m
 released: 2019-05-01
 director: Andrej Lupin
 rating: 9.1
@@ -6470,8 +6470,8 @@ title: Be Nice To You
 type: movie
 site: sa
 url: https://www.sexart.com/model/michael-fly-and-emma-button/movie/20190428/BE_NICE_TO_YOU
-cast: Michael Fly; https://www.sexart.com/model/michael-fly; g:m
-cast: Emma Button; https://www.sexart.com/model/emma-button; g:f
+model: n:Michael Fly; id:/model/sexart/michael-fly; u:https://www.sexart.com/model/michael-fly; g:m
+model: n:Emma Button; id:/model/sexart/emma-button; u:https://www.sexart.com/model/emma-button; g:f
 released: 2019-04-28
 director: Andrej Lupin
 rating: 8.9
@@ -6525,8 +6525,8 @@ title: Perfect Sense
 type: movie
 site: sa
 url: https://www.sexart.com/model/arian-and-olivia-sin/movie/20190426/PERFECT_SENSE
-cast: Arian; https://www.sexart.com/model/arian; g:f
-cast: Olivia Sin; https://www.sexart.com/model/olivia-sin; g:f
+model: n:Arian; id:/model/sexart/arian; u:https://www.sexart.com/model/arian; g:f
+model: n:Olivia Sin; id:/model/sexart/olivia-sin; u:https://www.sexart.com/model/olivia-sin; g:f
 released: 2019-04-26
 director: Andrej Lupin
 rating: 9.0
@@ -6590,8 +6590,8 @@ title: Whore - Lazy Room
 type: movie
 site: sa
 url: https://www.sexart.com/model/emily-j-and-paula-a/movie/20190424/WHORE_-_LAZY_ROOM
-cast: Emily J; https://www.sexart.com/model/emily-j; g:f
-cast: Paula A; https://www.sexart.com/model/paula-a; g:f
+model: n:Emily J; id:/model/sexart/emily-j; u:https://www.sexart.com/model/emily-j; g:f
+model: n:Paula A; id:/model/sexart/paula-a; u:https://www.sexart.com/model/paula-a; g:f
 released: 2019-04-24
 director: Paul Black
 rating: 9.1
@@ -6643,8 +6643,8 @@ title: D'Amour
 type: movie
 site: sa
 url: https://www.sexart.com/model/eric-el-gran-and-emylia-argan/movie/20190421/D_AMOUR
-cast: Eric El Gran; https://www.sexart.com/model/eric-el-gran; g:m
-cast: Emylia Argan; https://www.sexart.com/model/emylia-argan; g:f
+model: n:Eric El Gran; id:/model/sexart/eric-el-gran; u:https://www.sexart.com/model/eric-el-gran; g:m
+model: n:Emylia Argan; id:/model/sexart/emylia-argan; u:https://www.sexart.com/model/emylia-argan; g:f
 released: 2019-04-21
 director: Andrej Lupin
 rating: 9.1
@@ -6700,9 +6700,9 @@ title: Full Of Joy Episode 2
 type: movie
 site: sa
 url: https://www.sexart.com/model/julia-rain-and-eilin-flame-and-maxmilian-dior/movie/20190419/FULL_OF_JOY_EPISODE_2
-cast: Julia Rain; https://www.sexart.com/model/julia-rain; g:f
-cast: Eilin Flame; https://www.sexart.com/model/eilin-flame; g:f
-cast: Maxmilian Dior; https://www.sexart.com/model/maxmilian-dior; g:m
+model: n:Julia Rain; id:/model/sexart/julia-rain; u:https://www.sexart.com/model/julia-rain; g:f
+model: n:Eilin Flame; id:/model/sexart/eilin-flame; u:https://www.sexart.com/model/eilin-flame; g:f
+model: n:Maxmilian Dior; id:/model/sexart/maxmilian-dior; u:https://www.sexart.com/model/maxmilian-dior; g:m
 released: 2019-04-19
 director: Andrej Lupin
 rating: 9.1
@@ -6761,8 +6761,8 @@ title: Full Of Joy Episode 1
 type: movie
 site: sa
 url: https://www.sexart.com/model/maxmilian-dior-and-julia-rain/movie/20190417/FULL_OF_JOY_EPISODE_1
-cast: Maxmilian Dior; https://www.sexart.com/model/maxmilian-dior; g:m
-cast: Julia Rain; https://www.sexart.com/model/julia-rain; g:f
+model: n:Maxmilian Dior; id:/model/sexart/maxmilian-dior; u:https://www.sexart.com/model/maxmilian-dior; g:m
+model: n:Julia Rain; id:/model/sexart/julia-rain; u:https://www.sexart.com/model/julia-rain; g:f
 released: 2019-04-17
 director: Andrej Lupin
 rating: 8.7
@@ -6813,13 +6813,13 @@ title: My Summer Episode 4 - Love
 type: movie
 site: sa
 url: https://www.sexart.com/model/emylia-argan-and-maxmilian-dior-and-candice-demellza-and-alexis-crystal-and-lilu-moon-and-anya-krey-and-nick-ross/movie/20190414/MY_SUMMER_EPISODE_4_-_LOVE
-cast: Emylia Argan; https://www.sexart.com/model/emylia-argan; g:f
-cast: Maxmilian Dior; https://www.sexart.com/model/maxmilian-dior; g:m
-cast: Candice Demellza; https://www.sexart.com/model/candice-demellza; g:f
-cast: Alexis Crystal; https://www.sexart.com/model/alexis-crystal; g:f
-cast: Lilu Moon; https://www.sexart.com/model/lilu-moon; g:f
-cast: Anya Krey; https://www.sexart.com/model/anya-krey; g:f
-cast: Nick Ross; https://www.sexart.com/model/nick-ross; g:m
+model: n:Emylia Argan; id:/model/sexart/emylia-argan; u:https://www.sexart.com/model/emylia-argan; g:f
+model: n:Maxmilian Dior; id:/model/sexart/maxmilian-dior; u:https://www.sexart.com/model/maxmilian-dior; g:m
+model: n:Candice Demellza; id:/model/sexart/candice-demellza; u:https://www.sexart.com/model/candice-demellza; g:f
+model: n:Alexis Crystal; id:/model/sexart/alexis-crystal; u:https://www.sexart.com/model/alexis-crystal; g:f
+model: n:Lilu Moon; id:/model/sexart/lilu-moon; u:https://www.sexart.com/model/lilu-moon; g:f
+model: n:Anya Krey; id:/model/sexart/anya-krey; u:https://www.sexart.com/model/anya-krey; g:f
+model: n:Nick Ross; id:/model/sexart/nick-ross; u:https://www.sexart.com/model/nick-ross; g:m
 released: 2019-04-14
 director: Andrej Lupin
 rating: 8.9
@@ -6881,13 +6881,13 @@ title: My Summer Episode 3 - Girls
 type: movie
 site: sa
 url: https://www.sexart.com/model/alexis-crystal-and-maxmilian-dior-and-emylia-argan-and-nick-ross-and-candice-demellza-and-anya-krey-and-lilu-moon/movie/20190412/MY_SUMMER_EPISODE_3_-_GIRLS
-cast: Alexis Crystal; https://www.sexart.com/model/alexis-crystal; g:f
-cast: Maxmilian Dior; https://www.sexart.com/model/maxmilian-dior; g:m
-cast: Emylia Argan; https://www.sexart.com/model/emylia-argan; g:f
-cast: Nick Ross; https://www.sexart.com/model/nick-ross; g:m
-cast: Candice Demellza; https://www.sexart.com/model/candice-demellza; g:f
-cast: Anya Krey; https://www.sexart.com/model/anya-krey; g:f
-cast: Lilu Moon; https://www.sexart.com/model/lilu-moon; g:f
+model: n:Alexis Crystal; id:/model/sexart/alexis-crystal; u:https://www.sexart.com/model/alexis-crystal; g:f
+model: n:Maxmilian Dior; id:/model/sexart/maxmilian-dior; u:https://www.sexart.com/model/maxmilian-dior; g:m
+model: n:Emylia Argan; id:/model/sexart/emylia-argan; u:https://www.sexart.com/model/emylia-argan; g:f
+model: n:Nick Ross; id:/model/sexart/nick-ross; u:https://www.sexart.com/model/nick-ross; g:m
+model: n:Candice Demellza; id:/model/sexart/candice-demellza; u:https://www.sexart.com/model/candice-demellza; g:f
+model: n:Anya Krey; id:/model/sexart/anya-krey; u:https://www.sexart.com/model/anya-krey; g:f
+model: n:Lilu Moon; id:/model/sexart/lilu-moon; u:https://www.sexart.com/model/lilu-moon; g:f
 released: 2019-04-12
 director: Andrej Lupin
 rating: 9.3
@@ -6954,13 +6954,13 @@ title: My Summer Episode 2 - Celebration
 type: movie
 site: sa
 url: https://www.sexart.com/model/alexis-crystal-and-candice-demellza-and-nick-ross-and-emylia-argan-and-maxmilian-dior-and-lilu-moon-and-anya-krey/movie/20190410/MY_SUMMER_EPISODE_2_-_CELEBRATION
-cast: Alexis Crystal; https://www.sexart.com/model/alexis-crystal; g:f
-cast: Candice Demellza; https://www.sexart.com/model/candice-demellza; g:f
-cast: Nick Ross; https://www.sexart.com/model/nick-ross; g:m
-cast: Emylia Argan; https://www.sexart.com/model/emylia-argan; g:f
-cast: Maxmilian Dior; https://www.sexart.com/model/maxmilian-dior; g:m
-cast: Lilu Moon; https://www.sexart.com/model/lilu-moon; g:f
-cast: Anya Krey; https://www.sexart.com/model/anya-krey; g:f
+model: n:Alexis Crystal; id:/model/sexart/alexis-crystal; u:https://www.sexart.com/model/alexis-crystal; g:f
+model: n:Candice Demellza; id:/model/sexart/candice-demellza; u:https://www.sexart.com/model/candice-demellza; g:f
+model: n:Nick Ross; id:/model/sexart/nick-ross; u:https://www.sexart.com/model/nick-ross; g:m
+model: n:Emylia Argan; id:/model/sexart/emylia-argan; u:https://www.sexart.com/model/emylia-argan; g:f
+model: n:Maxmilian Dior; id:/model/sexart/maxmilian-dior; u:https://www.sexart.com/model/maxmilian-dior; g:m
+model: n:Lilu Moon; id:/model/sexart/lilu-moon; u:https://www.sexart.com/model/lilu-moon; g:f
+model: n:Anya Krey; id:/model/sexart/anya-krey; u:https://www.sexart.com/model/anya-krey; g:f
 released: 2019-04-10
 director: Andrej Lupin
 rating: 9.2
@@ -7037,13 +7037,13 @@ title: My Summer Part 1 - Max
 type: movie
 site: sa
 url: https://www.sexart.com/model/emylia-argan-and-anya-krey-and-alexis-crystal-and-lilu-moon-and-nick-ross-and-candice-demellza-and-maxmilian-dior/movie/20190407/MY_SUMMER_PART_1_-_MAX
-cast: Emylia Argan; https://www.sexart.com/model/emylia-argan; g:f
-cast: Anya Krey; https://www.sexart.com/model/anya-krey; g:f
-cast: Alexis Crystal; https://www.sexart.com/model/alexis-crystal; g:f
-cast: Lilu Moon; https://www.sexart.com/model/lilu-moon; g:f
-cast: Nick Ross; https://www.sexart.com/model/nick-ross; g:m
-cast: Candice Demellza; https://www.sexart.com/model/candice-demellza; g:f
-cast: Maxmilian Dior; https://www.sexart.com/model/maxmilian-dior; g:m
+model: n:Emylia Argan; id:/model/sexart/emylia-argan; u:https://www.sexart.com/model/emylia-argan; g:f
+model: n:Anya Krey; id:/model/sexart/anya-krey; u:https://www.sexart.com/model/anya-krey; g:f
+model: n:Alexis Crystal; id:/model/sexart/alexis-crystal; u:https://www.sexart.com/model/alexis-crystal; g:f
+model: n:Lilu Moon; id:/model/sexart/lilu-moon; u:https://www.sexart.com/model/lilu-moon; g:f
+model: n:Nick Ross; id:/model/sexart/nick-ross; u:https://www.sexart.com/model/nick-ross; g:m
+model: n:Candice Demellza; id:/model/sexart/candice-demellza; u:https://www.sexart.com/model/candice-demellza; g:f
+model: n:Maxmilian Dior; id:/model/sexart/maxmilian-dior; u:https://www.sexart.com/model/maxmilian-dior; g:m
 released: 2019-04-07
 director: Andrej Lupin
 rating: 8.8
@@ -7100,8 +7100,8 @@ title: Two Girls One Lake 2
 type: movie
 site: sa
 url: https://www.sexart.com/model/lorena-b-and-sabrisse-a/movie/20190405/TWO_GIRLS_ONE_LAKE_2
-cast: Lorena B; https://www.sexart.com/model/lorena-b; g:f
-cast: Sabrisse A; https://www.sexart.com/model/sabrisse-a; g:f
+model: n:Lorena B; id:/model/sexart/lorena-b; u:https://www.sexart.com/model/lorena-b; g:f
+model: n:Sabrisse A; id:/model/sexart/sabrisse-a; u:https://www.sexart.com/model/sabrisse-a; g:f
 released: 2019-04-05
 director: Don Caravaggio
 rating: 9.4
@@ -7128,8 +7128,8 @@ title: Cover
 type: movie
 site: sa
 url: https://www.sexart.com/model/stacy-cruz-and-michael-fly/movie/20190403/COVER
-cast: Stacy Cruz; https://www.sexart.com/model/stacy-cruz; g:f
-cast: Michael Fly; https://www.sexart.com/model/michael-fly; g:m
+model: n:Stacy Cruz; id:/model/sexart/stacy-cruz; u:https://www.sexart.com/model/stacy-cruz; g:f
+model: n:Michael Fly; id:/model/sexart/michael-fly; u:https://www.sexart.com/model/michael-fly; g:m
 released: 2019-04-03
 director: Andrej Lupin
 rating: 9.2
@@ -7184,8 +7184,8 @@ title: Harmonize
 type: movie
 site: sa
 url: https://www.sexart.com/model/amber-and-michael-fly/movie/20190331/HARMONIZE
-cast: Amber; https://www.sexart.com/model/amber; g:f
-cast: Michael Fly; https://www.sexart.com/model/michael-fly; g:m
+model: n:Amber; id:/model/sexart/amber; u:https://www.sexart.com/model/amber; g:f
+model: n:Michael Fly; id:/model/sexart/michael-fly; u:https://www.sexart.com/model/michael-fly; g:m
 released: 2019-03-31
 director: Andrej Lupin
 rating: 9.0
@@ -7249,8 +7249,8 @@ title: 1, 2, 3, Kiss
 type: movie
 site: sa
 url: https://www.sexart.com/model/melody-petite-and-olivia-sin/movie/20190329/1,_2,_3,_KISS
-cast: Melody Petite; https://www.sexart.com/model/melody-petite; g:f
-cast: Olivia Sin; https://www.sexart.com/model/olivia-sin; g:f
+model: n:Melody Petite; id:/model/sexart/melody-petite; u:https://www.sexart.com/model/melody-petite; g:f
+model: n:Olivia Sin; id:/model/sexart/olivia-sin; u:https://www.sexart.com/model/olivia-sin; g:f
 released: 2019-03-29
 director: Andrej Lupin
 rating: 8.9
@@ -7318,10 +7318,10 @@ title: Out Of Sight
 type: movie
 site: sa
 url: https://www.sexart.com/model/monica-brown-and-lady-bug-and-alberto-blanco-and-eric-el-gran/movie/20190327/OUT_OF_SIGHT
-cast: Monica Brown; https://www.sexart.com/model/monica-brown; g:f
-cast: Lady Bug; https://www.sexart.com/model/lady-bug; g:f
-cast: Alberto Blanco; https://www.sexart.com/model/alberto-blanco; g:m
-cast: Eric El Gran; https://www.sexart.com/model/eric-el-gran; g:m
+model: n:Monica Brown; id:/model/sexart/monica-brown; u:https://www.sexart.com/model/monica-brown; g:f
+model: n:Lady Bug; id:/model/sexart/lady-bug; u:https://www.sexart.com/model/lady-bug; g:f
+model: n:Alberto Blanco; id:/model/sexart/alberto-blanco; u:https://www.sexart.com/model/alberto-blanco; g:m
+model: n:Eric El Gran; id:/model/sexart/eric-el-gran; u:https://www.sexart.com/model/eric-el-gran; g:m
 released: 2019-03-27
 director: Andrej Lupin
 rating: 9.0
@@ -7384,8 +7384,8 @@ title: In The Morning
 type: movie
 site: sa
 url: https://www.sexart.com/model/alexis-crystal-and-maxmilian-dior/movie/20190324/IN_THE_MORNING
-cast: Alexis Crystal; https://www.sexart.com/model/alexis-crystal; g:f
-cast: Maxmilian Dior; https://www.sexart.com/model/maxmilian-dior; g:m
+model: n:Alexis Crystal; id:/model/sexart/alexis-crystal; u:https://www.sexart.com/model/alexis-crystal; g:f
+model: n:Maxmilian Dior; id:/model/sexart/maxmilian-dior; u:https://www.sexart.com/model/maxmilian-dior; g:m
 released: 2019-03-24
 director: Andrej Lupin
 rating: 9.3
@@ -7443,8 +7443,8 @@ title: Waves of Pleasure
 type: movie
 site: sa
 url: https://www.sexart.com/model/adel-morel-and-jia-lissa/movie/20190322/WAVES_OF_PLEASURE
-cast: Adel Morel; https://www.sexart.com/model/adel-morel; g:f
-cast: Jia Lissa; https://www.sexart.com/model/jia-lissa; g:f
+model: n:Adel Morel; id:/model/sexart/adel-morel; u:https://www.sexart.com/model/adel-morel; g:f
+model: n:Jia Lissa; id:/model/sexart/jia-lissa; u:https://www.sexart.com/model/jia-lissa; g:f
 released: 2019-03-22
 director: Don Caravaggio
 rating: 9.4
@@ -7494,8 +7494,8 @@ title: Stay
 type: movie
 site: sa
 url: https://www.sexart.com/model/dorian-del-isla-and-stacy-cruz/movie/20190320/STAY
-cast: Dorian Del Isla; https://www.sexart.com/model/dorian-del-isla; g:m
-cast: Stacy Cruz; https://www.sexart.com/model/stacy-cruz; g:f
+model: n:Dorian Del Isla; id:/model/sexart/dorian-del-isla; u:https://www.sexart.com/model/dorian-del-isla; g:m
+model: n:Stacy Cruz; id:/model/sexart/stacy-cruz; u:https://www.sexart.com/model/stacy-cruz; g:f
 released: 2019-03-20
 director: Andrej Lupin
 rating: 9.3
@@ -7555,8 +7555,8 @@ title: Cycle Episode 2
 type: movie
 site: sa
 url: https://www.sexart.com/model/emylia-argan-and-nick-ross/movie/20190317/CYCLE_EPISODE_2
-cast: Emylia Argan; https://www.sexart.com/model/emylia-argan; g:f
-cast: Nick Ross; https://www.sexart.com/model/nick-ross; g:m
+model: n:Emylia Argan; id:/model/sexart/emylia-argan; u:https://www.sexart.com/model/emylia-argan; g:f
+model: n:Nick Ross; id:/model/sexart/nick-ross; u:https://www.sexart.com/model/nick-ross; g:m
 released: 2019-03-17
 director: Andrej Lupin
 rating: 8.9
@@ -7615,8 +7615,8 @@ title: Island Encounter Episode 3
 type: movie
 site: sa
 url: https://www.sexart.com/model/olivia-sin-and-arian/movie/20190315/ISLAND_ENCOUNTER_EPISODE_3
-cast: Olivia Sin; https://www.sexart.com/model/olivia-sin; g:f
-cast: Arian; https://www.sexart.com/model/arian; g:f
+model: n:Olivia Sin; id:/model/sexart/olivia-sin; u:https://www.sexart.com/model/olivia-sin; g:f
+model: n:Arian; id:/model/sexart/arian; u:https://www.sexart.com/model/arian; g:f
 released: 2019-03-15
 director: Andrej Lupin
 rating: 9.1
@@ -7688,7 +7688,7 @@ title: My Desire
 type: movie
 site: sa
 url: https://www.sexart.com/model/aislin/movie/20190313/MY_DESIRE
-cast: Aislin; https://www.sexart.com/model/aislin; g:f
+model: n:Aislin; id:/model/sexart/aislin; u:https://www.sexart.com/model/aislin; g:f
 released: 2019-03-13
 director: Andrej Lupin
 rating: 9.4
@@ -7742,10 +7742,10 @@ title: Cycle Episode 1
 type: movie
 site: sa
 url: https://www.sexart.com/model/emylia-argan-and-nick-ross-and-alexis-crystal-and-maxmilian-dior/movie/20190310/CYCLE_EPISODE_1
-cast: Emylia Argan; https://www.sexart.com/model/emylia-argan; g:f
-cast: Nick Ross; https://www.sexart.com/model/nick-ross; g:m
-cast: Alexis Crystal; https://www.sexart.com/model/alexis-crystal; g:f
-cast: Maxmilian Dior; https://www.sexart.com/model/maxmilian-dior; g:m
+model: n:Emylia Argan; id:/model/sexart/emylia-argan; u:https://www.sexart.com/model/emylia-argan; g:f
+model: n:Nick Ross; id:/model/sexart/nick-ross; u:https://www.sexart.com/model/nick-ross; g:m
+model: n:Alexis Crystal; id:/model/sexart/alexis-crystal; u:https://www.sexart.com/model/alexis-crystal; g:f
+model: n:Maxmilian Dior; id:/model/sexart/maxmilian-dior; u:https://www.sexart.com/model/maxmilian-dior; g:m
 released: 2019-03-10
 director: Andrej Lupin
 rating: 9.1
@@ -7811,8 +7811,8 @@ title: Island Encounter Episode 2
 type: movie
 site: sa
 url: https://www.sexart.com/model/amaris-and-lena-reif/movie/20190308/ISLAND_ENCOUNTER_EPISODE_2
-cast: Amaris; https://www.sexart.com/model/amaris; g:f
-cast: Lena Reif; https://www.sexart.com/model/lena-reif; g:f
+model: n:Amaris; id:/model/sexart/amaris; u:https://www.sexart.com/model/amaris; g:f
+model: n:Lena Reif; id:/model/sexart/lena-reif; u:https://www.sexart.com/model/lena-reif; g:f
 released: 2019-03-08
 director: Andrej Lupin
 rating: 9.1
@@ -7884,8 +7884,8 @@ title: The Retro Collection - Two Rooms
 type: movie
 site: sa
 url: https://www.sexart.com/model/denisa-heaven-and-lein-lewis/movie/20190306/THE_RETRO_COLLECTION_-_TWO_ROOMS
-cast: Denisa Heaven; https://www.sexart.com/model/denisa-heaven; g:f
-cast: Lein Lewis; https://www.sexart.com/model/lein-lewis; g:m
+model: n:Denisa Heaven; id:/model/sexart/denisa-heaven; u:https://www.sexart.com/model/denisa-heaven; g:f
+model: n:Lein Lewis; id:/model/sexart/lein-lewis; u:https://www.sexart.com/model/lein-lewis; g:m
 released: 2019-03-06
 director: Andrej Lupin
 rating: 9.1
@@ -7946,12 +7946,12 @@ title: Island Encounter Episode 1
 type: movie
 site: sa
 url: https://www.sexart.com/model/amaris-and-olivia-sin-and-michael-fly-and-lena-reif-and-arian-and-emylia-argan/movie/20190303/ISLAND_ENCOUNTER_EPISODE_1
-cast: Amaris; https://www.sexart.com/model/amaris; g:f
-cast: Olivia Sin; https://www.sexart.com/model/olivia-sin; g:f
-cast: Michael Fly; https://www.sexart.com/model/michael-fly; g:m
-cast: Lena Reif; https://www.sexart.com/model/lena-reif; g:f
-cast: Arian; https://www.sexart.com/model/arian; g:f
-cast: Emylia Argan; https://www.sexart.com/model/emylia-argan; g:f
+model: n:Amaris; id:/model/sexart/amaris; u:https://www.sexart.com/model/amaris; g:f
+model: n:Olivia Sin; id:/model/sexart/olivia-sin; u:https://www.sexart.com/model/olivia-sin; g:f
+model: n:Michael Fly; id:/model/sexart/michael-fly; u:https://www.sexart.com/model/michael-fly; g:m
+model: n:Lena Reif; id:/model/sexart/lena-reif; u:https://www.sexart.com/model/lena-reif; g:f
+model: n:Arian; id:/model/sexart/arian; u:https://www.sexart.com/model/arian; g:f
+model: n:Emylia Argan; id:/model/sexart/emylia-argan; u:https://www.sexart.com/model/emylia-argan; g:f
 released: 2019-03-03
 director: Andrej Lupin
 rating: 8.8
@@ -8017,9 +8017,9 @@ title: Ariel's Secret - Project 4 Sofi Golfinger
 type: movie
 site: sa
 url: https://www.sexart.com/model/suzie-carina-and-sofi-golfinger-and-ariel-piper-fawn/movie/20190301/ARIEL_S_SECRET_-_PROJECT_4_SOFI_GOLFINGER
-cast: Suzie Carina; https://www.sexart.com/model/suzie-carina; g:f
-cast: Sofi Golfinger; https://www.sexart.com/model/sofi-golfinger; g:f
-cast: Ariel Piper Fawn; https://www.sexart.com/model/ariel-piper-fawn; g:f
+model: n:Suzie Carina; id:/model/sexart/suzie-carina; u:https://www.sexart.com/model/suzie-carina; g:f
+model: n:Sofi Golfinger; id:/model/sexart/sofi-golfinger; u:https://www.sexart.com/model/sofi-golfinger; g:f
+model: n:Ariel Piper Fawn; id:/model/sexart/ariel-piper-fawn; u:https://www.sexart.com/model/ariel-piper-fawn; g:f
 released: 2019-03-01
 director: Andrej Lupin
 rating: 9.4
@@ -8086,8 +8086,8 @@ title: Love You - Love Me
 type: movie
 site: sa
 url: https://www.sexart.com/model/alberto-blanco-and-monica-brown/movie/20190227/LOVE_YOU_-_LOVE_ME
-cast: Alberto Blanco; https://www.sexart.com/model/alberto-blanco; g:m
-cast: Monica Brown; https://www.sexart.com/model/monica-brown; g:f
+model: n:Alberto Blanco; id:/model/sexart/alberto-blanco; u:https://www.sexart.com/model/alberto-blanco; g:m
+model: n:Monica Brown; id:/model/sexart/monica-brown; u:https://www.sexart.com/model/monica-brown; g:f
 released: 2019-02-27
 director: Andrej Lupin
 rating: 9.0
@@ -8142,8 +8142,8 @@ title: Elements Episode 4 - Wind
 type: movie
 site: sa
 url: https://www.sexart.com/model/olivia-sin-and-alberto-blanco/movie/20190224/ELEMENTS_EPISODE_4_-_WIND
-cast: Olivia Sin; https://www.sexart.com/model/olivia-sin; g:f
-cast: Alberto Blanco; https://www.sexart.com/model/alberto-blanco; g:m
+model: n:Olivia Sin; id:/model/sexart/olivia-sin; u:https://www.sexart.com/model/olivia-sin; g:f
+model: n:Alberto Blanco; id:/model/sexart/alberto-blanco; u:https://www.sexart.com/model/alberto-blanco; g:m
 released: 2019-02-24
 director: Andrej Lupin
 rating: 9.0
@@ -8214,8 +8214,8 @@ title: Ritual 4
 type: movie
 site: sa
 url: https://www.sexart.com/model/stacy-cruz-and-elina-de-lion/movie/20190222/RITUAL_4
-cast: Stacy Cruz; https://www.sexart.com/model/stacy-cruz; g:f
-cast: Elina De Lion; https://www.sexart.com/model/elina-de-lion; g:f
+model: n:Stacy Cruz; id:/model/sexart/stacy-cruz; u:https://www.sexart.com/model/stacy-cruz; g:f
+model: n:Elina De Lion; id:/model/sexart/elina-de-lion; u:https://www.sexart.com/model/elina-de-lion; g:f
 released: 2019-02-22
 director: Andrej Lupin
 rating: 9.4
@@ -8281,8 +8281,8 @@ title: Colorful Bodies
 type: movie
 site: sa
 url: https://www.sexart.com/model/dorian-del-isla-and-cassie-del-isla/movie/20190220/COLORFUL_BODIES
-cast: Dorian Del Isla; https://www.sexart.com/model/dorian-del-isla; g:m
-cast: Cassie Del Isla; https://www.sexart.com/model/cassie-del-isla; g:f
+model: n:Dorian Del Isla; id:/model/sexart/dorian-del-isla; u:https://www.sexart.com/model/dorian-del-isla; g:m
+model: n:Cassie Del Isla; id:/model/sexart/cassie-del-isla; u:https://www.sexart.com/model/cassie-del-isla; g:f
 released: 2019-02-20
 director: Andrej Lupin
 rating: 9.1
@@ -8340,8 +8340,8 @@ title: Elements Episode 3 - Earth
 type: movie
 site: sa
 url: https://www.sexart.com/model/melody-petite-and-eric-el-gran/movie/20190217/ELEMENTS_EPISODE_3_-_EARTH
-cast: Melody Petite; https://www.sexart.com/model/melody-petite; g:f
-cast: Eric El Gran; https://www.sexart.com/model/eric-el-gran; g:m
+model: n:Melody Petite; id:/model/sexart/melody-petite; u:https://www.sexart.com/model/melody-petite; g:f
+model: n:Eric El Gran; id:/model/sexart/eric-el-gran; u:https://www.sexart.com/model/eric-el-gran; g:m
 released: 2019-02-17
 director: Andrej Lupin
 rating: 9.0
@@ -8402,8 +8402,8 @@ title: Ritual 3
 type: movie
 site: sa
 url: https://www.sexart.com/model/stacy-cruz-and-elena-vega/movie/20190215/RITUAL_3
-cast: Stacy Cruz; https://www.sexart.com/model/stacy-cruz; g:f
-cast: Elena Vega; https://www.sexart.com/model/elena-vega; g:f
+model: n:Stacy Cruz; id:/model/sexart/stacy-cruz; u:https://www.sexart.com/model/stacy-cruz; g:f
+model: n:Elena Vega; id:/model/sexart/elena-vega; u:https://www.sexart.com/model/elena-vega; g:f
 released: 2019-02-15
 director: Andrej Lupin
 rating: 9.3
@@ -8466,8 +8466,8 @@ title: Getaway 3
 type: movie
 site: sa
 url: https://www.sexart.com/model/melody-petite-and-alberto-blanco/movie/20190213/GETAWAY_3
-cast: Melody Petite; https://www.sexart.com/model/melody-petite; g:f
-cast: Alberto Blanco; https://www.sexart.com/model/alberto-blanco; g:m
+model: n:Melody Petite; id:/model/sexart/melody-petite; u:https://www.sexart.com/model/melody-petite; g:f
+model: n:Alberto Blanco; id:/model/sexart/alberto-blanco; u:https://www.sexart.com/model/alberto-blanco; g:m
 released: 2019-02-13
 director: Andrej Lupin
 rating: 9.1
@@ -8532,8 +8532,8 @@ title: Elements Episode 2 - Water
 type: movie
 site: sa
 url: https://www.sexart.com/model/nick-ross-and-candice-demellza/movie/20190210/ELEMENTS_EPISODE_2_-_WATER
-cast: Nick Ross; https://www.sexart.com/model/nick-ross; g:m
-cast: Candice Demellza; https://www.sexart.com/model/candice-demellza; g:f
+model: n:Nick Ross; id:/model/sexart/nick-ross; u:https://www.sexart.com/model/nick-ross; g:m
+model: n:Candice Demellza; id:/model/sexart/candice-demellza; u:https://www.sexart.com/model/candice-demellza; g:f
 released: 2019-02-10
 director: Andrej Lupin
 rating: 9.2
@@ -8591,8 +8591,8 @@ title: Moment Of Life
 type: movie
 site: sa
 url: https://www.sexart.com/model/shrima-malati-and-emylia-argan/movie/20190208/MOMENT_OF_LIFE
-cast: Shrima Malati; https://www.sexart.com/model/shrima-malati; g:f
-cast: Emylia Argan; https://www.sexart.com/model/emylia-argan; g:f
+model: n:Shrima Malati; id:/model/sexart/shrima-malati; u:https://www.sexart.com/model/shrima-malati; g:f
+model: n:Emylia Argan; id:/model/sexart/emylia-argan; u:https://www.sexart.com/model/emylia-argan; g:f
 released: 2019-02-08
 director: Andrej Lupin
 rating: 9.3
@@ -8655,8 +8655,8 @@ title: Girl In The Window
 type: movie
 site: sa
 url: https://www.sexart.com/model/lee-anne-and-ryan-ryder/movie/20190206/GIRL_IN_THE_WINDOW
-cast: Lee Anne; https://www.sexart.com/model/lee-anne; g:f
-cast: Ryan Ryder; https://www.sexart.com/model/ryan-ryder; g:m
+model: n:Lee Anne; id:/model/sexart/lee-anne; u:https://www.sexart.com/model/lee-anne; g:f
+model: n:Ryan Ryder; id:/model/sexart/ryan-ryder; u:https://www.sexart.com/model/ryan-ryder; g:m
 released: 2019-02-06
 director: Andrej Lupin
 rating: 9.3
@@ -8710,8 +8710,8 @@ title: Elements Episode 1 - Fire
 type: movie
 site: sa
 url: https://www.sexart.com/model/maxmilian-dior-and-anya-krey/movie/20190203/ELEMENTS_EPISODE_1_-_FIRE
-cast: Maxmilian Dior; https://www.sexart.com/model/maxmilian-dior; g:m
-cast: Anya Krey; https://www.sexart.com/model/anya-krey; g:f
+model: n:Maxmilian Dior; id:/model/sexart/maxmilian-dior; u:https://www.sexart.com/model/maxmilian-dior; g:m
+model: n:Anya Krey; id:/model/sexart/anya-krey; u:https://www.sexart.com/model/anya-krey; g:f
 released: 2019-02-03
 director: Andrej Lupin
 rating: 9.2
@@ -8771,8 +8771,8 @@ title: Getaway 2
 type: movie
 site: sa
 url: https://www.sexart.com/model/lady-bug-and-melody-petite/movie/20190201/GETAWAY_2
-cast: Lady Bug; https://www.sexart.com/model/lady-bug; g:f
-cast: Melody Petite; https://www.sexart.com/model/melody-petite; g:f
+model: n:Lady Bug; id:/model/sexart/lady-bug; u:https://www.sexart.com/model/lady-bug; g:f
+model: n:Melody Petite; id:/model/sexart/melody-petite; u:https://www.sexart.com/model/melody-petite; g:f
 released: 2019-02-01
 director: Andrej Lupin
 rating: 9.1
@@ -8840,8 +8840,8 @@ title: High Point
 type: movie
 site: sa
 url: https://www.sexart.com/model/michael-fly-and-amaris/movie/20190130/HIGH_POINT
-cast: Michael Fly; https://www.sexart.com/model/michael-fly; g:m
-cast: Amaris; https://www.sexart.com/model/amaris; g:f
+model: n:Michael Fly; id:/model/sexart/michael-fly; u:https://www.sexart.com/model/michael-fly; g:m
+model: n:Amaris; id:/model/sexart/amaris; u:https://www.sexart.com/model/amaris; g:f
 released: 2019-01-30
 director: Andrej Lupin
 rating: 9.0
@@ -8901,8 +8901,8 @@ title: Welcome
 type: movie
 site: sa
 url: https://www.sexart.com/model/lena-reif-and-michael-fly/movie/20190127/WELCOME
-cast: Lena Reif; https://www.sexart.com/model/lena-reif; g:f
-cast: Michael Fly; https://www.sexart.com/model/michael-fly; g:m
+model: n:Lena Reif; id:/model/sexart/lena-reif; u:https://www.sexart.com/model/lena-reif; g:f
+model: n:Michael Fly; id:/model/sexart/michael-fly; u:https://www.sexart.com/model/michael-fly; g:m
 released: 2019-01-27
 director: Andrej Lupin
 rating: 9.2
@@ -8952,8 +8952,8 @@ title: Close Up 3
 type: movie
 site: sa
 url: https://www.sexart.com/model/emylia-argan-and-arian/movie/20190125/CLOSE_UP_3
-cast: Emylia Argan; https://www.sexart.com/model/emylia-argan; g:f
-cast: Arian; https://www.sexart.com/model/arian; g:f
+model: n:Emylia Argan; id:/model/sexart/emylia-argan; u:https://www.sexart.com/model/emylia-argan; g:f
+model: n:Arian; id:/model/sexart/arian; u:https://www.sexart.com/model/arian; g:f
 released: 2019-01-25
 director: Andrej Lupin
 rating: 9.1
@@ -9011,8 +9011,8 @@ title: Getaway 1
 type: movie
 site: sa
 url: https://www.sexart.com/model/olivia-sin-and-eric-el-gran/movie/20190123/GETAWAY_1
-cast: Olivia Sin; https://www.sexart.com/model/olivia-sin; g:f
-cast: Eric El Gran; https://www.sexart.com/model/eric-el-gran; g:m
+model: n:Olivia Sin; id:/model/sexart/olivia-sin; u:https://www.sexart.com/model/olivia-sin; g:f
+model: n:Eric El Gran; id:/model/sexart/eric-el-gran; u:https://www.sexart.com/model/eric-el-gran; g:m
 released: 2019-01-23
 director: Andrej Lupin
 rating: 8.9
@@ -9085,8 +9085,8 @@ title: Simply Because Of You
 type: movie
 site: sa
 url: https://www.sexart.com/model/lexi-layo-and-nick-ross/movie/20190120/SIMPLY_BECAUSE_OF_YOU
-cast: Lexi Layo; https://www.sexart.com/model/lexi-layo; g:f
-cast: Nick Ross; https://www.sexart.com/model/nick-ross; g:m
+model: n:Lexi Layo; id:/model/sexart/lexi-layo; u:https://www.sexart.com/model/lexi-layo; g:f
+model: n:Nick Ross; id:/model/sexart/nick-ross; u:https://www.sexart.com/model/nick-ross; g:m
 released: 2019-01-20
 director: Andrej Lupin
 rating: 9.0
@@ -9142,8 +9142,8 @@ title: Two Girls One Lake
 type: movie
 site: sa
 url: https://www.sexart.com/model/sabrisse-a-and-lorena-b/movie/20190118/TWO_GIRLS_ONE_LAKE
-cast: Sabrisse A; https://www.sexart.com/model/sabrisse-a; g:f
-cast: Lorena B; https://www.sexart.com/model/lorena-b; g:f
+model: n:Sabrisse A; id:/model/sexart/sabrisse-a; u:https://www.sexart.com/model/sabrisse-a; g:f
+model: n:Lorena B; id:/model/sexart/lorena-b; u:https://www.sexart.com/model/lorena-b; g:f
 released: 2019-01-18
 director: Don Caravaggio
 rating: 9.4
@@ -9214,9 +9214,9 @@ title: Naughty Neighbors
 type: movie
 site: sa
 url: https://www.sexart.com/model/alberto-blanco-and-emylia-argan-and-monica-brown/movie/20190116/NAUGHTY_NEIGHBORS
-cast: Alberto Blanco; https://www.sexart.com/model/alberto-blanco; g:m
-cast: Emylia Argan; https://www.sexart.com/model/emylia-argan; g:f
-cast: Monica Brown; https://www.sexart.com/model/monica-brown; g:f
+model: n:Alberto Blanco; id:/model/sexart/alberto-blanco; u:https://www.sexart.com/model/alberto-blanco; g:m
+model: n:Emylia Argan; id:/model/sexart/emylia-argan; u:https://www.sexart.com/model/emylia-argan; g:f
+model: n:Monica Brown; id:/model/sexart/monica-brown; u:https://www.sexart.com/model/monica-brown; g:f
 released: 2019-01-16
 director: Andrej Lupin
 rating: 9.2
@@ -9295,8 +9295,8 @@ title: Tender Touch
 type: movie
 site: sa
 url: https://www.sexart.com/model/anya-krey-and-nick-ross/movie/20190113/TENDER_TOUCH
-cast: Anya Krey; https://www.sexart.com/model/anya-krey; g:f
-cast: Nick Ross; https://www.sexart.com/model/nick-ross; g:m
+model: n:Anya Krey; id:/model/sexart/anya-krey; u:https://www.sexart.com/model/anya-krey; g:f
+model: n:Nick Ross; id:/model/sexart/nick-ross; u:https://www.sexart.com/model/nick-ross; g:m
 released: 2019-01-13
 director: Andrej Lupin
 rating: 9.0
@@ -9351,9 +9351,9 @@ title: Ariel's Secret - Project 3 Teresse Bizzarre
 type: movie
 site: sa
 url: https://www.sexart.com/model/suzie-carina-and-teresse-bizzarre-and-ariel-piper-fawn/movie/20190111/ARIEL_S_SECRET_-_PROJECT_3_TERESSE_BIZZARRE
-cast: Suzie Carina; https://www.sexart.com/model/suzie-carina; g:f
-cast: Teresse Bizzarre; https://www.sexart.com/model/teresse-bizzarre; g:f
-cast: Ariel Piper Fawn; https://www.sexart.com/model/ariel-piper-fawn; g:f
+model: n:Suzie Carina; id:/model/sexart/suzie-carina; u:https://www.sexart.com/model/suzie-carina; g:f
+model: n:Teresse Bizzarre; id:/model/sexart/teresse-bizzarre; u:https://www.sexart.com/model/teresse-bizzarre; g:f
+model: n:Ariel Piper Fawn; id:/model/sexart/ariel-piper-fawn; u:https://www.sexart.com/model/ariel-piper-fawn; g:f
 released: 2019-01-11
 director: Andrej Lupin
 rating: 9.4
@@ -9411,8 +9411,8 @@ title: Show Off
 type: movie
 site: sa
 url: https://www.sexart.com/model/melissa-benz-and-nick-ross/movie/20190109/SHOW_OFF
-cast: Melissa Benz; https://www.sexart.com/model/melissa-benz; g:f
-cast: Nick Ross; https://www.sexart.com/model/nick-ross; g:m
+model: n:Melissa Benz; id:/model/sexart/melissa-benz; u:https://www.sexart.com/model/melissa-benz; g:f
+model: n:Nick Ross; id:/model/sexart/nick-ross; u:https://www.sexart.com/model/nick-ross; g:m
 released: 2019-01-09
 director: Andrej Lupin
 rating: 9.2
@@ -9464,8 +9464,8 @@ title: Our Place
 type: movie
 site: sa
 url: https://www.sexart.com/model/tera-link-and-maxmilian-dior/movie/20190106/OUR_PLACE
-cast: Tera Link; https://www.sexart.com/model/tera-link; g:f
-cast: Maxmilian Dior; https://www.sexart.com/model/maxmilian-dior; g:m
+model: n:Tera Link; id:/model/sexart/tera-link; u:https://www.sexart.com/model/tera-link; g:f
+model: n:Maxmilian Dior; id:/model/sexart/maxmilian-dior; u:https://www.sexart.com/model/maxmilian-dior; g:m
 released: 2019-01-06
 director: Andrej Lupin
 rating: 9.0
@@ -9523,10 +9523,10 @@ title: Pool Girls 2
 type: movie
 site: sa
 url: https://www.sexart.com/model/lena-reif-and-arian-and-olivia-sin-and-rebecca-volpetti/movie/20190104/POOL_GIRLS_2
-cast: Lena Reif; https://www.sexart.com/model/lena-reif; g:f
-cast: Arian; https://www.sexart.com/model/arian; g:f
-cast: Olivia Sin; https://www.sexart.com/model/olivia-sin; g:f
-cast: Rebecca Volpetti; https://www.sexart.com/model/rebecca-volpetti; g:f
+model: n:Lena Reif; id:/model/sexart/lena-reif; u:https://www.sexart.com/model/lena-reif; g:f
+model: n:Arian; id:/model/sexart/arian; u:https://www.sexart.com/model/arian; g:f
+model: n:Olivia Sin; id:/model/sexart/olivia-sin; u:https://www.sexart.com/model/olivia-sin; g:f
+model: n:Rebecca Volpetti; id:/model/sexart/rebecca-volpetti; u:https://www.sexart.com/model/rebecca-volpetti; g:f
 released: 2019-01-04
 director: Andrej Lupin
 rating: 9.2
@@ -9590,8 +9590,8 @@ title: Coffee
 type: movie
 site: sa
 url: https://www.sexart.com/model/nick-ross-and-luna-c/movie/20190102/COFFEE
-cast: Nick Ross; https://www.sexart.com/model/nick-ross; g:m
-cast: Luna C; https://www.sexart.com/model/luna-c; g:f
+model: n:Nick Ross; id:/model/sexart/nick-ross; u:https://www.sexart.com/model/nick-ross; g:m
+model: n:Luna C; id:/model/sexart/luna-c; u:https://www.sexart.com/model/luna-c; g:f
 released: 2019-01-02
 director: Andrej Lupin
 rating: 9.3

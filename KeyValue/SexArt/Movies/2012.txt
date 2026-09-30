@@ -9,8 +9,8 @@ title: Yes
 type: movie
 site: sa
 url: https://www.sexart.com/model/lia-lor-and-giovanni-francesco/movie/20121230/YES
-cast: Lia Lor; https://www.sexart.com/model/lia-lor; g:f
-cast: Giovanni Francesco; https://www.sexart.com/model/giovanni-francesco; g:m
+model: n:Lia Lor; id:/model/sexart/lia-lor; u:https://www.sexart.com/model/lia-lor; g:f
+model: n:Giovanni Francesco; id:/model/sexart/giovanni-francesco; u:https://www.sexart.com/model/giovanni-francesco; g:m
 released: 2012-12-30
 director: Bo Llanberris
 rating: 8.8
@@ -46,8 +46,8 @@ title: El Tango de Gina Devine
 type: movie
 site: sa
 url: https://www.sexart.com/model/thomas-lee-and-gina-devine/movie/20121227/EL_TANGO_DE_GINA_DEVINE
-cast: Thomas Lee; https://www.sexart.com/model/thomas-lee; g:m
-cast: Gina Devine; https://www.sexart.com/model/gina-devine; g:f
+model: n:Thomas Lee; id:/model/sexart/thomas-lee; u:https://www.sexart.com/model/thomas-lee; g:m
+model: n:Gina Devine; id:/model/sexart/gina-devine; u:https://www.sexart.com/model/gina-devine; g:f
 released: 2012-12-27
 director: Andrej Lupin
 rating: 9.0
@@ -60,7 +60,7 @@ description: Reduced to its simplest form, the tango is merely a dance — two p
 runtime: 18:53
 executiveProducer: MetArt Films
 producer: Ariel Piper Fawn
-directorPhotography: Andrej Lupin
+directorOfPhotography: Andrej Lupin
 cinematographer: John Humble
 stillPhotographer: David Jones
 editor: Andrej Lupin, David Kocian
@@ -105,8 +105,8 @@ title: Undercover Dangerous #2
 type: movie
 site: sa
 url: https://www.sexart.com/model/jasmine-w-and-william-corazon/movie/20121223/UNDERCOVER_DANGEROUS_II
-cast: Jasmine W; https://www.sexart.com/model/jasmine-w; g:f
-cast: William Corazon; https://www.sexart.com/model/william-corazon; g:m
+model: n:Jasmine W; id:/model/sexart/jasmine-w; u:https://www.sexart.com/model/jasmine-w; g:f
+model: n:William Corazon; id:/model/sexart/william-corazon; u:https://www.sexart.com/model/william-corazon; g:m
 released: 2012-12-23
 director: Bo Llanberris
 rating: 9.0
@@ -157,8 +157,8 @@ title: Be Mine
 type: movie
 site: sa
 url: https://www.sexart.com/model/frida-and-dido-a/movie/20121220/BE_MINE
-cast: Frida; https://www.sexart.com/model/frida; g:f
-cast: Dido A; https://www.sexart.com/model/dido-a; g:f
+model: n:Frida; id:/model/sexart/frida; u:https://www.sexart.com/model/frida; g:f
+model: n:Dido A; id:/model/sexart/dido-a; u:https://www.sexart.com/model/dido-a; g:f
 released: 2012-12-20
 director: Alis Locanta
 rating: 9.2
@@ -211,8 +211,8 @@ title: Release The Dragon
 type: movie
 site: sa
 url: https://www.sexart.com/model/cindy-starfall-and-malena-morgan/movie/20121216/RELEASE_THE_DRAGON
-cast: Cindy Starfall; https://www.sexart.com/model/cindy-starfall; g:f
-cast: Malena Morgan; https://www.sexart.com/model/malena-morgan; g:f
+model: n:Cindy Starfall; id:/model/sexart/cindy-starfall; u:https://www.sexart.com/model/cindy-starfall; g:f
+model: n:Malena Morgan; id:/model/sexart/malena-morgan; u:https://www.sexart.com/model/malena-morgan; g:f
 released: 2012-12-16
 director: Bo Llanberris
 rating: 9.2
@@ -262,8 +262,8 @@ title: Draw Me
 type: movie
 site: sa
 url: https://www.sexart.com/model/mia-manarote-and-thomas-lee/movie/20121213/DRAW_ME
-cast: Mia Manarote; https://www.sexart.com/model/mia-manarote; g:f
-cast: Thomas Lee; https://www.sexart.com/model/thomas-lee; g:m
+model: n:Mia Manarote; id:/model/sexart/mia-manarote; u:https://www.sexart.com/model/mia-manarote; g:f
+model: n:Thomas Lee; id:/model/sexart/thomas-lee; u:https://www.sexart.com/model/thomas-lee; g:m
 released: 2012-12-13
 director: Andrej Lupin
 rating: 9.0
@@ -276,7 +276,7 @@ description: Thomas Lee approaches his art with focus, concentration, and meticu
 runtime: 21:28
 executiveProducer: MetArt Films
 producer: Ariel Piper Fawn
-directorPhotography: Andrej Lupin
+directorOfPhotography: Andrej Lupin
 cinematographer: John Humble
 stillPhotographer: David Jones
 editor: David Kocian, Andrej Lupin
@@ -312,8 +312,8 @@ title: Mizu
 type: movie
 site: sa
 url: https://www.sexart.com/model/michael-vegas-and-marica-hase/movie/20121209/MIZU
-cast: Michael Vegas; https://www.sexart.com/model/michael-vegas; g:m
-cast: Marica Hase; https://www.sexart.com/model/marica-hase; g:f
+model: n:Michael Vegas; id:/model/sexart/michael-vegas; u:https://www.sexart.com/model/michael-vegas; g:m
+model: n:Marica Hase; id:/model/sexart/marica-hase; u:https://www.sexart.com/model/marica-hase; g:f
 released: 2012-12-09
 director: Bo Llanberris
 rating: 8.9
@@ -364,8 +364,8 @@ title: Shame
 type: movie
 site: sa
 url: https://www.sexart.com/model/martin-and-alisson/movie/20121206/SHAME
-cast: Martin; https://www.sexart.com/model/martin; g:m
-cast: Alisson; https://www.sexart.com/model/alisson; g:f
+model: n:Martin; id:/model/sexart/martin; u:https://www.sexart.com/model/martin; g:m
+model: n:Alisson; id:/model/sexart/alisson; u:https://www.sexart.com/model/alisson; g:f
 released: 2012-12-06
 director: Alis Locanta
 rating: 8.9
@@ -416,8 +416,8 @@ title: SexArt Ink
 type: movie
 site: sa
 url: https://www.sexart.com/model/william-corazon-and-cameron-canada/movie/20121202/SEXART_INK
-cast: William Corazon; https://www.sexart.com/model/william-corazon; g:m
-cast: Cameron Canada; https://www.sexart.com/model/cameron-canada; g:f
+model: n:William Corazon; id:/model/sexart/william-corazon; u:https://www.sexart.com/model/william-corazon; g:m
+model: n:Cameron Canada; id:/model/sexart/cameron-canada; u:https://www.sexart.com/model/cameron-canada; g:f
 released: 2012-12-02
 director: Bo Llanberris
 rating: 8.8
@@ -468,8 +468,8 @@ title: Tantra Imaginations
 type: movie
 site: sa
 url: https://www.sexart.com/model/denson-carter-and-connie-carter/movie/20121129/TANTRA_IMAGINATIONS
-cast: Denson Carter; https://www.sexart.com/model/denson-carter; g:m
-cast: Connie Carter; https://www.sexart.com/model/connie-carter; g:f
+model: n:Denson Carter; id:/model/sexart/denson-carter; u:https://www.sexart.com/model/denson-carter; g:m
+model: n:Connie Carter; id:/model/sexart/connie-carter; u:https://www.sexart.com/model/connie-carter; g:f
 released: 2012-11-29
 director: Andrej Lupin
 rating: 9.3
@@ -482,7 +482,7 @@ description: Conny Carter and Denson C are different than most couplings you see
 runtime: 22:21
 executiveProducer: MetArt Films
 producer: Ariel Piper Fawn
-directorPhotography: Andrej Lupin
+directorOfPhotography: Andrej Lupin
 cinematographer: John Humble
 stillPhotographer: David Jones
 editor: David Kocian, Andrej Lupin
@@ -518,8 +518,8 @@ title: Intensify
 type: movie
 site: sa
 url: https://www.sexart.com/model/danny-mountain-and-maddy-oreilly/movie/20121125/INTENSIFY
-cast: Danny Mountain; https://www.sexart.com/model/danny-mountain; g:m
-cast: Maddy OReilly; https://www.sexart.com/model/maddy-oreilly; g:f
+model: n:Danny Mountain; id:/model/sexart/danny-mountain; u:https://www.sexart.com/model/danny-mountain; g:m
+model: n:Maddy OReilly; id:/model/sexart/maddy-oreilly; u:https://www.sexart.com/model/maddy-oreilly; g:f
 released: 2012-11-25
 director: Bo Llanberris
 rating: 9.3
@@ -564,8 +564,8 @@ title: Spy Game
 type: movie
 site: sa
 url: https://www.sexart.com/model/gina-devine-and-neeo/movie/20121122/SPY_GAME
-cast: Gina Devine; https://www.sexart.com/model/gina-devine; g:f
-cast: Neeo; https://www.sexart.com/model/neeo; g:m
+model: n:Gina Devine; id:/model/sexart/gina-devine; u:https://www.sexart.com/model/gina-devine; g:f
+model: n:Neeo; id:/model/sexart/neeo; u:https://www.sexart.com/model/neeo; g:m
 released: 2012-11-22
 director: Alis Locanta
 rating: 8.7
@@ -621,8 +621,8 @@ title: Need You
 type: movie
 site: sa
 url: https://www.sexart.com/model/iwia-a-and-denisa-heaven/movie/20121118/NEED_YOU
-cast: Iwia A; https://www.sexart.com/model/iwia-a; g:f
-cast: Denisa Heaven; https://www.sexart.com/model/denisa-heaven; g:f
+model: n:Iwia A; id:/model/sexart/iwia-a; u:https://www.sexart.com/model/iwia-a; g:f
+model: n:Denisa Heaven; id:/model/sexart/denisa-heaven; u:https://www.sexart.com/model/denisa-heaven; g:f
 released: 2012-11-18
 director: Andrej Lupin
 rating: 9.3
@@ -635,7 +635,7 @@ description: Denisa Heaven has caught her long term boyfriend Johny D cheating. 
 runtime: 21:26
 executiveProducer: MetArt Films
 producer: Ariel Piper Fawn
-directorPhotography: Andrej Lupin
+directorOfPhotography: Andrej Lupin
 cinematographer: John Humble
 stillPhotographer: David Jones
 editor: David Kocian, Andrej Lupin
@@ -683,8 +683,8 @@ title: Magic
 type: movie
 site: sa
 url: https://www.sexart.com/model/rilee-marks-and-hayden-hawkens/movie/20121115/MAGIC
-cast: Rilee Marks; https://www.sexart.com/model/rilee-marks; g:f
-cast: Hayden Hawkens; https://www.sexart.com/model/hayden-hawkens; g:f
+model: n:Rilee Marks; id:/model/sexart/rilee-marks; u:https://www.sexart.com/model/rilee-marks; g:f
+model: n:Hayden Hawkens; id:/model/sexart/hayden-hawkens; u:https://www.sexart.com/model/hayden-hawkens; g:f
 released: 2012-11-15
 director: Bo Llanberris
 rating: 9.0
@@ -732,10 +732,10 @@ title: Undercover Dangerous #1
 type: movie
 site: sa
 url: https://www.sexart.com/model/cindy-starfall-and-william-corazon-and-elle-alexandra-and-marica-hase/movie/20121111/UNDERCOVER_DANGEROUS
-cast: Cindy Starfall; https://www.sexart.com/model/cindy-starfall; g:f
-cast: William Corazon; https://www.sexart.com/model/william-corazon; g:m
-cast: Elle Alexandra; https://www.sexart.com/model/elle-alexandra; g:f
-cast: Marica Hase; https://www.sexart.com/model/marica-hase; g:f
+model: n:Cindy Starfall; id:/model/sexart/cindy-starfall; u:https://www.sexart.com/model/cindy-starfall; g:f
+model: n:William Corazon; id:/model/sexart/william-corazon; u:https://www.sexart.com/model/william-corazon; g:m
+model: n:Elle Alexandra; id:/model/sexart/elle-alexandra; u:https://www.sexart.com/model/elle-alexandra; g:f
+model: n:Marica Hase; id:/model/sexart/marica-hase; u:https://www.sexart.com/model/marica-hase; g:f
 released: 2012-11-11
 director: Bo Llanberris
 rating: 9.2
@@ -798,8 +798,8 @@ title: So 60's
 type: movie
 site: sa
 url: https://www.sexart.com/model/jay-dee-and-iwia-a/movie/20121108/SO_60_S
-cast: Jay Dee; https://www.sexart.com/model/jay-dee; g:m
-cast: Iwia A; https://www.sexart.com/model/iwia-a; g:f
+model: n:Jay Dee; id:/model/sexart/jay-dee; u:https://www.sexart.com/model/jay-dee; g:m
+model: n:Iwia A; id:/model/sexart/iwia-a; u:https://www.sexart.com/model/iwia-a; g:f
 released: 2012-11-08
 director: Alis Locanta
 rating: 9.0
@@ -852,8 +852,8 @@ title: White Room #2
 type: movie
 site: sa
 url: https://www.sexart.com/model/tyler-nixon-and-elaina-raye/movie/20121104/WHITE_ROOM_II
-cast: Tyler Nixon; https://www.sexart.com/model/tyler-nixon; g:m
-cast: Elaina Raye; https://www.sexart.com/model/elaina-raye; g:f
+model: n:Tyler Nixon; id:/model/sexart/tyler-nixon; u:https://www.sexart.com/model/tyler-nixon; g:m
+model: n:Elaina Raye; id:/model/sexart/elaina-raye; u:https://www.sexart.com/model/elaina-raye; g:f
 released: 2012-11-04
 director: Bo Llanberris
 rating: 8.9
@@ -903,8 +903,8 @@ title: Summertime
 type: movie
 site: sa
 url: https://www.sexart.com/model/lein-lewis-and-denisa-heaven/movie/20121101/SUMMERTIME
-cast: Lein Lewis; https://www.sexart.com/model/lein-lewis; g:m
-cast: Denisa Heaven; https://www.sexart.com/model/denisa-heaven; g:f
+model: n:Lein Lewis; id:/model/sexart/lein-lewis; u:https://www.sexart.com/model/lein-lewis; g:m
+model: n:Denisa Heaven; id:/model/sexart/denisa-heaven; u:https://www.sexart.com/model/denisa-heaven; g:f
 released: 2012-11-01
 director: Andrej Lupin
 rating: 9.0
@@ -917,7 +917,7 @@ description: If the title of this film calls to mind romantic picnics in sun-was
 runtime: 14:33
 executiveProducer: MetArt Films
 producer: Ariel Piper Fawn
-directorPhotography: Andrej Lupin
+directorOfPhotography: Andrej Lupin
 cinematographer: John Humble
 stillPhotographer: David Jones
 editor: David Kocian, Andrej Lupin
@@ -958,8 +958,8 @@ title: Shangri La
 type: movie
 site: sa
 url: https://www.sexart.com/model/marie-mccray-and-michael-vegas/movie/20121028/SHANGRI_LA
-cast: Marie McCray; https://www.sexart.com/model/marie-mccray; g:f
-cast: Michael Vegas; https://www.sexart.com/model/michael-vegas; g:m
+model: n:Marie McCray; id:/model/sexart/marie-mccray; u:https://www.sexart.com/model/marie-mccray; g:f
+model: n:Michael Vegas; id:/model/sexart/michael-vegas; u:https://www.sexart.com/model/michael-vegas; g:m
 released: 2012-10-28
 director: Bo Llanberris
 rating: 8.9
@@ -1008,8 +1008,8 @@ title: Prince Of The Full Moon
 type: movie
 site: sa
 url: https://www.sexart.com/model/william-corazon-and-aria-salazar/movie/20121025/PRINCE_OF_THE_FULL_MOON
-cast: William Corazon; https://www.sexart.com/model/william-corazon; g:m
-cast: Aria Salazar; https://www.sexart.com/model/aria-salazar; g:f
+model: n:William Corazon; id:/model/sexart/william-corazon; u:https://www.sexart.com/model/william-corazon; g:m
+model: n:Aria Salazar; id:/model/sexart/aria-salazar; u:https://www.sexart.com/model/aria-salazar; g:f
 released: 2012-10-25
 director: Bo Llanberris
 rating: 8.6
@@ -1055,8 +1055,8 @@ title: White Room #1
 type: movie
 site: sa
 url: https://www.sexart.com/model/casey-calvert-and-logan-pierce/movie/20121021/WHITE_ROOM
-cast: Casey Calvert; https://www.sexart.com/model/casey-calvert; g:f
-cast: Logan Pierce; https://www.sexart.com/model/logan-pierce; g:m
+model: n:Casey Calvert; id:/model/sexart/casey-calvert; u:https://www.sexart.com/model/casey-calvert; g:f
+model: n:Logan Pierce; id:/model/sexart/logan-pierce; u:https://www.sexart.com/model/logan-pierce; g:m
 released: 2012-10-21
 director: Bo Llanberris
 rating: 9.2
@@ -1106,7 +1106,7 @@ title: Melancholy
 type: movie
 site: sa
 url: https://www.sexart.com/model/emily-j/movie/20121018/MELANCHOLY
-cast: Emily J; https://www.sexart.com/model/emily-j; g:f
+model: n:Emily J; id:/model/sexart/emily-j; u:https://www.sexart.com/model/emily-j; g:f
 released: 2012-10-18
 director: Paul Black
 rating: 9.2
@@ -1119,7 +1119,7 @@ description: Relationships can be complicated, unpredictable things. Two people 
 runtime: 08:03
 writer: Ilona Black, Paul Black
 producer: MetArt Films
-directorPhotography: Ilona Black
+directorOfPhotography: Ilona Black
 tag: anal toys
 tag: beauty
 tag: bed
@@ -1157,8 +1157,8 @@ title: The Writer
 type: movie
 site: sa
 url: https://www.sexart.com/model/van-wyld-and-dillon-harper/movie/20121014/THE_WRITER
-cast: Van Wyld; https://www.sexart.com/model/van-wyld; g:m
-cast: Dillon Harper; https://www.sexart.com/model/dillon-harper; g:f
+model: n:Van Wyld; id:/model/sexart/van-wyld; u:https://www.sexart.com/model/van-wyld; g:m
+model: n:Dillon Harper; id:/model/sexart/dillon-harper; u:https://www.sexart.com/model/dillon-harper; g:f
 released: 2012-10-14
 director: Bo Llanberris
 rating: 8.9
@@ -1206,8 +1206,8 @@ title: In The Night
 type: movie
 site: sa
 url: https://www.sexart.com/model/elle-alexandra-and-casey-calvert/movie/20121011/IN_THE_NIGHT
-cast: Elle Alexandra; https://www.sexart.com/model/elle-alexandra; g:f
-cast: Casey Calvert; https://www.sexart.com/model/casey-calvert; g:f
+model: n:Elle Alexandra; id:/model/sexart/elle-alexandra; u:https://www.sexart.com/model/elle-alexandra; g:f
+model: n:Casey Calvert; id:/model/sexart/casey-calvert; u:https://www.sexart.com/model/casey-calvert; g:f
 released: 2012-10-11
 director: Bo Llanberris
 rating: 9.1
@@ -1254,8 +1254,8 @@ title: The Promise
 type: movie
 site: sa
 url: https://www.sexart.com/model/jasmine-w-and-logan-pierce/movie/20121007/THE_PROMISE
-cast: Jasmine W; https://www.sexart.com/model/jasmine-w; g:f
-cast: Logan Pierce; https://www.sexart.com/model/logan-pierce; g:m
+model: n:Jasmine W; id:/model/sexart/jasmine-w; u:https://www.sexart.com/model/jasmine-w; g:f
+model: n:Logan Pierce; id:/model/sexart/logan-pierce; u:https://www.sexart.com/model/logan-pierce; g:m
 released: 2012-10-07
 director: Bo Llanberris
 rating: 9.1
@@ -1305,8 +1305,8 @@ title: Last Night
 type: movie
 site: sa
 url: https://www.sexart.com/model/elle-alexandra-and-rilee-marks/movie/20121004/LAST_NIGHT
-cast: Elle Alexandra; https://www.sexart.com/model/elle-alexandra; g:f
-cast: Rilee Marks; https://www.sexart.com/model/rilee-marks; g:f
+model: n:Elle Alexandra; id:/model/sexart/elle-alexandra; u:https://www.sexart.com/model/elle-alexandra; g:f
+model: n:Rilee Marks; id:/model/sexart/rilee-marks; u:https://www.sexart.com/model/rilee-marks; g:f
 released: 2012-10-04
 director: Bo Llanberris
 rating: 9.0
@@ -1355,8 +1355,8 @@ title: Rendezvous
 type: movie
 site: sa
 url: https://www.sexart.com/model/presley-hart-and-richie-calhoun/movie/20120930/RENDEZVOUS
-cast: Presley Hart; https://www.sexart.com/model/presley-hart; g:f
-cast: Richie Calhoun; https://www.sexart.com/model/richie-calhoun; g:m
+model: n:Presley Hart; id:/model/sexart/presley-hart; u:https://www.sexart.com/model/presley-hart; g:f
+model: n:Richie Calhoun; id:/model/sexart/richie-calhoun; u:https://www.sexart.com/model/richie-calhoun; g:m
 released: 2012-09-30
 director: Bo Llanberris
 rating: 8.9
@@ -1401,8 +1401,8 @@ title: Flower Shop
 type: movie
 site: sa
 url: https://www.sexart.com/model/sasha-heart-and-katie-jordin/movie/20120927/FLOWER_SHOP
-cast: Sasha Heart; https://www.sexart.com/model/sasha-heart; g:f
-cast: Katie Jordin; https://www.sexart.com/model/katie-jordin; g:f
+model: n:Sasha Heart; id:/model/sexart/sasha-heart; u:https://www.sexart.com/model/sasha-heart; g:f
+model: n:Katie Jordin; id:/model/sexart/katie-jordin; u:https://www.sexart.com/model/katie-jordin; g:f
 released: 2012-09-27
 director: Bo Llanberris
 rating: 9.1
@@ -1457,10 +1457,10 @@ title: At The Movies
 type: movie
 site: sa
 url: https://www.sexart.com/model/jasmine-w-and-malena-morgan-and-lily-love-and-richie-calhoun/movie/20120923/AT_THE_MOVIES
-cast: Jasmine W; https://www.sexart.com/model/jasmine-w; g:f
-cast: Malena Morgan; https://www.sexart.com/model/malena-morgan; g:f
-cast: Lily Love; https://www.sexart.com/model/lily-love; g:f
-cast: Richie Calhoun; https://www.sexart.com/model/richie-calhoun; g:m
+model: n:Jasmine W; id:/model/sexart/jasmine-w; u:https://www.sexart.com/model/jasmine-w; g:f
+model: n:Malena Morgan; id:/model/sexart/malena-morgan; u:https://www.sexart.com/model/malena-morgan; g:f
+model: n:Lily Love; id:/model/sexart/lily-love; u:https://www.sexart.com/model/lily-love; g:f
+model: n:Richie Calhoun; id:/model/sexart/richie-calhoun; u:https://www.sexart.com/model/richie-calhoun; g:m
 released: 2012-09-23
 director: Bo Llanberris
 rating: 9.0
@@ -1507,8 +1507,8 @@ title: Amor Joven
 type: movie
 site: sa
 url: https://www.sexart.com/model/logan-pierce-and-elaina-raye/movie/20120920/AMOR_JOVEN
-cast: Logan Pierce; https://www.sexart.com/model/logan-pierce; g:m
-cast: Elaina Raye; https://www.sexart.com/model/elaina-raye; g:f
+model: n:Logan Pierce; id:/model/sexart/logan-pierce; u:https://www.sexart.com/model/logan-pierce; g:m
+model: n:Elaina Raye; id:/model/sexart/elaina-raye; u:https://www.sexart.com/model/elaina-raye; g:f
 released: 2012-09-20
 director: Bo Llanberris
 rating: 9.0
@@ -1558,8 +1558,8 @@ title: Stoned
 type: movie
 site: sa
 url: https://www.sexart.com/model/marie-mccray-and-tyler-nixon/movie/20120916/STONED
-cast: Marie McCray; https://www.sexart.com/model/marie-mccray; g:f
-cast: Tyler Nixon; https://www.sexart.com/model/tyler-nixon; g:m
+model: n:Marie McCray; id:/model/sexart/marie-mccray; u:https://www.sexart.com/model/marie-mccray; g:f
+model: n:Tyler Nixon; id:/model/sexart/tyler-nixon; u:https://www.sexart.com/model/tyler-nixon; g:m
 released: 2012-09-16
 director: Bo Llanberris
 rating: 9.1
@@ -1600,8 +1600,8 @@ title: Six
 type: movie
 site: sa
 url: https://www.sexart.com/model/lexi-bloom-and-rilee-marks/movie/20120913/SIX
-cast: Lexi Bloom; https://www.sexart.com/model/lexi-bloom; g:f
-cast: Rilee Marks; https://www.sexart.com/model/rilee-marks; g:f
+model: n:Lexi Bloom; id:/model/sexart/lexi-bloom; u:https://www.sexart.com/model/lexi-bloom; g:f
+model: n:Rilee Marks; id:/model/sexart/rilee-marks; u:https://www.sexart.com/model/rilee-marks; g:f
 released: 2012-09-13
 director: Bo Llanberris
 rating: 9.1
@@ -1656,8 +1656,8 @@ title: Gypsy Fortune
 type: movie
 site: sa
 url: https://www.sexart.com/model/cindy-starfall-and-logan-pierce/movie/20120909/GYPSY_FORTUNE
-cast: Cindy Starfall; https://www.sexart.com/model/cindy-starfall; g:f
-cast: Logan Pierce; https://www.sexart.com/model/logan-pierce; g:m
+model: n:Cindy Starfall; id:/model/sexart/cindy-starfall; u:https://www.sexart.com/model/cindy-starfall; g:f
+model: n:Logan Pierce; id:/model/sexart/logan-pierce; u:https://www.sexart.com/model/logan-pierce; g:m
 released: 2012-09-09
 director: Bo Llanberris
 rating: 9.0
@@ -1707,8 +1707,8 @@ title: SexArt Style
 type: movie
 site: sa
 url: https://www.sexart.com/model/dani-jensen-and-richie-calhoun/movie/20120906/SEXART_STYLE
-cast: Dani Jensen; https://www.sexart.com/model/dani-jensen; g:f
-cast: Richie Calhoun; https://www.sexart.com/model/richie-calhoun; g:m
+model: n:Dani Jensen; id:/model/sexart/dani-jensen; u:https://www.sexart.com/model/dani-jensen; g:f
+model: n:Richie Calhoun; id:/model/sexart/richie-calhoun; u:https://www.sexart.com/model/richie-calhoun; g:m
 released: 2012-09-06
 director: Bo Llanberris
 rating: 9.0
@@ -1762,8 +1762,8 @@ title: Hollywood Royale
 type: movie
 site: sa
 url: https://www.sexart.com/model/vanessa-cage-and-van-wyld/movie/20120902/HOLLYWOOD_ROYALE
-cast: Vanessa Cage; https://www.sexart.com/model/vanessa-cage; g:f
-cast: Van Wyld; https://www.sexart.com/model/van-wyld; g:m
+model: n:Vanessa Cage; id:/model/sexart/vanessa-cage; u:https://www.sexart.com/model/vanessa-cage; g:f
+model: n:Van Wyld; id:/model/sexart/van-wyld; u:https://www.sexart.com/model/van-wyld; g:m
 released: 2012-09-02
 director: Bo Llanberris
 rating: 8.8
@@ -1814,7 +1814,7 @@ title: Wedding Day
 type: movie
 site: sa
 url: https://www.sexart.com/model/ashley-doll/movie/20120830/WEDDING_DAY
-cast: Ashley Doll; https://www.sexart.com/model/ashley-doll; g:f
+model: n:Ashley Doll; id:/model/sexart/ashley-doll; u:https://www.sexart.com/model/ashley-doll; g:f
 released: 2012-08-30
 director: Bo Llanberris
 rating: 9.0
@@ -1865,8 +1865,8 @@ title: Rodeo Drive
 type: movie
 site: sa
 url: https://www.sexart.com/model/logan-pierce-and-jessie-volt/movie/20120826/RODEO_DRIVE
-cast: Logan Pierce; https://www.sexart.com/model/logan-pierce; g:m
-cast: Jessie Volt; https://www.sexart.com/model/jessie-volt; g:f
+model: n:Logan Pierce; id:/model/sexart/logan-pierce; u:https://www.sexart.com/model/logan-pierce; g:m
+model: n:Jessie Volt; id:/model/sexart/jessie-volt; u:https://www.sexart.com/model/jessie-volt; g:f
 released: 2012-08-26
 director: Bo Llanberris
 rating: 8.8
@@ -1918,8 +1918,8 @@ title: Vegas
 type: movie
 site: sa
 url: https://www.sexart.com/model/sophia-and-jessie-andrews/movie/20120823/VEGAS
-cast: Sophia; https://www.sexart.com/model/sophia; g:f
-cast: Jessie Andrews; https://www.sexart.com/model/jessie-andrews; g:f
+model: n:Sophia; id:/model/sexart/sophia; u:https://www.sexart.com/model/sophia; g:f
+model: n:Jessie Andrews; id:/model/sexart/jessie-andrews; u:https://www.sexart.com/model/jessie-andrews; g:f
 released: 2012-08-23
 director: Bo Llanberris
 rating: 9.0
@@ -1971,8 +1971,8 @@ title: Spark Man, Chrome Girl
 type: movie
 site: sa
 url: https://www.sexart.com/model/tyler-nixon-and-katie-jordin/movie/20120819/SPARK_MAN,_CHROME_GIRL
-cast: Tyler Nixon; https://www.sexart.com/model/tyler-nixon; g:m
-cast: Katie Jordin; https://www.sexart.com/model/katie-jordin; g:f
+model: n:Tyler Nixon; id:/model/sexart/tyler-nixon; u:https://www.sexart.com/model/tyler-nixon; g:m
+model: n:Katie Jordin; id:/model/sexart/katie-jordin; u:https://www.sexart.com/model/katie-jordin; g:f
 released: 2012-08-19
 director: Bo Llanberris
 rating: 8.9
@@ -2018,9 +2018,9 @@ title: A Girl Thing
 type: movie
 site: sa
 url: https://www.sexart.com/model/holly-michaels-and-jasmine-w-and-dani-daniels/movie/20120816/A_GIRL_THING
-cast: Holly Michaels; https://www.sexart.com/model/holly-michaels; g:f
-cast: Jasmine W; https://www.sexart.com/model/jasmine-w; g:f
-cast: Dani Daniels; https://www.sexart.com/model/dani-daniels; g:f
+model: n:Holly Michaels; id:/model/sexart/holly-michaels; u:https://www.sexart.com/model/holly-michaels; g:f
+model: n:Jasmine W; id:/model/sexart/jasmine-w; u:https://www.sexart.com/model/jasmine-w; g:f
+model: n:Dani Daniels; id:/model/sexart/dani-daniels; u:https://www.sexart.com/model/dani-daniels; g:f
 released: 2012-08-16
 director: Bo Llanberris
 rating: 9.1
@@ -2079,8 +2079,8 @@ title: The Date
 type: movie
 site: sa
 url: https://www.sexart.com/model/lily-love-and-tyler-nixon/movie/20120812/THE_DATE
-cast: Lily Love; https://www.sexart.com/model/lily-love; g:f
-cast: Tyler Nixon; https://www.sexart.com/model/tyler-nixon; g:m
+model: n:Lily Love; id:/model/sexart/lily-love; u:https://www.sexart.com/model/lily-love; g:f
+model: n:Tyler Nixon; id:/model/sexart/tyler-nixon; u:https://www.sexart.com/model/tyler-nixon; g:m
 released: 2012-08-12
 director: Bo Llanberris
 rating: 9.2
@@ -2130,7 +2130,7 @@ title: Roux
 type: movie
 site: sa
 url: https://www.sexart.com/model/elle-alexandra/movie/20120809/ROUX
-cast: Elle Alexandra; https://www.sexart.com/model/elle-alexandra; g:f
+model: n:Elle Alexandra; id:/model/sexart/elle-alexandra; u:https://www.sexart.com/model/elle-alexandra; g:f
 released: 2012-08-09
 director: Bo Llanberris
 rating: 9.0
@@ -2185,8 +2185,8 @@ title: The Score
 type: movie
 site: sa
 url: https://www.sexart.com/model/logan-pierce-and-ella-milano/movie/20120805/THE_SCORE
-cast: Logan Pierce; https://www.sexart.com/model/logan-pierce; g:m
-cast: Ella Milano; https://www.sexart.com/model/ella-milano; g:f
+model: n:Logan Pierce; id:/model/sexart/logan-pierce; u:https://www.sexart.com/model/logan-pierce; g:m
+model: n:Ella Milano; id:/model/sexart/ella-milano; u:https://www.sexart.com/model/ella-milano; g:f
 released: 2012-08-05
 director: Bo Llanberris
 rating: 8.9
@@ -2235,8 +2235,8 @@ title: Cape Town
 type: movie
 site: sa
 url: https://www.sexart.com/model/malena-morgan-and-dani-daniels/movie/20120802/CAPE_TOWN
-cast: Malena Morgan; https://www.sexart.com/model/malena-morgan; g:f
-cast: Dani Daniels; https://www.sexart.com/model/dani-daniels; g:f
+model: n:Malena Morgan; id:/model/sexart/malena-morgan; u:https://www.sexart.com/model/malena-morgan; g:f
+model: n:Dani Daniels; id:/model/sexart/dani-daniels; u:https://www.sexart.com/model/dani-daniels; g:f
 released: 2012-08-02
 director: Bo Llanberris
 rating: 9.4
@@ -2291,8 +2291,8 @@ title: Concierge
 type: movie
 site: sa
 url: https://www.sexart.com/model/dani-jensen-and-tommy-reeves/movie/20120729/CONCIERGE
-cast: Dani Jensen; https://www.sexart.com/model/dani-jensen; g:f
-cast: Tommy Reeves; https://www.sexart.com/model/tommy-reeves; g:m
+model: n:Dani Jensen; id:/model/sexart/dani-jensen; u:https://www.sexart.com/model/dani-jensen; g:f
+model: n:Tommy Reeves; id:/model/sexart/tommy-reeves; u:https://www.sexart.com/model/tommy-reeves; g:m
 released: 2012-07-29
 director: Bo Llanberris
 rating: 9.0
@@ -2344,7 +2344,7 @@ title: Me Time
 type: movie
 site: sa
 url: https://www.sexart.com/model/lexi-bloom/movie/20120726/ME_TIME
-cast: Lexi Bloom; https://www.sexart.com/model/lexi-bloom; g:f
+model: n:Lexi Bloom; id:/model/sexart/lexi-bloom; u:https://www.sexart.com/model/lexi-bloom; g:f
 released: 2012-07-26
 director: Bo Llanberris
 rating: 9.0
@@ -2393,8 +2393,8 @@ title: New Love
 type: movie
 site: sa
 url: https://www.sexart.com/model/tyler-nixon-and-molly-bennet/movie/20120722/NEW_LOVE
-cast: Tyler Nixon; https://www.sexart.com/model/tyler-nixon; g:m
-cast: Molly Bennet; https://www.sexart.com/model/molly-bennet; g:f
+model: n:Tyler Nixon; id:/model/sexart/tyler-nixon; u:https://www.sexart.com/model/tyler-nixon; g:m
+model: n:Molly Bennet; id:/model/sexart/molly-bennet; u:https://www.sexart.com/model/molly-bennet; g:f
 released: 2012-07-22
 director: Bo Llanberris
 rating: 9.1
@@ -2450,8 +2450,8 @@ title: Fire Dance
 type: movie
 site: sa
 url: https://www.sexart.com/model/malena-morgan-and-jessie-andrews/movie/20120719/FIRE_DANCE
-cast: Malena Morgan; https://www.sexart.com/model/malena-morgan; g:f
-cast: Jessie Andrews; https://www.sexart.com/model/jessie-andrews; g:f
+model: n:Malena Morgan; id:/model/sexart/malena-morgan; u:https://www.sexart.com/model/malena-morgan; g:f
+model: n:Jessie Andrews; id:/model/sexart/jessie-andrews; u:https://www.sexart.com/model/jessie-andrews; g:f
 released: 2012-07-19
 director: Bo Llanberris
 rating: 9.4
@@ -2512,8 +2512,8 @@ title: Brothel
 type: movie
 site: sa
 url: https://www.sexart.com/model/william-corazon-and-holly-michaels/movie/20120715/BROTHEL
-cast: William Corazon; https://www.sexart.com/model/william-corazon; g:m
-cast: Holly Michaels; https://www.sexart.com/model/holly-michaels; g:f
+model: n:William Corazon; id:/model/sexart/william-corazon; u:https://www.sexart.com/model/william-corazon; g:m
+model: n:Holly Michaels; id:/model/sexart/holly-michaels; u:https://www.sexart.com/model/holly-michaels; g:f
 released: 2012-07-15
 director: Bo Llanberris
 rating: 9.0
@@ -2567,9 +2567,9 @@ title: Lingerie
 type: movie
 site: sa
 url: https://www.sexart.com/model/charlotte-stokely-and-malena-morgan-and-elle-alexandra/movie/20120712/LINGERIE
-cast: Charlotte Stokely; https://www.sexart.com/model/charlotte-stokely; g:f
-cast: Malena Morgan; https://www.sexart.com/model/malena-morgan; g:f
-cast: Elle Alexandra; https://www.sexart.com/model/elle-alexandra; g:f
+model: n:Charlotte Stokely; id:/model/sexart/charlotte-stokely; u:https://www.sexart.com/model/charlotte-stokely; g:f
+model: n:Malena Morgan; id:/model/sexart/malena-morgan; u:https://www.sexart.com/model/malena-morgan; g:f
+model: n:Elle Alexandra; id:/model/sexart/elle-alexandra; u:https://www.sexart.com/model/elle-alexandra; g:f
 released: 2012-07-12
 director: Bo Llanberris
 rating: 9.2
@@ -2624,16 +2624,16 @@ tag: threesome
 tag: united states
 ---
 title: Kamikaze Love #26 - Ain't it a bitch
-sortableTitle: kamikaze-love-26
+sortable: kamikaze-love-26
 type: movie
 site: sa
 url: https://www.sexart.com/model/elle-alexandra-and-malena-morgan-and-christos-vasilopoulos-and-daniel-sobieray-and-kayla-jane-and-hayden-hawkens/movie/20120707/KAMIKAZE_LOVE_-_AIN_T_IT_A_BITCH
-cast: Elle Alexandra; https://www.sexart.com/model/elle-alexandra; g:f
-cast: Malena Morgan; https://www.sexart.com/model/malena-morgan; g:f
-cast: Christos Vasilopoulos; https://www.sexart.com/model/christos-vasilopoulos; g:m
-cast: Daniel Sobieray; https://www.sexart.com/model/daniel-sobieray; g:m
-cast: Kayla Jane; https://www.sexart.com/model/kayla-jane; g:f
-cast: Hayden Hawkens; https://www.sexart.com/model/hayden-hawkens; g:f
+model: n:Elle Alexandra; id:/model/sexart/elle-alexandra; u:https://www.sexart.com/model/elle-alexandra; g:f
+model: n:Malena Morgan; id:/model/sexart/malena-morgan; u:https://www.sexart.com/model/malena-morgan; g:f
+model: n:Christos Vasilopoulos; id:/model/sexart/christos-vasilopoulos; u:https://www.sexart.com/model/christos-vasilopoulos; g:m
+model: n:Daniel Sobieray; id:/model/sexart/daniel-sobieray; u:https://www.sexart.com/model/daniel-sobieray; g:m
+model: n:Kayla Jane; id:/model/sexart/kayla-jane; u:https://www.sexart.com/model/kayla-jane; g:f
+model: n:Hayden Hawkens; id:/model/sexart/hayden-hawkens; u:https://www.sexart.com/model/hayden-hawkens; g:f
 released: 2012-07-07
 director: Zalman King
 rating: 8.6
@@ -2654,8 +2654,8 @@ title: The Gallery
 type: movie
 site: sa
 url: https://www.sexart.com/model/dani-jensen-and-logan-pierce/movie/20120705/THE_GALLERY
-cast: Dani Jensen; https://www.sexart.com/model/dani-jensen; g:f
-cast: Logan Pierce; https://www.sexart.com/model/logan-pierce; g:m
+model: n:Dani Jensen; id:/model/sexart/dani-jensen; u:https://www.sexart.com/model/dani-jensen; g:f
+model: n:Logan Pierce; id:/model/sexart/logan-pierce; u:https://www.sexart.com/model/logan-pierce; g:m
 released: 2012-07-05
 director: Bo Llanberris
 rating: 9.2
@@ -2702,16 +2702,16 @@ tag: striptease
 tag: united states
 ---
 title: Kamikaze Love #25 - Leave Before I Destroy You
-sortableTitle: kamikaze-love-25
+sortable: kamikaze-love-25
 type: movie
 site: sa
 url: https://www.sexart.com/model/elle-alexandra-and-malena-morgan-and-hayden-hawkens-and-christos-vasilopoulos-and-daniel-sobieray-and-kayla-jane/movie/20120703/KAMIKAZE_LOVE_-_LEAVE_BEFORE_I_DESTROY_YOU
-cast: Elle Alexandra; https://www.sexart.com/model/elle-alexandra; g:f
-cast: Malena Morgan; https://www.sexart.com/model/malena-morgan; g:f
-cast: Hayden Hawkens; https://www.sexart.com/model/hayden-hawkens; g:f
-cast: Christos Vasilopoulos; https://www.sexart.com/model/christos-vasilopoulos; g:m
-cast: Daniel Sobieray; https://www.sexart.com/model/daniel-sobieray; g:m
-cast: Kayla Jane; https://www.sexart.com/model/kayla-jane; g:f
+model: n:Elle Alexandra; id:/model/sexart/elle-alexandra; u:https://www.sexart.com/model/elle-alexandra; g:f
+model: n:Malena Morgan; id:/model/sexart/malena-morgan; u:https://www.sexart.com/model/malena-morgan; g:f
+model: n:Hayden Hawkens; id:/model/sexart/hayden-hawkens; u:https://www.sexart.com/model/hayden-hawkens; g:f
+model: n:Christos Vasilopoulos; id:/model/sexart/christos-vasilopoulos; u:https://www.sexart.com/model/christos-vasilopoulos; g:m
+model: n:Daniel Sobieray; id:/model/sexart/daniel-sobieray; u:https://www.sexart.com/model/daniel-sobieray; g:m
+model: n:Kayla Jane; id:/model/sexart/kayla-jane; u:https://www.sexart.com/model/kayla-jane; g:f
 released: 2012-07-03
 director: Zalman King
 rating: 8.8
@@ -2732,7 +2732,7 @@ title: Enchantress
 type: movie
 site: sa
 url: https://www.sexart.com/model/jessie-andrews/movie/20120702/ENCHANTRESS
-cast: Jessie Andrews; https://www.sexart.com/model/jessie-andrews; g:f
+model: n:Jessie Andrews; id:/model/sexart/jessie-andrews; u:https://www.sexart.com/model/jessie-andrews; g:f
 released: 2012-07-02
 director: Bo Llanberris
 rating: 8.9
@@ -2771,16 +2771,16 @@ tag: united states
 tag: wet look
 ---
 title: Kamikaze Love #24 - I'll Do Anything
-sortableTitle: kamikaze-love-24
+sortable: kamikaze-love-24
 type: movie
 site: sa
 url: https://www.sexart.com/model/malena-morgan-and-kayla-jane-and-christos-vasilopoulos-and-elle-alexandra-and-daniel-sobieray-and-hayden-hawkens/movie/20120630/KAMIKAZE_LOVE_-_I_LL_DO_ANYTHING
-cast: Malena Morgan; https://www.sexart.com/model/malena-morgan; g:f
-cast: Kayla Jane; https://www.sexart.com/model/kayla-jane; g:f
-cast: Christos Vasilopoulos; https://www.sexart.com/model/christos-vasilopoulos; g:m
-cast: Elle Alexandra; https://www.sexart.com/model/elle-alexandra; g:f
-cast: Daniel Sobieray; https://www.sexart.com/model/daniel-sobieray; g:m
-cast: Hayden Hawkens; https://www.sexart.com/model/hayden-hawkens; g:f
+model: n:Malena Morgan; id:/model/sexart/malena-morgan; u:https://www.sexart.com/model/malena-morgan; g:f
+model: n:Kayla Jane; id:/model/sexart/kayla-jane; u:https://www.sexart.com/model/kayla-jane; g:f
+model: n:Christos Vasilopoulos; id:/model/sexart/christos-vasilopoulos; u:https://www.sexart.com/model/christos-vasilopoulos; g:m
+model: n:Elle Alexandra; id:/model/sexart/elle-alexandra; u:https://www.sexart.com/model/elle-alexandra; g:f
+model: n:Daniel Sobieray; id:/model/sexart/daniel-sobieray; u:https://www.sexart.com/model/daniel-sobieray; g:m
+model: n:Hayden Hawkens; id:/model/sexart/hayden-hawkens; u:https://www.sexart.com/model/hayden-hawkens; g:f
 released: 2012-06-30
 director: Zalman King
 rating: 8.6
@@ -2801,7 +2801,7 @@ title: Girls Love Sex - My P.O.V
 type: movie
 site: sa
 url: https://www.sexart.com/model/annabelle-lee/movie/20120629/MY_P.O.V
-cast: Annabelle Lee; https://www.sexart.com/model/annabelle-lee; g:f
+model: n:Annabelle Lee; id:/model/sexart/annabelle-lee; u:https://www.sexart.com/model/annabelle-lee; g:f
 released: 2012-06-29
 director: Max Churchill
 rating: 8.9
@@ -2813,7 +2813,7 @@ fileprefix: SexArt-20120629-Girls-Love-Sex--My-POV-
 description: Meet Annabelle, from Phoenix, Arizona. She is a vivacious fair-skinned redhead who takes us through her sexual P.O.V about the way she views sex and how it's changed her life. Her stories are descriptive; her introspections about her desires are thought-provoking and intense. I'm sure you'll enjoy her down to earth swagger as we did.
 runtime: 12:28
 producer: MetArt Films
-directorPhotography: Louis Cypher
+directorOfPhotography: Louis Cypher
 stillPhotographer: Ben Cash
 host: Kayla Jane
 tag: united states
@@ -2822,9 +2822,9 @@ title: The Cove
 type: movie
 site: sa
 url: https://www.sexart.com/model/riley-reid-and-tyler-nixon-and-malena-morgan/movie/20120628/THE_COVE
-cast: Riley Reid; https://www.sexart.com/model/riley-reid; g:f
-cast: Tyler Nixon; https://www.sexart.com/model/tyler-nixon; g:m
-cast: Malena Morgan; https://www.sexart.com/model/malena-morgan; g:f
+model: n:Riley Reid; id:/model/sexart/riley-reid; u:https://www.sexart.com/model/riley-reid; g:f
+model: n:Tyler Nixon; id:/model/sexart/tyler-nixon; u:https://www.sexart.com/model/tyler-nixon; g:m
+model: n:Malena Morgan; id:/model/sexart/malena-morgan; u:https://www.sexart.com/model/malena-morgan; g:f
 released: 2012-06-28
 director: Bo Llanberris
 rating: 9.2
@@ -2875,16 +2875,16 @@ tag: vibrator
 tag: voyeur
 ---
 title: Kamikaze Love #23 - Feeding Our Fantasies
-sortableTitle: kamikaze-love-23
+sortable: kamikaze-love-23
 type: movie
 site: sa
 url: https://www.sexart.com/model/malena-morgan-and-daniel-sobieray-and-christos-vasilopoulos-and-hayden-hawkens-and-elle-alexandra-and-kayla-jane/movie/20120626/KAMIKAZE_LOVE_-_FEEDING_OUR_FANTASIES
-cast: Malena Morgan; https://www.sexart.com/model/malena-morgan; g:f
-cast: Daniel Sobieray; https://www.sexart.com/model/daniel-sobieray; g:m
-cast: Christos Vasilopoulos; https://www.sexart.com/model/christos-vasilopoulos; g:m
-cast: Hayden Hawkens; https://www.sexart.com/model/hayden-hawkens; g:f
-cast: Elle Alexandra; https://www.sexart.com/model/elle-alexandra; g:f
-cast: Kayla Jane; https://www.sexart.com/model/kayla-jane; g:f
+model: n:Malena Morgan; id:/model/sexart/malena-morgan; u:https://www.sexart.com/model/malena-morgan; g:f
+model: n:Daniel Sobieray; id:/model/sexart/daniel-sobieray; u:https://www.sexart.com/model/daniel-sobieray; g:m
+model: n:Christos Vasilopoulos; id:/model/sexart/christos-vasilopoulos; u:https://www.sexart.com/model/christos-vasilopoulos; g:m
+model: n:Hayden Hawkens; id:/model/sexart/hayden-hawkens; u:https://www.sexart.com/model/hayden-hawkens; g:f
+model: n:Elle Alexandra; id:/model/sexart/elle-alexandra; u:https://www.sexart.com/model/elle-alexandra; g:f
+model: n:Kayla Jane; id:/model/sexart/kayla-jane; u:https://www.sexart.com/model/kayla-jane; g:f
 released: 2012-06-26
 director: Zalman King
 rating: 8.8
@@ -2905,7 +2905,7 @@ title: Lazy Sunday
 type: movie
 site: sa
 url: https://www.sexart.com/model/rilee-marks/movie/20120625/LAZY_SUNDAY
-cast: Rilee Marks; https://www.sexart.com/model/rilee-marks; g:f
+model: n:Rilee Marks; id:/model/sexart/rilee-marks; u:https://www.sexart.com/model/rilee-marks; g:f
 released: 2012-06-25
 director: Bo Llanberris
 rating: 8.9
@@ -2944,16 +2944,16 @@ tag: toys
 tag: united states
 ---
 title: Kamikaze Love #22 - Hotel Dates
-sortableTitle: kamikaze-love-22
+sortable: kamikaze-love-22
 type: movie
 site: sa
 url: https://www.sexart.com/model/christos-vasilopoulos-and-hayden-hawkens-and-daniel-sobieray-and-malena-morgan-and-elle-alexandra-and-kayla-jane/movie/20120623/KAMIKAZE_LOVE_-_HOTEL_DATES
-cast: Christos Vasilopoulos; https://www.sexart.com/model/christos-vasilopoulos; g:m
-cast: Hayden Hawkens; https://www.sexart.com/model/hayden-hawkens; g:f
-cast: Daniel Sobieray; https://www.sexart.com/model/daniel-sobieray; g:m
-cast: Malena Morgan; https://www.sexart.com/model/malena-morgan; g:f
-cast: Elle Alexandra; https://www.sexart.com/model/elle-alexandra; g:f
-cast: Kayla Jane; https://www.sexart.com/model/kayla-jane; g:f
+model: n:Christos Vasilopoulos; id:/model/sexart/christos-vasilopoulos; u:https://www.sexart.com/model/christos-vasilopoulos; g:m
+model: n:Hayden Hawkens; id:/model/sexart/hayden-hawkens; u:https://www.sexart.com/model/hayden-hawkens; g:f
+model: n:Daniel Sobieray; id:/model/sexart/daniel-sobieray; u:https://www.sexart.com/model/daniel-sobieray; g:m
+model: n:Malena Morgan; id:/model/sexart/malena-morgan; u:https://www.sexart.com/model/malena-morgan; g:f
+model: n:Elle Alexandra; id:/model/sexart/elle-alexandra; u:https://www.sexart.com/model/elle-alexandra; g:f
+model: n:Kayla Jane; id:/model/sexart/kayla-jane; u:https://www.sexart.com/model/kayla-jane; g:f
 released: 2012-06-23
 director: Zalman King
 rating: 8.9
@@ -2974,7 +2974,7 @@ title: Inside Malena Morgan
 type: movie
 site: sa
 url: https://www.sexart.com/model/malena-morgan/movie/20120622/INSIDE_MALENA_MORGAN
-cast: Malena Morgan; https://www.sexart.com/model/malena-morgan; g:f
+model: n:Malena Morgan; id:/model/sexart/malena-morgan; u:https://www.sexart.com/model/malena-morgan; g:f
 released: 2012-06-22
 director: Max Churchill
 rating: 9.4
@@ -2986,7 +2986,7 @@ fileprefix: SexArt-20120622-Girls-Love-Sex--Inside-Malena-Morgan-
 description: Malena Morgan is one of the most beautiful models on the internet today. MetArt quickly realized what a gem she was and signed her under an exclusive contract. Shortly thereafter, she would star in Zalman King's Kamikaze Love and a multitude of mini movies for SexArt. Every scene Malena appears in she bares everything to the audience and wants them to enjoy her body thoroughly. Malena delivers the same commitment here on her Girls Love Sex episode, Inside Malena Morgan, where she let's you inside her mind, body and soul.
 runtime: 14:40
 producer: MetArt Films
-directorPhotography: Louis Cypher
+directorOfPhotography: Louis Cypher
 stillPhotographer: Ben Cash
 host: Kayla Jane
 tag: united states
@@ -2995,8 +2995,8 @@ title: Red Lights District
 type: movie
 site: sa
 url: https://www.sexart.com/model/tommy-reeves-and-molly-bennet/movie/20120621/RED_LIGHT_DISTRICT
-cast: Tommy Reeves; https://www.sexart.com/model/tommy-reeves; g:m
-cast: Molly Bennet; https://www.sexart.com/model/molly-bennet; g:f
+model: n:Tommy Reeves; id:/model/sexart/tommy-reeves; u:https://www.sexart.com/model/tommy-reeves; g:m
+model: n:Molly Bennet; id:/model/sexart/molly-bennet; u:https://www.sexart.com/model/molly-bennet; g:f
 released: 2012-06-21
 director: Bo Llanberris
 rating: 9.0
@@ -3043,16 +3043,16 @@ tag: thigh high stockings
 tag: united states
 ---
 title: Kamikaze Love #21 - Something Unexpected Happened
-sortableTitle: kamikaze-love-21
+sortable: kamikaze-love-21
 type: movie
 site: sa
 url: https://www.sexart.com/model/kayla-jane-and-malena-morgan-and-christos-vasilopoulos-and-elle-alexandra-and-hayden-hawkens-and-daniel-sobieray/movie/20120619/KAMIKAZE_LOVE_-_SOMETHING_UNEXPECTED_HAPPENED
-cast: Kayla Jane; https://www.sexart.com/model/kayla-jane; g:f
-cast: Malena Morgan; https://www.sexart.com/model/malena-morgan; g:f
-cast: Christos Vasilopoulos; https://www.sexart.com/model/christos-vasilopoulos; g:m
-cast: Elle Alexandra; https://www.sexart.com/model/elle-alexandra; g:f
-cast: Hayden Hawkens; https://www.sexart.com/model/hayden-hawkens; g:f
-cast: Daniel Sobieray; https://www.sexart.com/model/daniel-sobieray; g:m
+model: n:Kayla Jane; id:/model/sexart/kayla-jane; u:https://www.sexart.com/model/kayla-jane; g:f
+model: n:Malena Morgan; id:/model/sexart/malena-morgan; u:https://www.sexart.com/model/malena-morgan; g:f
+model: n:Christos Vasilopoulos; id:/model/sexart/christos-vasilopoulos; u:https://www.sexart.com/model/christos-vasilopoulos; g:m
+model: n:Elle Alexandra; id:/model/sexart/elle-alexandra; u:https://www.sexart.com/model/elle-alexandra; g:f
+model: n:Hayden Hawkens; id:/model/sexart/hayden-hawkens; u:https://www.sexart.com/model/hayden-hawkens; g:f
+model: n:Daniel Sobieray; id:/model/sexart/daniel-sobieray; u:https://www.sexart.com/model/daniel-sobieray; g:m
 released: 2012-06-19
 director: Zalman King
 rating: 8.6
@@ -3073,7 +3073,7 @@ title: Licentious
 type: movie
 site: sa
 url: https://www.sexart.com/model/iwia-a/movie/20120618/LICENTIOUS
-cast: Iwia A; https://www.sexart.com/model/iwia-a; g:f
+model: n:Iwia A; id:/model/sexart/iwia-a; u:https://www.sexart.com/model/iwia-a; g:f
 released: 2012-06-18
 director: Don Caravaggio
 rating: 9.2
@@ -3115,16 +3115,16 @@ tag: straight
 tag: toys
 ---
 title: Kamikaze Love #20 - Did It Make You Jealous?
-sortableTitle: kamikaze-love-20
+sortable: kamikaze-love-20
 type: movie
 site: sa
 url: https://www.sexart.com/model/daniel-sobieray-and-malena-morgan-and-hayden-hawkens-and-kayla-jane-and-elle-alexandra-and-christos-vasilopoulos/movie/20120616/KAMIKAZE_LOVE_-_DID_IT_MAKE_YOU_JEALOUS?
-cast: Daniel Sobieray; https://www.sexart.com/model/daniel-sobieray; g:m
-cast: Malena Morgan; https://www.sexart.com/model/malena-morgan; g:f
-cast: Hayden Hawkens; https://www.sexart.com/model/hayden-hawkens; g:f
-cast: Kayla Jane; https://www.sexart.com/model/kayla-jane; g:f
-cast: Elle Alexandra; https://www.sexart.com/model/elle-alexandra; g:f
-cast: Christos Vasilopoulos; https://www.sexart.com/model/christos-vasilopoulos; g:m
+model: n:Daniel Sobieray; id:/model/sexart/daniel-sobieray; u:https://www.sexart.com/model/daniel-sobieray; g:m
+model: n:Malena Morgan; id:/model/sexart/malena-morgan; u:https://www.sexart.com/model/malena-morgan; g:f
+model: n:Hayden Hawkens; id:/model/sexart/hayden-hawkens; u:https://www.sexart.com/model/hayden-hawkens; g:f
+model: n:Kayla Jane; id:/model/sexart/kayla-jane; u:https://www.sexart.com/model/kayla-jane; g:f
+model: n:Elle Alexandra; id:/model/sexart/elle-alexandra; u:https://www.sexart.com/model/elle-alexandra; g:f
+model: n:Christos Vasilopoulos; id:/model/sexart/christos-vasilopoulos; u:https://www.sexart.com/model/christos-vasilopoulos; g:m
 released: 2012-06-16
 director: Zalman King
 rating: 8.6
@@ -3145,7 +3145,7 @@ title: Pain Makes Me Giggle
 type: movie
 site: sa
 url: https://www.sexart.com/model/sybil-hawthorne/movie/20120615/PAIN_MAKES_ME_GIGGLE
-cast: Sybil Hawthorne; https://www.sexart.com/model/sybil-hawthorne; g:f
+model: n:Sybil Hawthorne; id:/model/sexart/sybil-hawthorne; u:https://www.sexart.com/model/sybil-hawthorne; g:f
 released: 2012-06-15
 director: Max Churchill
 rating: 8.3
@@ -3157,7 +3157,7 @@ fileprefix: SexArt-20120615-Girls-Love-Sex--Pain-Makes-Me-Giggle-
 description: Sybil Hawthorne takes us on a journey of the intriguing world of BDSM (Bondage, Discipline, Sadomasochism). She delivers a course in BDSM 101 and explains what it means to be part of this intense fetish community. She takes us through her beginnings as a Submissive and her evolutionary BDSM voyage eventually leading her to hang from meat hooks pierced through her back-- she describes the experience as "religious ecstasy, that is so much pain that it's wonderful." At first glance, Sybil is obviously not a typical MetArt girl, but I found her intriguing to watch. I found myself very attracted to her natural beauty.
 runtime: 15:37
 producer: MetArt Films
-directorPhotography: Louis Cypher
+directorOfPhotography: Louis Cypher
 stillPhotographer: Ben Cash
 host: Kayla Jane
 tag: united states
@@ -3166,8 +3166,8 @@ title: Le' Cafe
 type: movie
 site: sa
 url: https://www.sexart.com/model/riley-reid-and-william-corazon/movie/20120614/LE__CAFE
-cast: Riley Reid; https://www.sexart.com/model/riley-reid; g:f
-cast: William Corazon; https://www.sexart.com/model/william-corazon; g:m
+model: n:Riley Reid; id:/model/sexart/riley-reid; u:https://www.sexart.com/model/riley-reid; g:f
+model: n:William Corazon; id:/model/sexart/william-corazon; u:https://www.sexart.com/model/william-corazon; g:m
 released: 2012-06-14
 director: Bo Llanberris
 rating: 9.1
@@ -3221,15 +3221,15 @@ tag: tattoo
 tag: united states
 ---
 title: Kamikaze Love #19 - Pleasure Or Pain
-sortableTitle: kamikaze-love-19
+sortable: kamikaze-love-19
 type: movie
 site: sa
 url: https://www.sexart.com/model/hayden-hawkens-and-malena-morgan-and-daniel-sobieray-and-elle-alexandra-and-christos-vasilopoulos/movie/20120612/KAMIKAZE_LOVE_-_PLEASURE_OR_PAIN
-cast: Hayden Hawkens; https://www.sexart.com/model/hayden-hawkens; g:f
-cast: Malena Morgan; https://www.sexart.com/model/malena-morgan; g:f
-cast: Daniel Sobieray; https://www.sexart.com/model/daniel-sobieray; g:m
-cast: Elle Alexandra; https://www.sexart.com/model/elle-alexandra; g:f
-cast: Christos Vasilopoulos; https://www.sexart.com/model/christos-vasilopoulos; g:m
+model: n:Hayden Hawkens; id:/model/sexart/hayden-hawkens; u:https://www.sexart.com/model/hayden-hawkens; g:f
+model: n:Malena Morgan; id:/model/sexart/malena-morgan; u:https://www.sexart.com/model/malena-morgan; g:f
+model: n:Daniel Sobieray; id:/model/sexart/daniel-sobieray; u:https://www.sexart.com/model/daniel-sobieray; g:m
+model: n:Elle Alexandra; id:/model/sexart/elle-alexandra; u:https://www.sexart.com/model/elle-alexandra; g:f
+model: n:Christos Vasilopoulos; id:/model/sexart/christos-vasilopoulos; u:https://www.sexart.com/model/christos-vasilopoulos; g:m
 released: 2012-06-12
 director: Zalman King
 rating: 8.9
@@ -3250,8 +3250,8 @@ title: By The Fountain
 type: movie
 site: sa
 url: https://www.sexart.com/model/lexi-bloom-and-elle-alexandra/movie/20120611/BY_THE_FOUNTAIN
-cast: Lexi Bloom; https://www.sexart.com/model/lexi-bloom; g:f
-cast: Elle Alexandra; https://www.sexart.com/model/elle-alexandra; g:f
+model: n:Lexi Bloom; id:/model/sexart/lexi-bloom; u:https://www.sexart.com/model/lexi-bloom; g:f
+model: n:Elle Alexandra; id:/model/sexart/elle-alexandra; u:https://www.sexart.com/model/elle-alexandra; g:f
 released: 2012-06-11
 director: Bo Llanberris
 rating: 8.9
@@ -3303,16 +3303,16 @@ tag: topless
 tag: united states
 ---
 title: Kamikaze Love #18 - When The Cat's Away
-sortableTitle: kamikaze-love-18
+sortable: kamikaze-love-18
 type: movie
 site: sa
 url: https://www.sexart.com/model/malena-morgan-and-hayden-hawkens-and-daniel-sobieray-and-kayla-jane-and-christos-vasilopoulos-and-elle-alexandra/movie/20120609/KAMIKAZE_LOVE_-_WHEN_THE_CAT_S_AWAY
-cast: Malena Morgan; https://www.sexart.com/model/malena-morgan; g:f
-cast: Hayden Hawkens; https://www.sexart.com/model/hayden-hawkens; g:f
-cast: Daniel Sobieray; https://www.sexart.com/model/daniel-sobieray; g:m
-cast: Kayla Jane; https://www.sexart.com/model/kayla-jane; g:f
-cast: Christos Vasilopoulos; https://www.sexart.com/model/christos-vasilopoulos; g:m
-cast: Elle Alexandra; https://www.sexart.com/model/elle-alexandra; g:f
+model: n:Malena Morgan; id:/model/sexart/malena-morgan; u:https://www.sexart.com/model/malena-morgan; g:f
+model: n:Hayden Hawkens; id:/model/sexart/hayden-hawkens; u:https://www.sexart.com/model/hayden-hawkens; g:f
+model: n:Daniel Sobieray; id:/model/sexart/daniel-sobieray; u:https://www.sexart.com/model/daniel-sobieray; g:m
+model: n:Kayla Jane; id:/model/sexart/kayla-jane; u:https://www.sexart.com/model/kayla-jane; g:f
+model: n:Christos Vasilopoulos; id:/model/sexart/christos-vasilopoulos; u:https://www.sexart.com/model/christos-vasilopoulos; g:m
+model: n:Elle Alexandra; id:/model/sexart/elle-alexandra; u:https://www.sexart.com/model/elle-alexandra; g:f
 released: 2012-06-09
 director: Zalman King
 rating: 8.8
@@ -3333,7 +3333,7 @@ title: Tied Up, Choked and Slapped
 type: movie
 site: sa
 url: https://www.sexart.com/model/elaina-raye/movie/20120608/TIED_UP,_CHOKED_AND_SLAPPED
-cast: Elaina Raye; https://www.sexart.com/model/elaina-raye; g:f
+model: n:Elaina Raye; id:/model/sexart/elaina-raye; u:https://www.sexart.com/model/elaina-raye; g:f
 released: 2012-06-08
 director: Max Churchill
 rating: 8.9
@@ -3345,7 +3345,7 @@ fileprefix: SexArt-20120608-Girls-Love-Sex--Tied-Up-Choked-and-Slapped-
 description: Meet Elaina Raye, she is a Southern girl with an accent that makes your heart melt. Elaina likes to be in control in her daily life but when it comes to sex, she likes to be tied up, choked and slapped. She has a fantasy that someone breaks into her house and makes love to her then leaves. She explains her ultimate fantasy is to have sex on the beach while a man forcible makes her. Her craziest sexual escapade was a foursome while her cousin participated. She wraps up her interview by telling us that guys forget girls have a cervix, and they need to pay attention to it-- there is an end goal when making love to a girl, and they can't lose themselves forgetting to put their heart as well as their soul into the experience.<br/>  Elaina is fun to watch and makes you feel she really is the "girl next door" you dreamed about as a kid-- she's a Southern sweetheart, and I enjoyed her stories.
 runtime: 11:20
 producer: MetArt Films
-directorPhotography: Louis Cypher
+directorOfPhotography: Louis Cypher
 stillPhotographer: Ben Cash
 host: Kayla Jane
 tag: united states
@@ -3354,8 +3354,8 @@ title: The Rickshaw
 type: movie
 site: sa
 url: https://www.sexart.com/model/logan-pierce-and-jessie-andrews/movie/20120607/THE_RICKSHAW
-cast: Logan Pierce; https://www.sexart.com/model/logan-pierce; g:m
-cast: Jessie Andrews; https://www.sexart.com/model/jessie-andrews; g:f
+model: n:Logan Pierce; id:/model/sexart/logan-pierce; u:https://www.sexart.com/model/logan-pierce; g:m
+model: n:Jessie Andrews; id:/model/sexart/jessie-andrews; u:https://www.sexart.com/model/jessie-andrews; g:f
 released: 2012-06-07
 director: Bo Llanberris
 rating: 9.1
@@ -3402,16 +3402,16 @@ tag: thong
 tag: united states
 ---
 title: Kamikaze Love #17 - You Choose: Him or Me?
-sortableTitle: kamikaze-love-17
+sortable: kamikaze-love-17
 type: movie
 site: sa
 url: https://www.sexart.com/model/daniel-sobieray-and-kayla-jane-and-malena-morgan-and-elle-alexandra-and-hayden-hawkens-and-christos-vasilopoulos/movie/20120605/KAMIKAZE_LOVE___YOU_CHOOSE__HIM_OR_ME_
-cast: Daniel Sobieray; https://www.sexart.com/model/daniel-sobieray; g:m
-cast: Kayla Jane; https://www.sexart.com/model/kayla-jane; g:f
-cast: Malena Morgan; https://www.sexart.com/model/malena-morgan; g:f
-cast: Elle Alexandra; https://www.sexart.com/model/elle-alexandra; g:f
-cast: Hayden Hawkens; https://www.sexart.com/model/hayden-hawkens; g:f
-cast: Christos Vasilopoulos; https://www.sexart.com/model/christos-vasilopoulos; g:m
+model: n:Daniel Sobieray; id:/model/sexart/daniel-sobieray; u:https://www.sexart.com/model/daniel-sobieray; g:m
+model: n:Kayla Jane; id:/model/sexart/kayla-jane; u:https://www.sexart.com/model/kayla-jane; g:f
+model: n:Malena Morgan; id:/model/sexart/malena-morgan; u:https://www.sexart.com/model/malena-morgan; g:f
+model: n:Elle Alexandra; id:/model/sexart/elle-alexandra; u:https://www.sexart.com/model/elle-alexandra; g:f
+model: n:Hayden Hawkens; id:/model/sexart/hayden-hawkens; u:https://www.sexart.com/model/hayden-hawkens; g:f
+model: n:Christos Vasilopoulos; id:/model/sexart/christos-vasilopoulos; u:https://www.sexart.com/model/christos-vasilopoulos; g:m
 released: 2012-06-05
 director: Zalman King
 rating: 8.9
@@ -3432,7 +3432,7 @@ title: Ivory
 type: movie
 site: sa
 url: https://www.sexart.com/model/charlotte-stokely/movie/20120604/IVORY
-cast: Charlotte Stokely; https://www.sexart.com/model/charlotte-stokely; g:f
+model: n:Charlotte Stokely; id:/model/sexart/charlotte-stokely; u:https://www.sexart.com/model/charlotte-stokely; g:f
 released: 2012-06-04
 director: Bo Llanberris
 rating: 9.0
@@ -3468,16 +3468,16 @@ tag: united states
 tag: wet look
 ---
 title: Kamikaze Love #16 - Are You Satisfied, Mrs. Thornton?
-sortableTitle: kamikaze-love-16
+sortable: kamikaze-love-16
 type: movie
 site: sa
 url: https://www.sexart.com/model/malena-morgan-and-christos-vasilopoulos-and-daniel-sobieray-and-kayla-jane-and-elle-alexandra-and-hayden-hawkens/movie/20120602/KAMIKAZE_LOVE_-_ARE_YOU_SATISFIED,_MRS._THORNTON?
-cast: Malena Morgan; https://www.sexart.com/model/malena-morgan; g:f
-cast: Christos Vasilopoulos; https://www.sexart.com/model/christos-vasilopoulos; g:m
-cast: Daniel Sobieray; https://www.sexart.com/model/daniel-sobieray; g:m
-cast: Kayla Jane; https://www.sexart.com/model/kayla-jane; g:f
-cast: Elle Alexandra; https://www.sexart.com/model/elle-alexandra; g:f
-cast: Hayden Hawkens; https://www.sexart.com/model/hayden-hawkens; g:f
+model: n:Malena Morgan; id:/model/sexart/malena-morgan; u:https://www.sexart.com/model/malena-morgan; g:f
+model: n:Christos Vasilopoulos; id:/model/sexart/christos-vasilopoulos; u:https://www.sexart.com/model/christos-vasilopoulos; g:m
+model: n:Daniel Sobieray; id:/model/sexart/daniel-sobieray; u:https://www.sexart.com/model/daniel-sobieray; g:m
+model: n:Kayla Jane; id:/model/sexart/kayla-jane; u:https://www.sexart.com/model/kayla-jane; g:f
+model: n:Elle Alexandra; id:/model/sexart/elle-alexandra; u:https://www.sexart.com/model/elle-alexandra; g:f
+model: n:Hayden Hawkens; id:/model/sexart/hayden-hawkens; u:https://www.sexart.com/model/hayden-hawkens; g:f
 released: 2012-06-02
 director: Zalman King
 rating: 9.0
@@ -3498,7 +3498,7 @@ title: Sybian Sundays
 type: movie
 site: sa
 url: https://www.sexart.com/model/january-seraph/movie/20120601/SYBIAN_SUNDAYS
-cast: January Seraph; https://www.sexart.com/model/january-seraph; g:f
+model: n:January Seraph; id:/model/sexart/january-seraph; u:https://www.sexart.com/model/january-seraph; g:f
 released: 2012-06-01
 director: Max Churchill
 rating: 8.6
@@ -3510,7 +3510,7 @@ fileprefix: SexArt-20120601-Girls-Love-Sex--Sybian-Sundays-
 description: Meet January, she's a professional Dominatrix. She unabashedly introduces herself as a slut, which leads us into her world. She explains to us that her male and female counterparts have to begin with a kinky side but not slutty, she will turn them into sluts all on her own. January tells us about Sybian Sundays, sex parties she hosts at her home and explains it's a recipe for greatness. Next, we learn the nice way to fist someone, especially when taking their "fisting virginity." She continues the interview explaining in detail the Sadist tools she uses on her mates, and some of the escapades she's had using them. January is one of the most interesting interviews to date, I would definitely not want to pass out with her in the room... Well, maybe I would just once! :)
 runtime: 09:58
 producer: MetArt Films
-directorPhotography: Louis Cypher
+directorOfPhotography: Louis Cypher
 stillPhotographer: Ben Cash
 host: Kayla Jane
 tag: united states
@@ -3519,8 +3519,8 @@ title: SexArt Drive
 type: movie
 site: sa
 url: https://www.sexart.com/model/tyler-nixon-and-vanessa-cage/movie/20120531/SEXART_DRIVE
-cast: Tyler Nixon; https://www.sexart.com/model/tyler-nixon; g:m
-cast: Vanessa Cage; https://www.sexart.com/model/vanessa-cage; g:f
+model: n:Tyler Nixon; id:/model/sexart/tyler-nixon; u:https://www.sexart.com/model/tyler-nixon; g:m
+model: n:Vanessa Cage; id:/model/sexart/vanessa-cage; u:https://www.sexart.com/model/vanessa-cage; g:f
 released: 2012-05-31
 director: Bo Llanberris
 rating: 9.1
@@ -3571,16 +3571,16 @@ tag: tattoo
 tag: united states
 ---
 title: Kamikaze Love #15 - You Get Dibs
-sortableTitle: kamikaze-love-15
+sortable: kamikaze-love-15
 type: movie
 site: sa
 url: https://www.sexart.com/model/christos-vasilopoulos-and-elle-alexandra-and-malena-morgan-and-daniel-sobieray-and-hayden-hawkens-and-kayla-jane/movie/20120529/KAMIKAZE_LOVE_-_YOU_GET_DIBS
-cast: Christos Vasilopoulos; https://www.sexart.com/model/christos-vasilopoulos; g:m
-cast: Elle Alexandra; https://www.sexart.com/model/elle-alexandra; g:f
-cast: Malena Morgan; https://www.sexart.com/model/malena-morgan; g:f
-cast: Daniel Sobieray; https://www.sexart.com/model/daniel-sobieray; g:m
-cast: Hayden Hawkens; https://www.sexart.com/model/hayden-hawkens; g:f
-cast: Kayla Jane; https://www.sexart.com/model/kayla-jane; g:f
+model: n:Christos Vasilopoulos; id:/model/sexart/christos-vasilopoulos; u:https://www.sexart.com/model/christos-vasilopoulos; g:m
+model: n:Elle Alexandra; id:/model/sexart/elle-alexandra; u:https://www.sexart.com/model/elle-alexandra; g:f
+model: n:Malena Morgan; id:/model/sexart/malena-morgan; u:https://www.sexart.com/model/malena-morgan; g:f
+model: n:Daniel Sobieray; id:/model/sexart/daniel-sobieray; u:https://www.sexart.com/model/daniel-sobieray; g:m
+model: n:Hayden Hawkens; id:/model/sexart/hayden-hawkens; u:https://www.sexart.com/model/hayden-hawkens; g:f
+model: n:Kayla Jane; id:/model/sexart/kayla-jane; u:https://www.sexart.com/model/kayla-jane; g:f
 released: 2012-05-29
 director: Zalman King
 rating: 8.6
@@ -3601,7 +3601,7 @@ title: L'EAU
 type: movie
 site: sa
 url: https://www.sexart.com/model/cassie-laine/movie/20120528/L_EAU
-cast: Cassie Laine; https://www.sexart.com/model/cassie-laine; g:f
+model: n:Cassie Laine; id:/model/sexart/cassie-laine; u:https://www.sexart.com/model/cassie-laine; g:f
 released: 2012-05-28
 director: Bo Llanberris
 rating: 9.1
@@ -3652,16 +3652,16 @@ tag: topless
 tag: united states
 ---
 title: Kamikaze Love #14 - Strip For Me Rita
-sortableTitle: kamikaze-love-14
+sortable: kamikaze-love-14
 type: movie
 site: sa
 url: https://www.sexart.com/model/malena-morgan-and-kayla-jane-and-hayden-hawkens-and-daniel-sobieray-and-elle-alexandra-and-christos-vasilopoulos/movie/20120526/KAMIKAZE_LOVE_-_STRIP_FOR_ME_RITA
-cast: Malena Morgan; https://www.sexart.com/model/malena-morgan; g:f
-cast: Kayla Jane; https://www.sexart.com/model/kayla-jane; g:f
-cast: Hayden Hawkens; https://www.sexart.com/model/hayden-hawkens; g:f
-cast: Daniel Sobieray; https://www.sexart.com/model/daniel-sobieray; g:m
-cast: Elle Alexandra; https://www.sexart.com/model/elle-alexandra; g:f
-cast: Christos Vasilopoulos; https://www.sexart.com/model/christos-vasilopoulos; g:m
+model: n:Malena Morgan; id:/model/sexart/malena-morgan; u:https://www.sexart.com/model/malena-morgan; g:f
+model: n:Kayla Jane; id:/model/sexart/kayla-jane; u:https://www.sexart.com/model/kayla-jane; g:f
+model: n:Hayden Hawkens; id:/model/sexart/hayden-hawkens; u:https://www.sexart.com/model/hayden-hawkens; g:f
+model: n:Daniel Sobieray; id:/model/sexart/daniel-sobieray; u:https://www.sexart.com/model/daniel-sobieray; g:m
+model: n:Elle Alexandra; id:/model/sexart/elle-alexandra; u:https://www.sexart.com/model/elle-alexandra; g:f
+model: n:Christos Vasilopoulos; id:/model/sexart/christos-vasilopoulos; u:https://www.sexart.com/model/christos-vasilopoulos; g:m
 released: 2012-05-26
 director: Louis Cypher
 rating: 9.2
@@ -3682,7 +3682,7 @@ title: Girls Love Sex - Just Jasmine
 type: movie
 site: sa
 url: https://www.sexart.com/model/jasmine-w/movie/20120525/JUST_JASMINE
-cast: Jasmine W; https://www.sexart.com/model/jasmine-w; g:f
+model: n:Jasmine W; id:/model/sexart/jasmine-w; u:https://www.sexart.com/model/jasmine-w; g:f
 released: 2012-05-25
 director: Max Churchill
 rating: 9.2
@@ -3694,7 +3694,7 @@ fileprefix: SexArt-20120525-Girls-Love-Sex--Just-Jasmine-
 description: If there's one thing you can say about Jasmine is, she's absolutely stunning. Watch while we take a tour inside her world. We stroll on the beach with this one-of-a-kind beauty, and we get a glimpse into what a sweetheart she really is. Next, Jasmine graciously invites us into her home where she demonstrates her Liberation Furniture. The fun kicks into gear when one of SexArt's favorites and best friend to Jasmine, Charlotte Stokely, stands-in as Jasmine's eager helper. SexArt has a few movies and photo sets with Jasmine, and I've been told there are more planned... Can you blame us?
 runtime: 12:27
 producer: MetArt Films
-directorPhotography: Louis Cypher
+directorOfPhotography: Louis Cypher
 stillPhotographer: Ben Cash
 host: Kayla Jane
 tag: united states
@@ -3703,8 +3703,8 @@ title: Soul Mates
 type: movie
 site: sa
 url: https://www.sexart.com/model/joey-brass-and-victoria-lawsom/movie/20120524/SOUL_MATES
-cast: Joey Brass; https://www.sexart.com/model/joey-brass; g:m
-cast: Victoria Lawsom; https://www.sexart.com/model/victoria-lawsom; g:m
+model: n:Joey Brass; id:/model/sexart/joey-brass; u:https://www.sexart.com/model/joey-brass; g:m
+model: n:Victoria Lawsom; id:/model/sexart/victoria-lawsom; u:https://www.sexart.com/model/victoria-lawsom; g:m
 released: 2012-05-24
 director: Bo Llanberris
 rating: 8.6
@@ -3757,16 +3757,16 @@ tag: united states
 tag: up-do
 ---
 title: Kamikaze Love #13 - Ask Victoria if she'd like to join us
-sortableTitle: kamikaze-love-13
+sortable: kamikaze-love-13
 type: movie
 site: sa
 url: https://www.sexart.com/model/kayla-jane-and-daniel-sobieray-and-malena-morgan-and-elle-alexandra-and-christos-vasilopoulos-and-hayden-hawkens/movie/20120523/KAMIKAZE_LOVE_-_ASK_VICTORIA_IF_SHE_D_LIKE_TO_JOIN_US
-cast: Kayla Jane; https://www.sexart.com/model/kayla-jane; g:f
-cast: Daniel Sobieray; https://www.sexart.com/model/daniel-sobieray; g:m
-cast: Malena Morgan; https://www.sexart.com/model/malena-morgan; g:f
-cast: Elle Alexandra; https://www.sexart.com/model/elle-alexandra; g:f
-cast: Christos Vasilopoulos; https://www.sexart.com/model/christos-vasilopoulos; g:m
-cast: Hayden Hawkens; https://www.sexart.com/model/hayden-hawkens; g:f
+model: n:Kayla Jane; id:/model/sexart/kayla-jane; u:https://www.sexart.com/model/kayla-jane; g:f
+model: n:Daniel Sobieray; id:/model/sexart/daniel-sobieray; u:https://www.sexart.com/model/daniel-sobieray; g:m
+model: n:Malena Morgan; id:/model/sexart/malena-morgan; u:https://www.sexart.com/model/malena-morgan; g:f
+model: n:Elle Alexandra; id:/model/sexart/elle-alexandra; u:https://www.sexart.com/model/elle-alexandra; g:f
+model: n:Christos Vasilopoulos; id:/model/sexart/christos-vasilopoulos; u:https://www.sexart.com/model/christos-vasilopoulos; g:m
+model: n:Hayden Hawkens; id:/model/sexart/hayden-hawkens; u:https://www.sexart.com/model/hayden-hawkens; g:f
 released: 2012-05-23
 director: Zalman King
 rating: 9.0
@@ -3787,8 +3787,8 @@ title: Mystic Hill
 type: movie
 site: sa
 url: https://www.sexart.com/model/rilee-marks-and-lexi-bloom/movie/20120521/MYSTIC_HILL
-cast: Rilee Marks; https://www.sexart.com/model/rilee-marks; g:f
-cast: Lexi Bloom; https://www.sexart.com/model/lexi-bloom; g:f
+model: n:Rilee Marks; id:/model/sexart/rilee-marks; u:https://www.sexart.com/model/rilee-marks; g:f
+model: n:Lexi Bloom; id:/model/sexart/lexi-bloom; u:https://www.sexart.com/model/lexi-bloom; g:f
 released: 2012-05-21
 director: Bo Llanberris
 rating: 9.1
@@ -3848,16 +3848,16 @@ tag: tribbing
 tag: united states
 ---
 title: Kamikaze Love #12 - Perfect
-sortableTitle: kamikaze-love-12
+sortable: kamikaze-love-12
 type: movie
 site: sa
 url: https://www.sexart.com/model/christos-vasilopoulos-and-hayden-hawkens-and-daniel-sobieray-and-kayla-jane-and-malena-morgan-and-elle-alexandra/movie/20120519/KAMIKAZE_LOVE_-_PERFECT
-cast: Christos Vasilopoulos; https://www.sexart.com/model/christos-vasilopoulos; g:m
-cast: Hayden Hawkens; https://www.sexart.com/model/hayden-hawkens; g:f
-cast: Daniel Sobieray; https://www.sexart.com/model/daniel-sobieray; g:m
-cast: Kayla Jane; https://www.sexart.com/model/kayla-jane; g:f
-cast: Malena Morgan; https://www.sexart.com/model/malena-morgan; g:f
-cast: Elle Alexandra; https://www.sexart.com/model/elle-alexandra; g:f
+model: n:Christos Vasilopoulos; id:/model/sexart/christos-vasilopoulos; u:https://www.sexart.com/model/christos-vasilopoulos; g:m
+model: n:Hayden Hawkens; id:/model/sexart/hayden-hawkens; u:https://www.sexart.com/model/hayden-hawkens; g:f
+model: n:Daniel Sobieray; id:/model/sexart/daniel-sobieray; u:https://www.sexart.com/model/daniel-sobieray; g:m
+model: n:Kayla Jane; id:/model/sexart/kayla-jane; u:https://www.sexart.com/model/kayla-jane; g:f
+model: n:Malena Morgan; id:/model/sexart/malena-morgan; u:https://www.sexart.com/model/malena-morgan; g:f
+model: n:Elle Alexandra; id:/model/sexart/elle-alexandra; u:https://www.sexart.com/model/elle-alexandra; g:f
 released: 2012-05-19
 director: Zalman King
 rating: 8.9
@@ -3878,7 +3878,7 @@ title: Girls Love Sex - Take Control
 type: movie
 site: sa
 url: https://www.sexart.com/model/star-renea/movie/20120518/TAKE_CONTROL
-cast: Star Renea; https://www.sexart.com/model/star-renea; g:f
+model: n:Star Renea; id:/model/sexart/star-renea; u:https://www.sexart.com/model/star-renea; g:f
 released: 2012-05-18
 director: Max Churchill
 rating: 8.8
@@ -3890,7 +3890,7 @@ fileprefix: SexArt-20120518-Girls-Love-Sex--Take-Control-
 description: Star is a small-town girl from Rogersville, Tennessee. She likes men who take control, and that do not mess around. She likes a man to pick her up and throw her on the bed and make her his. Her first lesbian experience was on a roof of a girlfriend's house where she had her first orgasm, under the stars, in the darkness of a Tennessee sky. One of her kinks is getting choked while being fucked. She tells us about having a three way while sucking a guy's cock and getting fucked with a strap one. She reminisces about the event and exclaims she wants to do it again. Then watch Kayla show Star how to use a Rabbit style dildo that Star is not familiar with. Star quickly takes the controls and pleasures herself for the first time while Kayla watches.
 runtime: 10:51
 producer: MetArt Films
-directorPhotography: Louis Cypher
+directorOfPhotography: Louis Cypher
 stillPhotographer: Ben Cash
 host: Kayla Jane
 tag: united states
@@ -3899,7 +3899,7 @@ title: Sex Chair
 type: movie
 site: sa
 url: https://www.sexart.com/model/malena-morgan/movie/20120517/SEX_CHAIR
-cast: Malena Morgan; https://www.sexart.com/model/malena-morgan; g:f
+model: n:Malena Morgan; id:/model/sexart/malena-morgan; u:https://www.sexart.com/model/malena-morgan; g:f
 released: 2012-05-17
 director: Bo Llanberris
 rating: 9.4
@@ -3953,8 +3953,8 @@ title: Above The Clouds
 type: movie
 site: sa
 url: https://www.sexart.com/model/jasmine-w-and-charlotte-stokely/movie/20120515/ABOVE_THE_CLOUDS
-cast: Jasmine W; https://www.sexart.com/model/jasmine-w; g:f
-cast: Charlotte Stokely; https://www.sexart.com/model/charlotte-stokely; g:f
+model: n:Jasmine W; id:/model/sexart/jasmine-w; u:https://www.sexart.com/model/jasmine-w; g:f
+model: n:Charlotte Stokely; id:/model/sexart/charlotte-stokely; u:https://www.sexart.com/model/charlotte-stokely; g:f
 released: 2012-05-15
 director: Bo Llanberris
 rating: 9.2
@@ -4012,16 +4012,16 @@ tag: united states
 tag: white stockings
 ---
 title: Kamikaze Love 11 - It's What I Want
-sortableTitle: kamikaze-love-11
+sortable: kamikaze-love-11
 type: movie
 site: sa
 url: https://www.sexart.com/model/hayden-hawkens-and-daniel-sobieray-and-kayla-jane-and-malena-morgan-and-elle-alexandra-and-christos-vasilopoulos/movie/20120514/KAMIKAZE_LOVE_-_IT_S_WHAT_I_WANT
-cast: Hayden Hawkens; https://www.sexart.com/model/hayden-hawkens; g:f
-cast: Daniel Sobieray; https://www.sexart.com/model/daniel-sobieray; g:m
-cast: Kayla Jane; https://www.sexart.com/model/kayla-jane; g:f
-cast: Malena Morgan; https://www.sexart.com/model/malena-morgan; g:f
-cast: Elle Alexandra; https://www.sexart.com/model/elle-alexandra; g:f
-cast: Christos Vasilopoulos; https://www.sexart.com/model/christos-vasilopoulos; g:m
+model: n:Hayden Hawkens; id:/model/sexart/hayden-hawkens; u:https://www.sexart.com/model/hayden-hawkens; g:f
+model: n:Daniel Sobieray; id:/model/sexart/daniel-sobieray; u:https://www.sexart.com/model/daniel-sobieray; g:m
+model: n:Kayla Jane; id:/model/sexart/kayla-jane; u:https://www.sexart.com/model/kayla-jane; g:f
+model: n:Malena Morgan; id:/model/sexart/malena-morgan; u:https://www.sexart.com/model/malena-morgan; g:f
+model: n:Elle Alexandra; id:/model/sexart/elle-alexandra; u:https://www.sexart.com/model/elle-alexandra; g:f
+model: n:Christos Vasilopoulos; id:/model/sexart/christos-vasilopoulos; u:https://www.sexart.com/model/christos-vasilopoulos; g:m
 released: 2012-05-14
 director: Zalman King
 rating: 9.0
@@ -4041,8 +4041,8 @@ title: Primal
 type: movie
 site: sa
 url: https://www.sexart.com/model/joey-brass-and-victoria-lawsom/movie/20120512/PRIMAL
-cast: Joey Brass; https://www.sexart.com/model/joey-brass; g:m
-cast: Victoria Lawsom; https://www.sexart.com/model/victoria-lawsom; g:m
+model: n:Joey Brass; id:/model/sexart/joey-brass; u:https://www.sexart.com/model/joey-brass; g:m
+model: n:Victoria Lawsom; id:/model/sexart/victoria-lawsom; u:https://www.sexart.com/model/victoria-lawsom; g:m
 released: 2012-05-12
 director: Bo Llanberris
 rating: 8.9
@@ -4088,16 +4088,16 @@ tag: smooth
 tag: united states
 ---
 title: Kamikaze Love #10 - Go To Girl
-sortableTitle: kamikaze-love-10
+sortable: kamikaze-love-10
 type: movie
 site: sa
 url: https://www.sexart.com/model/kayla-jane-and-christos-vasilopoulos-and-hayden-hawkens-and-elle-alexandra-and-daniel-sobieray-and-malena-morgan/movie/20120511/KAMIKAZE_LOVE_-_GO_TO_GIRL
-cast: Kayla Jane; https://www.sexart.com/model/kayla-jane; g:f
-cast: Christos Vasilopoulos; https://www.sexart.com/model/christos-vasilopoulos; g:m
-cast: Hayden Hawkens; https://www.sexart.com/model/hayden-hawkens; g:f
-cast: Elle Alexandra; https://www.sexart.com/model/elle-alexandra; g:f
-cast: Daniel Sobieray; https://www.sexart.com/model/daniel-sobieray; g:m
-cast: Malena Morgan; https://www.sexart.com/model/malena-morgan; g:f
+model: n:Kayla Jane; id:/model/sexart/kayla-jane; u:https://www.sexart.com/model/kayla-jane; g:f
+model: n:Christos Vasilopoulos; id:/model/sexart/christos-vasilopoulos; u:https://www.sexart.com/model/christos-vasilopoulos; g:m
+model: n:Hayden Hawkens; id:/model/sexart/hayden-hawkens; u:https://www.sexart.com/model/hayden-hawkens; g:f
+model: n:Elle Alexandra; id:/model/sexart/elle-alexandra; u:https://www.sexart.com/model/elle-alexandra; g:f
+model: n:Daniel Sobieray; id:/model/sexart/daniel-sobieray; u:https://www.sexart.com/model/daniel-sobieray; g:m
+model: n:Malena Morgan; id:/model/sexart/malena-morgan; u:https://www.sexart.com/model/malena-morgan; g:f
 released: 2012-05-11
 director: Zalman King
 rating: 9.1
@@ -4117,8 +4117,8 @@ title: Love Me
 type: movie
 site: sa
 url: https://www.sexart.com/model/tyler-nixon-and-vanessa-cage/movie/20120510/LOVE_ME
-cast: Tyler Nixon; https://www.sexart.com/model/tyler-nixon; g:m
-cast: Vanessa Cage; https://www.sexart.com/model/vanessa-cage; g:f
+model: n:Tyler Nixon; id:/model/sexart/tyler-nixon; u:https://www.sexart.com/model/tyler-nixon; g:m
+model: n:Vanessa Cage; id:/model/sexart/vanessa-cage; u:https://www.sexart.com/model/vanessa-cage; g:f
 released: 2012-05-10
 director: Bo Llanberris
 rating: 8.9
@@ -4171,7 +4171,7 @@ title: Girls Love Sex - Only Nineteen
 type: movie
 site: sa
 url: https://www.sexart.com/model/cassie-laine/movie/20120508/ONLY_NINETEEN
-cast: Cassie Laine; https://www.sexart.com/model/cassie-laine; g:f
+model: n:Cassie Laine; id:/model/sexart/cassie-laine; u:https://www.sexart.com/model/cassie-laine; g:f
 released: 2012-05-08
 director: Max Churchill
 rating: 9.2
@@ -4182,22 +4182,22 @@ file: SexArt-20120508-Girls-Love-Sex--Only-Nineteen-wide.jpg 96
 fileprefix: SexArt-20120508-Girls-Love-Sex--Only-Nineteen-
 description: Sweet Cassie is only 19. It's not long since she started masturbating with the water from the shower head. Now, even though she looks sweet and innocent, she really wants to be dominated. Tie her up... Pull her hair... Choke her... The harder the better. She loves oral sex. It's the only way that she can come... but only if you're really into it too. And her best advice to you is "Don't be afraid to make faces when you're eating me out."
 runtime: 09:07
-directorPhotography: Louis Cypher
+directorOfPhotography: Louis Cypher
 stillPhotographer: Ben Cash
 host: Kayla Jane
 tag: united states
 ---
 title: Kamikaze Love #9 - Right Coat Pocket
-sortableTitle: kamikaze-love-09
+sortable: kamikaze-love-09
 type: movie
 site: sa
 url: https://www.sexart.com/model/kayla-jane-and-malena-morgan-and-hayden-hawkens-and-elle-alexandra-and-christos-vasilopoulos-and-daniel-sobieray/movie/20120507/KAMIKAZE_LOVE_-_RIGHT_COAT_POCKET
-cast: Kayla Jane; https://www.sexart.com/model/kayla-jane; g:f
-cast: Malena Morgan; https://www.sexart.com/model/malena-morgan; g:f
-cast: Hayden Hawkens; https://www.sexart.com/model/hayden-hawkens; g:f
-cast: Elle Alexandra; https://www.sexart.com/model/elle-alexandra; g:f
-cast: Christos Vasilopoulos; https://www.sexart.com/model/christos-vasilopoulos; g:m
-cast: Daniel Sobieray; https://www.sexart.com/model/daniel-sobieray; g:m
+model: n:Kayla Jane; id:/model/sexart/kayla-jane; u:https://www.sexart.com/model/kayla-jane; g:f
+model: n:Malena Morgan; id:/model/sexart/malena-morgan; u:https://www.sexart.com/model/malena-morgan; g:f
+model: n:Hayden Hawkens; id:/model/sexart/hayden-hawkens; u:https://www.sexart.com/model/hayden-hawkens; g:f
+model: n:Elle Alexandra; id:/model/sexart/elle-alexandra; u:https://www.sexart.com/model/elle-alexandra; g:f
+model: n:Christos Vasilopoulos; id:/model/sexart/christos-vasilopoulos; u:https://www.sexart.com/model/christos-vasilopoulos; g:m
+model: n:Daniel Sobieray; id:/model/sexart/daniel-sobieray; u:https://www.sexart.com/model/daniel-sobieray; g:m
 released: 2012-05-07
 director: Zalman King
 rating: 8.9
@@ -4217,7 +4217,7 @@ title: Morning Coffee
 type: movie
 site: sa
 url: https://www.sexart.com/model/rilee-marks/movie/20120505/MORNING_COFFEE
-cast: Rilee Marks; https://www.sexart.com/model/rilee-marks; g:f
+model: n:Rilee Marks; id:/model/sexart/rilee-marks; u:https://www.sexart.com/model/rilee-marks; g:f
 released: 2012-05-05
 director: Bo Llanberris
 rating: 9.1
@@ -4259,16 +4259,16 @@ tag: tan lines
 tag: united states
 ---
 title: Kamikaze Love #8 - Cherry Pink Rage
-sortableTitle: kamikaze-love-08
+sortable: kamikaze-love-08
 type: movie
 site: sa
 url: https://www.sexart.com/model/hayden-hawkens-and-christos-vasilopoulos-and-malena-morgan-and-elle-alexandra-and-kayla-jane-and-daniel-sobieray/movie/20120504/KAMIKAZE_LOVE_-_CHERRY_PINK_RAGE
-cast: Hayden Hawkens; https://www.sexart.com/model/hayden-hawkens; g:f
-cast: Christos Vasilopoulos; https://www.sexart.com/model/christos-vasilopoulos; g:m
-cast: Malena Morgan; https://www.sexart.com/model/malena-morgan; g:f
-cast: Elle Alexandra; https://www.sexart.com/model/elle-alexandra; g:f
-cast: Kayla Jane; https://www.sexart.com/model/kayla-jane; g:f
-cast: Daniel Sobieray; https://www.sexart.com/model/daniel-sobieray; g:m
+model: n:Hayden Hawkens; id:/model/sexart/hayden-hawkens; u:https://www.sexart.com/model/hayden-hawkens; g:f
+model: n:Christos Vasilopoulos; id:/model/sexart/christos-vasilopoulos; u:https://www.sexart.com/model/christos-vasilopoulos; g:m
+model: n:Malena Morgan; id:/model/sexart/malena-morgan; u:https://www.sexart.com/model/malena-morgan; g:f
+model: n:Elle Alexandra; id:/model/sexart/elle-alexandra; u:https://www.sexart.com/model/elle-alexandra; g:f
+model: n:Kayla Jane; id:/model/sexart/kayla-jane; u:https://www.sexart.com/model/kayla-jane; g:f
+model: n:Daniel Sobieray; id:/model/sexart/daniel-sobieray; u:https://www.sexart.com/model/daniel-sobieray; g:m
 released: 2012-05-04
 director: Zalman King
 rating: 8.7
@@ -4289,8 +4289,8 @@ title: The Expressionist
 type: movie
 site: sa
 url: https://www.sexart.com/model/giselle-leon-and-william-corazon/movie/20120503/THE_EXPRESSIONIST
-cast: Giselle Leon; https://www.sexart.com/model/giselle-leon; g:f
-cast: William Corazon; https://www.sexart.com/model/william-corazon; g:m
+model: n:Giselle Leon; id:/model/sexart/giselle-leon; u:https://www.sexart.com/model/giselle-leon; g:f
+model: n:William Corazon; id:/model/sexart/william-corazon; u:https://www.sexart.com/model/william-corazon; g:m
 released: 2012-05-03
 director: Bo Llanberris
 rating: 8.7
@@ -4339,7 +4339,7 @@ title: Back Door Baby
 type: movie
 site: sa
 url: https://www.sexart.com/model/sophia/movie/20120501/BACK_DOOR_BABY
-cast: Sophia; https://www.sexart.com/model/sophia; g:f
+model: n:Sophia; id:/model/sexart/sophia; u:https://www.sexart.com/model/sophia; g:f
 released: 2012-05-01
 director: Max Churchill
 rating: 8.8
@@ -4351,23 +4351,23 @@ fileprefix: SexArt-20120501-Girls-Love-Sex--Back-Door-Baby-
 description: Sophia’s most memorable erotic experience was having sex on a public hiking trail near the edge of a cliff… and it was anal which she prefers. To die getting butt-fucked… For her, that’s an awesome image. Even when she masturbates, Sophia sometimes lets her fingers wander. Some of her lovers don’t understand her preference for anal. That amazes Sophia. But you know what? That’s their problem. She’s very happy just the way she is.
 runtime: 07:38
 producer: MetArt Films
-directorPhotography: David Golding
+directorOfPhotography: David Golding
 cameraOperator: Bill Venture
 stillPhotographer: Ben Cash
 host: Kayla Jane
 tag: united states
 ---
 title: Kamikaze Love #7 - For Better Or For Worse
-sortableTitle: kamikaze-love-07
+sortable: kamikaze-love-07
 type: movie
 site: sa
 url: https://www.sexart.com/model/daniel-sobieray-and-christos-vasilopoulos-and-hayden-hawkens-and-malena-morgan-and-elle-alexandra-and-kayla-jane/movie/20120430/KAMIKAZE_LOVE_-_FOR_BETTER_OR_FOR_WORSE
-cast: Daniel Sobieray; https://www.sexart.com/model/daniel-sobieray; g:m
-cast: Christos Vasilopoulos; https://www.sexart.com/model/christos-vasilopoulos; g:m
-cast: Hayden Hawkens; https://www.sexart.com/model/hayden-hawkens; g:f
-cast: Malena Morgan; https://www.sexart.com/model/malena-morgan; g:f
-cast: Elle Alexandra; https://www.sexart.com/model/elle-alexandra; g:f
-cast: Kayla Jane; https://www.sexart.com/model/kayla-jane; g:f
+model: n:Daniel Sobieray; id:/model/sexart/daniel-sobieray; u:https://www.sexart.com/model/daniel-sobieray; g:m
+model: n:Christos Vasilopoulos; id:/model/sexart/christos-vasilopoulos; u:https://www.sexart.com/model/christos-vasilopoulos; g:m
+model: n:Hayden Hawkens; id:/model/sexart/hayden-hawkens; u:https://www.sexart.com/model/hayden-hawkens; g:f
+model: n:Malena Morgan; id:/model/sexart/malena-morgan; u:https://www.sexart.com/model/malena-morgan; g:f
+model: n:Elle Alexandra; id:/model/sexart/elle-alexandra; u:https://www.sexart.com/model/elle-alexandra; g:f
+model: n:Kayla Jane; id:/model/sexart/kayla-jane; u:https://www.sexart.com/model/kayla-jane; g:f
 released: 2012-04-30
 director: Bo Llanberris
 rating: 8.8
@@ -4387,9 +4387,9 @@ title: The Beach House
 type: movie
 site: sa
 url: https://www.sexart.com/model/malena-morgan-and-elle-alexandra-and-rilee-marks/movie/20120429/THE_BEACH_HOUSE
-cast: Malena Morgan; https://www.sexart.com/model/malena-morgan; g:f
-cast: Elle Alexandra; https://www.sexart.com/model/elle-alexandra; g:f
-cast: Rilee Marks; https://www.sexart.com/model/rilee-marks; g:f
+model: n:Malena Morgan; id:/model/sexart/malena-morgan; u:https://www.sexart.com/model/malena-morgan; g:f
+model: n:Elle Alexandra; id:/model/sexart/elle-alexandra; u:https://www.sexart.com/model/elle-alexandra; g:f
+model: n:Rilee Marks; id:/model/sexart/rilee-marks; u:https://www.sexart.com/model/rilee-marks; g:f
 released: 2012-04-29
 director: Bo Llanberris
 rating: 9.4
@@ -4447,16 +4447,16 @@ tag: threesome
 tag: united states
 ---
 title: Kamikaze Love #6 - Do you Wanna Make Me Really Happy?
-sortableTitle: kamikaze-love-06
+sortable: kamikaze-love-06
 type: movie
 site: sa
 url: https://www.sexart.com/model/elle-alexandra-and-hayden-hawkens-and-christos-vasilopoulos-and-daniel-sobieray-and-kayla-jane-and-malena-morgan/movie/20120427/KAMIKAZE_LOVE_-_DO_YOU_WANNA_MAKE_ME_REALLY_HAPPY?
-cast: Elle Alexandra; https://www.sexart.com/model/elle-alexandra; g:f
-cast: Hayden Hawkens; https://www.sexart.com/model/hayden-hawkens; g:f
-cast: Christos Vasilopoulos; https://www.sexart.com/model/christos-vasilopoulos; g:m
-cast: Daniel Sobieray; https://www.sexart.com/model/daniel-sobieray; g:m
-cast: Kayla Jane; https://www.sexart.com/model/kayla-jane; g:f
-cast: Malena Morgan; https://www.sexart.com/model/malena-morgan; g:f
+model: n:Elle Alexandra; id:/model/sexart/elle-alexandra; u:https://www.sexart.com/model/elle-alexandra; g:f
+model: n:Hayden Hawkens; id:/model/sexart/hayden-hawkens; u:https://www.sexart.com/model/hayden-hawkens; g:f
+model: n:Christos Vasilopoulos; id:/model/sexart/christos-vasilopoulos; u:https://www.sexart.com/model/christos-vasilopoulos; g:m
+model: n:Daniel Sobieray; id:/model/sexart/daniel-sobieray; u:https://www.sexart.com/model/daniel-sobieray; g:m
+model: n:Kayla Jane; id:/model/sexart/kayla-jane; u:https://www.sexart.com/model/kayla-jane; g:f
+model: n:Malena Morgan; id:/model/sexart/malena-morgan; u:https://www.sexart.com/model/malena-morgan; g:f
 released: 2012-04-27
 director: Zalman King
 rating: 8.9
@@ -4477,7 +4477,7 @@ title: Jasmine by The Sea
 type: movie
 site: sa
 url: https://www.sexart.com/model/jasmine-w/movie/20120426/JASMINE_BY_THE_SEA
-cast: Jasmine W; https://www.sexart.com/model/jasmine-w; g:f
+model: n:Jasmine W; id:/model/sexart/jasmine-w; u:https://www.sexart.com/model/jasmine-w; g:f
 released: 2012-04-26
 director: Bo Llanberris
 rating: 8.9
@@ -4524,7 +4524,7 @@ title: Tease Me To Please Me
 type: movie
 site: sa
 url: https://www.sexart.com/model/rilee-marks/movie/20120424/TEASE_ME_TO_PLEASE_ME
-cast: Rilee Marks; https://www.sexart.com/model/rilee-marks; g:f
+model: n:Rilee Marks; id:/model/sexart/rilee-marks; u:https://www.sexart.com/model/rilee-marks; g:f
 released: 2012-04-24
 director: Zalman King
 rating: 9.4
@@ -4536,23 +4536,23 @@ fileprefix: SexArt-20120424-Girls-Love-Sex--Tease-Me-To-Please-Me-
 description: Rilee loves to be teased. She wants her partner to tie her up and then play slowly with her for a very long time - an hour at least. That way, the pleasure is much, much better because she’s been waiting for it for so long. Rilee has a secret captivity fantasy, where she pretends to try and get away but doesn’t try all that hard. She loves the struggle, to be thrown around. She tries to act like she doesn’t want it but, deep down, she really, really does.
 runtime: 12:17
 producer: MetArt Films
-directorPhotography: David Golding
+directorOfPhotography: David Golding
 cameraOperator: Bill Venture
 stillPhotographer: Ben Cash
 host: Kayla Jane
 tag: united states
 ---
 title: Kamikaze Love #5 - Of All The Women In The World
-sortableTitle: kamikaze-love-05
+sortable: kamikaze-love-05
 type: movie
 site: sa
 url: https://www.sexart.com/model/malena-morgan-and-hayden-hawkens-and-daniel-sobieray-and-elle-alexandra-and-christos-vasilopoulos-and-kayla-jane/movie/20120423/KAMIKAZE_LOVE_-_OF_ALL_THE_WOMEN_IN_THE_WORLD
-cast: Malena Morgan; https://www.sexart.com/model/malena-morgan; g:f
-cast: Hayden Hawkens; https://www.sexart.com/model/hayden-hawkens; g:f
-cast: Daniel Sobieray; https://www.sexart.com/model/daniel-sobieray; g:m
-cast: Elle Alexandra; https://www.sexart.com/model/elle-alexandra; g:f
-cast: Christos Vasilopoulos; https://www.sexart.com/model/christos-vasilopoulos; g:m
-cast: Kayla Jane; https://www.sexart.com/model/kayla-jane; g:f
+model: n:Malena Morgan; id:/model/sexart/malena-morgan; u:https://www.sexart.com/model/malena-morgan; g:f
+model: n:Hayden Hawkens; id:/model/sexart/hayden-hawkens; u:https://www.sexart.com/model/hayden-hawkens; g:f
+model: n:Daniel Sobieray; id:/model/sexart/daniel-sobieray; u:https://www.sexart.com/model/daniel-sobieray; g:m
+model: n:Elle Alexandra; id:/model/sexart/elle-alexandra; u:https://www.sexart.com/model/elle-alexandra; g:f
+model: n:Christos Vasilopoulos; id:/model/sexart/christos-vasilopoulos; u:https://www.sexart.com/model/christos-vasilopoulos; g:m
+model: n:Kayla Jane; id:/model/sexart/kayla-jane; u:https://www.sexart.com/model/kayla-jane; g:f
 released: 2012-04-23
 director: Zalman King
 rating: 8.9
@@ -4573,8 +4573,8 @@ title: The Artist
 type: movie
 site: sa
 url: https://www.sexart.com/model/charlotte-stokely-and-malena-morgan/movie/20120421/THE_ARTIST
-cast: Charlotte Stokely; https://www.sexart.com/model/charlotte-stokely; g:f
-cast: Malena Morgan; https://www.sexart.com/model/malena-morgan; g:f
+model: n:Charlotte Stokely; id:/model/sexart/charlotte-stokely; u:https://www.sexart.com/model/charlotte-stokely; g:f
+model: n:Malena Morgan; id:/model/sexart/malena-morgan; u:https://www.sexart.com/model/malena-morgan; g:f
 released: 2012-04-21
 director: Bo Llanberris
 rating: 9.2
@@ -4632,16 +4632,16 @@ tag: tattoo
 tag: united states
 ---
 title: Kamikaze Love #4 - I Saw Everything
-sortableTitle: kamikaze-love-04
+sortable: kamikaze-love-04
 type: movie
 site: sa
 url: https://www.sexart.com/model/christos-vasilopoulos-and-kayla-jane-and-daniel-sobieray-and-malena-morgan-and-hayden-hawkens-and-elle-alexandra/movie/20120420/KAMIKAZE_LOVE_-_I_SAW_EVERYTHING
-cast: Christos Vasilopoulos; https://www.sexart.com/model/christos-vasilopoulos; g:m
-cast: Kayla Jane; https://www.sexart.com/model/kayla-jane; g:f
-cast: Daniel Sobieray; https://www.sexart.com/model/daniel-sobieray; g:m
-cast: Malena Morgan; https://www.sexart.com/model/malena-morgan; g:f
-cast: Hayden Hawkens; https://www.sexart.com/model/hayden-hawkens; g:f
-cast: Elle Alexandra; https://www.sexart.com/model/elle-alexandra; g:f
+model: n:Christos Vasilopoulos; id:/model/sexart/christos-vasilopoulos; u:https://www.sexart.com/model/christos-vasilopoulos; g:m
+model: n:Kayla Jane; id:/model/sexart/kayla-jane; u:https://www.sexart.com/model/kayla-jane; g:f
+model: n:Daniel Sobieray; id:/model/sexart/daniel-sobieray; u:https://www.sexart.com/model/daniel-sobieray; g:m
+model: n:Malena Morgan; id:/model/sexart/malena-morgan; u:https://www.sexart.com/model/malena-morgan; g:f
+model: n:Hayden Hawkens; id:/model/sexart/hayden-hawkens; u:https://www.sexart.com/model/hayden-hawkens; g:f
+model: n:Elle Alexandra; id:/model/sexart/elle-alexandra; u:https://www.sexart.com/model/elle-alexandra; g:f
 released: 2012-04-20
 director: Zalman King
 rating: 8.7
@@ -4662,8 +4662,8 @@ title: Hang The Moon
 type: movie
 site: sa
 url: https://www.sexart.com/model/elle-alexandra-and-jasmine-w/movie/20120419/HANG_THE_MOON
-cast: Elle Alexandra; https://www.sexart.com/model/elle-alexandra; g:f
-cast: Jasmine W; https://www.sexart.com/model/jasmine-w; g:f
+model: n:Elle Alexandra; id:/model/sexart/elle-alexandra; u:https://www.sexart.com/model/elle-alexandra; g:f
+model: n:Jasmine W; id:/model/sexart/jasmine-w; u:https://www.sexart.com/model/jasmine-w; g:f
 released: 2012-04-19
 director: Bo Llanberris
 rating: 9.1
@@ -4720,7 +4720,7 @@ title: My First Sex Toy
 type: movie
 site: sa
 url: https://www.sexart.com/model/ally-evans/movie/20120417/MY_FIRST_SEX_TOY
-cast: Ally Evans; https://www.sexart.com/model/ally-evans; g:f
+model: n:Ally Evans; id:/model/sexart/ally-evans; u:https://www.sexart.com/model/ally-evans; g:f
 released: 2012-04-17
 director: Max Churchill
 rating: 9.1
@@ -4732,7 +4732,7 @@ fileprefix: SexArt-20120417-Girls-Lovbe-Sex--My-First-Sex-Toy-
 description: Ally is a romantic with guys but not with girls. She thinks of them as sex toys, especially the slutty lipstick lesbians that she favors. She has masturbated forever but never with a toy before… so Kayla gives her one to try. And a whole new world opens up for her. Take a look.
 runtime: 11:40
 producer: MetArt Films
-directorPhotography: David Golding
+directorOfPhotography: David Golding
 cameraOperator: Bill Venture
 stillPhotographer: Ben Cash
 host: Kayla Jane
@@ -4742,7 +4742,7 @@ title: Stoked
 type: movie
 site: sa
 url: https://www.sexart.com/model/charlotte-stokely/movie/20120416/STOKED
-cast: Charlotte Stokely; https://www.sexart.com/model/charlotte-stokely; g:f
+model: n:Charlotte Stokely; id:/model/sexart/charlotte-stokely; u:https://www.sexart.com/model/charlotte-stokely; g:f
 released: 2012-04-16
 director: Bo Llanberris
 rating: 9.1
@@ -4788,8 +4788,8 @@ title: ArtRock
 type: movie
 site: sa
 url: https://www.sexart.com/model/malena-morgan-and-elle-alexandra/movie/20120413/ARTROCK
-cast: Malena Morgan; https://www.sexart.com/model/malena-morgan; g:f
-cast: Elle Alexandra; https://www.sexart.com/model/elle-alexandra; g:f
+model: n:Malena Morgan; id:/model/sexart/malena-morgan; u:https://www.sexart.com/model/malena-morgan; g:f
+model: n:Elle Alexandra; id:/model/sexart/elle-alexandra; u:https://www.sexart.com/model/elle-alexandra; g:f
 released: 2012-04-13
 director: Bo Llanberris
 rating: 9.0
@@ -4851,8 +4851,8 @@ title: Under The Elle Tree
 type: movie
 site: sa
 url: https://www.sexart.com/model/malena-morgan-and-elle-alexandra/movie/20120413/UNDER_THE_ELLE_TREE
-cast: Malena Morgan; https://www.sexart.com/model/malena-morgan; g:f
-cast: Elle Alexandra; https://www.sexart.com/model/elle-alexandra; g:f
+model: n:Malena Morgan; id:/model/sexart/malena-morgan; u:https://www.sexart.com/model/malena-morgan; g:f
+model: n:Elle Alexandra; id:/model/sexart/elle-alexandra; u:https://www.sexart.com/model/elle-alexandra; g:f
 released: 2012-04-13
 director: Bo Llanberris
 rating: 9.1
@@ -4897,8 +4897,8 @@ title: American Girls
 type: movie
 site: sa
 url: https://www.sexart.com/model/rilee-marks-and-malena-morgan/movie/20120413/AMERICAN_GIRLS
-cast: Rilee Marks; https://www.sexart.com/model/rilee-marks; g:f
-cast: Malena Morgan; https://www.sexart.com/model/malena-morgan; g:f
+model: n:Rilee Marks; id:/model/sexart/rilee-marks; u:https://www.sexart.com/model/rilee-marks; g:f
+model: n:Malena Morgan; id:/model/sexart/malena-morgan; u:https://www.sexart.com/model/malena-morgan; g:f
 released: 2012-04-13
 director: Bo Llanberris
 rating: 9.4
@@ -4945,8 +4945,8 @@ title: My First
 type: movie
 site: sa
 url: https://www.sexart.com/model/lexi-bloom-and-logan-pierce/movie/20120413/MY_FIRST
-cast: Lexi Bloom; https://www.sexart.com/model/lexi-bloom; g:f
-cast: Logan Pierce; https://www.sexart.com/model/logan-pierce; g:m
+model: n:Lexi Bloom; id:/model/sexart/lexi-bloom; u:https://www.sexart.com/model/lexi-bloom; g:f
+model: n:Logan Pierce; id:/model/sexart/logan-pierce; u:https://www.sexart.com/model/logan-pierce; g:m
 released: 2012-04-13
 director: Bo Llanberris
 rating: 9.0
@@ -5004,8 +5004,8 @@ title: Secret Love
 type: movie
 site: sa
 url: https://www.sexart.com/model/malena-morgan-and-elle-alexandra/movie/20120413/SECRET_LOVE
-cast: Malena Morgan; https://www.sexart.com/model/malena-morgan; g:f
-cast: Elle Alexandra; https://www.sexart.com/model/elle-alexandra; g:f
+model: n:Malena Morgan; id:/model/sexart/malena-morgan; u:https://www.sexart.com/model/malena-morgan; g:f
+model: n:Elle Alexandra; id:/model/sexart/elle-alexandra; u:https://www.sexart.com/model/elle-alexandra; g:f
 released: 2012-04-13
 director: Bo Llanberris
 rating: 9.4
@@ -5061,9 +5061,9 @@ title: Stepping Out
 type: movie
 site: sa
 url: https://www.sexart.com/model/malena-morgan-and-lexi-bloom-and-elle-alexandra/movie/20120413/STEPPING_OUT
-cast: Malena Morgan; https://www.sexart.com/model/malena-morgan; g:f
-cast: Lexi Bloom; https://www.sexart.com/model/lexi-bloom; g:f
-cast: Elle Alexandra; https://www.sexart.com/model/elle-alexandra; g:f
+model: n:Malena Morgan; id:/model/sexart/malena-morgan; u:https://www.sexart.com/model/malena-morgan; g:f
+model: n:Lexi Bloom; id:/model/sexart/lexi-bloom; u:https://www.sexart.com/model/lexi-bloom; g:f
+model: n:Elle Alexandra; id:/model/sexart/elle-alexandra; u:https://www.sexart.com/model/elle-alexandra; g:f
 released: 2012-04-13
 director: Bo Llanberris
 rating: 9.2
@@ -5131,8 +5131,8 @@ title: Whispers
 type: movie
 site: sa
 url: https://www.sexart.com/model/rilee-marks-and-elle-alexandra/movie/20120413/WHISPERS
-cast: Rilee Marks; https://www.sexart.com/model/rilee-marks; g:f
-cast: Elle Alexandra; https://www.sexart.com/model/elle-alexandra; g:f
+model: n:Rilee Marks; id:/model/sexart/rilee-marks; u:https://www.sexart.com/model/rilee-marks; g:f
+model: n:Elle Alexandra; id:/model/sexart/elle-alexandra; u:https://www.sexart.com/model/elle-alexandra; g:f
 released: 2012-04-13
 director: Bo Llanberris
 rating: 9.3
@@ -5185,8 +5185,8 @@ title: SexArt
 type: movie
 site: sa
 url: https://www.sexart.com/model/malena-morgan-and-elle-alexandra/movie/20120413/SEXART
-cast: Malena Morgan; https://www.sexart.com/model/malena-morgan; g:f
-cast: Elle Alexandra; https://www.sexart.com/model/elle-alexandra; g:f
+model: n:Malena Morgan; id:/model/sexart/malena-morgan; u:https://www.sexart.com/model/malena-morgan; g:f
+model: n:Elle Alexandra; id:/model/sexart/elle-alexandra; u:https://www.sexart.com/model/elle-alexandra; g:f
 released: 2012-04-13
 director: Bo Llanberris
 rating: 9.2
@@ -5232,7 +5232,7 @@ title: RED
 type: movie
 site: sa
 url: https://www.sexart.com/model/rilee-marks/movie/20120413/RED
-cast: Rilee Marks; https://www.sexart.com/model/rilee-marks; g:f
+model: n:Rilee Marks; id:/model/sexart/rilee-marks; u:https://www.sexart.com/model/rilee-marks; g:f
 released: 2012-04-13
 director: Bo Llanberris
 rating: 9.1
@@ -5277,9 +5277,9 @@ title: Private Voyeur
 type: movie
 site: sa
 url: https://www.sexart.com/model/rilee-marks-and-elle-alexandra-and-malena-morgan/movie/20120413/PRIVATE_VOYEUR
-cast: Rilee Marks; https://www.sexart.com/model/rilee-marks; g:f
-cast: Elle Alexandra; https://www.sexart.com/model/elle-alexandra; g:f
-cast: Malena Morgan; https://www.sexart.com/model/malena-morgan; g:f
+model: n:Rilee Marks; id:/model/sexart/rilee-marks; u:https://www.sexart.com/model/rilee-marks; g:f
+model: n:Elle Alexandra; id:/model/sexart/elle-alexandra; u:https://www.sexart.com/model/elle-alexandra; g:f
+model: n:Malena Morgan; id:/model/sexart/malena-morgan; u:https://www.sexart.com/model/malena-morgan; g:f
 released: 2012-04-13
 director: Bo Llanberris
 rating: 9.2
@@ -5334,7 +5334,7 @@ title: Lexi Luv
 type: movie
 site: sa
 url: https://www.sexart.com/model/lexi-bloom/movie/20120413/LEXI_LUV
-cast: Lexi Bloom; https://www.sexart.com/model/lexi-bloom; g:f
+model: n:Lexi Bloom; id:/model/sexart/lexi-bloom; u:https://www.sexart.com/model/lexi-bloom; g:f
 released: 2012-04-13
 director: Bo Llanberris
 rating: 9.3
@@ -5388,7 +5388,7 @@ title: Just Us
 type: movie
 site: sa
 url: https://www.sexart.com/model/rilee-marks/movie/20120413/JUST_US
-cast: Rilee Marks; https://www.sexart.com/model/rilee-marks; g:f
+model: n:Rilee Marks; id:/model/sexart/rilee-marks; u:https://www.sexart.com/model/rilee-marks; g:f
 released: 2012-04-13
 director: Bo Llanberris
 rating: 9.1
@@ -5432,9 +5432,9 @@ title: Dreamer #2 - Dreamers Dream
 type: movie
 site: sa
 url: https://www.sexart.com/model/elle-alexandra-and-rilee-marks-and-malena-morgan/movie/20120413/DREAMER_II_-_DREAMERS_DREAM
-cast: Elle Alexandra; https://www.sexart.com/model/elle-alexandra; g:f
-cast: Rilee Marks; https://www.sexart.com/model/rilee-marks; g:f
-cast: Malena Morgan; https://www.sexart.com/model/malena-morgan; g:f
+model: n:Elle Alexandra; id:/model/sexart/elle-alexandra; u:https://www.sexart.com/model/elle-alexandra; g:f
+model: n:Rilee Marks; id:/model/sexart/rilee-marks; u:https://www.sexart.com/model/rilee-marks; g:f
+model: n:Malena Morgan; id:/model/sexart/malena-morgan; u:https://www.sexart.com/model/malena-morgan; g:f
 released: 2012-04-13
 director: Bo Llanberris
 rating: 9.4
@@ -5483,7 +5483,7 @@ title: Dreamer #1
 type: movie
 site: sa
 url: https://www.sexart.com/model/malena-morgan/movie/20120413/DREAMER
-cast: Malena Morgan; https://www.sexart.com/model/malena-morgan; g:f
+model: n:Malena Morgan; id:/model/sexart/malena-morgan; u:https://www.sexart.com/model/malena-morgan; g:f
 released: 2012-04-13
 director: Bo Llanberris
 rating: 9.4
@@ -5527,9 +5527,9 @@ title: Decadence
 type: movie
 site: sa
 url: https://www.sexart.com/model/malena-morgan-and-elle-alexandra-and-rilee-marks/movie/20120413/DECADENCE
-cast: Malena Morgan; https://www.sexart.com/model/malena-morgan; g:f
-cast: Elle Alexandra; https://www.sexart.com/model/elle-alexandra; g:f
-cast: Rilee Marks; https://www.sexart.com/model/rilee-marks; g:f
+model: n:Malena Morgan; id:/model/sexart/malena-morgan; u:https://www.sexart.com/model/malena-morgan; g:f
+model: n:Elle Alexandra; id:/model/sexart/elle-alexandra; u:https://www.sexart.com/model/elle-alexandra; g:f
+model: n:Rilee Marks; id:/model/sexart/rilee-marks; u:https://www.sexart.com/model/rilee-marks; g:f
 released: 2012-04-13
 director: Bo Llanberris
 rating: 9.3
@@ -5583,8 +5583,8 @@ title: Chateau
 type: movie
 site: sa
 url: https://www.sexart.com/model/elle-alexandra-and-malena-morgan/movie/20120413/CHATEAU
-cast: Elle Alexandra; https://www.sexart.com/model/elle-alexandra; g:f
-cast: Malena Morgan; https://www.sexart.com/model/malena-morgan; g:f
+model: n:Elle Alexandra; id:/model/sexart/elle-alexandra; u:https://www.sexart.com/model/elle-alexandra; g:f
+model: n:Malena Morgan; id:/model/sexart/malena-morgan; u:https://www.sexart.com/model/malena-morgan; g:f
 released: 2012-04-13
 director: Bo Llanberris
 rating: 9.3
@@ -5641,7 +5641,7 @@ title: Cellist
 type: movie
 site: sa
 url: https://www.sexart.com/model/rilee-marks/movie/20120413/CELLIST
-cast: Rilee Marks; https://www.sexart.com/model/rilee-marks; g:f
+model: n:Rilee Marks; id:/model/sexart/rilee-marks; u:https://www.sexart.com/model/rilee-marks; g:f
 released: 2012-04-13
 director: Bo Llanberris
 rating: 9.2
@@ -5689,7 +5689,7 @@ title: Butterfly Blue
 type: movie
 site: sa
 url: https://www.sexart.com/model/hayden-hawkens/movie/20120413/BUTTERFLY_BLUE
-cast: Hayden Hawkens; https://www.sexart.com/model/hayden-hawkens; g:f
+model: n:Hayden Hawkens; id:/model/sexart/hayden-hawkens; u:https://www.sexart.com/model/hayden-hawkens; g:f
 released: 2012-04-13
 director: Bo Llanberris
 rating: 9.0
@@ -5740,8 +5740,8 @@ title: Golden
 type: movie
 site: sa
 url: https://www.sexart.com/model/hayden-hawkens-and-malena-morgan/movie/20120413/GOLDEN
-cast: Hayden Hawkens; https://www.sexart.com/model/hayden-hawkens; g:f
-cast: Malena Morgan; https://www.sexart.com/model/malena-morgan; g:f
+model: n:Hayden Hawkens; id:/model/sexart/hayden-hawkens; u:https://www.sexart.com/model/hayden-hawkens; g:f
+model: n:Malena Morgan; id:/model/sexart/malena-morgan; u:https://www.sexart.com/model/malena-morgan; g:f
 released: 2012-04-13
 director: Bo Llanberris
 rating: 9.0
@@ -5787,7 +5787,7 @@ title: El Fuego Del Corazon
 type: movie
 site: sa
 url: https://www.sexart.com/model/malena-morgan/movie/20120413/EL_FUEGO_DEL_CORAZON
-cast: Malena Morgan; https://www.sexart.com/model/malena-morgan; g:f
+model: n:Malena Morgan; id:/model/sexart/malena-morgan; u:https://www.sexart.com/model/malena-morgan; g:f
 released: 2012-04-13
 director: Bo Llanberris
 rating: 9.4
@@ -5833,7 +5833,7 @@ title: Studious
 type: movie
 site: sa
 url: https://www.sexart.com/model/odette/movie/20120412/STUDIOUS
-cast: Odette; https://www.sexart.com/model/odette; g:f
+model: n:Odette; id:/model/sexart/odette; u:https://www.sexart.com/model/odette; g:f
 released: 2012-04-12
 director: Bo Llanberris
 rating: 9.0
@@ -5845,7 +5845,7 @@ fileprefix: SexArt-20120412-Girls-Love-Sex--Studious-
 description: Cute, blonde Odette is from a small town in Maine. She was pretty wild even back there. But when she moved to L.A. to attend a small Catholic college, then all bets were off. She used to set up a camera in her dorm room and take nude photos of herself masturbating that she shared with her friends. Every now and then, she'd get caught by her roommate who couldn't understand what that buzzing sound was. "It's my cell phone," Odette tried to explain. And that seemed to work. "But why is your phone down there?" her roommate still wondered.
 runtime: 08:32
 producer: MetArt Films
-directorPhotography: David Golding
+directorOfPhotography: David Golding
 cameraOperator: Bill Venture
 stillPhotographer: Ben Cash
 host: Kayla Jane
@@ -5855,7 +5855,7 @@ title: The First Time Was The Worst Time
 type: movie
 site: sa
 url: https://www.sexart.com/model/anjelica-sage/movie/20120412/THE_FIRST_TIME_WAS_THE_WORST_TIME
-cast: Anjelica Sage; https://www.sexart.com/model/anjelica-sage; g:f
+model: n:Anjelica Sage; id:/model/sexart/anjelica-sage; u:https://www.sexart.com/model/anjelica-sage; g:f
 released: 2012-04-12
 director: Bo Llanberris
 rating: 8.7
@@ -5867,7 +5867,7 @@ fileprefix: SexArt-20120412-Girls-Love-Sex--The-First-Time-Was-The-Worst-Time-
 description: Anjelica's first time was, as she puts it, "honestly bullshit." It lasted for only about a minute and a half and made her wonder whether that was all there is. That may have been her first time but it surely wasn't her only time. She did try again and, for her, the rest is history. Now she loves everything about sex – the romance, the foreplay and the intense chemistry. But she is also into rough play – biting, being thrown around and all kinds of exotic positions she didn't even know existed. Tune in as Anjelica shares the good times with you.
 runtime: 12:40
 producer: MetArt Films
-directorPhotography: David Golding
+directorOfPhotography: David Golding
 cameraOperator: Bill Venture
 stillPhotographer: Ben Cash
 host: Kayla Jane
@@ -5877,7 +5877,7 @@ title: I Have A Fidelity Problem
 type: movie
 site: sa
 url: https://www.sexart.com/model/sovereign/movie/20120412/I_HAVE_A_FIDELITY_PROBLEM
-cast: Sovereign; https://www.sexart.com/model/sovereign; g:f
+model: n:Sovereign; id:/model/sexart/sovereign; u:https://www.sexart.com/model/sovereign; g:f
 released: 2012-04-12
 director: Max Churchill
 rating: 8.8
@@ -5889,7 +5889,7 @@ fileprefix: SexArt-20120412-Girls-Love-Sex--I-Have-A-Fidelity-Problem-
 description: Busty, lusty Sovereign is from many different places. She tends to fall in love a lot and then chases boys all over the world. She has a hard time staying faithful because she can't resist the lure of doing something new and naughty. She is also into masturbating in public. She loves to do it outside tall office buildings or in parking garages. Then she can think about all the men inside in their suits and ties doing their boring jobs and not having a clue about what pleasure is just outside their window.
 runtime: 08:13
 producer: MetArt Films
-directorPhotography: David Golding
+directorOfPhotography: David Golding
 cameraOperator: Bill Venture
 stillPhotographer: Ben Cash
 host: Kayla Jane
@@ -5899,7 +5899,7 @@ title: Man Meat Is Pretty Hot
 type: movie
 site: sa
 url: https://www.sexart.com/model/lexi-bloom/movie/20120412/MAN_MEAT_IS_PRETTY_HOT
-cast: Lexi Bloom; https://www.sexart.com/model/lexi-bloom; g:f
+model: n:Lexi Bloom; id:/model/sexart/lexi-bloom; u:https://www.sexart.com/model/lexi-bloom; g:f
 released: 2012-04-12
 director: Max Churchill
 rating: 9.1
@@ -5911,7 +5911,7 @@ fileprefix: SexArt-20120412-Girls-Love-Sex--Man-Meat-Is-Pretty-Hot-
 description: To Lexie, girls are fun because they're nice and soft and they smell good. But she prefers boys who are strong and chiseled. "Man meat is pretty hot," she reveals. Lexie prefers not to have sex with people she doesn't really know. She needs that mental connection. Her most romantic memory was a special time with an old boyfriend. They kissed for an hour which is crazy because "Nobody kisses for an hour, especially with your boyfriend"... And there was a Hitachi involved, which made it even better.
 runtime: 08:14
 producer: MetArt Films
-directorPhotography: David Golding
+directorOfPhotography: David Golding
 cameraOperator: Bill Venture
 stillPhotographer: Ben Cash
 host: Kayla Jane
@@ -5921,7 +5921,7 @@ title: Coming From Down Under
 type: movie
 site: sa
 url: https://www.sexart.com/model/sally-charles/movie/20120412/COMING_FROM_DOWN_UNDER
-cast: Sally Charles; https://www.sexart.com/model/sally-charles; g:f
+model: n:Sally Charles; id:/model/sexart/sally-charles; u:https://www.sexart.com/model/sally-charles; g:f
 released: 2012-04-12
 director: David Golding
 rating: 8.9
@@ -5933,7 +5933,7 @@ fileprefix: SexArt-20120412-Girls-Love-Sex--Coming-From-Down-Under-
 description: Aussie Sally loves men and women equally. But they're so different, you can't even make a comparison. She finds women just so cute. Everything they do is adorable. And the hardness of men really turns her on. She was 11 when she had her first orgasm... with a pillow... and she became addicted. She prefers inanimate objects to get her off rather than her hand. Her tried and true favorite toy is a blue Hitachi that she calls "Bluey." She likes things with big heads on them which gives a new and sizzling meaning to the idea of coming from Down Under.
 runtime: 13:40
 producer: MetArt Films
-directorPhotography: David Golding
+directorOfPhotography: David Golding
 cameraOperator: Bill Venture
 stillPhotographer: Ben Cash
 host: Kayla Jane
@@ -5943,7 +5943,7 @@ title: Spreading The Love Around
 type: movie
 site: sa
 url: https://www.sexart.com/model/elle-alexandra/movie/20120412/SPREADING_THE_LOVE_AROUND
-cast: Elle Alexandra; https://www.sexart.com/model/elle-alexandra; g:f
+model: n:Elle Alexandra; id:/model/sexart/elle-alexandra; u:https://www.sexart.com/model/elle-alexandra; g:f
 released: 2012-04-12
 director: Max Churchill
 rating: 9.2
@@ -5955,7 +5955,7 @@ fileprefix: SexArt-20120412-Girls-Love-Sex--Spreading-The-Love-Around-
 description: Beautiful redhead Elle is an equal opportunity lover. She has a "companion," who is her boyfriend, and a "lover," who is her girlfriend... and they're all good friends. She's never enjoyed them together... because she's just too greedy for that. It would be too much sexual intensity if that's even possible. For Elle, women are better lovers. They're more passionate and caring in bed. Men are more animalistic and aggressive. That's not a bad thing, just different. And there's definitely a special place for each.
 runtime: 10:33
 producer: MetArt Films
-directorPhotography: Bill Venture, David Golding
+directorOfPhotography: Bill Venture, David Golding
 stillPhotographer: Ben Cash
 host: Kayla Jane
 tag: united states
@@ -5964,7 +5964,7 @@ title: I'm All About The Ladies
 type: movie
 site: sa
 url: https://www.sexart.com/model/charlotte-stokely/movie/20120412/I_M_ALL_ABOUT_THE_LADIES
-cast: Charlotte Stokely; https://www.sexart.com/model/charlotte-stokely; g:f
+model: n:Charlotte Stokely; id:/model/sexart/charlotte-stokely; u:https://www.sexart.com/model/charlotte-stokely; g:f
 released: 2012-04-12
 director: Max Churchill
 rating: 9.4
@@ -5976,7 +5976,7 @@ fileprefix: SexArt-20120412-Girls-Love-Sex--Im-All-About-The-Ladies-
 description: Charlotte has had steamy relationships with men and women both. But right now, she's all about the ladies. She loves their soft skin and that she can share so many interests with them. "We just understand each other," she says. "Women are more emotional. You can really get passionate and romantic with them." Watch as she describes in torrid detail how she would seduce Kayla, our interviewer extraordinaire ... And it really sounds like Kayla is interested.
 runtime: 12:33
 producer: MetArt Films
-directorPhotography: David Golding
+directorOfPhotography: David Golding
 cameraOperator: Bill Venture
 stillPhotographer: Ben Cash
 host: Kayla Jane
@@ -5986,7 +5986,7 @@ title: I'm The Star Of My Own Videos
 type: movie
 site: sa
 url: https://www.sexart.com/model/charlotte-stokely/movie/20120412/I_M_THE_STAR_OF_MY_OWN_VIDEOS
-cast: Charlotte Stokely; https://www.sexart.com/model/charlotte-stokely; g:f
+model: n:Charlotte Stokely; id:/model/sexart/charlotte-stokely; u:https://www.sexart.com/model/charlotte-stokely; g:f
 released: 2012-04-12
 director: Max Churchill
 rating: 9.1
@@ -5997,7 +5997,7 @@ fileprefix: SexArt-20120412-Girls-Love-Sex--Im-The-Star-of-my-Own-Videos-
 description: Blonde Charlotte really loves to role-play. She likes to pretend to be lots of different types because it allows her to experience the many sides of life. She actually thinks of herself as a butterfly but playing a mermaid is her favorite... though that's hard to role-play that one since you can't open your legs. She often videos these experiences both as a director behind the camera and as the star and shares them with the people closest to her. She is multi-orgasmic and her personal record is coming 27 times in a row. Hope she videoed that one.
 runtime: 11:17
 producer: MetArt Films
-directorPhotography: David Golding
+directorOfPhotography: David Golding
 cameraOperator: Bill Venture
 stillPhotographer: Ben Cash
 host: Kayla Jane
@@ -6007,7 +6007,7 @@ title: Her Last Name Is Danger
 type: movie
 site: sa
 url: https://www.sexart.com/model/kayla-jane/movie/20120412/HER_LAST_NAME_IS_DANGER
-cast: Kayla Jane; https://www.sexart.com/model/kayla-jane; g:f
+model: n:Kayla Jane; id:/model/sexart/kayla-jane; u:https://www.sexart.com/model/kayla-jane; g:f
 released: 2012-04-12
 director: Max Churchill
 rating: 8.7
@@ -6018,7 +6018,7 @@ fileprefix: SexArt-20120412-Girls-Love-Sex--Her-Last-Name-Is-Danger-
 description: Meet Kayla Jane Danger, our interviewer for the second season of "Girls Love Sex." She is perfect for the role - a force of nature, an unbelievable combination of the literary and the erotic, the sacred and the profane, the provocative and the discreet. Who else have you ever met who has a speech from Shakespeare's "The Tempest" tattooed on her beautiful body? So come along with Kayla as she introduces you to a bevy of fantastic beauties up close and very, very personal. And because Kayla has done it all herself, she knows exactly the right questions to ask in order to tease out all of those super-sexy stories, those highly erotic memories and those secret and hilarious embarrassments.
 runtime: 02:43
 producer: MetArt Films
-directorPhotography: David Golding
+directorOfPhotography: David Golding
 cameraOperator: Bill Venture
 stillPhotographer: Ben Cash
 host: Kayla Jane
@@ -6028,7 +6028,7 @@ title: BDSM Goddess
 type: movie
 site: sa
 url: https://www.sexart.com/model/soma-snakeoil/movie/20120411/BDSM_GODDESS
-cast: Soma Snakeoil; https://www.sexart.com/model/soma-snakeoil; g:f
+model: n:Soma Snakeoil; id:/model/sexart/soma-snakeoil; u:https://www.sexart.com/model/soma-snakeoil; g:f
 released: 2012-04-11
 director: Bo Llanberris
 rating: 8.3
@@ -6040,13 +6040,13 @@ description: Soma lives in San Diego where there is a beautiful, blossoming feti
 runtime: 04:53
 producer: Zalman King Company
 tag: united states
-iles: # SexArt-20120411-BDSM-Goddess-
+files: # SexArt-20120411-BDSM-Goddess-
 ---
 title: Sex With A Childhood Crush
 type: movie
 site: sa
 url: https://www.sexart.com/model/sabrina-rose/movie/20120411/SEX_WITH_A_CHILDHOOD_CRUSH
-cast: Sabrina Rose; https://www.sexart.com/model/sabrina-rose; g:f
+model: n:Sabrina Rose; id:/model/sexart/sabrina-rose; u:https://www.sexart.com/model/sabrina-rose; g:f
 released: 2012-04-11
 director: Zalman King
 rating: 8.8
@@ -6063,8 +6063,8 @@ title: Love At First Sight
 type: movie
 site: sa
 url: https://www.sexart.com/model/samantha-sin-and-taylor-mae/movie/20120411/LOVE_AT_FIRST_SIGHT
-cast: Samantha Sin; https://www.sexart.com/model/samantha-sin; g:f
-cast: Taylor Mae; https://www.sexart.com/model/taylor-mae; g:f
+model: n:Samantha Sin; id:/model/sexart/samantha-sin; u:https://www.sexart.com/model/samantha-sin; g:f
+model: n:Taylor Mae; id:/model/sexart/taylor-mae; u:https://www.sexart.com/model/taylor-mae; g:f
 released: 2012-04-11
 director: Zalman King
 rating: 8.9
@@ -6081,7 +6081,7 @@ title: I Will Never Fake My Orgasm
 type: movie
 site: sa
 url: https://www.sexart.com/model/ryder-skye/movie/20120411/I_WILL_NEVER_FAKE_MY_ORGASM
-cast: Ryder Skye; https://www.sexart.com/model/ryder-skye; g:f
+model: n:Ryder Skye; id:/model/sexart/ryder-skye; u:https://www.sexart.com/model/ryder-skye; g:f
 released: 2012-04-11
 director: Bo Llanberris
 rating: 8.6
@@ -6098,7 +6098,7 @@ title: Masturbating To The Moon
 type: movie
 site: sa
 url: https://www.sexart.com/model/molly-damour/movie/20120411/MASTURBATING_TO_THE_MOON
-cast: Molly Damour; https://www.sexart.com/model/molly-damour; g:f
+model: n:Molly Damour; id:/model/sexart/molly-damour; u:https://www.sexart.com/model/molly-damour; g:f
 released: 2012-04-11
 director: Zalman King
 rating: 8.6
@@ -6115,7 +6115,7 @@ title: Women Are Fun But I Prefer Men
 type: movie
 site: sa
 url: https://www.sexart.com/model/mia-presley/movie/20120411/WOMEN_ARE_FUN_BUT_I_PREFER_MEN
-cast: Mia Presley; https://www.sexart.com/model/mia-presley; g:f
+model: n:Mia Presley; id:/model/sexart/mia-presley; u:https://www.sexart.com/model/mia-presley; g:f
 released: 2012-04-11
 director: Zalman King
 rating: 8.7
@@ -6132,7 +6132,7 @@ title: I'm A Redhead And A Sexy Bitch
 type: movie
 site: sa
 url: https://www.sexart.com/model/mae-victoria/movie/20120411/I_M_A_REDHEAD_AND_A_SEXY_BITCH
-cast: Mae Victoria; https://www.sexart.com/model/mae-victoria; g:f
+model: n:Mae Victoria; id:/model/sexart/mae-victoria; u:https://www.sexart.com/model/mae-victoria; g:f
 released: 2012-04-11
 director: Zalman King
 rating: 8.9
@@ -6149,7 +6149,7 @@ title: I'm Anal Crazy
 type: movie
 site: sa
 url: https://www.sexart.com/model/kasey-bunnell/movie/20120411/I_M_ANAL_CRAZY
-cast: Kasey Bunnell; https://www.sexart.com/model/kasey-bunnell; g:f
+model: n:Kasey Bunnell; id:/model/sexart/kasey-bunnell; u:https://www.sexart.com/model/kasey-bunnell; g:f
 released: 2012-04-11
 director: Zalman King
 rating: 8.9
@@ -6166,7 +6166,7 @@ title: My Fantasies Don't Stay Fantasies For Long
 type: movie
 site: sa
 url: https://www.sexart.com/model/taylor-mae/movie/20120411/MY_FANTASIES_DON_T_STAY_FANTASIES_FOR_LONG
-cast: Taylor Mae; https://www.sexart.com/model/taylor-mae; g:f
+model: n:Taylor Mae; id:/model/sexart/taylor-mae; u:https://www.sexart.com/model/taylor-mae; g:f
 released: 2012-04-11
 director: Zalman King
 rating: 9.0
@@ -6183,7 +6183,7 @@ title: My Toy Is My Best Friend
 type: movie
 site: sa
 url: https://www.sexart.com/model/emma-cummings/movie/20120411/MY_TOY_IS_MY_BEST_FRIEND
-cast: Emma Cummings; https://www.sexart.com/model/emma-cummings; g:f
+model: n:Emma Cummings; id:/model/sexart/emma-cummings; u:https://www.sexart.com/model/emma-cummings; g:f
 released: 2012-04-11
 director: Zalman King
 rating: 8.7
@@ -6200,7 +6200,7 @@ title: My Boyfriend Introduced Me To My Girlfriend
 type: movie
 site: sa
 url: https://www.sexart.com/model/charley-chase/movie/20120411/MY_BOYFRIEND_INTRODUCED_ME_TO_MY_GIRLFRIEND
-cast: Charley Chase; https://www.sexart.com/model/charley-chase; g:f
+model: n:Charley Chase; id:/model/sexart/charley-chase; u:https://www.sexart.com/model/charley-chase; g:f
 released: 2012-04-11
 director: Bo Llanberris
 rating: 8.9
@@ -6217,7 +6217,7 @@ title: Sushi And Sex
 type: movie
 site: sa
 url: https://www.sexart.com/model/chloe-chanel/movie/20120411/SUSHI_AND_SEX
-cast: Chloe Chanel; https://www.sexart.com/model/chloe-chanel; g:f
+model: n:Chloe Chanel; id:/model/sexart/chloe-chanel; u:https://www.sexart.com/model/chloe-chanel; g:f
 released: 2012-04-11
 director: Zalman King
 rating: 8.7
@@ -6234,7 +6234,7 @@ title: Anything Goes
 type: movie
 site: sa
 url: https://www.sexart.com/model/courtney-james/movie/20120411/ANYTHING_GOES
-cast: Courtney James; https://www.sexart.com/model/courtney-james; g:f
+model: n:Courtney James; id:/model/sexart/courtney-james; u:https://www.sexart.com/model/courtney-james; g:f
 released: 2012-04-11
 director: Zalman King
 rating: 9.0
@@ -6251,7 +6251,7 @@ title: Tie Me Up
 type: movie
 site: sa
 url: https://www.sexart.com/model/samantha-sin/movie/20120411/TIE_ME_UP
-cast: Samantha Sin; https://www.sexart.com/model/samantha-sin; g:f
+model: n:Samantha Sin; id:/model/sexart/samantha-sin; u:https://www.sexart.com/model/samantha-sin; g:f
 released: 2012-04-11
 director: Zalman King
 rating: 8.9
@@ -6268,7 +6268,7 @@ title: I Don't Want To Come Just Once
 type: movie
 site: sa
 url: https://www.sexart.com/model/alexis-texas/movie/20120411/I_DON_T_WANT_TO_COME_JUST_ONCE
-cast: Alexis Texas; https://www.sexart.com/model/alexis-texas; g:f
+model: n:Alexis Texas; id:/model/sexart/alexis-texas; u:https://www.sexart.com/model/alexis-texas; g:f
 released: 2012-04-11
 director: Zalman King
 rating: 8.8
@@ -6285,7 +6285,7 @@ title: I Like Guys, But I Love Girls
 type: movie
 site: sa
 url: https://www.sexart.com/model/alexandra/movie/20120411/I_LIKE_GUYS,_BUT_I_LOVE_GIRLS
-cast: Alexandra; https://www.sexart.com/model/alexandra; g:f
+model: n:Alexandra; id:/model/sexart/alexandra; u:https://www.sexart.com/model/alexandra; g:f
 released: 2012-04-11
 director: Zalman King
 rating: 8.4
@@ -6302,7 +6302,7 @@ title: I Love Redheads
 type: movie
 site: sa
 url: https://www.sexart.com/model/dani-daniels/movie/20120411/I_LOVE_REDHEADS
-cast: Dani Daniels; https://www.sexart.com/model/dani-daniels; g:f
+model: n:Dani Daniels; id:/model/sexart/dani-daniels; u:https://www.sexart.com/model/dani-daniels; g:f
 released: 2012-04-11
 director: Zalman King
 rating: 8.5
@@ -6319,7 +6319,7 @@ title: I Use Guys The Way That Guys Use Girls
 type: movie
 site: sa
 url: https://www.sexart.com/model/cassandra-cruz/movie/20120411/I_USE_GUYS_THE_WAY_THAT_GUYS_USE_GIRLS
-cast: Cassandra Cruz; https://www.sexart.com/model/cassandra-cruz; g:f
+model: n:Cassandra Cruz; id:/model/sexart/cassandra-cruz; u:https://www.sexart.com/model/cassandra-cruz; g:f
 released: 2012-04-11
 director: Zalman King
 rating: 8.6
@@ -6337,8 +6337,8 @@ title: First Sexual Experience
 type: movie
 site: sa
 url: https://www.sexart.com/model/zoe-r-and-tia-b/movie/20120411/FIRST_SEXUAL_EXPERIENCE
-cast: Zoe R; https://www.sexart.com/model/zoe-r; g:f
-cast: Tia B; https://www.sexart.com/model/tia-b; g:f
+model: n:Zoe R; id:/model/sexart/zoe-r; u:https://www.sexart.com/model/zoe-r; g:f
+model: n:Tia B; id:/model/sexart/tia-b; u:https://www.sexart.com/model/tia-b; g:f
 released: 2012-04-11
 director: Zalman King
 rating: 9.0
@@ -6355,7 +6355,7 @@ title: Tease Me To Please Me
 type: movie
 site: sa
 url: https://www.sexart.com/model/alyssa-more/movie/20120411/TEASE_ME_TO_PLEASE_ME
-cast: Alyssa More; https://www.sexart.com/model/alyssa-more; g:f
+model: n:Alyssa More; id:/model/sexart/alyssa-more; u:https://www.sexart.com/model/alyssa-more; g:f
 released: 2012-04-11
 director: Bo Llanberris
 rating: 8.9
@@ -6370,16 +6370,16 @@ tag: hispanic
 tag: united states
 ---
 title: Kamikaze Love #3 - I Wanna Be Mickey
-sortableTitle: kamikaze-love-03
+sortable: kamikaze-love-03
 type: movie
 site: sa
 url: https://www.sexart.com/model/christos-vasilopoulos-and-hayden-hawkens-and-daniel-sobieray-and-elle-alexandra-and-malena-morgan-and-kayla-jane/movie/20120331/KAMIKAZE_LOVE_-_I_WANNA_BE_MICKEY
-cast: Christos Vasilopoulos; https://www.sexart.com/model/christos-vasilopoulos; g:m
-cast: Hayden Hawkens; https://www.sexart.com/model/hayden-hawkens; g:f
-cast: Daniel Sobieray; https://www.sexart.com/model/daniel-sobieray; g:m
-cast: Elle Alexandra; https://www.sexart.com/model/elle-alexandra; g:f
-cast: Malena Morgan; https://www.sexart.com/model/malena-morgan; g:f
-cast: Kayla Jane; https://www.sexart.com/model/kayla-jane; g:f
+model: n:Christos Vasilopoulos; id:/model/sexart/christos-vasilopoulos; u:https://www.sexart.com/model/christos-vasilopoulos; g:m
+model: n:Hayden Hawkens; id:/model/sexart/hayden-hawkens; u:https://www.sexart.com/model/hayden-hawkens; g:f
+model: n:Daniel Sobieray; id:/model/sexart/daniel-sobieray; u:https://www.sexart.com/model/daniel-sobieray; g:m
+model: n:Elle Alexandra; id:/model/sexart/elle-alexandra; u:https://www.sexart.com/model/elle-alexandra; g:f
+model: n:Malena Morgan; id:/model/sexart/malena-morgan; u:https://www.sexart.com/model/malena-morgan; g:f
+model: n:Kayla Jane; id:/model/sexart/kayla-jane; u:https://www.sexart.com/model/kayla-jane; g:f
 released: 2012-03-31
 director: Zalman King
 rating: 9.1
@@ -6396,16 +6396,16 @@ tag: greece
 tag: united states
 ---
 title: Kamikaze Love #2 - Beautiful Body, Beautiful Smile
-sortableTitle: kamikaze-love-02
+sortable: kamikaze-love-02
 type: movie
 site: sa
 url: https://www.sexart.com/model/kayla-jane-and-hayden-hawkens-and-christos-vasilopoulos-and-malena-morgan-and-daniel-sobieray-and-elle-alexandra/movie/20120330/KAMIKAZE_LOVE_-_BEAUTIFUL_BODY,_BEAUTIFUL_SMILE
-cast: Kayla Jane; https://www.sexart.com/model/kayla-jane; g:f
-cast: Hayden Hawkens; https://www.sexart.com/model/hayden-hawkens; g:f
-cast: Christos Vasilopoulos; https://www.sexart.com/model/christos-vasilopoulos; g:m
-cast: Malena Morgan; https://www.sexart.com/model/malena-morgan; g:f
-cast: Daniel Sobieray; https://www.sexart.com/model/daniel-sobieray; g:m
-cast: Elle Alexandra; https://www.sexart.com/model/elle-alexandra; g:f
+model: n:Kayla Jane; id:/model/sexart/kayla-jane; u:https://www.sexart.com/model/kayla-jane; g:f
+model: n:Hayden Hawkens; id:/model/sexart/hayden-hawkens; u:https://www.sexart.com/model/hayden-hawkens; g:f
+model: n:Christos Vasilopoulos; id:/model/sexart/christos-vasilopoulos; u:https://www.sexart.com/model/christos-vasilopoulos; g:m
+model: n:Malena Morgan; id:/model/sexart/malena-morgan; u:https://www.sexart.com/model/malena-morgan; g:f
+model: n:Daniel Sobieray; id:/model/sexart/daniel-sobieray; u:https://www.sexart.com/model/daniel-sobieray; g:m
+model: n:Elle Alexandra; id:/model/sexart/elle-alexandra; u:https://www.sexart.com/model/elle-alexandra; g:f
 released: 2012-03-30
 director: Zalman King
 rating: 8.9
@@ -6423,16 +6423,16 @@ tag: greece
 tag: united states
 ---
 title: Kamikaze Love #1 - I'll Take Her
-sortableTitle: kamikaze-love-01
+sortable: kamikaze-love-01
 type: movie
 site: sa
 url: https://www.sexart.com/model/hayden-hawkens-and-elle-alexandra-and-malena-morgan-and-kayla-jane-and-christos-vasilopoulos-and-daniel-sobieray/movie/20120329/KAMIKAZE_LOVE_-_I_LL_TAKE_HER
-cast: Hayden Hawkens; https://www.sexart.com/model/hayden-hawkens; g:f
-cast: Elle Alexandra; https://www.sexart.com/model/elle-alexandra; g:f
-cast: Malena Morgan; https://www.sexart.com/model/malena-morgan; g:f
-cast: Kayla Jane; https://www.sexart.com/model/kayla-jane; g:f
-cast: Christos Vasilopoulos; https://www.sexart.com/model/christos-vasilopoulos; g:m
-cast: Daniel Sobieray; https://www.sexart.com/model/daniel-sobieray; g:m
+model: n:Hayden Hawkens; id:/model/sexart/hayden-hawkens; u:https://www.sexart.com/model/hayden-hawkens; g:f
+model: n:Elle Alexandra; id:/model/sexart/elle-alexandra; u:https://www.sexart.com/model/elle-alexandra; g:f
+model: n:Malena Morgan; id:/model/sexart/malena-morgan; u:https://www.sexart.com/model/malena-morgan; g:f
+model: n:Kayla Jane; id:/model/sexart/kayla-jane; u:https://www.sexart.com/model/kayla-jane; g:f
+model: n:Christos Vasilopoulos; id:/model/sexart/christos-vasilopoulos; u:https://www.sexart.com/model/christos-vasilopoulos; g:m
+model: n:Daniel Sobieray; id:/model/sexart/daniel-sobieray; u:https://www.sexart.com/model/daniel-sobieray; g:m
 released: 2012-03-29
 director: Bo Llanberris
 rating: 8.8

@@ -9,8 +9,8 @@ title: Confessions of a Make-up Artist #7
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/vera-a-and-zora-banx/movie/20051117/CONFESSIONS_OF_A_MAKE-UP_ARTIST_PART_7
-cast: Vera A; https://www.vivthomas.com/model/vera-a; f
-cast: Zora Banx; https://www.vivthomas.com/model/zora-banx; f
+model: n:Vera A; id:/model/vivthomas/vera-a; u:https://www.vivthomas.com/model/vera-a; g:f
+model: n:Zora Banx; id:/model/vivthomas/zora-banx; u:https://www.vivthomas.com/model/zora-banx; g:f
 released: 2005-11-17
 director:   Viv Thomas
 rating: 9.2
@@ -71,8 +71,8 @@ title: Confessions of a Make-up Artist #6
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/cayenne-a-and-vera-a/movie/20051116/CONFESSIONS_OF_A_MAKE-UP_ARTIST_PART_6
-cast: Cayenne A; https://www.vivthomas.com/model/cayenne-a; f
-cast: Vera A; https://www.vivthomas.com/model/vera-a; f
+model: n:Cayenne A; id:/model/vivthomas/cayenne-a; u:https://www.vivthomas.com/model/cayenne-a; g:f
+model: n:Vera A; id:/model/vivthomas/vera-a; u:https://www.vivthomas.com/model/vera-a; g:f
 released: 2005-11-16
 director:   Viv Thomas
 rating: 9.4
@@ -123,8 +123,8 @@ title: Confessions of a Make-up Artist #5
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/zora-banx-and-stella-stevens/movie/20051115/CONFESSIONS_OF_A_MAKE-UP_ARTIST_PART_5
-cast: Zora Banx; https://www.vivthomas.com/model/zora-banx; f
-cast: Stella Stevens; https://www.vivthomas.com/model/stella-stevens; f
+model: n:Zora Banx; id:/model/vivthomas/zora-banx; u:https://www.vivthomas.com/model/zora-banx; g:f
+model: n:Stella Stevens; id:/model/vivthomas/stella-stevens; u:https://www.vivthomas.com/model/stella-stevens; g:f
 released: 2005-11-15
 director:   Viv Thomas
 rating: 9.4
@@ -186,8 +186,8 @@ title: Confessions of a Make-up Artist #4
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/cayenne-a-and-jo/movie/20051114/CONFESSIONS_OF_A_MAKE-UP_ARTIST_PART_4
-cast: Cayenne A; https://www.vivthomas.com/model/cayenne-a; f
-cast: Jo; https://www.vivthomas.com/model/jo; f
+model: n:Cayenne A; id:/model/vivthomas/cayenne-a; u:https://www.vivthomas.com/model/cayenne-a; g:f
+model: n:Jo; id:/model/vivthomas/jo; u:https://www.vivthomas.com/model/jo; g:f
 released: 2005-11-14
 director:   Viv Thomas
 rating: 9.3
@@ -265,9 +265,9 @@ title: Confessions of a Make-up Artist #3
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/cayenne-a-and-zora-banx-and-stella-stevens/movie/20051113/CONFESSIONS_OF_A_MAKE-UP_ARTIST_PART_3
-cast: Cayenne A; https://www.vivthomas.com/model/cayenne-a; f
-cast: Zora Banx; https://www.vivthomas.com/model/zora-banx; f
-cast: Stella Stevens; https://www.vivthomas.com/model/stella-stevens; f
+model: n:Cayenne A; id:/model/vivthomas/cayenne-a; u:https://www.vivthomas.com/model/cayenne-a; g:f
+model: n:Zora Banx; id:/model/vivthomas/zora-banx; u:https://www.vivthomas.com/model/zora-banx; g:f
+model: n:Stella Stevens; id:/model/vivthomas/stella-stevens; u:https://www.vivthomas.com/model/stella-stevens; g:f
 released: 2005-11-13
 director:   Viv Thomas
 rating: 9.1
@@ -325,7 +325,7 @@ title: Confessions of a Make-up Artist #2
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/vera-a/movie/20051111/CONFESSIONS_OF_A_MAKE-UP_ARTIST_PART_2
-cast: Vera A; https://www.vivthomas.com/model/vera-a; f
+model: n:Vera A; id:/model/vivthomas/vera-a; u:https://www.vivthomas.com/model/vera-a; g:f
 released: 2005-11-11
 director:   Viv Thomas
 rating: 9.1
@@ -378,8 +378,8 @@ tag: vibrator
 title: Confessions of a Make-up Artist #1
 type: movie
 site: VivThomas
-cast: n:Jo; u:https://www.vivthomas.com/model/jo
-cast: n:Stella Stevens; u:https://www.vivthomas.com/model/stella-stevens
+model: n:Jo; id:/model/vivthomas/jo; u:https://www.vivthomas.com/model/jo
+model: n:Stella Stevens; id:/model/vivthomas/stella-stevens; u:https://www.vivthomas.com/model/stella-stevens
 released: 2004-06-01
 director: Viv Thomas
 fileprefix: VivThomas-20040601-confessions-of-a-make-up-artist-01-
@@ -434,8 +434,8 @@ title: Art of Kissing 2 #4
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/nancy-bell-and-henrietta-a/movie/20050721/ART_OF_KISSING_2_PART_4
-cast: Nancy Bell; https://www.vivthomas.com/model/nancy-bell; f
-cast: Henrietta A; https://www.vivthomas.com/model/henrietta-a; f
+model: n:Nancy Bell; id:/model/vivthomas/nancy-bell; u:https://www.vivthomas.com/model/nancy-bell; g:f
+model: n:Henrietta A; id:/model/vivthomas/henrietta-a; u:https://www.vivthomas.com/model/henrietta-a; g:f
 released: 2005-07-21
 director:   Viv Thomas
 rating: 9.3
@@ -481,8 +481,8 @@ title: Art of Kissing 2 #3
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/silvia-saint-and-evelyn-a/movie/20050721/ART_OF_KISSING_2_PART_3
-cast: Silvia Saint; https://www.vivthomas.com/model/silvia-saint; f
-cast: Evelyn A; https://www.vivthomas.com/model/evelyn-a; f
+model: n:Silvia Saint; id:/model/vivthomas/silvia-saint; u:https://www.vivthomas.com/model/silvia-saint; g:f
+model: n:Evelyn A; id:/model/vivthomas/evelyn-a; u:https://www.vivthomas.com/model/evelyn-a; g:f
 released: 2005-07-21
 director:   Viv Thomas
 rating: 9.3
@@ -526,8 +526,8 @@ title: Art of Kissing 2 #2
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/jo-and-penny-flame/movie/20050721/ART_OF_KISSING_2_PART_2
-cast: Jo; https://www.vivthomas.com/model/jo; f
-cast: Penny Flame; https://www.vivthomas.com/model/penny-flame; f
+model: n:Jo; id:/model/vivthomas/jo; u:https://www.vivthomas.com/model/jo; g:f
+model: n:Penny Flame; id:/model/vivthomas/penny-flame; u:https://www.vivthomas.com/model/penny-flame; g:f
 released: 2005-07-21
 director:   Viv Thomas
 rating: 9.4
@@ -579,8 +579,8 @@ title: Art of Kissing 2 #1
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/eve-angel-and-lisa-c/movie/20050721/ART_OF_KISSING_2_PART_1
-cast: Eve Angel; https://www.vivthomas.com/model/eve-angel; f
-cast: Lisa C; https://www.vivthomas.com/model/lisa-c; f
+model: n:Eve Angel; id:/model/vivthomas/eve-angel; u:https://www.vivthomas.com/model/eve-angel; g:f
+model: n:Lisa C; id:/model/vivthomas/lisa-c; u:https://www.vivthomas.com/model/lisa-c; g:f
 released: 2005-07-21
 director:   Viv Thomas
 rating: 9.3
@@ -638,8 +638,8 @@ title: Art of Kissing 2 #5
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/silvia-saint-and-kylie-a/movie/20050721/ART_OF_KISSING_2_PART_5
-cast: Silvia Saint; https://www.vivthomas.com/model/silvia-saint; f
-cast: Kylie A; https://www.vivthomas.com/model/kylie-a; f
+model: n:Silvia Saint; id:/model/vivthomas/silvia-saint; u:https://www.vivthomas.com/model/silvia-saint; g:f
+model: n:Kylie A; id:/model/vivthomas/kylie-a; u:https://www.vivthomas.com/model/kylie-a; g:f
 released: 2005-07-21
 director:   Viv Thomas
 rating: 9.1
@@ -682,9 +682,9 @@ title: Butterfly #3
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/bridgett-a-and-liz-honey-and-sandra-shine/movie/20050620/BUTTERFLY_PART_3
-cast: Bridgett A; https://www.vivthomas.com/model/bridgett-a; f
-cast: Liz Honey; https://www.vivthomas.com/model/liz-honey; f
-cast: Sandra Shine; https://www.vivthomas.com/model/sandra-shine; f
+model: n:Bridgett A; id:/model/vivthomas/bridgett-a; u:https://www.vivthomas.com/model/bridgett-a; g:f
+model: n:Liz Honey; id:/model/vivthomas/liz-honey; u:https://www.vivthomas.com/model/liz-honey; g:f
+model: n:Sandra Shine; id:/model/vivthomas/sandra-shine; u:https://www.vivthomas.com/model/sandra-shine; g:f
 released: 2005-06-20
 director:   Viv Thomas
 rating: 9.4
@@ -744,9 +744,9 @@ title: Butterfly #5
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/britney-a-and-sandra-shine-and-lola-d/movie/20050620/BUTTERFLY_PART_5
-cast: Britney A; https://www.vivthomas.com/model/britney-a; f
-cast: Sandra Shine; https://www.vivthomas.com/model/sandra-shine; f
-cast: Lola D; https://www.vivthomas.com/model/lola-d; f
+model: n:Britney A; id:/model/vivthomas/britney-a; u:https://www.vivthomas.com/model/britney-a; g:f
+model: n:Sandra Shine; id:/model/vivthomas/sandra-shine; u:https://www.vivthomas.com/model/sandra-shine; g:f
+model: n:Lola D; id:/model/vivthomas/lola-d; u:https://www.vivthomas.com/model/lola-d; g:f
 released: 2005-06-20
 director:   Viv Thomas
 rating: 9.5
@@ -812,11 +812,11 @@ title: Butterfly #2
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/stella-stevens-and-sandra-shine-and-liz-honey-and-sophie-moon-and-bridgett-a/movie/20050620/BUTTERFLY_PART_2
-cast: Stella Stevens; https://www.vivthomas.com/model/stella-stevens; f
-cast: Sandra Shine; https://www.vivthomas.com/model/sandra-shine; f
-cast: Liz Honey; https://www.vivthomas.com/model/liz-honey; f
-cast: Sophie Moon; https://www.vivthomas.com/model/sophie-moon; f
-cast: Bridgett A; https://www.vivthomas.com/model/bridgett-a; f
+model: n:Stella Stevens; id:/model/vivthomas/stella-stevens; u:https://www.vivthomas.com/model/stella-stevens; g:f
+model: n:Sandra Shine; id:/model/vivthomas/sandra-shine; u:https://www.vivthomas.com/model/sandra-shine; g:f
+model: n:Liz Honey; id:/model/vivthomas/liz-honey; u:https://www.vivthomas.com/model/liz-honey; g:f
+model: n:Sophie Moon; id:/model/vivthomas/sophie-moon; u:https://www.vivthomas.com/model/sophie-moon; g:f
+model: n:Bridgett A; id:/model/vivthomas/bridgett-a; u:https://www.vivthomas.com/model/bridgett-a; g:f
 released: 2005-06-20
 director:   Viv Thomas
 rating: 9.4
@@ -881,8 +881,8 @@ title: Butterfly #4
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/sandra-shine-and-sophie-moon/movie/20050620/BUTTERFLY_PART_4
-cast: Sandra Shine; https://www.vivthomas.com/model/sandra-shine; f
-cast: Sophie Moon; https://www.vivthomas.com/model/sophie-moon; f
+model: n:Sandra Shine; id:/model/vivthomas/sandra-shine; u:https://www.vivthomas.com/model/sandra-shine; g:f
+model: n:Sophie Moon; id:/model/vivthomas/sophie-moon; u:https://www.vivthomas.com/model/sophie-moon; g:f
 released: 2005-06-20
 director:   Viv Thomas
 rating: 9.4
@@ -941,8 +941,8 @@ title: Butterfly #6
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/sandra-shine-and-may-a/movie/20050620/BUTTERFLY_PART_6
-cast: Sandra Shine; https://www.vivthomas.com/model/sandra-shine; f
-cast: May A; https://www.vivthomas.com/model/may-a; f
+model: n:Sandra Shine; id:/model/vivthomas/sandra-shine; u:https://www.vivthomas.com/model/sandra-shine; g:f
+model: n:May A; id:/model/vivthomas/may-a; u:https://www.vivthomas.com/model/may-a; g:f
 released: 2005-06-20
 director:   Viv Thomas
 rating: 9.3
@@ -1007,8 +1007,8 @@ title: Butterfly #7
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/sandra-shine-and-stella-stevens/movie/20050620/BUTTERFLY_PART_7
-cast: Sandra Shine; https://www.vivthomas.com/model/sandra-shine; f
-cast: Stella Stevens; https://www.vivthomas.com/model/stella-stevens; f
+model: n:Sandra Shine; id:/model/vivthomas/sandra-shine; u:https://www.vivthomas.com/model/sandra-shine; g:f
+model: n:Stella Stevens; id:/model/vivthomas/stella-stevens; u:https://www.vivthomas.com/model/stella-stevens; g:f
 released: 2005-06-20
 director:   Viv Thomas
 rating: 9.5
@@ -1074,9 +1074,9 @@ title: Butterfly #1
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/sandra-shine-and-stella-stevens-and-bridgett-a/movie/20050620/BUTTERFLY_PART_1
-cast: Sandra Shine; https://www.vivthomas.com/model/sandra-shine; f
-cast: Stella Stevens; https://www.vivthomas.com/model/stella-stevens; f
-cast: Bridgett A; https://www.vivthomas.com/model/bridgett-a; f
+model: n:Sandra Shine; id:/model/vivthomas/sandra-shine; u:https://www.vivthomas.com/model/sandra-shine; g:f
+model: n:Stella Stevens; id:/model/vivthomas/stella-stevens; u:https://www.vivthomas.com/model/stella-stevens; g:f
+model: n:Bridgett A; id:/model/vivthomas/bridgett-a; u:https://www.vivthomas.com/model/bridgett-a; g:f
 released: 2005-06-20
 director:   Viv Thomas
 rating: 9.4

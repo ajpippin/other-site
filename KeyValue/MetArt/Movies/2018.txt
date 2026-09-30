@@ -8,7 +8,7 @@
 title: Resting After Work
 type: movie
 site: MetArt
-cast: n:Kery; u:https://www.sexart.com/model/kery; s:SexArt; g:f
+model: n:Kery; id:/model/sexart/kery; u:https://www.sexart.com/model/kery; g:f
 released: 2018-12-30
 director: Alex Lynn
 fileprefix: MetArt-20181230-resting-after-work-
@@ -23,7 +23,7 @@ description: xxx
 title: My Angel
 type: movie
 site: MetArt
-cast: n:Nikky B; u:https://www.metart.com/model/nikky-b; g:f
+model: n:Nikky B; id:/model/metart/nikky-b; u:https://www.metart.com/model/nikky-b; g:f
 released: 2018-12-25
 director: Slava Vals
 fileprefix: MetArt-20181225-my-angel-
@@ -38,7 +38,7 @@ description: xxx
 title: Outdoor Shower
 type: movie
 site: MetArt
-cast: n:Crystal Wings; u:https://www.metart.com/model/crystal-wings; g:f
+model: n:Crystal Wings; id:/model/metart/crystal-wings; u:https://www.metart.com/model/crystal-wings; g:f
 released: 2018-12-23
 director: Charles Lightfoot
 fileprefix: MetArt-20181223-outdoor-shower-
@@ -53,7 +53,7 @@ description: xxx
 title: I want to be a MetArt Model
 type: movie
 site: MetArt
-cast: n:Satin Stone; u:https://www.sexart.com/model/satin-stone; s:SexArt; g:f
+model: n:Satin Stone; id:/model/sexart/satin-stone; u:https://www.sexart.com/model/satin-stone; g:f
 released: 2018-12-18
 director: Alex Lynn
 fileprefix: MetArt-20181218-i-want-to-be-a-metart-model-
@@ -68,7 +68,7 @@ description: xxx
 title: Ride With Me
 type: movie
 site: MetArt
-cast: n:Eva Jude; u:https://www.metart.com/model/eva-jude; g:f
+model: n:Eva Jude; id:/model/metart/eva-jude; u:https://www.metart.com/model/eva-jude; g:f
 released: 2018-12-16
 director: Fabrice
 fileprefix: MetArt-20181216-ride-with-me-
@@ -83,7 +83,7 @@ description: xxx
 title: Happy Weekend
 type: movie
 site: MetArt
-cast: n:Sybil A; u:https://www.sexart.com/model/sybil-a; s:SexArt; g:f
+model: n:Sybil A; id:/model/sexart/sybil-a; u:https://www.sexart.com/model/sybil-a; g:f
 released: 2018-12-11
 director: Red Fox
 fileprefix: MetArt-20181211-happy-weekend-
@@ -98,7 +98,7 @@ description: xxx
 title: Sweet Candy
 type: movie
 site: MetArt
-cast: n:Mila Azul; u:https://www.sexart.com/model/mila-azul; g:f; s:SexArt; g:f
+model: n:Mila Azul; id:/model/sexart/mila-azul; u:https://www.sexart.com/model/mila-azul; g:f
 released: 2018-12-09
 director: Alex Lynn
 fileprefix: MetArt-20181209-sweet-candy-
@@ -113,7 +113,7 @@ description: xxx
 title: Enchantress
 type: movie
 site: MetArt
-cast: n:Sapphira A; u:https://www.sexart.com/model/sapphira-a; s:SexArt; g:f
+model: n:Sapphira A; id:/model/sexart/sapphira-a; u:https://www.sexart.com/model/sapphira-a; g:f
 released: 2018-12-04
 director: Luca Helios
 fileprefix: MetArt-20181204-enchantress-
@@ -128,7 +128,7 @@ description: xxx
 title: Thrill Of Anticipation
 type: movie
 site: MetArt
-cast: n:Sie; u:https://www.metart.com/model/sie; g:f
+model: n:Sie; id:/model/metart/sie; u:https://www.metart.com/model/sie; g:f
 released: 2018-12-02
 director: Red Fox
 fileprefix: MetArt-20181202-thrill-of-anticipation-
@@ -143,7 +143,7 @@ description: xxx
 title: Look At Me
 type: movie
 site: MetArt
-cast: n:Hayli Sers; u:https://www.metart.com/model/hayli-sers; g:f
+model: n:Hayli Sers; id:/model/metart/hayli-sers; u:https://www.metart.com/model/hayli-sers; g:f
 released: 2018-11-27
 director: Martin X
 fileprefix: MetArt-20181127-look-at-me-
@@ -158,7 +158,7 @@ description: xxx
 title: Grapes
 type: movie
 site: MetArt
-cast: n:Katana; u:https://www.metart.com/model/katana; g:f
+model: n:Katana; id:/model/metart/katana; u:https://www.metart.com/model/katana; g:f
 released: 2018-11-25
 director: Sandra Shine
 fileprefix: MetArt-20181125-grapes-
@@ -173,7 +173,7 @@ description: xxx
 title: I Am Candy
 type: movie
 site: MetArt
-cast: n:Jia Lissa; u:https://www.sexart.com/model/jia-lissa; g:f; s:SexArt; g:f
+model: n:Jia Lissa; id:/model/sexart/jia-lissa; u:https://www.sexart.com/model/jia-lissa; g:f
 released: 2018-11-20
 director: Alex Lynn
 fileprefix: MetArt-20181120-i-am-candy-
@@ -188,7 +188,7 @@ description: xxx
 title: Sexy Shower
 type: movie
 site: MetArt
-cast: n:Marisela; u:https://www.metart.com/model/marisela; g:f
+model: n:Marisela; id:/model/metart/marisela; u:https://www.metart.com/model/marisela; g:f
 released: 2018-11-18
 director: Alis Locanta
 fileprefix: MetArt-20181118-sexy-shower-
@@ -203,7 +203,7 @@ description: xxx
 title: Hot And Ice
 type: movie
 site: MetArt
-cast: n:Nancy A; u:https://www.sexart.com/model/nancy-a; g:f; s:SexArt; g:f
+model: n:Nancy A; id:/model/sexart/nancy-a; u:https://www.sexart.com/model/nancy-a; g:f
 released: 2018-11-13
 director: Alex Lynn
 fileprefix: MetArt-20181113-hot-and-ice-
@@ -218,7 +218,7 @@ description: xxx
 title: Mirame
 type: movie
 site: MetArt
-cast: n:Laina; u:https://www.sexart.com/model/laina; s:SexArt; g:f
+model: n:Laina; id:/model/sexart/laina; u:https://www.sexart.com/model/laina; g:f
 released: 2018-11-11
 director: Koenart
 fileprefix: MetArt-20181111-mirame-
@@ -233,7 +233,7 @@ description: xxx
 title: Moving Curves
 type: movie
 site: MetArt
-cast: n:Divine; u:https://www.metart.com/model/divine; g:f
+model: n:Divine; id:/model/metart/divine; u:https://www.metart.com/model/divine; g:f
 released: 2018-11-06
 director: Slastyonoff
 fileprefix: MetArt-20181106-moving-curves-
@@ -248,7 +248,7 @@ description: xxx
 title: Thirsty For More
 type: movie
 site: MetArt
-cast: n:Janah; u:https://www.metart.com/model/janah; g:f
+model: n:Janah; id:/model/metart/janah; u:https://www.metart.com/model/janah; g:f
 released: 2018-11-04
 director: Red Fox
 fileprefix: MetArt-20181104-thirsty-for-more-
@@ -263,7 +263,7 @@ description: xxx
 title: Romantic Mood
 type: movie
 site: MetArt
-cast: n:Sybil A; u:https://www.sexart.com/model/sybil-a; s:SexArt; g:f
+model: n:Sybil A; id:/model/sexart/sybil-a; u:https://www.sexart.com/model/sybil-a; g:f
 released: 2018-10-30
 director: Red Fox
 fileprefix: MetArt-20181030-romantic-mood-
@@ -278,7 +278,7 @@ description: xxx
 title: Selfie
 type: movie
 site: MetArt
-cast: n:Lola Chic; u:https://www.sexart.com/model/lola-chic; s:SexArt; g:f
+model: n:Lola Chic; id:/model/sexart/lola-chic; u:https://www.sexart.com/model/lola-chic; g:f
 released: 2018-10-28
 director: Slava Vals
 fileprefix: MetArt-20181028-selfie-
@@ -293,7 +293,7 @@ description: xxx
 title: Forest Nymph
 type: movie
 site: MetArt
-cast: n:Jillean; u:https://www.sexart.com/model/jillean; s:SexArt; g:f
+model: n:Jillean; id:/model/sexart/jillean; u:https://www.sexart.com/model/jillean; g:f
 released: 2018-10-23
 director: Nick Twin
 fileprefix: MetArt-20181023-forest-nymph-
@@ -308,7 +308,7 @@ description: xxx
 title: The Writer
 type: movie
 site: MetArt
-cast: n:Marisela; u:https://www.metart.com/model/marisela; g:f
+model: n:Marisela; id:/model/metart/marisela; u:https://www.metart.com/model/marisela; g:f
 released: 2018-10-21
 director: Alis Locanta
 fileprefix: MetArt-20181021-the-writer-
@@ -323,7 +323,7 @@ description: xxx
 title: Light Morning
 type: movie
 site: MetArt
-cast: n:Kaleesy; u:https://www.metart.com/model/kaleesy; g:f
+model: n:Kaleesy; id:/model/metart/kaleesy; u:https://www.metart.com/model/kaleesy; g:f
 released: 2018-10-16
 director: Fabrice
 fileprefix: MetArt-20181016-light-morning-
@@ -338,7 +338,7 @@ description: xxx
 title: Mirage
 type: movie
 site: MetArt
-cast: n:Ulya I; u:https://www.metart.com/model/ulya-i; g:f
+model: n:Ulya I; id:/model/metart/ulya-i; u:https://www.metart.com/model/ulya-i; g:f
 released: 2018-10-14
 director: Platon Averin
 fileprefix: MetArt-20181014-mirage-
@@ -353,7 +353,7 @@ description: xxx
 title: Erotic Athlete
 type: movie
 site: MetArt
-cast: n:Jenya A; u:https://www.metart.com/model/jenya-a; g:f
+model: n:Jenya A; id:/model/metart/jenya-a; u:https://www.metart.com/model/jenya-a; g:f
 released: 2018-10-09
 director: Red Fox
 fileprefix: MetArt-20181009-erotic-athlete-
@@ -368,7 +368,7 @@ description: xxx
 title: Dive In Her Eyes
 type: movie
 site: MetArt
-cast: n:Sabrisse A; u:https://www.sexart.com/model/sabrisse-a; s:SexArt; g:f
+model: n:Sabrisse A; id:/model/sexart/sabrisse-a; u:https://www.sexart.com/model/sabrisse-a; g:f
 released: 2018-10-07
 director: J. Zakari
 fileprefix: MetArt-20181007-dive-in-her-eyes-
@@ -383,7 +383,7 @@ description: xxx
 title: Farm
 type: movie
 site: MetArt
-cast: n:Zazie; u:https://www.metart.com/model/zazie; g:f
+model: n:Zazie; id:/model/metart/zazie; u:https://www.metart.com/model/zazie; g:f
 released: 2018-10-02
 director: Sandra Shine
 fileprefix: MetArt-20181002-farm-
@@ -398,7 +398,7 @@ description: xxx
 title: Girl & Pear
 type: movie
 site: MetArt
-cast: n:Satin Stone; u:https://www.sexart.com/model/satin-stone; s:SexArt; g:f
+model: n:Satin Stone; id:/model/sexart/satin-stone; u:https://www.sexart.com/model/satin-stone; g:f
 released: 2018-09-30
 director: Alex Lynn
 fileprefix: MetArt-20180930-girl---pear-
@@ -413,7 +413,7 @@ description: xxx
 title: My Fragrance
 type: movie
 site: MetArt
-cast: n:Michelle H; u:https://www.sexart.com/model/michelle-h; s:SexArt; g:f
+model: n:Michelle H; id:/model/sexart/michelle-h; u:https://www.sexart.com/model/michelle-h; g:f
 released: 2018-09-25
 director: Luca Helios
 fileprefix: MetArt-20180925-my-fragrance-
@@ -428,7 +428,7 @@ description: xxx
 title: Milky Beauty
 type: movie
 site: MetArt
-cast: n:Jia Lissa; u:https://www.sexart.com/model/jia-lissa; g:f; s:SexArt; g:f
+model: n:Jia Lissa; id:/model/sexart/jia-lissa; u:https://www.sexart.com/model/jia-lissa; g:f
 released: 2018-09-23
 director: J. Zakari
 fileprefix: MetArt-20180923-milky-beauty-
@@ -443,7 +443,7 @@ description: xxx
 title: I'm Eating You're Watching
 type: movie
 site: MetArt
-cast: n:Kay J; u:https://www.sexart.com/model/kay-j; g:f; s:SexArt; g:f
+model: n:Kay J; id:/model/sexart/kay-j; u:https://www.sexart.com/model/kay-j; g:f
 released: 2018-09-18
 director: Alex Lynn
 fileprefix: MetArt-20180918-i-m-eating-you-re-watching-
@@ -458,7 +458,7 @@ description: xxx
 title: Sweet Insinuation
 type: movie
 site: MetArt
-cast: n:Crystal Wings; u:https://www.metart.com/model/crystal-wings; g:f
+model: n:Crystal Wings; id:/model/metart/crystal-wings; u:https://www.metart.com/model/crystal-wings; g:f
 released: 2018-09-16
 director: Charles Lightfoot
 fileprefix: MetArt-20180916-sweet-insinuation-
@@ -473,7 +473,7 @@ description: xxx
 title: Early Morning
 type: movie
 site: MetArt
-cast: n:Lucretia K; u:https://www.sexart.com/model/lucretia-k; g:f; s:SexArt; g:f
+model: n:Lucretia K; id:/model/sexart/lucretia-k; u:https://www.sexart.com/model/lucretia-k; g:f
 released: 2018-09-11
 director: Alex Lynn
 fileprefix: MetArt-20180911-early-morning-
@@ -488,7 +488,7 @@ description: xxx
 title: Morning Smile
 type: movie
 site: MetArt
-cast: n:Tracy Lindsay; u:https://www.sexart.com/model/tracy-lindsay; s:SexArt; g:f
+model: n:Tracy Lindsay; id:/model/sexart/tracy-lindsay; u:https://www.sexart.com/model/tracy-lindsay; g:f
 released: 2018-09-09
 director: J. Zakari
 fileprefix: MetArt-20180909-morning-smile-
@@ -503,7 +503,7 @@ description: xxx
 title: Panties Day
 type: movie
 site: MetArt
-cast: n:Cristin; u:https://www.metart.com/model/cristin; g:f
+model: n:Cristin; id:/model/metart/cristin; u:https://www.metart.com/model/cristin; g:f
 released: 2018-09-04
 director: Alex Lynn
 fileprefix: MetArt-20180904-panties-day-
@@ -518,7 +518,7 @@ description: xxx
 title: Feeling Cozy
 type: movie
 site: MetArt
-cast: n:Murina Fae; u:https://www.metart.com/model/murina-fae; g:f
+model: n:Murina Fae; id:/model/metart/murina-fae; u:https://www.metart.com/model/murina-fae; g:f
 released: 2018-09-02
 director: Cassandra Keyes
 fileprefix: MetArt-20180902-feeling-cozy-
@@ -533,7 +533,7 @@ description: xxx
 title: Private Gestures
 type: movie
 site: MetArt
-cast: n:Melena A; u:https://www.sexart.com/model/melena-a; s:SexArt; g:f
+model: n:Melena A; id:/model/sexart/melena-a; u:https://www.sexart.com/model/melena-a; g:f
 released: 2018-08-28
 director: Alex Sironi
 fileprefix: MetArt-20180828-private-gestures-
@@ -548,7 +548,7 @@ description: xxx
 title: Egg Cited
 type: movie
 site: MetArt
-cast: n:Linda Sweet; u:https://www.metart.com/model/linda-sweet; g:f
+model: n:Linda Sweet; id:/model/metart/linda-sweet; u:https://www.metart.com/model/linda-sweet; g:f
 released: 2018-08-26
 director: John Chalk
 fileprefix: MetArt-20180826-egg-cited-
@@ -563,7 +563,7 @@ description: xxx
 title: My Retreat
 type: movie
 site: MetArt
-cast: n:Jennifer Love; u:https://www.metart.com/model/jennifer-love; g:f
+model: n:Jennifer Love; id:/model/metart/jennifer-love; u:https://www.metart.com/model/jennifer-love; g:f
 released: 2018-08-21
 director: Cassandra Keyes
 fileprefix: MetArt-20180821-my-retreat-
@@ -578,7 +578,7 @@ description: xxx
 title: Reflections
 type: movie
 site: MetArt
-cast: n:Antonia Sainz; u:https://www.metart.com/model/antonia-sainz; g:f
+model: n:Antonia Sainz; id:/model/metart/antonia-sainz; u:https://www.metart.com/model/antonia-sainz; g:f
 released: 2018-08-19
 director: John Chalk
 fileprefix: MetArt-20180819-reflections-
@@ -593,7 +593,7 @@ description: xxx
 title: Before I Go
 type: movie
 site: MetArt
-cast: n:Nasita; u:https://www.sexart.com/model/nasita; g:f; s:SexArt; g:f
+model: n:Nasita; id:/model/sexart/nasita; u:https://www.sexart.com/model/nasita; g:f
 released: 2018-08-14
 director: Alex Lynn
 fileprefix: MetArt-20180814-before-i-go-
@@ -608,7 +608,7 @@ description: xxx
 title: In My Bathroom
 type: movie
 site: MetArt
-cast: n:Sabrisse A; u:https://www.sexart.com/model/sabrisse-a; s:SexArt; g:f
+model: n:Sabrisse A; id:/model/sexart/sabrisse-a; u:https://www.sexart.com/model/sabrisse-a; g:f
 released: 2018-08-12
 director: J. Zakari
 fileprefix: MetArt-20180812-in-my-bathroom-
@@ -623,7 +623,7 @@ description: xxx
 title: Higher Feeling
 type: movie
 site: MetArt
-cast: n:Berenice; u:https://www.metart.com/model/berenice; g:f
+model: n:Berenice; id:/model/metart/berenice; u:https://www.metart.com/model/berenice; g:f
 released: 2018-08-07
 director: Luca Helios
 fileprefix: MetArt-20180807-higher-feeling-
@@ -638,7 +638,7 @@ description: xxx
 title: Reflection in the Mirror
 type: movie
 site: MetArt
-cast: n:Valeri An; u:https://www.metart.com/model/valeri-an; g:f
+model: n:Valeri An; id:/model/metart/valeri-an; u:https://www.metart.com/model/valeri-an; g:f
 released: 2018-08-05
 director: Slava Vals
 fileprefix: MetArt-20180805-reflection-in-the-mirror-
@@ -653,7 +653,7 @@ description: xxx
 title: Swing Time
 type: movie
 site: MetArt
-cast: n:Dakota Burd; u:https://www.metart.com/model/dakota-burd; g:f
+model: n:Dakota Burd; id:/model/metart/dakota-burd; u:https://www.metart.com/model/dakota-burd; g:f
 released: 2018-07-31
 director: Cassandra Keyes
 fileprefix: MetArt-20180731-swing-time-
@@ -668,7 +668,7 @@ description: xxx
 title: My Colors
 type: movie
 site: MetArt
-cast: n:Debora A; u:https://www.sexart.com/model/debora-a; s:SexArt; g:f
+model: n:Debora A; id:/model/sexart/debora-a; u:https://www.sexart.com/model/debora-a; g:f
 released: 2018-07-29
 director: Red Fox
 fileprefix: MetArt-20180729-my-colors-
@@ -683,7 +683,7 @@ description: xxx
 title: RedHead in Nature
 type: movie
 site: MetArt
-cast: n:Mia Sollis; u:https://www.sexart.com/model/mia-sollis; g:f; s:SexArt; g:f
+model: n:Mia Sollis; id:/model/sexart/mia-sollis; u:https://www.sexart.com/model/mia-sollis; g:f
 released: 2018-07-24
 director: Luca Helios
 fileprefix: MetArt-20180724-redhead-in-nature-
@@ -698,7 +698,7 @@ description: xxx
 title: Endless Escape
 type: movie
 site: MetArt
-cast: n:Jennifer Love; u:https://www.metart.com/model/jennifer-love; g:f
+model: n:Jennifer Love; id:/model/metart/jennifer-love; u:https://www.metart.com/model/jennifer-love; g:f
 released: 2018-07-22
 director: Cassandra Keyes
 fileprefix: MetArt-20180722-endless-escape-
@@ -713,7 +713,7 @@ description: xxx
 title: Wake Me Up
 type: movie
 site: MetArt
-cast: n:Mary Lin; u:https://www.sexart.com/model/mary-lin; s:SexArt; g:f
+model: n:Mary Lin; id:/model/sexart/mary-lin; u:https://www.sexart.com/model/mary-lin; g:f
 released: 2018-07-17
 director: Alex Lynn
 fileprefix: MetArt-20180717-wake-me-up-
@@ -728,7 +728,7 @@ description: xxx
 title: Stay Tuned
 type: movie
 site: MetArt
-cast: n:Jezabel Vessir; u:https://www.metart.com/model/jezabel-vessir; g:f
+model: n:Jezabel Vessir; id:/model/metart/jezabel-vessir; u:https://www.metart.com/model/jezabel-vessir; g:f
 released: 2018-07-15
 director: Charles Lightfoot
 fileprefix: MetArt-20180715-stay-tuned-
@@ -743,7 +743,7 @@ description: xxx
 title: Daybreak
 type: movie
 site: MetArt
-cast: n:Murina Fae; u:https://www.metart.com/model/murina-fae; g:f
+model: n:Murina Fae; id:/model/metart/murina-fae; u:https://www.metart.com/model/murina-fae; g:f
 released: 2018-07-10
 director: Cassandra Keyes
 fileprefix: MetArt-20180710-daybreak-
@@ -758,7 +758,7 @@ description: xxx
 title: Naughty Girl
 type: movie
 site: MetArt
-cast: n:Tanya Fay; u:https://www.metart.com/model/tanya-fay; g:f
+model: n:Tanya Fay; id:/model/metart/tanya-fay; u:https://www.metart.com/model/tanya-fay; g:f
 released: 2018-07-08
 director: Slava Vals
 fileprefix: MetArt-20180708-naughty-girl-
@@ -773,7 +773,7 @@ description: xxx
 title: Bird Watcher
 type: movie
 site: MetArt
-cast: n:Angel Constance; u:https://www.metart.com/model/angel-constance; g:f
+model: n:Angel Constance; id:/model/metart/angel-constance; u:https://www.metart.com/model/angel-constance; g:f
 released: 2018-07-03
 director: Cassandra Keyes
 fileprefix: MetArt-20180703-bird-watcher-
@@ -788,7 +788,7 @@ description: xxx
 title: Self Pleasure
 type: movie
 site: MetArt
-cast: n:Carolina Fina; u:https://www.metart.com/model/carolina-fina; g:f
+model: n:Carolina Fina; id:/model/metart/carolina-fina; u:https://www.metart.com/model/carolina-fina; g:f
 released: 2018-07-01
 director: Koenart
 fileprefix: MetArt-20180701-self-pleasure-
@@ -803,7 +803,7 @@ description: xxx
 title: Lady Writer
 type: movie
 site: MetArt
-cast: n:Alice May; u:https://www.sexart.com/model/alice-may; s:SexArt; g:f
+model: n:Alice May; id:/model/sexart/alice-may; u:https://www.sexart.com/model/alice-may; g:f
 released: 2018-06-26
 director: Rylsky
 fileprefix: MetArt-20180626-lady-writer-
@@ -818,7 +818,7 @@ description: xxx
 title: Dinner Tonight
 type: movie
 site: MetArt
-cast: n:Cristin; u:https://www.metart.com/model/cristin; g:f
+model: n:Cristin; id:/model/metart/cristin; u:https://www.metart.com/model/cristin; g:f
 released: 2018-06-24
 director: Alex Lynn
 fileprefix: MetArt-20180624-dinner-tonight-
@@ -833,7 +833,7 @@ description: xxx
 title: Casual Afternoon
 type: movie
 site: MetArt
-cast: n:Jennifer Love; u:https://www.metart.com/model/jennifer-love; g:f
+model: n:Jennifer Love; id:/model/metart/jennifer-love; u:https://www.metart.com/model/jennifer-love; g:f
 released: 2018-06-19
 director: Cassandra Keyes
 fileprefix: MetArt-20180619-casual-afternoon-
@@ -848,7 +848,7 @@ description: xxx
 title: Shooting
 type: movie
 site: MetArt
-cast: n:Caprice A; u:https://www.sexart.com/model/caprice-a; s:SexArt; g:f
+model: n:Caprice A; id:/model/sexart/caprice-a; u:https://www.sexart.com/model/caprice-a; g:f
 released: 2018-06-17
 director: Luca Helios
 fileprefix: MetArt-20180617-shooting-
@@ -863,7 +863,7 @@ description: xxx
 title: Seductive Look
 type: movie
 site: MetArt
-cast: n:Davon Kim; u:https://www.metart.com/model/davon-kim; g:f
+model: n:Davon Kim; id:/model/metart/davon-kim; u:https://www.metart.com/model/davon-kim; g:f
 released: 2018-06-12
 director: Charles Lightfoot
 fileprefix: MetArt-20180612-seductive-look-
@@ -878,7 +878,7 @@ description: xxx
 title: Final Details
 type: movie
 site: MetArt
-cast: n:Noel Monique; u:https://www.metart.com/model/noel-monique; g:f
+model: n:Noel Monique; id:/model/metart/noel-monique; u:https://www.metart.com/model/noel-monique; g:f
 released: 2018-06-10
 director: Charles Lightfoot
 fileprefix: MetArt-20180610-final-details-
@@ -893,7 +893,7 @@ description: xxx
 title: Dance With Vinyl
 type: movie
 site: MetArt
-cast: n:Lilian A; u:https://www.metart.com/model/lilian-a; g:f
+model: n:Lilian A; id:/model/metart/lilian-a; u:https://www.metart.com/model/lilian-a; g:f
 released: 2018-06-05
 director: Luca Helios
 fileprefix: MetArt-20180605-dance-with-vinyl-
@@ -908,7 +908,7 @@ description: xxx
 title: A Friend From England
 type: movie
 site: MetArt
-cast: n:Lilit A; u:https://www.sexart.com/model/lilit-a; s:SexArt; g:f
+model: n:Lilit A; id:/model/sexart/lilit-a; u:https://www.sexart.com/model/lilit-a; g:f
 released: 2018-06-03
 director: Alex Lynn
 fileprefix: MetArt-20180603-a-friend-from-england-
@@ -923,7 +923,7 @@ description: xxx
 title: Riding The Rails
 type: movie
 site: MetArt
-cast: n:Angel Constance; u:https://www.metart.com/model/angel-constance; g:f
+model: n:Angel Constance; id:/model/metart/angel-constance; u:https://www.metart.com/model/angel-constance; g:f
 released: 2018-05-29
 director: Cassandra Keyes
 fileprefix: MetArt-20180529-riding-the-rails-
@@ -938,7 +938,7 @@ description: xxx
 title: Nothing To Do
 type: movie
 site: MetArt
-cast: n:Mila Azul; u:https://www.sexart.com/model/mila-azul; g:f; s:SexArt; g:f
+model: n:Mila Azul; id:/model/sexart/mila-azul; u:https://www.sexart.com/model/mila-azul; g:f
 released: 2018-05-27
 director: Alex Lynn
 fileprefix: MetArt-20180527-nothing-to-do-
@@ -953,7 +953,7 @@ description: xxx
 title: Bending The Curve
 type: movie
 site: MetArt
-cast: n:Bethany Benz; u:https://www.metart.com/model/bethany-benz; g:f
+model: n:Bethany Benz; id:/model/metart/bethany-benz; u:https://www.metart.com/model/bethany-benz; g:f
 released: 2018-05-22
 director: Charles Lightfoot
 fileprefix: MetArt-20180522-bending-the-curve-
@@ -968,7 +968,7 @@ description: xxx
 title: Strawberry Season
 type: movie
 site: MetArt
-cast: n:Nancy A; u:https://www.sexart.com/model/nancy-a; g:f; s:SexArt; g:f
+model: n:Nancy A; id:/model/sexart/nancy-a; u:https://www.sexart.com/model/nancy-a; g:f
 released: 2018-05-20
 director: Alex Lynn
 fileprefix: MetArt-20180520-strawberry-season-
@@ -983,7 +983,7 @@ description: xxx
 title: Vintage Selfie
 type: movie
 site: MetArt
-cast: n:Analise; u:https://www.metart.com/model/analise; g:f
+model: n:Analise; id:/model/metart/analise; u:https://www.metart.com/model/analise; g:f
 released: 2018-05-15
 director: Alis Locanta
 fileprefix: MetArt-20180515-vintage-selfie-
@@ -998,7 +998,7 @@ description: xxx
 title: Awakening Episode 2
 type: movie
 site: MetArt
-cast: n:Gloria Sol; u:https://www.sexart.com/model/gloria-sol; s:SexArt; g:f
+model: n:Gloria Sol; id:/model/sexart/gloria-sol; u:https://www.sexart.com/model/gloria-sol; g:f
 released: 2018-05-13
 director: Alex Lynn
 fileprefix: MetArt-20180513-awakening-episode-2-
@@ -1013,7 +1013,7 @@ description: xxx
 title: Mirror's Delight
 type: movie
 site: MetArt
-cast: n:Olivia Preston; u:https://www.metart.com/model/olivia-preston; g:f
+model: n:Olivia Preston; id:/model/metart/olivia-preston; u:https://www.metart.com/model/olivia-preston; g:f
 released: 2018-05-08
 director: Cassandra Keyes
 fileprefix: MetArt-20180508-mirror-s-delight-
@@ -1028,7 +1028,7 @@ description: xxx
 title: Bubbles
 type: movie
 site: MetArt
-cast: n:Anie Darling; u:https://www.sexart.com/model/anie-darling; s:SexArt; g:f
+model: n:Anie Darling; id:/model/sexart/anie-darling; u:https://www.sexart.com/model/anie-darling; g:f
 released: 2018-05-06
 director: Luca Helios
 fileprefix: MetArt-20180506-bubbles-
@@ -1043,7 +1043,7 @@ description: xxx
 title: Sexual Healing
 type: movie
 site: MetArt
-cast: n:Mirabella; u:https://www.sexart.com/model/mirabella; g:f; s:SexArt; g:f
+model: n:Mirabella; id:/model/sexart/mirabella; u:https://www.sexart.com/model/mirabella; g:f
 released: 2018-05-01
 director: Alex Lynn
 fileprefix: MetArt-20180501-sexual-healing-
@@ -1058,7 +1058,7 @@ description: xxx
 title: Hot Steps
 type: movie
 site: MetArt
-cast: n:Murina Fae; u:https://www.metart.com/model/murina-fae; g:f
+model: n:Murina Fae; id:/model/metart/murina-fae; u:https://www.metart.com/model/murina-fae; g:f
 released: 2018-04-29
 director: Cassandra Keyes
 fileprefix: MetArt-20180429-hot-steps-
@@ -1073,7 +1073,7 @@ description: xxx
 title: Wednesday Beach
 type: movie
 site: MetArt
-cast: n:Sapphira A; u:https://www.sexart.com/model/sapphira-a; s:SexArt; g:f
+model: n:Sapphira A; id:/model/sexart/sapphira-a; u:https://www.sexart.com/model/sapphira-a; g:f
 released: 2018-04-24
 director: Alex Lynn
 fileprefix: MetArt-20180424-wednesday-beach-
@@ -1088,7 +1088,7 @@ description: xxx
 title: Secret Beach
 type: movie
 site: MetArt
-cast: n:Angel Constance; u:https://www.metart.com/model/angel-constance; g:f
+model: n:Angel Constance; id:/model/metart/angel-constance; u:https://www.metart.com/model/angel-constance; g:f
 released: 2018-04-22
 director: Cassandra Keyes
 fileprefix: MetArt-20180422-secret-beach-
@@ -1103,7 +1103,7 @@ description: xxx
 title: The Swimming Pool
 type: movie
 site: MetArt
-cast: n:Michelle H; u:https://www.sexart.com/model/michelle-h; s:SexArt; g:f
+model: n:Michelle H; id:/model/sexart/michelle-h; u:https://www.sexart.com/model/michelle-h; g:f
 released: 2018-04-17
 director: Luca Helios
 fileprefix: MetArt-20180417-the-swimming-pool-
@@ -1118,7 +1118,7 @@ description: xxx
 title: Taste Me Slowly
 type: movie
 site: MetArt
-cast: n:Noel Monique; u:https://www.metart.com/model/noel-monique; g:f
+model: n:Noel Monique; id:/model/metart/noel-monique; u:https://www.metart.com/model/noel-monique; g:f
 released: 2018-04-15
 director: Charles Lightfoot
 fileprefix: MetArt-20180415-taste-me-slowly-
@@ -1133,7 +1133,7 @@ description: xxx
 title: Audio Book (Fairy Tale)
 type: movie
 site: MetArt
-cast: n:Gloria Sol; u:https://www.sexart.com/model/gloria-sol; s:SexArt; g:f
+model: n:Gloria Sol; id:/model/sexart/gloria-sol; u:https://www.sexart.com/model/gloria-sol; g:f
 released: 2018-04-10
 director: Alex Lynn
 fileprefix: MetArt-20180410-audio-book--fairy-tale--
@@ -1148,7 +1148,7 @@ description: xxx
 title: Closer To Me
 type: movie
 site: MetArt
-cast: n:Olivia Preston; u:https://www.metart.com/model/olivia-preston; g:f
+model: n:Olivia Preston; id:/model/metart/olivia-preston; u:https://www.metart.com/model/olivia-preston; g:f
 released: 2018-04-08
 director: Cassandra Keyes
 fileprefix: MetArt-20180408-closer-to-me-
@@ -1163,7 +1163,7 @@ description: xxx
 title: Private Class
 type: movie
 site: MetArt
-cast: n:Analise; u:https://www.metart.com/model/analise; g:f
+model: n:Analise; id:/model/metart/analise; u:https://www.metart.com/model/analise; g:f
 released: 2018-04-03
 director: Alis Locanta
 fileprefix: MetArt-20180403-private-class-
@@ -1178,7 +1178,7 @@ description: xxx
 title: Away From You
 type: movie
 site: MetArt
-cast: n:Dakota Burd; u:https://www.metart.com/model/dakota-burd; g:f
+model: n:Dakota Burd; id:/model/metart/dakota-burd; u:https://www.metart.com/model/dakota-burd; g:f
 released: 2018-04-01
 director: Cassandra Keyes
 fileprefix: MetArt-20180401-away-from-you-
@@ -1193,7 +1193,7 @@ description: xxx
 title: Busy Morning
 type: movie
 site: MetArt
-cast: n:Amaris; u:https://www.sexart.com/model/amaris; s:SexArt; g:f
+model: n:Amaris; id:/model/sexart/amaris; u:https://www.sexart.com/model/amaris; g:f
 released: 2018-03-27
 director: Red Fox
 fileprefix: MetArt-20180327-busy-morning-
@@ -1208,7 +1208,7 @@ description: xxx
 title: Wide Blue
 type: movie
 site: MetArt
-cast: n:Jezabel Vessir; u:https://www.metart.com/model/jezabel-vessir; g:f
+model: n:Jezabel Vessir; id:/model/metart/jezabel-vessir; u:https://www.metart.com/model/jezabel-vessir; g:f
 released: 2018-03-25
 director: Charles Lightfoot
 fileprefix: MetArt-20180325-wide-blue-
@@ -1223,7 +1223,7 @@ description: xxx
 title: After Shopping
 type: movie
 site: MetArt
-cast: n:Sybil A; u:https://www.sexart.com/model/sybil-a; s:SexArt; g:f
+model: n:Sybil A; id:/model/sexart/sybil-a; u:https://www.sexart.com/model/sybil-a; g:f
 released: 2018-03-20
 director: Alex Lynn
 fileprefix: MetArt-20180320-after-shopping-
@@ -1238,7 +1238,7 @@ description: xxx
 title: The River's Girl
 type: movie
 site: MetArt
-cast: n:Vanesa; u:https://www.metart.com/model/vanesa; g:f
+model: n:Vanesa; id:/model/metart/vanesa; u:https://www.metart.com/model/vanesa; g:f
 released: 2018-03-18
 director: Luca Helios
 fileprefix: MetArt-20180318-the-river-s-girl-
@@ -1253,7 +1253,7 @@ description: xxx
 title: Hot Read
 type: movie
 site: MetArt
-cast: n:Olivia Preston; u:https://www.metart.com/model/olivia-preston; g:f
+model: n:Olivia Preston; id:/model/metart/olivia-preston; u:https://www.metart.com/model/olivia-preston; g:f
 released: 2018-03-13
 director: Cassandra Keyes
 fileprefix: MetArt-20180313-hot-read-
@@ -1268,7 +1268,7 @@ description: xxx
 title: Pink Dress
 type: movie
 site: MetArt
-cast: n:Kaleesy; u:https://www.metart.com/model/kaleesy; g:f
+model: n:Kaleesy; id:/model/metart/kaleesy; u:https://www.metart.com/model/kaleesy; g:f
 released: 2018-03-11
 director: Fabrice
 fileprefix: MetArt-20180311-pink-dress-
@@ -1283,7 +1283,7 @@ description: xxx
 title: Little Green Cucumber
 type: movie
 site: MetArt
-cast: n:Hilary C; u:https://www.metart.com/model/hilary-c; g:f
+model: n:Hilary C; id:/model/metart/hilary-c; u:https://www.metart.com/model/hilary-c; g:f
 released: 2018-03-06
 director: Alex Lynn
 fileprefix: MetArt-20180306-little-green-cucumber-
@@ -1298,7 +1298,7 @@ description: xxx
 title: The Window's Girl
 type: movie
 site: MetArt
-cast: n:Paula Shy; u:https://www.sexart.com/model/paula-shy; g:f; s:SexArt; g:f
+model: n:Paula Shy; id:/model/sexart/paula-shy; u:https://www.sexart.com/model/paula-shy; g:f
 released: 2018-03-04
 director: Luca Helios
 fileprefix: MetArt-20180304-the-window-s-girl-
@@ -1313,7 +1313,7 @@ description: xxx
 title: Pool Dancer
 type: movie
 site: MetArt
-cast: n:Analise; u:https://www.metart.com/model/analise; g:f
+model: n:Analise; id:/model/metart/analise; u:https://www.metart.com/model/analise; g:f
 released: 2018-02-27
 director: Alis Locanta
 fileprefix: MetArt-20180227-pool-dancer-
@@ -1328,7 +1328,7 @@ description: xxx
 title: Morning Light
 type: movie
 site: MetArt
-cast: n:Dgil; u:https://www.sexart.com/model/dgil; s:SexArt; g:f
+model: n:Dgil; id:/model/sexart/dgil; u:https://www.sexart.com/model/dgil; g:f
 released: 2018-02-25
 director: Alex Lynn
 fileprefix: MetArt-20180225-morning-light-
@@ -1343,7 +1343,7 @@ description: xxx
 title: In My Bedroom
 type: movie
 site: MetArt
-cast: n:Sultana; u:https://www.sexart.com/model/sultana; s:SexArt; g:f
+model: n:Sultana; id:/model/sexart/sultana; u:https://www.sexart.com/model/sultana; g:f
 released: 2018-02-20
 director: Alex Lynn
 fileprefix: MetArt-20180220-in-my-bedroom-
@@ -1358,7 +1358,7 @@ description: xxx
 title: Sensual Ponytail
 type: movie
 site: MetArt
-cast: n:Valeria A; u:https://www.sexart.com/model/valeria-a; s:SexArt; g:f
+model: n:Valeria A; id:/model/sexart/valeria-a; u:https://www.sexart.com/model/valeria-a; g:f
 released: 2018-02-18
 director: Luca Helios
 fileprefix: MetArt-20180218-sensual-ponytail-
@@ -1373,7 +1373,7 @@ description: xxx
 title: Warm Fantasy
 type: movie
 site: MetArt
-cast: n:Gracie; u:https://www.sexart.com/model/gracie; s:SexArt; g:f
+model: n:Gracie; id:/model/sexart/gracie; u:https://www.sexart.com/model/gracie; g:f
 released: 2018-02-13
 director: Carmen
 fileprefix: MetArt-20180213-warm-fantasy-
@@ -1388,7 +1388,7 @@ description: xxx
 title: Grape
 type: movie
 site: MetArt
-cast: n:Berenice; u:https://www.metart.com/model/berenice; g:f
+model: n:Berenice; id:/model/metart/berenice; u:https://www.metart.com/model/berenice; g:f
 released: 2018-02-11
 director: Rylsky
 fileprefix: MetArt-20180211-grape-
@@ -1403,7 +1403,7 @@ description: xxx
 title: Mirroring
 type: movie
 site: MetArt
-cast: n:Zelda B; u:https://www.metart.com/model/zelda-b; g:f
+model: n:Zelda B; id:/model/metart/zelda-b; u:https://www.metart.com/model/zelda-b; g:f
 released: 2018-02-06
 director: Luca Helios
 fileprefix: MetArt-20180206-mirroring-
@@ -1418,7 +1418,7 @@ description: xxx
 title: Lesson Hook
 type: movie
 site: MetArt
-cast: n:Madlen; u:https://www.metart.com/model/madlen; g:f
+model: n:Madlen; id:/model/metart/madlen; u:https://www.metart.com/model/madlen; g:f
 released: 2018-02-04
 director: Red Fox
 fileprefix: MetArt-20180204-lesson-hook-
@@ -1433,7 +1433,7 @@ description: xxx
 title: Mirror's Ritual
 type: movie
 site: MetArt
-cast: n:Dgil; u:https://www.sexart.com/model/dgil; s:SexArt; g:f
+model: n:Dgil; id:/model/sexart/dgil; u:https://www.sexart.com/model/dgil; g:f
 released: 2018-01-30
 director: Alex Lynn
 fileprefix: MetArt-20180130-mirror-s-ritual-
@@ -1448,7 +1448,7 @@ description: xxx
 title: Balloon Party
 type: movie
 site: MetArt
-cast: n:Cameran; u:https://www.metart.com/model/cameran; g:f
+model: n:Cameran; id:/model/metart/cameran; u:https://www.metart.com/model/cameran; g:f
 released: 2018-01-28
 director: Koenart
 fileprefix: MetArt-20180128-balloon-party-
@@ -1463,7 +1463,7 @@ description: xxx
 title: Sing A Song
 type: movie
 site: MetArt
-cast: n:Analise; u:https://www.metart.com/model/analise; g:f
+model: n:Analise; id:/model/metart/analise; u:https://www.metart.com/model/analise; g:f
 released: 2018-01-23
 director: Alis Locanta
 fileprefix: MetArt-20180123-sing-a-song-
@@ -1478,7 +1478,7 @@ description: xxx
 title: Swing
 type: movie
 site: MetArt
-cast: n:Viviann; u:https://www.sexart.com/model/viviann; g:f; s:SexArt; g:f
+model: n:Viviann; id:/model/sexart/viviann; u:https://www.sexart.com/model/viviann; g:f
 released: 2018-01-21
 director: Slava Vals
 fileprefix: MetArt-20180121-swing-
@@ -1493,7 +1493,7 @@ description: xxx
 title: Black Hat
 type: movie
 site: MetArt
-cast: n:Clarice; u:https://www.metart.com/model/clarice; g:f
+model: n:Clarice; id:/model/metart/clarice; u:https://www.metart.com/model/clarice; g:f
 released: 2018-01-16
 director: Nick Twin
 fileprefix: MetArt-20180116-black-hat-
@@ -1508,7 +1508,7 @@ description: xxx
 title: Barefoot on the Beach
 type: movie
 site: MetArt
-cast: n:Amarna Miller; u:https://www.sexart.com/model/amarna-miller; s:SexArt; g:f
+model: n:Amarna Miller; id:/model/sexart/amarna-miller; u:https://www.sexart.com/model/amarna-miller; g:f
 released: 2018-01-14
 director: Luca Helios
 fileprefix: MetArt-20180114-barefoot-on-the-beach-
@@ -1523,7 +1523,7 @@ description: xxx
 title: Nudeterraneo
 type: movie
 site: MetArt
-cast: n:Berenice; u:https://www.metart.com/model/berenice; g:f
+model: n:Berenice; id:/model/metart/berenice; u:https://www.metart.com/model/berenice; g:f
 released: 2018-01-09
 director: Rylsky
 fileprefix: MetArt-20180109-nudeterraneo-
@@ -1538,7 +1538,7 @@ description: xxx
 title: Urgent Call
 type: movie
 site: MetArt
-cast: n:Lorena B; u:https://www.sexart.com/model/lorena-b; s:SexArt; g:f
+model: n:Lorena B; id:/model/sexart/lorena-b; u:https://www.sexart.com/model/lorena-b; g:f
 released: 2018-01-07
 director: Luca Helios
 fileprefix: MetArt-20180107-urgent-call-
@@ -1553,7 +1553,7 @@ description: xxx
 title: Pleasure Ground
 type: movie
 site: MetArt
-cast: n:Cameran; u:https://www.metart.com/model/cameran; g:f
+model: n:Cameran; id:/model/metart/cameran; u:https://www.metart.com/model/cameran; g:f
 released: 2018-01-02
 director: Koenart
 fileprefix: MetArt-20180102-pleasure-ground-

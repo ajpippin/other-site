@@ -9,8 +9,8 @@ title: The Office Girls #5
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/lisa-c-and-kylie-a/movie/20081230/THE_OFFICE_GIRLS_PART_5
-cast: Lisa C; https://www.vivthomas.com/model/lisa-c; f
-cast: Kylie A; https://www.vivthomas.com/model/kylie-a; f
+model: n:Lisa C; id:/model/vivthomas/lisa-c; u:https://www.vivthomas.com/model/lisa-c; g:f
+model: n:Kylie A; id:/model/vivthomas/kylie-a; u:https://www.vivthomas.com/model/kylie-a; g:f
 released: 2008-12-30
 director:   Viv Thomas
 rating: 9.3
@@ -53,8 +53,8 @@ title: The Office Girls #2
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/vera-a-and-victoria-a/movie/20081230/THE_OFFICE_GIRLS_PART_2
-cast: Vera A; https://www.vivthomas.com/model/vera-a; f
-cast: Victoria A; https://www.vivthomas.com/model/victoria-a; f
+model: n:Vera A; id:/model/vivthomas/vera-a; u:https://www.vivthomas.com/model/vera-a; g:f
+model: n:Victoria A; id:/model/vivthomas/victoria-a; u:https://www.vivthomas.com/model/victoria-a; g:f
 released: 2008-12-30
 director:   Viv Thomas
 rating: 9.5
@@ -98,8 +98,8 @@ title: The Office Girls #4
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/vera-a-and-stella-stevens/movie/20081230/THE_OFFICE_GIRLS_PART_4
-cast: Vera A; https://www.vivthomas.com/model/vera-a; f
-cast: Stella Stevens; https://www.vivthomas.com/model/stella-stevens; f
+model: n:Vera A; id:/model/vivthomas/vera-a; u:https://www.vivthomas.com/model/vera-a; g:f
+model: n:Stella Stevens; id:/model/vivthomas/stella-stevens; u:https://www.vivthomas.com/model/stella-stevens; g:f
 released: 2008-12-30
 director:   Viv Thomas
 rating: 9.5
@@ -146,8 +146,8 @@ title: The Office Girls #3
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/tori-a-and-nella-a/movie/20081230/THE_OFFICE_GIRLS_PART_3
-cast: Tori A; https://www.vivthomas.com/model/tori-a; f
-cast: Nella A; https://www.vivthomas.com/model/nella-a; f
+model: n:Tori A; id:/model/vivthomas/tori-a; u:https://www.vivthomas.com/model/tori-a; g:f
+model: n:Nella A; id:/model/vivthomas/nella-a; u:https://www.vivthomas.com/model/nella-a; g:f
 released: 2008-12-30
 director:   Viv Thomas
 rating: 9.4
@@ -188,9 +188,9 @@ title: The Office Girls #1
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/vera-a-and-stella-stevens-and-lisa-c/movie/20081230/THE_OFFICE_GIRLS_PART_1
-cast: Vera A; https://www.vivthomas.com/model/vera-a; f
-cast: Stella Stevens; https://www.vivthomas.com/model/stella-stevens; f
-cast: Lisa C; https://www.vivthomas.com/model/lisa-c; f
+model: n:Vera A; id:/model/vivthomas/vera-a; u:https://www.vivthomas.com/model/vera-a; g:f
+model: n:Stella Stevens; id:/model/vivthomas/stella-stevens; u:https://www.vivthomas.com/model/stella-stevens; g:f
+model: n:Lisa C; id:/model/vivthomas/lisa-c; u:https://www.vivthomas.com/model/lisa-c; g:f
 released: 2008-12-30
 director:   Viv Thomas
 rating: 9.4
@@ -219,8 +219,8 @@ title: Summer Camp Secrets #1
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/lucky-a-and-suzie-carina/movie/20081103/SUMMER_CAMP_SECRETS_PART_1
-cast: Lucky A; https://www.vivthomas.com/model/lucky-a; f
-cast: Suzie Carina; https://www.vivthomas.com/model/suzie-carina; f
+model: n:Lucky A; id:/model/vivthomas/lucky-a; u:https://www.vivthomas.com/model/lucky-a; g:f
+model: n:Suzie Carina; id:/model/vivthomas/suzie-carina; u:https://www.vivthomas.com/model/suzie-carina; g:f
 released: 2008-11-03
 director:   Viv Thomas
 rating: 9.1
@@ -270,8 +270,8 @@ title: Summer Camp Secrets #7
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/ariel-a-and-bijou-a/movie/20081103/SUMMER_CAMP_SECRETS_PART_7
-cast: Ariel A; https://www.vivthomas.com/model/ariel-a; f
-cast: Bijou A; https://www.vivthomas.com/model/bijou-a; f
+model: n:Ariel A; id:/model/vivthomas/ariel-a; u:https://www.vivthomas.com/model/ariel-a; g:f
+model: n:Bijou A; id:/model/vivthomas/bijou-a; u:https://www.vivthomas.com/model/bijou-a; g:f
 released: 2008-11-03
 director:   Viv Thomas
 rating: 9.4
@@ -318,7 +318,7 @@ title: Summer Camp Secrets #3
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/bambi-b/movie/20081103/SUMMER_CAMP_SECRETS_PART_3
-cast: Bambi B; https://www.vivthomas.com/model/bambi-b; f
+model: n:Bambi B; id:/model/vivthomas/bambi-b; u:https://www.vivthomas.com/model/bambi-b; g:f
 released: 2008-11-03
 director:   Viv Thomas
 rating: 9.2
@@ -354,8 +354,8 @@ title: Summer Camp Secrets #4
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/zafira-a-and-bijou-a/movie/20081103/SUMMER_CAMP_SECRETS_PART_4
-cast: Zafira A; https://www.vivthomas.com/model/zafira-a; f
-cast: Bijou A; https://www.vivthomas.com/model/bijou-a; f
+model: n:Zafira A; id:/model/vivthomas/zafira-a; u:https://www.vivthomas.com/model/zafira-a; g:f
+model: n:Bijou A; id:/model/vivthomas/bijou-a; u:https://www.vivthomas.com/model/bijou-a; g:f
 released: 2008-11-03
 director:   Viv Thomas
 rating: 9.0
@@ -408,7 +408,7 @@ title: Summer Camp Secrets #6
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/zafira-a/movie/20081103/SUMMER_CAMP_SECRETS_PART_6
-cast: Zafira A; https://www.vivthomas.com/model/zafira-a; f
+model: n:Zafira A; id:/model/vivthomas/zafira-a; u:https://www.vivthomas.com/model/zafira-a; g:f
 released: 2008-11-03
 director:   Viv Thomas
 rating: 9.2
@@ -446,8 +446,8 @@ title: Summer Camp Secrets #5
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/bambi-b-and-ariel-a/movie/20081103/SUMMER_CAMP_SECRETS_PART_5
-cast: Bambi B; https://www.vivthomas.com/model/bambi-b; f
-cast: Ariel A; https://www.vivthomas.com/model/ariel-a; f
+model: n:Bambi B; id:/model/vivthomas/bambi-b; u:https://www.vivthomas.com/model/bambi-b; g:f
+model: n:Ariel A; id:/model/vivthomas/ariel-a; u:https://www.vivthomas.com/model/ariel-a; g:f
 released: 2008-11-03
 director:   Viv Thomas
 rating: 9.4
@@ -495,9 +495,9 @@ title: Summer Camp Secrets #2
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/suzie-carina-and-zafira-a-and-lucky-a/movie/20081103/SUMMER_CAMP_SECRETS_PART_2
-cast: Suzie Carina; https://www.vivthomas.com/model/suzie-carina; f
-cast: Zafira A; https://www.vivthomas.com/model/zafira-a; f
-cast: Lucky A; https://www.vivthomas.com/model/lucky-a; f
+model: n:Suzie Carina; id:/model/vivthomas/suzie-carina; u:https://www.vivthomas.com/model/suzie-carina; g:f
+model: n:Zafira A; id:/model/vivthomas/zafira-a; u:https://www.vivthomas.com/model/zafira-a; g:f
+model: n:Lucky A; id:/model/vivthomas/lucky-a; u:https://www.vivthomas.com/model/lucky-a; g:f
 released: 2008-11-03
 director:   Viv Thomas
 rating: 9.3
@@ -546,8 +546,8 @@ title: Unfaithful 2 #4
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/nella-a-and-lisa-c/movie/20081025/UNFAITHFUL_2_PART_4
-cast: Nella A; https://www.vivthomas.com/model/nella-a; f
-cast: Lisa C; https://www.vivthomas.com/model/lisa-c; f
+model: n:Nella A; id:/model/vivthomas/nella-a; u:https://www.vivthomas.com/model/nella-a; g:f
+model: n:Lisa C; id:/model/vivthomas/lisa-c; u:https://www.vivthomas.com/model/lisa-c; g:f
 released: 2008-10-25
 director:   Viv Thomas
 rating: 9.3
@@ -608,8 +608,8 @@ title: Unfaithful 2 #2
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/nella-a-and-lisa-c/movie/20081025/UNFAITHFUL_2_PART_2
-cast: Nella A; https://www.vivthomas.com/model/nella-a; f
-cast: Lisa C; https://www.vivthomas.com/model/lisa-c; f
+model: n:Nella A; id:/model/vivthomas/nella-a; u:https://www.vivthomas.com/model/nella-a; g:f
+model: n:Lisa C; id:/model/vivthomas/lisa-c; u:https://www.vivthomas.com/model/lisa-c; g:f
 released: 2008-10-25
 director:   Viv Thomas
 rating: 9.3
@@ -672,8 +672,8 @@ title: Unfaithful 2 #1
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/lisa-c-and-mya-diamond/movie/20081025/UNFAITHFUL_2_PART_1
-cast: Lisa C; https://www.vivthomas.com/model/lisa-c; f
-cast: Mya Diamond; https://www.vivthomas.com/model/mya-diamond; f
+model: n:Lisa C; id:/model/vivthomas/lisa-c; u:https://www.vivthomas.com/model/lisa-c; g:f
+model: n:Mya Diamond; id:/model/vivthomas/mya-diamond; u:https://www.vivthomas.com/model/mya-diamond; g:f
 released: 2008-10-25
 director:   Viv Thomas
 rating: 9.1
@@ -729,8 +729,8 @@ title: Unfaithful 2 #3
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/nella-a-and-ariel-a/movie/20081025/UNFAITHFUL_2_PART_3
-cast: Nella A; https://www.vivthomas.com/model/nella-a; f
-cast: Ariel A; https://www.vivthomas.com/model/ariel-a; f
+model: n:Nella A; id:/model/vivthomas/nella-a; u:https://www.vivthomas.com/model/nella-a; g:f
+model: n:Ariel A; id:/model/vivthomas/ariel-a; u:https://www.vivthomas.com/model/ariel-a; g:f
 released: 2008-10-25
 director:   Viv Thomas
 rating: 9.5
@@ -778,8 +778,8 @@ title: Hot wet Sex #2
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/felecia-a-and-ava-lustra/movie/20080423/HOT_WET_SEX_PART_2
-cast: Felecia A; https://www.vivthomas.com/model/felecia-a; f
-cast: Ava Lustra; https://www.vivthomas.com/model/ava-lustra; f
+model: n:Felecia A; id:/model/vivthomas/felecia-a; u:https://www.vivthomas.com/model/felecia-a; g:f
+model: n:Ava Lustra; id:/model/vivthomas/ava-lustra; u:https://www.vivthomas.com/model/ava-lustra; g:f
 released: 2008-04-23
 director:   Viv Thomas
 rating: 9.1
@@ -817,7 +817,7 @@ title: Hot wet Sex #4
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/ava-lustra/movie/20080423/HOT_WET_SEX_PART_4
-cast: Ava Lustra; https://www.vivthomas.com/model/ava-lustra; f
+model: n:Ava Lustra; id:/model/vivthomas/ava-lustra; u:https://www.vivthomas.com/model/ava-lustra; g:f
 released: 2008-04-23
 director:   Viv Thomas
 rating: 8.8
@@ -850,7 +850,7 @@ title: Hot wet Sex #3
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/ava-lustra/movie/20080423/HOT_WET_SEX_PART_3
-cast: Ava Lustra; https://www.vivthomas.com/model/ava-lustra; f
+model: n:Ava Lustra; id:/model/vivthomas/ava-lustra; u:https://www.vivthomas.com/model/ava-lustra; g:f
 released: 2008-04-23
 director:   Viv Thomas
 rating: 9.0
@@ -889,8 +889,8 @@ title: Hot wet Sex #1
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/ava-lustra-and-felecia-a/movie/20080423/HOT_WET_SEX_PART_1
-cast: Ava Lustra; https://www.vivthomas.com/model/ava-lustra; f
-cast: Felecia A; https://www.vivthomas.com/model/felecia-a; f
+model: n:Ava Lustra; id:/model/vivthomas/ava-lustra; u:https://www.vivthomas.com/model/ava-lustra; g:f
+model: n:Felecia A; id:/model/vivthomas/felecia-a; u:https://www.vivthomas.com/model/felecia-a; g:f
 released: 2008-04-23
 director:   Viv Thomas
 rating: 9.0
@@ -930,8 +930,8 @@ title: The Art of Sex Extras 1
 type: movie
 site: vt
 url: https://www.vivthomas.com/model/mya-diamond-and-sylvia-lauren/movie/20080401/THE_ART_OF_SEX_EXTRAS_1
-cast: Mya Diamond; https://www.vivthomas.com/model/mya-diamond; f
-cast: Sylvia Lauren; https://www.vivthomas.com/model/sylvia-lauren; f
+model: n:Mya Diamond; id:/model/vivthomas/mya-diamond; u:https://www.vivthomas.com/model/mya-diamond; g:f
+model: n:Sylvia Lauren; id:/model/vivthomas/sylvia-lauren; u:https://www.vivthomas.com/model/sylvia-lauren; g:f
 released: 2008-04-01
 director:   Viv Thomas
 rating: 9.4

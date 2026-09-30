@@ -9,7 +9,7 @@ title: Ride
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/nika-n/gallery/20161231/RIDE
-cast: Nika N; https://www.vivthomas.com/model/nika-n; f
+model: n:Nika N; id:/model/vivthomas/nika-n; u:https://www.vivthomas.com/model/nika-n; g:f
 released: 2016-12-31
 photographer: Antares
 rating: 9.6
@@ -23,8 +23,8 @@ title: Recall
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/noe-milk-and-nikita-bellucci/gallery/20161229/RECALL
-cast: Noe Milk; https://www.vivthomas.com/model/noe-milk; f
-cast: Nikita Bellucci; https://www.vivthomas.com/model/nikita-bellucci; f
+model: n:Noe Milk; id:/model/vivthomas/noe-milk; u:https://www.vivthomas.com/model/noe-milk; g:f
+model: n:Nikita Bellucci; id:/model/vivthomas/nikita-bellucci; u:https://www.vivthomas.com/model/nikita-bellucci; g:f
 released: 2016-12-29
 photographer: Alis Locanta
 rating: 9.5
@@ -38,8 +38,8 @@ title: Sweating
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/luna-corazon-and-erika-korti/gallery/20161227/SWEATING
-cast: Luna Corazon; https://www.vivthomas.com/model/luna-corazon; f
-cast: Erika Korti; https://www.vivthomas.com/model/erika-korti; f
+model: n:Luna Corazon; id:/model/vivthomas/luna-corazon; u:https://www.vivthomas.com/model/luna-corazon; g:f
+model: n:Erika Korti; id:/model/vivthomas/erika-korti; u:https://www.vivthomas.com/model/erika-korti; g:f
 released: 2016-12-27
 photographer: Sandra Shine
 rating: 9.4
@@ -53,7 +53,7 @@ title: Pleasure
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/delia/gallery/20161224/PLEASURE
-cast: Delia; https://www.vivthomas.com/model/delia; f
+model: n:Delia; id:/model/vivthomas/delia; u:https://www.vivthomas.com/model/delia; g:f
 released: 2016-12-24
 photographer: Albert Varin
 rating: 9.3
@@ -67,8 +67,8 @@ title: Damsel
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/paula-shy-and-lexi-dona/gallery/20161222/DAMSEL
-cast: Paula Shy; https://www.vivthomas.com/model/paula-shy; f
-cast: Lexi Dona; https://www.vivthomas.com/model/lexi-dona; f
+model: n:Paula Shy; id:/model/vivthomas/paula-shy; u:https://www.vivthomas.com/model/paula-shy; g:f
+model: n:Lexi Dona; id:/model/vivthomas/lexi-dona; u:https://www.vivthomas.com/model/lexi-dona; g:f
 released: 2016-12-22
 photographer: Alis Locanta
 rating: 9.4
@@ -82,8 +82,8 @@ title: Active
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/brandy-smile-and-zafira-a/gallery/20161220/ACTIVE
-cast: Brandy Smile; https://www.vivthomas.com/model/brandy-smile; f
-cast: Zafira A; https://www.vivthomas.com/model/zafira-a; f
+model: n:Brandy Smile; id:/model/vivthomas/brandy-smile; u:https://www.vivthomas.com/model/brandy-smile; g:f
+model: n:Zafira A; id:/model/vivthomas/zafira-a; u:https://www.vivthomas.com/model/zafira-a; g:f
 released: 2016-12-20
 photographer: Sandra Shine
 rating: 9.4
@@ -97,7 +97,7 @@ title: Perfection
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/melena-a/gallery/20161217/PERFECTION
-cast: Melena A; https://www.vivthomas.com/model/melena-a; f
+model: n:Melena A; id:/model/vivthomas/melena-a; u:https://www.vivthomas.com/model/melena-a; g:f
 released: 2016-12-17
 photographer: Walter Schotten
 rating: 9.5
@@ -111,8 +111,8 @@ title: Illicit
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/noe-milk-and-sweet-cat/gallery/20161215/ILLICIT
-cast: Noe Milk; https://www.vivthomas.com/model/noe-milk; f
-cast: Sweet Cat; https://www.vivthomas.com/model/sweet-cat; f
+model: n:Noe Milk; id:/model/vivthomas/noe-milk; u:https://www.vivthomas.com/model/noe-milk; g:f
+model: n:Sweet Cat; id:/model/vivthomas/sweet-cat; u:https://www.vivthomas.com/model/sweet-cat; g:f
 released: 2016-12-15
 photographer: Alis Locanta
 rating: 9.5
@@ -126,8 +126,8 @@ title: Workout
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/ginger-fox-and-nataly-gold/gallery/20161213/WORKOUT
-cast: Ginger Fox; https://www.vivthomas.com/model/ginger-fox; f
-cast: Nataly Gold; https://www.vivthomas.com/model/nataly-gold; f
+model: n:Ginger Fox; id:/model/vivthomas/ginger-fox; u:https://www.vivthomas.com/model/ginger-fox; g:f
+model: n:Nataly Gold; id:/model/vivthomas/nataly-gold; u:https://www.vivthomas.com/model/nataly-gold; g:f
 released: 2016-12-13
 photographer: Sandra Shine
 rating: 9.4
@@ -141,7 +141,7 @@ title: Rebel
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/nancy-d/gallery/20161210/REBEL
-cast: Nancy D; https://www.vivthomas.com/model/nancy-d; f
+model: n:Nancy D; id:/model/vivthomas/nancy-d; u:https://www.vivthomas.com/model/nancy-d; g:f
 released: 2016-12-10
 photographer: Albert Varin
 rating: 9.4
@@ -155,8 +155,8 @@ title: Immodest
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/lexi-dona-and-nataly-von/gallery/20161208/IMMODEST
-cast: Lexi Dona; https://www.vivthomas.com/model/lexi-dona; f
-cast: Nataly Von; https://www.vivthomas.com/model/nataly-von; f
+model: n:Lexi Dona; id:/model/vivthomas/lexi-dona; u:https://www.vivthomas.com/model/lexi-dona; g:f
+model: n:Nataly Von; id:/model/vivthomas/nataly-von; u:https://www.vivthomas.com/model/nataly-von; g:f
 released: 2016-12-08
 photographer: Alis Locanta
 rating: 9.3
@@ -170,8 +170,8 @@ title: Compete
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/chelsy-sun-and-nancy-a/gallery/20161206/COMPETE
-cast: Chelsy Sun; https://www.vivthomas.com/model/chelsy-sun; f
-cast: Nancy A; https://www.vivthomas.com/model/nancy-a; f
+model: n:Chelsy Sun; id:/model/vivthomas/chelsy-sun; u:https://www.vivthomas.com/model/chelsy-sun; g:f
+model: n:Nancy A; id:/model/vivthomas/nancy-a; u:https://www.vivthomas.com/model/nancy-a; g:f
 released: 2016-12-06
 photographer: Sandra Shine
 rating: 9.4
@@ -185,7 +185,7 @@ title: Undressing
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/sandy-a/gallery/20161203/UNDRESSING
-cast: Sandy A; https://www.vivthomas.com/model/sandy-a; f
+model: n:Sandy A; id:/model/vivthomas/sandy-a; u:https://www.vivthomas.com/model/sandy-a; g:f
 released: 2016-12-03
 photographer: Flora
 rating: 9.5
@@ -199,8 +199,8 @@ title: Retention
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/nikita-bellucci-and-sweet-cat/gallery/20161201/RETENTION
-cast: Nikita Bellucci; https://www.vivthomas.com/model/nikita-bellucci; f
-cast: Sweet Cat; https://www.vivthomas.com/model/sweet-cat; f
+model: n:Nikita Bellucci; id:/model/vivthomas/nikita-bellucci; u:https://www.vivthomas.com/model/nikita-bellucci; g:f
+model: n:Sweet Cat; id:/model/vivthomas/sweet-cat; u:https://www.vivthomas.com/model/sweet-cat; g:f
 released: 2016-12-01
 photographer: Alis Locanta
 rating: 9.4
@@ -214,8 +214,8 @@ title: Cardinal
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/noe-milk-and-julia-roca/gallery/20161129/CARDINAL
-cast: Noe Milk; https://www.vivthomas.com/model/noe-milk; f
-cast: Julia Roca; https://www.vivthomas.com/model/julia-roca; f
+model: n:Noe Milk; id:/model/vivthomas/noe-milk; u:https://www.vivthomas.com/model/noe-milk; g:f
+model: n:Julia Roca; id:/model/vivthomas/julia-roca; u:https://www.vivthomas.com/model/julia-roca; g:f
 released: 2016-11-29
 photographer: Alis Locanta
 rating: 9.5
@@ -229,7 +229,7 @@ title: Lady In Red
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/milena-d/gallery/20161126/LADY_IN_RED
-cast: Milena D; https://www.vivthomas.com/model/milena-d; f
+model: n:Milena D; id:/model/vivthomas/milena-d; u:https://www.vivthomas.com/model/milena-d; g:f
 released: 2016-11-26
 photographer: Antares
 rating: 9.7
@@ -243,8 +243,8 @@ title: Reminisce
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/sweet-cat-and-nikita-bellucci/gallery/20161124/REMINISCE
-cast: Sweet Cat; https://www.vivthomas.com/model/sweet-cat; f
-cast: Nikita Bellucci; https://www.vivthomas.com/model/nikita-bellucci; f
+model: n:Sweet Cat; id:/model/vivthomas/sweet-cat; u:https://www.vivthomas.com/model/sweet-cat; g:f
+model: n:Nikita Bellucci; id:/model/vivthomas/nikita-bellucci; u:https://www.vivthomas.com/model/nikita-bellucci; g:f
 released: 2016-11-24
 photographer: Alis Locanta
 rating: 9.6
@@ -258,8 +258,8 @@ title: Egoistic
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/paula-shy-and-nataly-von/gallery/20161122/EGOISTIC
-cast: Paula Shy; https://www.vivthomas.com/model/paula-shy; f
-cast: Nataly Von; https://www.vivthomas.com/model/nataly-von; f
+model: n:Paula Shy; id:/model/vivthomas/paula-shy; u:https://www.vivthomas.com/model/paula-shy; g:f
+model: n:Nataly Von; id:/model/vivthomas/nataly-von; u:https://www.vivthomas.com/model/nataly-von; g:f
 released: 2016-11-22
 photographer: Alis Locanta
 rating: 9.1
@@ -273,7 +273,7 @@ title: Violet
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/arian/gallery/20161119/VIOLET
-cast: Arian; https://www.vivthomas.com/model/arian; f
+model: n:Arian; id:/model/vivthomas/arian; u:https://www.vivthomas.com/model/arian; g:f
 released: 2016-11-19
 photographer: Albert Varin
 rating: 9.3
@@ -287,8 +287,8 @@ title: Memories
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/penelope-cum-and-aria-logan/gallery/20161117/MEMORIES
-cast: Penelope Cum; https://www.vivthomas.com/model/penelope-cum; f
-cast: Aria Logan; https://www.vivthomas.com/model/aria-logan; f
+model: n:Penelope Cum; id:/model/vivthomas/penelope-cum; u:https://www.vivthomas.com/model/penelope-cum; g:f
+model: n:Aria Logan; id:/model/vivthomas/aria-logan; u:https://www.vivthomas.com/model/aria-logan; g:f
 released: 2016-11-17
 photographer: Alis Locanta
 rating: 9.4
@@ -302,8 +302,8 @@ title: Addiction
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/noe-milk-and-alexa-tomas/gallery/20161115/ADDICTION
-cast: Noe Milk; https://www.vivthomas.com/model/noe-milk; f
-cast: Alexa Tomas; https://www.vivthomas.com/model/alexa-tomas; f
+model: n:Noe Milk; id:/model/vivthomas/noe-milk; u:https://www.vivthomas.com/model/noe-milk; g:f
+model: n:Alexa Tomas; id:/model/vivthomas/alexa-tomas; u:https://www.vivthomas.com/model/alexa-tomas; g:f
 released: 2016-11-15
 photographer: Alis Locanta
 rating: 9.3
@@ -317,7 +317,7 @@ title: Statuesque
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/angel-e/gallery/20161112/STATUESQUE
-cast: Angel E; https://www.vivthomas.com/model/angel-e; f
+model: n:Angel E; id:/model/vivthomas/angel-e; u:https://www.vivthomas.com/model/angel-e; g:f
 released: 2016-11-12
 photographer: Albert Varin
 rating: 9.5
@@ -331,9 +331,9 @@ title: Induction
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/michelle-h-and-zoe-doll-and-lena-love/gallery/20161110/INDUCTION
-cast: Michelle H; https://www.vivthomas.com/model/michelle-h; f
-cast: Zoe Doll; https://www.vivthomas.com/model/zoe-doll; f
-cast: Lena Love; https://www.vivthomas.com/model/lena-love; f
+model: n:Michelle H; id:/model/vivthomas/michelle-h; u:https://www.vivthomas.com/model/michelle-h; g:f
+model: n:Zoe Doll; id:/model/vivthomas/zoe-doll; u:https://www.vivthomas.com/model/zoe-doll; g:f
+model: n:Lena Love; id:/model/vivthomas/lena-love; u:https://www.vivthomas.com/model/lena-love; g:f
 released: 2016-11-10
 photographer: Alis Locanta
 rating: 9.6
@@ -347,8 +347,8 @@ title: Servile
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/alexa-tomas-and-zoe-doll/gallery/20161108/SERVILE
-cast: Alexa Tomas; https://www.vivthomas.com/model/alexa-tomas; f
-cast: Zoe Doll; https://www.vivthomas.com/model/zoe-doll; f
+model: n:Alexa Tomas; id:/model/vivthomas/alexa-tomas; u:https://www.vivthomas.com/model/alexa-tomas; g:f
+model: n:Zoe Doll; id:/model/vivthomas/zoe-doll; u:https://www.vivthomas.com/model/zoe-doll; g:f
 released: 2016-11-08
 photographer: Alis Locanta
 rating: 9.4
@@ -362,7 +362,7 @@ title: Bustier
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/niki-mey/gallery/20161105/BUSTIER
-cast: Niki Mey; https://www.vivthomas.com/model/niki-mey; f
+model: n:Niki Mey; id:/model/vivthomas/niki-mey; u:https://www.vivthomas.com/model/niki-mey; g:f
 released: 2016-11-05
 photographer: Antares
 rating: 9.5
@@ -376,8 +376,8 @@ title: Hypnotize
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/carolina-abril-and-arian/gallery/20161103/HYPNOTIZE
-cast: Carolina Abril; https://www.vivthomas.com/model/carolina-abril; f
-cast: Arian; https://www.vivthomas.com/model/arian; f
+model: n:Carolina Abril; id:/model/vivthomas/carolina-abril; u:https://www.vivthomas.com/model/carolina-abril; g:f
+model: n:Arian; id:/model/vivthomas/arian; u:https://www.vivthomas.com/model/arian; g:f
 released: 2016-11-03
 photographer: Alis Locanta
 rating: 9.4
@@ -391,8 +391,8 @@ title: Exclusive
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/lena-love-and-alexa-tomas/gallery/20161101/EXCLUSIVE
-cast: Lena Love; https://www.vivthomas.com/model/lena-love; f
-cast: Alexa Tomas; https://www.vivthomas.com/model/alexa-tomas; f
+model: n:Lena Love; id:/model/vivthomas/lena-love; u:https://www.vivthomas.com/model/lena-love; g:f
+model: n:Alexa Tomas; id:/model/vivthomas/alexa-tomas; u:https://www.vivthomas.com/model/alexa-tomas; g:f
 released: 2016-11-01
 photographer: Alis Locanta
 rating: 9.5
@@ -406,7 +406,7 @@ title: Displayed
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/rebeca-a/gallery/20161029/DISPLAYED
-cast: Rebeca A; https://www.vivthomas.com/model/rebeca-a; f
+model: n:Rebeca A; id:/model/vivthomas/rebeca-a; u:https://www.vivthomas.com/model/rebeca-a; g:f
 released: 2016-10-29
 photographer: Higinio Domingo
 rating: 9.3
@@ -420,8 +420,8 @@ title: Service
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/michelle-h-and-zoe-doll/gallery/20161027/SERVICE
-cast: Michelle H; https://www.vivthomas.com/model/michelle-h; f
-cast: Zoe Doll; https://www.vivthomas.com/model/zoe-doll; f
+model: n:Michelle H; id:/model/vivthomas/michelle-h; u:https://www.vivthomas.com/model/michelle-h; g:f
+model: n:Zoe Doll; id:/model/vivthomas/zoe-doll; u:https://www.vivthomas.com/model/zoe-doll; g:f
 released: 2016-10-27
 photographer: Alis Locanta
 rating: 9.4
@@ -435,8 +435,8 @@ title: Ample
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/viola-and-eva-berger/gallery/20161025/AMPLE
-cast: Viola; https://www.vivthomas.com/model/viola; f
-cast: Eva Berger; https://www.vivthomas.com/model/eva-berger; f
+model: n:Viola; id:/model/vivthomas/viola; u:https://www.vivthomas.com/model/viola; g:f
+model: n:Eva Berger; id:/model/vivthomas/eva-berger; u:https://www.vivthomas.com/model/eva-berger; g:f
 released: 2016-10-25
 photographer: Sandra Shine
 rating: 9.6
@@ -450,7 +450,7 @@ title: Bedtime
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/delia/gallery/20161022/BEDTIME
-cast: Delia; https://www.vivthomas.com/model/delia; f
+model: n:Delia; id:/model/vivthomas/delia; u:https://www.vivthomas.com/model/delia; g:f
 released: 2016-10-22
 photographer: Albert Varin
 rating: 9.4
@@ -464,8 +464,8 @@ title: Hypnotize
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/dorothy-black-and-lexi-lowe/gallery/20161020/HYPNOTIZE
-cast: Dorothy Black; https://www.vivthomas.com/model/dorothy-black; f
-cast: Lexi Lowe; https://www.vivthomas.com/model/lexi-lowe; f
+model: n:Dorothy Black; id:/model/vivthomas/dorothy-black; u:https://www.vivthomas.com/model/dorothy-black; g:f
+model: n:Lexi Lowe; id:/model/vivthomas/lexi-lowe; u:https://www.vivthomas.com/model/lexi-lowe; g:f
 released: 2016-10-20
 photographer: Alis Locanta
 rating: 9.6
@@ -479,8 +479,8 @@ title: Unwind
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/nesty-a-and-shrima-malati/gallery/20161018/UNWIND
-cast: Nesty A; https://www.vivthomas.com/model/nesty-a; f
-cast: Shrima Malati; https://www.vivthomas.com/model/shrima-malati; f
+model: n:Nesty A; id:/model/vivthomas/nesty-a; u:https://www.vivthomas.com/model/nesty-a; g:f
+model: n:Shrima Malati; id:/model/vivthomas/shrima-malati; u:https://www.vivthomas.com/model/shrima-malati; g:f
 released: 2016-10-18
 photographer: Sandra Shine
 rating: 9.5
@@ -494,7 +494,7 @@ title: Divinity
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/loreleya/gallery/20161015/DIVINITY
-cast: Loreleya; https://www.vivthomas.com/model/loreleya; f
+model: n:Loreleya; id:/model/vivthomas/loreleya; u:https://www.vivthomas.com/model/loreleya; g:f
 released: 2016-10-15
 photographer: Albert Varin
 rating: 9.5
@@ -508,8 +508,8 @@ title: Distant
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/eveline-dellai-and-cristal-caitlin/gallery/20161013/DISTANT
-cast: Eveline Dellai; https://www.vivthomas.com/model/eveline-dellai; f
-cast: Cristal Caitlin; https://www.vivthomas.com/model/cristal-caitlin; f
+model: n:Eveline Dellai; id:/model/vivthomas/eveline-dellai; u:https://www.vivthomas.com/model/eveline-dellai; g:f
+model: n:Cristal Caitlin; id:/model/vivthomas/cristal-caitlin; u:https://www.vivthomas.com/model/cristal-caitlin; g:f
 released: 2016-10-13
 photographer: Alis Locanta
 rating: 9.2
@@ -523,8 +523,8 @@ title: Delectable
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/alessandra-jane-and-evelina-darling/gallery/20161011/DELECTABLE
-cast: Alessandra Jane; https://www.vivthomas.com/model/alessandra-jane; f
-cast: Evelina Darling; https://www.vivthomas.com/model/evelina-darling; f
+model: n:Alessandra Jane; id:/model/vivthomas/alessandra-jane; u:https://www.vivthomas.com/model/alessandra-jane; g:f
+model: n:Evelina Darling; id:/model/vivthomas/evelina-darling; u:https://www.vivthomas.com/model/evelina-darling; g:f
 released: 2016-10-11
 photographer: Sandra Shine
 rating: 9.5
@@ -538,7 +538,7 @@ title: Blossoming
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/dolly/gallery/20161008/BLOSSOMING
-cast: Dolly; https://www.vivthomas.com/model/dolly; f
+model: n:Dolly; id:/model/vivthomas/dolly; u:https://www.vivthomas.com/model/dolly; g:f
 released: 2016-10-08
 photographer: Antares
 rating: 9.4
@@ -552,8 +552,8 @@ title: Discovered
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/lexi-lowe-and-noe-milk/gallery/20161006/DISCOVERED
-cast: Lexi Lowe; https://www.vivthomas.com/model/lexi-lowe; f
-cast: Noe Milk; https://www.vivthomas.com/model/noe-milk; f
+model: n:Lexi Lowe; id:/model/vivthomas/lexi-lowe; u:https://www.vivthomas.com/model/lexi-lowe; g:f
+model: n:Noe Milk; id:/model/vivthomas/noe-milk; u:https://www.vivthomas.com/model/noe-milk; g:f
 released: 2016-10-06
 photographer: Alis Locanta
 rating: 9.3
@@ -567,8 +567,8 @@ title: Artisan
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/tiffany-doll-and-stefany-moon/gallery/20161004/ARTISAN
-cast: Tiffany Doll; https://www.vivthomas.com/model/tiffany-doll; f
-cast: Stefany Moon; https://www.vivthomas.com/model/stefany-moon; f
+model: n:Tiffany Doll; id:/model/vivthomas/tiffany-doll; u:https://www.vivthomas.com/model/tiffany-doll; g:f
+model: n:Stefany Moon; id:/model/vivthomas/stefany-moon; u:https://www.vivthomas.com/model/stefany-moon; g:f
 released: 2016-10-04
 photographer: Sandra Shine
 rating: 9.4
@@ -582,7 +582,7 @@ title: Narcassist
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/niki-mey/gallery/20161001/NARCASSIST
-cast: Niki Mey; https://www.vivthomas.com/model/niki-mey; f
+model: n:Niki Mey; id:/model/vivthomas/niki-mey; u:https://www.vivthomas.com/model/niki-mey; g:f
 released: 2016-10-01
 photographer: Antares
 rating: 9.6
@@ -596,8 +596,8 @@ title: Aurora
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/lena-love-and-michelle-h/gallery/20160929/AURORA
-cast: Lena Love; https://www.vivthomas.com/model/lena-love; f
-cast: Michelle H; https://www.vivthomas.com/model/michelle-h; f
+model: n:Lena Love; id:/model/vivthomas/lena-love; u:https://www.vivthomas.com/model/lena-love; g:f
+model: n:Michelle H; id:/model/vivthomas/michelle-h; u:https://www.vivthomas.com/model/michelle-h; g:f
 released: 2016-09-29
 photographer: Alis Locanta
 rating: 9.4
@@ -611,8 +611,8 @@ title: Closeness
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/henessy-a-and-gina-gerson/gallery/20160927/CLOSENESS
-cast: Henessy A; https://www.vivthomas.com/model/henessy-a; f
-cast: Gina Gerson; https://www.vivthomas.com/model/gina-gerson; f
+model: n:Henessy A; id:/model/vivthomas/henessy-a; u:https://www.vivthomas.com/model/henessy-a; g:f
+model: n:Gina Gerson; id:/model/vivthomas/gina-gerson; u:https://www.vivthomas.com/model/gina-gerson; g:f
 released: 2016-09-27
 photographer: Sandra Shine
 rating: 9.4
@@ -626,7 +626,7 @@ title: Sugar And Spice
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/liza-a/gallery/20160924/SUGAR_AND_SPICE
-cast: Liza A; https://www.vivthomas.com/model/liza-a; f
+model: n:Liza A; id:/model/vivthomas/liza-a; u:https://www.vivthomas.com/model/liza-a; g:f
 released: 2016-09-24
 photographer: Albert Varin
 rating: 9.3
@@ -640,8 +640,8 @@ title: Secretive
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/alexa-tomas-and-lexi-lowe/gallery/20160922/SECRETIVE
-cast: Alexa Tomas; https://www.vivthomas.com/model/alexa-tomas; f
-cast: Lexi Lowe; https://www.vivthomas.com/model/lexi-lowe; f
+model: n:Alexa Tomas; id:/model/vivthomas/alexa-tomas; u:https://www.vivthomas.com/model/alexa-tomas; g:f
+model: n:Lexi Lowe; id:/model/vivthomas/lexi-lowe; u:https://www.vivthomas.com/model/lexi-lowe; g:f
 released: 2016-09-22
 photographer: Alis Locanta
 rating: 9.4
@@ -655,8 +655,8 @@ title: Reminder
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/henessy-a-and-anina-silk/gallery/20160920/REMINDER
-cast: Henessy A; https://www.vivthomas.com/model/henessy-a; f
-cast: Anina Silk; https://www.vivthomas.com/model/anina-silk; f
+model: n:Henessy A; id:/model/vivthomas/henessy-a; u:https://www.vivthomas.com/model/henessy-a; g:f
+model: n:Anina Silk; id:/model/vivthomas/anina-silk; u:https://www.vivthomas.com/model/anina-silk; g:f
 released: 2016-09-20
 photographer: Sandra Shine
 rating: 9.3
@@ -670,7 +670,7 @@ title: Cansada
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/dalida/gallery/20160917/CANSADA
-cast: Dalida; https://www.vivthomas.com/model/dalida; f
+model: n:Dalida; id:/model/vivthomas/dalida; u:https://www.vivthomas.com/model/dalida; g:f
 released: 2016-09-17
 photographer: Albert Varin
 rating: 9.6
@@ -684,8 +684,8 @@ title: Pleasure
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/penelope-cum-and-arian/gallery/20160915/PLEASURE
-cast: Penelope Cum; https://www.vivthomas.com/model/penelope-cum; f
-cast: Arian; https://www.vivthomas.com/model/arian; f
+model: n:Penelope Cum; id:/model/vivthomas/penelope-cum; u:https://www.vivthomas.com/model/penelope-cum; g:f
+model: n:Arian; id:/model/vivthomas/arian; u:https://www.vivthomas.com/model/arian; g:f
 released: 2016-09-15
 photographer: Alis Locanta
 rating: 9.1
@@ -699,8 +699,8 @@ title: Flirtatious
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/ivana-sugar-and-gina-gerson/gallery/20160913/FLIRTATIOUS
-cast: Ivana Sugar; https://www.vivthomas.com/model/ivana-sugar; f
-cast: Gina Gerson; https://www.vivthomas.com/model/gina-gerson; f
+model: n:Ivana Sugar; id:/model/vivthomas/ivana-sugar; u:https://www.vivthomas.com/model/ivana-sugar; g:f
+model: n:Gina Gerson; id:/model/vivthomas/gina-gerson; u:https://www.vivthomas.com/model/gina-gerson; g:f
 released: 2016-09-13
 photographer: Sandra Shine
 rating: 9.6
@@ -714,7 +714,7 @@ title: Carefree
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/ksenya/gallery/20160910/CAREFREE
-cast: Ksenya; https://www.vivthomas.com/model/ksenya; f
+model: n:Ksenya; id:/model/vivthomas/ksenya; u:https://www.vivthomas.com/model/ksenya; g:f
 released: 2016-09-10
 photographer: Antares
 rating: 9.5
@@ -728,8 +728,8 @@ title: Surprise
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/leila-smith-and-kira-zen/gallery/20160908/SURPRISE
-cast: Leila Smith; https://www.vivthomas.com/model/leila-smith; f
-cast: Kira Zen; https://www.vivthomas.com/model/kira-zen; f
+model: n:Leila Smith; id:/model/vivthomas/leila-smith; u:https://www.vivthomas.com/model/leila-smith; g:f
+model: n:Kira Zen; id:/model/vivthomas/kira-zen; u:https://www.vivthomas.com/model/kira-zen; g:f
 released: 2016-09-08
 photographer: Alis Locanta
 rating: 9.4
@@ -743,8 +743,8 @@ title: On Display
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/ivana-sugar-and-anina-silk/gallery/20160906/ON_DISPLAY
-cast: Ivana Sugar; https://www.vivthomas.com/model/ivana-sugar; f
-cast: Anina Silk; https://www.vivthomas.com/model/anina-silk; f
+model: n:Ivana Sugar; id:/model/vivthomas/ivana-sugar; u:https://www.vivthomas.com/model/ivana-sugar; g:f
+model: n:Anina Silk; id:/model/vivthomas/anina-silk; u:https://www.vivthomas.com/model/anina-silk; g:f
 released: 2016-09-06
 photographer: Sandra Shine
 rating: 9.4
@@ -758,7 +758,7 @@ title: Sweetness
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/niki-mey/gallery/20160903/SWEETNESS
-cast: Niki Mey; https://www.vivthomas.com/model/niki-mey; f
+model: n:Niki Mey; id:/model/vivthomas/niki-mey; u:https://www.vivthomas.com/model/niki-mey; g:f
 released: 2016-09-03
 photographer: Antares
 rating: 9.6
@@ -772,8 +772,8 @@ title: Permission
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/zoe-doll-and-lena-love/gallery/20160901/PERMISSION
-cast: Zoe Doll; https://www.vivthomas.com/model/zoe-doll; f
-cast: Lena Love; https://www.vivthomas.com/model/lena-love; f
+model: n:Zoe Doll; id:/model/vivthomas/zoe-doll; u:https://www.vivthomas.com/model/zoe-doll; g:f
+model: n:Lena Love; id:/model/vivthomas/lena-love; u:https://www.vivthomas.com/model/lena-love; g:f
 released: 2016-09-01
 photographer: Alis Locanta
 rating: 9.4
@@ -787,8 +787,8 @@ title: Encourage
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/eveline-dellai-and-leila-smith/gallery/20160830/ENCOURAGE
-cast: Eveline Dellai; https://www.vivthomas.com/model/eveline-dellai; f
-cast: Leila Smith; https://www.vivthomas.com/model/leila-smith; f
+model: n:Eveline Dellai; id:/model/vivthomas/eveline-dellai; u:https://www.vivthomas.com/model/eveline-dellai; g:f
+model: n:Leila Smith; id:/model/vivthomas/leila-smith; u:https://www.vivthomas.com/model/leila-smith; g:f
 released: 2016-08-30
 photographer: Alis Locanta
 rating: 9.4
@@ -802,7 +802,7 @@ title: Gazing
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/beatrice/gallery/20160827/GAZING
-cast: Beatrice; https://www.vivthomas.com/model/beatrice; f
+model: n:Beatrice; id:/model/vivthomas/beatrice; u:https://www.vivthomas.com/model/beatrice; g:f
 released: 2016-08-27
 photographer: Albert Varin
 rating: 9.5
@@ -816,8 +816,8 @@ title: Shapely
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/dorothy-black-and-lexi-lowe/gallery/20160825/SHAPELY
-cast: Dorothy Black; https://www.vivthomas.com/model/dorothy-black; f
-cast: Lexi Lowe; https://www.vivthomas.com/model/lexi-lowe; f
+model: n:Dorothy Black; id:/model/vivthomas/dorothy-black; u:https://www.vivthomas.com/model/dorothy-black; g:f
+model: n:Lexi Lowe; id:/model/vivthomas/lexi-lowe; u:https://www.vivthomas.com/model/lexi-lowe; g:f
 released: 2016-08-25
 photographer: Alis Locanta
 rating: 9.6
@@ -831,8 +831,8 @@ title: Intense
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/cristal-caitlin-and-arian/gallery/20160823/INTENSE
-cast: Cristal Caitlin; https://www.vivthomas.com/model/cristal-caitlin; f
-cast: Arian; https://www.vivthomas.com/model/arian; f
+model: n:Cristal Caitlin; id:/model/vivthomas/cristal-caitlin; u:https://www.vivthomas.com/model/cristal-caitlin; g:f
+model: n:Arian; id:/model/vivthomas/arian; u:https://www.vivthomas.com/model/arian; g:f
 released: 2016-08-23
 photographer: Alis Locanta
 rating: 9.3
@@ -846,7 +846,7 @@ title: Subil
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/subil-arch/gallery/20160820/SUBIL
-cast: Subil Arch; https://www.vivthomas.com/model/subil-arch; f
+model: n:Subil Arch; id:/model/vivthomas/subil-arch; u:https://www.vivthomas.com/model/subil-arch; g:f
 released: 2016-08-20
 photographer: Albert Varin
 rating: 9.5
@@ -860,8 +860,8 @@ title: Joyful
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/lola-a-and-jessie-volt/gallery/20160818/JOYFUL
-cast: Lola A; https://www.vivthomas.com/model/lola-a; f
-cast: Jessie Volt; https://www.vivthomas.com/model/jessie-volt; f
+model: n:Lola A; id:/model/vivthomas/lola-a; u:https://www.vivthomas.com/model/lola-a; g:f
+model: n:Jessie Volt; id:/model/vivthomas/jessie-volt; u:https://www.vivthomas.com/model/jessie-volt; g:f
 released: 2016-08-18
 photographer: Alis Locanta
 rating: 9.3
@@ -875,8 +875,8 @@ title: Stimulate
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/cristal-caitlin-and-leila-smith/gallery/20160816/STIMULATE
-cast: Cristal Caitlin; https://www.vivthomas.com/model/cristal-caitlin; f
-cast: Leila Smith; https://www.vivthomas.com/model/leila-smith; f
+model: n:Cristal Caitlin; id:/model/vivthomas/cristal-caitlin; u:https://www.vivthomas.com/model/cristal-caitlin; g:f
+model: n:Leila Smith; id:/model/vivthomas/leila-smith; u:https://www.vivthomas.com/model/leila-smith; g:f
 released: 2016-08-16
 photographer: Alis Locanta
 rating: 9.6
@@ -890,7 +890,7 @@ title: Red Fever
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/michelle-h/gallery/20160813/RED_FEVER
-cast: Michelle H; https://www.vivthomas.com/model/michelle-h; f
+model: n:Michelle H; id:/model/vivthomas/michelle-h; u:https://www.vivthomas.com/model/michelle-h; g:f
 released: 2016-08-13
 photographer: Marco Simoncelli
 rating: 9.6
@@ -904,9 +904,9 @@ title: Unity
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/lena-love-and-michelle-h-and-alexa-tomas/gallery/20160811/UNITY
-cast: Lena Love; https://www.vivthomas.com/model/lena-love; f
-cast: Michelle H; https://www.vivthomas.com/model/michelle-h; f
-cast: Alexa Tomas; https://www.vivthomas.com/model/alexa-tomas; f
+model: n:Lena Love; id:/model/vivthomas/lena-love; u:https://www.vivthomas.com/model/lena-love; g:f
+model: n:Michelle H; id:/model/vivthomas/michelle-h; u:https://www.vivthomas.com/model/michelle-h; g:f
+model: n:Alexa Tomas; id:/model/vivthomas/alexa-tomas; u:https://www.vivthomas.com/model/alexa-tomas; g:f
 released: 2016-08-11
 photographer: Alis Locanta
 rating: 9.5
@@ -920,8 +920,8 @@ title: Lust
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/julia-roca-and-lola-a/gallery/20160809/LUST
-cast: Julia Roca; https://www.vivthomas.com/model/julia-roca; f
-cast: Lola A; https://www.vivthomas.com/model/lola-a; f
+model: n:Julia Roca; id:/model/vivthomas/julia-roca; u:https://www.vivthomas.com/model/julia-roca; g:f
+model: n:Lola A; id:/model/vivthomas/lola-a; u:https://www.vivthomas.com/model/lola-a; g:f
 released: 2016-08-09
 photographer: Alis Locanta
 rating: 9.4
@@ -935,8 +935,8 @@ title: Glamorous
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/milena-d-and-nika-n/gallery/20160806/GLAMOROUS
-cast: Milena D; https://www.vivthomas.com/model/milena-d; f
-cast: Nika N; https://www.vivthomas.com/model/nika-n; f
+model: n:Milena D; id:/model/vivthomas/milena-d; u:https://www.vivthomas.com/model/milena-d; g:f
+model: n:Nika N; id:/model/vivthomas/nika-n; u:https://www.vivthomas.com/model/nika-n; g:f
 released: 2016-08-06
 photographer: Antares
 rating: 9.5
@@ -950,8 +950,8 @@ title: Romance
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/alexa-tomas-and-lexi-lowe/gallery/20160804/ROMANCE
-cast: Alexa Tomas; https://www.vivthomas.com/model/alexa-tomas; f
-cast: Lexi Lowe; https://www.vivthomas.com/model/lexi-lowe; f
+model: n:Alexa Tomas; id:/model/vivthomas/alexa-tomas; u:https://www.vivthomas.com/model/alexa-tomas; g:f
+model: n:Lexi Lowe; id:/model/vivthomas/lexi-lowe; u:https://www.vivthomas.com/model/lexi-lowe; g:f
 released: 2016-08-04
 photographer: Alis Locanta
 rating: 9.4
@@ -965,8 +965,8 @@ title: Feverish
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/eveline-dellai-and-kira-zen/gallery/20160802/FEVERISH
-cast: Eveline Dellai; https://www.vivthomas.com/model/eveline-dellai; f
-cast: Kira Zen; https://www.vivthomas.com/model/kira-zen; f
+model: n:Eveline Dellai; id:/model/vivthomas/eveline-dellai; u:https://www.vivthomas.com/model/eveline-dellai; g:f
+model: n:Kira Zen; id:/model/vivthomas/kira-zen; u:https://www.vivthomas.com/model/kira-zen; g:f
 released: 2016-08-02
 photographer: Alis Locanta
 rating: 9.3
@@ -980,7 +980,7 @@ title: Devilish
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/lara-d/gallery/20160730/DEVILISH
-cast: Lara D; https://www.vivthomas.com/model/lara-d; f
+model: n:Lara D; id:/model/vivthomas/lara-d; u:https://www.vivthomas.com/model/lara-d; g:f
 released: 2016-07-30
 photographer: Antares
 rating: 9.4
@@ -994,8 +994,8 @@ title: Steamy
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/anissa-kate-and-henessy-a/gallery/20160728/STEAMY
-cast: Anissa Kate; https://www.vivthomas.com/model/anissa-kate; f
-cast: Henessy A; https://www.vivthomas.com/model/henessy-a; f
+model: n:Anissa Kate; id:/model/vivthomas/anissa-kate; u:https://www.vivthomas.com/model/anissa-kate; g:f
+model: n:Henessy A; id:/model/vivthomas/henessy-a; u:https://www.vivthomas.com/model/henessy-a; g:f
 released: 2016-07-28
 photographer: Alis Locanta
 rating: 9.6
@@ -1009,8 +1009,8 @@ title: Revel
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/kira-zen-and-leila-smith/gallery/20160726/REVEL
-cast: Kira Zen; https://www.vivthomas.com/model/kira-zen; f
-cast: Leila Smith; https://www.vivthomas.com/model/leila-smith; f
+model: n:Kira Zen; id:/model/vivthomas/kira-zen; u:https://www.vivthomas.com/model/kira-zen; g:f
+model: n:Leila Smith; id:/model/vivthomas/leila-smith; u:https://www.vivthomas.com/model/leila-smith; g:f
 released: 2016-07-26
 photographer: Alis Locanta
 rating: 9.6
@@ -1024,7 +1024,7 @@ title: Buena Vista
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/alisa/gallery/20160723/BUENA_VISTA
-cast: Alisa; https://www.vivthomas.com/model/alisa; f
+model: n:Alisa; id:/model/vivthomas/alisa; u:https://www.vivthomas.com/model/alisa; g:f
 released: 2016-07-23
 photographer: Antares
 rating: 9.2
@@ -1038,8 +1038,8 @@ title: Eligible
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/zoe-doll-and-alexa-tomas/gallery/20160721/ELIGIBLE
-cast: Zoe Doll; https://www.vivthomas.com/model/zoe-doll; f
-cast: Alexa Tomas; https://www.vivthomas.com/model/alexa-tomas; f
+model: n:Zoe Doll; id:/model/vivthomas/zoe-doll; u:https://www.vivthomas.com/model/zoe-doll; g:f
+model: n:Alexa Tomas; id:/model/vivthomas/alexa-tomas; u:https://www.vivthomas.com/model/alexa-tomas; g:f
 released: 2016-07-21
 photographer: Alis Locanta
 rating: 9.4
@@ -1053,8 +1053,8 @@ title: Engaging
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/jessie-volt-and-kira-zen/gallery/20160719/ENGAGING
-cast: Jessie Volt; https://www.vivthomas.com/model/jessie-volt; f
-cast: Kira Zen; https://www.vivthomas.com/model/kira-zen; f
+model: n:Jessie Volt; id:/model/vivthomas/jessie-volt; u:https://www.vivthomas.com/model/jessie-volt; g:f
+model: n:Kira Zen; id:/model/vivthomas/kira-zen; u:https://www.vivthomas.com/model/kira-zen; g:f
 released: 2016-07-19
 photographer: Alis Locanta
 rating: 9.5
@@ -1068,7 +1068,7 @@ title: Fiery Delight
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/michelle-h/gallery/20160716/FIERY_DELIGHT
-cast: Michelle H; https://www.vivthomas.com/model/michelle-h; f
+model: n:Michelle H; id:/model/vivthomas/michelle-h; u:https://www.vivthomas.com/model/michelle-h; g:f
 released: 2016-07-16
 photographer: Marco Simoncelli
 rating: 9.6
@@ -1082,8 +1082,8 @@ title: Parable
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/dorothy-black-and-noe-milk/gallery/20160714/PARABLE
-cast: Dorothy Black; https://www.vivthomas.com/model/dorothy-black; f
-cast: Noe Milk; https://www.vivthomas.com/model/noe-milk; f
+model: n:Dorothy Black; id:/model/vivthomas/dorothy-black; u:https://www.vivthomas.com/model/dorothy-black; g:f
+model: n:Noe Milk; id:/model/vivthomas/noe-milk; u:https://www.vivthomas.com/model/noe-milk; g:f
 released: 2016-07-14
 photographer: Alis Locanta
 rating: 9.4
@@ -1097,8 +1097,8 @@ title: Humidity
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/aria-logan-and-arian/gallery/20160712/HUMIDITY
-cast: Aria Logan; https://www.vivthomas.com/model/aria-logan; f
-cast: Arian; https://www.vivthomas.com/model/arian; f
+model: n:Aria Logan; id:/model/vivthomas/aria-logan; u:https://www.vivthomas.com/model/aria-logan; g:f
+model: n:Arian; id:/model/vivthomas/arian; u:https://www.vivthomas.com/model/arian; g:f
 released: 2016-07-12
 photographer: Alis Locanta
 rating: 9.1
@@ -1112,7 +1112,7 @@ title: Au Naturel
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/dolly/gallery/20160709/AU_NATUREL
-cast: Dolly; https://www.vivthomas.com/model/dolly; f
+model: n:Dolly; id:/model/vivthomas/dolly; u:https://www.vivthomas.com/model/dolly; g:f
 released: 2016-07-09
 photographer: Antares
 rating: 9.3
@@ -1126,8 +1126,8 @@ title: Enjoyment
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/cristal-caitlin-and-kira-zen/gallery/20160707/ENJOYMENT
-cast: Cristal Caitlin; https://www.vivthomas.com/model/cristal-caitlin; f
-cast: Kira Zen; https://www.vivthomas.com/model/kira-zen; f
+model: n:Cristal Caitlin; id:/model/vivthomas/cristal-caitlin; u:https://www.vivthomas.com/model/cristal-caitlin; g:f
+model: n:Kira Zen; id:/model/vivthomas/kira-zen; u:https://www.vivthomas.com/model/kira-zen; g:f
 released: 2016-07-07
 photographer: Alis Locanta
 rating: 9.6
@@ -1141,8 +1141,8 @@ title: Flawless
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/lola-a-and-jessie-volt/gallery/20160705/FLAWLESS
-cast: Lola A; https://www.vivthomas.com/model/lola-a; f
-cast: Jessie Volt; https://www.vivthomas.com/model/jessie-volt; f
+model: n:Lola A; id:/model/vivthomas/lola-a; u:https://www.vivthomas.com/model/lola-a; g:f
+model: n:Jessie Volt; id:/model/vivthomas/jessie-volt; u:https://www.vivthomas.com/model/jessie-volt; g:f
 released: 2016-07-05
 photographer: Alis Locanta
 rating: 9.2
@@ -1156,8 +1156,8 @@ title: Sexual Adventure
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/milena-d-and-nika-n/gallery/20160702/SEXUAL_ADVENTURE
-cast: Milena D; https://www.vivthomas.com/model/milena-d; f
-cast: Nika N; https://www.vivthomas.com/model/nika-n; f
+model: n:Milena D; id:/model/vivthomas/milena-d; u:https://www.vivthomas.com/model/milena-d; g:f
+model: n:Nika N; id:/model/vivthomas/nika-n; u:https://www.vivthomas.com/model/nika-n; g:f
 released: 2016-07-02
 photographer: Antares
 rating: 9.6
@@ -1171,8 +1171,8 @@ title: Expressive
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/alexa-tomas-and-lena-love/gallery/20160630/EXPRESSIVE
-cast: Alexa Tomas; https://www.vivthomas.com/model/alexa-tomas; f
-cast: Lena Love; https://www.vivthomas.com/model/lena-love; f
+model: n:Alexa Tomas; id:/model/vivthomas/alexa-tomas; u:https://www.vivthomas.com/model/alexa-tomas; g:f
+model: n:Lena Love; id:/model/vivthomas/lena-love; u:https://www.vivthomas.com/model/lena-love; g:f
 released: 2016-06-30
 photographer: Alis Locanta
 rating: 9.5
@@ -1186,8 +1186,8 @@ title: Nimble
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/nekane-and-henessy-a/gallery/20160628/NIMBLE
-cast: Nekane; https://www.vivthomas.com/model/nekane; f
-cast: Henessy A; https://www.vivthomas.com/model/henessy-a; f
+model: n:Nekane; id:/model/vivthomas/nekane; u:https://www.vivthomas.com/model/nekane; g:f
+model: n:Henessy A; id:/model/vivthomas/henessy-a; u:https://www.vivthomas.com/model/henessy-a; g:f
 released: 2016-06-28
 photographer: Alis Locanta
 rating: 9.5
@@ -1201,8 +1201,8 @@ title: Summer Fling
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/korica-a-and-milena-d/gallery/20160625/SUMMER_FLING
-cast: Korica A; https://www.vivthomas.com/model/korica-a; f
-cast: Milena D; https://www.vivthomas.com/model/milena-d; f
+model: n:Korica A; id:/model/vivthomas/korica-a; u:https://www.vivthomas.com/model/korica-a; g:f
+model: n:Milena D; id:/model/vivthomas/milena-d; u:https://www.vivthomas.com/model/milena-d; g:f
 released: 2016-06-25
 photographer: Antares
 rating: 9.5
@@ -1216,8 +1216,8 @@ title: Fable
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/alexa-tomas-and-dorothy-black/gallery/20160623/FABLE
-cast: Alexa Tomas; https://www.vivthomas.com/model/alexa-tomas; f
-cast: Dorothy Black; https://www.vivthomas.com/model/dorothy-black; f
+model: n:Alexa Tomas; id:/model/vivthomas/alexa-tomas; u:https://www.vivthomas.com/model/alexa-tomas; g:f
+model: n:Dorothy Black; id:/model/vivthomas/dorothy-black; u:https://www.vivthomas.com/model/dorothy-black; g:f
 released: 2016-06-23
 photographer: Alis Locanta
 rating: 9.4
@@ -1231,8 +1231,8 @@ title: Atmospheric
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/carolina-abril-and-penelope-cum/gallery/20160621/ATMOSPHERIC
-cast: Carolina Abril; https://www.vivthomas.com/model/carolina-abril; f
-cast: Penelope Cum; https://www.vivthomas.com/model/penelope-cum; f
+model: n:Carolina Abril; id:/model/vivthomas/carolina-abril; u:https://www.vivthomas.com/model/carolina-abril; g:f
+model: n:Penelope Cum; id:/model/vivthomas/penelope-cum; u:https://www.vivthomas.com/model/penelope-cum; g:f
 released: 2016-06-21
 photographer: Alis Locanta
 rating: 9.4
@@ -1246,8 +1246,8 @@ title: Disrobe
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/nika-n-and-anoli-angel/gallery/20160618/DISROBE
-cast: Nika N; https://www.vivthomas.com/model/nika-n; f
-cast: Anoli Angel; https://www.vivthomas.com/model/anoli-angel; f
+model: n:Nika N; id:/model/vivthomas/nika-n; u:https://www.vivthomas.com/model/nika-n; g:f
+model: n:Anoli Angel; id:/model/vivthomas/anoli-angel; u:https://www.vivthomas.com/model/anoli-angel; g:f
 released: 2016-06-18
 photographer: Antares
 rating: 9.6
@@ -1261,8 +1261,8 @@ title: Emote
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/leila-smith-and-lola-a/gallery/20160616/EMOTE
-cast: Leila Smith; https://www.vivthomas.com/model/leila-smith; f
-cast: Lola A; https://www.vivthomas.com/model/lola-a; f
+model: n:Leila Smith; id:/model/vivthomas/leila-smith; u:https://www.vivthomas.com/model/leila-smith; g:f
+model: n:Lola A; id:/model/vivthomas/lola-a; u:https://www.vivthomas.com/model/lola-a; g:f
 released: 2016-06-16
 photographer: Alis Locanta
 rating: 9.5
@@ -1276,8 +1276,8 @@ title: Cavort
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/arian-and-eveline-dellai/gallery/20160614/CAVORT
-cast: Arian; https://www.vivthomas.com/model/arian; f
-cast: Eveline Dellai; https://www.vivthomas.com/model/eveline-dellai; f
+model: n:Arian; id:/model/vivthomas/arian; u:https://www.vivthomas.com/model/arian; g:f
+model: n:Eveline Dellai; id:/model/vivthomas/eveline-dellai; u:https://www.vivthomas.com/model/eveline-dellai; g:f
 released: 2016-06-14
 photographer: Alis Locanta
 rating: 9.2
@@ -1291,8 +1291,8 @@ title: Angelic
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/macy-and-veel/gallery/20160611/ANGELIC
-cast: Macy; https://www.vivthomas.com/model/macy; f
-cast: Veel; https://www.vivthomas.com/model/veel; f
+model: n:Macy; id:/model/vivthomas/macy; u:https://www.vivthomas.com/model/macy; g:f
+model: n:Veel; id:/model/vivthomas/veel; u:https://www.vivthomas.com/model/veel; g:f
 released: 2016-06-11
 photographer: Albert Varin
 rating: 9.5
@@ -1306,8 +1306,8 @@ title: Promiscuous
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/alexa-tomas-and-michelle-h/gallery/20160609/PROMISCUOUS
-cast: Alexa Tomas; https://www.vivthomas.com/model/alexa-tomas; f
-cast: Michelle H; https://www.vivthomas.com/model/michelle-h; f
+model: n:Alexa Tomas; id:/model/vivthomas/alexa-tomas; u:https://www.vivthomas.com/model/alexa-tomas; g:f
+model: n:Michelle H; id:/model/vivthomas/michelle-h; u:https://www.vivthomas.com/model/michelle-h; g:f
 released: 2016-06-09
 photographer: Alis Locanta
 rating: 9.5
@@ -1321,8 +1321,8 @@ title: Energetic
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/anissa-kate-and-ena-sweet/gallery/20160607/ENERGETIC
-cast: Anissa Kate; https://www.vivthomas.com/model/anissa-kate; f
-cast: Ena Sweet; https://www.vivthomas.com/model/ena-sweet; f
+model: n:Anissa Kate; id:/model/vivthomas/anissa-kate; u:https://www.vivthomas.com/model/anissa-kate; g:f
+model: n:Ena Sweet; id:/model/vivthomas/ena-sweet; u:https://www.vivthomas.com/model/ena-sweet; g:f
 released: 2016-06-07
 photographer: Alis Locanta
 rating: 9.3
@@ -1336,8 +1336,8 @@ title: Frivolous
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/lola-a-and-julia-roca/gallery/20160604/FRIVOLOUS
-cast: Lola A; https://www.vivthomas.com/model/lola-a; f
-cast: Julia Roca; https://www.vivthomas.com/model/julia-roca; f
+model: n:Lola A; id:/model/vivthomas/lola-a; u:https://www.vivthomas.com/model/lola-a; g:f
+model: n:Julia Roca; id:/model/vivthomas/julia-roca; u:https://www.vivthomas.com/model/julia-roca; g:f
 released: 2016-06-04
 photographer: Alis Locanta
 rating: 9.5
@@ -1351,8 +1351,8 @@ title: Deviant
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/henessy-a-and-anissa-kate/gallery/20160602/DEVIANT
-cast: Henessy A; https://www.vivthomas.com/model/henessy-a; f
-cast: Anissa Kate; https://www.vivthomas.com/model/anissa-kate; f
+model: n:Henessy A; id:/model/vivthomas/henessy-a; u:https://www.vivthomas.com/model/henessy-a; g:f
+model: n:Anissa Kate; id:/model/vivthomas/anissa-kate; u:https://www.vivthomas.com/model/anissa-kate; g:f
 released: 2016-06-02
 photographer: Alis Locanta
 rating: 9.4
@@ -1366,8 +1366,8 @@ title: Amorous
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/nekane-and-arwen-gold/gallery/20160531/AMOROUS
-cast: Nekane; https://www.vivthomas.com/model/nekane; f
-cast: Arwen Gold; https://www.vivthomas.com/model/arwen-gold; f
+model: n:Nekane; id:/model/vivthomas/nekane; u:https://www.vivthomas.com/model/nekane; g:f
+model: n:Arwen Gold; id:/model/vivthomas/arwen-gold; u:https://www.vivthomas.com/model/arwen-gold; g:f
 released: 2016-05-31
 photographer: Alis Locanta
 rating: 9.5
@@ -1381,8 +1381,8 @@ title: Luxury
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/henessy-a-and-julia-roca/gallery/20160528/LUXURY
-cast: Henessy A; https://www.vivthomas.com/model/henessy-a; f
-cast: Julia Roca; https://www.vivthomas.com/model/julia-roca; f
+model: n:Henessy A; id:/model/vivthomas/henessy-a; u:https://www.vivthomas.com/model/henessy-a; g:f
+model: n:Julia Roca; id:/model/vivthomas/julia-roca; u:https://www.vivthomas.com/model/julia-roca; g:f
 released: 2016-05-28
 photographer: Alis Locanta
 rating: 9.6
@@ -1396,8 +1396,8 @@ title: Risque
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/talia-mint-and-sophia-laure/gallery/20160526/RISQUE
-cast: Talia Mint; https://www.vivthomas.com/model/talia-mint; f
-cast: Sophia Laure; https://www.vivthomas.com/model/sophia-laure; f
+model: n:Talia Mint; id:/model/vivthomas/talia-mint; u:https://www.vivthomas.com/model/talia-mint; g:f
+model: n:Sophia Laure; id:/model/vivthomas/sophia-laure; u:https://www.vivthomas.com/model/sophia-laure; g:f
 released: 2016-05-26
 photographer: Alis Locanta
 rating: 9.3
@@ -1411,9 +1411,9 @@ title: Trinity
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/taissia-a-and-alyssa-reece-and-dorothy-black/gallery/20160524/TRINITY
-cast: Taissia A; https://www.vivthomas.com/model/taissia-a; f
-cast: Alyssa Reece; https://www.vivthomas.com/model/alyssa-reece; f
-cast: Dorothy Black; https://www.vivthomas.com/model/dorothy-black; f
+model: n:Taissia A; id:/model/vivthomas/taissia-a; u:https://www.vivthomas.com/model/taissia-a; g:f
+model: n:Alyssa Reece; id:/model/vivthomas/alyssa-reece; u:https://www.vivthomas.com/model/alyssa-reece; g:f
+model: n:Dorothy Black; id:/model/vivthomas/dorothy-black; u:https://www.vivthomas.com/model/dorothy-black; g:f
 released: 2016-05-24
 photographer: Alis Locanta
 rating: 9.6
@@ -1427,8 +1427,8 @@ title: Desire
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/arwen-gold-and-nekane/gallery/20160521/DESIRE
-cast: Arwen Gold; https://www.vivthomas.com/model/arwen-gold; f
-cast: Nekane; https://www.vivthomas.com/model/nekane; f
+model: n:Arwen Gold; id:/model/vivthomas/arwen-gold; u:https://www.vivthomas.com/model/arwen-gold; g:f
+model: n:Nekane; id:/model/vivthomas/nekane; u:https://www.vivthomas.com/model/nekane; g:f
 released: 2016-05-21
 photographer: Alis Locanta
 rating: 9.6
@@ -1442,8 +1442,8 @@ title: Carnal
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/alyssa-reece-and-talia-mint/gallery/20160519/CARNAL
-cast: Alyssa Reece; https://www.vivthomas.com/model/alyssa-reece; f
-cast: Talia Mint; https://www.vivthomas.com/model/talia-mint; f
+model: n:Alyssa Reece; id:/model/vivthomas/alyssa-reece; u:https://www.vivthomas.com/model/alyssa-reece; g:f
+model: n:Talia Mint; id:/model/vivthomas/talia-mint; u:https://www.vivthomas.com/model/talia-mint; g:f
 released: 2016-05-19
 photographer: Alis Locanta
 rating: 9.4
@@ -1457,8 +1457,8 @@ title: Zealous
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/naomi-nevena-and-lena-love/gallery/20160517/ZEALOUS
-cast: Naomi Nevena; https://www.vivthomas.com/model/naomi-nevena; f
-cast: Lena Love; https://www.vivthomas.com/model/lena-love; f
+model: n:Naomi Nevena; id:/model/vivthomas/naomi-nevena; u:https://www.vivthomas.com/model/naomi-nevena; g:f
+model: n:Lena Love; id:/model/vivthomas/lena-love; u:https://www.vivthomas.com/model/lena-love; g:f
 released: 2016-05-17
 photographer: Alis Locanta
 rating: 9.5
@@ -1472,8 +1472,8 @@ title: Unique
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/taissia-a-and-alyssa-reece/gallery/20160514/UNIQUE
-cast: Taissia A; https://www.vivthomas.com/model/taissia-a; f
-cast: Alyssa Reece; https://www.vivthomas.com/model/alyssa-reece; f
+model: n:Taissia A; id:/model/vivthomas/taissia-a; u:https://www.vivthomas.com/model/taissia-a; g:f
+model: n:Alyssa Reece; id:/model/vivthomas/alyssa-reece; u:https://www.vivthomas.com/model/alyssa-reece; g:f
 released: 2016-05-14
 photographer: Andrej Lupin
 rating: 9.4
@@ -1487,8 +1487,8 @@ title: Delectable
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/naomi-nevena-and-violette-pink/gallery/20160512/DELECTABLE
-cast: Naomi Nevena; https://www.vivthomas.com/model/naomi-nevena; f
-cast: Violette Pink; https://www.vivthomas.com/model/violette-pink; f
+model: n:Naomi Nevena; id:/model/vivthomas/naomi-nevena; u:https://www.vivthomas.com/model/naomi-nevena; g:f
+model: n:Violette Pink; id:/model/vivthomas/violette-pink; u:https://www.vivthomas.com/model/violette-pink; g:f
 released: 2016-05-12
 photographer: Alis Locanta
 rating: 9.4
@@ -1502,8 +1502,8 @@ title: Svelte
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/violette-pink-and-lena-love/gallery/20160510/SVELTE
-cast: Violette Pink; https://www.vivthomas.com/model/violette-pink; f
-cast: Lena Love; https://www.vivthomas.com/model/lena-love; f
+model: n:Violette Pink; id:/model/vivthomas/violette-pink; u:https://www.vivthomas.com/model/violette-pink; g:f
+model: n:Lena Love; id:/model/vivthomas/lena-love; u:https://www.vivthomas.com/model/lena-love; g:f
 released: 2016-05-10
 photographer: Alis Locanta
 rating: 9.4
@@ -1517,8 +1517,8 @@ title: Fantasize
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/anissa-kate-and-ena-sweet/gallery/20160507/FANTASIZE
-cast: Anissa Kate; https://www.vivthomas.com/model/anissa-kate; f
-cast: Ena Sweet; https://www.vivthomas.com/model/ena-sweet; f
+model: n:Anissa Kate; id:/model/vivthomas/anissa-kate; u:https://www.vivthomas.com/model/anissa-kate; g:f
+model: n:Ena Sweet; id:/model/vivthomas/ena-sweet; u:https://www.vivthomas.com/model/ena-sweet; g:f
 released: 2016-05-07
 photographer: Alis Locanta
 rating: 9.5
@@ -1532,8 +1532,8 @@ title: Daring
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/arwen-gold-and-julia-roca/gallery/20160505/DARING
-cast: Arwen Gold; https://www.vivthomas.com/model/arwen-gold; f
-cast: Julia Roca; https://www.vivthomas.com/model/julia-roca; f
+model: n:Arwen Gold; id:/model/vivthomas/arwen-gold; u:https://www.vivthomas.com/model/arwen-gold; g:f
+model: n:Julia Roca; id:/model/vivthomas/julia-roca; u:https://www.vivthomas.com/model/julia-roca; g:f
 released: 2016-05-05
 photographer: Alis Locanta
 rating: 9.5
@@ -1547,8 +1547,8 @@ title: Relaxed
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/alyssa-reece-and-taissia-a/gallery/20160503/RELAXED
-cast: Alyssa Reece; https://www.vivthomas.com/model/alyssa-reece; f
-cast: Taissia A; https://www.vivthomas.com/model/taissia-a; f
+model: n:Alyssa Reece; id:/model/vivthomas/alyssa-reece; u:https://www.vivthomas.com/model/alyssa-reece; g:f
+model: n:Taissia A; id:/model/vivthomas/taissia-a; u:https://www.vivthomas.com/model/taissia-a; g:f
 released: 2016-05-03
 photographer: Alis Locanta
 rating: 9.7
@@ -1562,8 +1562,8 @@ title: Graceful
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/talia-mint-and-naomi-nevena/gallery/20160430/GRACEFUL
-cast: Talia Mint; https://www.vivthomas.com/model/talia-mint; f
-cast: Naomi Nevena; https://www.vivthomas.com/model/naomi-nevena; f
+model: n:Talia Mint; id:/model/vivthomas/talia-mint; u:https://www.vivthomas.com/model/talia-mint; g:f
+model: n:Naomi Nevena; id:/model/vivthomas/naomi-nevena; u:https://www.vivthomas.com/model/naomi-nevena; g:f
 released: 2016-04-30
 photographer: Alis Locanta
 rating: 9.4
@@ -1577,8 +1577,8 @@ title: Raunchy
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/sophia-laure-and-violette-pink/gallery/20160428/RAUNCHY
-cast: Sophia Laure; https://www.vivthomas.com/model/sophia-laure; f
-cast: Violette Pink; https://www.vivthomas.com/model/violette-pink; f
+model: n:Sophia Laure; id:/model/vivthomas/sophia-laure; u:https://www.vivthomas.com/model/sophia-laure; g:f
+model: n:Violette Pink; id:/model/vivthomas/violette-pink; u:https://www.vivthomas.com/model/violette-pink; g:f
 released: 2016-04-28
 photographer: Alis Locanta
 rating: 9.6
@@ -1592,8 +1592,8 @@ title: Captivating
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/dorothy-black-and-talia-mint/gallery/20160426/CAPTIVATING
-cast: Dorothy Black; https://www.vivthomas.com/model/dorothy-black; f
-cast: Talia Mint; https://www.vivthomas.com/model/talia-mint; f
+model: n:Dorothy Black; id:/model/vivthomas/dorothy-black; u:https://www.vivthomas.com/model/dorothy-black; g:f
+model: n:Talia Mint; id:/model/vivthomas/talia-mint; u:https://www.vivthomas.com/model/talia-mint; g:f
 released: 2016-04-26
 photographer: Alis Locanta
 rating: 9.5
@@ -1607,8 +1607,8 @@ title: Lovingly
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/lola-a-and-henessy-a/gallery/20160423/LOVINGLY
-cast: Lola A; https://www.vivthomas.com/model/lola-a; f
-cast: Henessy A; https://www.vivthomas.com/model/henessy-a; f
+model: n:Lola A; id:/model/vivthomas/lola-a; u:https://www.vivthomas.com/model/lola-a; g:f
+model: n:Henessy A; id:/model/vivthomas/henessy-a; u:https://www.vivthomas.com/model/henessy-a; g:f
 released: 2016-04-23
 photographer: Alis Locanta
 rating: 9.4
@@ -1622,8 +1622,8 @@ title: Adventurous
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/violette-pink-and-sophia-laure/gallery/20160421/ADVENTUROUS
-cast: Violette Pink; https://www.vivthomas.com/model/violette-pink; f
-cast: Sophia Laure; https://www.vivthomas.com/model/sophia-laure; f
+model: n:Violette Pink; id:/model/vivthomas/violette-pink; u:https://www.vivthomas.com/model/violette-pink; g:f
+model: n:Sophia Laure; id:/model/vivthomas/sophia-laure; u:https://www.vivthomas.com/model/sophia-laure; g:f
 released: 2016-04-21
 photographer: Alis Locanta
 rating: 9.5
@@ -1637,8 +1637,8 @@ title: Lascivious
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/talia-mint-and-lena-love/gallery/20160419/LASCIVIOUS
-cast: Talia Mint; https://www.vivthomas.com/model/talia-mint; f
-cast: Lena Love; https://www.vivthomas.com/model/lena-love; f
+model: n:Talia Mint; id:/model/vivthomas/talia-mint; u:https://www.vivthomas.com/model/talia-mint; g:f
+model: n:Lena Love; id:/model/vivthomas/lena-love; u:https://www.vivthomas.com/model/lena-love; g:f
 released: 2016-04-19
 photographer: Alis Locanta
 rating: 9.5
@@ -1652,8 +1652,8 @@ title: Remembering
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/alyssa-reece-and-dorothy-black/gallery/20160416/REMEMBERING
-cast: Alyssa Reece; https://www.vivthomas.com/model/alyssa-reece; f
-cast: Dorothy Black; https://www.vivthomas.com/model/dorothy-black; f
+model: n:Alyssa Reece; id:/model/vivthomas/alyssa-reece; u:https://www.vivthomas.com/model/alyssa-reece; g:f
+model: n:Dorothy Black; id:/model/vivthomas/dorothy-black; u:https://www.vivthomas.com/model/dorothy-black; g:f
 released: 2016-04-16
 photographer: Alis Locanta
 rating: 9.4
@@ -1667,8 +1667,8 @@ title: Indecent
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/talia-mint-and-naomi-nevena/gallery/20160414/INDECENT
-cast: Talia Mint; https://www.vivthomas.com/model/talia-mint; f
-cast: Naomi Nevena; https://www.vivthomas.com/model/naomi-nevena; f
+model: n:Talia Mint; id:/model/vivthomas/talia-mint; u:https://www.vivthomas.com/model/talia-mint; g:f
+model: n:Naomi Nevena; id:/model/vivthomas/naomi-nevena; u:https://www.vivthomas.com/model/naomi-nevena; g:f
 released: 2016-04-14
 photographer: Alis Locanta
 rating: 9.5
@@ -1682,8 +1682,8 @@ title: Golden
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/lena-love-and-violette-pink/gallery/20160412/GOLDEN
-cast: Lena Love; https://www.vivthomas.com/model/lena-love; f
-cast: Violette Pink; https://www.vivthomas.com/model/violette-pink; f
+model: n:Lena Love; id:/model/vivthomas/lena-love; u:https://www.vivthomas.com/model/lena-love; g:f
+model: n:Violette Pink; id:/model/vivthomas/violette-pink; u:https://www.vivthomas.com/model/violette-pink; g:f
 released: 2016-04-12
 photographer: Alis Locanta
 rating: 9.5
@@ -1697,8 +1697,8 @@ title: Velour
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/sweet-cat-and-lorena-garcia/gallery/20160409/VELOUR
-cast: Sweet Cat; https://www.vivthomas.com/model/sweet-cat; f
-cast: Lorena Garcia; https://www.vivthomas.com/model/lorena-garcia; f
+model: n:Sweet Cat; id:/model/vivthomas/sweet-cat; u:https://www.vivthomas.com/model/sweet-cat; g:f
+model: n:Lorena Garcia; id:/model/vivthomas/lorena-garcia; u:https://www.vivthomas.com/model/lorena-garcia; g:f
 released: 2016-04-09
 photographer: Don Caravaggio
 rating: 9.7
@@ -1712,8 +1712,8 @@ title: Emotion
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/tracy-lindsay-and-carolina-abril/gallery/20160407/EMOTION
-cast: Tracy Lindsay; https://www.vivthomas.com/model/tracy-lindsay; f
-cast: Carolina Abril; https://www.vivthomas.com/model/carolina-abril; f
+model: n:Tracy Lindsay; id:/model/vivthomas/tracy-lindsay; u:https://www.vivthomas.com/model/tracy-lindsay; g:f
+model: n:Carolina Abril; id:/model/vivthomas/carolina-abril; u:https://www.vivthomas.com/model/carolina-abril; g:f
 released: 2016-04-07
 photographer: Alis Locanta
 rating: 9.4
@@ -1727,8 +1727,8 @@ title: Admire
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/carolina-abril-and-silvie-luca/gallery/20160405/ADMIRE
-cast: Carolina Abril; https://www.vivthomas.com/model/carolina-abril; f
-cast: Silvie Luca; https://www.vivthomas.com/model/silvie-luca; f
+model: n:Carolina Abril; id:/model/vivthomas/carolina-abril; u:https://www.vivthomas.com/model/carolina-abril; g:f
+model: n:Silvie Luca; id:/model/vivthomas/silvie-luca; u:https://www.vivthomas.com/model/silvie-luca; g:f
 released: 2016-04-05
 photographer: Alis Locanta
 rating: 9.5
@@ -1742,8 +1742,8 @@ title: Devotion
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/cayla-lions-and-tracy-lindsay/gallery/20160402/DEVOTION
-cast: Cayla Lions; https://www.vivthomas.com/model/cayla-lions; f
-cast: Tracy Lindsay; https://www.vivthomas.com/model/tracy-lindsay; f
+model: n:Cayla Lions; id:/model/vivthomas/cayla-lions; u:https://www.vivthomas.com/model/cayla-lions; g:f
+model: n:Tracy Lindsay; id:/model/vivthomas/tracy-lindsay; u:https://www.vivthomas.com/model/tracy-lindsay; g:f
 released: 2016-04-02
 photographer: Alis Locanta
 rating: 9.5
@@ -1757,8 +1757,8 @@ title: Prolonged
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/silvie-luca-and-cayla-lions/gallery/20160331/PROLONGED
-cast: Silvie Luca; https://www.vivthomas.com/model/silvie-luca; f
-cast: Cayla Lions; https://www.vivthomas.com/model/cayla-lions; f
+model: n:Silvie Luca; id:/model/vivthomas/silvie-luca; u:https://www.vivthomas.com/model/silvie-luca; g:f
+model: n:Cayla Lions; id:/model/vivthomas/cayla-lions; u:https://www.vivthomas.com/model/cayla-lions; g:f
 released: 2016-03-31
 photographer: Alis Locanta
 rating: 9.5
@@ -1772,8 +1772,8 @@ title: Electric
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/victoria-puppy-and-eileen-sue/gallery/20160329/ELECTRIC
-cast: Victoria Puppy; https://www.vivthomas.com/model/victoria-puppy; f
-cast: Eileen Sue; https://www.vivthomas.com/model/eileen-sue; f
+model: n:Victoria Puppy; id:/model/vivthomas/victoria-puppy; u:https://www.vivthomas.com/model/victoria-puppy; g:f
+model: n:Eileen Sue; id:/model/vivthomas/eileen-sue; u:https://www.vivthomas.com/model/eileen-sue; g:f
 released: 2016-03-29
 photographer: Alis Locanta
 rating: 9.5
@@ -1787,8 +1787,8 @@ title: Grasp
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/eileen-sue-and-baby-jewel/gallery/20160326/GRASP
-cast: Eileen Sue; https://www.vivthomas.com/model/eileen-sue; f
-cast: Baby Jewel; https://www.vivthomas.com/model/baby-jewel; f
+model: n:Eileen Sue; id:/model/vivthomas/eileen-sue; u:https://www.vivthomas.com/model/eileen-sue; g:f
+model: n:Baby Jewel; id:/model/vivthomas/baby-jewel; u:https://www.vivthomas.com/model/baby-jewel; g:f
 released: 2016-03-26
 photographer: Alis Locanta
 rating: 9.5
@@ -1802,8 +1802,8 @@ title: Rapture
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/kari-a-and-amirah-adara/gallery/20160324/RAPTURE
-cast: Kari A; https://www.vivthomas.com/model/kari-a; f
-cast: Amirah Adara; https://www.vivthomas.com/model/amirah-adara; f
+model: n:Kari A; id:/model/vivthomas/kari-a; u:https://www.vivthomas.com/model/kari-a; g:f
+model: n:Amirah Adara; id:/model/vivthomas/amirah-adara; u:https://www.vivthomas.com/model/amirah-adara; g:f
 released: 2016-03-24
 photographer: Alis Locanta
 rating: 9.6
@@ -1817,8 +1817,8 @@ title: Gaze
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/francys-belle-and-kari-a/gallery/20160322/GAZE
-cast: Francys Belle; https://www.vivthomas.com/model/francys-belle; f
-cast: Kari A; https://www.vivthomas.com/model/kari-a; f
+model: n:Francys Belle; id:/model/vivthomas/francys-belle; u:https://www.vivthomas.com/model/francys-belle; g:f
+model: n:Kari A; id:/model/vivthomas/kari-a; u:https://www.vivthomas.com/model/kari-a; g:f
 released: 2016-03-22
 photographer: Alis Locanta
 rating: 9.5
@@ -1832,8 +1832,8 @@ title: Ecstacy
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/eileen-sue-and-baby-jewel/gallery/20160319/ECSTACY
-cast: Eileen Sue; https://www.vivthomas.com/model/eileen-sue; f
-cast: Baby Jewel; https://www.vivthomas.com/model/baby-jewel; f
+model: n:Eileen Sue; id:/model/vivthomas/eileen-sue; u:https://www.vivthomas.com/model/eileen-sue; g:f
+model: n:Baby Jewel; id:/model/vivthomas/baby-jewel; u:https://www.vivthomas.com/model/baby-jewel; g:f
 released: 2016-03-19
 photographer: Alis Locanta
 rating: 9.6
@@ -1847,8 +1847,8 @@ title: Careless
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/kari-a-and-francys-belle/gallery/20160317/CARELESS
-cast: Kari A; https://www.vivthomas.com/model/kari-a; f
-cast: Francys Belle; https://www.vivthomas.com/model/francys-belle; f
+model: n:Kari A; id:/model/vivthomas/kari-a; u:https://www.vivthomas.com/model/kari-a; g:f
+model: n:Francys Belle; id:/model/vivthomas/francys-belle; u:https://www.vivthomas.com/model/francys-belle; g:f
 released: 2016-03-17
 photographer: Alis Locanta
 rating: 9.3
@@ -1862,8 +1862,8 @@ title: Agile
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/tiffany-doll-and-baby-jewel/gallery/20160315/AGILE
-cast: Tiffany Doll; https://www.vivthomas.com/model/tiffany-doll; f
-cast: Baby Jewel; https://www.vivthomas.com/model/baby-jewel; f
+model: n:Tiffany Doll; id:/model/vivthomas/tiffany-doll; u:https://www.vivthomas.com/model/tiffany-doll; g:f
+model: n:Baby Jewel; id:/model/vivthomas/baby-jewel; u:https://www.vivthomas.com/model/baby-jewel; g:f
 released: 2016-03-15
 photographer: Alis Locanta
 rating: 9.3
@@ -1877,8 +1877,8 @@ title: Clinch
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/silvie-luca-and-tracy-lindsay/gallery/20160312/CLINCH
-cast: Silvie Luca; https://www.vivthomas.com/model/silvie-luca; f
-cast: Tracy Lindsay; https://www.vivthomas.com/model/tracy-lindsay; f
+model: n:Silvie Luca; id:/model/vivthomas/silvie-luca; u:https://www.vivthomas.com/model/silvie-luca; g:f
+model: n:Tracy Lindsay; id:/model/vivthomas/tracy-lindsay; u:https://www.vivthomas.com/model/tracy-lindsay; g:f
 released: 2016-03-12
 photographer: Alis Locanta
 rating: 9.4
@@ -1892,8 +1892,8 @@ title: Pleasure
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/victoria-puppy-and-tiffany-doll/gallery/20160310/PLEASURE
-cast: Victoria Puppy; https://www.vivthomas.com/model/victoria-puppy; f
-cast: Tiffany Doll; https://www.vivthomas.com/model/tiffany-doll; f
+model: n:Victoria Puppy; id:/model/vivthomas/victoria-puppy; u:https://www.vivthomas.com/model/victoria-puppy; g:f
+model: n:Tiffany Doll; id:/model/vivthomas/tiffany-doll; u:https://www.vivthomas.com/model/tiffany-doll; g:f
 released: 2016-03-10
 photographer: Alis Locanta
 rating: 9.5
@@ -1907,8 +1907,8 @@ title: Glimpse
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/kari-a-and-amirah-adara/gallery/20160308/GLIMPSE
-cast: Kari A; https://www.vivthomas.com/model/kari-a; f
-cast: Amirah Adara; https://www.vivthomas.com/model/amirah-adara; f
+model: n:Kari A; id:/model/vivthomas/kari-a; u:https://www.vivthomas.com/model/kari-a; g:f
+model: n:Amirah Adara; id:/model/vivthomas/amirah-adara; u:https://www.vivthomas.com/model/amirah-adara; g:f
 released: 2016-03-08
 photographer: Alis Locanta
 rating: 9.5
@@ -1922,8 +1922,8 @@ title: Affair
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/cayla-lions-and-silvie-luca/gallery/20160305/AFFAIR
-cast: Cayla Lions; https://www.vivthomas.com/model/cayla-lions; f
-cast: Silvie Luca; https://www.vivthomas.com/model/silvie-luca; f
+model: n:Cayla Lions; id:/model/vivthomas/cayla-lions; u:https://www.vivthomas.com/model/cayla-lions; g:f
+model: n:Silvie Luca; id:/model/vivthomas/silvie-luca; u:https://www.vivthomas.com/model/silvie-luca; g:f
 released: 2016-03-05
 photographer: Alis Locanta
 rating: 9.5
@@ -1937,8 +1937,8 @@ title: Absent
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/amirah-adara-and-eileen-sue/gallery/20160303/ABSENT
-cast: Amirah Adara; https://www.vivthomas.com/model/amirah-adara; f
-cast: Eileen Sue; https://www.vivthomas.com/model/eileen-sue; f
+model: n:Amirah Adara; id:/model/vivthomas/amirah-adara; u:https://www.vivthomas.com/model/amirah-adara; g:f
+model: n:Eileen Sue; id:/model/vivthomas/eileen-sue; u:https://www.vivthomas.com/model/eileen-sue; g:f
 released: 2016-03-03
 photographer: Alis Locanta
 rating: 9.4
@@ -1952,8 +1952,8 @@ title: Eager
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/kari-a-and-francys-belle/gallery/20160301/EAGER
-cast: Kari A; https://www.vivthomas.com/model/kari-a; f
-cast: Francys Belle; https://www.vivthomas.com/model/francys-belle; f
+model: n:Kari A; id:/model/vivthomas/kari-a; u:https://www.vivthomas.com/model/kari-a; g:f
+model: n:Francys Belle; id:/model/vivthomas/francys-belle; u:https://www.vivthomas.com/model/francys-belle; g:f
 released: 2016-03-01
 photographer: Alis Locanta
 rating: 9.6
@@ -1967,8 +1967,8 @@ title: Longing
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/tiffany-doll-and-amirah-adara/gallery/20160227/LONGING
-cast: Tiffany Doll; https://www.vivthomas.com/model/tiffany-doll; f
-cast: Amirah Adara; https://www.vivthomas.com/model/amirah-adara; f
+model: n:Tiffany Doll; id:/model/vivthomas/tiffany-doll; u:https://www.vivthomas.com/model/tiffany-doll; g:f
+model: n:Amirah Adara; id:/model/vivthomas/amirah-adara; u:https://www.vivthomas.com/model/amirah-adara; g:f
 released: 2016-02-27
 photographer: Alis Locanta
 rating: 9.4
@@ -1982,8 +1982,8 @@ title: Hosiery
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/tracy-lindsay-and-cayla-lions/gallery/20160225/HOSIERY
-cast: Tracy Lindsay; https://www.vivthomas.com/model/tracy-lindsay; f
-cast: Cayla Lions; https://www.vivthomas.com/model/cayla-lions; f
+model: n:Tracy Lindsay; id:/model/vivthomas/tracy-lindsay; u:https://www.vivthomas.com/model/tracy-lindsay; g:f
+model: n:Cayla Lions; id:/model/vivthomas/cayla-lions; u:https://www.vivthomas.com/model/cayla-lions; g:f
 released: 2016-02-25
 photographer: Alis Locanta
 rating: 9.6
@@ -1997,8 +1997,8 @@ title: Glance
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/tiffany-doll-and-eileen-sue/gallery/20160223/GLANCE
-cast: Tiffany Doll; https://www.vivthomas.com/model/tiffany-doll; f
-cast: Eileen Sue; https://www.vivthomas.com/model/eileen-sue; f
+model: n:Tiffany Doll; id:/model/vivthomas/tiffany-doll; u:https://www.vivthomas.com/model/tiffany-doll; g:f
+model: n:Eileen Sue; id:/model/vivthomas/eileen-sue; u:https://www.vivthomas.com/model/eileen-sue; g:f
 released: 2016-02-23
 photographer: Alis Locanta
 rating: 9.6
@@ -2012,8 +2012,8 @@ title: Triumph
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/amirah-adara-and-victoria-puppy/gallery/20160220/TRIUMPH
-cast: Amirah Adara; https://www.vivthomas.com/model/amirah-adara; f
-cast: Victoria Puppy; https://www.vivthomas.com/model/victoria-puppy; f
+model: n:Amirah Adara; id:/model/vivthomas/amirah-adara; u:https://www.vivthomas.com/model/amirah-adara; g:f
+model: n:Victoria Puppy; id:/model/vivthomas/victoria-puppy; u:https://www.vivthomas.com/model/victoria-puppy; g:f
 released: 2016-02-20
 photographer: Alis Locanta
 rating: 9.6
@@ -2027,8 +2027,8 @@ title: Distant
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/silvie-luca-and-tracy-lindsay/gallery/20160218/DISTANT
-cast: Silvie Luca; https://www.vivthomas.com/model/silvie-luca; f
-cast: Tracy Lindsay; https://www.vivthomas.com/model/tracy-lindsay; f
+model: n:Silvie Luca; id:/model/vivthomas/silvie-luca; u:https://www.vivthomas.com/model/silvie-luca; g:f
+model: n:Tracy Lindsay; id:/model/vivthomas/tracy-lindsay; u:https://www.vivthomas.com/model/tracy-lindsay; g:f
 released: 2016-02-18
 photographer: Alis Locanta
 rating: 9.4
@@ -2042,8 +2042,8 @@ title: Velocity
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/amirah-adara-and-tiffany-doll/gallery/20160216/VELOCITY
-cast: Amirah Adara; https://www.vivthomas.com/model/amirah-adara; f
-cast: Tiffany Doll; https://www.vivthomas.com/model/tiffany-doll; f
+model: n:Amirah Adara; id:/model/vivthomas/amirah-adara; u:https://www.vivthomas.com/model/amirah-adara; g:f
+model: n:Tiffany Doll; id:/model/vivthomas/tiffany-doll; u:https://www.vivthomas.com/model/tiffany-doll; g:f
 released: 2016-02-16
 photographer: Alis Locanta
 rating: 9.4
@@ -2057,8 +2057,8 @@ title: Attraction
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/eileen-sue-and-victoria-puppy/gallery/20160213/ATTRACTION
-cast: Eileen Sue; https://www.vivthomas.com/model/eileen-sue; f
-cast: Victoria Puppy; https://www.vivthomas.com/model/victoria-puppy; f
+model: n:Eileen Sue; id:/model/vivthomas/eileen-sue; u:https://www.vivthomas.com/model/eileen-sue; g:f
+model: n:Victoria Puppy; id:/model/vivthomas/victoria-puppy; u:https://www.vivthomas.com/model/victoria-puppy; g:f
 released: 2016-02-13
 photographer: Alis Locanta
 rating: 9.5
@@ -2072,8 +2072,8 @@ title: Fantasy
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/stacy-snake-and-brandy-smile/gallery/20160211/FANTASY
-cast: Stacy Snake; https://www.vivthomas.com/model/stacy-snake; f
-cast: Brandy Smile; https://www.vivthomas.com/model/brandy-smile; f
+model: n:Stacy Snake; id:/model/vivthomas/stacy-snake; u:https://www.vivthomas.com/model/stacy-snake; g:f
+model: n:Brandy Smile; id:/model/vivthomas/brandy-smile; u:https://www.vivthomas.com/model/brandy-smile; g:f
 released: 2016-02-11
 photographer: Gabor
 rating: 9.5
@@ -2087,8 +2087,8 @@ title: Exigency
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/lola-a-and-taylor-sands/gallery/20160209/EXIGENCY
-cast: Lola A; https://www.vivthomas.com/model/lola-a; f
-cast: Taylor Sands; https://www.vivthomas.com/model/taylor-sands; f
+model: n:Lola A; id:/model/vivthomas/lola-a; u:https://www.vivthomas.com/model/lola-a; g:f
+model: n:Taylor Sands; id:/model/vivthomas/taylor-sands; u:https://www.vivthomas.com/model/taylor-sands; g:f
 released: 2016-02-09
 photographer: Alis Locanta
 rating: 9.3
@@ -2102,8 +2102,8 @@ title: Conclude
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/patritcy-and-mango-a/gallery/20160206/CONCLUDE
-cast: Patritcy; https://www.vivthomas.com/model/patritcy; f
-cast: Mango A; https://www.vivthomas.com/model/mango-a; f
+model: n:Patritcy; id:/model/vivthomas/patritcy; u:https://www.vivthomas.com/model/patritcy; g:f
+model: n:Mango A; id:/model/vivthomas/mango-a; u:https://www.vivthomas.com/model/mango-a; g:f
 released: 2016-02-06
 photographer: Alis Locanta
 rating: 9.7
@@ -2117,8 +2117,8 @@ title: liaison
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/alexa-tomas-and-naomi-nevena/gallery/20160204/LIAISON
-cast: Alexa Tomas; https://www.vivthomas.com/model/alexa-tomas; f
-cast: Naomi Nevena; https://www.vivthomas.com/model/naomi-nevena; f
+model: n:Alexa Tomas; id:/model/vivthomas/alexa-tomas; u:https://www.vivthomas.com/model/alexa-tomas; g:f
+model: n:Naomi Nevena; id:/model/vivthomas/naomi-nevena; u:https://www.vivthomas.com/model/naomi-nevena; g:f
 released: 2016-02-04
 photographer: Alis Locanta
 rating: 9.3
@@ -2132,8 +2132,8 @@ title: Admired
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/taylor-sands-and-lola-a/gallery/20160202/ADMIRED
-cast: Taylor Sands; https://www.vivthomas.com/model/taylor-sands; f
-cast: Lola A; https://www.vivthomas.com/model/lola-a; f
+model: n:Taylor Sands; id:/model/vivthomas/taylor-sands; u:https://www.vivthomas.com/model/taylor-sands; g:f
+model: n:Lola A; id:/model/vivthomas/lola-a; u:https://www.vivthomas.com/model/lola-a; g:f
 released: 2016-02-02
 photographer: Alis Locanta
 rating: 9.3
@@ -2147,8 +2147,8 @@ title: Closure
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/lea-guerlin-and-nekane/gallery/20160130/CLOSURE
-cast: Lea Guerlin; https://www.vivthomas.com/model/lea-guerlin; f
-cast: Nekane; https://www.vivthomas.com/model/nekane; f
+model: n:Lea Guerlin; id:/model/vivthomas/lea-guerlin; u:https://www.vivthomas.com/model/lea-guerlin; g:f
+model: n:Nekane; id:/model/vivthomas/nekane; u:https://www.vivthomas.com/model/nekane; g:f
 released: 2016-01-30
 photographer: Alis Locanta
 rating: 9.5
@@ -2162,8 +2162,8 @@ title: Manipulate
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/alexa-tomas-and-henessy-a/gallery/20160128/MANIPULATE
-cast: Alexa Tomas; https://www.vivthomas.com/model/alexa-tomas; f
-cast: Henessy A; https://www.vivthomas.com/model/henessy-a; f
+model: n:Alexa Tomas; id:/model/vivthomas/alexa-tomas; u:https://www.vivthomas.com/model/alexa-tomas; g:f
+model: n:Henessy A; id:/model/vivthomas/henessy-a; u:https://www.vivthomas.com/model/henessy-a; g:f
 released: 2016-01-28
 photographer: Andrej Lupin
 rating: 9.6
@@ -2177,8 +2177,8 @@ title: Fixate
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/talia-mint-and-mango-a/gallery/20160126/FIXATE
-cast: Talia Mint; https://www.vivthomas.com/model/talia-mint; f
-cast: Mango A; https://www.vivthomas.com/model/mango-a; f
+model: n:Talia Mint; id:/model/vivthomas/talia-mint; u:https://www.vivthomas.com/model/talia-mint; g:f
+model: n:Mango A; id:/model/vivthomas/mango-a; u:https://www.vivthomas.com/model/mango-a; g:f
 released: 2016-01-26
 photographer: Alis Locanta
 rating: 9.6
@@ -2192,8 +2192,8 @@ title: Fulfillment
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/lea-guerlin-and-alexa-tomas/gallery/20160123/FULFILLMENT
-cast: Lea Guerlin; https://www.vivthomas.com/model/lea-guerlin; f
-cast: Alexa Tomas; https://www.vivthomas.com/model/alexa-tomas; f
+model: n:Lea Guerlin; id:/model/vivthomas/lea-guerlin; u:https://www.vivthomas.com/model/lea-guerlin; g:f
+model: n:Alexa Tomas; id:/model/vivthomas/alexa-tomas; u:https://www.vivthomas.com/model/alexa-tomas; g:f
 released: 2016-01-23
 photographer: Alis Locanta
 rating: 9.6
@@ -2207,8 +2207,8 @@ title: Entanglement
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/patritcy-and-taylor-sands/gallery/20160121/ENTANGLEMENT
-cast: Patritcy; https://www.vivthomas.com/model/patritcy; f
-cast: Taylor Sands; https://www.vivthomas.com/model/taylor-sands; f
+model: n:Patritcy; id:/model/vivthomas/patritcy; u:https://www.vivthomas.com/model/patritcy; g:f
+model: n:Taylor Sands; id:/model/vivthomas/taylor-sands; u:https://www.vivthomas.com/model/taylor-sands; g:f
 released: 2016-01-21
 photographer: Alis Locanta
 rating: 9.4
@@ -2222,8 +2222,8 @@ title: Secrets
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/talia-mint-and-mango-a/gallery/20160119/SECRETS
-cast: Talia Mint; https://www.vivthomas.com/model/talia-mint; f
-cast: Mango A; https://www.vivthomas.com/model/mango-a; f
+model: n:Talia Mint; id:/model/vivthomas/talia-mint; u:https://www.vivthomas.com/model/talia-mint; g:f
+model: n:Mango A; id:/model/vivthomas/mango-a; u:https://www.vivthomas.com/model/mango-a; g:f
 released: 2016-01-19
 photographer: Alis Locanta
 rating: 9.4
@@ -2237,8 +2237,8 @@ title: Frolic
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/ivana-sugar-and-lucy-heart/gallery/20160116/FROLIC
-cast: Ivana Sugar; https://www.vivthomas.com/model/ivana-sugar; f
-cast: Lucy Heart; https://www.vivthomas.com/model/lucy-heart; f
+model: n:Ivana Sugar; id:/model/vivthomas/ivana-sugar; u:https://www.vivthomas.com/model/ivana-sugar; g:f
+model: n:Lucy Heart; id:/model/vivthomas/lucy-heart; u:https://www.vivthomas.com/model/lucy-heart; g:f
 released: 2016-01-16
 photographer: Gabor
 rating: 9.5
@@ -2252,8 +2252,8 @@ title: Inimitable
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/talia-mint-and-mango-a/gallery/20160114/INIMITABLE
-cast: Talia Mint; https://www.vivthomas.com/model/talia-mint; f
-cast: Mango A; https://www.vivthomas.com/model/mango-a; f
+model: n:Talia Mint; id:/model/vivthomas/talia-mint; u:https://www.vivthomas.com/model/talia-mint; g:f
+model: n:Mango A; id:/model/vivthomas/mango-a; u:https://www.vivthomas.com/model/mango-a; g:f
 released: 2016-01-14
 photographer: Alis Locanta
 rating: 9.5
@@ -2267,8 +2267,8 @@ title: Arete
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/lorena-garcia-and-taylor-sands/gallery/20160112/ARETE
-cast: Lorena Garcia; https://www.vivthomas.com/model/lorena-garcia; f
-cast: Taylor Sands; https://www.vivthomas.com/model/taylor-sands; f
+model: n:Lorena Garcia; id:/model/vivthomas/lorena-garcia; u:https://www.vivthomas.com/model/lorena-garcia; g:f
+model: n:Taylor Sands; id:/model/vivthomas/taylor-sands; u:https://www.vivthomas.com/model/taylor-sands; g:f
 released: 2016-01-12
 photographer: Alis Locanta
 rating: 9.6
@@ -2282,8 +2282,8 @@ title: Enthrallment
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/lea-guerlin-and-nekane/gallery/20160109/ENTHRALLMENT
-cast: Lea Guerlin; https://www.vivthomas.com/model/lea-guerlin; f
-cast: Nekane; https://www.vivthomas.com/model/nekane; f
+model: n:Lea Guerlin; id:/model/vivthomas/lea-guerlin; u:https://www.vivthomas.com/model/lea-guerlin; g:f
+model: n:Nekane; id:/model/vivthomas/nekane; u:https://www.vivthomas.com/model/nekane; g:f
 released: 2016-01-09
 photographer: Alis Locanta
 rating: 9.4
@@ -2297,8 +2297,8 @@ title: Elegance
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/henessy-a-and-kiara-lord/gallery/20160107/ELEGANCE
-cast: Henessy A; https://www.vivthomas.com/model/henessy-a; f
-cast: Kiara Lord; https://www.vivthomas.com/model/kiara-lord; f
+model: n:Henessy A; id:/model/vivthomas/henessy-a; u:https://www.vivthomas.com/model/henessy-a; g:f
+model: n:Kiara Lord; id:/model/vivthomas/kiara-lord; u:https://www.vivthomas.com/model/kiara-lord; g:f
 released: 2016-01-07
 photographer: Gabor
 rating: 9.5
@@ -2312,8 +2312,8 @@ title: Fortuitous
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/natalie-gold-and-lorena-garcia/gallery/20160105/FORTUITOUS
-cast: Natalie Gold; https://www.vivthomas.com/model/natalie-gold; f
-cast: Lorena Garcia; https://www.vivthomas.com/model/lorena-garcia; f
+model: n:Natalie Gold; id:/model/vivthomas/natalie-gold; u:https://www.vivthomas.com/model/natalie-gold; g:f
+model: n:Lorena Garcia; id:/model/vivthomas/lorena-garcia; u:https://www.vivthomas.com/model/lorena-garcia; g:f
 released: 2016-01-05
 photographer: Don Caravaggio
 rating: 9.6
@@ -2327,8 +2327,8 @@ title: Inhibition
 type: gallery
 site: vt
 url: https://www.vivthomas.com/model/patritcy-and-talia-mint/gallery/20160102/INHIBITION
-cast: Patritcy; https://www.vivthomas.com/model/patritcy; f
-cast: Talia Mint; https://www.vivthomas.com/model/talia-mint; f
+model: n:Patritcy; id:/model/vivthomas/patritcy; u:https://www.vivthomas.com/model/patritcy; g:f
+model: n:Talia Mint; id:/model/vivthomas/talia-mint; u:https://www.vivthomas.com/model/talia-mint; g:f
 released: 2016-01-02
 photographer: Alis Locanta
 rating: 9.5

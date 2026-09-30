@@ -8,7 +8,7 @@
 title: Desert Rose
 type: movie
 site: MetArt
-cast: n:Rilee Marks; u:https://www.sexart.com/model/rilee-marks; s:SexArt; g:f
+model: n:Rilee Marks; id:/model/sexart/rilee-marks; u:https://www.sexart.com/model/rilee-marks; g:f
 released: 2011-12-22
 director: Bo Llanberris
 fileprefix: MetArt-20111222-desert-rose-
@@ -23,7 +23,7 @@ description: xxx
 title: Visita
 type: movie
 site: MetArt
-cast: n:Jesika A; u:https://www.metart.com/model/jesika-a; g:f
+model: n:Jesika A; id:/model/metart/jesika-a; u:https://www.metart.com/model/jesika-a; g:f
 released: 2011-12-18
 director: Leonardo
 fileprefix: MetArt-20111218-visita-
@@ -38,7 +38,7 @@ description: xxx
 title: Elle
 type: movie
 site: MetArt
-cast: n:Elle Alexra; u:https://www.metart.com/model/elle-alexra; g:f
+model: n:Elle Alexra; id:/model/metart/elle-alexra; u:https://www.metart.com/model/elle-alexra; g:f
 released: 2011-12-15
 director: Bo Llanberris
 fileprefix: MetArt-20111215-elle-
@@ -53,7 +53,7 @@ description: xxx
 title: Watercolors
 type: movie
 site: MetArt
-cast: n:Malena Morgan; u:https://www.sexart.com/model/malena-morgan; s:SexArt; g:f
+model: n:Malena Morgan; id:/model/sexart/malena-morgan; u:https://www.sexart.com/model/malena-morgan; g:f
 released: 2011-12-02
 director: Bo Llanberris
 fileprefix: MetArt-20111202-watercolors-
@@ -68,7 +68,7 @@ description: xxx
 title: Concessie
 type: movie
 site: MetArt
-cast: n:Guerlain A; u:https://www.metart.com/model/guerlain-a; g:f
+model: n:Guerlain A; id:/model/metart/guerlain-a; u:https://www.metart.com/model/guerlain-a; g:f
 released: 2011-11-30
 director: Rylsky
 fileprefix: MetArt-20111130-concessie-
@@ -83,7 +83,7 @@ description: xxx
 title: Throne
 type: movie
 site: MetArt
-cast: n:Olga M; u:https://www.metart.com/model/olga-m; g:f
+model: n:Olga M; id:/model/metart/olga-m; u:https://www.metart.com/model/olga-m; g:f
 released: 2011-11-23
 director: Leonardo
 fileprefix: MetArt-20111123-throne-
@@ -98,7 +98,7 @@ description: xxx
 title: Ygrasia
 type: movie
 site: MetArt
-cast: n:Leila A; u:https://www.metart.com/model/leila-a; g:f
+model: n:Leila A; id:/model/metart/leila-a; u:https://www.metart.com/model/leila-a; g:f
 released: 2011-11-20
 director: Rylsky
 fileprefix: MetArt-20111120-ygrasia-
@@ -113,7 +113,7 @@ description: xxx
 title: Placidus
 type: movie
 site: MetArt
-cast: n:Eva I; u:https://www.metart.com/model/eva-i; g:f
+model: n:Eva I; id:/model/metart/eva-i; u:https://www.metart.com/model/eva-i; g:f
 released: 2011-11-14
 director: Fenix
 fileprefix: MetArt-20111114-placidus-
@@ -128,7 +128,7 @@ description: xxx
 title: Cocoon
 type: movie
 site: MetArt
-cast: n:Sofi A; u:https://www.metart.com/model/sofi-a; g:f
+model: n:Sofi A; id:/model/metart/sofi-a; u:https://www.metart.com/model/sofi-a; g:f
 released: 2011-11-06
 director: Fenix
 fileprefix: MetArt-20111106-cocoon-
@@ -143,7 +143,7 @@ description: xxx
 title: Disposa
 type: movie
 site: MetArt
-cast: n:Adelia A; u:https://www.metart.com/model/adelia-a; g:f
+model: n:Adelia A; id:/model/metart/adelia-a; u:https://www.metart.com/model/adelia-a; g:f
 released: 2011-11-02
 director: Leonardo
 fileprefix: MetArt-20111102-disposa-
@@ -158,7 +158,7 @@ description: xxx
 title: Presenting Freya
 type: movie
 site: MetArt
-cast: n:Freya B; u:https://www.metart.com/model/freya-b; g:f
+model: n:Freya B; id:/model/metart/freya-b; u:https://www.metart.com/model/freya-b; g:f
 released: 2011-11-01
 director: Dmitry Maslof
 fileprefix: MetArt-20111101-presenting-freya-
@@ -173,7 +173,7 @@ description: xxx
 title: Win Win
 type: movie
 site: MetArt
-cast: n:Peaches A; u:https://www.metart.com/model/peaches-a; g:f
+model: n:Peaches A; id:/model/metart/peaches-a; u:https://www.metart.com/model/peaches-a; g:f
 released: 2011-10-22
 director: Majoly
 fileprefix: MetArt-20111022-win-win-
@@ -188,7 +188,7 @@ description: xxx
 title: Lavico
 type: movie
 site: MetArt
-cast: n:Indiana A; u:https://www.metart.com/model/indiana-a; g:f
+model: n:Indiana A; id:/model/metart/indiana-a; u:https://www.metart.com/model/indiana-a; g:f
 released: 2011-10-15
 director: Luca Helios
 fileprefix: MetArt-20111015-lavico-
@@ -203,7 +203,7 @@ description: xxx
 title: Acusado
 type: movie
 site: MetArt
-cast: n:Leka C; u:https://www.metart.com/model/leka-c; g:f
+model: n:Leka C; id:/model/metart/leka-c; u:https://www.metart.com/model/leka-c; g:f
 released: 2011-10-07
 director: Fenix
 fileprefix: MetArt-20111007-acusado-
@@ -218,7 +218,7 @@ description: xxx
 title: Tentant
 type: movie
 site: MetArt
-cast: n:Sofi A; u:https://www.metart.com/model/sofi-a; g:f
+model: n:Sofi A; id:/model/metart/sofi-a; u:https://www.metart.com/model/sofi-a; g:f
 released: 2011-10-05
 director: Fenix
 fileprefix: MetArt-20111005-tentant-
@@ -233,7 +233,7 @@ description: xxx
 title: Tactus
 type: movie
 site: MetArt
-cast: n:Velvet A; u:https://www.metart.com/model/velvet-a; g:f
+model: n:Velvet A; id:/model/metart/velvet-a; u:https://www.metart.com/model/velvet-a; g:f
 released: 2011-10-01
 director: Luca Helios
 fileprefix: MetArt-20111001-tactus-
@@ -248,7 +248,7 @@ description: xxx
 title: Silvis
 type: movie
 site: MetArt
-cast: n:Karen A; u:https://www.metart.com/model/karen-a; g:f
+model: n:Karen A; id:/model/metart/karen-a; u:https://www.metart.com/model/karen-a; g:f
 released: 2011-09-29
 director: Fenix
 fileprefix: MetArt-20110929-silvis-
@@ -263,7 +263,7 @@ description: xxx
 title: Insignis
 type: movie
 site: MetArt
-cast: n:Aya A; u:https://www.metart.com/model/aya-a; g:f
+model: n:Aya A; id:/model/metart/aya-a; u:https://www.metart.com/model/aya-a; g:f
 released: 2011-09-26
 director: Dmitry Maslof
 fileprefix: MetArt-20110926-insignis-
@@ -278,7 +278,7 @@ description: xxx
 title: Plaga
 type: movie
 site: MetArt
-cast: n:Marena A; u:https://www.metart.com/model/marena-a; g:f
+model: n:Marena A; id:/model/metart/marena-a; u:https://www.metart.com/model/marena-a; g:f
 released: 2011-09-24
 director: Dmitry Maslof
 fileprefix: MetArt-20110924-plaga-
@@ -293,7 +293,7 @@ description: xxx
 title: Dinamico
 type: movie
 site: MetArt
-cast: n:Natalia A; u:https://www.metart.com/model/natalia-a; g:f
+model: n:Natalia A; id:/model/metart/natalia-a; u:https://www.metart.com/model/natalia-a; g:f
 released: 2011-09-17
 director: Leonardo
 fileprefix: MetArt-20110917-dinamico-
@@ -308,7 +308,7 @@ description: xxx
 title: Gazelle
 type: movie
 site: MetArt
-cast: n:Miela A; u:https://www.sexart.com/model/miela-a; g:f; s:SexArt; g:f
+model: n:Miela A; id:/model/sexart/miela-a; u:https://www.sexart.com/model/miela-a; g:f
 released: 2011-09-16
 director: Koenart
 fileprefix: MetArt-20110916-gazelle-
@@ -323,7 +323,7 @@ description: xxx
 title: Calista
 type: movie
 site: MetArt
-cast: n:Emmi A; u:https://www.metart.com/model/emmi-a; g:f
+model: n:Emmi A; id:/model/metart/emmi-a; u:https://www.metart.com/model/emmi-a; g:f
 released: 2011-09-15
 director: Dmitry Maslof
 fileprefix: MetArt-20110915-calista-
@@ -338,7 +338,7 @@ description: xxx
 title: Yabani
 type: movie
 site: MetArt
-cast: n:Dana D; u:https://www.metart.com/model/dana-d; g:f
+model: n:Dana D; id:/model/metart/dana-d; u:https://www.metart.com/model/dana-d; g:f
 released: 2011-09-11
 director: Fenix
 fileprefix: MetArt-20110911-yabani-
@@ -353,7 +353,7 @@ description: xxx
 title: Spietato
 type: movie
 site: MetArt
-cast: n:Hunter A; u:https://www.metart.com/model/hunter-a; g:f
+model: n:Hunter A; id:/model/metart/hunter-a; u:https://www.metart.com/model/hunter-a; g:f
 released: 2011-09-09
 director: Leonardo
 fileprefix: MetArt-20110909-spietato-
@@ -368,7 +368,7 @@ description: xxx
 title: Presenting Sheila
 type: movie
 site: MetArt
-cast: n:Sheila C; u:https://www.metart.com/model/sheila-c; g:f
+model: n:Sheila C; id:/model/metart/sheila-c; u:https://www.metart.com/model/sheila-c; g:f
 released: 2011-09-03
 director: Fenix
 fileprefix: MetArt-20110903-presenting-sheila-
@@ -383,7 +383,7 @@ description: xxx
 title: Presenting Jey
 type: movie
 site: MetArt
-cast: n:Jey A; u:https://www.metart.com/model/jey-a; g:f
+model: n:Jey A; id:/model/metart/jey-a; u:https://www.metart.com/model/jey-a; g:f
 released: 2011-09-01
 director: Fenix
 fileprefix: MetArt-20110901-presenting-jey-
@@ -398,7 +398,7 @@ description: xxx
 title: Abbassato
 type: movie
 site: MetArt
-cast: n:Sylvie Deluxe; u:https://www.metart.com/model/sylvie-deluxe; g:f
+model: n:Sylvie Deluxe; id:/model/metart/sylvie-deluxe; u:https://www.metart.com/model/sylvie-deluxe; g:f
 released: 2011-08-28
 director: Koenart
 fileprefix: MetArt-20110828-abbassato-
@@ -413,7 +413,7 @@ description: xxx
 title: Canas
 type: movie
 site: MetArt
-cast: n:Sasha J; u:https://www.metart.com/model/sasha-j; g:f
+model: n:Sasha J; id:/model/metart/sasha-j; u:https://www.metart.com/model/sasha-j; g:f
 released: 2011-08-27
 director: Dmitry Maslof
 fileprefix: MetArt-20110827-canas-
@@ -428,7 +428,7 @@ description: xxx
 title: Impulse
 type: movie
 site: MetArt
-cast: n:Daisy A; u:https://www.metart.com/model/daisy-a; g:f
+model: n:Daisy A; id:/model/metart/daisy-a; u:https://www.metart.com/model/daisy-a; g:f
 released: 2011-08-26
 director: Balius
 fileprefix: MetArt-20110826-impulse-
@@ -443,7 +443,7 @@ description: xxx
 title: Yggdrasil
 type: movie
 site: MetArt
-cast: n:Lachia A; u:https://www.metart.com/model/lachia-a; g:f
+model: n:Lachia A; id:/model/metart/lachia-a; u:https://www.metart.com/model/lachia-a; g:f
 released: 2011-08-24
 director: Balius
 fileprefix: MetArt-20110824-yggdrasil-
@@ -458,7 +458,7 @@ description: xxx
 title: Mythos
 type: movie
 site: MetArt
-cast: n:Lorena B; u:https://www.sexart.com/model/lorena-b; s:SexArt; g:f
+model: n:Lorena B; id:/model/sexart/lorena-b; u:https://www.sexart.com/model/lorena-b; g:f
 released: 2011-08-11
 director: Luca Helios
 fileprefix: MetArt-20110811-mythos-
@@ -473,7 +473,7 @@ description: xxx
 title: Joyeux
 type: movie
 site: MetArt
-cast: n:Marena A; u:https://www.metart.com/model/marena-a; g:f
+model: n:Marena A; id:/model/metart/marena-a; u:https://www.metart.com/model/marena-a; g:f
 released: 2011-08-07
 director: Dmitry Maslof
 fileprefix: MetArt-20110807-joyeux-
@@ -488,7 +488,7 @@ description: xxx
 title: Tendance
 type: movie
 site: MetArt
-cast: n:Zhenya C; u:https://www.metart.com/model/zhenya-c; g:f
+model: n:Zhenya C; id:/model/metart/zhenya-c; u:https://www.metart.com/model/zhenya-c; g:f
 released: 2011-08-04
 director: Dmitry Maslof
 fileprefix: MetArt-20110804-tendance-
@@ -503,7 +503,7 @@ description: xxx
 title: Shakti
 type: movie
 site: MetArt
-cast: n:Kelly F; u:https://www.metart.com/model/kelly-f; g:f
+model: n:Kelly F; id:/model/metart/kelly-f; u:https://www.metart.com/model/kelly-f; g:f
 released: 2011-08-01
 director: Alex Iskan
 fileprefix: MetArt-20110801-shakti-
@@ -518,7 +518,7 @@ description: xxx
 title: Amazona
 type: movie
 site: MetArt
-cast: n:Eva K; u:https://www.metart.com/model/eva-k; g:f
+model: n:Eva K; id:/model/metart/eva-k; u:https://www.metart.com/model/eva-k; g:f
 released: 2011-07-29
 director: Fenix
 fileprefix: MetArt-20110729-amazona-
@@ -533,7 +533,7 @@ description: xxx
 title: Spielen
 type: movie
 site: MetArt
-cast: n:Malina A; u:https://www.metart.com/model/malina-a; g:f
+model: n:Malina A; id:/model/metart/malina-a; u:https://www.metart.com/model/malina-a; g:f
 released: 2011-07-27
 director: Alex Iskan
 fileprefix: MetArt-20110727-spielen-
@@ -548,7 +548,7 @@ description: xxx
 title: Platina
 type: movie
 site: MetArt
-cast: n:Dido A; u:https://www.sexart.com/model/dido-a; s:SexArt; g:f
+model: n:Dido A; id:/model/sexart/dido-a; u:https://www.sexart.com/model/dido-a; g:f
 released: 2011-07-25
 director: Luca Helios
 fileprefix: MetArt-20110725-platina-
@@ -563,7 +563,7 @@ description: xxx
 title: Verdure
 type: movie
 site: MetArt
-cast: n:Bijou A; u:https://www.metart.com/model/bijou-a; g:f
+model: n:Bijou A; id:/model/metart/bijou-a; u:https://www.metart.com/model/bijou-a; g:f
 released: 2011-07-21
 director: Tim Fox
 fileprefix: MetArt-20110721-verdure-
@@ -578,7 +578,7 @@ description: xxx
 title: Schizzi
 type: movie
 site: MetArt
-cast: n:Nina A; u:https://www.metart.com/model/nina-a; g:f
+model: n:Nina A; id:/model/metart/nina-a; u:https://www.metart.com/model/nina-a; g:f
 released: 2011-07-20
 director: Luca Helios
 fileprefix: MetArt-20110720-schizzi-
@@ -593,7 +593,7 @@ description: xxx
 title: Presenting Mira
 type: movie
 site: MetArt
-cast: n:Mira C; u:https://www.metart.com/model/mira-c; g:f
+model: n:Mira C; id:/model/metart/mira-c; u:https://www.metart.com/model/mira-c; g:f
 released: 2011-07-19
 director: Fenix
 fileprefix: MetArt-20110719-presenting-mira-
@@ -608,8 +608,8 @@ description: xxx
 title: Ivilis
 type: movie
 site: MetArt
-cast: n:Leka B; u:https://www.metart.com/model/leka-b; g:f
-cast: n:Sammy A; u:https://www.metart.com/model/sammy-a; g:f
+model: n:Leka B; id:/model/metart/leka-b; u:https://www.metart.com/model/leka-b; g:f
+model: n:Sammy A; id:/model/metart/sammy-a; u:https://www.metart.com/model/sammy-a; g:f
 released: 2011-07-19
 director: Volkov
 fileprefix: MetArt-20110719-ivilis-
@@ -624,7 +624,7 @@ description: xxx
 title: Avilas
 type: movie
 site: MetArt
-cast: n:Liv A; u:https://www.metart.com/model/liv-a; g:f
+model: n:Liv A; id:/model/metart/liv-a; u:https://www.metart.com/model/liv-a; g:f
 released: 2011-07-18
 director: Rylsky
 fileprefix: MetArt-20110718-avilas-
@@ -639,7 +639,7 @@ description: xxx
 title: Revelas
 type: movie
 site: MetArt
-cast: n:Lili H; u:https://www.metart.com/model/lili-h; g:f
+model: n:Lili H; id:/model/metart/lili-h; u:https://www.metart.com/model/lili-h; g:f
 released: 2011-07-03
 director: Fenix
 fileprefix: MetArt-20110703-revelas-
@@ -654,7 +654,7 @@ description: xxx
 title: Rodeo
 type: movie
 site: MetArt
-cast: n:Danae A; u:https://www.metart.com/model/danae-a; g:f
+model: n:Danae A; id:/model/metart/danae-a; u:https://www.metart.com/model/danae-a; g:f
 released: 2011-06-24
 director: Tim Fox
 fileprefix: MetArt-20110624-rodeo-
@@ -669,7 +669,7 @@ description: xxx
 title: Cotone
 type: movie
 site: MetArt
-cast: n:Cindy B; u:https://www.metart.com/model/cindy-b; g:f
+model: n:Cindy B; id:/model/metart/cindy-b; u:https://www.metart.com/model/cindy-b; g:f
 released: 2011-06-15
 director: Tim Fox
 fileprefix: MetArt-20110615-cotone-
@@ -684,7 +684,7 @@ description: xxx
 title: Liberian
 type: movie
 site: MetArt
-cast: n:Sofi A; u:https://www.metart.com/model/sofi-a; g:f
+model: n:Sofi A; id:/model/metart/sofi-a; u:https://www.metart.com/model/sofi-a; g:f
 released: 2011-06-14
 director: Fenix
 fileprefix: MetArt-20110614-liberian-
@@ -699,7 +699,7 @@ description: xxx
 title: Versus
 type: movie
 site: MetArt
-cast: n:Mira A; u:https://www.metart.com/model/mira-a; g:f
+model: n:Mira A; id:/model/metart/mira-a; u:https://www.metart.com/model/mira-a; g:f
 released: 2011-06-13
 director: Michael Maker
 fileprefix: MetArt-20110613-versus-
@@ -714,7 +714,7 @@ description: xxx
 title: Properly
 type: movie
 site: MetArt
-cast: n:Lorena B; u:https://www.sexart.com/model/lorena-b; s:SexArt; g:f
+model: n:Lorena B; id:/model/sexart/lorena-b; u:https://www.sexart.com/model/lorena-b; g:f
 released: 2011-06-12
 director: Luca Helios
 fileprefix: MetArt-20110612-properly-
@@ -729,7 +729,7 @@ description: xxx
 title: Silexia
 type: movie
 site: MetArt
-cast: n:Ralina A; u:https://www.metart.com/model/ralina-a; g:f
+model: n:Ralina A; id:/model/metart/ralina-a; u:https://www.metart.com/model/ralina-a; g:f
 released: 2011-06-08
 director: Rylsky
 fileprefix: MetArt-20110608-silexia-
@@ -744,7 +744,7 @@ description: xxx
 title: Cieli
 type: movie
 site: MetArt
-cast: n:Natalia A; u:https://www.metart.com/model/natalia-a; g:f
+model: n:Natalia A; id:/model/metart/natalia-a; u:https://www.metart.com/model/natalia-a; g:f
 released: 2011-06-05
 director: Leonardo
 fileprefix: MetArt-20110605-cieli-
@@ -759,7 +759,7 @@ description: xxx
 title: Comilan
 type: movie
 site: MetArt
-cast: n:Dana D; u:https://www.metart.com/model/dana-d; g:f
+model: n:Dana D; id:/model/metart/dana-d; u:https://www.metart.com/model/dana-d; g:f
 released: 2011-06-04
 director: Fenix
 fileprefix: MetArt-20110604-comilan-
@@ -774,7 +774,7 @@ description: xxx
 title: Seasons
 type: movie
 site: MetArt
-cast: n:Nastya C; u:https://www.metart.com/model/nastya-c; g:f
+model: n:Nastya C; id:/model/metart/nastya-c; u:https://www.metart.com/model/nastya-c; g:f
 released: 2011-06-01
 director: Luca Helios
 fileprefix: MetArt-20110601-seasons-
@@ -789,7 +789,7 @@ description: xxx
 title: Alekeias
 type: movie
 site: MetArt
-cast: n:Carina A; u:https://www.metart.com/model/carina-a; g:f
+model: n:Carina A; id:/model/metart/carina-a; u:https://www.metart.com/model/carina-a; g:f
 released: 2011-05-31
 director: Erro
 fileprefix: MetArt-20110531-alekeias-
@@ -804,7 +804,7 @@ description: xxx
 title: Torrent
 type: movie
 site: MetArt
-cast: n:Lily B; u:https://www.metart.com/model/lily-b; g:f
+model: n:Lily B; id:/model/metart/lily-b; u:https://www.metart.com/model/lily-b; g:f
 released: 2011-05-28
 director: Fenix
 fileprefix: MetArt-20110528-torrent-
@@ -819,7 +819,7 @@ description: xxx
 title: Touluk
 type: movie
 site: MetArt
-cast: n:Janette A; u:https://www.metart.com/model/janette-a; g:f
+model: n:Janette A; id:/model/metart/janette-a; u:https://www.metart.com/model/janette-a; g:f
 released: 2011-05-21
 director: A Fresno
 fileprefix: MetArt-20110521-touluk-
@@ -834,7 +834,7 @@ description: xxx
 title: Kestos
 type: movie
 site: MetArt
-cast: n:Iveta B; u:https://www.metart.com/model/iveta-b; g:f
+model: n:Iveta B; id:/model/metart/iveta-b; u:https://www.metart.com/model/iveta-b; g:f
 released: 2011-05-18
 director: Luca Helios
 fileprefix: MetArt-20110518-kestos-
@@ -849,7 +849,7 @@ description: xxx
 title: Presenting Alysha
 type: movie
 site: MetArt
-cast: n:Alysha A; u:https://www.metart.com/model/alysha-a; g:f
+model: n:Alysha A; id:/model/metart/alysha-a; u:https://www.metart.com/model/alysha-a; g:f
 released: 2011-05-15
 director: Rylsky
 fileprefix: MetArt-20110515-presenting-alysha-
@@ -864,7 +864,7 @@ description: xxx
 title: May
 type: movie
 site: MetArt
-cast: n:Night A; u:https://www.sexart.com/model/night-a; s:SexArt; g:f
+model: n:Night A; id:/model/sexart/night-a; u:https://www.sexart.com/model/night-a; g:f
 released: 2011-05-13
 director: Rylsky
 fileprefix: MetArt-20110513-may-
@@ -879,7 +879,7 @@ description: xxx
 title: Vita
 type: movie
 site: MetArt
-cast: n:Lidiya A; u:https://www.metart.com/model/lidiya-a; g:f
+model: n:Lidiya A; id:/model/metart/lidiya-a; u:https://www.metart.com/model/lidiya-a; g:f
 released: 2011-05-01
 director: Fenix
 fileprefix: MetArt-20110501-vita-
@@ -894,7 +894,7 @@ description: xxx
 title: Alusis
 type: movie
 site: MetArt
-cast: n:Mira A; u:https://www.metart.com/model/mira-a; g:f
+model: n:Mira A; id:/model/metart/mira-a; u:https://www.metart.com/model/mira-a; g:f
 released: 2011-04-27
 director: Michael Maker
 fileprefix: MetArt-20110427-alusis-
@@ -909,7 +909,7 @@ description: xxx
 title: Record
 type: movie
 site: MetArt
-cast: n:Loreen A; u:https://www.metart.com/model/loreen-a; g:f
+model: n:Loreen A; id:/model/metart/loreen-a; u:https://www.metart.com/model/loreen-a; g:f
 released: 2011-04-26
 director: Rylsky
 fileprefix: MetArt-20110426-record-
@@ -924,7 +924,7 @@ description: xxx
 title: Marinian
 type: movie
 site: MetArt
-cast: n:Eufrat A; u:https://www.metart.com/model/eufrat-a; g:f
+model: n:Eufrat A; id:/model/metart/eufrat-a; u:https://www.metart.com/model/eufrat-a; g:f
 released: 2011-04-25
 director: Luca Helios
 fileprefix: MetArt-20110425-marinian-
@@ -939,7 +939,7 @@ description: xxx
 title: Climate
 type: movie
 site: MetArt
-cast: n:Paloma B; u:https://www.metart.com/model/paloma-b; g:f
+model: n:Paloma B; id:/model/metart/paloma-b; u:https://www.metart.com/model/paloma-b; g:f
 released: 2011-04-23
 director: Rylsky
 fileprefix: MetArt-20110423-climate-
@@ -954,8 +954,8 @@ description: xxx
 title: Valizias
 type: movie
 site: MetArt
-cast: n:Yara A; u:https://www.metart.com/model/yara-a; g:f
-cast: n:Sofi A; u:https://www.metart.com/model/sofi-a; g:f
+model: n:Yara A; id:/model/metart/yara-a; u:https://www.metart.com/model/yara-a; g:f
+model: n:Sofi A; id:/model/metart/sofi-a; u:https://www.metart.com/model/sofi-a; g:f
 released: 2011-04-23
 director: Fenix
 fileprefix: MetArt-20110423-valizias-
@@ -970,7 +970,7 @@ description: xxx
 title: Afternoon
 type: movie
 site: MetArt
-cast: n:Sabrina D; u:https://www.metart.com/model/sabrina-d; g:f
+model: n:Sabrina D; id:/model/metart/sabrina-d; u:https://www.metart.com/model/sabrina-d; g:f
 released: 2011-04-21
 director: Leonardo
 fileprefix: MetArt-20110421-afternoon-
@@ -985,7 +985,7 @@ description: xxx
 title: Plenilunia
 type: movie
 site: MetArt
-cast: n:Sonia Red; u:https://www.metart.com/model/sonia-red; g:f
+model: n:Sonia Red; id:/model/metart/sonia-red; u:https://www.metart.com/model/sonia-red; g:f
 released: 2011-04-19
 director: Luca Helios
 fileprefix: MetArt-20110419-plenilunia-
@@ -1000,7 +1000,7 @@ description: xxx
 title: Tulias
 type: movie
 site: MetArt
-cast: n:Alisa G; u:https://www.metart.com/model/alisa-g; g:f
+model: n:Alisa G; id:/model/metart/alisa-g; u:https://www.metart.com/model/alisa-g; g:f
 released: 2011-04-14
 director: Alex Iskan
 fileprefix: MetArt-20110414-tulias-
@@ -1015,7 +1015,7 @@ description: xxx
 title: China
 type: movie
 site: MetArt
-cast: n:Zhang A; u:https://www.metart.com/model/zhang-a; g:f
+model: n:Zhang A; id:/model/metart/zhang-a; u:https://www.metart.com/model/zhang-a; g:f
 released: 2011-04-13
 director: Fan Xue Hui
 fileprefix: MetArt-20110413-china-
@@ -1030,7 +1030,7 @@ description: xxx
 title: Sasiavis
 type: movie
 site: MetArt
-cast: n:Divina A; u:https://www.metart.com/model/divina-a; g:f
+model: n:Divina A; id:/model/metart/divina-a; u:https://www.metart.com/model/divina-a; g:f
 released: 2011-04-11
 director: Peter Guzman
 fileprefix: MetArt-20110411-sasiavis-
@@ -1045,8 +1045,8 @@ description: xxx
 title: More
 type: movie
 site: MetArt
-cast: n:Melisa A; u:https://www.metart.com/model/melisa-a; g:f
-cast: n:Caprice A; u:https://www.sexart.com/model/caprice-a; s:SexArt; g:f
+model: n:Melisa A; id:/model/metart/melisa-a; u:https://www.metart.com/model/melisa-a; g:f
+model: n:Caprice A; id:/model/sexart/caprice-a; u:https://www.sexart.com/model/caprice-a; g:f
 released: 2011-04-10
 director: Luca Helios
 fileprefix: MetArt-20110410-more-
@@ -1061,7 +1061,7 @@ description: xxx
 title: Evianis
 type: movie
 site: MetArt
-cast: n:Atena A; u:https://www.metart.com/model/atena-a; g:f
+model: n:Atena A; id:/model/metart/atena-a; u:https://www.metart.com/model/atena-a; g:f
 released: 2011-04-08
 director: Fenix
 fileprefix: MetArt-20110408-evianis-
@@ -1076,7 +1076,7 @@ description: xxx
 title: Prix
 type: movie
 site: MetArt
-cast: n:Cristina A; u:https://www.metart.com/model/cristina-a; g:f
+model: n:Cristina A; id:/model/metart/cristina-a; u:https://www.metart.com/model/cristina-a; g:f
 released: 2011-04-06
 director: Luca Helios
 fileprefix: MetArt-20110406-prix-
@@ -1091,7 +1091,7 @@ description: xxx
 title: Hekix
 type: movie
 site: MetArt
-cast: n:Sra F; u:https://www.metart.com/model/sra-f; g:f
+model: n:Sra F; id:/model/metart/sra-f; u:https://www.metart.com/model/sra-f; g:f
 released: 2011-04-05
 director: Luca Helios
 fileprefix: MetArt-20110405-hekix-
@@ -1106,7 +1106,7 @@ description: xxx
 title: Almost
 type: movie
 site: MetArt
-cast: n:Kira J; u:https://www.metart.com/model/kira-j; g:f
+model: n:Kira J; id:/model/metart/kira-j; u:https://www.metart.com/model/kira-j; g:f
 released: 2011-04-03
 director: Rylsky
 fileprefix: MetArt-20110403-almost-
@@ -1121,7 +1121,7 @@ description: xxx
 title: Class
 type: movie
 site: MetArt
-cast: n:Liv A; u:https://www.metart.com/model/liv-a; g:f
+model: n:Liv A; id:/model/metart/liv-a; u:https://www.metart.com/model/liv-a; g:f
 released: 2011-04-01
 director: Rylsky
 fileprefix: MetArt-20110401-class-
@@ -1136,7 +1136,7 @@ description: xxx
 title: Opinions
 type: movie
 site: MetArt
-cast: n:Eva E; u:https://www.metart.com/model/eva-e; g:f
+model: n:Eva E; id:/model/metart/eva-e; u:https://www.metart.com/model/eva-e; g:f
 released: 2011-03-26
 director: Fenix
 fileprefix: MetArt-20110326-opinions-
@@ -1151,7 +1151,7 @@ description: xxx
 title: Presenting Shirley
 type: movie
 site: MetArt
-cast: n:Shirley A; u:https://www.metart.com/model/shirley-a; g:f
+model: n:Shirley A; id:/model/metart/shirley-a; u:https://www.metart.com/model/shirley-a; g:f
 released: 2011-03-25
 director: Rylsky
 fileprefix: MetArt-20110325-presenting-shirley-
@@ -1166,7 +1166,7 @@ description: xxx
 title: Vemiss
 type: movie
 site: MetArt
-cast: n:Mila I; u:https://www.metart.com/model/mila-i; g:f
+model: n:Mila I; id:/model/metart/mila-i; u:https://www.metart.com/model/mila-i; g:f
 released: 2011-03-23
 director: Fenix
 fileprefix: MetArt-20110323-vemiss-
@@ -1181,7 +1181,7 @@ description: xxx
 title: Seasons
 type: movie
 site: MetArt
-cast: n:Leila A; u:https://www.metart.com/model/leila-a; g:f
+model: n:Leila A; id:/model/metart/leila-a; u:https://www.metart.com/model/leila-a; g:f
 released: 2011-03-22
 director: Rylsky
 fileprefix: MetArt-20110322-seasons-
@@ -1196,7 +1196,7 @@ description: xxx
 title: Awiss
 type: movie
 site: MetArt
-cast: n:Monika A; u:https://www.metart.com/model/monika-a; g:f
+model: n:Monika A; id:/model/metart/monika-a; u:https://www.metart.com/model/monika-a; g:f
 released: 2011-03-16
 director: Luca Helios
 fileprefix: MetArt-20110316-awiss-
@@ -1211,7 +1211,7 @@ description: xxx
 title: Curious
 type: movie
 site: MetArt
-cast: n:Lucie B; u:https://www.metart.com/model/lucie-b; g:f
+model: n:Lucie B; id:/model/metart/lucie-b; u:https://www.metart.com/model/lucie-b; g:f
 released: 2011-03-12
 director: Luca Helios
 fileprefix: MetArt-20110312-curious-
@@ -1226,7 +1226,7 @@ description: xxx
 title: Blonde
 type: movie
 site: MetArt
-cast: n:Gwyneth A; u:https://www.metart.com/model/gwyneth-a; g:f
+model: n:Gwyneth A; id:/model/metart/gwyneth-a; u:https://www.metart.com/model/gwyneth-a; g:f
 released: 2011-03-10
 director: Luca Helios
 fileprefix: MetArt-20110310-blonde-
@@ -1241,7 +1241,7 @@ description: xxx
 title: Sinetika
 type: movie
 site: MetArt
-cast: n:Jenni A; u:https://www.metart.com/model/jenni-a; g:f
+model: n:Jenni A; id:/model/metart/jenni-a; u:https://www.metart.com/model/jenni-a; g:f
 released: 2011-03-08
 director: Luca Helios
 fileprefix: MetArt-20110308-sinetika-
@@ -1256,7 +1256,7 @@ description: xxx
 title: Academy
 type: movie
 site: MetArt
-cast: n:Karolina A; u:https://www.metart.com/model/karolina-a; g:f
+model: n:Karolina A; id:/model/metart/karolina-a; u:https://www.metart.com/model/karolina-a; g:f
 released: 2011-03-02
 director: Leonardo
 fileprefix: MetArt-20110302-academy-
@@ -1271,7 +1271,7 @@ description: xxx
 title: Mostly
 type: movie
 site: MetArt
-cast: n:Lili H; u:https://www.metart.com/model/lili-h; g:f
+model: n:Lili H; id:/model/metart/lili-h; u:https://www.metart.com/model/lili-h; g:f
 released: 2011-03-01
 director: Fenix
 fileprefix: MetArt-20110301-mostly-
@@ -1286,7 +1286,7 @@ description: xxx
 title: Primias
 type: movie
 site: MetArt
-cast: n:Chiara A; u:https://www.metart.com/model/chiara-a; g:f
+model: n:Chiara A; id:/model/metart/chiara-a; u:https://www.metart.com/model/chiara-a; g:f
 released: 2011-02-21
 director: Luca Helios
 fileprefix: MetArt-20110221-primias-
@@ -1301,7 +1301,7 @@ description: xxx
 title: Vertical
 type: movie
 site: MetArt
-cast: n:Jenya D; u:https://www.metart.com/model/jenya-d; g:f
+model: n:Jenya D; id:/model/metart/jenya-d; u:https://www.metart.com/model/jenya-d; g:f
 released: 2011-02-19
 director: Leonardo
 fileprefix: MetArt-20110219-vertical-
@@ -1316,7 +1316,7 @@ description: xxx
 title: Klamias
 type: movie
 site: MetArt
-cast: n:Sabrina D; u:https://www.metart.com/model/sabrina-d; g:f
+model: n:Sabrina D; id:/model/metart/sabrina-d; u:https://www.metart.com/model/sabrina-d; g:f
 released: 2011-02-17
 director: Leonardo
 fileprefix: MetArt-20110217-klamias-
@@ -1331,7 +1331,7 @@ description: xxx
 title: Gissonias
 type: movie
 site: MetArt
-cast: n:Eufrat A; u:https://www.metart.com/model/eufrat-a; g:f
+model: n:Eufrat A; id:/model/metart/eufrat-a; u:https://www.metart.com/model/eufrat-a; g:f
 released: 2011-02-11
 director: Luca Helios
 fileprefix: MetArt-20110211-gissonias-
@@ -1346,7 +1346,7 @@ description: xxx
 title: Elesimin
 type: movie
 site: MetArt
-cast: n:Arin A; u:https://www.metart.com/model/arin-a; g:f
+model: n:Arin A; id:/model/metart/arin-a; u:https://www.metart.com/model/arin-a; g:f
 released: 2011-02-09
 director: Fenix
 fileprefix: MetArt-20110209-elesimin-
@@ -1361,8 +1361,8 @@ description: xxx
 title: Olympus
 type: movie
 site: MetArt
-cast: n:Laila A; u:https://www.metart.com/model/laila-a; g:f
-cast: n:Olga M; u:https://www.metart.com/model/olga-m; g:f
+model: n:Laila A; id:/model/metart/laila-a; u:https://www.metart.com/model/laila-a; g:f
+model: n:Olga M; id:/model/metart/olga-m; u:https://www.metart.com/model/olga-m; g:f
 released: 2011-02-07
 director: Leonardo
 fileprefix: MetArt-20110207-olympus-
@@ -1377,7 +1377,7 @@ description: xxx
 title: Fenomeno
 type: movie
 site: MetArt
-cast: n:Lilly A; u:https://www.metart.com/model/lilly-a; g:f
+model: n:Lilly A; id:/model/metart/lilly-a; u:https://www.metart.com/model/lilly-a; g:f
 released: 2011-02-04
 director: Luca Helios
 fileprefix: MetArt-20110204-fenomeno-
@@ -1392,7 +1392,7 @@ description: xxx
 title: Achtung
 type: movie
 site: MetArt
-cast: n:Nessa A; u:https://www.metart.com/model/nessa-a; g:f
+model: n:Nessa A; id:/model/metart/nessa-a; u:https://www.metart.com/model/nessa-a; g:f
 released: 2011-02-02
 director: Luca Helios
 fileprefix: MetArt-20110202-achtung-
@@ -1407,7 +1407,7 @@ description: xxx
 title: Kilemian
 type: movie
 site: MetArt
-cast: n:Sofi A; u:https://www.metart.com/model/sofi-a; g:f
+model: n:Sofi A; id:/model/metart/sofi-a; u:https://www.metart.com/model/sofi-a; g:f
 released: 2011-02-01
 director: Fenix
 fileprefix: MetArt-20110201-kilemian-
@@ -1422,7 +1422,7 @@ description: xxx
 title: Florea
 type: movie
 site: MetArt
-cast: n:Vera E; u:https://www.metart.com/model/vera-e; g:f
+model: n:Vera E; id:/model/metart/vera-e; u:https://www.metart.com/model/vera-e; g:f
 released: 2011-01-30
 director: Fenix
 fileprefix: MetArt-20110130-florea-
@@ -1437,7 +1437,7 @@ description: xxx
 title: Undressed
 type: movie
 site: MetArt
-cast: n:Aya A; u:https://www.metart.com/model/aya-a; g:f
+model: n:Aya A; id:/model/metart/aya-a; u:https://www.metart.com/model/aya-a; g:f
 released: 2011-01-24
 director: Dmitry Maslof
 fileprefix: MetArt-20110124-undressed-
@@ -1452,7 +1452,7 @@ description: xxx
 title: Emerge
 type: movie
 site: MetArt
-cast: n:Lili H; u:https://www.metart.com/model/lili-h; g:f
+model: n:Lili H; id:/model/metart/lili-h; u:https://www.metart.com/model/lili-h; g:f
 released: 2011-01-22
 director: Fenix
 fileprefix: MetArt-20110122-emerge-
@@ -1467,7 +1467,7 @@ description: xxx
 title: Bravissima
 type: movie
 site: MetArt
-cast: n:Danae A; u:https://www.metart.com/model/danae-a; g:f
+model: n:Danae A; id:/model/metart/danae-a; u:https://www.metart.com/model/danae-a; g:f
 released: 2011-01-19
 director: Luca Helios
 fileprefix: MetArt-20110119-bravissima-
@@ -1482,7 +1482,7 @@ description: xxx
 title: Emitia
 type: movie
 site: MetArt
-cast: n:Demi A; u:https://www.metart.com/model/demi-a; g:f
+model: n:Demi A; id:/model/metart/demi-a; u:https://www.metart.com/model/demi-a; g:f
 released: 2011-01-18
 director: Luca Helios
 fileprefix: MetArt-20110118-emitia-
@@ -1497,7 +1497,7 @@ description: xxx
 title: Cristalia
 type: movie
 site: MetArt
-cast: n:Dana D; u:https://www.metart.com/model/dana-d; g:f
+model: n:Dana D; id:/model/metart/dana-d; u:https://www.metart.com/model/dana-d; g:f
 released: 2011-01-17
 director: Fenix
 fileprefix: MetArt-20110117-cristalia-
@@ -1512,7 +1512,7 @@ description: xxx
 title: Viento
 type: movie
 site: MetArt
-cast: n:Alexy A; u:https://www.metart.com/model/alexy-a; g:f
+model: n:Alexy A; id:/model/metart/alexy-a; u:https://www.metart.com/model/alexy-a; g:f
 released: 2011-01-08
 director: Fenix
 fileprefix: MetArt-20110108-viento-
@@ -1527,7 +1527,7 @@ description: xxx
 title: Alectia
 type: movie
 site: MetArt
-cast: n:Katrin B; u:https://www.metart.com/model/katrin-b; g:f
+model: n:Katrin B; id:/model/metart/katrin-b; u:https://www.metart.com/model/katrin-b; g:f
 released: 2011-01-07
 director: Fenix
 fileprefix: MetArt-20110107-alectia-
@@ -1542,7 +1542,7 @@ description: xxx
 title: Khalira
 type: movie
 site: MetArt
-cast: n:Caprice A; u:https://www.sexart.com/model/caprice-a; s:SexArt; g:f
+model: n:Caprice A; id:/model/sexart/caprice-a; u:https://www.sexart.com/model/caprice-a; g:f
 released: 2011-01-05
 director: Luca Helios
 fileprefix: MetArt-20110105-khalira-
@@ -1557,7 +1557,7 @@ description: xxx
 title: Lumia
 type: movie
 site: MetArt
-cast: n:Mila I; u:https://www.metart.com/model/mila-i; g:f
+model: n:Mila I; id:/model/metart/mila-i; u:https://www.metart.com/model/mila-i; g:f
 released: 2011-01-04
 director: Fenix
 fileprefix: MetArt-20110104-lumia-
@@ -1572,7 +1572,7 @@ description: xxx
 title: Helimas
 type: movie
 site: MetArt
-cast: n:Lorena B; u:https://www.sexart.com/model/lorena-b; s:SexArt; g:f
+model: n:Lorena B; id:/model/sexart/lorena-b; u:https://www.sexart.com/model/lorena-b; g:f
 released: 2011-01-02
 director: Luca Helios
 fileprefix: MetArt-20110102-helimas-

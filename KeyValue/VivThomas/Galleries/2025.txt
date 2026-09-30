@@ -8,8 +8,8 @@
 title: Glamorous Evening
 type: gallery
 site: VivThomas
-cast: n:Veronica Leal; u:https://www.vivthomas.com/model/veronica-leal
-cast: n:Alexis Crystal; u:https://www.sexart.com/model/alexis-crystal; s:SexArt
+model: n:Veronica Leal; id:/model/vivthomas/veronica-leal; u:https://www.vivthomas.com/model/veronica-leal
+model: n:Alexis Crystal; id:/model/sexart/alexis-crystal; u:https://www.sexart.com/model/alexis-crystal
 released: 2025-12-29
 director: Sandra Shine
 fileprefix: VivThomas-20251229-glamorous-evening
@@ -60,7 +60,7 @@ tag: trimmed pussy
 title: Flirty Gift
 type: gallery
 site: VivThomas
-cast: n:Emily Stone; u:https://www.vivthomas.com/model/emily-stone
+model: n:Emily Stone; id:/model/vivthomas/emily-stone; u:https://www.vivthomas.com/model/emily-stone
 released: 2025-12-27
 director: Walter Schotten
 fileprefix: VivThomas-20251227-flirty-gift
@@ -95,8 +95,8 @@ tag: upskirt
 title: Feeling Festive
 type: gallery
 site: VivThomas
-cast: n:Amalia Davis; u:https://www.sexart.com/model/amalia-davis; g:f; s:SexArt
-cast: n:Matty Mila Perez; u:https://www.vivthomas.com/model/matty-mila-perez
+model: n:Amalia Davis; id:/model/sexart/amalia-davis; u:https://www.sexart.com/model/amalia-davis; g:f
+model: n:Matty Mila Perez; id:/model/vivthomas/matty-mila-perez; u:https://www.vivthomas.com/model/matty-mila-perez
 released: 2025-12-23
 director: Sandra Shine
 fileprefix: VivThomas-20251223-feeling-festive
@@ -144,7 +144,7 @@ tag: thongs
 title: Perfect Gift
 type: gallery
 site: VivThomas
-cast: n:Hareniks; u:https://www.vivthomas.com/model/hareniks
+model: n:Hareniks; id:/model/vivthomas/hareniks; u:https://www.vivthomas.com/model/hareniks
 released: 2025-12-21
 director: Chorniy Art
 fileprefix: VivThomas-20251221-perfect-gift
@@ -181,8 +181,8 @@ tag: ukraine
 title: Mutual Desire
 type: gallery
 site: VivThomas
-cast: n:Dorothy Black; u:https://www.vivthomas.com/model/dorothy-black
-cast: n:Chica Minori; u:https://www.vivthomas.com/model/chica-minori
+model: n:Dorothy Black; id:/model/vivthomas/dorothy-black; u:https://www.vivthomas.com/model/dorothy-black
+model: n:Chica Minori; id:/model/vivthomas/chica-minori; u:https://www.vivthomas.com/model/chica-minori
 released: 2025-12-18
 director: Sandra Shine
 fileprefix: VivThomas-20251218-mutual-desire
@@ -232,8 +232,8 @@ tag: ukraine
 title: Desire You
 type: gallery
 site: VivThomas
-cast: n:Amirah Adara; u:https://www.sexart.com/model/amirah-adara; s:SexArt
-cast: n:Pearl; u:https://www.sexart.com/model/pearl; g:f; s:SexArt
+model: n:Amirah Adara; id:/model/sexart/amirah-adara; u:https://www.sexart.com/model/amirah-adara
+model: n:Pearl; id:/model/sexart/pearl; u:https://www.sexart.com/model/pearl; g:f
 released: 2025-12-15
 director: Sandra Shine
 fileprefix: VivThomas-20251215-desire-you
@@ -283,7 +283,7 @@ tag: trimmed pussy
 title: Pink Sugar
 type: gallery
 site: VivThomas
-cast: n:Violet Amrita; u:https://www.vivthomas.com/model/violet-amrita
+model: n:Violet Amrita; id:/model/vivthomas/violet-amrita; u:https://www.vivthomas.com/model/violet-amrita
 released: 2025-12-13
 director: David Menich
 fileprefix: VivThomas-20251213-pink-sugar
@@ -316,7 +316,7 @@ tag: united states
 title: Love Affair 1
 type: gallery
 site: VivThomas
-cast: n:Vixi Rafi; u:https://www.vivthomas.com/model/vixi-rafi
+model: n:Vixi Rafi; id:/model/vivthomas/vixi-rafi; u:https://www.vivthomas.com/model/vixi-rafi
 released: 2025-12-12
 director: Vicente Silva
 fileprefix: VivThomas-20251212-love-affair-01
@@ -356,8 +356,8 @@ tag: striptease
 title: Vibrant Mood
 type: gallery
 site: VivThomas
-cast: n:Arina Shy; u:https://www.vivthomas.com/model/arina-shy
-cast: n:Cherry Cle; u:https://www.vivthomas.com/model/cherry-cle
+model: n:Arina Shy; id:/model/vivthomas/arina-shy; u:https://www.vivthomas.com/model/arina-shy
+model: n:Cherry Cle; id:/model/vivthomas/cherry-cle; u:https://www.vivthomas.com/model/cherry-cle
 released: 2025-12-09
 director: Sandra Shine
 fileprefix: VivThomas-20251209-vibrant-mood
@@ -406,7 +406,7 @@ tag: ukraine
 title: Slumber Party
 type: gallery
 site: VivThomas
-cast: n:Azzurra Moretti; u:https://www.sexart.com/model/azzurra-moretti; s:SexArt
+model: n:Azzurra Moretti; id:/model/sexart/azzurra-moretti; u:https://www.sexart.com/model/azzurra-moretti
 released: 2025-12-07
 director: Blake Jasper
 fileprefix: VivThomas-20251207-slumber-party
@@ -445,8 +445,8 @@ tag: upskirt
 title: Lustful Gaze
 type: gallery
 site: VivThomas
-cast: n:Bri Belle; u:https://www.vivthomas.com/model/bri-belle
-cast: n:Ella Bonita; u:https://www.sexart.com/model/ella-bonita; g:f; s:SexArt
+model: n:Bri Belle; id:/model/vivthomas/bri-belle; u:https://www.vivthomas.com/model/bri-belle
+model: n:Ella Bonita; id:/model/sexart/ella-bonita; u:https://www.sexart.com/model/ella-bonita; g:f
 released: 2025-12-04
 director: Tora Ness
 fileprefix: VivThomas-20251204-lustful-gaze
@@ -492,8 +492,8 @@ tag: thongs
 title: Erotic Harmony
 type: gallery
 site: VivThomas
-cast: n:Olivia Westsun; u:https://www.vivthomas.com/model/olivia-westsun
-cast: n:Amber Slassh; u:https://www.vivthomas.com/model/amber-slassh
+model: n:Olivia Westsun; id:/model/vivthomas/olivia-westsun; u:https://www.vivthomas.com/model/olivia-westsun
+model: n:Amber Slassh; id:/model/vivthomas/amber-slassh; u:https://www.vivthomas.com/model/amber-slassh
 released: 2025-12-01
 director: David Menich
 fileprefix: VivThomas-20251201-erotic-harmony
@@ -544,7 +544,7 @@ tag: white stockings
 title: Confidence
 type: gallery
 site: VivThomas
-cast: n:Britney Dutch; u:https://www.vivthomas.com/model/britney-dutch
+model: n:Britney Dutch; id:/model/vivthomas/britney-dutch; u:https://www.vivthomas.com/model/britney-dutch
 released: 2025-11-29
 director: James Allen
 fileprefix: VivThomas-20251129-confidence
@@ -588,8 +588,8 @@ tag: thongs
 title: Sunkissed
 type: gallery
 site: VivThomas
-cast: n:Liv Revamped; u:https://www.vivthomas.com/model/liv-revamped
-cast: n:Kate Quinn; u:https://www.vivthomas.com/model/kate-quinn
+model: n:Liv Revamped; id:/model/vivthomas/liv-revamped; u:https://www.vivthomas.com/model/liv-revamped
+model: n:Kate Quinn; id:/model/vivthomas/kate-quinn; u:https://www.vivthomas.com/model/kate-quinn
 released: 2025-11-25
 director: Sandra Shine
 fileprefix: VivThomas-20251125-sunkissed
@@ -636,7 +636,7 @@ tag: united states
 title: Cute
 type: gallery
 site: VivThomas
-cast: n:Veta Frankof; u:https://www.vivthomas.com/model/veta-frankof
+model: n:Veta Frankof; id:/model/vivthomas/veta-frankof; u:https://www.vivthomas.com/model/veta-frankof
 released: 2025-11-23
 director: Blake Jasper
 fileprefix: VivThomas-20251123-cute
@@ -667,8 +667,8 @@ tag: ukraine
 title: Sun Day Fun Day
 type: gallery
 site: VivThomas
-cast: n:Sarah Heizel; u:https://www.vivthomas.com/model/sarah-heizel
-cast: n:Dolly Diore; u:https://www.vivthomas.com/model/dolly-diore
+model: n:Sarah Heizel; id:/model/vivthomas/sarah-heizel; u:https://www.vivthomas.com/model/sarah-heizel
+model: n:Dolly Diore; id:/model/vivthomas/dolly-diore; u:https://www.vivthomas.com/model/dolly-diore
 released: 2025-11-20
 director: Sandra Shine
 fileprefix: VivThomas-20251120-sun-day-fun-day
@@ -722,8 +722,8 @@ tag: ukraine
 title: Close Quarters
 type: gallery
 site: VivThomas
-cast: n:Kubera Fortuna; u:https://www.vivthomas.com/model/kubera-fortuna
-cast: n:Lili Charmelle; u:https://www.vivthomas.com/model/lili-charmelle
+model: n:Kubera Fortuna; id:/model/vivthomas/kubera-fortuna; u:https://www.vivthomas.com/model/kubera-fortuna
+model: n:Lili Charmelle; id:/model/vivthomas/lili-charmelle; u:https://www.vivthomas.com/model/lili-charmelle
 released: 2025-11-17
 director: David Menich
 fileprefix: VivThomas-20251117-close-quarters
@@ -772,7 +772,7 @@ tag: thongs
 title: Lovely Smile
 type: gallery
 site: VivThomas
-cast: n:Victoria Mur; u:https://www.sexart.com/model/victoria-mur; g:f; s:SexArt
+model: n:Victoria Mur; id:/model/sexart/victoria-mur; u:https://www.sexart.com/model/victoria-mur; g:f
 released: 2025-11-15
 director: Blake Jasper
 fileprefix: VivThomas-20251115-lovely-smile
@@ -813,8 +813,8 @@ tag: ukraine
 title: Soft Caress
 type: gallery
 site: VivThomas
-cast: n:Alice Klay; u:https://www.vivthomas.com/model/alice-klay
-cast: n:Polly Yangs; u:https://www.sexart.com/model/polly-yangs; g:f; s:SexArt
+model: n:Alice Klay; id:/model/vivthomas/alice-klay; u:https://www.vivthomas.com/model/alice-klay
+model: n:Polly Yangs; id:/model/sexart/polly-yangs; u:https://www.sexart.com/model/polly-yangs; g:f
 released: 2025-11-11
 director: Sandra Shine
 fileprefix: VivThomas-20251111-soft-caress
@@ -865,7 +865,7 @@ tag: tribbing
 title: My Secretary
 type: gallery
 site: VivThomas
-cast: n:Fibi Euro; u:https://www.vivthomas.com/model/fibi-euro
+model: n:Fibi Euro; id:/model/vivthomas/fibi-euro; u:https://www.vivthomas.com/model/fibi-euro
 released: 2025-11-09
 director: John Chalk
 fileprefix: VivThomas-20251109-my-secretary
@@ -904,8 +904,8 @@ tag: upskirt
 title: Naughty Touch
 type: gallery
 site: VivThomas
-cast: n:Alice Xo; u:https://www.vivthomas.com/model/alice-xo
-cast: n:Lucy Mendez; u:https://www.vivthomas.com/model/lucy-mendez
+model: n:Alice Xo; id:/model/vivthomas/alice-xo; u:https://www.vivthomas.com/model/alice-xo
+model: n:Lucy Mendez; id:/model/vivthomas/lucy-mendez; u:https://www.vivthomas.com/model/lucy-mendez
 released: 2025-11-06
 director: Sandra Shine
 fileprefix: VivThomas-20251106-naughty-touch
@@ -955,8 +955,8 @@ tag: thongs
 title: Special Helper
 type: gallery
 site: VivThomas
-cast: n:Simon; u:https://www.sexart.com/model/simon; g:f; s:SexArt
-cast: n:Roni; u:https://www.sexart.com/model/roni; g:f; s:SexArt
+model: n:Simon; id:/model/sexart/simon; u:https://www.sexart.com/model/simon; g:f
+model: n:Roni; id:/model/sexart/roni; u:https://www.sexart.com/model/roni; g:f
 released: 2025-11-03
 director: Tora Ness
 fileprefix: VivThomas-20251103-special-helper
@@ -1008,8 +1008,8 @@ tag: vibrator
 title: Admiring Glances
 type: gallery
 site: VivThomas
-cast: n:Julia Morozzi; u:https://www.vivthomas.com/model/julia-morozzi
-cast: n:Amalia Davis; u:https://www.sexart.com/model/amalia-davis; g:f; s:SexArt
+model: n:Julia Morozzi; id:/model/vivthomas/julia-morozzi; u:https://www.vivthomas.com/model/julia-morozzi
+model: n:Amalia Davis; id:/model/sexart/amalia-davis; u:https://www.sexart.com/model/amalia-davis; g:f
 released: 2025-10-28
 director: Sandra Shine
 fileprefix: VivThomas-20251028-admiring-glances
@@ -1064,7 +1064,7 @@ tag: thongs
 title: Happiness
 type: gallery
 site: VivThomas
-cast: n:Abby Margarita; u:https://www.vivthomas.com/model/abby-margarita
+model: n:Abby Margarita; id:/model/vivthomas/abby-margarita; u:https://www.vivthomas.com/model/abby-margarita
 released: 2025-10-26
 director: Blake Jasper
 fileprefix: VivThomas-20251026-happiness
@@ -1103,8 +1103,8 @@ tag: ukraine
 title: Kiss And Make Up
 type: gallery
 site: VivThomas
-cast: n:Matty Mila Perez; u:https://www.vivthomas.com/model/matty-mila-perez
-cast: n:Isabella De Laa; u:https://www.vivthomas.com/model/isabella-de-laa
+model: n:Matty Mila Perez; id:/model/vivthomas/matty-mila-perez; u:https://www.vivthomas.com/model/matty-mila-perez
+model: n:Isabella De Laa; id:/model/vivthomas/isabella-de-laa; u:https://www.vivthomas.com/model/isabella-de-laa
 released: 2025-10-23
 director: Sandra Shine
 fileprefix: VivThomas-20251023-kiss-and-make-up
@@ -1152,8 +1152,8 @@ tag: thongs
 title: Sunkissed Sensuality
 type: gallery
 site: VivThomas
-cast: n:Arete; u:https://www.vivthomas.com/model/arete
-cast: n:Cherry Blossom; u:https://www.vivthomas.com/model/cherry-blossom
+model: n:Arete; id:/model/vivthomas/arete; u:https://www.vivthomas.com/model/arete
+model: n:Cherry Blossom; id:/model/vivthomas/cherry-blossom; u:https://www.vivthomas.com/model/cherry-blossom
 released: 2025-10-20
 director: Tora Ness
 fileprefix: VivThomas-20251020-sunkissed-sensuality
@@ -1167,8 +1167,8 @@ tag: finland
 title: Perfect Touch
 type: gallery
 site: VivThomas
-cast: n:Milan Cheek; u:https://www.vivthomas.com/model/milan-cheek
-cast: n:Norah Juliette; u:https://www.vivthomas.com/model/norah-juliette
+model: n:Milan Cheek; id:/model/vivthomas/milan-cheek; u:https://www.vivthomas.com/model/milan-cheek
+model: n:Norah Juliette; id:/model/vivthomas/norah-juliette; u:https://www.vivthomas.com/model/norah-juliette
 released: 2025-10-14
 director: Sandra Shine
 fileprefix: VivThomas-20251014-perfect-touch
@@ -1220,7 +1220,7 @@ tag: ukraine
 title: Corset Beauty
 type: gallery
 site: VivThomas
-cast: n:Kelly Collins; u:https://www.sexart.com/model/kelly-collins; g:f; s:SexArt
+model: n:Kelly Collins; id:/model/sexart/kelly-collins; u:https://www.sexart.com/model/kelly-collins; g:f
 released: 2025-10-12
 director: Deltagamma
 fileprefix: VivThomas-20251012-corset-beauty
@@ -1266,8 +1266,8 @@ tag: trimmed pussy
 title: Copper And Gold
 type: gallery
 site: VivThomas
-cast: n:Clemence Audiard; u:https://www.vivthomas.com/model/clemence-audiard
-cast: n:Angelika Grays; u:https://www.vivthomas.com/model/angelika-grays
+model: n:Clemence Audiard; id:/model/vivthomas/clemence-audiard; u:https://www.vivthomas.com/model/clemence-audiard
+model: n:Angelika Grays; id:/model/vivthomas/angelika-grays; u:https://www.vivthomas.com/model/angelika-grays
 released: 2025-10-09
 director: Sandra Shine
 fileprefix: VivThomas-20251009-copper-and-gold
@@ -1316,8 +1316,8 @@ tag: thongs
 title: Love To Kiss
 type: gallery
 site: VivThomas
-cast: n:Arina Shy; u:https://www.vivthomas.com/model/arina-shy
-cast: n:Amirah Adara; u:https://www.sexart.com/model/amirah-adara; s:SexArt
+model: n:Arina Shy; id:/model/vivthomas/arina-shy; u:https://www.vivthomas.com/model/arina-shy
+model: n:Amirah Adara; id:/model/sexart/amirah-adara; u:https://www.sexart.com/model/amirah-adara
 released: 2025-10-06
 director: Sandra Shine
 fileprefix: VivThomas-20251006-love-to-kiss
@@ -1370,7 +1370,7 @@ tag: ukraine
 title: Blue Lace
 type: gallery
 site: VivThomas
-cast: n:Sofia Lia; u:https://www.vivthomas.com/model/sofia-lia
+model: n:Sofia Lia; id:/model/vivthomas/sofia-lia; u:https://www.vivthomas.com/model/sofia-lia
 released: 2025-10-04
 director: Flora
 fileprefix: VivThomas-20251004-blue-lace
@@ -1413,8 +1413,8 @@ tag: thongs
 title: Hot Out Here
 type: gallery
 site: VivThomas
-cast: n:Casey A; u:https://www.vivthomas.com/model/casey-a
-cast: n:Lilly Mays; u:https://www.vivthomas.com/model/lilly-mays
+model: n:Casey A; id:/model/vivthomas/casey-a; u:https://www.vivthomas.com/model/casey-a
+model: n:Lilly Mays; id:/model/vivthomas/lilly-mays; u:https://www.vivthomas.com/model/lilly-mays
 released: 2025-09-30
 director: Tora Ness
 fileprefix: VivThomas-20250930-hot-out-here
@@ -1461,7 +1461,7 @@ tag: upskirt
 title: Sexy Secretary
 type: gallery
 site: VivThomas
-cast: n:Luna Art; u:https://www.sexart.com/model/luna-art; g:f; s:SexArt
+model: n:Luna Art; id:/model/sexart/luna-art; u:https://www.sexart.com/model/luna-art; g:f
 released: 2025-09-28
 director: Flora
 fileprefix: VivThomas-20250928-sexy-secretary
@@ -1500,8 +1500,8 @@ tag: upskirt
 title: Interrupted
 type: gallery
 site: VivThomas
-cast: n:Liv Revamped; u:https://www.vivthomas.com/model/liv-revamped
-cast: n:Dorothy Black; u:https://www.vivthomas.com/model/dorothy-black
+model: n:Liv Revamped; id:/model/vivthomas/liv-revamped; u:https://www.vivthomas.com/model/liv-revamped
+model: n:Dorothy Black; id:/model/vivthomas/dorothy-black; u:https://www.vivthomas.com/model/dorothy-black
 released: 2025-09-25
 director: Sandra Shine
 fileprefix: VivThomas-20250925-interrupted
@@ -1552,8 +1552,8 @@ tag: united states
 title: Wild Chemistry
 type: gallery
 site: VivThomas
-cast: n:Fanta Sie; u:https://www.vivthomas.com/model/fanta-sie
-cast: n:Talia Mint; u:https://www.sexart.com/model/talia-mint; s:SexArt
+model: n:Fanta Sie; id:/model/vivthomas/fanta-sie; u:https://www.vivthomas.com/model/fanta-sie
+model: n:Talia Mint; id:/model/sexart/talia-mint; u:https://www.sexart.com/model/talia-mint
 released: 2025-09-22
 director: Sandra Shine
 fileprefix: VivThomas-20250922-wild-chemistry
@@ -1598,7 +1598,7 @@ tag: ukraine
 title: Purple Haze
 type: gallery
 site: VivThomas
-cast: n:Pora Red; u:https://www.vivthomas.com/model/pora-red
+model: n:Pora Red; id:/model/vivthomas/pora-red; u:https://www.vivthomas.com/model/pora-red
 released: 2025-09-20
 director: Nudero
 fileprefix: VivThomas-20250920-purple-haze
@@ -1635,8 +1635,8 @@ tag: thigh high stockings
 title: Study Me
 type: gallery
 site: VivThomas
-cast: n:Sarah Heizel; u:https://www.vivthomas.com/model/sarah-heizel
-cast: n:Bonnie Dolce; u:https://www.vivthomas.com/model/bonnie-dolce
+model: n:Sarah Heizel; id:/model/vivthomas/sarah-heizel; u:https://www.vivthomas.com/model/sarah-heizel
+model: n:Bonnie Dolce; id:/model/vivthomas/bonnie-dolce; u:https://www.vivthomas.com/model/bonnie-dolce
 released: 2025-09-16
 director: Sandra Shine
 fileprefix: VivThomas-20250916-study-me
@@ -1689,7 +1689,7 @@ tag: ukraine
 title: Shadows
 type: gallery
 site: VivThomas
-cast: n:Jo; u:https://www.vivthomas.com/model/jo
+model: n:Jo; id:/model/vivthomas/jo; u:https://www.vivthomas.com/model/jo
 released: 2025-09-14
 director: Sandra Shine
 fileprefix: VivThomas-20250914-shadows
@@ -1725,8 +1725,8 @@ tag: thongs
 title: Stylish Kiss
 type: gallery
 site: VivThomas
-cast: n:Chica Minori; u:https://www.vivthomas.com/model/chica-minori
-cast: n:Ryana; u:https://www.sexart.com/model/ryana; g:f; s:SexArt
+model: n:Chica Minori; id:/model/vivthomas/chica-minori; u:https://www.vivthomas.com/model/chica-minori
+model: n:Ryana; id:/model/sexart/ryana; u:https://www.sexart.com/model/ryana; g:f
 released: 2025-09-11
 director: Alex Iskan
 fileprefix: VivThomas-20250911-stylish-kiss
@@ -1779,8 +1779,8 @@ tag: ukraine
 title: Hot Tub
 type: gallery
 site: VivThomas
-cast: n:Adriana Sweetheart; u:https://www.vivthomas.com/model/adriana-sweetheart
-cast: n:Betzz; u:https://www.sexart.com/model/betzz; g:f; s:SexArt
+model: n:Adriana Sweetheart; id:/model/vivthomas/adriana-sweetheart; u:https://www.vivthomas.com/model/adriana-sweetheart
+model: n:Betzz; id:/model/sexart/betzz; u:https://www.sexart.com/model/betzz; g:f
 released: 2025-09-08
 director: Sandra Shine
 fileprefix: VivThomas-20250908-hot-tub
@@ -1823,7 +1823,7 @@ tag: up-do
 title: Curvy Miss
 type: gallery
 site: VivThomas
-cast: n:Miss Mia; u:https://www.vivthomas.com/model/miss-mia
+model: n:Miss Mia; id:/model/vivthomas/miss-mia; u:https://www.vivthomas.com/model/miss-mia
 released: 2025-09-06
 director: Matiss
 fileprefix: VivThomas-20250906-curvy-miss
@@ -1861,8 +1861,8 @@ tag: upskirt
 title: Cute Date
 type: gallery
 site: VivThomas
-cast: n:Kate Quinn; u:https://www.vivthomas.com/model/kate-quinn
-cast: n:Julia Morozzi; u:https://www.vivthomas.com/model/julia-morozzi
+model: n:Kate Quinn; id:/model/vivthomas/kate-quinn; u:https://www.vivthomas.com/model/kate-quinn
+model: n:Julia Morozzi; id:/model/vivthomas/julia-morozzi; u:https://www.vivthomas.com/model/julia-morozzi
 released: 2025-09-02
 director: Sandra Shine
 fileprefix: VivThomas-20250902-cute-date
@@ -1914,8 +1914,8 @@ tag: trimmed pussy
 title: Hit The Spot
 type: gallery
 site: VivThomas
-cast: n:Cherry Cle; u:https://www.vivthomas.com/model/cherry-cle
-cast: n:Amalia Davis; u:https://www.sexart.com/model/amalia-davis; g:f; s:SexArt
+model: n:Cherry Cle; id:/model/vivthomas/cherry-cle; u:https://www.vivthomas.com/model/cherry-cle
+model: n:Amalia Davis; id:/model/sexart/amalia-davis; u:https://www.sexart.com/model/amalia-davis; g:f
 released: 2025-08-28
 director: Sandra Shine
 fileprefix: VivThomas-20250828-hit-the-spot
@@ -1962,8 +1962,8 @@ tag: tattoo
 title: Naughty Summer
 type: gallery
 site: VivThomas
-cast: n:Viksi; u:https://www.vivthomas.com/model/viksi
-cast: n:Valeria Mint; u:https://www.sexart.com/model/valeria-mint; g:f; s:SexArt
+model: n:Viksi; id:/model/vivthomas/viksi; u:https://www.vivthomas.com/model/viksi
+model: n:Valeria Mint; id:/model/sexart/valeria-mint; u:https://www.sexart.com/model/valeria-mint; g:f
 released: 2025-08-25
 director: Alex Iskan
 fileprefix: VivThomas-20250825-naughty-summer
@@ -1977,8 +1977,8 @@ tag: ukraine
 title: Mutual Lust
 type: gallery
 site: VivThomas
-cast: n:Nikoleta; u:https://www.vivthomas.com/model/nikoleta
-cast: n:Cherry Blossom; u:https://www.vivthomas.com/model/cherry-blossom
+model: n:Nikoleta; id:/model/vivthomas/nikoleta; u:https://www.vivthomas.com/model/nikoleta
+model: n:Cherry Blossom; id:/model/vivthomas/cherry-blossom; u:https://www.vivthomas.com/model/cherry-blossom
 released: 2025-08-19
 director: Tora Ness
 fileprefix: VivThomas-20250819-mutual-lust
@@ -2027,7 +2027,7 @@ tag: thongs
 title: Collegiate Cutie
 type: gallery
 site: VivThomas
-cast: n:Didi; u:https://www.vivthomas.com/model/didi
+model: n:Didi; id:/model/vivthomas/didi; u:https://www.vivthomas.com/model/didi
 released: 2025-08-17
 director: Blake Jasper
 fileprefix: VivThomas-20250817-collegiate-cutie
@@ -2066,8 +2066,8 @@ tag: upskirt
 title: Time For Bed
 type: gallery
 site: VivThomas
-cast: n:Stella Luxx; u:https://www.vivthomas.com/model/stella-luxx
-cast: n:Cherry Kiss; u:https://www.sexart.com/model/cherry-kiss; s:SexArt
+model: n:Stella Luxx; id:/model/vivthomas/stella-luxx; u:https://www.vivthomas.com/model/stella-luxx
+model: n:Cherry Kiss; id:/model/sexart/cherry-kiss; u:https://www.sexart.com/model/cherry-kiss
 released: 2025-08-14
 director: Cherry Kiss
 fileprefix: VivThomas-20250814-time-for-bed
@@ -2116,8 +2116,8 @@ tag: watch
 title: Blondes Have More Fun
 type: gallery
 site: VivThomas
-cast: n:Lovita Fate; u:https://www.sexart.com/model/lovita-fate; g:f; s:SexArt
-cast: n:Zazie S; u:https://www.vivthomas.com/model/zazie-s
+model: n:Lovita Fate; id:/model/sexart/lovita-fate; u:https://www.sexart.com/model/lovita-fate; g:f
+model: n:Zazie S; id:/model/vivthomas/zazie-s; u:https://www.vivthomas.com/model/zazie-s
 released: 2025-08-11
 director: Sandra Shine
 fileprefix: VivThomas-20250811-blondes-have-more-fun
@@ -2166,7 +2166,7 @@ tag: trimmed pussy
 title: Summertime Love
 type: gallery
 site: VivThomas
-cast: n:Jo; u:https://www.vivthomas.com/model/jo
+model: n:Jo; id:/model/vivthomas/jo; u:https://www.vivthomas.com/model/jo
 released: 2025-08-09
 director: Sandra Shine
 fileprefix: VivThomas-20250809-summertime-love
@@ -2201,8 +2201,8 @@ tag: thongs
 title: Sexy Date
 type: gallery
 site: VivThomas
-cast: n:Angelika Grays; u:https://www.vivthomas.com/model/angelika-grays
-cast: n:Dolly Diore; u:https://www.vivthomas.com/model/dolly-diore
+model: n:Angelika Grays; id:/model/vivthomas/angelika-grays; u:https://www.vivthomas.com/model/angelika-grays
+model: n:Dolly Diore; id:/model/vivthomas/dolly-diore; u:https://www.vivthomas.com/model/dolly-diore
 released: 2025-08-05
 director: Sandra Shine
 fileprefix: VivThomas-20250805-sexy-date
@@ -2217,7 +2217,7 @@ tag: russian federation
 title: Cool Chic
 type: gallery
 site: VivThomas
-cast: n:Victoria Mur; u:https://www.sexart.com/model/victoria-mur; g:f; s:SexArt
+model: n:Victoria Mur; id:/model/sexart/victoria-mur; u:https://www.sexart.com/model/victoria-mur; g:f
 released: 2025-08-03
 director: Blake Jasper
 fileprefix: VivThomas-20250803-cool-chic
@@ -2255,8 +2255,8 @@ tag: upskirt
 title: Study Break
 type: gallery
 site: VivThomas
-cast: n:Lucianna Lucci; u:https://www.vivthomas.com/model/lucianna-lucci
-cast: n:Olivia Sparkle; u:https://www.sexart.com/model/olivia-sparkle; g:f; s:SexArt
+model: n:Lucianna Lucci; id:/model/vivthomas/lucianna-lucci; u:https://www.vivthomas.com/model/lucianna-lucci
+model: n:Olivia Sparkle; id:/model/sexart/olivia-sparkle; u:https://www.sexart.com/model/olivia-sparkle; g:f
 released: 2025-07-31
 director: Sandra Shine
 fileprefix: VivThomas-20250731-study-break
@@ -2302,8 +2302,8 @@ tag: thongs
 title: Perfect Plan
 type: gallery
 site: VivThomas
-cast: n:Ella Bonita; u:https://www.sexart.com/model/ella-bonita; g:f; s:SexArt
-cast: n:Casey A; u:https://www.vivthomas.com/model/casey-a
+model: n:Ella Bonita; id:/model/sexart/ella-bonita; u:https://www.sexart.com/model/ella-bonita; g:f
+model: n:Casey A; id:/model/vivthomas/casey-a; u:https://www.vivthomas.com/model/casey-a
 released: 2025-07-28
 director: Tora Ness
 fileprefix: VivThomas-20250728-perfect-plan
@@ -2350,7 +2350,7 @@ tag: striptease
 title: Pink Sheer
 type: gallery
 site: VivThomas
-cast: n:Didi; u:https://www.vivthomas.com/model/didi
+model: n:Didi; id:/model/vivthomas/didi; u:https://www.vivthomas.com/model/didi
 released: 2025-07-26
 director: Blake Jasper
 fileprefix: VivThomas-20250726-pink-sheer
@@ -2385,8 +2385,8 @@ tag: ukraine
 title: Julia's First Time
 type: gallery
 site: VivThomas
-cast: n:Julia Morozzi; u:https://www.vivthomas.com/model/julia-morozzi
-cast: n:Amirah Adara; u:https://www.sexart.com/model/amirah-adara; s:SexArt
+model: n:Julia Morozzi; id:/model/vivthomas/julia-morozzi; u:https://www.vivthomas.com/model/julia-morozzi
+model: n:Amirah Adara; id:/model/sexart/amirah-adara; u:https://www.sexart.com/model/amirah-adara
 released: 2025-07-22
 director: Sandra Shine
 fileprefix: VivThomas-20250722-julias-first-time
@@ -2433,7 +2433,7 @@ tag: trimmed pussy
 title: Naughty Studies
 type: gallery
 site: VivThomas
-cast: n:Neu Ling; u:https://www.vivthomas.com/model/neu-ling
+model: n:Neu Ling; id:/model/vivthomas/neu-ling; u:https://www.vivthomas.com/model/neu-ling
 released: 2025-07-20
 director: Walter Schotten
 fileprefix: VivThomas-20250720-naughty-studies
@@ -2475,8 +2475,8 @@ tag: upskirt
 title: Touch Me
 type: gallery
 site: VivThomas
-cast: n:Leya Desantis; u:https://www.vivthomas.com/model/leya-desantis
-cast: n:Britney Dutch; u:https://www.vivthomas.com/model/britney-dutch
+model: n:Leya Desantis; id:/model/vivthomas/leya-desantis; u:https://www.vivthomas.com/model/leya-desantis
+model: n:Britney Dutch; id:/model/vivthomas/britney-dutch; u:https://www.vivthomas.com/model/britney-dutch
 released: 2025-07-17
 director: Sandra Shine
 fileprefix: VivThomas-20250717-touch-me
@@ -2526,8 +2526,8 @@ tag: up-do
 title: Tender Embrace
 type: gallery
 site: VivThomas
-cast: n:Maya Sinn; u:https://www.sexart.com/model/maya-sinn; g:f; s:SexArt
-cast: n:Olivia Sparkle; u:https://www.sexart.com/model/olivia-sparkle; g:f; s:SexArt
+model: n:Maya Sinn; id:/model/sexart/maya-sinn; u:https://www.sexart.com/model/maya-sinn; g:f
+model: n:Olivia Sparkle; id:/model/sexart/olivia-sparkle; u:https://www.sexart.com/model/olivia-sparkle; g:f
 released: 2025-07-14
 director: Sandra Shine
 fileprefix: VivThomas-20250714-tender-embrace
@@ -2581,8 +2581,8 @@ tag: thongs
 title: High Energy
 type: gallery
 site: VivThomas
-cast: n:Bonnie Dolce; u:https://www.vivthomas.com/model/bonnie-dolce
-cast: n:Purr Simona; u:https://www.sexart.com/model/purr-simona; s:SexArt
+model: n:Bonnie Dolce; id:/model/vivthomas/bonnie-dolce; u:https://www.vivthomas.com/model/bonnie-dolce
+model: n:Purr Simona; id:/model/sexart/purr-simona; u:https://www.sexart.com/model/purr-simona
 released: 2025-07-08
 director: Sandra Shine
 fileprefix: VivThomas-20250708-high-energy
@@ -2634,8 +2634,8 @@ tag: yoga mat
 title: Hot Bodies
 type: gallery
 site: VivThomas
-cast: n:Betzz; u:https://www.sexart.com/model/betzz; g:f; s:SexArt
-cast: n:Chica Minori; u:https://www.vivthomas.com/model/chica-minori
+model: n:Betzz; id:/model/sexart/betzz; u:https://www.sexart.com/model/betzz; g:f
+model: n:Chica Minori; id:/model/vivthomas/chica-minori; u:https://www.vivthomas.com/model/chica-minori
 released: 2025-07-03
 director: Sandra Shine
 fileprefix: VivThomas-20250703-hot-bodies
@@ -2650,8 +2650,8 @@ tag: ukraine
 title: Garden Passion
 type: gallery
 site: VivThomas
-cast: n:Nicole Nixon; u:https://www.vivthomas.com/model/nicole-nixon
-cast: n:Amalia Davis; u:https://www.sexart.com/model/amalia-davis; g:f; s:SexArt
+model: n:Nicole Nixon; id:/model/vivthomas/nicole-nixon; u:https://www.vivthomas.com/model/nicole-nixon
+model: n:Amalia Davis; id:/model/sexart/amalia-davis; u:https://www.sexart.com/model/amalia-davis; g:f
 released: 2025-06-30
 director: Sandra Shine
 fileprefix: VivThomas-20250630-garden-passion
@@ -2702,7 +2702,7 @@ tag: ukraine
 title: Sexy Lady
 type: gallery
 site: VivThomas
-cast: n:Azzurra Moretti; u:https://www.sexart.com/model/azzurra-moretti; s:SexArt
+model: n:Azzurra Moretti; id:/model/sexart/azzurra-moretti; u:https://www.sexart.com/model/azzurra-moretti
 released: 2025-06-28
 director: Blake Jasper
 fileprefix: VivThomas-20250628-sexy-lady
@@ -2742,8 +2742,8 @@ tag: upskirt
 title: Language Of Love
 type: gallery
 site: VivThomas
-cast: n:Ariana Cortez; u:https://www.vivthomas.com/model/ariana-cortez
-cast: n:Talia Mint; u:https://www.sexart.com/model/talia-mint; s:SexArt
+model: n:Ariana Cortez; id:/model/vivthomas/ariana-cortez; u:https://www.vivthomas.com/model/ariana-cortez
+model: n:Talia Mint; id:/model/sexart/talia-mint; u:https://www.sexart.com/model/talia-mint
 released: 2025-06-24
 director: Sandra Shine
 fileprefix: VivThomas-20250624-language-of-love
@@ -2795,8 +2795,8 @@ tag: ukraine
 title: Night Moves
 type: gallery
 site: VivThomas
-cast: n:Valeria Mint; u:https://www.sexart.com/model/valeria-mint; g:f; s:SexArt
-cast: n:Nastya; u:https://www.vivthomas.com/model/nastya
+model: n:Valeria Mint; id:/model/sexart/valeria-mint; u:https://www.sexart.com/model/valeria-mint; g:f
+model: n:Nastya; id:/model/vivthomas/nastya; u:https://www.vivthomas.com/model/nastya
 released: 2025-06-19
 director: Alex Iskan
 fileprefix: VivThomas-20250619-night-moves
@@ -2843,8 +2843,8 @@ tag: ukraine
 title: Hot Kisses
 type: gallery
 site: VivThomas
-cast: n:Kate Quinn; u:https://www.vivthomas.com/model/kate-quinn
-cast: n:Sata Jones; u:https://www.vivthomas.com/model/sata-jones
+model: n:Kate Quinn; id:/model/vivthomas/kate-quinn; u:https://www.vivthomas.com/model/kate-quinn
+model: n:Sata Jones; id:/model/vivthomas/sata-jones; u:https://www.vivthomas.com/model/sata-jones
 released: 2025-06-16
 director: Sandra Shine
 fileprefix: VivThomas-20250616-hot-kisses
@@ -2898,8 +2898,8 @@ tag: thongs
 title: Captivated
 type: gallery
 site: VivThomas
-cast: n:Dolly Diore; u:https://www.vivthomas.com/model/dolly-diore
-cast: n:Clemence Audiard; u:https://www.vivthomas.com/model/clemence-audiard
+model: n:Dolly Diore; id:/model/vivthomas/dolly-diore; u:https://www.vivthomas.com/model/dolly-diore
+model: n:Clemence Audiard; id:/model/vivthomas/clemence-audiard; u:https://www.vivthomas.com/model/clemence-audiard
 released: 2025-06-10
 director: Sandra Shine
 fileprefix: VivThomas-20250610-captivated
@@ -2948,7 +2948,7 @@ tag: thongs
 title: Busty Beauty
 type: gallery
 site: VivThomas
-cast: n:Miss Mia; u:https://www.vivthomas.com/model/miss-mia
+model: n:Miss Mia; id:/model/vivthomas/miss-mia; u:https://www.vivthomas.com/model/miss-mia
 released: 2025-06-08
 director: Matiss
 fileprefix: VivThomas-20250608-busty-beauty
@@ -2984,8 +2984,8 @@ tag: upskirt
 title: Flirty Colleagues
 type: gallery
 site: VivThomas
-cast: n:Cherry Kiss; u:https://www.sexart.com/model/cherry-kiss; s:SexArt
-cast: n:Blake Blossom; u:https://www.vivthomas.com/model/blake-blossom
+model: n:Cherry Kiss; id:/model/sexart/cherry-kiss; u:https://www.sexart.com/model/cherry-kiss
+model: n:Blake Blossom; id:/model/vivthomas/blake-blossom; u:https://www.vivthomas.com/model/blake-blossom
 released: 2025-06-05
 director: Cherry Kiss
 fileprefix: VivThomas-20250605-flirty-colleagues
@@ -3030,8 +3030,8 @@ tag: united states
 title: Loving Looks
 type: gallery
 site: VivThomas
-cast: n:Jo; u:https://www.vivthomas.com/model/jo
-cast: n:Zazie S; u:https://www.vivthomas.com/model/zazie-s
+model: n:Jo; id:/model/vivthomas/jo; u:https://www.vivthomas.com/model/jo
+model: n:Zazie S; id:/model/vivthomas/zazie-s; u:https://www.vivthomas.com/model/zazie-s
 released: 2025-06-02
 director: Sandra Shine
 fileprefix: VivThomas-20250602-loving-looks
@@ -3082,7 +3082,7 @@ tag: trimmed pussy
 title: Delightful
 type: gallery
 site: VivThomas
-cast: n:Neu Ling; u:https://www.vivthomas.com/model/neu-ling
+model: n:Neu Ling; id:/model/vivthomas/neu-ling; u:https://www.vivthomas.com/model/neu-ling
 released: 2025-05-31
 director: Walter Schotten
 fileprefix: VivThomas-20250531-delightful
@@ -3120,8 +3120,8 @@ tag: table
 title: Cute Couple
 type: gallery
 site: VivThomas
-cast: n:Arina Shy; u:https://www.vivthomas.com/model/arina-shy
-cast: n:Asra Dewy; u:https://www.vivthomas.com/model/asra-dewy
+model: n:Arina Shy; id:/model/vivthomas/arina-shy; u:https://www.vivthomas.com/model/arina-shy
+model: n:Asra Dewy; id:/model/vivthomas/asra-dewy; u:https://www.vivthomas.com/model/asra-dewy
 released: 2025-05-27
 director: Sandra Shine
 fileprefix: VivThomas-20250527-cute-couple
@@ -3165,8 +3165,8 @@ tag: up-do
 title: Pampered Beauty
 type: gallery
 site: VivThomas
-cast: n:Lucianna Lucci; u:https://www.vivthomas.com/model/lucianna-lucci
-cast: n:Maya Sinn; u:https://www.sexart.com/model/maya-sinn; g:f; s:SexArt
+model: n:Lucianna Lucci; id:/model/vivthomas/lucianna-lucci; u:https://www.vivthomas.com/model/lucianna-lucci
+model: n:Maya Sinn; id:/model/sexart/maya-sinn; u:https://www.sexart.com/model/maya-sinn; g:f
 released: 2025-05-22
 director: Sandra Shine
 fileprefix: VivThomas-20250522-pampered-beauty
@@ -3212,8 +3212,8 @@ tag: striptease
 title: Your Touch
 type: gallery
 site: VivThomas
-cast: n:Mia Evans; u:https://www.vivthomas.com/model/mia-evans
-cast: n:Bonnie Dolce; u:https://www.vivthomas.com/model/bonnie-dolce
+model: n:Mia Evans; id:/model/vivthomas/mia-evans; u:https://www.vivthomas.com/model/mia-evans
+model: n:Bonnie Dolce; id:/model/vivthomas/bonnie-dolce; u:https://www.vivthomas.com/model/bonnie-dolce
 released: 2025-05-19
 director: Sandra Shine
 fileprefix: VivThomas-20250519-your-touch
@@ -3263,7 +3263,7 @@ tag: thongs
 title: Pink Beauty
 type: gallery
 site: VivThomas
-cast: n:Mia; u:https://www.vivthomas.com/model/mia
+model: n:Mia; id:/model/vivthomas/mia; u:https://www.vivthomas.com/model/mia
 released: 2025-05-17
 director: Walter Schotten
 fileprefix: VivThomas-20250517-pink-beauty
@@ -3296,8 +3296,8 @@ tag: table
 title: You're Mine
 type: gallery
 site: VivThomas
-cast: n:Betzz; u:https://www.sexart.com/model/betzz; g:f; s:SexArt
-cast: n:Lovita Fate; u:https://www.sexart.com/model/lovita-fate; g:f; s:SexArt
+model: n:Betzz; id:/model/sexart/betzz; u:https://www.sexart.com/model/betzz; g:f
+model: n:Lovita Fate; id:/model/sexart/lovita-fate; u:https://www.sexart.com/model/lovita-fate; g:f
 released: 2025-05-13
 director: Sandra Shine
 fileprefix: VivThomas-20250513-youre-mine
@@ -3346,8 +3346,8 @@ tag: thongs
 title: Deep Inside
 type: gallery
 site: VivThomas
-cast: n:Lily Blossom; u:https://www.vivthomas.com/model/lily-blossom
-cast: n:Cherry Cle; u:https://www.vivthomas.com/model/cherry-cle
+model: n:Lily Blossom; id:/model/vivthomas/lily-blossom; u:https://www.vivthomas.com/model/lily-blossom
+model: n:Cherry Cle; id:/model/vivthomas/cherry-cle; u:https://www.vivthomas.com/model/cherry-cle
 released: 2025-05-08
 director: Sandra Shine
 fileprefix: VivThomas-20250508-deep-inside
@@ -3402,8 +3402,8 @@ tag: tie
 title: Serenade
 type: gallery
 site: VivThomas
-cast: n:Sata Jones; u:https://www.vivthomas.com/model/sata-jones
-cast: n:Amalia Davis; u:https://www.sexart.com/model/amalia-davis; g:f; s:SexArt
+model: n:Sata Jones; id:/model/vivthomas/sata-jones; u:https://www.vivthomas.com/model/sata-jones
+model: n:Amalia Davis; id:/model/sexart/amalia-davis; u:https://www.sexart.com/model/amalia-davis; g:f
 released: 2025-05-05
 director: Sandra Shine
 fileprefix: VivThomas-20250505-serenade-
@@ -3417,7 +3417,7 @@ tag: russian federation
 title: Gold Bikini
 type: gallery
 site: VivThomas
-cast: n:Liz Ocean; u:https://www.vivthomas.com/model/liz-ocean
+model: n:Liz Ocean; id:/model/vivthomas/liz-ocean; u:https://www.vivthomas.com/model/liz-ocean
 released: 2025-05-03
 director: James Allen
 fileprefix: VivThomas-20250503-gold-bikini-
@@ -3431,8 +3431,8 @@ tag: hungary
 title: Sensual Touch
 type: gallery
 site: VivThomas
-cast: n:Norah Juliette; u:https://www.vivthomas.com/model/norah-juliette
-cast: n:Sirena Milano; u:https://www.sexart.com/model/sirena-milano; g:f; s:SexArt
+model: n:Norah Juliette; id:/model/vivthomas/norah-juliette; u:https://www.vivthomas.com/model/norah-juliette
+model: n:Sirena Milano; id:/model/sexart/sirena-milano; u:https://www.sexart.com/model/sirena-milano; g:f
 released: 2025-04-29
 director: Sandra Shine
 fileprefix: VivThomas-20250429-sensual-touch-
@@ -3477,7 +3477,7 @@ tag: tshirt
 title: Sundress
 type: gallery
 site: VivThomas
-cast: n:Olivia Westsun; u:https://www.vivthomas.com/model/olivia-westsun
+model: n:Olivia Westsun; id:/model/vivthomas/olivia-westsun; u:https://www.vivthomas.com/model/olivia-westsun
 released: 2025-04-27
 director: Alex Productions
 fileprefix: VivThomas-20250427-sundress
@@ -3510,8 +3510,8 @@ tag: thongs
 title: Intimate Focus
 type: gallery
 site: VivThomas
-cast: n:Alice Klay; u:https://www.vivthomas.com/model/alice-klay
-cast: n:Sylvia Wise; u:https://www.vivthomas.com/model/sylvia-wise
+model: n:Alice Klay; id:/model/vivthomas/alice-klay; u:https://www.vivthomas.com/model/alice-klay
+model: n:Sylvia Wise; id:/model/vivthomas/sylvia-wise; u:https://www.vivthomas.com/model/sylvia-wise
 released: 2025-04-24
 director: Sandra Shine
 fileprefix: VivThomas-20250424-intimate-focus
@@ -3560,8 +3560,8 @@ tag: thongs
 title: Morning Kiss
 type: gallery
 site: VivThomas
-cast: n:Britney Dutch; u:https://www.vivthomas.com/model/britney-dutch
-cast: n:Isabella De Laa; u:https://www.vivthomas.com/model/isabella-de-laa
+model: n:Britney Dutch; id:/model/vivthomas/britney-dutch; u:https://www.vivthomas.com/model/britney-dutch
+model: n:Isabella De Laa; id:/model/vivthomas/isabella-de-laa; u:https://www.vivthomas.com/model/isabella-de-laa
 released: 2025-04-21
 director: Sandra Shine
 fileprefix: VivThomas-20250421-morning-kiss
@@ -3612,8 +3612,8 @@ tag: up-do
 title: The Pleasure Of You
 type: gallery
 site: VivThomas
-cast: n:Purr Simona; u:https://www.sexart.com/model/purr-simona; s:SexArt
-cast: n:Nicole Nixon; u:https://www.vivthomas.com/model/nicole-nixon
+model: n:Purr Simona; id:/model/sexart/purr-simona; u:https://www.sexart.com/model/purr-simona
+model: n:Nicole Nixon; id:/model/vivthomas/nicole-nixon; u:https://www.vivthomas.com/model/nicole-nixon
 released: 2025-04-15
 director: Sandra Shine
 fileprefix: VivThomas-20250415-the-pleasure-of-you
@@ -3662,7 +3662,7 @@ tag: ukraine
 title: Seducing You
 type: gallery
 site: VivThomas
-cast: n:Minnie Lighter; u:https://www.sexart.com/model/minnie-lighter; g:f; s:SexArt
+model: n:Minnie Lighter; id:/model/sexart/minnie-lighter; u:https://www.sexart.com/model/minnie-lighter; g:f
 released: 2025-04-13
 director: Nudero
 fileprefix: VivThomas-20250413-seducing-you
@@ -3700,8 +3700,8 @@ tag: upskirt
 title: In The Wild
 type: gallery
 site: VivThomas
-cast: n:Isabella D; u:https://www.sexart.com/model/isabella-d; s:SexArt
-cast: n:Chica Minori; u:https://www.vivthomas.com/model/chica-minori
+model: n:Isabella D; id:/model/sexart/isabella-d; u:https://www.sexart.com/model/isabella-d
+model: n:Chica Minori; id:/model/vivthomas/chica-minori; u:https://www.vivthomas.com/model/chica-minori
 released: 2025-04-10
 director: Alex Iskan
 fileprefix: VivThomas-20250410-in-the-wild
@@ -3746,8 +3746,8 @@ tag: ukraine
 title: Eyes On Me
 type: gallery
 site: VivThomas
-cast: n:Zazie S; u:https://www.vivthomas.com/model/zazie-s
-cast: n:MitziX; u:https://www.sexart.com/model/mitzix; g:f; s:SexArt
+model: n:Zazie S; id:/model/vivthomas/zazie-s; u:https://www.vivthomas.com/model/zazie-s
+model: n:MitziX; id:/model/sexart/mitzix; u:https://www.sexart.com/model/mitzix; g:f
 released: 2025-04-07
 director: Sandra Shine
 fileprefix: VivThomas-20250407-eyes-on-me
@@ -3795,7 +3795,7 @@ tag: trimmed pussy
 title: Fashionista
 type: gallery
 site: VivThomas
-cast: n:Mia; u:https://www.vivthomas.com/model/mia
+model: n:Mia; id:/model/vivthomas/mia; u:https://www.vivthomas.com/model/mia
 released: 2025-04-05
 director: Walter Schotten
 fileprefix: VivThomas-20250405-fashionista-
@@ -3829,8 +3829,8 @@ tag: upskirt
 title: Happy Together
 type: gallery
 site: VivThomas
-cast: n:Merida Sat; u:https://www.vivthomas.com/model/merida-sat
-cast: n:Angelika Grays; u:https://www.vivthomas.com/model/angelika-grays
+model: n:Merida Sat; id:/model/vivthomas/merida-sat; u:https://www.vivthomas.com/model/merida-sat
+model: n:Angelika Grays; id:/model/vivthomas/angelika-grays; u:https://www.vivthomas.com/model/angelika-grays
 released: 2025-04-01
 director: Sandra Shine
 fileprefix: VivThomas-20250401-happy-together-
@@ -3880,7 +3880,7 @@ tag: tattoo
 title: Pearl Necklace
 type: gallery
 site: VivThomas
-cast: n:Melania; u:https://www.sexart.com/model/melania; g:f; s:SexArt
+model: n:Melania; id:/model/sexart/melania; u:https://www.sexart.com/model/melania; g:f
 released: 2025-03-30
 director: Walter Schotten
 fileprefix: VivThomas-20250330-pearl-necklace-
@@ -3917,8 +3917,8 @@ tag: upskirt
 title: Sensual Caress
 type: gallery
 site: VivThomas
-cast: n:Nata Ocean; u:https://www.vivthomas.com/model/nata-ocean
-cast: n:Asra Dewy; u:https://www.vivthomas.com/model/asra-dewy
+model: n:Nata Ocean; id:/model/vivthomas/nata-ocean; u:https://www.vivthomas.com/model/nata-ocean
+model: n:Asra Dewy; id:/model/vivthomas/asra-dewy; u:https://www.vivthomas.com/model/asra-dewy
 released: 2025-03-27
 director: Sandra Shine
 fileprefix: VivThomas-20250327-sensual-caress-
@@ -3967,8 +3967,8 @@ tag: ukraine
 title: Loving Kiss
 type: gallery
 site: VivThomas
-cast: n:Arina Shy; u:https://www.vivthomas.com/model/arina-shy
-cast: n:Sweet Lina; u:https://www.vivthomas.com/model/sweet-lina
+model: n:Arina Shy; id:/model/vivthomas/arina-shy; u:https://www.vivthomas.com/model/arina-shy
+model: n:Sweet Lina; id:/model/vivthomas/sweet-lina; u:https://www.vivthomas.com/model/sweet-lina
 released: 2025-03-24
 director: Sandra Shine
 fileprefix: VivThomas-20250324-loving-kiss
@@ -3982,8 +3982,8 @@ tag: ukraine
 title: Blonde Desire
 type: gallery
 site: VivThomas
-cast: n:Bonnie Dolce; u:https://www.vivthomas.com/model/bonnie-dolce
-cast: n:Lily Blossom; u:https://www.vivthomas.com/model/lily-blossom
+model: n:Bonnie Dolce; id:/model/vivthomas/bonnie-dolce; u:https://www.vivthomas.com/model/bonnie-dolce
+model: n:Lily Blossom; id:/model/vivthomas/lily-blossom; u:https://www.vivthomas.com/model/lily-blossom
 released: 2025-03-18
 director: Sandra Shine
 fileprefix: VivThomas-20250318-blonde-desire
@@ -4033,8 +4033,8 @@ tag: waking pleasure
 title: Waking Pleasure
 type: gallery
 site: VivThomas
-cast: n:Sata Jones; u:https://www.vivthomas.com/model/sata-jones
-cast: n:Lovita Fate; u:https://www.sexart.com/model/lovita-fate; g:f; s:SexArt
+model: n:Sata Jones; id:/model/vivthomas/sata-jones; u:https://www.vivthomas.com/model/sata-jones
+model: n:Lovita Fate; id:/model/sexart/lovita-fate; u:https://www.sexart.com/model/lovita-fate; g:f
 released: 2025-03-13
 director: Sandra Shine
 fileprefix: VivThomas-20250313-waking-pleasure
@@ -4049,8 +4049,8 @@ tag: russian federation
 title: Kisses and Caresses
 type: gallery
 site: VivThomas
-cast: n:Stacy Cruz; u:https://www.sexart.com/model/stacy-cruz; g:f; s:SexArt
-cast: n:Alice Klay; u:https://www.vivthomas.com/model/alice-klay
+model: n:Stacy Cruz; id:/model/sexart/stacy-cruz; u:https://www.sexart.com/model/stacy-cruz; g:f
+model: n:Alice Klay; id:/model/vivthomas/alice-klay; u:https://www.vivthomas.com/model/alice-klay
 released: 2025-03-10
 director: Sandra Shine
 fileprefix: VivThomas-20250310-kisses-and-caresses
@@ -4098,7 +4098,7 @@ tag: up-do
 title: Looks Cute
 type: gallery
 site: VivThomas
-cast: n:Valeria Mint; u:https://www.sexart.com/model/valeria-mint; g:f; s:SexArt
+model: n:Valeria Mint; id:/model/sexart/valeria-mint; u:https://www.sexart.com/model/valeria-mint; g:f
 released: 2025-03-08
 director: Karl Sirmi
 fileprefix: VivThomas-20250308-looks-cute
@@ -4137,8 +4137,8 @@ tag: ukraine
 title: Double The Fun
 type: gallery
 site: VivThomas
-cast: n:Amirah Adara; u:https://www.sexart.com/model/amirah-adara; s:SexArt
-cast: n:Betzz; u:https://www.sexart.com/model/betzz; g:f; s:SexArt
+model: n:Amirah Adara; id:/model/sexart/amirah-adara; u:https://www.sexart.com/model/amirah-adara
+model: n:Betzz; id:/model/sexart/betzz; u:https://www.sexart.com/model/betzz; g:f
 released: 2025-03-04
 director: Sandra Shine
 fileprefix: VivThomas-20250304-double-the-fun
@@ -4153,7 +4153,7 @@ tag: hungary
 title: Pearl Tease
 type: gallery
 site: VivThomas
-cast: n:Daruma Rai; u:https://www.sexart.com/model/daruma-rai; s:SexArt
+model: n:Daruma Rai; id:/model/sexart/daruma-rai; u:https://www.sexart.com/model/daruma-rai
 released: 2025-03-02
 director: Erro
 fileprefix: VivThomas-20250302-pearl-tease
@@ -4191,8 +4191,8 @@ tag: thongs
 title: Lace Lovers
 type: gallery
 site: VivThomas
-cast: n:Nicole Nixon; u:https://www.vivthomas.com/model/nicole-nixon
-cast: n:Isabella De Laa; u:https://www.vivthomas.com/model/isabella-de-laa
+model: n:Nicole Nixon; id:/model/vivthomas/nicole-nixon; u:https://www.vivthomas.com/model/nicole-nixon
+model: n:Isabella De Laa; id:/model/vivthomas/isabella-de-laa; u:https://www.vivthomas.com/model/isabella-de-laa
 released: 2025-02-27
 director: Sandra Shine
 fileprefix: VivThomas-20250227-lace-lovers
@@ -4242,8 +4242,8 @@ tag: ukraine
 title: Wet For You
 type: gallery
 site: VivThomas
-cast: n:Posy; u:https://www.vivthomas.com/model/posy
-cast: n:Yeva; u:https://www.vivthomas.com/model/yeva
+model: n:Posy; id:/model/vivthomas/posy; u:https://www.vivthomas.com/model/posy
+model: n:Yeva; id:/model/vivthomas/yeva; u:https://www.vivthomas.com/model/yeva
 released: 2025-02-24
 director: Tora Ness
 fileprefix: VivThomas-20250224-wet-for-you
@@ -4286,8 +4286,8 @@ tag: upskirt
 title: Strawberry Kiss
 type: gallery
 site: VivThomas
-cast: n:Bri Belle; u:https://www.vivthomas.com/model/bri-belle
-cast: n:Mirka; u:https://www.sexart.com/model/mirka; g:f; s:SexArt
+model: n:Bri Belle; id:/model/vivthomas/bri-belle; u:https://www.vivthomas.com/model/bri-belle
+model: n:Mirka; id:/model/sexart/mirka; u:https://www.sexart.com/model/mirka; g:f
 released: 2025-02-22
 director: Tora Ness
 fileprefix: VivThomas-20250222-strawberry-kiss
@@ -4333,8 +4333,8 @@ tag: table
 title: Symphony Of Love
 type: gallery
 site: VivThomas
-cast: n:Purr Simona; u:https://www.sexart.com/model/purr-simona; s:SexArt
-cast: n:Amalia Davis; u:https://www.sexart.com/model/amalia-davis; g:f; s:SexArt
+model: n:Purr Simona; id:/model/sexart/purr-simona; u:https://www.sexart.com/model/purr-simona
+model: n:Amalia Davis; id:/model/sexart/amalia-davis; u:https://www.sexart.com/model/amalia-davis; g:f
 released: 2025-02-18
 director: Sandra Shine
 fileprefix: VivThomas-20250218-symphony-of-love
@@ -4380,7 +4380,7 @@ tag: towel
 title: On The Rocks
 type: gallery
 site: VivThomas
-cast: n:Alexia B; u:https://www.vivthomas.com/model/alexia-b
+model: n:Alexia B; id:/model/vivthomas/alexia-b; u:https://www.vivthomas.com/model/alexia-b
 released: 2025-02-16
 director: Ian Daburn
 fileprefix: VivThomas-20250216-on-the-rocks
@@ -4415,8 +4415,8 @@ tag: striptease
 title: All Yours
 type: gallery
 site: VivThomas
-cast: n:Milan Cheek; u:https://www.vivthomas.com/model/milan-cheek
-cast: n:Merida Sat; u:https://www.vivthomas.com/model/merida-sat
+model: n:Milan Cheek; id:/model/vivthomas/milan-cheek; u:https://www.vivthomas.com/model/milan-cheek
+model: n:Merida Sat; id:/model/vivthomas/merida-sat; u:https://www.vivthomas.com/model/merida-sat
 released: 2025-02-13
 director: Sandra Shine
 fileprefix: VivThomas-20250213-all-yours
@@ -4459,8 +4459,8 @@ tag: ukraine
 title: Loving Licks
 type: gallery
 site: VivThomas
-cast: n:Ella Bonita; u:https://www.sexart.com/model/ella-bonita; g:f; s:SexArt
-cast: n:Simon; u:https://www.sexart.com/model/simon; g:f; s:SexArt
+model: n:Ella Bonita; id:/model/sexart/ella-bonita; u:https://www.sexart.com/model/ella-bonita; g:f
+model: n:Simon; id:/model/sexart/simon; u:https://www.sexart.com/model/simon; g:f
 released: 2025-02-10
 director: Tora Ness
 fileprefix: VivThomas-20250210-loving-licks
@@ -4507,8 +4507,8 @@ tag: striptease
 title: Erotic Empathy
 type: gallery
 site: VivThomas
-cast: n:Britney Dutch; u:https://www.vivthomas.com/model/britney-dutch
-cast: n:Kate Quinn; u:https://www.vivthomas.com/model/kate-quinn
+model: n:Britney Dutch; id:/model/vivthomas/britney-dutch; u:https://www.vivthomas.com/model/britney-dutch
+model: n:Kate Quinn; id:/model/vivthomas/kate-quinn; u:https://www.vivthomas.com/model/kate-quinn
 released: 2025-02-04
 director: Sandra Shine
 fileprefix: VivThomas-20250204-erotic-empathy
@@ -4523,7 +4523,7 @@ tag: russian federation
 title: Reflected Pleasure
 type: gallery
 site: VivThomas
-cast: n:Chloe Lapiedra; u:https://www.vivthomas.com/model/chloe-lapiedra
+model: n:Chloe Lapiedra; id:/model/vivthomas/chloe-lapiedra; u:https://www.vivthomas.com/model/chloe-lapiedra
 released: 2025-02-02
 director: David Menich
 fileprefix: VivThomas-20250202-reflected-pleasure
@@ -4563,8 +4563,8 @@ tag: thongs
 title: Shared Desires
 type: gallery
 site: VivThomas
-cast: n:Sirena Milano; u:https://www.sexart.com/model/sirena-milano; g:f; s:SexArt
-cast: n:Jo; u:https://www.vivthomas.com/model/jo
+model: n:Sirena Milano; id:/model/sexart/sirena-milano; u:https://www.sexart.com/model/sirena-milano; g:f
+model: n:Jo; id:/model/vivthomas/jo; u:https://www.vivthomas.com/model/jo
 released: 2025-01-30
 director: Sandra Shine
 fileprefix: VivThomas-20250130-shared-desires
@@ -4609,8 +4609,8 @@ tag: thongs
 title: Kisses And Touches
 type: gallery
 site: VivThomas
-cast: n:Stacy Cruz; u:https://www.sexart.com/model/stacy-cruz; g:f; s:SexArt
-cast: n:Cherry Candle; u:https://www.vivthomas.com/model/cherry-candle
+model: n:Stacy Cruz; id:/model/sexart/stacy-cruz; u:https://www.sexart.com/model/stacy-cruz; g:f
+model: n:Cherry Candle; id:/model/vivthomas/cherry-candle; u:https://www.vivthomas.com/model/cherry-candle
 released: 2025-01-27
 director: Sandra Shine
 fileprefix: VivThomas-20250127-kisses-and-touches
@@ -4658,7 +4658,7 @@ tag: trimmed pussy
 title: Beach Beauty
 type: gallery
 site: VivThomas
-cast: n:Minari; u:https://www.vivthomas.com/model/minari
+model: n:Minari; id:/model/vivthomas/minari; u:https://www.vivthomas.com/model/minari
 released: 2025-01-25
 director: David Menich
 fileprefix: VivThomas-20250125-beach-beauty
@@ -4689,8 +4689,8 @@ tag: thailand
 title: Loving Kisses
 type: gallery
 site: VivThomas
-cast: n:Arina Shy; u:https://www.vivthomas.com/model/arina-shy
-cast: n:Talia Mint; u:https://www.sexart.com/model/talia-mint; s:SexArt
+model: n:Arina Shy; id:/model/vivthomas/arina-shy; u:https://www.vivthomas.com/model/arina-shy
+model: n:Talia Mint; id:/model/sexart/talia-mint; u:https://www.sexart.com/model/talia-mint
 released: 2025-01-21
 director: Sandra Shine
 fileprefix: VivThomas-20250121-loving-kisses
@@ -4735,7 +4735,7 @@ tag: ukraine
 title: Naughty Thoughts
 type: gallery
 site: VivThomas
-cast: n:Vitalievna; u:https://www.vivthomas.com/model/vitalievna
+model: n:Vitalievna; id:/model/vivthomas/vitalievna; u:https://www.vivthomas.com/model/vitalievna
 released: 2025-01-19
 director: Walter Schotten
 fileprefix: VivThomas-20250119-naughty-thoughts
@@ -4775,8 +4775,8 @@ tag: upskirt
 title: Workout Kisses
 type: gallery
 site: VivThomas
-cast: n:Blu Chanelle; u:https://www.vivthomas.com/model/blu-chanelle
-cast: n:Leria Glow; u:https://www.vivthomas.com/model/leria-glow
+model: n:Blu Chanelle; id:/model/vivthomas/blu-chanelle; u:https://www.vivthomas.com/model/blu-chanelle
+model: n:Leria Glow; id:/model/vivthomas/leria-glow; u:https://www.vivthomas.com/model/leria-glow
 released: 2025-01-16
 director: Sandra Shine
 fileprefix: VivThomas-20250116-workout-kisses
@@ -4826,8 +4826,8 @@ tag: yoga pants
 title: Cream On Me
 type: gallery
 site: VivThomas
-cast: n:MitziX; u:https://www.sexart.com/model/mitzix; g:f; s:SexArt
-cast: n:Lovita Fate; u:https://www.sexart.com/model/lovita-fate; g:f; s:SexArt
+model: n:MitziX; id:/model/sexart/mitzix; u:https://www.sexart.com/model/mitzix; g:f
+model: n:Lovita Fate; id:/model/sexart/lovita-fate; u:https://www.sexart.com/model/lovita-fate; g:f
 released: 2025-01-13
 director: Sandra Shine
 fileprefix: VivThomas-20250113-cream-on-me
@@ -4841,7 +4841,7 @@ tag: czech republic
 title: Caressing Waves
 type: gallery
 site: VivThomas
-cast: n:Niki; u:https://www.vivthomas.com/model/niki
+model: n:Niki; id:/model/vivthomas/niki; u:https://www.vivthomas.com/model/niki
 released: 2025-01-11
 director: David Menich
 fileprefix: VivThomas-20250111-caressing-waves
@@ -4872,8 +4872,8 @@ tag: thailand
 title: Delight The Boss
 type: gallery
 site: VivThomas
-cast: n:Sata Jones; u:https://www.vivthomas.com/model/sata-jones
-cast: n:Nicole Murkovski; u:https://www.vivthomas.com/model/nicole-murkovski
+model: n:Sata Jones; id:/model/vivthomas/sata-jones; u:https://www.vivthomas.com/model/sata-jones
+model: n:Nicole Murkovski; id:/model/vivthomas/nicole-murkovski; u:https://www.vivthomas.com/model/nicole-murkovski
 released: 2025-01-07
 director: Sandra Shine
 fileprefix: VivThomas-20250107-delight-the-boss
@@ -4924,7 +4924,7 @@ tag: tattoo
 title: Twilight Temptation
 type: gallery
 site: VivThomas
-cast: n:Kathai; u:https://www.vivthomas.com/model/kathai; g:f
+model: n:Kathai; id:/model/vivthomas/kathai; u:https://www.vivthomas.com/model/kathai; g:f
 released: 2025-01-05
 director: David Menich
 fileprefix: VivThomas-20250105-twilight-temptation
@@ -4954,8 +4954,8 @@ tag: thailand
 title: Perfect Company
 type: gallery
 site: VivThomas
-cast: n:Vicky Love; u:https://www.vivthomas.com/model/vicky-love
-cast: n:Betzz; u:https://www.sexart.com/model/betzz; g:f; s:SexArt
+model: n:Vicky Love; id:/model/vivthomas/vicky-love; u:https://www.vivthomas.com/model/vicky-love
+model: n:Betzz; id:/model/sexart/betzz; u:https://www.sexart.com/model/betzz; g:f
 released: 2025-01-02
 director: Sandra Shine
 fileprefix: VivThomas-20250102-perfect-company
