@@ -9,7 +9,42 @@
 @site MetArt
 @type Gallery
 
-Pure Gold - Martina Mink
+Worth the Risk - Shany
+Worth the Risk
+Released: Oct 01, 2026
+Featuring: Shany
+Director: Cecelia
+Rating: 9.5
+Coy Intentions - Dominique
+Coy Intentions
+Released: Oct 01, 2026
+Featuring: Dominique
+Director: Koenart
+Rating: 9.5
+Linger Awhile - Cristin
+Linger Awhile
+Released: Oct 01, 2026
+Featuring: Cristin
+Director: Karl Sirmi
+Rating: 9.4
+Presenting Gioia Vera - Gioia Vera
+Presenting Gioia Vera
+Released: Oct 01, 2026
+Featuring: Gioia Vera
+Director: Rylsky
+Rating: 9.5
+Just Between Us - Viksi
+Just Between Us
+Released: Oct 01, 2026
+Featuring: Viksi
+Director: Leonardo
+Rating: 9.3
+Morning Delight - Emily Sweet
+Morning Delight
+Released: Oct 01, 2026
+Featuring: Emily Sweet
+Director: Arkisi
+Rating: 9.4
 
 #--------------------------------------------------------------------------------------------------#
 #-- SexArt / Gallery ------------------------------------------------------------------------------#
@@ -18,7 +53,12 @@ Pure Gold - Martina Mink
 @site SexArt
 @type Gallery
 
-Chic Poise - Novella Night
+Secret Invitation - Mery Medem
+Secret Invitation
+Released: Oct 01, 2026
+Featuring: Mery Medem
+Director: Blake Jasper
+Rating: 9.4
 
 #--------------------------------------------------------------------------------------------------#
 #-- VivThomas / Gallery ---------------------------------------------------------------------------#
@@ -54,8 +94,12 @@ The Turn - Lenny Yankee - Emily Pink
 @site VivThomas
 @type Movie
 
-Playing Games - Polly Bangs - Britney Dutch
+Hot Vacation Episode 2 - Fibi Euro - Noi Feja - Pearl
+Hot Vacation Episode 2
+Released: Oct 01, 2026
+Featuring: Fibi Euro, Noi Feja, Pearl
+Director: Sandra Shine
+Rating: 9.8
 
-#--------------------------------------------------------------------------------------------------#
 #--------------------------------------------------------------------------------------------------#
 #--------------------------------------------------------------------------------------------------#
