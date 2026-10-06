@@ -9,30 +9,24 @@
 @site MetArt
 @type Gallery
 
-Bedroom Behavior - Georgia
-Bedroom Behavior
-Released: Oct 05, 2026
-Featuring: Georgia
-Director: Erro
-Rating: 9.6
-Origami Kisses - Sooky
-Origami Kisses
-Released: Oct 05, 2026
-Featuring: Sooky
-Director: Tora Ness
-Rating: 9.4
-Sweet Little Berry 1 - Audrey Sterling
-Sweet Little Berry 1
-Released: Oct 05, 2026
-Featuring: Audrey Sterling
-Director: David Menich
-Rating: 9.2
-Alluring Ways - Vilena
-Alluring Ways
-Released: Oct 05, 2026
-Featuring: Vilena
-Director: Flora
+Have No Shame 1 - Stacy Cruz
+Have No Shame 1
+Released: Oct 06, 2026
+Featuring: Stacy Cruz
+Director: James Allen
 Rating: 9.3
+Hot Blossom - Alice May
+Hot Blossom
+Released: Oct 06, 2026
+Featuring: Alice May
+Director: Rylsky
+Rating: 9.2
+Waking Beauty - Sue Star
+Waking Beauty
+Released: Oct 06, 2026
+Featuring: Sue Star
+Director: Matiss
+Rating: 9.5
 
 #--------------------------------------------------------------------------------------------------#
 #-- SexArt / Gallery ------------------------------------------------------------------------------#
@@ -41,12 +35,12 @@ Rating: 9.3
 @site SexArt
 @type Gallery
 
-Nightcap - Lily Blossom
-Nightcap
-Released: Oct 05, 2026
-Featuring: Lily Blossom
-Director: David Menich
-Rating: 9.1
+Afternoon Delight - Bonnie Dolce
+Afternoon Delight
+Released: Oct 06, 2026
+Featuring: Bonnie Dolce
+Director: Erro
+Rating: 9.7
 
 #--------------------------------------------------------------------------------------------------#
 #-- VivThomas / Gallery ---------------------------------------------------------------------------#
@@ -56,11 +50,6 @@ Rating: 9.1
 @type Gallery
 
 Have a Taste - Valery Ponce - Chica Minori
-Have a Taste
-Released: Oct 05, 2026
-Featuring: Valery Ponce, Chica Minori
-Director: Sandra Shine
-Rating: 9.3
 
 #--------------------------------------------------------------------------------------------------#
 #-- MetArt / Movie --------------------------------------------------------------------------------#
@@ -69,7 +58,12 @@ Rating: 9.3
 @site MetArt
 @type Movie
 
-Rooftop Secret 2 - Monika May
+Between Pages 2 - Mary Venice
+Between Pages 2
+Released: Oct 06, 2026
+Featuring: Mary Venice
+Director: Karl Sirmi
+Rating: 9.6
 
 #--------------------------------------------------------------------------------------------------#
 #-- SexArt / Movie --------------------------------------------------------------------------------#
@@ -87,7 +81,12 @@ Distraction - Kubera Fortuna - Yeri Blue
 @site VivThomas
 @type Movie
 
-Hot Vacation Episode 2 - Fibi Euro - Noi Feja - Pearl
+A Good Day - Sarah Heizel - Alecia Fox
+A Good Day
+Released: Oct 06, 2026
+Featuring: Sarah Heizel, Alecia Fox
+Director: Sandra Shine
+Rating: 9.8
 
 #--------------------------------------------------------------------------------------------------#
 #--------------------------------------------------------------------------------------------------#
