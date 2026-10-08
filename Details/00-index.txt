@@ -9,30 +9,30 @@
 @site MetArt
 @type Gallery
 
-Sultry Oasis - Shelena
-Sultry Oasis
-Released: Oct 07, 2026
-Featuring: Shelena
-Director: Luca Helios
-Rating: 9.7
-Red Horizon - Janey
-Red Horizon
-Released: Oct 07, 2026
-Featuring: Janey
-Director: Arkisi
-Rating: 9.3
-Presenting Mara Voss 1 - Mara Voss
-Presenting Mara Voss 1
-Released: Oct 07, 2026
-Featuring: Mara Voss
-Director: David Ekmekci
-Rating: 9.3
-Subtle Seduction - Pixie
-Subtle Seduction
-Released: Oct 07, 2026
-Featuring: Pixie
-Director: Robert Graham
-Rating: 9.4
+Lavender Morning - Mara Blake
+Lavender Morning
+Released: Oct 08, 2026
+Featuring: Mara Blake
+Director: Karl Sirmi
+Rating: 9.6
+Presenting Elli Milli - Elli Milli
+Presenting Elli Milli
+Released: Oct 08, 2026
+Featuring: Elli Milli
+Director: Nudero
+Rating: 9.2
+Joyride - Valentina Verardi
+Joyride
+Released: Oct 08, 2026
+Featuring: Valentina Verardi
+Director: Tony G
+Rating: 8.9
+Lace Whisper - Charlotte Brooke
+Lace Whisper
+Released: Oct 08, 2026
+Featuring: Charlotte Brooke
+Director: Matiss
+Rating: 9.0
 
 #--------------------------------------------------------------------------------------------------#
 #-- SexArt / Gallery ------------------------------------------------------------------------------#
@@ -41,7 +41,12 @@ Rating: 9.4
 @site SexArt
 @type Gallery
 
-Afternoon Delight - Bonnie Dolce
+Sweet & Spicy - Foxy Sofilie
+Sweet & Spicy
+Released: Oct 08, 2026
+Featuring: Foxy Sofilie
+Director: Flora
+Rating: 9.5
 
 #--------------------------------------------------------------------------------------------------#
 #-- VivThomas / Gallery ---------------------------------------------------------------------------#
@@ -50,7 +55,12 @@ Afternoon Delight - Bonnie Dolce
 @site VivThomas
 @type Gallery
 
-Have a Taste - Valery Ponce - Chica Minori
+Come Play - Cherry Candle - Lexi Montana
+Come Play
+Released: Oct 08, 2026
+Featuring: Cherry Candle, Lexi Montana
+Director: Sandra Shine
+Rating: 9.6
 
 #--------------------------------------------------------------------------------------------------#
 #-- MetArt / Movie --------------------------------------------------------------------------------#
@@ -69,11 +79,6 @@ Between Pages 2 - Mary Venice
 @type Movie
 
 Quiet Tension - Tommy Cabrio - Adelina Jameson
-Quiet Tension
-Released: Oct 07, 2026
-Featuring: Tommy Cabrio, Adelina Jameson
-Director: Andrej Lupin
-Rating: 9.3
 
 #--------------------------------------------------------------------------------------------------#
 #-- VivThomas / Movie -----------------------------------------------------------------------------#
