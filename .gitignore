@@ -1,11 +1,6 @@
 /.idea
-/DataGrip
 
-/Details/*.kv
 /Details/*.yml
-
-/Rendered/**
-
 **/.placeholder
 
 /Index/Pornhub/incoming-20*.yaml
