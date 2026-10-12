@@ -2,6 +2,12 @@
 
 Public facing files.
 
+## Archived October 12, 2026
+
+The processing of the items ("**Titles**") stored here has changed immensely over the past fiteen years.
+The current format relies heavily on the `Titletool` program created in September and October of 2026.
+See [Bitbucket](git@bitbucket.org:ajpippin/cli-titletool.git) for more details.
+
 ## File listing to JSON
 
 ```@shell
