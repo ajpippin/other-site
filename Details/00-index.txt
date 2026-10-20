@@ -9,29 +9,23 @@
 @site MetArt
 @type Gallery
 
-The Golden Touch - Stella Cardo
-The Golden Touch
-Released: Oct 19, 2026
-Featuring: Stella Cardo
-Director: Luca Helios
+Pretty Persuasion - Piper
+Pretty Persuasion
+Released: Oct 20, 2026
+Featuring: Piper
+Director: Matiss
+Rating: 9.5
+Simply Irresistible - Malena Amaro
+Simply Irresistible
+Released: Oct 20, 2026
+Featuring: Malena Amaro
+Director: David Ekmekci
 Rating: 9.6
-Bedtime Invitation - Bonnie Dolce
-Bedtime Invitation
-Released: Oct 19, 2026
-Featuring: Bonnie Dolce
-Director: Erro
-Rating: 9.4
-Sunbathing Beauty - Aimee Rox
-Sunbathing Beauty
-Released: Oct 19, 2026
-Featuring: Aimee Rox
-Director: David Menich
-Rating: 9.4
-Just My Type - Rea Ready
-Just My Type
-Released: Oct 19, 2026
-Featuring: Rea Ready
-Director: Flora
+Sassy Surprise - Selena Soleil
+Sassy Surprise
+Released: Oct 20, 2026
+Featuring: Selena Soleil
+Director: Koenart
 Rating: 9.4
 
 #--------------------------------------------------------------------------------------------------#
@@ -41,12 +35,12 @@ Rating: 9.4
 @site SexArt
 @type Gallery
 
-Midnight Bouquet - Lesly Clap
-Midnight Bouquet
-Released: Oct 19, 2026
-Featuring: Lesly Clap
-Director: Ron Offlin
-Rating: 9.3
+Unwind With Me - Clemence Audiard
+Unwind With Me
+Released: Oct 20, 2026
+Featuring: Clemence Audiard
+Director: Sandra Shine
+Rating: 9.1
 
 #--------------------------------------------------------------------------------------------------#
 #-- VivThomas / Gallery ---------------------------------------------------------------------------#
@@ -56,11 +50,6 @@ Rating: 9.3
 @type Gallery
 
 Perfect Present - Sofi Miel - Tanya Ray
-Perfect Present
-Released: Oct 19, 2026
-Featuring: Sofi Miel, Tanya Ray
-Director: Sandra Shine
-Rating: 8.7
 
 #--------------------------------------------------------------------------------------------------#
 #-- MetArt / Movie --------------------------------------------------------------------------------#
