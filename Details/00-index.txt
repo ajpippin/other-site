@@ -3,62 +3,69 @@
 #==================================================================================================#
 
 #--------------------------------------------------------------------------------------------------#
-#-- MetArt / Gallery ------------------------------------------------------------------------------#
+#-- Gallery ---------------------------------------------------------------------------------------#
 #--------------------------------------------------------------------------------------------------#
 
 @site MetArt
 @type Gallery
 
-Pretty Persuasion - Piper
-Pretty Persuasion
-Released: Oct 20, 2026
-Featuring: Piper
-Director: Matiss
-Rating: 9.5
-Simply Irresistible - Malena Amaro
-Simply Irresistible
-Released: Oct 20, 2026
-Featuring: Malena Amaro
-Director: David Ekmekci
+Pastel Pleasures - Lalli
+Pastel Pleasures
+Released: Oct 22, 2026
+Featuring: Lalli
+Director: Flora
 Rating: 9.6
-Sassy Surprise - Selena Soleil
-Sassy Surprise
-Released: Oct 20, 2026
-Featuring: Selena Soleil
-Director: Koenart
-Rating: 9.4
+Presenting Laila - Laila
+Presenting Laila
+Released: Oct 22, 2026
+Featuring: Laila
+Director: Tora Ness
+Rating: 9.3
+Crimson Confessions - Anna Vega
+Crimson Confessions
+Released: Oct 22, 2026
+Featuring: Anna Vega
+Director: Matiss
+Rating: 9.3
+Delicately Undressed - Liz Ocean
+Delicately Undressed
+Released: Oct 22, 2026
+Featuring: Liz Ocean
+Director: Tyler Beau
+Rating: 9.5
 
-#--------------------------------------------------------------------------------------------------#
-#-- SexArt / Gallery ------------------------------------------------------------------------------#
 #--------------------------------------------------------------------------------------------------#
 
 @site SexArt
 @type Gallery
 
-Unwind With Me - Clemence Audiard
-Unwind With Me
-Released: Oct 20, 2026
-Featuring: Clemence Audiard
-Director: Sandra Shine
-Rating: 9.1
+Softly Seductive - Valery Ponce
+Softly Seductive
+Released: Oct 22, 2026
+Featuring: Valery Ponce
+Director: Tyler Beau
+Rating: 9.7
 
-#--------------------------------------------------------------------------------------------------#
-#-- VivThomas / Gallery ---------------------------------------------------------------------------#
 #--------------------------------------------------------------------------------------------------#
 
 @site VivThomas
 @type Gallery
 
-Perfect Present - Sofi Miel - Tanya Ray
+Getting Impatient - Kate Quinn - Britney Dutch
+Getting Impatient
+Released: Oct 22, 2026
+Featuring: Kate Quinn, Britney Dutch
+Director: Sandra Shine
+Rating: 9.6
 
 #--------------------------------------------------------------------------------------------------#
-#-- MetArt / Movie --------------------------------------------------------------------------------#
+#-- Movie -----------------------------------------------------------------------------------------#
 #--------------------------------------------------------------------------------------------------#
 
 @site MetArt
 @type Movie
 
-Desert Temptation 2 - Bozhena
+Dialing Desire 2 - Elly Clutch
 
 #--------------------------------------------------------------------------------------------------#
 #-- SexArt / Movie --------------------------------------------------------------------------------#
@@ -67,7 +74,7 @@ Desert Temptation 2 - Bozhena
 @site SexArt
 @type Movie
 
-Kind Of Desire - Angelo Godshack - Rika Fane
+Artistic Intent - Lina Mercury - Brady Bud
 
 #--------------------------------------------------------------------------------------------------#
 #-- VivThomas / Movie -----------------------------------------------------------------------------#
@@ -76,7 +83,7 @@ Kind Of Desire - Angelo Godshack - Rika Fane
 @site VivThomas
 @type Movie
 
-Behind The Scenes: Sveltelana On Location - Sveltelana
+Morning Admiration - Isabella De Laa - Sofi Vega
 
 #--------------------------------------------------------------------------------------------------#
 #--------------------------------------------------------------------------------------------------#
