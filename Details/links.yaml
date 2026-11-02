@@ -19,6 +19,22 @@ schema:
       %tag3%
 
 links:
-  - title: %title%
+  - title: BABES - Anxious Young Lovers Athena Faris And Tyler Nixon Have Sex For The First Time In Hotel Suite
+    id: /link/pornhub/6a5622e9b0fa7
+    site: Pornhub
+    type: Link
+    models:
+      - name: Athena Faris
+        id: /model/pornhub/athena-faris
+        url: https://www.pornhub.com/pornstar/athena-faris
+        gender: female
+      - name: Tyler Nixon
+        id: /model/pornhub/tyler-nixon
+        url: https://www.pornhub.com/pornstar/tyler-nixon
+        gender: male
 
-    x: "https://www.pornhub.com/view_video.php?viewkey=6a5622e9b0fa7"
+
+  - title: Berlin Underground Bass LIVE 2026
+    url: 'https://www.youtube.com/watch?v=HbQeJ9VUk5k'
+    site: YouTube
+    type: Music
