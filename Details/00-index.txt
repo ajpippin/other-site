@@ -9,24 +9,30 @@
 @site MetArt
 @type Gallery
 
-Sweetheart Splash - Dominique
-Sweetheart Splash
-Released: Nov 03, 2026
-Featuring: Dominique
-Director: Koenart
+We Had a Moment 1 - Cherry Blossom
+We Had a Moment 1
+Released: Nov 04, 2026
+Featuring: Cherry Blossom
+Director: David Ekmekci
 Rating: 9.5
-Enchanted Escape - Sirena Milano
-Enchanted Escape
-Released: Nov 03, 2026
-Featuring: Sirena Milano
-Director: Matiss
+Timeless Appeal - Pearl
+Timeless Appeal
+Released: Nov 04, 2026
+Featuring: Pearl
+Director: Nudero
+Rating: 9.3
+Presenting Jenna Parker - Jenna Parker
+Presenting Jenna Parker
+Released: Nov 04, 2026
+Featuring: Jenna Parker
+Director: Cecelia
 Rating: 9.4
-Fruitful Fantasy - Eve Lunny
-Fruitful Fantasy
-Released: Nov 03, 2026
-Featuring: Eve Lunny
-Director: Arkisi
-Rating: 9.5
+Draped in Gold 1 - Amber Slassh
+Draped in Gold 1
+Released: Nov 04, 2026
+Featuring: Amber Slassh
+Director: James Allen
+Rating: 9.3
 
 #--------------------------------------------------------------------------------------------------#
 
@@ -34,11 +40,6 @@ Rating: 9.5
 @type Gallery
 
 Waiting For You - Audrey Sterling
-Waiting For You
-Released: Nov 03, 2026
-Featuring: Audrey Sterling
-Director: David Menich
-Rating: 9.6
 
 #--------------------------------------------------------------------------------------------------#
 
@@ -55,11 +56,6 @@ Just Between Us - Clemence Audiard - Bonney Curly
 @type Movie
 
 Lily Blossom Backstages - Lily Blossom
-Lily Blossom Backstages
-Released: Nov 03, 2026
-Featuring: Lily Blossom
-Director: Luca Helios
-Rating: 9.4
 
 #--------------------------------------------------------------------------------------------------#
 #-- SexArt / Movie --------------------------------------------------------------------------------#
@@ -68,7 +64,12 @@ Rating: 9.4
 @site SexArt
 @type Movie
 
-Our Time Only - Deny Lou - Lovita Fate
+Feather Touch - Matthew Meier - Nicky Ro
+Feather Touch
+Released: Nov 04, 2026
+Featuring: Matthew Meier, Nicky Ro
+Director: Andrej Lupin
+Rating: 8.6
 
 #--------------------------------------------------------------------------------------------------#
 #-- VivThomas / Movie -----------------------------------------------------------------------------#
@@ -78,11 +79,6 @@ Our Time Only - Deny Lou - Lovita Fate
 @type Movie
 
 Juicy Surprise - Valery Ponce - Chica Minori
-Juicy Surprise
-Released: Nov 03, 2026
-Featuring: Valery Ponce, Chica Minori
-Director: Sandra Shine
-Rating: 8.9
 
 #--------------------------------------------------------------------------------------------------#
 #--------------------------------------------------------------------------------------------------#
