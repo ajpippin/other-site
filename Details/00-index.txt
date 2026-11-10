@@ -9,49 +9,48 @@
 @site MetArt
 @type Gallery
 
-Smitten Kitten - Julia Morozzi
-Smitten Kitten
-Released: Nov 07, 2026
-Featuring: Julia Morozzi
-Director: David Ekmekci
-Rating: 9.5
-Scenic Exposure - Josephine Jane
-Scenic Exposure
-Released: Nov 07, 2026
-Featuring: Josephine Jane
-Director: Matiss
-Rating: 9.3
-Presenting Maisie - Maisie
-Presenting Maisie
-Released: Nov 07, 2026
-Featuring: Maisie
+Presenting Elena Kova - Elena Kova
+Presenting Elena Kova
+Released: Nov 10, 2026
+Featuring: Elena Kova
 Director: Koenart
+Rating: 9.6
+Bronze Ambition - Vanessa Alessia
+Bronze Ambition
+Released: Nov 10, 2026
+Featuring: Vanessa Alessia
+Director: David Menich
 Rating: 9.4
-Private Pleasures - Fedra
-Private Pleasures
-Released: Nov 07, 2026
-Featuring: Fedra
-Director: Seb Ole
-Rating: 9.2
+Making Waves - Vero Kai
+Making Waves
+Released: Nov 10, 2026
+Featuring: Vero Kai
+Director: Tony G
+Rating: 9.4
 
 #--------------------------------------------------------------------------------------------------#
 
 @site SexArt
 @type Gallery
 
-A Private Moment - Carolina Guerrero
-A Private Moment
-Released: Nov 07, 2026
-Featuring: Carolina Guerrero
-Director: Erro
-Rating: 9.7
+Skirting the Rules - Amalia Davis
+Skirting the Rules
+Released: Nov 10, 2026
+Featuring: Amalia Davis
+Director: James Allen
+Rating: 9.2
 
 #--------------------------------------------------------------------------------------------------#
 
 @site VivThomas
 @type Gallery
 
-Whispered Temptations - Amirah Adara - Bonnie Woods
+Love and Desire - Isabella De Laa - Jo
+Love and Desire
+Released: Nov 10, 2026
+Featuring: Isabella De Laa, Jo
+Director: Sandra Shine
+Rating: 8.8
 
 #--------------------------------------------------------------------------------------------------#
 #-- Movie -----------------------------------------------------------------------------------------#
@@ -60,7 +59,12 @@ Whispered Temptations - Amirah Adara - Bonnie Woods
 @site MetArt
 @type Movie
 
-Lily Blossom Backstages - Lily Blossom
+Mara Voss 2 - Mara Voss
+Mara Voss 2
+Released: Nov 10, 2026
+Featuring: Mara Voss
+Director: David Ekmekci
+Rating: 9.4
 
 #--------------------------------------------------------------------------------------------------#
 #-- SexArt / Movie --------------------------------------------------------------------------------#
@@ -69,7 +73,7 @@ Lily Blossom Backstages - Lily Blossom
 @site SexArt
 @type Movie
 
-The Silent Witness - Luna Roulette - Maya Rose
+Beyond The Threshold - Yeri Blue - Pixie Ray
 
 #--------------------------------------------------------------------------------------------------#
 #-- VivThomas / Movie -----------------------------------------------------------------------------#
