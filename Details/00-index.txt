@@ -9,24 +9,30 @@
 @site MetArt
 @type Gallery
 
-Presenting Elena Kova - Elena Kova
-Presenting Elena Kova
-Released: Nov 10, 2026
-Featuring: Elena Kova
-Director: Koenart
-Rating: 9.6
-Bronze Ambition - Vanessa Alessia
-Bronze Ambition
-Released: Nov 10, 2026
-Featuring: Vanessa Alessia
-Director: David Menich
-Rating: 9.4
-Making Waves - Vero Kai
-Making Waves
-Released: Nov 10, 2026
-Featuring: Vero Kai
-Director: Tony G
-Rating: 9.4
+Naughty Intentions - Azzurra Moretti
+Naughty Intentions
+Released: Nov 11, 2026
+Featuring: Azzurra Moretti
+Director: Leonardo
+Rating: 9.5
+Sweet Little Secret - Arisha Mills
+Sweet Little Secret
+Released: Nov 11, 2026
+Featuring: Arisha Mills
+Director: Cecelia
+Rating: 9.3
+Captivating Charm - Naty Evans
+Captivating Charm
+Released: Nov 11, 2026
+Featuring: Naty Evans
+Director: Nudero
+Rating: 9.2
+Denim Daydream - Dariana
+Denim Daydream
+Released: Nov 11, 2026
+Featuring: Dariana
+Director: Matiss
+Rating: 9.3
 
 #--------------------------------------------------------------------------------------------------#
 
@@ -34,11 +40,6 @@ Rating: 9.4
 @type Gallery
 
 Skirting the Rules - Amalia Davis
-Skirting the Rules
-Released: Nov 10, 2026
-Featuring: Amalia Davis
-Director: James Allen
-Rating: 9.2
 
 #--------------------------------------------------------------------------------------------------#
 
@@ -46,11 +47,6 @@ Rating: 9.2
 @type Gallery
 
 Love and Desire - Isabella De Laa - Jo
-Love and Desire
-Released: Nov 10, 2026
-Featuring: Isabella De Laa, Jo
-Director: Sandra Shine
-Rating: 8.8
 
 #--------------------------------------------------------------------------------------------------#
 #-- Movie -----------------------------------------------------------------------------------------#
@@ -60,11 +56,6 @@ Rating: 8.8
 @type Movie
 
 Mara Voss 2 - Mara Voss
-Mara Voss 2
-Released: Nov 10, 2026
-Featuring: Mara Voss
-Director: David Ekmekci
-Rating: 9.4
 
 #--------------------------------------------------------------------------------------------------#
 #-- SexArt / Movie --------------------------------------------------------------------------------#
@@ -73,7 +64,12 @@ Rating: 9.4
 @site SexArt
 @type Movie
 
-Beyond The Threshold - Yeri Blue - Pixie Ray
+Captivation - Brady Bud - Liz Ocean
+Captivation
+Released: Nov 11, 2026
+Featuring: Brady Bud, Liz Ocean
+Director: Andrej Lupin
+Rating: 9.6
 
 #--------------------------------------------------------------------------------------------------#
 #-- VivThomas / Movie -----------------------------------------------------------------------------#
