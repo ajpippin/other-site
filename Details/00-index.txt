@@ -9,49 +9,96 @@
 @site MetArt
 @type Gallery
 
-Kiss the Cook - Liby Nicole
-Kiss the Cook
-Released: Nov 12, 2026
-Featuring: Liby Nicole
+Mellow Yellow - Nata Ocean
+Mellow Yellow
+Released: Nov 15, 2026
+Featuring: Nata Ocean
 Director: Tora Ness
 Rating: 9.4
-A Tempting View - Kim Chee
-A Tempting View
-Released: Nov 12, 2026
-Featuring: Kim Chee
-Director: Robert Graham
+Presenting Annys - Annys
+Presenting Annys
+Released: Nov 15, 2026
+Featuring: Annys
+Director: Matiss
+Rating: 9.4
+Autumn Afterglow - Sumiko
+Autumn Afterglow
+Released: Nov 15, 2026
+Featuring: Sumiko
+Director: Marlene
 Rating: 9.3
-Sassy in Stilettos - Victoria Benz
-Sassy in Stilettos
-Released: Nov 12, 2026
-Featuring: Victoria Benz
-Director: Erro
+A Class Act - Monika May
+A Class Act
+Released: Nov 14, 2026
+Featuring: Monika May
+Director: David Ekmekci
+Rating: 9.5
+Comfort Zone - Luise
+Comfort Zone
+Released: Nov 14, 2026
+Featuring: Luise
+Director: Arkisi
+Rating: 9.6
+Flirtatious Poses - Milena Ray
+Flirtatious Poses
+Released: Nov 14, 2026
+Featuring: Milena Ray
+Director: Nudero
+Rating: 9.4
+Scarlet Script - Deena
+Scarlet Script
+Released: Nov 14, 2026
+Featuring: Deena
+Director: Koenart
+Rating: 9.3
+Copper Glow - Shelena
+Copper Glow
+Released: Nov 13, 2026
+Featuring: Shelena
+Director: Luca Helios
+Rating: 9.5
+Striped Delight - Mara Blake
+Striped Delight
+Released: Nov 13, 2026
+Featuring: Mara Blake
+Director: Karl Sirmi
+Rating: 9.6
+Flirty Forecast - Margunia
+Flirty Forecast
+Released: Nov 13, 2026
+Featuring: Margunia
+Director: Tony G
 Rating: 9.2
-Golden Goddess - Ariel Dawn
-Golden Goddess
-Released: Nov 12, 2026
-Featuring: Ariel Dawn
-Director: Julia Kalias
-Rating: 8.9
+Ultimate Crush - Viola Veber
+Ultimate Crush
+Released: Nov 13, 2026
+Featuring: Viola Veber
+Director: Matiss
+Rating: 9.4
 
 #--------------------------------------------------------------------------------------------------#
 
 @site SexArt
 @type Gallery
 
-The Centrepiece - Eola
-The Centrepiece
-Released: Nov 12, 2026
-Featuring: Eola
-Director: Marco
-Rating: 9.4
+Private Showing - Ingrid Noelle
+Private Showing
+Released: Nov 14, 2026
+Featuring: Ingrid Noelle
+Director: Matiss
+Rating: 9.1
 
 #--------------------------------------------------------------------------------------------------#
 
 @site VivThomas
 @type Gallery
 
-Love and Desire - Isabella De Laa - Jo
+Wild Side - Julia Morozzi
+Wild Side
+Released: Nov 14, 2026
+Featuring: Julia Morozzi
+Director: David Ekmekci
+Rating: 9.4
 
 #--------------------------------------------------------------------------------------------------#
 #-- Movie -----------------------------------------------------------------------------------------#
@@ -60,12 +107,12 @@ Love and Desire - Isabella De Laa - Jo
 @site MetArt
 @type Movie
 
-Caged - Lovita Fate
-Caged
-Released: Nov 12, 2026
-Featuring: Lovita Fate
-Director: John Chalk
-Rating: 9.1
+Sweet Little Berry 2 - Audrey Sterling
+Sweet Little Berry 2
+Released: Nov 15, 2026
+Featuring: Audrey Sterling
+Director: David Menich
+Rating: 9.3
 
 #--------------------------------------------------------------------------------------------------#
 #-- SexArt / Movie --------------------------------------------------------------------------------#
@@ -74,7 +121,18 @@ Rating: 9.1
 @site SexArt
 @type Movie
 
-Captivation - Brady Bud - Liz Ocean
+Sweet Disputes - Matthew Meier - Fiona Peaches
+Sweet Disputes
+Released: Nov 15, 2026
+Featuring: Matthew Meier, Fiona Peaches
+Director: Andrej Lupin
+Rating: 9.0
+All The Time We Need - Kubera Fortuna - Kristina Sunshine
+All The Time We Need
+Released: Nov 13, 2026
+Featuring: Kubera Fortuna, Kristina Sunshine
+Director: Andrej Lupin
+Rating: 9.3
 
 #--------------------------------------------------------------------------------------------------#
 #-- VivThomas / Movie -----------------------------------------------------------------------------#
@@ -84,11 +142,6 @@ Captivation - Brady Bud - Liz Ocean
 @type Movie
 
 Give Me Your Attention - Angelika Grays - Alice Xo
-Give Me Your Attention
-Released: Nov 12, 2026
-Featuring: Angelika Grays, Alice Xo
-Director: Sandra Shine
-Rating: 9.2
 
 #--------------------------------------------------------------------------------------------------#
 #--------------------------------------------------------------------------------------------------#
