@@ -9,96 +9,78 @@
 @site MetArt
 @type Gallery
 
-Mellow Yellow - Nata Ocean
-Mellow Yellow
-Released: Nov 15, 2026
-Featuring: Nata Ocean
-Director: Tora Ness
-Rating: 9.4
-Presenting Annys - Annys
-Presenting Annys
-Released: Nov 15, 2026
-Featuring: Annys
+Body Moves - Poppy
+Body Moves
+Released: Nov 17, 2026
+Featuring: Poppy
 Director: Matiss
-Rating: 9.4
-Autumn Afterglow - Sumiko
-Autumn Afterglow
-Released: Nov 15, 2026
-Featuring: Sumiko
-Director: Marlene
-Rating: 9.3
-A Class Act - Monika May
-A Class Act
-Released: Nov 14, 2026
-Featuring: Monika May
-Director: David Ekmekci
-Rating: 9.5
-Comfort Zone - Luise
-Comfort Zone
-Released: Nov 14, 2026
-Featuring: Luise
-Director: Arkisi
-Rating: 9.6
-Flirtatious Poses - Milena Ray
-Flirtatious Poses
-Released: Nov 14, 2026
-Featuring: Milena Ray
-Director: Nudero
-Rating: 9.4
-Scarlet Script - Deena
-Scarlet Script
-Released: Nov 14, 2026
-Featuring: Deena
-Director: Koenart
-Rating: 9.3
-Copper Glow - Shelena
-Copper Glow
-Released: Nov 13, 2026
-Featuring: Shelena
-Director: Luca Helios
-Rating: 9.5
-Striped Delight - Mara Blake
-Striped Delight
-Released: Nov 13, 2026
-Featuring: Mara Blake
-Director: Karl Sirmi
-Rating: 9.6
-Flirty Forecast - Margunia
-Flirty Forecast
-Released: Nov 13, 2026
-Featuring: Margunia
-Director: Tony G
 Rating: 9.2
-Ultimate Crush - Viola Veber
-Ultimate Crush
-Released: Nov 13, 2026
-Featuring: Viola Veber
-Director: Matiss
-Rating: 9.4
+Playful Intentions - Sasha Quinn
+Playful Intentions
+Released: Nov 17, 2026
+Featuring: Sasha Quinn
+Director: Koenart
+Rating: 9.5
+Self Indulgence - Sofia Rivers
+Self Indulgence
+Released: Nov 17, 2026
+Featuring: Sofia Rivers
+Director: Sandra Shine
+Rating: 9.2
+Silky Situation - Asandra Dewy
+Silky Situation
+Released: Nov 16, 2026
+Featuring: Asandra Dewy
+Director: Erro
+Rating: 9.5
+Tulip Twist - Vilena
+Tulip Twist
+Released: Nov 16, 2026
+Featuring: Vilena
+Director: Flora
+Rating: 9.3
+Dark and Daring - Amelia Riven
+Dark and Daring
+Released: Nov 16, 2026
+Featuring: Amelia Riven
+Director: Robert Graham
+Rating: 9.2
+Pretty Little Bows - Novella Night
+Pretty Little Bows
+Released: Nov 16, 2026
+Featuring: Novella Night
+Director: Nudero
+Rating: 9.3
 
 #--------------------------------------------------------------------------------------------------#
 
 @site SexArt
 @type Gallery
 
-Private Showing - Ingrid Noelle
-Private Showing
-Released: Nov 14, 2026
-Featuring: Ingrid Noelle
-Director: Matiss
-Rating: 9.1
+Main Attraction - Rose Sarinz
+Main Attraction
+Released: Nov 17, 2026
+Featuring: Rose Sarinz
+Director: Robert Graham
+Rating: 9.4
+Sitting Pretty - Elli Milli
+Sitting Pretty
+Released: Nov 16, 2026
+Featuring: Elli Milli
+Director: Nudero
+Rating: 9.2
 
 #--------------------------------------------------------------------------------------------------#
 
 @site VivThomas
 @type Gallery
 
-Wild Side - Julia Morozzi
-Wild Side
-Released: Nov 14, 2026
-Featuring: Julia Morozzi
-Director: David Ekmekci
-Rating: 9.4
+Colour Of Desire - Liv Lauren - Zazie S
+Colour Of Desire
+Released: Nov 16, 2026
+Featuring: Liv Lauren, Zazie S
+Director: Sandra Shine
+Rating: 9.1
 
 #--------------------------------------------------------------------------------------------------#
 #-- Movie -----------------------------------------------------------------------------------------#
@@ -107,11 +89,11 @@ Rating: 9.4
 @site MetArt
 @type Movie
 
-Sweet Little Berry 2 - Audrey Sterling
-Sweet Little Berry 2
-Released: Nov 15, 2026
-Featuring: Audrey Sterling
-Director: David Menich
+Power Cycle 2 - Lucy Dumas
+Power Cycle 2
+Released: Nov 17, 2026
+Featuring: Lucy Dumas
+Director: James Allen
 Rating: 9.3
 
 #--------------------------------------------------------------------------------------------------#
@@ -122,17 +104,6 @@ Rating: 9.3
 @type Movie
 
 Sweet Disputes - Matthew Meier - Fiona Peaches
-Sweet Disputes
-Released: Nov 15, 2026
-Featuring: Matthew Meier, Fiona Peaches
-Director: Andrej Lupin
-Rating: 9.0
-All The Time We Need - Kubera Fortuna - Kristina Sunshine
-All The Time We Need
-Released: Nov 13, 2026
-Featuring: Kubera Fortuna, Kristina Sunshine
-Director: Andrej Lupin
-Rating: 9.3
 
 #--------------------------------------------------------------------------------------------------#
 #-- VivThomas / Movie -----------------------------------------------------------------------------#
@@ -141,7 +112,12 @@ Rating: 9.3
 @site VivThomas
 @type Movie
 
-Give Me Your Attention - Angelika Grays - Alice Xo
+Home Office Heat Episode 2 - Tanya Ray - Sofi Miel
+Home Office Heat Episode 2
+Released: Nov 17, 2026
+Featuring: Tanya Ray, Sofi Miel
+Director: Sandra Shine
+Rating: 9.5
 
 #--------------------------------------------------------------------------------------------------#
 #--------------------------------------------------------------------------------------------------#
