@@ -9,29 +9,23 @@
 @site MetArt
 @type Gallery
 
-Hidden in Paradise - Sara Celeste
-Hidden in Paradise
-Released: Nov 21, 2026
-Featuring: Sara Celeste
-Director: Arkisi
-Rating: 9.5
-Gorgeous Glow - Malena Amaro
-Gorgeous Glow
-Released: Nov 21, 2026
-Featuring: Malena Amaro
-Director: Marco
-Rating: 9.6
-Pink and Provocative - Ingrid Noelle
-Pink and Provocative
-Released: Nov 21, 2026
-Featuring: Ingrid Noelle
-Director: Matiss
-Rating: 9.3
-Curvaceous Cutie - Maggie Jane
-Curvaceous Cutie
-Released: Nov 21, 2026
-Featuring: Maggie Jane
-Director: Matiss
+Forbidden Flirt - Lilly Mays
+Forbidden Flirt
+Released: Nov 22, 2026
+Featuring: Lilly Mays
+Director: David Menich
+Rating: 9.4
+Kissable in Cobalt - Mai Bloom
+Kissable in Cobalt
+Released: Nov 22, 2026
+Featuring: Mai Bloom
+Director: Robert Graham
+Rating: 9.1
+Sultry Reflection - Marceline
+Sultry Reflection
+Released: Nov 22, 2026
+Featuring: Marceline
+Director: Fabrice
 Rating: 9.3
 
 #--------------------------------------------------------------------------------------------------#
@@ -40,18 +34,18 @@ Rating: 9.3
 @type Gallery
 
 Late Night Plans - Kate Quinn
-Late Night Plans
-Released: Nov 21, 2026
-Featuring: Kate Quinn
-Director: Sandra Shine
-Rating: 9.5
 
 #--------------------------------------------------------------------------------------------------#
 
 @site VivThomas
 @type Gallery
 
-Sitting Pretty - Milan Cheek - Vixi Rafi
+Easy Rider - Betty Lang
+Easy Rider
+Released: Nov 22, 2026
+Featuring: Betty Lang
+Director: David Ekmekci
+Rating: 9.3
 
 #--------------------------------------------------------------------------------------------------#
 #-- Movie -----------------------------------------------------------------------------------------#
@@ -60,7 +54,12 @@ Sitting Pretty - Milan Cheek - Vixi Rafi
 @site MetArt
 @type Movie
 
-Power Cycle 2 - Lucy Dumas
+Unveiling 2 - Alice Mido
+Unveiling 2
+Released: Nov 22, 2026
+Featuring: Alice Mido
+Director: Nudero
+Rating: 9.7
 
 #--------------------------------------------------------------------------------------------------#
 #-- SexArt / Movie --------------------------------------------------------------------------------#
@@ -69,7 +68,12 @@ Power Cycle 2 - Lucy Dumas
 @site SexArt
 @type Movie
 
-The Language Of Skin - Bonney Curly - Isabella De Laa
+Something About Us - Matty - Brady Bud
+Something About Us
+Released: Nov 22, 2026
+Featuring: Matty, Brady Bud
+Director: Andrej Lupin
+Rating: 9.1
 
 #--------------------------------------------------------------------------------------------------#
 #-- VivThomas / Movie -----------------------------------------------------------------------------#
